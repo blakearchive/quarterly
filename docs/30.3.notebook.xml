@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>30.3.notebook</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake’s Notebook Facsimile Available</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1996/7</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996/97</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">30.3</biblScope>
+            <biblScope unit="volume">30</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Hilda Hollis</name>
+              <name>Marc Kaplan</name>
+              <name>Deborah McCollister</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996/97"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_30">
+    <body>
+      <div1 id="BQ-30-3-0008">
+      	<pb id="p30-95" n="95"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake’s Notebook Facsimile Available</hi>
+            </title>
+          </head>
+          <p>Edward Hamilton Bookseller in Falls Village CT 06031-5000 (whole address) is
+                        selling remaindered copies of the hardback edition of Blake’s
+                        Notebook (ed. David V. Erdman and Donald K. Moore) for $13.95 plus $3.00
+                        shipping (no matter how many you order the total shipping charge is $3.00)
+                        (no tax except in CT). The stock number required is 062839. Checks only; no
+                        orders by phone/credit card.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

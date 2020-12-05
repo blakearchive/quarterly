@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.4</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <name>Barbara Guth</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Adelheid M. Atkins</name>
+              <name>David Bindman</name>
+              <name>V.A. De Luca</name>
+              <name>Ruth E. Fine</name>
+              <name>Thomas V. Lange</name>
+              <name>Morton D. Paley</name>
+              <name>John Wilcox</name>
+              <name>Carl Woodring</name>
+              <name>Warren Keith Wright</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <front>
+      <pb id="p16-189-190" n="189-190"/>
+      <div1 id="cover">
+        <figure n="cover.016.04.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            64<lb/>
+            VOLUME 16<lb/>
+            NUMBER 4<lb/>
+            SPRING 1983</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-16-4-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.deluca">The Changing Order of Plates in 
+<hi rend="i">Jerusalem</hi>, Chapter
+                            II</ref> by V. A. De Luca</cell>
+            <cell>192</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.atkins">“Both Turk and Jew”: Notes on the Poetry of
+Henry
+                            Fuseli; with Some Translations</ref> by A. M. Atkins</cell>
+            <cell>206</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.lange">Two Forged Plates in <hi rend="i">America</hi>, Copy
+B</ref> by Thomas V.
+                            Lange</cell>
+            <cell>212</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.viscomi">Facsimile or Forgery? An Examination of 
+<hi rend="i">America</hi>,
+                            Plates 4 and 9, Copy B</ref> by Joseph Viscomi</cell>
+            <cell>219</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="16.4.bindman">An Afterword on: <hi rend="i">William Blake: His
+Art and Times</hi></ref></corr> by
+                            David Bindman</cell>
+            <cell>224</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.wright">The Scholars &amp; A Grain of Sand</ref> by Warren
+Keith Wright</cell>
+            <cell>225</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.fine">David Bindman, <hi rend="i">William Blake: His Art and
+Times</hi></ref>,
+                            reviewed by Ruth E. Fine</cell>
+            <cell>226</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.woodring">Marilyn Butler, <hi rend="i">Romantics, Rebels and
+Reactionaries:
+                                English Literature and its Background 1760-1830</hi></ref>, reviewed by
+                            Carl Woodring</cell>
+            <cell>232</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.paley">Geoffrey Keynes, <hi rend="i">The Gates of
+Memory</hi></ref>, reviewed by
+                            Morton D. Paley</cell>
+            <cell>233</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.4.wilcox">Howard T. Young, <hi rend="i">The Line in the
+Margin: Juan Ramon
+                                Jimenez and His Readings in Blake, Shelley, and Yeats</hi></ref>, reviewed
+                            by John Wilcox</cell>
+            <cell>235</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-16-4-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">ADELHEID M. ATKINS</hi>, born in Vienna, Austria, emigrated to the
+                    United States in 1948. She received her Ph.D. in Comparative Literature from the
+                    University of South Carolina and is teaching in the Department of Languages and
+                    Literature at Augusta College, Augusta, Georgia.</p>
+        <p><hi rend="b">DAVID BINDMAN</hi>, Reader in History of Art, Westfield College,
+                    University of London, is the author of <hi rend="i">Blake as an Artist</hi>
+                    (1977) and <hi rend="i">William Blake: His Art and Times</hi>, catalogue of the
+                    recent Blake exhibition at Yale and Toronto.</p>
+        <p><hi rend="b">V. A. DE LUCA</hi> is Professor of English at the University of
+                    Toronto. He is the author of <hi rend="i">Thomas De Quincey: The Prose of
+                        Vision</hi> and is a co-editor of the forthcoming <hi rend="i">Oxford
+                        Anthology of Poetry in English.</hi></p>
+        <p><hi rend="b">RUTH E. FINE</hi> is a curator in the Department of Graphic Arts at
+                    the National Gallery of Art, Washington, D.C. From 1970-1980 she was curator of
+                    Alverthorpe Gallery which housed the Lessing J. Rosenwald Collection (now
+                    divided between the National Gallery and the Library of Congress). In 1975 she
+                    compiled a checklist of the Blake material in that collection (<hi rend="i">Blake
+Newsletter</hi>, 35).</p>
+        <p><hi rend="b">THOMAS V. LANGE</hi> is Assistant Curator of Rare Books at the
+                    Huntington Library.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi> was a friend of Sir Geoffrey Keynes.</p>
+        <p><hi rend="b">JOHN WILCOX</hi> is an Assistant Professor of Spanish at the
+                    University of Illinois (Urbana), where he specializes in twentieth-century
+                    Spanish Peninsular poetry, especially that of Juan Ramon Jimenez. His
+                    publications include studies of Jimenez’s readings in English and North
+                    American poets and writers.</p>
+        <p><hi rend="b">CARL WOODRING</hi>, George Edward Woodberry Professor of Literature
+                    at Columbia University, has written on nineteenth-century authors and a few
+                    others. He is the editor of <hi rend="i">Table Talk</hi> in the <hi rend="i">Collected
+Coleridge.</hi></p>
+        <p><hi rend="b">WARREN KEITH WRIGHT</hi> took his MA in English at the University of
+                    Michigan in 1980, the same year Clover Press published his first collection of
+                    poetry, <hi rend="i">Orchards.</hi> For 6 ½ years he served on the
+                    editorial panel of <hi rend="i">Green’s Magazine</hi> in Detroit. At
+                    present he is finishing a novel set in the mid-South.</p>
+        <p><hi rend="b">JOSEPH VISCOMI</hi>, Assistant Professor of English and Humanities
+                    at Virginia Polytechnic Institute, is also a printmaker and a Mellon Fellow at
+                    Cornell. He is finishing a book on Blake and the idea of the book. 
+<note type="unreferenced" place="footer">© 1983 by Morris Eaves and Morton
+                        D. Paley</note></p>
+      </div1>
+      <pb id="p16-191" n="191"/>
+      <div1 id="BQ-16-4-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, Univ. of New Mexico, and Morton D.
+                    Paley, Univ. of Calif, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State Univ.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant
+                    Curator, Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English,
+                    University of New Mexico, Albuquerque NM 87131, <hi rend="b">Telephone</hi>
+                    505/277-3103.<lb/>
+ Morton D. Paley, Department of English, University of
+                    California, Berkeley, CA 94720.<lb/>
+ Thomas L. Minnick, University College, Ohio
+                    State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+ Nelson Hilton,
+                    Department of English, University of Georgia, Athens, GA 30602.<lb/>
+ Frances A.
+                    Carey, Department of Prints and Drawings British Museum, Great Russell Street,
+                    London WC1B 3DG, England.</p>
+        <figure n="AlbionsAngel.16.4.bqscan" rend="file" width="250" height="311"></figure>
+      </div1>
+      <div1 id="BQ-16-4-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editorial Assistants in charge:</hi> Marcy Erickson, Susan Corban,
+                    Univ. of New Mexico. <hi rend="b">Editorial Assistants:</hi> Peter Chase, Leslie
+                    Donovan, Barbara Guth, Univ. of New Mexico.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the
+                    sponsorship of the Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $15.00 for 1 year, 1 volume (4 issues).
+                    Special rates for individuals, $12.00 for 1 year surface mail subscriptions. Air
+                    mail subscriptions are $10.00 more than surface mail subscriptions. U.S.
+                    currency or international money order if possible. Make checks payable to 
+<hi rend="i">Blake / An Illustrated Quarterly.</hi> Address all subscription
+                    orders and related communications to Marcy Erickson, <hi rend="i">Blake</hi>,
+                    Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Some <hi rend="b">back issues</hi> are available. Address Marcy Erickson for a
+                    list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented
+                    according to the forms suggested in the MLA Style Sheet, 2nd. ed., to either of
+                    the editors: Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque,
+                    NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA
+                    94720.</p>
+        <p><hi rend="b">International Serial Number</hi> is 0006-453x. <hi rend="i">Blake /
+                        An Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern
+                    Language Association’s International Bibliography, the Modern Humanities
+                    Research Association’s Annual Bibliography of English Language and
+                    Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic
+                    Bibliography, <hi rend="b">ART</hi>bibliographies <hi rend="b">MODERN</hi>,
+                    American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <figure n="Angel.16.4.bqscan" rend="file" width="250" height="186"></figure>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p16-240" n="240"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">Anthony Blunt<lb/>
+    			1907–1983</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

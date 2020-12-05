@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.2.scruz</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Santa Cruz Conference: Blake &amp; Criticism</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.2</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Peter Davidson</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Anthony J. Harding</name>
+              <name>David Sten Herrstrom</name>
+              <name>Nelson Hilton</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>James A. Winn</name>
+              <name>Michael C. Young</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <pb id="p15-103" n="103"/>
+      <div1 id="BQ-15-2-0011">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">SANTA CRUZ CONFERENCE: BLAKE &amp; CRITICISM</hi>
+            </title>
+          </head>
+          <p>The National Endowment for the Humanities has approved funding for the conference, which the
+sponsors hope will bring into the open the collision between Blake studies and the concerns, values, and
+strategies of contemporary critical theory. Ever more perceived as a key document at the origins of
+post-modern consciousness, Blake’s work arguably anticipates and contests many contemporary and often
+anti-humanistic critical formulations. The conference will focus on the profound role Blake’s work has to
+play in any new organization and interpretation of humanistic studies. The conference will be held 21 and 22
+May 1982 at the campus of the University of California, Santa Cruz. Detailed information concerning the
+program will appear in the next issue of <hi rend="i">Blake</hi> and will also be available from The
+Conference on Blake and Criticism, Literature Board, Kresge College, UCSC, Santa Cruz, CA 95064.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

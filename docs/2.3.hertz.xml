@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.hertz</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="discussion">Suggestion in connection with previous discussion of “The Little
+Boy Found”</title>
+				<author n="Hertz">Niels Christian Hertz</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-3-0004">
+                <div2>
+                    <div3>
+                        <pb id="p02-54" n="54"/>
+                        <p>[In connection with previous discussion of “The Little Boy Found” in the 
+<hi rend="i">Newsletter</hi> (#2, 7-9; #3, 17-18; #6, 29-32), we have an interesting suggestion from Mr. Niels
+Christian Hertz, who is writing a dissertation on <hi rend="i">The Gates of Paradise</hi> at the University of
+Copenhagen. Mr. Hertz writes “I thought it might be relevant in connection with ‘the nightgowned adult’ to
+mention a passage in Rev. i. 13 describing ‘one like unto the Son of man, clothed with a garment down to the
+foot, and girt about the paps with a golden girdle.’”]</p>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

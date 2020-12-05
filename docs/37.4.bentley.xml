@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>37.4.bentley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Blake Records, Second Edition</title>
+        <author n="Bentley">G. E. Bentley, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 2004</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2004</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">37.4</biblScope>
+            <biblScope unit="volume">37</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Robert W. Rix</name>
+              <name>Nancy Moore Goslee</name>
+              <name>Daniel Gustav Anderson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2004"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_37">
+    <body>
+      <pb id="p37-151" n="151"/>
+      <div1 id="BQ-37-4-0008">
+        <head>
+          <title type="section">CORRIGENDA &amp; ADDENDA</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">Blake Records</hi>, Second Edition</title>
+          </head>
+          <byline>By <docAuthor>G. E. <name>Bentley</name>, Jr.</docAuthor></byline>
+          <p>A number of corrigenda and addenda to the second edition of <hi rend="i">Blake Records</hi> (Yale
+UP, 2004) were noticed too late to be incorporated in the book—indeed, though I did not know it, the text
+had already been printed (5 December 2003), though the index was only then being set in type and the dust
+jacket had not even been seen in proof. It may be useful, therefore, to record the corrigenda and addenda
+here:</p>
+          <p>P. ix: Before “Between pages . . .” add:
+<q><hi rend="i">End-papers</hi>: The end-papers are Blake’s engraving of The Canterbury Pilgrims (1810),
+Second State (35.6 × 97.05 cm, Fitzwilliam Museum) tinted, probably by Blake, to conform to his tempera.
+</q></p>
+          <p>P. 263: Add footnote to “and ‘Blake’”:
+<q>
+Hunt made amends by listing Blake among “Eminent Living Artists” in <hi rend="i">The Literary Pocket Book,
+Or, A Companion to the Lover of Nature and Art 1819</hi> [ed. Leigh Hunt] (London: C. &amp; J. Ollier, 1818),
+I, 167 (“Blake, W. Poetry”); . . . <hi rend="i">1820</hi> (1819), II, 169 (“Blake, W. Poetical
+Subjects”); . . . <hi rend="i">1822</hi> (1821), IV, 156 (“Blake, W. Visions”—and under Line Engravers
+as “Blake, W.”); and . . . <hi rend="i">1823</hi> (1822), V, 148 (“Blake, W. Visions”).
+</q></p>
+          <p>P. 295: Add to first footnote (*):
+<q>
+As “The Ancient Britons” was exhibited in a room only 8′ 5″ high, its dimensions may have been c. 8′
+× 12′.
+</q></p>
+          <p>P. 295: Add:
+<q>
+Louis Schiavonetti wrote to the publishers Messrs Cadell &amp; Davies on 30 January 1810 discussing an
+engraving commission and referred in passing to “Blake’s Portrait for Mr. Cromek”<supplied
+type="spacer"> </supplied><ref target="n37" type="note">1</ref> which he had engraved for Blair’s 
+<hi rend="i">Grave</hi> (1808). <note id="n37">1. According to R. N. Essick, “Blake in the Marketplace, 2003,”
+<hi rend="i">Blake</hi> 37.4 (spring 2004): 126. The letter was offered privately to him by the dealer Nick
+Lott in May 2003.</note></q></p>
+          <p>P. 736, 1. 5: To the date of “<hi rend="i">The Post-Office Annual Directory</hi> (1812)” add:
+<q>
+“1809,”
+</q></p>
+          <p>P. 739, 1. 12: Delete “opening on Broad Street.”</p>
+          <p>P. 739fn (*): Instead of “One of the rooms was large enough for Blake’s ‘Ancient
+Britons’, fourteen by ten feet, to be exhibited in—see 1809-10” read:
+<q>
+The dimensions of the rooms, with ceilings 8′ 5″ high, and the arrangement of the pictures in Blake’s
+exhibition (1809) are deduced persuasively if not conclusively by Troy RC Patenaude, “‘The glory of a
+Nation’: Recovering William Blake’s 1809 exhibition”, <hi rend="i">British Art Journal</hi>, IV (2003),
+52-63.
+</q></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

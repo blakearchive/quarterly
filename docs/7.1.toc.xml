@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.1</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <front>
+            <pb id="p07-2-3" n="1-3"/>
+            <div1 id="cover">
+                <figure n="cover.007.01.bqscan" rend="file" width="258" height="333">
+                    <figTranscr>BLAKE NEWSLETTER 25<lb/>
+                    AN ILLUSTRATED QUARTERLY<lb/>
+                    VOL. 7<lb/>
+                    NO. 1<lb/>
+                    SUMMER 1973</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-07-1-0001">
+                <table id="contents" rows="12" cols="2">
+                	<row>
+            			<cell colspan="3">
+                			<head>
+                    			<title>
+                        		<supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    			</title>
+               				</head>
+            			</cell>
+        			</row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Notes</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Martin Butlin, <ref type="article" issue="7.1.butlin">Five Blakes from a
+Nineteenth-Century Scottish Collection</ref></cell>
+                        <cell>4</cell>
+                    </row>
+                    <row>
+                        <cell>Geoffrey Keynes, <ref type="article" issue="7.1.keynes">William Blake and
+Bart’s</ref></cell>
+                        <cell>9</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Checklist</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="7.1.checklist">A Checklist of Recent Blake
+Scholarship, August 1972-September 1973, </ref>compiled by Gregory Candela, Marta Field, and Foster
+Foreman</cell>
+                        <cell>11</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Reviews</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="7.1.paley">BBC Blake: Morton D. Paley on two BBC
+films, <hi rend="i">Tyger, Tyger</hi> and <hi rend="i">William Blake</hi></ref>
+                        </cell>
+                        <cell>16</cell>
+                    </row>
+                    <row>
+                        <cell>Francis Wood Metcalf on <corr type="emend"><ref type="article"
+issue="7.1.metcalf">the Brown University Press-New York Public Library facsimile of <hi rend="i">The Book of
+Thel</hi> edited by Nancy <corr type="emend" rend="plain">Bogen</corr></ref></corr></cell>
+                        <cell>17</cell>
+                    </row>
+                    <row>
+                        <cell>Deirdre Toomey on <ref type="article" issue="7.1.toomey">the first volume of 
+<hi rend="i">William Blake: Book Illustrator</hi> by Roger R. Easson and Robert N. Essick</ref></cell>
+                        <cell>19</cell>
+                    </row>
+                    <row>
+                        <cell>Morris Eaves on <ref type="article" issue="7.1.eaves">the York University
+videotapes about <hi rend="i">America</hi> and <hi rend="i">Visions of the Daughters of Albion</hi> produced
+and directed by Janet Warner, John Sutherland, and Robert Wallace</ref></cell>
+                        <cell>20</cell>
+                    </row>
+                    <row>
+                        <cell>Katharine M. Briggs on <ref type="article" issue="7.1.briggs"><hi rend="i">The
+Sports of Cruelty: Fairies, Folk-songs, Charms, and Other Country Matters in the Work of William Blake</hi> by
+John Adlard</ref></cell>
+                        <cell>22</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright ©1974 by Morton D. Paley and Morris
+Eaves</note>
+                <p>Published quarterly under the sponsorship of the Department of English of the University of
+New Mexico. Support for bibliographical assistance provided by the University of California, Berkeley.</p>
+                <p>Morton D. Paley, <hi rend="i">Executive Editor</hi>, University of California,
+Berkeley.</p>
+                <p>Morris Eaves, <hi rend="i">Managing Editor</hi>, University of New Mexico.</p>
+                <p>Michael Phillips, <hi rend="i">Associate Editor</hi>, University of Edinburgh.</p>
+                <p>Michael Davies and Judith Wallick Page, <hi rend="i">Editorial Assistants for
+Production</hi>, University of New Mexico.</p>
+                <p>Graham Conley, <hi rend="i">Editorial Assistant for Subscriptions</hi>, University of New
+Mexico.</p>
+                <p>Foster Foreman, <hi rend="i">Bibliographer</hi>, University of California, Berkeley.</p>
+                <p>Manuscripts are welcome. Send two copies either to Morton Paley, Dept. of English, Univ. of
+California, Berkeley, Ca. 94720, or to Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, N.M.
+87131.</p>
+                <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4 for one
+year, surface mail; for those overseas who want to receive their issues by air mail, $8. U.S. currency if
+possible. Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address all subscription orders and
+related communications to Morris Eaves, Managing Editor.</p>
+                <p>Some back issues are available. Address Morris Eaves, Managing Editor. Prices: whole
+numbers 14, 15, and 21, $2 each. Whole numbers 17-18 (combined issue containing Robert Essick’s 
+<hi rend="i">Finding List of Reproductions of Blake’s Art</hi>, 160 pages), $5. Whole number 20 (<hi rend="i">A
+Handlist of Works by William Blake in the Department of Prints &amp; Drawings of the British Museum</hi>,
+edited by G. E. Bentley, Jr.), $3.</p>
+                <p>The ISSN (International Standard Serial Number) of the <hi rend="i">Blake Newsletter</hi>
+is 0006-453X.</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

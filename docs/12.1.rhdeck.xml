@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.1.rhdeck</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Another Early Printing of Blake’s “Night”</title>
+                <author n="Deck">Raymond H. Deck, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1978</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.1</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Lynn Goldstein</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Shelley Grieve</name>
+                            <name>Kris Lackey</name>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Mary Clarke</name>
+                            <name>Raymond H. Deck, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Ruth E. Fine</name>
+                            <name>Frank Graziano</name>
+                            <name>Jean H. Hagstrum</name>
+                            <name>Gunnar Harding</name>
+                            <name>Christopher Heppner</name>
+                            <name>Joe Napora</name>
+                            <name>Martin K. Numri</name>
+                            <name>Morton D. Paley</name>
+                            <name>R. W. Peattie</name>
+                            <name>Marcia Tillotson</name>
+                            <name>Gunnel Tottie</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date value="1978"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <div1 id="BQ-12-1-0012">
+                <pb id="p12-69" n="69"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">ANOTHER EARLY PRINTING OF BLAKE’S
+                                “NIGHT”</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor><hi rend="b">Raymond H. </hi><name><hi rend="b">Deck</hi></name>, 
+<hi rend="b">Jr.</hi>
+                        </docAuthor>
+                    </byline>
+                    <p>Blake’s “Night” from <hi rend="i">Innocence</hi> appeared in
+                        the <hi rend="i">New Church Advocate</hi> for 16 May 1843 (1, no. 26, 208).
+                        I should have noticed this printing in preparing my article, “New Light
+                        on C. A. Tulk, Blake’s Nineteenth-Century Patron” (<hi rend="i">Studies in
+Romanticism</hi>, 16 [1977], 217-36), which included
+                        discussion of Tulk’s responsibility for the insertion of
+                        Blake’s “The Divine Image” in the <hi rend="i">New Church
+                            Advocate</hi> for 1 December 1844. My arguments about Tulk’s role
+                        in the publication of “The Divine Image” apply equally about the
+                        probability that he was responsible for the insertion of Blake’s
+                        “Night” more than a year earlier. The text of Blake’s
+                        “Night” in the <hi rend="i">New Church Advocate</hi> is followed
+                        by the citation, “<hi rend="i">Blake’s Songs of
+                        Innocence</hi>” and, most notably, differs in more than a half dozen
+                        particulars of punctuation and spelling from that given by J. J. Garth
+                        Wilkinson in his 1839 edition of the <hi rend="i">Songs</hi>, thus
+                        suggesting that the text of Blake’s “Night” was provided by
+                        someone who, like Tulk, had access to one of Blake’s original
+                        copies.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

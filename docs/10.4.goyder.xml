@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.4.goyder</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">An Unpublished Poem about Blake by William Bell Scott</title>
+        <author n="Goyder">George Goyder</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.4</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Brad Hayden</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Tom Dargan</name>
+              <name>Raymond H. Deck, Jr.</name>
+              <name>George Goyder</name>
+              <name>Mary Lynn Johnson-Grant</name>
+              <name>Christopher Heppner</name>
+              <name>Edward Terry Jones</name>
+              <name>Martin K. Nurmi</name>
+              <name>Mary Ellen Reisner</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Harry White</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-4-0004">
+        <pb id="p10-125" n="125"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">AN UNPUBLISHED POEM ABOUT BLAKE BY WILLIAM BELL SCOTT</hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor>
+              <hi rend="b">GEORGE</hi>
+              <name>
+                <hi rend="b">GOYDER</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>My copy of the 1808 quarto edition of Blair’s <hi rend="i">Grave</hi><supplied type="spacer"> </supplied><ref target="n63" type="note">1</ref> is the original subscriber’s copy which belonged to Robert
+Scott, father of William Bell Scott. It contains the bookplate of William Bell Scott, his signature on the
+title-page dated 5 March 1849, and a poem inserted at the end in MS. The text is as follows:
+<q>
+On seeing again after many years<lb/>
+William Blake’s designs for ‘the Grave’<lb/>
+<lb/>
+There was a time before the chick could fly<lb/>
+But still was screened by the maternal wing<lb/>
+I looked on these with awe, they were a spring<lb/>
+Of marvels: had not God on high<lb/>
+Shown innocent William what it is to die,<lb/>
+And made him paint the raptures of the pain,—<lb/>
+Body, soul parting but to meet again,<lb/>
+The truths concealed within futurity?<lb/>
+<lb/>
+And now that years have shriven and tonsured me<lb/>
+When labouring much in various fields have filled<lb/>
+The tablets of my brain, these pictures burn<lb/>
+With their old fires by whose light still I see<lb/>
+An inspiration, in art littlest skilled<supplied type="spacer"> </supplied><ref target="n64"
+type="note">2</ref>—<lb/>
+My soul leaps up, my childhood’s awes return. 
+						</q>
+W. B. S. <note id="n63"><hi rend="s">1</hi> Several of the pages are watermarked J. S. Whatman 1807; others
+are 1808. One of the engravings is of the 1807 watermark. The copy is in original cloth with leather edges and
+back.</note>
+	<note id="n64"><hi rend="s">2</hi> First written, “An inspiration, not mere handwork skilled,” then “An
+inspiration, in art that littlest skilled”; “that” was then deleted.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

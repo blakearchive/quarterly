@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>19.4.butlin</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">Connoisseurship and the Palmer Fakes</title>
+        <author n="Butlin">Martin Butlin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">19.4</biblScope>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Greg Crossan</name>
+              <name>Robert F. Gleckner</name>
+              <name>David Groves</name>
+              <name>Bo Ossian Lindberg</name>
+              <name>Warren Stevenson</name>
+              <name>Anne Williams</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_19">
+    <body>
+      <div1 id="BQ-19-4-0008">
+      	<pb id="p19-155" n="155"/>
+        <head>
+          <title type="section"><hi rend="b"><hi rend="i">DISCUSSION</hi></hi></title>
+          <title type="section-subtitle"><hi rend="i">with intellectual spears &amp; long winged arrows of
+thought</hi></title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Connoisseurship and the Palmer Fakes</title>
+          </head>
+          <byline>
+            <docAuthor>Martin <name>Butlin</name></docAuthor>
+          </byline>
+          <p>Raymond Lister, in his review of publications on Blake and his followers, particularly Samuel
+Palmer, in the fall 1985 issue of <hi rend="i">Blake</hi> (p. 80), has chosen to repeat his accusation that I
+said of Keating’s fake Palmers that there was “a considerable case for their being by the artist.” The
+last time he said something of this kind, in his <hi rend="i">The Paintings of Samuel Palmer</hi> (Cambridge
+University Press, 1985), he did at least include the vital words, “was reported by <hi rend="i">The
+Times</hi> as saying. . . .” This time he merely gives a reference to <hi rend="i">The Times</hi> of 16 July
+1976, leaving the reader, by his use of quotation marks, to assume that this is a verbatim transcript of my
+own words. He then goes on to assert that this “all goes to show that enthusiasm, even when combined with
+academic scholarship, is not always supported by perfect connoisseurship,” a very happy conclusion for an
+enthusiastic amateur such as himself. What I did say at the time (and I have no precise recall of my exact
+words) came as part of a defense of one of those fooled by what was a deliberate attempt to deceive, by means
+of period frames, a backing of old letters, and a false provenance; I am happy to say that the words
+attributed to me do not reflect my opinion, then or now, of the actual authenticity of the drawings
+themselves. In any case it is a pity that Raymond Lister has to return on two further occasions in the course
+of a not very long review to the Keating scandal. This is to give the affair, and the reviewer’s cleverness
+in not being taken in, far more attention than they deserve.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

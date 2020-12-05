@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.2.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Society News</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.2</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <body>
+      <pb id="p22-75" n="75"/>
+      <div1 id="BQ-22-2-0007">
+        <div2>
+          <div3>
+            <head>
+              <title type="main">
+                <hi rend="i">BLAKE SOCIETY NEWS</hi>
+              </title>
+            </head>
+            <p>The Blake Society at St. James’ latest mailing (4 August 1988)
+                            contained their autumn program and other news, including the appointment
+                            of <hi rend="i">Blake</hi>’s own Associate Editor for Great
+                            Britain, David Worrall, as Honorary Secretary.</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">AUTUMN PROGRAM</hi>
+                </title>
+              </head>
+              <p>All talks are given at 7:00 p.m.; check with the Blake Society (tel.
+                                01 734-4511) for the location.</p>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">14 September</hi>
+                  </title>
+                </head>
+                <p>Blake’s Paintings and Their Symbolism</p>
+                <p>Speaker: Peter Cadogan</p>
+              </div5>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">12 October</hi>
+                  </title>
+                </head>
+                <p>Infernal Wisdom: Blake’s “Marriage of
+                                    Heaven and Hell”</p>
+                <p>Speaker: Philip Beckwith</p>
+              </div5>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">9 November</hi>
+                  </title>
+                </head>
+                <p>William and Emanuel</p>
+                <p>Speaker: Christopher Hasler</p>
+              </div5>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">14 December</hi>
+                  </title>
+                </head>
+                <p>Blake: A Celebration at Christmas (all are invited to
+                                    participate)</p>
+                <p>Organized by Simon Clarke</p>
+                <p>Other events:</p>
+              </div5>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">19 October</hi>
+                  </title>
+                </head>
+                <p>Open meeting of the Blake Society</p>
+              </div5>
+              <div5>
+                <head>
+                  <title>
+                    <hi rend="i">28 November</hi>
+                  </title>
+                </head>
+                <p>Celebration of Blake’s birthday (please contact David
+                                    Worrall for details)</p>
+              </div5>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

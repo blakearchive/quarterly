@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.butlin</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">An Extra Illustration to Pilgrim’s Progress</title>
+                <author n="Butlin">Martin Butlin</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+	<pb id="p05-213" n="213"/>
+            <div1 id="BQ-05-3-0006">
+                <head>
+                    <title type="section">
+                        <hi rend="b">MINUTE PARTICULARS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">MARTIN</hi>
+                            <name>
+                                <hi rend="i">BUTLIN</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">KEEPER OF THE BRITISH COLLECTION, THE TATE GALLERY, LONDON</hi>
+                    </byline>
+                    <head>
+                        <title type="main">An Extra Illustration to <hi rend="i">Pilgrim’s Progress</hi>
+                        </title>
+                    </head>
+                    <p>I am sure that the picture referred to as “A Warrior with Angels” in Robert Essick’s
+<hi rend="i">Finding List, Blake Newsletter</hi>, 5 (Summer-Fall 1971), 141, figure 9, is an extra watercolour
+from the series of illustrations to Bunyan in the Frick museum. The dimensions and watermark tally, as does
+the style if one disallows Mrs. Blake’s work on the Frick watercolours. The subject of the Rosenwald design,
+which retains all its original Blake freshness, is “Christian descends the hill from the Pilgrim’s House”
+(Sir Geoffrey Keynes has suggested the title “Christian with the Shield of Faith”). An additional support for
+this identification is the number “20” inscribed in the upper right-hand corner of the sheet; this corresponds
+with similar numbers on the Frick drawings and places the subject of the design in its correct sequence.
+Incidentally, the inscriptions on the Frick drawings raise additional complications in that they do not seem
+to be by Blake and are not
+<pb id="p05-214" n="214"/>
+always accurate, for instance that inscribed “12 In the Interpreter’s House,” but this is another problem.
+The Rosenwald watercolour comes from an album formed by Mrs. Charles Aders in the 1820s and presumably became
+separated from the main series before they entered the Butts collection some time after Blake’s death.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

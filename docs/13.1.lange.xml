@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.1.lange</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">An Engraving of Wollstonecraft After Opie</title>
+        <author n="Lange">Thomas V. Lange</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.1</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Cindy Lewiecki</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Susan Fox</name>
+              <name>Thomas R. Frosch</name>
+              <name>Robert F. Gleckner</name>
+              <name>Thomas V. Lange</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Morton D. Paley</name>
+              <name>Warren H. Stevenson</name>
+              <name>Robert H. Tener</name>
+              <name>Raymond E. Thompson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-36" n="36"/>
+      <div1 id="BQ-13-1-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b"><corr type="emend">AN</corr> ENGRAVING OF WOLLSTONECRAFT AFTER OPIE</hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor>
+              <hi rend="b">Thomas V.</hi>
+              <name>
+                <hi rend="b">Lange</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>Readers of <hi rend="i">Blake</hi> may be interested to learn that the original copper plate for
+the engraved frontispiece portrait of Mary Wollstonecraft Godwin (illus. 2) is in the Department of Drawings
+and Prints of The Pierpont Morgan Library, New York. It was given to the library in 1976 by Miss Louise Crane
+in memory of her mother, Mrs. W. Murray Crane.</p>
+          <p>The copper plate (measuring 7-5/16 × 4-3/8 inches) has been considerably re-worked since its
+first appearance in William Godwin’s <hi rend="i">Memoirs of the</hi>
+		  <figure n="WollstonecraftPortraitMemoirs.13.1.bqscan" rend="file" width="958" height="835">
+	<head>1 Portrait of Mary Wollstonecraft Godwin, engraved for William Godwin’s <hi rend="i">Memoirs of the
+author of ‘A Vindication of the rights of women,’</hi> (1798).</head>
+</figure>
+		  <hi rend="i">author of ‘A vindication of the rights of women,’</hi> London, for J. Johnson, 1798. The
+most startling of these changes is the enlargement of the portrait from its original oval shape to that of a
+rectangle. Under correct lighting it is possible to see the original oval shape, the different handling of the
+additional stipple work, and the added background shading lines. On the copper plate it is also possible to
+discern the artist’s and engraver’s names in their original positions, now on Mary Godwin’s forearms.
+The J. Johnson imprint has been erased and replaced by one reading “London: Sold by D. Eaton, N<hi
+rend="s">o</hi>. 187. High Holborn.” Despite these seemingly major differences, it is clear under microscopic
+examination that this same copper plate was used in the 1798 J. Johnson edition. Eaton, the later publisher of
+the portrait, had been found guilty of publishing Paine’s <hi rend="i">Rights of Man</hi> in 1793, and was a
+frequent prisoner in the pillory for other publishing offences—see Timperley’s <hi rend="i">Encyclopaedia
+of Literary and Typographical Anecdote</hi>, 1839 (rpt. New York: Garland, 1977).</p>
+          <pb id="p13-37" n="37"/>
+          <figure n="WollstonecraftCopperPlate.13.1.bqscan" rend="file" width="820" height="1000">
+            <head>2 The copper plate of the same portrait, re-worked in a rectangular format, published by D.
+Eaton.</head>
+          </figure>
+          <p>I have been able to locate only one impression of the frontispiece in its rectangular form as
+published by Eaton, in a copy of Mary Wollstonecraft Godwin’s <hi rend="i">Letters written during a short
+residence in Sweden, Norway, and Denmark . . . second edition</hi>, London: Printed for J. Johnson, St.
+Paul’s Churchyard, 1802 (PML 46004). Traces of glue on the frontispiece suggest it was inserted in this
+copy, rather than being an integral part of the book; I have been unable to locate another copy in the New
+York area. I would therefore appreciate hearing from any reader able to locate the appearance of the portrait
+in its rectangular form.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

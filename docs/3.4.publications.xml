@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.publications</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Recent Publications</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-74" n="74"/>
+            <div1 id="BQ-03-4-0004">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NEWS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">Recent Publications</title>
+                    </head>
+                    <p>The Erdman-Bloom <hi rend="u">Poetry and Prose</hi> is now available as a Doubleday
+Anchor Book at $6.95. This is the fourth printing; it includes some new changes, which are noted on p.
+xxiv.</p>
+                    <p>
+                        <hi rend="u">TLS</hi> for 25 December 1969 (pp. 1461-63) featured a leading review
+article on Blake. The principal subject was <hi rend="u">Blake and Tradition</hi> by Kathleen Raine; 
+<hi rend="u">William Blake</hi>, ed. Alvin Rosenfeld and <hi rend="u">Blake in the <corr type="emend">Nineteenth</corr> Century</hi> by
+Deborah Dorfman were also discussed. A letter from Miss Raine followed in the issue of 2 January 1970, p. 34,
+with a reply from the reviewer. On 22 January appeared a short letter (p. 85) by Mr. Edgar Foxhall. Also on 22
+January, the Blake Trust edition of <hi rend="u">Europe</hi> is reviewed (p. 74).</p>
+                    <p>Micro Methods Ltd. announces publication of a complete colour microfilm of the 537 
+<hi rend="u">Night Thoughts</hi> illustrations. Publication is scheduled for the end of March; price £50
+sterling. (MM address is: East Ardsley, Wakefield, Yorks.</p>
+                    <p>G. E. Bentley, Jr. “John Flaxman and Thomas Taylor,” <hi rend="u">Notes and
+Queries</hi>, September, 1969, pp. 354-355.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

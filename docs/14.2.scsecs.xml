@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.2.scsecs</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake at SCSECS</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.2</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David Bindman</name>
+              <name>Detlef Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas V. Lange</name>
+              <name>Raymond Lister</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>Dennis M. Read</name>
+              <name>Leonard M. Trawick</name>
+              <name>Nicholas O. Warner</name>
+              <name>Kasumitsu Watarai</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <div1 id="BQ-14-2-0011">
+        <pb id="p14-111" n="111"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE AT SCSECS</hi>
+            </title>
+          </head>
+          <p>Jim S. Borck (Louisiana State University) is organizing a seminar on “Blake and
+Eighteenth-Century Illustration” for the annual meeting of the South Central Society for Eighteenth-Century
+Studies at the University of Texas (Austin), 5-7 March 1981: “The seminar will examine the interrelationships
+of the visual and the verbal arts in the 18th century, concentrating upon William Blake, but extending that
+examination also to the picturesque, other types of book illustration, and perhaps 
+caricature.<supplied type="emend">”</supplied></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.stevenson</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Death’s Door</title>
+                <author n="Stevenson">W. H. Stevenson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+		<body>
+            <div1 id="BQ-04-2-0006">
+            	<pb id="p04-49" n="49"/>
+                <head>
+                    <title type="section">
+    					<hi rend="b">QUERIES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>1. <docAuthor>
+                            <hi rend="i">W. H.</hi>
+                            <name>
+                                <hi rend="i">STEVENSON</hi>
+                            </name>:
+                        </docAuthor>
+                        <hi rend="i">UNIVERSITY OF IBADAN</hi>
+                    </byline>
+                    <head>
+                        <title type="main">“Death’s Door”</title>
+                    </head>
+                    <p>I was in Coverdale—a long way away from Blake country, I admit—a couple of weeks
+ago, and I stopped to look at an old mine entrance. After I had stopped, its resemblance to Blake’s
+“Death’s Door,” especially as it appears in <hi rend="i">America</hi> plate 12, struck me. That is, the
+entrance consisted of a stone doorway (though without an actual door), roofed over with a large slab. What
+brought the similarity to my mind was that a sizeable tree was growing above the slab, its roots twining round
+the entrance (which went into a sloping hillside). Is it possible that, besides the other associations of this
+image, Blake, having seen such mine entrances in his own area, thought of them as “entrances to death” in yet
+another connotation? I have not been able to check whether anyone else has thought of this, or whether Kent
+and Surrey yield similar doorways in fact; but someone closer to this area than I am at present may find the
+idea interesting.</p>
+                </div2>
+			</div1>
+        </body>
+    </text>
+</TEI.2>

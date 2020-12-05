@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.4.connolly</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="discussion">Songs of Innocence Copy U</title>
+                <author n="Connolly">Thomas E. Connolly</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.4</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+        	<pb id="p06-96" n="96"/>
+            <div1 id="BQ-06-4-0003">
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">SONGS OF INNOCENCE</hi> COPY U</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="b">Thomas E.</hi>
+                            <name>
+                                <hi rend="b">Connolly</hi>
+                            </name>
+                        </docAuthor>
+                    <ref target="n30">*</ref></byline>
+                    <p>On p. 214 of <hi rend="i">Blake Newsletter</hi> 19, Mary Ellen Reisner states that
+Keynes-Wolf copy U of <hi rend="i">Songs of Innocence</hi> is not at the Houghton Library of Harvard
+University but is owned by Mrs. Harold White. Unfortunately, Mrs. Reisner was given the same misinformation
+that I was recently given when I wrote to the Houghton Library to purchase a set of 2″ × 2″ Kodachrome
+slides of this copy.</p>
+                    <p>Let me try to unscramble this bit of confusion. When Mrs. Reisner and I wrote to
+Harvard, an unfortunate mixup occurred between K-W copy U of <hi rend="i">Songs of Innocence</hi> (described
+on p. 18 of <hi rend="i">Census</hi>) and K-W copy U of <hi rend="i">Songs of Innocence and of Experience</hi>
+(described on p. 63 of the <hi rend="i">Census</hi>). Copy U of <hi rend="i">Songs of Innocence</hi> is
+actually at Harvard in the Houghton Library. I quote from a letter dated 27 November 1972, from Miss Eleanor
+M. Garvey of the Houghton Library: “We do have the Keynes-Wolf copy: U, not fully catalogued but finally
+located.”</p>
+                    <p>Keynes-Wolf copy U of <hi rend="i">Songs of Innocence and of Experience</hi> did once
+belong to the White family. It was recently donated by Miss Caroline Newton, of Berwyn, Pennsylvania, to
+Princeton University where it now rests. For an account of this gift see Charles Ryskamp, “Library Notes: 
+<hi rend="i">Songs of Innocence and of Experience</hi> and Miss Caroline Newton’s Blake Collection,” 
+<hi rend="i">The Princeton University Library Chronicle</hi>, 29 (Winter 1968). <note id="n30">
+                            <hi rend="i">Thomas E. Connolly is Professor of English at the State University of
+New York at Buffalo. He is the author or editor of books on Joyce, Swinburne, and Hawthorne, and is currently
+writing a book on Blake’s</hi> Songs of Innocence and of Experience.</note>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

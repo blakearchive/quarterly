@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-63" n="63"/>
+            <div1 id="cover">
+                <figure n="cover.004.03.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>BLAKE NEWSLETTER<lb/>
+                    Volume 4, number 3<lb/>
+                    Winter 1971<lb/>
+                    Whole number 15<lb/>
+                    NEWS AND WORKS IN PROGRESS<lb/>
+                    Doubleday’s New Blake Facsimile, York University’s<lb/>
+                    Videotape of <hi rend="i">America</hi>, Blake at the Thomas Gray<lb/>
+                        Conference, British Blake News, More British Blake<lb/>
+                        Notes, Publications Received: <hi rend="i">The Golden Chain</hi> and<lb/>
+                        <hi rend="i">Golgonooza Organ #1</hi>, Copy C of <hi rend="i">The Book of
+Urizen</hi><lb/>
+                        at Sotheby’s, Pierre Boutang’s <hi rend="i">William Blake</hi>, Works in<lb/>
+                        Progress, The Checklist of Recent Blake Scholarship:<lb/>
+                        Additions and Corrections<lb/>
+                        65<lb/>
+                        NOTES<lb/>
+                        Robert Essick, The Blakes at UCLA<lb/>
+                        75<lb/>
+                        Edward J. Rose, The 1839-Wilkinson Edition of<lb/>
+                        Blake’s <hi rend="i">Songs</hi> in Transcendental America<lb/>
+                        79<lb/>
+                        Morton D. Paley, Blakes at Buffalo<lb/>
+                        81<lb/>
+                        REVIEWS<lb/>
+                        Irene Chayes, on <hi rend="i">Blake’s Visionary Universe</hi> by John<lb/>
+                        Beer<lb/>
+                        87<lb/>
+                        Morris Eaves, on the recording of Blake’s <hi rend="i">Songs</hi> by<lb/>
+                        Allen Ginsberg<lb/>
+                        90<lb/>
+                        COMMENTARY<lb/>
+                        Allen Ginsberg, To Young or Old Listeners: Setting<lb/>
+                        Blake’s <hi rend="i">Songs</hi> to Music, and a Commentary on the<lb/>
+                        <hi rend="i">Songs</hi><lb/>
+                        98<lb/>
+                        DISCUSSION<lb/>
+                        John Beer, A Reply to John Grant<lb/>
+                        103<lb/>
+                        MINUTE PARTICULARS<lb/>
+                        Janet Warner, James Vine<lb/>
+                        106<lb/>
+                        G. E. Bentley, Jr., An Apocryphal Blake Engraving:<lb/>
+                        <hi rend="i">The Minor’s Pocket Book</hi> (1814)<lb/>
+                        107<lb/>
+                        Copyright © 1971 by Morton D. Paley and Morris Eaves</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-04-3-0001">
+                <table id="contents" rows="17" cols="2">
+                    <row>
+						<cell colspan="2">
+			                <head>
+			                    <title>
+			                        <hi rend="u">CONTENTS</hi>
+			                    </title>
+			                </head>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">NEWS AND WORKS IN PROGRESS</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">David Erdman,</supplied> 
+<ref type="article" issue="4.3.erdman">Doubleday’s New Blake Facsimile</ref>
+                        </cell>
+                    </row>
+                    <row>    
+                        <cell><ref type="article" issue="4.3.video">York University’s Videotape of 
+<hi rend="i">America</hi></ref>
+                        </cell>
+                    </row> 
+                    <row>    
+                        <cell><ref type="article" issue="4.3.gray">Blake at the Thomas Gray Conference</ref>
+                        </cell>
+                    </row>    
+                    <row>    
+                         <cell><supplied type="emend">Michael Phillips,</supplied> 
+<ref type="article" issue="4.3.phillips">British Blake News</ref>
+                         </cell>
+                    </row>
+                    <row>     
+                         <cell><supplied type="emend">G. E. Bentley, Jr.,</supplied> 
+<ref type="article" issue="4.3.bentleynews">More British Blake Notes</ref>
+                         </cell>
+                    </row>
+                    <row>    
+                         <cell><ref type="article" issue="4.3.publications">Publications Received: 
+<hi rend="i">The Golden Chain</hi> and <hi rend="i">Golgonooza Organ #1</hi></ref>
+                         </cell>
+                    </row>
+                    <row>     
+                         <cell><ref type="article" issue="4.3.sotheby">Copy C of <hi rend="i">The Book of
+Urizen</hi> at Sotheby’s</ref>
+                         </cell>
+                    </row>
+                    <row>     
+                         <cell><ref type="article" issue="4.3.vot">Pierre Boutang’s <hi rend="i">William
+Blake</hi></ref>
+                         </cell>
+                    </row>
+                    <row>     
+                         <cell><ref type="article" issue="4.3.works">Works in Progress</ref>
+                         </cell>
+                    </row>
+                    <row>     
+                         <cell><ref type="article" issue="4.3.checklist">The Checklist of Recent Blake
+Scholarship: Additions and Corrections</ref></cell>
+                        <cell>65</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">NOTES</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Robert Essick, <ref type="article" issue="4.3.essick">The Blakes at
+UCLA</ref></cell>
+                        <cell>75</cell>
+                    </row>
+                    <row>
+                        <cell>Edward J. Rose, <ref type="article" issue="4.3.rose">The 1839-Wilkinson Edition
+of Blake’s <hi rend="i">Songs</hi> in Transcendental America</ref></cell>
+                        <cell>79</cell>
+                    </row>
+                    <row>
+                        <cell>Morton D. Paley, <ref type="article" issue="4.3.paley">Blakes at
+Buffalo</ref></cell>
+                        <cell>81</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">REVIEWS</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Irene Chayes, on <ref type="article" issue="4.3.chayes"><hi rend="i">Blake’s
+Visionary Universe</hi> by John Beer</ref></cell>
+                        <cell>87</cell>
+                    </row>
+                    <row>
+                        <cell>Morris Eaves, on <ref type="article" issue="4.3.eaves">the recording of
+Blake’s <hi rend="i">Songs</hi> by Allen Ginsberg</ref></cell>
+                        <cell>90</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">COMMENTARY</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Allen Ginsberg, <ref type="article" issue="4.3.ginsberg">To Young or Old
+Listeners: Setting Blake’s <hi rend="i">Songs</hi> to Music, and a Commentary on the 
+<hi rend="i">Songs</hi></ref>
+                        </cell>
+                        <cell>98</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">DISCUSSION</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John Beer, <ref type="article" issue="4.3.beer">A Reply to John
+Grant</ref></cell>
+                        <cell>103</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="b">MINUTE PARTICULARS</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Janet Warner, <ref type="article" issue="4.3.warner">James Vine</ref></cell>
+                        <cell>106</cell>
+                    </row>
+                    <row>
+                        <cell>G. E. Bentley, Jr., <ref type="article" issue="4.3.bentley">An Apocryphal Blake
+Engraving: <hi rend="i">The Minor’s Pocket Book</hi> (1814)</ref></cell>
+                        <cell>107</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright © 1971 by Morton D. Paley and Morris
+Eaves</note>
+            </div1>
+            <pb id="p04-64" n="64"/>
+            <div1 id="BQ-04-3-0002">
+                <head>
+                    <title>
+                        <hi rend="b">BLAKE NEWSLETTER</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title>The <hi rend="i">BLAKE NEWSLETTER</hi> is published quarterly under the
+sponsorship of the Department of English of the University of New Mexico. Support for bibliographical
+assistance is provided by the University of California, Berkeley.</title>
+                    </head>
+					<p>Morton D. Paley, Executive Editor<lb/>
+					<hi rend="i">University of California, Berkeley</hi>
+					</p>
+					<p>Morris Eaves, Managing Editor<lb/>
+					<hi rend="i">University of New Mexico</hi>
+					</p>
+					<p>Donald D. Ault, Associate Editor<lb/>
+					<hi rend="i">University of California, Berkeley</hi>
+					</p>
+					<p>Michael Phillips, Associate Editor<lb/>
+					<hi rend="i">University of Edinburgh</hi>
+					</p>
+                    <p>
+                        <hi rend="i">MANUSCRIPTS</hi> are welcome. They should be typed and documented
+according to the forms recommended in the <hi rend="i">MLA Style Sheet</hi>, 2nd ed., rev. (1970). Send two
+copies with a stamped, self-addressed envelope either to Morton D. Paley, Executive Editor, <hi rend="i">Blake
+Newsletter</hi>, Department of English, University of California, Berkeley, California 94720, or to Morris
+Eaves, Managing Editor, <hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico,
+Albuquerque, New Mexico 87106.</p>
+                    <p>
+                        <hi rend="i">SUBSCRIPTIONS</hi> are $3.00 for one year; invoiced, $4.00; overseas by
+air, $4.00 (U. S. currency if possible). Make checks payable to the <hi rend="i">Blake Newsletter.</hi>
+Address all subscription orders and related communications to Morris Eaves, Managing Editor, 
+<hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico, Albuquerque, New Mexico
+87106. <note type="unreferenced" place="footer">
+                            <hi rend="i">Allen Ginsberg’s “To Young or Old Listeners” is reprinted with the
+kind permission of the author from <hi rend="u">Allen Ginsberg/William Blake: “Songs of Innocence and
+Experience” by William Blake, tuned by Allen Ginsberg</hi>, MGM “Verve” FTS-3083, a stereo recording.</hi>
+                        </note>
+                        <note type="unreferenced" place="footer">
+                            <hi rend="i">The cover reproduces number 257 in Blake’s series of water-colors
+for Edward Young’s <hi rend="u">Night Thoughts</hi>. Reproduced by permission of the Trustees of the British
+Museum.</hi>
+                        </note>
+                    </p>
+                </div2>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

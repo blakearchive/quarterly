@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>19.4.crossan</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">“Infant Sorrow” and Robert Greene’s Menaphon</title>
+        <author n="Crossan">Greg Crossan</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">19.4</biblScope>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Greg Crossan</name>
+              <name>Robert F. Gleckner</name>
+              <name>David Groves</name>
+              <name>Bo Ossian Lindberg</name>
+              <name>Warren Stevenson</name>
+              <name>Anne Williams</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_19">
+    <body>
+	<pb id="p19-142" n="142"/>
+      <div1 id="BQ-19-4-0006">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">MINUTE PARTICULARS</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">“Infant Sorrow” and Robert Greene’s <hi rend="i">Menaphon</hi></title>
+          </head>
+          <byline>
+            <docAuthor>Greg <name>Crossan</name></docAuthor>
+          </byline>
+          <p>The origins of Blake’s <hi rend="i">Songs of Innocence and of Experience</hi> in
+eighteenth-century children’s hymns, nursery rhymes, cradle songs and the like are by now well documented,
+but cradle songs in particular were a popular Renaissance genre (the lullabies of Dekker and Gascoigne being
+the best known), and there is a source here for one of the <hi rend="i">Songs</hi>, “Infant Sorrow,” that
+was suggested long ago by Foster Damon but has never, I think, been explored.<supplied type="spacer"> </supplied><ref target="n12" type="note">1</ref> The source is “Sephestias Song to Her Childe” from Robert
+Greene’s pastoral romance <hi rend="i">Menaphon.</hi> In particular, the opening lines of Blake’s song,
+<q>
+My mother groand! my father wept.<lb/>
+Into the dangerous world I lept
+</q>
+recall the opening lines of the last stanza of Greene’s:
+<q>
+The wanton smilde, father wept;<lb/>
+Mother cride, babie lept.<supplied type="spacer"> </supplied><ref target="n13" type="note">2</ref></q>
+The echo here is plain enough, but I want to suggest that there are two ways in which “Sephestias Song”
+makes a particularly interesting context in which to read “Infant Sorrow.” 
+<note id="n12"><hi rend="s">1</hi> S. Foster Damon, <hi rend="i">William Blake: His Philosophy and Symbols</hi> (1924; rpt.
+Gloucester, Mass.: Peter Smith, 1958), p. 282.</note>
+	<note id="n13"><hi rend="s">2</hi> My text is from vol. 6 of <hi rend="i">The Life and Works of Robert
+Greene</hi>, ed. A. B. Grosart (1881-86; New York: Russell and Russell, 1964), p. 44. The poem may also be
+found in several anthologies, such as <hi rend="i">The Oxford Book of English Verse.</hi></note></p>
+          <pb id="p19-143" n="143"/>
+          <p>The first is that “Sephestias Song” as a whole lends support to Norman Nathan’s point that
+childbirth not only initiates the infant into sorrow but also brings sorrow upon the parents.<supplied
+type="spacer"> </supplied><ref target="n14" type="note">3</ref> The stanza just quoted from, for instance,
+continues thus:
+<q>
+More he crowde, more we cride;<lb/>
+Nature could not sorowe hide.<lb/>
+He must goe, he must kisse<lb/>
+Childe and mother, babie blisse:<lb/>
+For he left his pretie boy<lb/>
+Fathers sorowe, fathers joy.<lb/>
+Weepe not my wanton, smile upon my knee,<lb/>
+When thou art olde, ther’s grief inough for thee.
+</q>
+The last line here, with its warning of what is in store for the child, might almost serve as a motto for the
+<hi rend="i">Songs of Experience</hi>, but it is the father’s sorrow and joy that dominate the poem. In
+context, the father’s tears are occasioned by his imminent parting from his son as a result of having been
+banished from that archetypal domain of innocence, Arcadia. The family has been cast adrift on a stormy sea,
+and it is after surviving a shipwreck that Sephestia sings this song, in which she recalls the joy of her
+husband (now presumed drowned) at the birth of a son, and his tears at the prospect of losing him. In short,
+the sorrow is as much the father’s as the infant’s. <note id="n14"><hi rend="s">3</hi> Norman Nathan,
+“Blake’s ‘Infant Sorrow,’ ” <hi rend="i">Notes and Queries</hi>, 7 (1960), 99-100.</note></p>
+          <p>The second point of contextual interest is that Greene goes on to develop the father’s sorrow
+in an unexpected way. By means of various contrivances, Greene has the child (Pleusidippus) grow up to fall in
+love with Sephestia (now calling herself Samela) without knowing that she is his mother, and he becomes in due
+course a rival of his own father (Maximus,<supplied type="spacer"> </supplied><ref target="n15"
+type="note">4</ref> alias Melicertus), who in fact survived the wreck and has ended up courting Sephestia
+without knowing that she is his wife. Greene in his usual fanciful way asks us to accept the proposition that
+because Sephestia’s identity is concealed she can find herself being wooed by her husband, her son, and even
+her father (Democles) at the same time. Given that commentators now tend to read “Infant Sorrow,” both in
+its <hi rend="i">Songs</hi> version and in its longer <hi rend="i">Notebook</hi> version,<supplied
+type="spacer"> </supplied><ref target="n16" type="note">5</ref> as a poem which hints at the oedipal conflict
+between father and son (“Struggling in my father’s hands”), it is interesting that this is precisely
+what <hi rend="i">Menaphon</hi> builds up to as its climax. Father and son angrily confront each other in
+single combat, and, in Greene’s phrase, “they fell toughly to blowes.”<supplied type="spacer"> </supplied><ref target="n17" type="note">6</ref> That fight is eventually stopped by Democles and the two are
+imprisoned, but all is at length resolved by the timely intervention of a sibyl. Sephestia is reunited with
+her husband, and her son craves “pardon for the fondnesse of his incestuous affection.”<supplied
+type="spacer"> </supplied><ref target="n18" type="note">7</ref> He also apologizes to his father, then marries
+someone else. <note id="n15"><hi rend="s">4</hi> He is called Maximus at the beginning of the story and
+Maximius at the end.</note>
+	<note id="n16"><hi rend="s">5</hi> For an oedipal reading of the <hi rend="i">Songs</hi> version see, most
+recently, Diana Hume George, <hi rend="i">Blake and Freud</hi> (Ithaca: Cornell University Press, 1980), pp.
+89-90, and of the <hi rend="i">Notebook</hi> version, Stewart Crehan, <hi rend="i">Blake in Context</hi>
+(Dublin: Gill and Macmillan, 1984), pp. 113-14.</note>
+	<note id="n17"><hi rend="s">6</hi><hi rend="i"> Menaphon</hi>, p. 133.</note>
+	<note id="n18"><hi rend="s">7</hi><hi rend="i"> Menaphon</hi>, p. 144.</note></p>
+          <p>While it seems certain that Blake knew “Sephestias Song,” it may be that he knew little of
+its context: and yet, considering its appropriateness to his own nascent theme in “Infant Sorrow,” we can
+perhaps surmise that he sensed in Greene’s lullaby the suggestion of potential oedipal conflict, and carried
+that suggestion over into his own song. Greene and Blake make, at first sight, an improbable coupling, but in
+the matter of Blake’s sources we are repeatedly, it seems, like Lyca’s parents on finding an angel in the
+eyes of a lion, “Filled with deep surprise.”<supplied type="spacer"> </supplied><ref target="n19"
+type="note">8</ref>
+	<note id="n19"><hi rend="s">8</hi> For some other out-of-the-way sources of Blake’s <hi rend="i">Songs</hi>
+see especially chapter 2 of John Holloway’s <hi rend="i">Blake: The Lyric Poetry</hi> (London: Edward
+Arnold, 1968).</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

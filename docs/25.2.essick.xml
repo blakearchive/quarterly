@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.2.essick</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">William Blake and John Marsh</title>
+        <author n="Essick">Robert N. Essick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1991</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.2</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Christopher Heppner</name>
+              <name>Walter S. Minot</name>
+              <name>Morton D. Paley</name>
+              <name>Dennis M. Read</name>
+              <name>Donald H. Reiman</name>
+              <name>Karen Shabetai</name>
+              <name>David Simpson</name>
+              <name>Michael J. Tolley</name>
+              <name>Jules Van Lieshout</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <body>
+      <pb id="p25-70" n="70"/>
+      <div1 id="BQ-25-2-0006">
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">William Blake and John Marsh</title>
+          </head>
+          <byline>
+            <docAuthor>Robert N. <name>Essick</name></docAuthor>
+          </byline>
+          <p>The name Edward Garrard Marsh (1783-1862) has been associated with Blake since the 1880 edition
+of Alexander Gilchrist’s <hi rend="i">Life of William Blake.</hi> As Gilchrist explains, “Edward the Bard
+of Oxford,” to whom Blake alludes in his letter of 27 January 1804 to William Hayley, “was a certain Mr.
+Edward Marsh of Oriel College, who, when visiting Hayley while Blake was also his frequent guest and
+fellowlabourer, had been wont to read aloud to them the Hermit’s [i.e., Hayley’s] own compositions in a
+singularly melodious voice.”<supplied type="spacer"> </supplied><ref target="n0"
+type="note">*</ref><supplied type="spacer"> </supplied><ref target="n24" type="note">1</ref> Thus it seems
+probable that “Oxford, immortal Bard!” who “with eloquence / Divine . . . wept over Albion” (E 188) on
+plate 41 of Blake’s <hi rend="i">Jerusalem</hi> is also none other than Edward Marsh, even though his is
+hardly the first name to leap to mind when compiling a list of bards associated with the city or its
+university.<supplied type="spacer"> </supplied><ref target="n25" type="note">2</ref> In a 1927 essay, Kenneth
+Povey provided more information about Marsh,<supplied type="spacer"> </supplied><ref target="n26"
+type="note">3</ref> but it was not until the discovery in 1984 of 64 letters from Marsh to Hayley that we
+learned of the extent of Marsh’s involvement with the Hayley circle beginning only a few months after
+Blake’s arrival at Felpham. The references to Blake in these letters provided new information about his life
+and work from 1800 to 1803.<supplied type="spacer"> </supplied><ref target="n27" type="note">4</ref>
+	<note id="n0">I am greatly indebted to the Huntington Library for permission to quote from Marsh’s
+autobiography and to G. E. Bentley, Jr., for providing me with a copy of his transcript of the Blake
+references and other pertinent passages. Bentley was the first person to read parts of Marsh’s manuscript
+the day after its arrival at the Huntington. All quotations from the autobiography given in this essay are
+based on my inspection of the original manuscript.</note>
+	<note id="n24"><hi rend="s">1</hi> Gilchrist, <hi rend="i">Life of William Blake</hi> (London: Macmillan,
+1880) 1: 203. For Blake’s letter to Hayley, see <hi rend="i">The Complete Poetry and Prose of William
+Blake</hi> (Berkeley and Los Angeles: Univ. of California Press, 1982) 740-1 (hereafter cited as E followed by
+page number). Hayley notes (without reference to Blake) visits from Edward Marsh on 1 Sept. 1803 and early in
+1806 in <hi rend="i">Memoirs of the Life and Writings of William Hayley</hi>, ed. John Johnson (London:
+Colburn, Simpkin and Marshall, 1823) 2: 44, 58.</note>
+	<note id="n25"><hi rend="s">2</hi> S. Foster Damon, for example, suggests that the Bard of Oxford is Percy
+Bysshe Shelley—See Damon, <hi rend="i">A Blake Dictionary: The Ideas and Symbols of William Blake</hi>, rev.
+ed. by Morris Eaves (Hanover: UP of New England, 1988) 314. The discovery of direct links between Edward Marsh
+and Blake (see note 4) makes Damon’s identification less likely.</note>
+	<note id="n26"><hi rend="s">3</hi> K. P. [Kenneth Povey], “Blake and ‘The Bard of Oxford,’” 
+<hi rend="i">The Sussex County Magazine</hi> 1 (1927): 391. There is also a brief discussion of Marsh in Morchard
+Bishop [pseudonym of Oliver Stoner], <hi rend="i">Blake’s Hayley: The Life, Works, and Friendships of
+William Hayley</hi> (London: Gollancz, 1951) 290-91.</note>
+	<note id="n27"><hi rend="s">4</hi> See Robert N. Essick, “Blake, Hayley, and Edward Garrard Marsh: ‘An
+Insect of Parnassus,’” <hi rend="i">Explorations: The Age of Enlightenment</hi> 1 (1987): 58-84. The
+references to Blake are also printed in G. E. Bentley, Jr., <hi rend="i">Blake Records Supplement</hi>
+(Oxford: Clarendon Press, 1988) 17-23, 25-27, 44, 60. Marsh’s letters are now in my collection.</note></p>
+          <p>Povey notes that E. G. Marsh’s father, John Marsh (1752-1828), was “a solicitor and famous
+amateur musician, who came into a fortune and eventually settled at Chichester in 1787,” but no connection
+between Blake and John Marsh was then known.<supplied type="spacer"> </supplied><ref target="n28"
+type="note">5</ref> A new document has now come to light that provides information on John Marsh’s
+friendship with Hayley and shows that the father, like the son, left us brief but tantalizing written
+references to Blake. <note id="n28"><hi rend="s">5</hi> John Marsh receives brief notice in <hi rend="i">The
+Dictionary of National Biography</hi> 12: 1100-01. For considerably more information on his activities as an
+amateur composer and musician, see <hi rend="i">A Dictionary of Musicians</hi> (London: Sainsbury and Co.,
+1825) 2: 118-21, and <hi rend="i">Grove’s Dictionary of Music and Musicians</hi>, 5th ed., ed. Eric Blom
+(New York: St. Martin’s Press, 1955) 5: 588-89 (article signed by Richard Gorer).</note></p>
+          <p>At its London auction of books and manuscripts on 28 November 1990, Christie’s offered as lot
+285 John Marsh’s manuscript autobiography in 37 volumes bound in vellum, each containing approximately 90
+leaves written on both sides, with the pages conveniently numbered. This enormous work was purchased for
+£28,600 by Maggs Bros., the venerable London bookshop, acting on behalf of the Henry E. Huntington Library,
+San Marino, California. The Library received the manuscript on 14 February 1991 and it is now designated as HM
+54457.</p>
+          <p>Marsh began keeping a diary when only twelve years of age and in 1796 started his
+autobiography.<supplied type="spacer"> </supplied><ref target="n29" type="note">6</ref> After writing a
+retrospective narrative of his early years, Marsh added entries on a regular basis, apparently based on a
+daily diary, and thus the work has a structure and tone midway between that of a diary and an autobiography.
+Marsh continued this work until shortly before his death, with the last 14 pages of the manuscript in another
+hand (presumably written by a family member) recording his final days. A transcript of the autobiography,
+written (according to Christie’s catalogue) in the same hand as the final 14 pages of the original, has been
+available for some time in the Cambridge University Library, MS Add. 7757. This much abridged version in only
+16 volumes omits a great deal of material, including all entries for the period 1795-1802.<supplied
+type="spacer"> </supplied><ref target="n30" type="note">7</ref>
+	<note id="n29"><hi rend="s">6</hi> Marsh’s autobiography, 1: 143, 17: 87, 134, and 22: 170 (hereafter
+referred to in parentheses by volume and page number, with date when pertinent). The volumes are carefully
+numbered in roman numerals on their spines and front covers; most also contain the dates covered. Marsh
+regularly included marginal summaries of the most important events recorded on each page of his autobiography,
+and at the end of most years composed lists of major occurrences in his life, musical performances attended or
+given, and musical compositions.</note>
+	<note id="n30"><hi rend="s">7</hi> According to Christie’s auction catalogue. I have not inspected the
+Cambridge transcription and do not know if it contains any of the post-1802 references to Blake recorded here.
+This point, however, is of little consequence since the transcript would have independent authority only if in
+John Marsh’s hand (which, according to Christie’s catalogue, is not the case).</note></p>
+          <p>The main interest in John Marsh’s autobiography derives from its wealth of information about
+his musical compositions and performances and his attendance at concerts. We can also learn from Marsh a great
+deal about provincial life among the educated gentry in the environs of Chichester from 1787 to the end of his
+life. There are many references to William Hayley and other members of the Hayley circle, including Marsh’s
+own son Edward, Miss Harriet Poole, and Joseph Seagrave, who printed one of Marsh’s works. For the purposes
+of this essay, however, I will skip over or merely summarize all this material on the margins of Blakean
+interest, but I will fully record and comment on all passages that relate directly to William Blake.<supplied
+type="spacer"> </supplied><ref target="n31" type="note">8</ref>
+	<note id="n31"><hi rend="s">8</hi> Just to complicate matters, Marsh knew at least three other Blakes: a
+“Widower” named “T. Blake” (21: 9, 30 Aug. 1800) and “the Blakes” who resided in Leominster (23:
+25, 3 Sept. 1802; see also 23: 175, 16 Sept. 1803). Fortunately, the references to these other Blakes,
+excluded from further consideration here, are specific enough to distinguish them from our Blake.</note></p>
+          <p>John Marsh’s first contact with the Hayley family occurred on 22 March 1782 while visiting
+Bath. There he met “M.<hi rend="s">rs</hi> Hayley of Eartham near Chichester, Wife of the Poet” whose
+writings were already familiar to him (7: 158). On 5 February 1783, Marsh traveled to Eartham and “had the
+pleasure of seeing M.<hi rend="s">rs</hi> Hayley very well, &amp; of being introduc’d by her to y<hi
+rend="s">e</hi><hi rend="i">Bard</hi> whom [Marsh] found to be a Gent.<hi rend="s">m</hi> of y<hi
+rend="s">e</hi> most pleasing mannere—” (8: 69-70). Marsh purchased his Chichester home from Hayley on 1
+February 1786 (10: 64). In the fall of 1800, Marsh was working on a literary composition, “The Excursion of
+a Spirit,” for which Hayley provided the title and other assistance (5 Oct., 21: 26). The two men were on
+terms of intimacy sufficient to permit Marsh to call at Hayley’s home for the purpose of introducing his son
+Edward to the famous author. This visit on 22 October 1800 led to a meeting with Blake less than a month after
+his own arrival in Felpham:
+<q>
+Wishing to introduce Edw.<hi rend="s">d</hi> to M.<hi rend="s">r</hi> Hayley, I on the next Morning (Wed<hi
+rend="s">y</hi> 22.<hi rend="s">d</hi>) drove him to Felpham where after having some Coffee with M.<hi
+rend="s">r</hi> H: we went with him to M.<hi rend="s">rs</hi> Miers’s (who was then at the House just by in
+w.<hi rend="s">ch</hi> y<hi rend="s">e</hi> Copes had sometime before resided) where we heard one of y<hi
+rend="s">e</hi> young Ladies play &amp; sing; &amp; from thence to M<hi rend="s">r</hi> Blake’s an Engraver
+M.<hi rend="s">r</hi> H. had lately brought down from London &amp; settled in a Cottage at Felpham, in order
+to prepare some ornamental Engravings, Vignettes &amp;.<hi rend="s">c</hi> for his Works. Here M.<hi
+rend="s">r</hi> Hayley gave me a Ballad he had written, called y<hi rend="s">e</hi> little Sailor Boy which
+M.<hi rend="s">r</hi> Blake had engraved &amp; ornamented with a small Plate at y<hi rend="s">e</hi> top &amp;
+bottom, which Ballad as we drove home
+<pb id="p25-71" n="71"/>
+I began setting to Music after w.<hi rend="s">ch</hi> I harmoniz’d it for 3 Voices.<supplied type="spacer"> </supplied><ref target="n32" type="note">9</ref>
+	<note id="n32"><hi rend="s">9</hi> 21:34-35. “M.<hi rend="s">rs</hi> Miers” was very probably a relative
+of Jeremiah Meyer the miniaturist; see G. E. Bentley, Jr., <hi rend="i">Blake Records</hi> (Oxford: Clarendon
+Press, 1969) 100n2 (hereafter cited as BR followed by page number). Marsh met “M<hi rend="s">r</hi> Miers,
+the Miniature Painter of London” in February 1783 (8: 70).</note></q></p>
+          <p>This first reference to Blake in Marsh’s autobiography is revelatory in several ways, both
+factually and socially. Marsh very probably learned from Hayley that he had “brought” Blake to Felpham to
+prepare engravings for Hayley’s publications. Thus it would seem, in the eyes of Hayley and his friends,
+that Blake’s main role was a practical and subsidiary one having no direct connection with his abilities as
+an original artist, much less as a poet. The class distinctions are implicit: Marsh and Hayley are educated
+connoisseurs of independent means; Blake is a useful and respected craftsman, but not a gentleman of arts and
+letters. This social role accords with John Flaxman’s professional recommendations that Blake should confine
+his activities to engraving and teaching drawing while in Felpham and avoid higher aspirations, such as
+“painting large pictures for which he is not qualified.”<supplied type="spacer"> </supplied><ref
+target="n33" type="note">10</ref> Blake would later complain that such advice and its attendant class
+consciousness confined him to “the mere drudgery of business”<supplied type="spacer"> </supplied><ref
+target="n34" type="note">11</ref> and would force his return to London where he could hope to engage in more
+than producing “ornamental Engravings” for Hayley’s writings. <note id="n33"><hi rend="s">10</hi>
+Flaxman’s letter to Hayley, 19 Aug. 1800 (BR 72).</note>
+	<note id="n34"><hi rend="s">11</hi> Letter to Thomas Butts, 10 Jan. 1803 (E 724).</note></p>
+          <p>The “Ballad” Hayley gave to John Marsh is of course <hi rend="i">Little Tom the Sailor</hi>
+(illus. 1), etched in relief by Blake, with headpiece and tailpiece designs in white-line etching/engraving
+and dated “October 5, 1800” in the imprint.<supplied type="spacer"> </supplied><ref target="n35"
+type="note">12</ref> By setting the poem to music, Marsh provided an auditory complement to Blake’s visual
+setting for what was quickly becoming a communal and multi-media endeavor lavished on a rather slender text.
+Marsh worked quickly, for by 5 November he was able to send Hayley “the Song of Little Tom the Sailor, as
+set by me, w.<hi rend="s">ch</hi> I had promis’d to let him have” (21: 38). Marsh highlights his work on
+<hi rend="i">Little Tom</hi> by writing a marginal note on 21: 35 (“Set y<hi rend="s">e</hi> Sailor Boy, 
+<hi rend="i">Ballad to Music</hi>”) and including it as item “3” in his list of “Musical Compositions”
+for 1800: “M.<hi rend="s">r</hi><hi rend="i"> Hayley’s Ballad</hi> of y<hi rend="s">e</hi><hi
+rend="i">Sailor Boy</hi>, as a single Song, &amp; for 3 Voices” (21: 57). 
+<note id="n35"><hi rend="s">12</hi> Marsh’s copy is untraced. Indeed, none of the recorded copies has a provenance reaching
+back to the original owner.</note></p>
+          <p>After his introduction to Hayley, Edward Marsh became a frequent caller at “the Hermit’s”
+home in Felpham. John Marsh briefly records many such visits over several years, including entries for 10
+January 1801 (“I drove
+<figure n="tomthesailor.25.2.71.bqscan" rend="file" width="400" height="532">
+	<head>1. <hi rend="i">Little Tom the Sailor.</hi></head>
+	<figDesc>Blake’s broadside with Hayley’s text etched in relief and the tailpiece in white-line
+etching/engraving, 1800. Lower half only, approx. 22 × 16 cm. Princeton University Library.</figDesc>
+</figure>
+Edw.<hi rend="s">d</hi> to Felpham &amp; called on M<hi rend="s">r</hi> Hayley,” 21: 60), 17 January 1802
+(22: 57), 23 and 28 January (“Edw.<hi rend="s">d</hi> took another Walk to M.<hi rend="s">r</hi>
+Hayley’s,” 22: 58), 30 December 1802 (23: 33-34), 14 and 21 July 1803 (23: 151-52), and 30 July 1804 (24:
+84). Both father and son also met Hayley at Harriet Poole’s home on several occasions (e.g., 16 March 1802,
+22: 72). Hayley’s beloved child,
+<pb id="p25-72" n="72"/>
+Thomas Alphonso, had died in 1800, and perhaps Edward Marsh, only three years younger than Thomas, became an
+occasional surrogate son for the bereaved father. Edward seems to have called on Hayley whenever the Oxford
+student was staying with his parents during university vacations. Thus the references to Blake in Edward’s
+letters to Hayley may have been based on what he learned while in Felpham, either directly from Blake or from
+Hayley’s conversation, rather than from Hayley’s (untraced) letters to Edward. We also learn from John
+Marsh’s autobiography that Edward “spoke his Verses” at a public reading and received “Blair’s
+Lectures neatly bound up for his Prize” on 31 October 1800 (21: 37-38). Apparently Blake was not alone in
+praising Edward’s eloquent voice.</p>
+          <p>On Saturday, 9 May 1801, the Marsh family met Blake once again: “. . . we drove to Miss Pooles,
+where we met y<hi rend="s">e</hi> Miss Kempes, M<hi rend="s">r</hi> Hayley &amp; M<hi rend="s">r</hi> Blake
+the Engraver, the latter of whom had drawn a striking Miniature of M.<hi rend="s">r</hi> Hayley w.<hi
+rend="s">h</hi> we saw” (21: 116). This comment comes only three months after the first known reference to
+Blake’s activities as a painter of miniatures. Hayley’s statement in a letter to George Romney of 3
+February 1801 that he “taught [Blake] he says to paint in Miniature, &amp; in Truth he has made a very
+creditable copy from your admirable Portrait” of William Cowper.<supplied type="spacer"> </supplied><ref
+target="n36" type="note">13</ref> Blake’s two miniatures of Cowper are still extant, as well as miniature
+portraits of Cowper’s cousin, John Johnson, and of Thomas Butts (illus. 2) and his wife and son, and Blake
+may have also executed untraced miniatures of Mrs. Hayley and George Romney.<supplied type="spacer"> </supplied><ref target="n37" type="note">14</ref> However, there is no known miniature of William Hayley nor
+any other reference to it. Marsh’s autobiography allows us to add such a work to the list of Blake’s lost
+paintings. Although Marsh states that Blake had only “drawn” the portrait, water colors were regularly
+called drawings in the eighteenth and nineteenth centuries and are still thought of as a form of finished
+drawing, as distinct from painting, in Great Britain. Thus, the miniature of Hayley may very well have been
+similar in format, style, and degree of finish to the portrait of Butts reproduced here. 
+<note id="n36"><hi rend="s">13</hi> BR 78; see also Hayley’s letter of 13 May 1801 (BR 80). For Blake’s own references to his
+activities as a miniaturist, see his letters to Butts of 10 May and 11 Sept. 1801 (E 715-16). Hayley very
+probably encouraged Blake to take up miniature portraiture, but it is doubtful that Hayley provided much in
+the way of instruction in the art.</note>
+	<note id="n37"><hi rend="s">14</hi> See Martin Butlin, <hi rend="i">The Paintings and Drawings of William
+Blake</hi> (New Haven and London: Yale UP, 1981) #346-48, 353-54, 376-78 and illus. 455, 459-60,
+476-78.</note></p>
+          <p>Blake was evidently on the periphery of John Marsh’s interests and circle of acquaintances, for
+there are only two direct references to the engraver and miniaturist in Marsh’s autobiography from the
+summer of 1801 to Blake’s return to London in the autumn of 1803. On 26 June 1801, the Marsh family “drove
+to Felpham &amp; drank tea with M.<hi rend="s">r</hi> Hayley where we met M.<hi rend="s">r</hi> Blake y<hi
+rend="s">e</hi> artist &amp; young M.<hi rend="s">r</hi> Chetwynd . . .” (21: 130).<supplied type="spacer"> </supplied><ref target="n38" type="note">15</ref> Marsh writes nothing further about this occasion, and it is
+not until 5 April 1802 that we again encounter Blake in Marsh’s autobiography: “. . . our white Cat
+produced 4 white Kittens, one of which we saved for M.<hi rend="s">r</hi> Blake of Felpham, (M<hi
+rend="s">r</hi> Hayley’s Friend) but had great difficulty in rearing it, the Cat seeming to have very little
+Milk—” (22: 77-78). The marginal gloss also records this effort: “Bred a White Kitten for M.<hi
+rend="s">r</hi><hi rend="i">Blake.</hi>” Perhaps the intended gift was prompted by Marsh having learned that
+Blake liked cats—or at least favored them over dogs. As Mrs. John Linnell, the wife of Blake’s great
+patron in the final decade of his life, wrote to her daughter Hannah in 1839, “Mr Blake . . . used to say
+how much he preferred a cat to a dog as a companion because she was so much more quiet in her expression of
+attachment. . . .”<supplied type="spacer"> </supplied><ref target="n39" type="note">16</ref> And we know
+from “The Tyger” of <hi rend="i">Songs of Experience</hi> (1794) that Blake had an intense interest in, if
+not exactly a fondness for, a feline showing a bold expression of sublimity. Marsh makes no further reference
+to giving a kitten to Blake; perhaps the problems in rearing it prevented the gift. But the mother apparently
+survived to produce more litters, or Marsh acquired another cat, for on 22 May 1805 he presented Hayley with a
+“little white kitten” (25: 10). <note id="n38"><hi rend="s">15</hi> 21: 130. The last person named is no
+doubt the same “M.<hi rend="s">r</hi> Chetwynd . . . a noble Youth” to whom John Carr refers in a letter
+to Hayley of 9 Sept. 1801 (BR 82). Carr jocularly claims that Hayley “&amp; Blake have made a Coxcomb of a
+wretched untutored Artist,” perhaps by complimenting Chetwynd’s (equally wretched?) artistic efforts.
+Blake refers to “M<hi rend="s">rs</hi> Chetwynd &amp; her Brother. a Giant in body mild &amp; polite in
+soul” in a letter to Hayley of 28 Sept. 1804 (E 755).</note>
+	<note id="n39"><hi rend="s">16</hi> Bentley, <hi rend="i">Blake Records Supplement</hi> 81.</note></p>
+          <figure n="miniaturebutts.25.2.72.bqscan" rend="file" width="350" height="511">
+            <head>2. Blake’s miniature portrait of Thomas Butts, c. 1801.</head>
+            <figDesc>Water color on ivory, 8.4 × 6.6 cm. By permission of the Trustees of the British
+Museum.</figDesc>
+          </figure>
+          <p>One of Blake’s major tasks for Hayley during his years in Felpham was the engraving and
+printing of the illustrations for Hayley’s <hi rend="i">Life, and Posthumous Writtings, of William
+Cowper.</hi> The project took considerable time and patience and was burdened with delays in the printing of
+the letterpress by Seagrave. The first two volumes were finished by 28 December 1802, for on that day the
+Marsh family visited “Miss Poole’s,” met Hayley there, and “saw the first Copy of M<hi rend="s">r</hi>
+Hayley’s Life of Cowper, now just printed by Seagrave of Chichester soon after which M.<hi rend="s">r</hi>
+Hayley was so good as to present Edw.<hi rend="s">d</hi> with a Copy, who had in y<hi rend="s">e</hi> Autumn
+frequently assisted him at Miss Poole’s on Tuesday &amp; Friday Mornings, in examining &amp; correcting
+Proof Sheets of the Work—” (23: 62). Apparently the gift to Edward took place some weeks after 28
+December, for in his letter to Hayley from Oxford on 11 January 1803, Edward was still enquiring about
+Blake’s progress on “the little quintettoes of Cowper’s hares,” no doubt a reference to the
+<pb id="p25-73" n="73"/>
+engraving picturing Cowper’s weatherhouse and three tame hares in the second volume of <hi rend="i">The Life
+of Cowper.</hi><supplied type="spacer"> </supplied><ref target="n40" type="note">17</ref>
+	<note id="n40"><hi rend="s">17</hi> See Essick, “Blake, Hayley, and Edward Garrard Marsh” 70.</note></p>
+          <p>John Marsh paid little heed to Blake’s artistic activities, but the latter’s trial for
+sedition at the Chichester Quarter Sessions, 11 January 1804, was a sufficient <hi rend="i">cause
+célèbre</hi> to attract the notice of the assiduous autobiographer. Although Blake’s trial and the actions
+leading to it are well documented, the importance of these matters to Blake’s life warrants complete
+quotation of Marsh’s rather rambling and repetitive description of the events of 10 and 11 January (see
+illus. 3).</p>
+		<q>
+M.<hi rend="s">r</hi> Blake of Felpham, y<hi rend="s">e</hi> Engraver employd by M.<hi rend="s">r</hi> Hayley,
+having in the last Autumn been accused by 2 Soldiers [John Scolfield and his comrade John Cock] quarter’d
+there of having spoken seditious words, he was taken up (but bailed by M.<hi rend="s">r</hi> Hayley) &amp;
+y<hi rend="s">e</hi> 2 Soldiers bound over to prosecute, which cause came on to be tried at y<hi
+rend="s">e</hi> Quarter Sessions at Chichester on Tuesday the 10.<hi rend="s">h</hi> on which day M.<hi
+rend="s">r</hi> Hayley who meant to be examined as to his character &amp; to speak in his favor, came over to
+breakfast &amp; spend the day with us, during y<hi rend="s">e</hi> greatest part of which we all attended y<hi
+rend="s">e</hi> Hall [the Guildhall where the trial was to take place], but y<hi rend="s">e</hi> Trial did not
+come on. In the evening therefore after tea (at which we were joined by M<hi rend="s">r</hi> [Samuel] Rose the
+<figure n="marshmss.25.2.73.bqscan" rend="file" width="600" height="373">
+	<head>3. John Marsh, manuscript autobiography, vol. 24, pages 26-27, containing the beginning of Marsh’s
+description of Blake’s trial, 10 and 11 January 1804.</head>
+	<figDesc>Text in ink, each leaf 19.5 × 15.5 cm. Huntington Library.</figDesc>
+</figure>
+Advocate employed by M.<hi rend="s">r</hi> Hayley for his protegée [sic]) M.<hi rend="s">r</hi> Hayley
+return’d to Felpham in preference to sleeping from home &amp; return’d the next morning, when he &amp; I
+again attended y<hi rend="s">e</hi> Hall till about 4. when at length y<hi rend="s">e</hi> cause came on &amp;
+lasted till after 5 when M<hi rend="s">r</hi> B. was fortunately <hi rend="i">acquitted</hi>, the Soldiers
+(who were examined separately) not agreeing in their evidence &amp; failing to make good their accusation.
+M.<hi rend="s">r</hi> Hayley now taking a hasty dinner with us at ½ past 5. returned home, &amp; M[r] Blake
+by the next day’s coach to London, where he now resided.—At the begginning [sic] of all this bustle I
+receiv’d a piece of News, as afflicting as it was unexpected, viz.<hi rend="s">t</hi> an account of the
+death of my Bro<hi rend="s">r</hi> in Law M.<hi rend="s">r</hi> Williams of Nottingham, of whose previous
+illness we had not heard. The Letter arrived just as we had done breakfast [on the 10th] . . .[.]—As M.<hi
+rend="s">r</hi> Hayley was to dine with us that day &amp; his friend M.<hi rend="s">r</hi> Rose the
+Counsellor, M<hi rend="s">r</hi> Dally y<hi rend="s">e</hi> attorney were occasionally coming to y<hi
+rend="s">e</hi> house, I thought if M.<hi rend="s">rs</hi> M[arsh]. was made acquainted with this news, it
+wo.<hi rend="s">d</hi> throw us all into confusion. I therefore having imediately on opening the Letter
+discover’d that it announc’d <hi rend="i">bad news</hi>, walked as if accidentally out of y<hi
+rend="s">e</hi> room with y<hi rend="s">e</hi> Letter in my hand &amp; having read it walked into y<hi
+rend="s">e</hi> Town; M.<hi rend="s">rs</hi> M. being going with M.<hi rend="s">r</hi> Hayley to the Townhall
+to hear M<hi rend="s">r</hi> Blake’s trial, where I afterw.<hi rend="s">ds</hi> join’d them &amp; staid
+till 4. when however it not being likely to come on soon, we adjourn’d to dinner, after w.<hi
+rend="s">h</hi> hearing it wo.<hi rend="s">d</hi> not come on ’till y<hi rend="s">e</hi> next day, M.<hi
+rend="s">r</hi> Hayley after tea return’d home.<supplied type="spacer"> </supplied><ref target="n41"
+type="note">18</ref>
+	<note id="n41"><hi rend="s">18</hi> 24: 26-29. In the margin of p. 26 Marsh wrote “M.<hi rend="s">r</hi>
+Blake tried for <hi rend="i">Sedition</hi>,” and in the margin of p. 27 “M.<hi rend="s">r</hi> Blake 
+<hi rend="i">acquitted.</hi>”</note></q>
+          <p>Although Marsh’s account offers no great revelations, his comments do offer a few new bits of
+information. We already knew from the <hi rend="i">Sussex Weekly Advertiser</hi> for 16 January 1804 that the
+court session lasted two full days (BR 146-47), but Marsh’s autobiography gives the first indication that
+anyone expected Blake’s trial to begin on 10 January and was carried over to the next day. We also learn
+from Marsh that the trial began after 4 on the afternoon of the 11th, that it concluded after 5, and that
+Blake returned to London on the following day. This is very prompt justice, at least by modern standards.
+Bentley reasonably concludes that “Blake probably went to Felpham a few days before his trial, and he almost
+certainly stayed with Hayley” (BR 139). This latter point now seems less certain, at least for the 10th and
+11th. If Blake was a guest of Hayley’s during those two days, Blake would probably have traveled and dined
+with him; yet Marsh, in his several descriptions of Hayley’s activities, makes no reference to Blake as
+Hayley’s companion outside the Guildhall. Further, in his list of “The more prominent events of y<hi
+rend="s">e</hi> year 1804,” Marsh indicates that Hayley spent the crucial two days with him, not with Blake:
+“2. M.<hi rend="s">r</hi><hi rend="i">Blake</hi> the <hi rend="i">engraver tried</hi> at the 
+<hi rend="i">Sessions</hi> for Sedition, &amp; M.<hi rend="s">r</hi><hi rend="i">Hayley</hi> spent <hi rend="i">2
+days w</hi>.<hi rend="s">th</hi><hi rend="i">us</hi>” (24: 143). Such absences cannot be the basis for solid
+conclusions, but the engraver and his former patron may not have been on the friendliest of social terms even
+in the midst of Blake’s trial.</p>
+          <p>On 19 July 1804, Edward brought “M<hi rend="s">r</hi> Iremonger,” a “young Oxford
+friend,” with him on a visit to Chichester (24: 82). On the 23rd Edward took “M.<hi rend="s">r</hi> I—.
+. . to meet M.<hi rend="s">r</hi> Hayley (to whom M.<hi rend="s">r</hi> Iremonger had a great desire to be
+introduced) . . .”(24:83). The two young men went again to see the poet a week later (24: 84-85). Perhaps
+Edward’s Oxford colleague was a relative of the Elizabeth Iremonger who
+<pb id="p25-74" n="74"/>
+later owned a copy of <hi rend="i">Songs of Innocence and of Experience.</hi><supplied type="spacer"> </supplied><ref target="n42" type="note">19</ref> Did Mr. Iremonger’s friendship with Edward Marsh or his
+introduction to Hayley lead eventually to Blake and the purchase of one of his illuminated books? Speculation
+is tempting, but no conclusions can be drawn, particularly since Blake had long since left Felpham and the
+Marsh and Hayley circles seem to have drawn apart by the next year. Beginning in 1805, we find in John
+Marsh’s autobiography ever fewer references to Hayley, although Harriet Poole is still to be met with from
+time to time. As for Hayley’s friend, the engraver and miniature painter who lived for a few years in a
+Felpham cottage, there is not a word. 
+                        <note id="n42"><hi rend="s">19</hi> See G. E. Bentley, Jr., <hi rend="i">Blake
+Books</hi> (Oxford: Clarendon Press, 1977) 413, provenance of copy D. For Henry Crabb Robinson’s friendship
+with Elizabeth Iremonger in 1810, see BR 224.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

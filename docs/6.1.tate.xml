@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.tate</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Tate Cleans The Penance of Jane Shore</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-1-0002">
+            	<pb id="p06-5" n="5"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">TATE CLEANS “THE PENANCE OF JANE SHORE”</hi>
+                        </title>
+                    </head>
+                    <p>When the Tate Gallery cleaned its version of “The Penance of Jane Shore” recently, an
+old question about the picture was answered, and a new fact discovered. According to Martin Butlin of the
+Tate, the Jane Shore picture “was hitherto known as a varnished watercolor and there has been some debate as
+to whether the varnish was added by Blake himself, but in fact the varnish proved to have been applied in the
+mid-nineteenth century and cleaned off without difficulty. Underneath there is, however, a thin application of
+size which may well be Blake’s own, added to enrich the tones of the watercolor beneath, as was common among
+other artists of the period. The original freshness of color can now be seen and the appearance of the
+watercolor has also been improved by re-framing.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

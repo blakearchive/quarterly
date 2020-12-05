@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.gleckner</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and Fuseli in a Student’s Letter Home</title>
+        <author n="Gleckner">Robert F. Gleckner</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0004">
+      	<pb id="p06-71" n="71"/>
+          <head>
+            <title type="main">BLAKE AND FUSELI IN A STUDENT’S LETTER HOME</title>
+          </head>
+          <byline>
+            <docAuthor>Robert F. <name>Gleckner</name></docAuthor>
+          </byline>
+          <p>In a chapter entitled “English Painters” in the anonymous <hi rend="i">Letters from an Irish
+Student in England to His Father in Ireland</hi> (London: Cradock and Joy, 1809), two volumes bound in one, is
+the following passage:
+<q>
+As you have heard so much of Mr. Fuzeli, I fear you would suspect that I have negligently passed over his
+works, were I to omit mentioning him here. If such an apprehension did not operate, I should certainly
+scarcely think he merited posterity. I sincerely hope he will afford them more gratification than he does his
+contemporaries. He has a great admirer and defender, I believe the only one, in a Mr. W. Blake, a miserable
+engraver, and one of the most eccentric men of the age. This man has hailed him as the modern Michael Angelo.
+For my part, I have never seen a painting of Fuzeli, his Night-Mare excepted, which has certainly merit, which
+did not appear to be the crude efforts of a man writhing under an agonizing dream of indigestion.—Every
+figure appears to be a grave and mysterious caricature. The faces of his men are generally very livid, with
+their eyeballs starting from their sockets; and his ladies have as usually a greenish complexion. Their
+attitudes are always forced into painful distortion, and the feet of both sexes never fail to terminate in a
+tapering point, almost as sharp as the steel spur of a game cock.<lb/>
+In most of his works chaos seems to “have come again;” indeed, with such incomprehensible sublimity are his
+subjects sometimes handled, that the men employed at the academy by the hanging committee to hang up the
+paintings according to their directions, previous to the annual exhibition, actually, by a most ludicrous
+mistake, suspended one of his pictures with the bottom upwards, from conceiving that the top was the
+bottom.<lb/>
+Fuzeli is a man of learning, and, in his academical lectures, some of which I have perused, much genius,
+ability, and depth of thought and reading, are displayed. It is to be lamented that he does not wholly
+substitute the pen for the pencil. This is the man who threw Cowper, the poet, into a relapse of melancholy
+madness, by saying that he was an incorrigible dog, for not immediately adopting some correction which Fuzeli
+made in his MS. prose translation of Homer. Indeed, I am told there is a moroseness and haughtiness in the
+spirit and manners of this man both forbidding and disgusting. I do not, however, think his mind is as
+frightful as his pictures; though his pride sometimes gets the better of his reason.
+</q>
+The only indication we have of the author is in the Preface, which describes him as “an Irish gentleman, who
+lately prosecuted his legal studies in this country to qualify him for the Irish bar. . . .” 
+<note type="unreferenced" place="footer"><hi rend="i">Robert F. Gleckner is Professor of English and Dean of the
+College of Humanities at the University of California, Riverside. He is the author of</hi> The Piper and the
+Bard: A Study of William Blake <hi rend="i">and</hi> Byron and the Ruins of Paradise, <hi rend="i">and editor
+of</hi> Romanticism: Points of View.</note></p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

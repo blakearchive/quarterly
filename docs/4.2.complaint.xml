@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.complaint</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Complaint of Job</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-2-0003">
+				<pb id="p04-36" n="36"/>
+                <head>
+                    <title type="main">
+                    	<hi rend="i">“THE COMPLAINT OF JOB”</hi><gap type="emend"/>
+                    </title>
+                </head>
+                <pb id="p04-61" n="61"/>
+				<figure n="ComplaintOfJob.4.2.bqscan" rend="file" width="700" height="474">
+					<figTranscr/>
+					<head>The de Young Museum in San Francisco announces acquisition of <hi rend="i">The
+Complaint of Job</hi> (sepia wash on paper, 13 3/4″ × 19″) one of many items in the T. Edward Hanley
+Collection donated to the Museum by Mrs. Tullah Hanley.</head>
+					<figDesc>According to Keynes and Wolf’s <hi rend="i">William Blake’s Illustrations
+to the Bible</hi>, this picture was sold at Christie’s in 1949. Its location is given by Keynes and Wolf as
+“Not traced (U.S.A.).”
+					<p><hi rend="i">Published by permission of the M. H. de Young Memorial Museum. 
+San Francisco</hi></p></figDesc>
+				</figure>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

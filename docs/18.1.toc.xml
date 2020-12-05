@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.1</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>Stephen Leo Carr</name>
+              <name>V.A. De Luca</name>
+              <name>Jenijoy La Belle</name>
+              <name>Alicia Ostriker</name>
+              <name>David Punter</name>
+              <name>Joseph S. Salemi</name>
+              <name>Santa Cruz Blake Study Group</name>
+              <name>Thomas A. Vogler</name>
+              <name>Bette Charlene Werner</name>
+              <name>Andrew Wilton</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <front>
+      <pb id="p18-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.018.01.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 18<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1984</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-18-1-0001">
+        <table id="contents" rows="12" cols="2">
+          <row>
+    		<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+    		</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.erdman">David V. Erdman, ed., <hi rend="i">The Complete
+Poetry and Prose of William Blake</hi></ref>, reviewed by the Santa Cruz Blake Study Group</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.worrall">Stephen D. Cox, <hi rend="i">“The Stranger Within
+Thee”: Concepts of the Self in Late Eighteenth-Century Literature</hi></ref>, reviewed by David
+Worrall</cell>
+            <cell>31</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.werner">Pamela Dunbar, <hi rend="i">William Blake’s
+Illustrations to the Poetry of Milton</hi></ref>, reviewed by Bette Charlene Werner</cell>
+            <cell>33</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.carr">W.J.T. Mitchell, ed., <hi rend="i">The Language of
+Images</hi></ref>, reviewed by Stephen Leo Carr</cell>
+            <cell>35</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.vogler">Zachary Leader, <hi rend="i">Reading Blake’s
+“Songs,”</hi></ref> reviewed by Thomas A. Vogler</cell>
+            <cell>39</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.labelle">James Bogan and Fred Goss, eds., <hi rend="i">Sparks
+of Fire: Blake in a New Age</hi></ref>, reviewed by Jenijoy La Belle</cell>
+            <cell>48</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.salemi">Aquilino Sanchez Perez, <hi rend="i">Blake’s
+Graphic Work and the Emblematic Tradition</hi></ref>, reviewed by Joseph S. Salemi</cell>
+            <cell>50</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.ostriker">Jean H. Hagstrum, <hi rend="i">Sex and
+Sensibility: Ideal and Erotic Love from Milton to Mozart</hi></ref>, reviewed by Alicia Ostriker</cell>
+            <cell>52</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.wilton">Robert N. Essick and Morton D. Paley, 
+<hi rend="i">Robert Blair’s</hi> The Grave, <hi rend="i">Illustrated by William Blake</hi></ref>, reviewed by
+Andrew Wilton</cell>
+            <cell>54</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.deluca">Minna Doskow, <hi rend="i">William Blake’s</hi>
+Jerusalem: <hi rend="i">Structure and Meaning in Poetry and Picture</hi></ref>, reviewed by V.A. De
+Luca</cell>
+            <cell>56</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.1.punter">Blake/Hegel/Derrida: A response to Nelson Hilton’s
+review of <hi rend="i">Blake, Hegel and Dialectic</hi></ref>, by David Punter</cell>
+            <cell>58</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-18-1-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">STEPHEN LEO CARR</hi> teaches at the University of Pittsburgh. He has published
+several articles on Blake’s graphic art, and is at work on a book that interrelates Blake’s print-making
+process and his strategies of literary and pictorial representation.</p>
+        <p><hi rend="b">V.A. DE LUCA</hi> of the University of Toronto is at work on a book about Blake and
+the poetics of the sublime.</p>
+        <p><hi rend="b">JENIJOY LA BELLE</hi> is an Associate Professor of Literature at the California
+Institute of Technology.</p>
+        <p><hi rend="b">ALICIA OSTRIKER</hi> is the editor of Blake’s <hi rend="i">Complete Poems</hi>
+(Penguin) and has cogitated on Blake and sex in this journal. Her most recent book of poems is <hi rend="i">A
+Woman Under the Surface</hi> (Princeton). She is a Professor of English at Rutgers University.</p>
+        <p><hi rend="b">DAVID PUNTER</hi> is Senior Lecturer in English Studies at the University of East
+Anglia. His writings on Blake include <hi rend="i">Blake, Hegel and Dialectic</hi> (Amsterdam, 1982) and
+articles in <hi rend="i">Studies in Romanticism, Literature and History</hi> and <hi rend="i">Criticism.</hi>
+His most recent work, “The Sign of Blake,” will be appearing in <hi rend="i">Criticism</hi> shortly.</p>
+        <p><hi rend="b">JOSEPH S. SALEMI</hi> is on the adjunct faculty of the Humanities Department at New
+York University. His interest in Blake dates from a seminar with Aileen Ward in 1976.</p>
+        <p>The <hi rend="b">SANTA CRUZ BLAKE STUDY GROUP</hi> is at work on a review of contemporary Blake
+criticism.</p>
+        <p><hi rend="b">THOMAS A. VOGLER</hi> is Professor of Literature at the University of California,
+Santa Cruz. He has recently co-edited (with Nelson Hilton) a collection of essays on Blake, 
+<hi rend="i">Unnam’d Forms: Blake and Textuality</hi>, to be published by The University of California Press in
+1985.</p>
+        <p><hi rend="b">BETTE CHARLENE WERNER</hi> is Editor of Publications for the Healthcare Internal Audit
+Group and an Instructor of English at The University of Toledo. Her book on Blake’s Milton illustrations
+will be published by Bucknell University Press. 
+                </p>
+        <pb id="p18-3" n="3"/>
+        <p><hi rend="b">ANDREW WILTON</hi> is an Assistant Curator, Department of Prints and Drawings, at the
+British Museum. His most recent publication is <hi rend="i">Turner and the Sublime.</hi></p>
+        <p><hi rend="b">DAVID WORRALL</hi> teaches in Newcastle-upon-Tyne, England. His article on Blake’s
+star imagery, “The ‘Immortal Tent,’ ” appeared in <hi rend="i">Bulletin of Research in the
+Humanities.</hi></p>
+      </div1>
+      <div1 id="BQ-18-1-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+      </div1>
+      <div1 id="BQ-18-1-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Chapel Petty, University of New Mexico.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake / An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Languge Notes</hi>’ annual Romantic Bibliography, ART bibliographies
+MODERN, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <note type="unreferenced" place="footer">© 1984 Morris Eaves and Morton Paley</note>
+        <figure n="AsleepMan.18.1.bqscan" rend="file" width="700" height="171"></figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.metcalf</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Tiriel: Two Corrected First Readings</title>
+        <author n="Metcalf">Francis Wood Metcalf</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0004">
+      <pb id="p09-40" n="40"/>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">Tiriel:</hi> Two Corrected First Readings</title>
+          </head>
+          <byline>By <docAuthor>Francis Wood <name>Metcalf</name></docAuthor></byline>
+          <p>The following corrections of the <hi rend="i">Tiriel</hi> transcript will be incorporated in the
+next revised printing of David Erdman’s Doubleday text.</p>
+          <p>1. “To raise his dark &amp; burning visage thro the cleaving [world <hi rend="i">del</hi>]
+ground.”<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref>
+	<note id="n1"><hi rend="s">1</hi> G. E. Bentley, Jr.’s facsimile edition of <hi rend="i">Tiriel</hi>
+(Oxford, 1967), line 247. All line references are to this edition.</note></p>
+          <p>The deleted word is <hi rend="i">not</hi> “world,” but “earth.” The cause for the unanimous
+misreading by editors is probably the <hi rend="i">d</hi>-like form of the last of the deleting loops.
+However, this loop cannot be a <hi rend="i">d</hi> because it is preceded by two vertical strokes where 
+<hi rend="i">rl</hi> would be in “world.” Nor can these strokes be considered <hi rend="i">ld</hi> in “world”:
+ninety-two percent (336 of 363) of the serifs of word-ending <hi rend="i">d</hi> curve leftward in the poem as
+a whole; all of them (34) do so in this section. Either there is a very rare occurrence here of a straight 
+<hi rend="i">d</hi> serif, or the deleted word is not “world.”</p>
+          <p>On the positive side, and bearing in mind the narrow range of synonyms for “ground,” the deleted
+word looks more like “earth” than “world” under the deleting loops. Michael Tolley, who very generously agreed
+to examine the manuscript in the British Museum, reports that the original’s initial letter looks like 
+<hi rend="i">e</hi> but not <hi rend="i">w.</hi> In addition, the vertical strokes are similar to those of the 
+<hi rend="i">th</hi> in “Earth” of the preceding line (246), and to those of the many other 
+<hi rend="i">th</hi>’s in the surrounding text. Only the right-most portion of the crossing stroke of 
+<hi rend="i">t</hi>, crossing <hi rend="i">h</hi> as well, is clear of the loops, and it is quite faint. But many
+similar strokes are equally faint, and two nearby <hi rend="i">th</hi>’s have no crossing strokes at all:
+“the” in 243 and “doth” in 244.</p>
+          <p>The terminal hump of <hi rend="i">h</hi> is not visible, but if it were as short and flat as the
+one in “earth” of 258, it would be obscured by the last deleting loop. Finally, from a semantic stand-point
+the deleted word must be “earth.” “Earth” and “ground,” the replacement, are natural synonyms; “world” and
+“ground” are not.</p>
+          <p>2. The sequence of vicissitudes in 385-86 is recorded erroneously in Damon’s 
+<hi rend="i">Dictionary</hi>: “Such was Tiriel, [hypocrisy, the idiot’s wisdom &amp; the wise man’s folly, 
+<hi rend="i">del</hi>] compell’d . . . ” (p. 406). Alone among editors, Bentley notes that “is” in 385 was
+changed to “was,” but gives no evidence of understanding the full sequence of revision in these lines: that
+when “is” became “was,” “Tiriel” was affixed to the line-end, and the next line was cancelled.</p>
+          <p>Originally, 385 ended with “Such is,” the sense continuing in the next line: “Such is / Hypocrisy
+the idiots wisdom &amp; the wise mans folly.” Since 386 ends the page we can speculate that the sense ran on
+to perhaps an entirely different conclusion on a now-lost recto. But at some point Blake decided against an
+abstract sermon on hypocrisy
+<pb id="p09-41" n="41"/>
+and in favor of the case of the particular hypocrite<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref>; at which time he saw that he could maintain continuity and therefore save the verso by
+revising 385, deleting 386, and continuing on the present recto. Thus “Such is / Hypocrisy . . . ” became
+“Such was Tiriel / Compelld. . . .” <note id="n2"><hi rend="s">2</hi> A similar strategy lay behind the
+wholesale cancellation of 364-74, which marks a shift from a panoramic to a developmental treatment of
+Urizenic depravity. Observe in 364-69 the fourfold analysis of man in reptile form: dragon, viper, plague
+serpent, and python. The python of 369 seems to represent the class of Kings and Judges.</note></p>
+          <p>It might be objected that “Tiriel” need not have been added to 385 when 386 was cancelled; in
+other words, that “Hypocrisy” could be taken as an appositive to “Tiriel,” as Damon takes it. But Damon’s
+construction contains a double appositive, which besides sounding tortured and inept, does not sound like
+Blake, who was sparing of appositives. The correction offered above mollifies this stylistic Medusa, accounts
+for the changing of “is” to “was,” and explains the bad grammar of “Such was Tiriel Compelld” by supposing an
+originally correct “Such is Hypocrisy.”</p>
+          <figure n="Tiriel.9.2.bqscan" rend="file" width="700" height="322">
+          	<figTranscr>Earth thus I stamp thy bosom rouse the earthquake from his den<lb/>
+			To raise his dark &amp; burning visage thro the cleaving &lt;earth&gt; ground<lb/>
+			To thrust these towers with his shoulders. let his fiery dogs<lb/>
+			Rise from the center belching flames &amp; roarings. dark smoke<lb/>
+			<lb/>
+			<lb/>
+			footsteps<lb/>
+			Upon the sand. &amp;c<lb/>
+			<lb/>
+			And when the &lt;foolish crawling&gt; drone has reachd his crawling length<lb/>
+			Black berries appear that poison all around him. Such &lt;is&gt; was Tiriel<lb/>
+			&lt;Hypocrisy the idiots wisdom &amp; the wise mans folly&gt;<lb/>
+			<lb/>
+			<lb/>
+			Compelld to pray repugnant &amp; to humble the immortal spirit<lb/>
+			Till I am subtil as a serpent in a paradise<lb/>
+			<lb/>
+			9</figTranscr>
+            <head>Lines from the manuscript of <hi rend="i">Tiriel</hi></head>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

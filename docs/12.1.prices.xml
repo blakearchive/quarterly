@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.1.prices</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Higher Prices</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1978</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.1</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Lynn Goldstein</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Shelley Grieve</name>
+                            <name>Kris Lackey</name>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Mary Clarke</name>
+                            <name>Raymond H. Deck, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Ruth E. Fine</name>
+                            <name>Frank Graziano</name>
+                            <name>Jean H. Hagstrum</name>
+                            <name>Gunnar Harding</name>
+                            <name>Christopher Heppner</name>
+                            <name>Joe Napora</name>
+                            <name>Martin K. Numri</name>
+                            <name>Morton D. Paley</name>
+                            <name>R. W. Peattie</name>
+                            <name>Marcia Tillotson</name>
+                            <name>Gunnel Tottie</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date value="1978"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <pb id="p12-72" n="72"/>
+            <div1 id="BQ-12-1-0013">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWSLETTER</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">HIGHER PRICES</hi>
+                        </title>
+                    </head>
+                    <p>Subscription prices for <hi rend="i">Blake</hi> have been raised
+                        considerably, as you will have no doubt noticed. The following explanation
+                        and apology was mailed with this year’s bills:</p>
+                    <p>Dear Subscriber</p>
+                    <p>With your annual bill for another year’s subscription to <hi rend="i">Blake</hi>, we
+would like to offer an apology for contributing to the
+                        increases in your cost of living.</p>
+                    <p>You will notice that the price of a subscription has increased to $10 for
+                        individuals, $12 for institutions. We <hi rend="i">hope</hi> you havealso
+                        noticed that the number of pages in an average issue of <hi rend="i">Blake</hi> has
+increased proportionately during the past year. Our
+                        issues have been running about 80 pages. When we were the <hi rend="i">Blake
+                            Newsletter</hi> issues averaged 24-44 pages. We hope you have also
+                        noticed that <hi rend="i">Blake</hi> gets a <hi rend="i">lot</hi> of text on
+                        a single page, much more than the average 6 × 9 scholarly journal
+                        that prints 1 column per page. And finally, we don’t think you could
+                        have missed the illustrations, which are very expensive to print, but which
+                        we think make <hi rend="i">Blake</hi> especially useful to you as a
+                        scholar.</p>
+                    <p>We would also like to assure you that we take every economy to keep the cost
+                        of our issues as low as possible. <hi rend="i">All</hi> the layout and
+                        pasteup of our journal is done by unpaid volunteer editorial assistants, for
+                        example. That is extremely unusual for a scholarly journal, if not unique.
+                        If that work were turned over to professionals, the cost of <hi rend="i">Blake</hi>
+would soar.</p>
+                    <p>And, despite the economies, despite the increase in your subscription price,
+                        the cost of <hi rend="i">Blake</hi> is still heavily subsidized by the
+                        University of New Mexico. The subsidy has, in fact, just been increased.</p>
+                    <p>Finally, we hope that you will take a moment to consider that the fat issues
+                        of <hi rend="i">Blake</hi> are costing you only about $2.50 each—even
+                        at the $10 per year price.</p>
+                    <p>Thank you in advance for your patience. Yours truly, The Editors.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

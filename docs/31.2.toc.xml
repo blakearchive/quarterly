@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.2</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>A.A. Gill</name>
+              <name>Michael Phillips</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <front>
+      <pb id="p31-41-42" n="41-42"/>
+      <div1 id="cover">
+        <figure n="cover.031.02.bqscan" rend="file" width="258" height="333">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 31<lb/>
+            NUMBER 2<lb/>
+            FALL 1997</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-31-2-0001">
+        <table id="contents" rows="6" cols="2">
+          <row>
+            <cell>
+       	 	  <head>
+          	  	<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi><ref target="nE" type="note">*</ref>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.2.phillips">William Blake and the Sophocles Manuscript
+Notebook</ref><lb/>
+<hi rend="i">by Michael Phillips</hi></cell>
+            <cell>
+              <hi rend="i">44</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.2.bentley">William Blake and the Sophocles Enigma</ref><lb/>
+<hi rend="i">by G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">65</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.2.gill">English File: Poetry Backpack: William
+Blake.</ref><lb/>
+<hi rend="i">Reviewed by A. A. Gill</hi></cell>
+            <cell>
+              <hi rend="i">71</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p31-43" n="43"/>
+      <div1 id="BQ-31-2-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G. E. Bentley, Jr., is the editor of <hi rend="i">Vala</hi> (1963), <hi rend="i">Tiriel</hi>
+(1967), and <hi rend="i">William Blake’s Writings</hi> (1978).</p>
+        <p>A. A. Gill is an award-winning columnist for <hi rend="i">The Times</hi> of London and the author
+of <hi rend="i">Sap Rising</hi>, a satirical novel.</p>
+        <p>Michael Phillips, formerly British Academy Research Reader in the Humanities at the University of
+Edinburgh, is completing a biography of Blake during the early 1790s, in part anticipated in “Blake and the
+Terror,” <hi rend="i">The Library</hi> (December 1994) and more recently in lectures given in France, the
+United States, and Great Britain. Another related paper has just been published in <hi rend="i">XVII-XVIII
+Bulletin de la Société d’études Anglo-Américanes des XVIIe et XVIIIe siècles</hi>, no. 44 (June 1997).
+His edition in facsimile of Blake’s manuscript of <hi rend="i">An Island in the Moon</hi> was published by
+Cambridge University Press in 1987, and <hi rend="i">William Blake Recherches pour une Biographie</hi> with a
+preface by Yves Bonnefoy was published by the Collège de France in 1995.</p>
+      </div1>
+      <div1 id="BQ-31-2-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@uclink4.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-31-2-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE /AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: Sophocles MS f. 116<hi rend="s">r</hi>. “BLAKE” in mirror-writing. Courtesy
+of Bertram Rota, Ltd. <note type="unreferenced" place="footer">© 1997 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p31-44" n="44" rend="hidden"/>
+        <note id="nE">[Editors’ Note: Each of the following essays on the
+Sophocles Manuscript was designed to stand alone. Hence there will necessarily be some duplication in the
+information presented.]</note>
+    </body>
+  </text>
+</TEI.2>

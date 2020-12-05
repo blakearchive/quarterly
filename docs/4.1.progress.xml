@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.progress</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">More Works in Progress</title>
+                <author n="Tolley">Michael J. Tolley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-1-0004">
+                <pb id="p04-3" n="3"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="u">More Works in Progress</hi>
+                        </title>
+                    </head>
+                    <p>From Sir Geoffrey Keynes: “The <hi rend="u">Blake Studies</hi>, much revised and
+greatly enlarged, is now printing at Oxford with 56 collotype plates by the Trianon Press. I am working on a
+revised edition of Mona Wilson’s <hi rend="u">Life of Blake</hi>, expected this autumn. The Blake Trust will
+publish this year <hi rend="u">All Religions are One</hi>, for which I have written a brief introduction and
+description. Dover Publications Inc. have in hand a volume of 92 pencil drawings which I have introduced and
+edited. My Trianon Press edition of the <hi rend="u">Songs</hi> will be published as a paper-back by Oxford in
+the autumn.”</p>
+                    <p>David Bindman is working on a book provisionally titled <hi rend="u">William Blake As
+an Artist</hi>, to be published by Phaidon in 1973.</p>
+                    <byline>
+                        <docAuthor>Michael J. <name>Tolley</name>
+                        </docAuthor>
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

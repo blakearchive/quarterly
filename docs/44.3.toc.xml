@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-44" status="new">
+    <idno>44.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2010-11</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2010-2011</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">44.3</biblScope>
+            <biblScope unit="volume">44</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2010-2011"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_44">
+    <front id="issue_03">
+      <pb id="p44-81-82" n="81-82"/>
+      <div1 id="cover">
+        <figure n="cover.044.03.bqscan" rend="file" width="258" height="342">
+          <figTranscr>BLAKE<lb/>
+          AN ILLUSTRATED QUARTERLY<lb/>
+            Found in the Bodleian:<lb/>
+            Blake’s Copy of Thomas Taylor’s <hi rend="i">Mystical Initiations</hi>?<lb/>
+          VOLUME 44<lb/>
+          NUMBER 3<lb/>
+          WINTER 2010-11</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-44-3-0001">
+        <table id="contents" rows="3" cols="5">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="44.3.cardinale">A Newly Discovered Blake Book: William Blake’s
+Copy of Thomas Taylor’s <hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi> (1787)</ref><lb/>
+              <hi rend="i">By Philip J. Cardinale and Joseph R. Cardinale</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+          	<cell>
+          		<hi rend="b">Reviews</hi>
+          	</cell>
+          	<cell/>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="44.3.essick">Martin Butlin, ed., <hi rend="i">William Blake’s
+Watercolour Inventions in Illustration of</hi> The Grave <hi rend="i">by Robert Blair</hi>; William Blake, 
+<hi rend="i">Songs of Innocence and of Experience</hi>, a Portfolio of Eighteen Facsimile Impressions (Flying
+Horse Editions)</ref><lb/>
+          	  <hi rend="i">Reviewed by Robert N. Essick</hi>
+          	</cell>
+          	<cell>
+          		<hi rend="i">103</hi>
+          	</cell>
+          </row>
+          <row>
+          	<cell>
+          		<ref type="article" issue="44.3.rovira">Michael Phillips and the Infernal Method of William Blake,
+Cornell Fine Arts Museum, Rollins College, 12 September 2009-3 January 2010</ref><lb/>
+          		<hi rend="i">Reviewed by James Rovira</hi>
+          	</cell>
+          	<cell>
+          		<hi rend="i">110</hi>
+          	</cell>
+            </row>
+        </table>
+      </div1>
+      <div1 id="BQ-44-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p44-83" n="83"/>
+      <div1 id="BQ-44-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>PHILIP CARDINALE (drpjcardinale@gmail.com) is an intellectual property law attorney specializing in
+copyright law at Drinker Biddle &amp; Reath LLP in Washington, DC. He holds a doctorate in English literature
+from Oxford University.</p>
+        <p>JOSEPH CARDINALE (josephcardinale@hotmail.com) is a doctoral candidate in creative writing at the
+University of Hawaii (Manoa) and holds an MFA from the University of Massachusetts (Amherst). His book of
+creative fiction, <hi rend="i">The Size of the Universe</hi>, was published by FC2 in October 2010.</p>
+        <p>ROBERT N. ESSICK has been collecting and writing about Blake for over forty years.</p>
+        <p>JAMES ROVIRA (jamesrovira@gmail.com) is assistant professor of English and program chair of
+Humanities at Tiffin University in Tiffin, Ohio. His monograph, <hi rend="i">Blake and Kierkegaard: Creation
+and Anxiety</hi>, is now available from the Continuum International Publishing Group.</p>
+      </div1>
+      <div1 id="BQ-44-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu<lb/>
+ TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College Street,
+Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+            <div1 id="BQ-44-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $66 for institutions, $33 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+              <p>Please send submissions in electronic form, documented according to the <hi rend="i">MLA
+Style Manual</hi>, and with pages numbered, to either of the editors.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x.<lb/>
+        <hi rend="i">Blake/An Illustrated Quarterly</hi> is indexed in the Modern Language Association’s
+International Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English
+Language and Literature, Humanities International Complete, Arts and Humanities Citation Index, Current
+Contents, Scopus, and the Bibliography of the History of Art.</p>
+        <p>© 2011 Copyright Morris Eaves and Morton D. Paley</p>
+              <p>Cover: Thomas Taylor, <hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi>
+(London, 1787), detail of p. vii. The Bodleian Libraries, University of Oxford (Arch. H e.181).</p>
+      </div1>
+    </front>
+    </text>
+      </TEI.2>

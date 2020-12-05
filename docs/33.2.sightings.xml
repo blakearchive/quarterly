@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>33.2.sightings</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Sightings</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1999</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">33.2</biblScope>
+            <biblScope unit="volume">33</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Keri Davies</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_33">
+    <body>
+      <pb id="p33-63" n="63"/>
+      <div1 id="BQ-33-2-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake Sightings</hi>
+            </title>
+          </head>
+          <figure n="personal-london-review-of-books.033.02.bqscan" rend="file" width="300" height="190">
+            <figTranscr>Someone else so inclined For some nookie.co.uk Box no. 24/01. ___ Why, oh why, oh why?
+Answers to 47-year-old male serving life sentence in Scottish Academia. Respondents must know absolutely
+nothing about Byron or Shelley and loathe the thought of reading Wordsworth and Keats. Blake is a
+concessionary ‘maybe’ only. Box no. 24/02. ___ Nubile, sylph-like, sex-starved 19-year-old Dutch girl
+trapped inside the body of a 57-year-old part-time lecturer in Greek art seeks male gymnast (aged 17-65)
+Hedonistic</figTranscr>
+          </figure>
+          <p>The above personal appeared in the <hi rend="i">London Review of Books</hi> 7 January 1999.</p>
+          <p>Tom Horton (Computer Science, Florida Atlantic University) reports the following exchange from a
+recent National Public Radio interview between reporter Bob Edwards and singer-songwriter-actor Kris
+Kristofferson, who revealed that, as a Rhodes Scholar at Oxford, he had studied Blake: [Edwards] “He [Blake]
+was a rebel too—they arrested him for sedition.” [Kristofferson] “He was a bad boy, but so was Hank
+Williams.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

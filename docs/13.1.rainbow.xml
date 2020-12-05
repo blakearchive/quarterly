@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.1.rainbow</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Mr. B’s Rainbow</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.1</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Cindy Lewiecki</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Susan Fox</name>
+              <name>Thomas R. Frosch</name>
+              <name>Robert F. Gleckner</name>
+              <name>Thomas V. Lange</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Morton D. Paley</name>
+              <name>Warren H. Stevenson</name>
+              <name>Robert H. Tener</name>
+              <name>Raymond E. Thompson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-56" n="56"/>
+      <div1 id="BQ-13-1-0012">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MR. B’S RAINBOW</hi>
+            </title>
+          </head>
+          <p>Readers presented two scenes from Alan Tory’s play, <hi rend="i">Mr. Blake’s Transatlantic
+Rainbow</hi>, at the College of San Mateo (California) on 15 May 1979. A workshop followed. Characters in the
+scenes included Blake, his wife, Mrs. Tattle, Fuseli, Los, Orc, and Urizen. The reading was directed by
+Richard Rohrbacher. Blake was played by Martin Ponch, Mrs. Blake by Olwen Morgan. Tory is a former chairman of
+the Social Sciences Division of the College, and the author of several books and plays.</p>
+          <figure n="TransatlanticRainbow.13.1.bqscan" rend="file" width="500" height="630">
+          	<figTranscr>Presented by College of San Mateo Poetry Center<lb/>
+          	<lb/>
+          	ALAN TORY will present<lb/>
+          	scenes from his new play<lb/>
+          	<lb/>
+          	Mr. Blake’s <lb/>
+          	Transatlantic <lb/>
+          	Rainbow<lb/>
+          	<lb/>
+          	Martin Ponch as Mr. Blake<lb/>
+          	Olwen Morgan as Mr. Blake’s wife Kate<lb/>
+          	<lb/>
+          	TUESDAY, MAY 15th<lb/>
+          	11:00 - 12:00 reading<lb/>
+          	2:00 - 3:00 workshop<lb/>
+          	CSM Student Lounge<lb/>
+          	FREE Admission<lb/>
+          	<lb/>
+          	Funded by Grants from:<lb/>
+          	SAN MATEO COMMUNITY<lb/>
+          	COLLEGE DISTRICT BOARD OF TRUSTEES<lb/>
+          	NATIONAL ENDOWMENT FOR THE ARTS<lb/>
+          	<lb/>
+          	Jean Pumphrey — DIRECTOR</figTranscr>
+          </figure>
+          <figure n="AlanTory.13.1.bqscan" rend="file" width="958" height="427">
+            <head>Photograph of Alan Tory from <hi rend="i">The San Matean</hi>, May 18, 1979</head>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

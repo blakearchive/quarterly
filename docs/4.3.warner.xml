@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.warner</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">James Vine</title>
+                <author n="Warner">Janet Warner</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+	<pb id="p04-106" n="106"/>
+            <div1 id="BQ-04-3-0008">
+                <head>
+                    <title type="section">MINUTE PARTICULARS</title>
+                </head>
+                <div2>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">JANET</hi>
+                            <name>
+                                <hi rend="i">WARNER:</hi>
+                            </name>
+                        </docAuthor>
+                        <hi rend="i">GLENDON COLLEGE, YORK UNIVERSITY, TORONTO</hi>
+                    </byline>
+                    <head>
+                        <title type="main">James Vine</title>
+                    </head>
+                    <p>James Vine, according to rumor, was supposed to have been one of Blake’s principal
+patrons, and the man who commissioned <hi rend="i">Milton.</hi> He is mentioned in the Keynes-Wolf 
+<hi rend="i">Census</hi> (p. 102), and in Bentley’s <hi rend="i">Blake Records</hi> he turns up lunching with
+Blake and Linnell (p. 275), and purchasing <hi rend="i">Job</hi>, but there is little evidence to date that he
+was a principal patron, or is there even much certainty about his identity. However, I was able to discover a
+few more details about him, while coincidentally spending last summer on the Isle of Wight.</p>
+                    <p>The <hi rend="i">Census</hi> calls him James Vine, a merchant of Puckster, Isle of
+Wight. For this information it refers to Bohns catalogue of 1843, which seems to be non-existent, according to
+<hi rend="i">Blake Records.</hi> In any case, the proper address on the Isle of Wight is Puckster Cove. Vine
+was buried in the churchyard of St. John the Baptist Church in Niton, Isle of Wight, on 16 July 1837 at the
+age of 63. In this same church, a brass plaque has been erected to the memory of his daughter, Augusta, by her
+son, Arthur.</p>
+                    <p>Augusta was born in Puckster in 1821, implying that the Vines were living in the house
+called Puckster Close at the time. This was presumably their country house, Blake and Linnell having lunched
+in London. According to the church records, Augusta married Alexander Mitchell-Innes, but their son later took
+the name of Arthur Vine Innes-Vine and lived on at Puckster Close. He is still remembered by the church sexton
+at Niton. Arthur is said to have turned Roman Catholic and sold the house before he died, having been well
+known as the local squire and benefactor. If James Vine did indeed purchase much of Blake’s work, it would
+be interesting to find out if an Innes-Vine descendant has a book or painting hidden away.</p>
+                    <p>G. E. Bentley, Jr. wrote me from England that he has recently found a few more
+<pb id="p04-107" n="107"/>
+incidental references to meetings between Mr. Vine and Linnell; perhaps the future will turn up something more
+concrete about the actual purchases of this rather elusive patron.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

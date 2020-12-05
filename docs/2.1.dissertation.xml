@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.dissertation</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Minor additions to Blake bibliography in Peattie’s chapter on
+Blake</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-1-0002">
+				<pb id="p02-4" n="4"/>
+				<p>Michael J. Tolley notes the existence of a University of London dissertation, <hi rend="u">William
+Michael Rossetti as Critic and Editor</hi> by Roger William Peattie (1966). Chapter VII (pp. 403-411) is on
+“Blake.” There are “a few minor (marginal) additions to Blake bibliography.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

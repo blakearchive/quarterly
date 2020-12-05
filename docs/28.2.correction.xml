@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.2.correction</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Correction to “Cromek’s Lost Letter about Blake’s Grave
+Designs”</title>
+		<author n="Ward">Aileen Ward</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.2</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>David Simpson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-79" n="79"/>
+      <div1 id="BQ-28-2-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Correction</hi>
+            </title>
+          </head>
+          <p>In n5 of “Cromek’s Lost Letter about <hi rend="i">Blake’s Grave</hi> Designs” 
+(<hi rend="i">Blake</hi> <corr type="emend">26</corr> [1993]: 160) G.E. Bentley, Jr. Directs readers to my article
+“‘S<hi rend="s">r</hi> Joshua and His Gang’: William Blake and the Royal Academy,” 
+<hi rend="i">Huntington Library Quarterly</hi> 52 (1989): 75-95. However, in that article I hardly mentioned
+Cromek at all. What Bentley really meant was my article “Canterbury Revisited: The Blake-Cromek
+Controversy” (<hi rend="i">Blake</hi> <corr type="emend">23</corr> [1988/89]: 80-92).</p>
+		  <byline>(<docAuthor>Aileen <name>Ward</name></docAuthor>)</byline>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

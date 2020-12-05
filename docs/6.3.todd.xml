@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.todd</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">The Rev. Dr. John Trusler</title>
+        <author n="Todd">Ruthven Todd</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <pb id="p06-71" n="71"/>
+      <div1 id="BQ-06-3-0004">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">Minute Particulars</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">THE REV. DR. JOHN TRUSLER (1735-1820)</title>
+          </head>
+          <byline>
+            <docAuthor>Ruthven <name>Todd</name></docAuthor>
+          </byline>
+          <p>In his Preface to <hi rend="i">The Letters of William Blake</hi>, 2nd ed., 1968, p. 16, Sir
+Geoffrey Keynes mentions that Trusler “established a business as a bookseller with the object of abolishing
+publishers.” A printer friend, Bernard Roberts, has recently sent me a booklet which he wrote and printed, 
+<hi rend="i">Writers and Printers in Clerkenwell</hi>, Printed for their friends by The John Roberts Press 14
+Clerkenwell Green London E.C. 1 [n.d.]. This contains further information about Trusler, “a clergyman turned
+printer and publisher, [who] was in a fair way of business in Red Lion Street during the 1780’s, being also
+the author of <hi rend="i">The Honours of the Table</hi> and <hi rend="i">The Principles of Politeness.</hi> .
+. . Dr. Trusler also wrote, printed and published collections of sermons. He had the curious idea of printing
+these in a script type, so that a preacher would sound (so Trusler imagined) as though he was reading from his
+own manuscript rather than from a printed book.” Sir Geoffrey says that his “mind was wholly antipathetic to
+Blake’s, and they could never have come to terms.” It does strike me, however, that, if the business about
+the drawing “Malevolence” had not interfered, Blake and the Rev. Dr. might have spent a pleasant hour or two
+discussing the abolition of publishers, and also the unsuspected advantages of script as a type from which to
+read. <note type="unreferenced" place="footer"><hi rend="i">Ruthven Todd of Mallorca is well known as the
+editor of the Everyman</hi> Life of Blake <hi rend="i">by Gilchrist, and as the author of numerous books and
+articles on Blake and related subjects. The most recent is</hi> Blake the Artist <hi rend="i">(Studio Vista,
+1971).</hi></note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

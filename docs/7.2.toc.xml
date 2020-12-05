@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <front>
+            <pb id="p07-25-27" n="25-27"/>
+            <div1 id="cover">
+                <figure n="cover.007.02.bqscan" rend="file" width="258" height="333">
+                    <figTranscr>Blake Newsletter 26</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-07-2-0001">
+                <table id="contents" rows="8" cols="2">
+                	<row>
+            			<cell colspan="3">
+                			<head>
+                    			<title>
+                        		<supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    			</title>
+               				</head>
+            			</cell>
+        			</row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NEWS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="7.2.temple">Temple University Blake Days</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.berkeley">Berkeley Blake Weekend</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.mla">MLA Seminar on Blake and the
+Moderns</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.erdman">Erdman Lectures</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.night"><hi rend="i">Night Thoughts</hi> Copy
+Discovered</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.veracruz">Blake in Veracruz</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.golgonooza"><hi rend="i">News from
+Golgonooza</hi></ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.sales">Sales</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.exhibitions">Exhibitions</ref></cell>
+                    </row>
+                    <row>
+                    	<cell><ref type="article" issue="7.2.work">Work in Progress</ref></cell>
+                        <cell>28</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NOTES</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John Wright, <ref type="article" issue="7.2.wright">Toward Recovering Blake’s
+Relief-Etching Process</ref></cell>
+                        <cell>32</cell>
+                    </row>
+                    <row>
+                        <cell>John E. Grant &amp; Mary Lynn Johnson, 
+<ref type="article" issue="7.2.grant">Illuminated Books in the Cincinnati Art Museum</ref></cell>
+                        <cell>40</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">BIBLIOGRAPHY</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="7.2.bibliography">A Bibliography of Blake Scholarship
+in the United Kingdom, 1972-73</ref>, Compiled by James B. Ferguson &amp; Frank M. Parisi, with the assistance
+of Michael Phillips</cell>
+                        <cell>44</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright©1974 by Morris Eaves &amp; Morton D.
+Paley</note>
+                <p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published quarterly
+under the sponsorship of the Department of English of the University of New Mexico. Support for
+bibliographical assistance is provided by the University of California, Berkeley.</p>
+                <p>Editors: Morris Eaves (University of New Mexico) and Morton D. Paley (University of
+California, Berkeley).</p>
+                <p>Associate Editor: Michael Phillips (University of Edinburgh).</p>
+                <p>Editorial Assistants: for production, Michael Davies and Judith Wallick Page; for
+subscriptions, Graham Conley (University of New Mexico).</p>
+                <p>Manuscripts are welcome. Send two copies to either of the editors: Morris Eaves, Dept. of
+English, Univ. of New Mexico, Albuquerque, N.M. 87131; Morton Paley, Dept. of English, Univ. of California,
+Berkeley, Ca. 94720.</p>
+                <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4 for one
+year, surface mail; for those subscribers overseas who want to receive their issues by air mail, $8. U.S.
+currency or international money order if possible. Make checks payable to the <hi rend="i">Blake
+Newsletter.</hi> Address all subscription orders and related communications to Morris Eaves, Dept. of English,
+Univ. of New Mexico, Albuquerque, N.M. 87131.</p>
+                <p>Some back issues are available. Address Morris Eaves. Prices: whole numbers 14, 15, 21, 22,
+23, 24, and 25, $2 each. Whole number 20 (<hi rend="i">A Handlist of Works by William Blake in the Department
+of Prints &amp; Drawings of the British Museum</hi>, edited by G. E. Bentley, Jr.), $3.</p>
+                <p>The ISSN (International Standard Serial Number) of the <hi rend="i">Blake Newsletter</hi>
+is 0006-453X.</p>
+            </div1>
+        </front>
+    	<body>
+    		<pb id="p7-48" n="48"/>
+    		<div1>
+    			<div2>
+    				<div3 type="in-memoriam">KERRISON PRESTON 1884-1974</div3>
+    			</div2>
+    		</div1>
+    	</body>
+    </text>
+</TEI.2>

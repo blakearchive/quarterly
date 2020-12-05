@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.read</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">George Frederick Cooke: Another Grave Subscriber Heard From</title>
+                <author n="Read">Dennis Read</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+        	<pb id="p11-37" n="37"/>
+            <div1 id="BQ-11-1-0009">
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">George Frederick Cooke: Another Grave Subscriber Heard
+                                From</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <hi rend="b">By</hi>
+                        <docAuthor>
+                            <hi rend="b">Dennis</hi>
+                            <name>
+                                <hi rend="b">Read</hi>
+                            </name>
+                        </docAuthor>
+                    </byline>
+                    <p>In <hi rend="i">Memoirs of George Frederick Cooke</hi>, 2 vols., ed. William
+                        Dunlap (London: Henry Colburn, 1813), is a reference to Blake which has not
+                        been previously noted. Cooke (1756-1811), a well-known actor, was a
+                        subscriber to <hi rend="i">The Grave</hi>, and among his diary entries
+                        (recorded in his <hi rend="i">Memoirs</hi>, II, 65-70) are several dealing
+                        with the arrival of his copy: 
+						<q> Thursday, Jan. 5th [1809]<lb/>
+ Received a
+                            note from a Mr. Cromek, informing me that a work I subscribed two
+                            guineas for, at Liverpool, above two years ago,<supplied type="spacer"> </supplied><ref target="n63" type="note">1</ref> and which I had entirely forgotten, is
+                            published, and requesting my address, that my copy might be sent.<supplied
+type="spacer"> </supplied><ref target="n64" type="note">2</ref>
+                            <lb/>
+                            <lb/>
+ Friday, Jan. 6th<lb/>
+                            Wrote an answer to Mr. Cromek’s note, . . .<lb/>
+                            <lb/>
+                            Thursday, Jan. 12th.<lb/>
+ Received and looked over
+                            “Blake’s Illustrations of Blair’s Poem of
+                            The Grave.”<supplied type="spacer"> </supplied><ref target="n65"
+type="note">3</ref> The etchings
+                            seem finely executed, and the printing, the letter press I mean, done in
+                            the fine style.<supplied type="spacer"> </supplied><ref target="n66"
+type="note">4</ref>
+                            <note id="n63">
+                                <hi rend="s">1</hi> Advertisements in the Liverpool <hi rend="i">Chronicle and
+Commercial Advertiser</hi> show that Cook
+                                performed at the Theatre-Royal between 19 August and 11 September
+                                1806. A short letter of introduction written for Cromek by Henry
+                                Fuseli to his patron, the Liverpool benefactor William Roscoe, is
+                                dated 16 July 1806. See G. E. Bentley, Jr., <hi rend="i">Blake
+                                    Records</hi> (Oxford: Clarendon, 1969), p. 179. Roscoe, his son,
+                                and many of his friends and associates are listed as <hi rend="i">Grave</hi>
+subscribers.</note>
+                            <note id="n64">
+                                <hi rend="s">2</hi> On the “List of
+                                Subscribers” is “George Frederick Cooke, Esq.
+                                Covent Garden Theatre.” Since the theatre burned down on 20
+                                September 1808, Cromek needed a new address for Cooke.</note>
+                            <note id="n65">
+                                <hi rend="s">3</hi> Cooke’s little
+                                approximates that on the label glued to the boards of the folio
+                                “Subscriber’s Copy”:
+                                “Blake’s Illustrations of Blair’s
+                                Grave, Engraved by Schiavonetti. 13 Plates.—Price Four
+                                Guineas.”</note>
+                            <note id="n66">
+                                <hi rend="s">4</hi> Thomas Bensley, Bolt Street, the
+                                printer of <hi rend="i">The Grave</hi>, was known for his quality
+                                work.</note>
+						</q>
+						Cooke’s diary shows that Cromek was in Liverpool for at
+                        least part of the time that Cooke was there during the latter part of August
+                        and first weeks of September, 1806. Cromek’s stay was apparently
+                        worthwhile, for the “List of Subscribers” in <hi rend="i">The Grave</hi> includes
+fifty-one Liverpool residents. Cromek probably
+                        had come to Liverpool from Birmingham, where he ran nearly identical
+                        advertisements for <hi rend="i">The Grave</hi> in the 28 July 1806
+                        Birmingham <hi rend="i">Gazette</hi> and <hi rend="i">Commercial
+                            Herald</hi>;<supplied type="spacer"> </supplied><ref target="n67"
+type="note">5</ref> he then left Liverpool
+                        probably for his native Yorkshire, where he gathered <hi rend="i">Grave</hi>
+                        subscriptions in Halifax, Pontefract, Leeds, and, finally, Wakefield, where
+                        he married Mrs. Elizabeth Charge in the parish church on 24 October 1806.
+                            <note id="n67">
+                            <hi rend="s">5</hi> The <hi rend="i">Gazette</hi>
+                            advertisement is reproduced in Geoffrey Keynes, “Blake in the
+                            Provinces,” <hi rend="i">Blake Newsletter</hi> 34 (Fall 1975),
+                            p. 41.</note>
+                    </p>
+                    <p>Cooke clearly is no intimate of either Cromek or Blake, and while he does not
+                        seem to regard his two guineas as ill-spent, his interest in his new
+                        acquisition is less than consuming. One wonders, in fact, if he ever opened
+                        his copy of <hi rend="i">The Grave</hi> again.</p>
+                </div2>
+        	<pb id="p11-38" n="38" rend="hidden"/>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

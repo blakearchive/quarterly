@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.adlard</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Milton 29: A Retort to William Frend?</title>
+				<author n="Adlard">John Adlard</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0007">
+            	<pb id="p02-73" n="73"/>
+                <head>
+                    <title type="section">
+                        <hi rend="u">
+                            <hi rend="i">QUERIES</hi>
+                        </hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. <hi rend="i">Milton</hi> 29: A Retort to William Frend?</title>
+                    </head>
+                    <p>I wonder whether anyone else has seen in <hi rend="i">Milton</hi> 29:
+					<q>
+					And every Space that a Man views around his dwelling-place<lb/>
+					Standing on his own roof or in his garden on a mount<lb/>
+					Of twenty-five cubits in height, such space is his Universe:<lb/>
+					And on its verge the Sun rises &amp; sets, the Clouds bow<lb/>
+					To meet tha flat Earth . . .<lb/>
+					. . . . . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+					As to that false appearance which appears to the reasoner<lb/>
+					As of a Globe rolling thro’ Voidness, it is a delusion of Ulro.
+					</q>
+					a retort to William Frend’s <hi rend="i">Evening Amusements</hi>, 1814, pages 40,41:</p>
+					<q>
+					Leaving the system of Newton and of all other makers of systems, let us suppose that we have never heard
+of them, and that now, for the first time, we began to reflect on our situation on this Earth, and to
+contemplate the heavenly bodies around us. A crowd of thoughts press upon the imagination, which is drawn
+every way by the multitude of objects exciting our attention. We find ourselves placed in a vast body, which
+we call Earth, apparently a plain, diversified by hill and dale, and bounded by the great expanse of air or
+heaven, which is above and around us. Had we been confined to the village or town that gave us birth and
+received no information from others, who had travelled beyond the limits of our horizon, the Earth might have
+remained to our conceptions a vast plain, bounded by the sky, and we might have been lost in the thoughts of
+what existed beyond our visible limits. . . . But the knowledge of others comes to our assistance, and we find
+that beyond our village are immense regions . . . we are convinced that the Earth is a round body, the figure
+of whose orb is nearly globular.
+					</q>
+                    <p>The year 1814 is more than a trifle late for an influence on <hi rend="i">Milton</hi>,
+but this may have been the kind of point Frend made in conversation long before he put it in print in a
+popular scientific publication. We know, from his daughter’s memoirs,<supplied type="spacer"> </supplied><ref target="n7" type="note">1</ref> that he both knew and respected Blake. <note id="n7">
+                            <hi rend="s">1</hi> Sophia Elizabeth de Morgan: <hi rend="i">Threescore Years and
+Ten</hi>, London, 1895, pages 66-68.</note>
+                    </p>
+                    <p>Mrs. Frida Knight of Reading is writing a biography of Frend. If anyone has any
+information or advice, I shall be happy to pass it on to her. Full acknowledgment will of course be made.</p>
+                    <byline>
+                        <docAuthor>John <name>Adlard</name>
+                        </docAuthor> c/o Wellesbourne Brent Road, East Brent Highbridge, Somerset
+England</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

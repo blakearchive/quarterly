@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.1</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <name>Joe Zimmerman</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Thomas Dilworth</name>
+              <name>Judy Egerton</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas V. Lange</name>
+              <name>Edward Strickland</name>
+              <name>Ruthven Todd</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <front>
+      <pb id="p14-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.014.01.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 53<lb/>
+            Volume 14<lb/>
+            Number 1<lb/>
+            Summer 1980</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-14-1-0001">
+        <table id="contents" rows="10" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.essick">Blake in the Marketplace, 1978-1979</ref><lb/>
+                            by Robert N. Essick with the assistance of Thomas V. Lange</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.egerton">David Bindman, ed., <hi rend="i">John
+Flaxman</hi></ref><lb/>
+                            reviewed by Judy Egerton</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.todd">“Poisonous Blues,” and Other Pigments</ref><lb/>
+                            by Ruthven Todd</cell>
+            <cell>31</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="14.1.bentley">Young’s <hi rend="i">Night
+Thoughts</hi> (London: R.<gap type="emend" rend="plain"/> Edwards, 
+<corr type="emend" rend="plain">1797</corr>), A New Unillustrated State</ref></corr><lb/>
+                            by G. E. Bentley, Jr.</cell>
+            <cell>34</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.strickland">John Dennis and Blake’s Guinea Sun</ref><lb/>
+                            by Edward Strickland</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.dilworth">The Antitype to Blake’s “Laughing
+Song”</ref><lb/>
+                            by Thomas Dilworth</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.1.gebentley">Blake’s Trial Documents</ref><lb/>
+                            by G. E. Bentley, Jr.</cell>
+            <cell>37</cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><hi rend="b">INDEX</hi></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><supplied type="emend" rend="plain"><ref type="article" issue="14.1.minnick">Blake/An
+Illustrated Quarterly Index to Volume XII</ref><lb/>
+                            compiled by Thomas L. Minnick</supplied></cell>
+            <cell/>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-14-1-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>G. E. BENTLEY, JR. of the University of Toronto has edited <hi rend="i">William Blake’s
+Writings</hi>, 2 vols. (1978 [1979]) and is currently working on illustrated books of Blake’s time.</p>
+        <p>THOMAS DILWORTH teaches English and Comparative Literature at the University of Windsor and is the
+author of <hi rend="i">The Liturgical Parenthesis of David Jones.</hi></p>
+        <p>JUDY EGERTON works under Martin Butlin as Assistant Keeper in the British Collection of the Tate
+Gallery, London. She has published <hi rend="i">English Watercolour Painting</hi> (Phaidon) and Catalogues of
+<hi rend="i">British Sporting and Animal Paintings</hi> and <hi rend="i">Drawings</hi> in the Mellon
+Collection.</p>
+        <p>ROBERT N. ESSICK, Professor of English at the University of California, Riverside, is the author of
+<hi rend="i">William Blake, Printmaker</hi> (Princeton, 1980) and <hi rend="i">A Catalogue of William
+Blake’s Separate Plates</hi> (forthcoming Princeton, 1982).</p>
+        <p>THOMAS V. LANGE is Assistant Curator of Printed Books at The Pierpont Morgan Library, New York, and
+is a specialist in illustrated books.</p>
+        <p>EDWARD STRICKLAND is an Assistant Professor at Universidad Interamericana de Puerto Rico and has
+taught in the states, Canada and Iran. He had published on romanticism in <hi rend="i">ELH, RLC</hi> and is a
+baroque music critic for <hi rend="i">Fanfare</hi> magazine.</p>
+        <p>RUTHVEN TODD, one of the great Blake scholars of our time, died in Mallorca in 1978. 
+<note type="unreferenced" place="footer">© 1980 by Morris Eaves &amp; Morton D. Paley</note></p>
+        <figure n="FeedTheHungry.14.1.bqscan" rend="file" width="400" height="440">
+          <head>1 “Feed the Hungry,” for the <hi rend="i">Acts of Mercy</hi>, pen and wash, 27.3 × 25.4
+cm.</head>
+          <figDesc>University College, London.</figDesc>
+        </figure>
+      </div1>
+      <pb id="p14-3" n="3"/>
+      <div1 id="BQ-14-1-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="HerculesHesperidesVase.14.1.bqscan" rend="file" width="400" height="538">
+          <head>2 “Hercules in the Garden of the Hesperides,” vase, blue jasper, white relief, height 31
+cm.</head>
+          <figDesc>City Museum and Art Gallery, Stoke-on-Trent.</figDesc>
+        </figure>
+      </div1>
+      <div1 id="BQ-14-1-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="SuperflaxZorrrn.14.1.bqscan" rend="file" width="400" height="407">
+          <head>3 <hi rend="i">Superflax: Zorrrrrrrn (Idee:</hi> Homer; <hi rend="i">Zeichnungen</hi>: John
+Flaxman; <hi rend="i">Buch und Regie</hi>: Achim Lipp; paperback, 25 pp).</head>
+        </figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL ASSISTANTS: Wendy
+Jones, Wayne Erickson, Kris Lackey, Joe Zimmerman.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12.00 for 1 year, 1 volume, 4 issues. Special rate for individuals, $10.00,
+surface mail. $17.00 for subscribers overseas who prefer air mail. U. S. currency or international money order
+if possible. Make checks payable to Blake/An Illustrated Quarterly. Address all subscription orders &amp;
+related communications to the Circulation Mgr., Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+of New Mexico, Albuquerque N. M. 87131.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque N. M. 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley California 94720</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes’</hi> annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitson Pub.).</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

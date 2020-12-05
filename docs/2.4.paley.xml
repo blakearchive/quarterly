@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.paley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Thomas Johnes, “Ancient Guardian of Wales”</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0004">
+				<pb id="p02-65" n="65"/>
+                <div2>
+                    <head>
+                        <title type="main">3. THOMAS JOHNES, “ANCIENT GUARDIAN OF WALES”</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Morton D. <name>Paley</name>
+                        </docAuthor> University of California Berkeley</byline>
+                    <p>In July of 1968, Ruthven Todd sent me an extremely interesting suggestion about the
+reference of <hi rend="i">Jerusalem</hi> 41 [46] 3-4:
+<q>
+Hereford, Ancient Guardian of Wales, whose hands<lb/>
+Builded the mountain palaces of Eden, stupendous works!
+</q>
+Mr. Todd wrote, “It is quite clearly Thomas Johnes, who built himself an Eden
+<pb id="p02-66" n="66"/>
+at Hafod. . . . Malkin’s <hi rend="i">Memoirs</hi> is dedicated to him, he was Lord Lieutenant of
+Cardiganshire, &amp;c.” As Mr. Todd did not have library facilities available to him, he asked me to pursue
+the subject, which I did with great curiosity.<supplied type="spacer"> </supplied><ref target="n8"
+type="note">1</ref></p>
+                    <p>I soon found, in the Keynes and Wolf <hi rend="i">Census</hi>, another link between
+Johnes and Blake: copy P of <hi rend="i">Songs of Innocence</hi> belonged to Johnes, having been given to him
+by Malkin. A third connection is provided by Blake’s lifelong friend George Cumberland, who in 1796
+published <hi rend="i">An Attempt to Describe Hafod</hi> (the end paper advertizes <hi rend="i">Thoughts on
+Outline</hi>, for which Blake engraved eight plates). It is clear, then, that Blake must have been aware of
+Johnes’s projects, both aesthetic and social.</p>
+                    <p>Thomas Johnes began building his estate in Cardiganshire in the early 1780’s. The
+mansion, designed in Gothic style by William Baldwin of Bath, was completed in 1788 (it has been beautifully
+drawn by Turner). By the time Cumberland visited Hafod in 1794, an octagonal library in the Moorish style had
+been added to the building. The chapel contained an altar piece by Fuseli; Johnes also planned to build a
+little druid temple. There was an extensive collection of painting, displaying the cultivated taste of a
+wealthy gentleman of the time—which is to say, it included some things Blake might have appreciated and much
+that he would have despised. Among much else, there were animal paintings by Opie and by Gilpin, a portrait of
+Richard Payne Knight by Thomas Lawrence, “A Ruined Alchymist by Salvator Rosa,” Rembrandt’s Elijah, “a
+Descent from the Cross, by Vandyck,” and a picture of the Johnes family by Romney (see Malkin, 
+<hi rend="i">The Scenery, Antiquities, and Biography of South Wales</hi> [London, 1804], pp. 350-55). When the
+house was rebuilt following a disastrous fire in 1807, Fuseli painted murals there and Stothard painted eight
+panels in the library.</p>
+                    <p>Johnes’s projects were not limited to patronizing the arts and to translating
+Froissart and publishing beautiful editions of the translations on his own press. He was also a humanitarian
+of considerable vision. According to a memoir published in the <hi rend="i">Gentleman’s Magazine</hi> after
+Johnes’s death,
+						<q>
+						Previous to 1783, when Mr. Johnes began to erect his first residence, the roads were impassable; there
+was not a post-chaise in the county: the miserable huts of the peasantry he transformed into comfortable
+habitations, and he supplied medical attendants; he employed the population in planting millions of forest
+trees upon the cheerless barrenness of the waste and mountains, as well as in other improvements; and
+instituted schools, which he and Mrs. Johnes personally attended. . . . So intent was he in improving the
+agriculture of this forlorn county, that he brought farmers from Scotland and other districts . . . and he
+distributed an excellent tract; entitled <hi rend="i">A Cardiganshire Landlord’s Advice to His
+Tenants.</hi><supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref>
+						<note id="n8">
+							<hi rend="s">1</hi> See Elizabeth Inglis-Jones, <hi rend="i">Peacocks in Paradise</hi> (London, 1950),
+p. 218.</note>                        
+						<note id="n2">
+                                <hi rend="s">2</hi> LXXVI, pt. 1 (1816), 563-4.</note>
+						</q>
+These undertakings are likely to have impressed Blake as much as they did his friends Cumberland and
+Malkin.</p>
+                    <p>Let us return to the lines in <hi rend="i">Jerusalem.</hi> “Hereford, Ancient Guardian
+of Wales . . . ” Why should an English county be chosen as Wales’s guardian? The answer lies in Johnes’s
+biography. Thomas Johnes’s father, also named Thomas, married Elizabeth Knight in 1746, and he left his
+native Cardiganshire to live at the Knights’ home—Croft Castle in Hereford.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> The younger Thomas grew up in
+<pb id="p02-67" n="67"/>
+England, and although he became M.P. for Cardigan in 1774, he did not visit Wales until the summer of 1780.
+Blake’s line therefore refers to the history of the family and can only apply to Johnes of Hafod. 
+						<note id="n3">
+                            <hi rend="s">3</hi> See Inglis-Jones, p. 31, and <hi rend="i">DNB</hi>, X, 890;
+also Rev. Charles J. Robinson, <hi rend="i">A History of the Castles of Herefordshire and Their Lords</hi>,
+London (1869), p. 37.</note>
+                    </p>
+                    <p>It is perhaps significant that in calling Hereford’s works “the mountain palaces of
+Eden,” Blake uses an expression similar to those favored by admirers of Hafod. Cumberland, for example, refers
+to Hafod as “his Elysium” (p. viii) and closes his book with a quotation from <hi rend="i">Paradise Lost:</hi>
+“ . . . Paradise/Now nearer crowns with her enclosure green,/ As with a rural mound, the champion head,/ Of a
+steep wilderness . . . ” (p. 50). Malkin wrote: “ . . . the sheep-walks on either side the Istwid, topped by
+rocks, that thrust their projections among the very clouds, remind us by what a style of nature we are
+surrounded, in the midst of an artificial paradise.”<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> And of the Johnes’ private garden, Malkin says:
+<q>
+. . . the mountain rises higher, and is covered with dwarfish growth, to which alone the ridges of these hills
+give birth. In the centre of the thicket is planted a flower garden, so carefully sheltered and judiciously
+disposed, as to realise a paradise in the wilderness.<supplied type="spacer"> </supplied><ref target="n5"
+type="note">5</ref>
+						</q>
+According to Miss Inglis-Jones, “There was a real little garden of Eden hidden among the woods at the end of a
+shady path along the river, entered by a stone gateway carved with the figures of Adam and Eve.”<supplied
+type="spacer"> </supplied><ref target="n6" type="note">6</ref> And according to the <hi rend="i">Gentlemen’s
+Magazine</hi>, after the great fire “Mr. Johnes still ‘resolved to inhabit his Eden, although driven out by
+the flaming minister.’” (p.564) 
+						<note id="n4">
+                            <hi rend="s">4</hi>
+                            <hi rend="i"> The Scenery . . . of South Wales</hi>, 341-42.</note>
+                        <note id="n5">
+                            <hi rend="s">5</hi> Ibid., 348.</note>
+                        <note id="n6">
+                            <hi rend="s">6</hi>
+                            <hi rend="i">Peacocks in Paradise</hi>, p. 95.</note>
+                    </p>
+                    <p>Mr. Todd’s intuition about Hereford, ancient Guardian, is almost certainly correct,
+and the name of Thomas Johnes may be added to those of two other contemporaries whom Blake made Friends of
+Albion—Richard Warner (Bath) and Edward Marsh (Oxford). Perhaps the identities of other Friends on plate 41
+will one day be discovered.
+                        <note type="unreferenced">I wish to thank Mrs. Janet Schwarz for bibliographical
+assistance.</note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

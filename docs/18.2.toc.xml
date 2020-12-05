@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.2</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary V. Jackson</name>
+              <name>James McCord</name>
+              <name>Jerome J. McGann</name>
+              <name>Thomas L. Minnick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <front>
+      <pb id="p18-65-66" n="65-66"/>
+      <div1 id="cover">
+        <figure n="cover.018.02.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 18<lb/>
+            NUMBER 2<lb/>
+            FALL 1984</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-18-2-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.essick">Blake in the Marketplace, 1982-1983</ref> by Robert
+N. Essick</cell>
+            <cell>68</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.bentley">The Felpham Rummer: A New Angel and “Immoral
+Drink” Attributed to William Blake</ref> by G.E. Bentley, Jr.</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.minnick">Blake and His Circle: A Checklist of Recent
+Publications</ref> by Thomas L. Minnick and Detlef W. Dörrbecker</cell>
+            <cell>100</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.albion">The Daughters of Albion and the Butts
+Household</ref> by G.E. Bentley, Jr.</cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.mccord">An Unrecorded Colored Copy of Young’s 
+<hi rend="i">Night Thoughts</hi></ref> by James McCord</cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.butlin">Two Blakes Reappear and Make Three</ref> by Martin
+Butlin</cell>
+            <cell>118</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.mcgann">Leslie Tannenbaum, <hi rend="i">Biblical Tradition
+in Blake’s Early Prophecies: The Great Code of Art</hi></ref>, reviewed by Jerome J. McGann</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.2.jackson">Charu Sheel Singh, <hi rend="i">The Chariot of
+Fire: A Study of William Blake in the Light of Hindu Thought</hi></ref>, reviewed by Mary V. Jackson</cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="18.2.conference">STS Conference</ref>, 
+              <ref type="article" issue="18.2.report">Blake Trust Chairman’s Report</ref>, 
+              <ref type="article" issue="18.2.editors">Editors Back Home</ref>
+            </cell>
+            <cell>126</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i"><supplied type="emend">INDEX</supplied></hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><ref type="article" issue="18.2.index">Blake/An Illustrated Quarterly
+Index to Volume 16</ref><lb/>
+			  compiled by Thomas L. Minnick</supplied>
+            </cell>
+            <cell/>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-18-2-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">G.E. BENTLEY, JR.</hi>, of the University of Toronto is on sabbatical leave in England
+for the 1984-85 academic year working on the illustrated-book publishers Macklin, Edwards, Bowyer, and
+Boydell.</p>
+        <p><hi rend="b">MARTIN BUTLIN</hi>, Keeper of the Historic British Collection at the Tate Gallery,
+London, is the author of numerous books on Blake and Turner and a frequent contributor to 
+<hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">D. W. DÖRRBECKER</hi> teaches art history at the University of Trier in West Germany
+and has assisted with the compilation of <hi rend="i">Blake</hi>’s annual checklist of recent publications
+since 1977.</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi> (Professor of English, University of California at Riverside)
+has recently completed a catalogue of Blake’s Job engravings (Blake Trust, forthcoming), a catalogue of the
+Huntington Blake collection (Huntington Library, forthcoming), and “How Blake’s Body Means” (for 
+<hi rend="i">Unnam’d Forms: Blake and Textuality</hi>, eds. Hilton and Vogler, Univ. of California Press,
+forthcoming).</p>
+        <p><hi rend="b">MARY V. JACKSON</hi> is Associate Professor of English at the City College of New
+York-CUNY. By way of Blake, she has become interested in early children’s books; her study, 
+<hi rend="i">Illustrated Children’s Literature in England: 1760 to 1840</hi>, will be published in late 1985.
+Currently, she is working on <hi rend="i">The Anatomy of Infant Joy</hi>, a study of memory, imagination,
+language and vision in Blake’s early poetry.</p>
+        <p><hi rend="b">JAMES McCORD</hi>, Associate Professor of English at Union College, has lectured and
+written on Blake’s poetry and art, and on the general relationships between history, literature, and art
+since the eighteenth century.</p>
+        <p><hi rend="b">JEROME J. McGANN</hi> is the Doris and Henry Dreyfuss Professor of Humanities,
+California Institute of Technology. His most recent books are <hi rend="i">The Romantic Ideology</hi> (1983)
+and <hi rend="i">A Critique of Modern Textual Criticism</hi> (1983).</p>
+        <p><hi rend="b">THOMAS L. MINNICK</hi> is Assistant Dean and College Secretary of University College
+at Ohio State and is Bibliographer of <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+	<note type="unreferenced" place="footer">© 1984 Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+      <pb id="p18-67" n="67"/>
+      <div1 id="BQ-18-2-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+		<q>
+But such our gravitation to the wrong,<lb/>
+So prone our hearts to whisper what we wish,<lb/>
+‘Tis later with the wise, than he’s aware;<lb/>
+A Wilmington goes slower than the sun;<lb/>
+And all mankind mistake their time of day;<lb/>
+Even age itself: fresh hopes are hourly sown
+</q>
+      </div1>
+      <div1 id="BQ-18-2-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Chapel Petty, University of New Mexico.</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/ An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/ An
+Illustrated Quarterly</hi> is indexed in the Modern Language Associations International Bibliography, the
+Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, ART bibliographies MODERN, American
+Humanities Index, and the Arts and Humanities Citation Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

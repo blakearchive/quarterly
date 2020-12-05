@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.grant</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Designs for L’Allegro and Il Penseroso, Part 1: A Survey of the
+Designs</title>
+                <author n="Grant">John E. Grant</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <pb id="p04-117" n="117"/>
+            <div1 id="BQ-04-4-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NOTES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">JOHN E.</hi>
+                            <name>
+                                <hi rend="i">GRANT</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">UNIVERSITY OF IOWA</hi>
+                    </byline>
+                    <head>
+                        <title type="main">Blake’s Designs for <hi rend="i">L’ALLEGRO</hi> and 
+<hi rend="i">IL PENSEROSO</hi>, With Special Attention to <hi rend="i">L’ALLEGRO</hi> 1, “Mirth and Her
+Companions”: Some Remarks Made and Designs Discussed at MLA Seminar 12: “Illuminated Books by William Blake,”
+29 December 1970</title>
+                    </head>
+                    <p>This version of my remarks has been somewhat tempered, amplified, and polished, though
+not quite as thoroughly as I should have liked. Because of the paucity of discussion devoted to this series of
+designs, however, it may be that quick publication of these observations will assist in maintaining dialogue
+about them. Several people found the diagram by Judith Rhodes, which I distributed at the Seminar and which
+accompanies my discussion here [see below], to be rather formidable, so she has added an explanation of what
+she wishes to bring out with this device.</p>
+                    <p>All the watercolors are well-reproduced in color in Adrian Van Sinderen, 
+<hi rend="i">BLAKE, The Mystic Genius</hi> (Syracuse, 1949)—Bentley and Nurmi no. 2086. They are also available
+in satisfactory color slides from the Pierpont Morgan Library. Black-and-white reproductions are included in
+John Milton, <hi rend="i">Poems in English</hi>, ed. Geoffrey Keynes (London, 1926)—Bentley and Nurmi no.
+314. They are also reproduced, much diminished, in E. J. Rose, “Blake’s Illustrations for 
+<hi rend="i">Paradise Lost, L’Allegro</hi> and <hi rend="i">Il Penseroso</hi>: A Thematic Reading,” 
+<hi rend="i">Hartford Studies in Literature</hi>, 2 (Spring 1970), 40-67, an important article to which I refer.
+The second installment of my remarks will deal at some length with Blake’s first illustration of 
+<hi rend="i">L’Allegro</hi>, “Mirth and Her Companions.” Both engraved versions of this design are reproduced
+and discussed in Geoffrey Keynes, ed., <hi rend="i">The Engravings of William Blake: The Separate Plates</hi>
+(Dublin, 1956)—Bentley and Nurmi no. 533.</p>
+                    <p>While this article was in the final state of preparation, <hi rend="i">Blake’s
+Visionary Forms Dramatic</hi>, eds. David V. Erdman and John E. Grant (Princeton, 1970) was published. It
+includes my brief interpretation of the sixth design for <hi rend="i">L’Allegro</hi>, entitled “From Fable
+to Human Vision: A Note on the First Illustration” on pp. xi-xiv, and this design is satisfactorily reproduced
+in color, while design 12 is reproduced in black-and-white. Below I have also referred the reader to
+reproductions of some of the <hi rend="i">Night Thoughts</hi> designs which are contained in this volume
+(hereafter abbreviated BVFD). As is customary, the first number after a reference to <hi rend="i">Night
+Thoughts</hi> is to its place in the entire sequence, whereas the material in parenthesis refers to the Night
+and page number; since not all pages are numbered, letters indicate the place of the picture in the sequence
+of the Night.</p>
+                    <p>I am very grateful to David Erdman for providing the slide projector at the Seminar and
+for operating it in a flawless manner. Not least helpful was his sense of pacing, which tended to encourage
+only a practicable amount of discussion for some designs that might otherwise have detained us unduly.</p>
+                    <div3>
+                        <head>
+                            <title>
+                                <hi rend="i">PART I: A SURVEY OF THE DESIGNS</hi>
+                            </title>
+                        </head>
+                        <p>In his suggestive article on “Graphic-Poetic Structuring” that appears in 
+<hi rend="i">Blake</hi>
+                            <pb id="p04-118" n="118"/>
+                            <hi rend="i">Studies</hi>, 3 (Fall 1970), Karl Kroeber proposes that we might get
+farther if we could “kick the habit of labelling” the characters depicted in <hi rend="i">Urizen</hi>, or at
+least “mitigate” it (p. 12). If he means no more than that we ought to be able to enjoy the ball-game without
+a score card, there is no need to disagree. But after having striven vainly in two letters to persuade the
+reviewer in the <hi rend="i">TLS</hi> in 1967 that the lady depicted at the end of Blake’s 
+<hi rend="i">Milton</hi> ought to be recognizable as Ololon—or <hi rend="i">somebody</hi> mentioned prominently
+in the epic—I’m not prepared to concede that Blake’s art is as peculiar or mysterious as Kroeber seems
+to imply.</p>
+                        <p>It is true that Blake’s repertoire of verbal and pictorial imagery tends to spill
+over from one work to another and that the student must read or look on further into Blake’s later works to
+find out what to make of the first appearance of, say, Rintrah. But then he discovers that he can’t just
+read backward from a later identification either. How many pictures are going to turn out not to be aligned
+with any words—even in the canon of illuminated books? It is all very perplexing, and all very simple—but
+involved.</p>
+                        <p>I’ll admit that nothing can be more dismal than the mechanical habit of labelling
+an old man Urizen, a mature man Los, and a youth Orc—unless it be the habit of attaching to these divine
+images still more outlandish names found in portentous and occult old books. Even when some kind of
+correspondence can be established, the careful scholar discovers that, well, yes, Blake meant something like
+that, but really it was quite a bit different—in fact, you might say it was just the opposite. Blake must
+not be relegated to his former state of splendid and irrelevant isolation from the main currents of thought,
+but he cannot be well represented in the guise of a philosopher, as is suggested by the inconsequential pages
+in Gillham’s intelligent book, <hi rend="i">Blake’s Contrary States.</hi>
+                        </p>
+                        <p>When we come to Blake and Milton, there really is something to talk about. The
+evidence of the watermarks indicates that the designs for <hi rend="i">L’Allegro</hi> and <hi rend="i">Il
+Penseroso</hi> constitute Blake’s last thoughts on Milton, save for some stray allusions overheard by Crabb
+Robinson and the glorious designs from the last fragmentary series for <hi rend="i">Paradise Lost.</hi> They
+are also much more complicated, more dense in particulars, than the other Milton designs and we have the great
+advantage of possessing a picture-by-picture guide written by the Interpreter himself. I had copies of
+Blake’s commentary mimeographed from the Erdman text and distributed at the Seminar to serve as reminders.
+Blake doesn’t tell us all we need to know about the pictures, but with Milton’s help we can see that Blake
+had a lot to say.</p>
+                        <p>It is not extravagant to declare that systematic published criticism of these
+designs began in 1970 with the article by E. J. Rose in the Spring issue of <hi rend="i">Hartford Studies in
+Literature.</hi> I have some important reservations about Rose’s premises, interpretations, and conclusions,
+but I wish to make it clear that I believe there are admirable things in this article. <hi rend="i">Blake’s
+Visionary Forms Dramatic</hi>, the anthology I co-edited with David Erdman, was not published by Princeton
+until February 1971; consequently the audience at the Seminar had no opportunity to read my short piece on
+design 6 for <hi rend="i">L’Allegro</hi>, which serves as part of the introduction to the volume. I brought
+mimeographed copies of the article for distribution at the Seminar for those who wished to read this
+closely-written piece after the meeting.</p>
+                        <p>I have silently incorporated into my remarks a number of points which Judith
+Rhodes—a graduate student at the University of Iowa who is writing a thesis on Blake’s designs for
+Milton—first observed, and I have discussed with her many of the ideas I shall put forth. Her diagram of the
+thematic relationships among Blake’s designs for <hi rend="i">L’Allegro</hi> and <hi rend="i">Il
+Penseroso</hi> follows my remarks here [see below]. What has proven to be most helpful to me is the
+imaginative skepticism with which she greeted a number of my
+<pb id="p04-119" n="119"/>
+plausible but invalid hunches, thus making it clear to me that I had not yet reached an understanding of
+Blake’s meaning. Doubtless errors remain in the interpretations I am advancing and I look forward to their
+being pointed out by others, but for now I take entire responsibility for them.</p>
+                        <p>We all know that Blake is complicated, but we tend to shy away from geometrical
+descriptions of his complexities partly because, as Frye has pointed out, Blake himself generally avoided
+them. At first glance Mrs. Rhodes’s diagram seems somewhat bewildering, but after a little study it enables
+us to recognize some of the pervasive interrelations among these designs. No doubt, after glancing at the
+diagram, someone will think: “How Urizenic: bring out the compasses in the year of dearth.” I would hope to
+reassure those who are uneasy that all legitimate apprehensions have been anticipated and are shared by Mrs.
+Rhodes. Certainly not all the relationships indicated are of precisely equal weight. Nor are all the
+connections indicated equally verifiable: that between designs 2 and 9, for example, is probably a contrastive
+or contrary relationship, not a connection of similarities. And there is an important connection in symbolism
+between figures in designs 1 and 9 that the diagram does not call attention to. Doubtless all the designs are
+somehow connected, but to say this is merely to utter a pre- or post-critical hypothesis: the question is,
+how?</p>
+                        <p>In the Seminar I showed slides of the whole <hi rend="i">L’Allegro</hi> and 
+<hi rend="i">Il Penseroso</hi> series fairly rapidly, not pausing for much comment on each. Then I made some more
+general remarks before turning to a detailed consideration of the first design, “Mirth and Her Companions.”
+This method helps to place Blake’s initial premise—his first design—more clearly since we must achieve
+an awareness of its consequences or its “context” within the rest of the series before we can appreciate the
+weight of the design itself. Since there are also two engraved versions of this first design, in contrast to
+the others, an expositor has a great deal of symbolism to work with. We also looked at some other Blake
+designs that seem relevant or illuminating in one way or another to particulars in the first design.</p>
+                        <p>In a survey of the designs it seems best to point out details of possibly symbolic
+significance that might not be noticed or would have an uncertain status if one depended entirely on the
+Morgan Library slides, which tend to turn blue into black, and the reproductions in the Van Sinderen volume,
+which are done with a fairly crude screen process. One should observe that Blake numbered the designs
+consecutively in his commentary, the sheets of which have been laid down, thus obscuring some writing on the
+other sides of the pages. It is also noteworthy that many, if not all, of the original designs have been
+trimmed, sometimes irregularly, across the bottoms especially, often cropping part of the signatures. This can
+be observed in the Van Sinderen reproductions which happily reproduce the entirety of each picture, a practice
+that is too often not respected in the reproductions contained in the art books that are turned out today.
+These wonderful pictures are not the only ones of Blake’s that have been unconscionably trimmed. The great
+series for “On the Morning for Christ’s Nativity,” now in the Whitworth Art Gallery, Manchester, and
+Blake’s greatest undertaking, his designs for Young’s <hi rend="i">Night Thoughts</hi>, have been
+similarly trimmed. I gather from an art historian that the edges of pictures were, in former times, commonly
+trimmed when the paper had become worn or ragged. If this aspect of the drawings is unremarkable, though
+lamentable, another minutia may be more meaningful. I would be glad to have an explanation of what seems to be
+the form of the signature, “W. Blake inv,” on one side or the other at the bottoms of all the pictures save
+the first, where the “inv” precedes the signature. Possibly this variation has some significance; can anyone
+say for certain what “inv” should be understood to imply with respect to subsequent engraving?</p>
+                        <p>
+                            <hi rend="i">MIRTH</hi> [fig. 1] Of the balanced groups of buildings the one on
+the right has a
+<pb id="p04-120" n="120"/>
+distinct area of water in front of it. Most of the figures are significantly altered in the engraved versions.
+Even without using the altered engraved versions as a standard, the indistinctness of some of the figures is
+more noteworthy in this than in any other of the designs. The female figure at the right does not have cat
+whiskers in the watercolor, as she does in the engraved versions, but wears a remarkable twist or cue of hair
+quite like that of the flyer at two o’clock as he is represented in the watercolor version only. At first he
+is depicted carrying a wand in his left hand and seems to be controlling four small balls, but in the engraved
+versions he trails a scroll, being closely related in posture and deed to the figure in the Upcott autograph.
+<figure n="but543.1.1.wc" id="but543.1.wc.01" work-copy="but543.1" rend="db" width="761" height="1000">
+	<figTranscr>Inv WBlake</figTranscr>
+                                <head>1 “Mirth” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+                            <pb id="p04-121" n="121"/>
+There is no figure standing on the upraised left hand of the ass-eared figure in the watercolor and the two
+flyers above him are uncertainly related, whereas in the engraving the upper flyer fills the goblet of the
+lower one from a pitcher. The bubble-blowing trumpeter at the top in the watercolor takes off from between the
+thumb and forefinger of Mirth, whereas in the first state of the engraving he is launched from her thumb,
+while in the second state Mirth’s hand is shifted to support the infant that flies from the outermost to the
+innermost figure at one o’clock. In the watercolor the outermost figure seems to have her arms crossed over
+her breasts and to be hugging at least two objects to her, though what they are is not ascertainable. At
+<figure n="but543.1.2.wc" id="but543.1.wc.02" work-copy="but543.1" rend="db" width="770" height="1000">
+	<figTranscr>WBlake nv</figTranscr>
+                                <head>2 “The Lark” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+                            <pb id="p04-122" n="122"/>
+least five figures (the two at the right are very indistinct) surround the head of Mirth in the watercolor
+version, whereas they are distinctly figured as two pipers and two tambourinists in the engraved versions.
+Mirth’s rose crown is clear in the watercolor and her unnaturally curved neck is nevertheless pleasingly
+drawn, though Blake rejected this piece of pictorial Mannerism (as Morton Paley correctly described it) in the
+second engraved state. The face of “Care” is covered with distinct red wrinkle-lines in the original. Sweet
+Liberty, the Nymph held daintily at the viewer’s left, has no bow in the watercolor version, though a line
+near her waist indicates that Blake had considered drawing her with a weapon at this early stage. The male
+figure of “Jest” looks at “Youthful Jollity” in the watercolor version only, evidently behind Mirth’s back,
+since they are not quite in line with her. The five main figures have a suggestive relationship with the
+mysterious and more sedate five who are lined up in the direction of eternity’s sunrise in the Canterbury
+Pilgrimage picture.</p>
+                        <p>
+                            <hi rend="i">THE LARK</hi> [fig. 2] One cannot disregard Blake’s specific
+identifications of the figures in this beautiful, comparatively simple, picture. The bow being spread above
+the head of Dawn may be compared to that wielded by the Holy Spirit of Orc in the second version of the
+Genesis titlepage; she trails red flowers which become an important motif in the designs for <hi rend="i">Il
+penseroso.</hi> Those who have contended that in Blake’s pictures it is dawn invariably which is depicted as
+occurring on the right and sunset invariably on the left must alter their opinion. E. J. Rose declared that
+the long-haired figure arising in the foreground is Milton himself, but even if Blake had not explicitly told
+us that she is Earth we should know this from the pictorial analogies. In my opinion there is no critical
+justification for asserting (to anticipate) that this figure is “both Earth and Milton, depending on how you
+look at it.” The figure of Milton per se only appears once in the designs for <hi rend="i">L’Allegro</hi>,
+the following one.</p>
+                        <p>
+                            <hi rend="i">THE GREAT SUN</hi> [fig. 3] The Eastern Gate is carefully indicated
+with its threshold just above the central mountain peak, which has a group of buildings on the plain in front
+of it. The plowman with his ox, the milkmaid with two recumbent cattle, the mower with his scythe over his
+head, Milton standing looking up, with his back turned from two lovers, are all distinctly delineated between
+the two framing trees that have fly-people in them. The four distinct trumpeters are accompanied by two less
+distinct ones within the sun, while two more trumpeters stand in readiness on the threshold. Six clouds empty
+vials on the left, being directed by the regal sceptre of the Sun. The “clouds unfold” posture of the Great
+Sun is certainly impressive and is a fore-taste of the apocalypse, but the curly flames given off by his head,
+which is adorned with a very sharply pronged crown, suggest to me that, although Apollo is a force of
+redemption, he is affecting the means of the Beast. The fact that he does not have his halo on straight and
+that it gives off long sharp dark beams is also not reassuring. We may at first recall the Spirit of Morning
+dispelling the creatures of the Night in <hi rend="i">Paradise Regained</hi>, illus. 9, but perhaps we should
+also remember Satan in His Original Glory, whose picture was inscribed as the Covering Cherub. An important
+prototype for the picture of Apollo is Flaxman’s design of The Triumph of Christ for Dante’s 
+<hi rend="i">Paradise</hi>, Canto 25.</p>
+                        <p>
+                            <hi rend="i">A SUNSHINE HOLIDAY</hi> [fig. 4] The topography in this, one of the
+happiest visions in Blake, resembles that of the Arlington Court Picture. Note that Blake has expressly made a
+composite picture by combining two separate passages in the poem. This is a six-horn occasion: there are two
+in the middle of the resurrection procession, blowing as they are transcending the material sun, two more at
+the top left and right of the picture, and two more at the lower right, blowing as they arise from the
+humanized oak, who gestures upward. Neither the old oak man nor the butterfly spirit were apparent when we
+first saw this tree in “The Ecchoing Green,” the second page of which features a comparable procession, though
+some of the figures in it are depicted in the title-page of <hi rend="i">Innocence</hi> and in “London.” The
+dancers around the Maypole to the sound of the
+<pb id="p04-123" n="123"/>
+                            <figure n="but543.1.3.wc" id="but543.1.wc.03" work-copy="but543.1" rend="db" width="771" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                                <head>3 “The Great Sun” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+rebeck recall Apollo and his company in the Gray designs; the church steeple should not pass unremarked
+because this motif will often appear hereafter. The humanized mountains, however, are in obvious distress,
+especially the female one who wears the battlemented crown of the Magna Mater and has a city in her lap, quite
+like the woman in <hi rend="i">Vala</hi>, p. 44, and has hair that makes a waterfall, like the woman on the
+last page of <hi rend="i">America.</hi> Her male consort looks like both Old Night in design 2 and the
+redemptive oak below in this one. The S-Curve composition on both sides of the picture indicate that the
+vortexes are really working, if not quite as symmetrically as in Job 12. The basket on the head of the
+leftmost girl in the main vortex stream is a familiar motif
+<pb id="p04-124" n="124"/>
+                            <figure n="but543.1.4.wc" id="but543.1.wc.04" work-copy="but543.1" rend="db" width="759" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                                <head>4 “A Sunshine Holiday” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                                </head>
+                            </figure>
+(see also design 3 at three o’clock) in Blake; he evidently derived it from Raphael by way of
+Marcantonio’s engraving. I believe the river goddess is quaffing a regenerative dram, but the woman and man
+(he is quite sphinx-like—see “The Virgin and Child in Egypt,” <hi rend="i">Masters</hi>, pl. viii) on a
+pyramidal mountain across the water are evidently not participants in the joy.</p>
+                        <p>
+                            <hi rend="i">THE GOBLIN</hi> [fig. 5] The chief spirit in this design resembles
+Pestilence, the Ghost of a Flea, and the Savage Man in “The Characters in Spenser’s <hi rend="i">Fairie
+Queene</hi>,” who also has a flail. Queen Mab evidently enjoys her solitary junkets alone, but “She” is
+<pb id="p04-125" n="125"/>
+                            <figure n="but543.1.5.wc" id="but543.1.wc.05" work-copy="but543.1" rend="db" width="759" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                                <head>5 “The Goblin” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+being tormented by three tricky spirits who are about to be joined by another, while a fifth is just climbing
+out of the ground in order to participate in the fun. But it is the ghost at her feet, much like one in the
+Gray designs—which have many connections with this series—that especially fascinates her. The adventure
+“He” is undertaking was not told by Milton, one should observe: “He” is dressed like a Blakean pilgrim, though
+lacking a stick, as he follows the flame of the ghostly friar, thus becoming an older boy lost, it would
+appear. Blake introduced the “Convent” (doubtless in the popular sense of a retreat for women) and gave it one
+tower which is much like that of the church in the previous design. Clearly this night piece interrupts any
+clock-sense of
+<pb id="p04-126" n="126"/>
+                            <figure n="but543.1.6.wc" id="but543.1.wc.06" work-copy="but543.1" rend="db" width="765" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                                <head>6 “The Youthful Poet” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+the diurnal cycle in this series; like the monthly analogy suggested by Rose, the diurnal cycle is merely a
+conventional standard against which Blake’s designs work as counterpoint, as well as accompaniment.</p>
+                        <p>
+                            <hi rend="i">THE YOUTHFUL POET</hi> [fig. 6] At this time there is little more
+that I want to say about this beautiful picture in addition to what I have said, in perhaps too condensed a
+way, in my essay in <hi rend="i">Blake’s Visionary Forms Dramatic.</hi> I do wish to emphasize, however,
+that the woman in the marriage scene in the main sun carries a huge candle in her right hand and, though I had
+not noticed it before I studied the original picture
+<pb id="p04-127" n="127"/>
+                            <figure n="but543.1.7.wc" id="but543.1.wc.07" work-copy="but543.1" rend="db" width="761" height="1000">
+	<figTranscr>W Blake inv</figTranscr>
+                                <head>7 “Melancholy” <hi rend="i">From The Pierpont Morgan Library</hi>
+                                </head>
+                            </figure>
+again, she wears a distinct transparent veil. The relationship of these figures is much like that of Christ
+and Adam and Eve in the very great but little-known picture of “The Fall of Man.” The chains “of harmony” are
+not in question in the lower part of this sun, but it is still not certain what the central figure holds; my
+present opinion is an unblown trumpet in the right hand and a censer in the left, there being no crossbar at
+the waist such as would occur on a pair of balances, which is what viewers tend to think of first. The
+overarching oaks on either side enclose even Jonson and Shakespeare and the split in the sun seems rather
+deflationary than prophetically discriminating. The curious little alarmist, who seems to have a wooden right
+leg,
+<pb id="p04-128" n="128"/>
+must be legitimately distressed at the poet’s somnolence. The reunion on this side of the water might seem
+reassuring if it weren’t for the horizontal line of the river bank showing through the transparent figure on
+the right and confirming her to be the half-regained Eurydice. And what the three distressed daughters see is
+the terrifying source of the river of Darkness, as I am persuaded by an analogy in the <hi rend="i">Night
+Thoughts</hi> designs.</p>
+                        <p>
+                            <hi rend="i">MELANCHOLY</hi> [fig. 7] The companions of Melancholy are, from left
+to right, Peace, Quiet, and Spare Fast, all of whom are over the curious medial line that separates two
+distinct ground areas, and retired Leisure, who seems contented with the delicious company of lilies and
+roses. The varieties and colors of nimbuses are suggestive and challenging, as is the effective separation of
+the sexes who stand on the ground. I do not at present believe that a strong case can be made against the
+figure of Melancholy, in spite of her dark clothing and the snaky fold of her gown as it hangs from her left
+forearm. It is my guess that Blake saw in Durer’s “Melencolia,” which he kept by his table, a visionary
+figure, despite her propensity for compasses. But I am confident that those eight or more Muses around
+Jove’s altar are the Daughters of Memory, who told Milton that he would be a better poet if he would
+cultivate self-denial like Spare Fast. Cynthia’s dragon team has its place in the visionary economy, but
+Romantic moon enamorment is for less strenuous artists than Blake. The fiery cherub Contemplation is a near
+relation to the Four Zoas as they come on in “Ezekiel’s Vision,” but he also portends the God as central Man
+in Job 14. At the left, however, we have not Apollo and his team but Night, who appears much like Darkness as
+depicted in Gray’s “Elegy,” though she is being roused by the Nightingale, who also does her best in 
+<hi rend="i">Night Thoughts</hi> no. 34. But Night seems to be sitting on a harp, a distinctly inartistic gesture
+which, like the jagged lines on the ground at the lower right, indicates that there is a distance to go before
+visionary order is established.</p>
+                        <p>
+                            <hi rend="i">MILTON AND THE MOON</hi> [fig. 8] Though it seemed questionable to
+some members of the Seminar, I continue to see the human form of the Moon as a fugitive from the starry whips
+beside her and the spear tips of the cloud beneath her. Cynthia has been disarmed since design 1 (engraving)
+and no longer is complacently eating, as in design 5, or equipped with imposing dragons, as in design 7. Again
+one notes the continuity of spires from designs 1, 4, 5, and water from 1, 4, and 6, and the distinct and
+deliberate presence of the small red flowers at the lower left. Several of the Gray designs are quite closely
+connected with this one.</p>
+                        <p>
+                            <hi rend="i">MILTON AND THE SPIRIT OF PLATO</hi> [fig. 9] The higher things Plato
+tells of in his book are put in their proper place at the bottom of the Arlington Court Picture; that is, the
+three Fates are the decisive forces of the three Sun-Worlds of Venus, Mars, and Jupiter respectively.
+Interestingly, Venus, who is connected by a line to the left toe of Atropos, is depicted vegetating like
+Daphne. In her realm man and woman are tied back-to-back by serpents, like Bromion and Oothoon in 
+<hi rend="i">VDA</hi>, or in process of divorce, as in the Notebook drawing “Go and; trouble me no more.” Mars
+sits wearing a plumed helmet, like the Valkyries in Gray, and has a bat-bug familiar, such as tries to escape
+in the engraving of “Albion rose.” At the right Jupiter plays with his compasses, with one leg drooping like
+the enfeebled God of the Job designs. The darkened sector of the world beneath his footstool may be the
+smoke-obscured wheel of his chariot (or even a haunted tunnel) but whatever it may be it is benighted because
+he is unenlightened, though he presumes to rule a sun. The unmentioned man behind him is Vulcan futilely
+employed (like Sisyphus) with the Shield of Achilles; all this will be straightened out in the last plate of
+<hi rend="i">Jerusalem</hi> when the Spectre carries the sun and the compasses become tongs in the hands of
+the creatively re-established blacksmith Los. If one should read a real Classicist like Aeschylus he would
+learn that Hermes, far from being a mere messenger of oppression, can be understood, in effect, as the
+<pb id="p04-129" n="129"/>
+                            <figure n="but543.1.8.wc" id="but543.1.wc.08" work-copy="but543.1" rend="db" width="770" height="1000">
+	<figTranscr>W Blake inv</figTranscr>
+                                <head>8 “Milton and the Moon” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                                </head>
+                            </figure>
+villain responsible for the crucifixion of Prometheus. For some reason Milton couldn’t recognize the
+consequences of accepting the authority of Hermes the triplicator, but Blake did the best he could to expose
+it. The confusion and violence that enwreath Milton’s head ought to have been a sufficient warning to
+classicistic partisans, but the elements of fire and water to the left and the right confirm how basically
+wrong things become under such guidance: the top spirit in fire plies whips to put down pity or resurrection
+while the finny nymph of water deploys her gin from a clamshell (a stratagem nearly repeated in 
+<hi rend="i">J</hi> 45 [31]). Whatever vitality is to be observed is underground, but the six human figures there
+are variously compromised and will remain so
+<pb id="p04-130" n="130"/>
+until Milton frees himself from such airy superstitions.</p>
+                        <p>Let me be still more explicit: this picture has been used by Raine as an excuse for
+Platonizing Blake, and even Damon in the <hi rend="i">Dictionary</hi> (“Plato”) tends to blur this critique of
+Platonism. Yet it is impossible to make sense of this design as other than an attack on Hermetic Classicism.
+Look again at the “Judgment of Paris,” whence all that fury came: Hermes was likewise responsible for that
+seminal disaster, which cannot truthfully be palmed off on triform Discord, unlovely as she is, since Hermes
+was there to put a prepossessing face on the conspiracy.</p>
+                        <figure n="but543.1.9.wc" id="but543.1.wc.09" work-copy="but543.1" rend="db" width="764" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                            <head>9 “Milton and the Spirit of Plato” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                            </head>
+                        </figure>
+                        <pb id="p04-131" n="131"/>
+                        <p>
+                            <hi rend="i">MILTON LED BY MELANCHOLY</hi> [fig. 10] Here the poet’s
+regeneration is begun by removal from exposure to the pestilential “Apollonian” arrows (near allied with the
+arrows of Satan in Job 6) which as yet he cannot bear. Milton has wisely not given up the book, but he has
+gotten over fasting and is now of equal stature and a fit companion for haloed Melancholy, whose halo renders
+her impervious to the maddening effects of the noonday sun. The two main trees are animated with spirits as in
+designs 3, 4, 6, 7, and the earth in 9: being in bondage, none of the dryads are joyful, though perhaps the
+humanized insects are happy. Despite the malign influence of Apollo, progress is being made again.</p>
+                        <figure n="but543.1.10.wc" id="but543.1.wc.10" work-copy="but543.1" rend="db" width="769" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                            <head>10 “Milton Led by Melancholy” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                            </head>
+                        </figure>
+                        <pb id="p04-132" n="132"/>
+                        <p>
+                            <hi rend="i">MILTON AND HIS DREAM</hi> [fig. 11] Here the Dream, who may be the
+spiritual form of Melancholy, starts the vortexes cooperating again for Milton, partly by the development of
+scrolls off both wings and partly by sharing its plate-halo with Milton. As Damon has remarked, Milton is
+still covering up, but he will be released by the music of his emanations. The angel’s right wing acts as a
+suction to draw netted figures (perhaps including an ant!), such as were represented in design 9, out of the
+river of death. Note that at the lower right there are tiny red dots, indicative of the vital flower, as
+earlier. The redeemed figures are becoming lovers, as in Dante 10, “The Whirlwind of Lovers.” Those below are
+prompted by a Blakean redemptive lady, but those above
+<figure n="but543.1.11.wc" id="but543.1.wc.11" work-copy="but543.1" rend="db" width="768" height="1000">
+	<figTranscr>WBlake inv.</figTranscr>
+                                <head>11 “Milton and His Dream” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                                </head>
+                            </figure>
+                            <pb id="p04-133" n="133"/>
+are in the keeping of a holy old man, who may not be as good as he seems despite his red halo and hopeful
+surroundings. The spirits that accompany him are comparable to figures of the errors of Job and his wife who
+fall in a Last Judgment with Satan in Job 16. Unless I’m mistaken, the left wing of the Dream is cracking
+under the strain of holding this burden up. This group of three figures is curiously backed by a fourth, who
+rides them at the bullseye of the rainbow. He clutches something which is so woolly that it must be a lamb; it
+would be pleasant if he were Esau. In any case, his mysterious burden recalls that of the little woman at one
+o’clock in the watercolor version of design 1. This pod of figures is comparable to the three groups of Woes
+in <hi rend="i">Night</hi>
+                            <figure n="but543.1.12.wc" id="but543.1.wc.12" work-copy="but543.1" rend="db" width="791" height="1000">
+	<figTranscr>WBlake inv</figTranscr>
+                                <head>12 “Milton and His Mossy Cell” <hi rend="i">From The Pierpont Morgan
+Library</hi>
+                                </head>
+                            </figure>
+                            <pb id="p04-134" n="134"/>
+                            <hi rend="i">Thoughts</hi> no. 84 (III, 9) which is reproduced in Damon’s 
+<hi rend="i">Dictionary.</hi> Above this pod of figures a long scroll is attended by five or more spirits. This is
+the redemptive counterpart of the devolution shown in <hi rend="i">Night Thoughts</hi> no. 7 (I, b), where the
+sleeping Young’s imaginings are delivered down to Urizen beneath a blasted tree. This design has been
+reproduced in the important article on the <hi rend="i">Night Thoughts</hi> pictures by Helmstadter published
+in <hi rend="i">TSLL</hi>, 12 (Spring 1970), 27-54. It is also reproduced in <hi rend="i">BVFD</hi>, pl.
+75.</p>
+                        <p>
+                            <hi rend="i">MILTON AND HIS MOSSY CELL</hi> [fig. 12] Rose, arguing from the
+seasonal analogy, concludes that Milton is here in a wintry plight, but the picture and commentary make it
+clear that, at last, Blake’s Milton has finally gotten straight. He has still retained his book, is open
+beside a lamp (as in <hi rend="i">Night Thoughts</hi> no. 18 [I, 13], <hi rend="i">BVFD</hi>, pl. 85) and he
+spreads his arms to open a center as he delivers his prophetic raptures. The flowers in his cell include the
+little red ones of designs 8, 9, and 11, and the lillies and roses of Leisure which were shown in design 7.
+The true lovers dance as the disciples of Venus were unable to do in design 9 attended by putti who have
+appeared before in designs 1 and 11. The woman and man at the left are effecting a resurrection, the
+precondition of bliss, though I confess to being a little uneasy about the not-yet-humanized form of her
+upraised right hand. The fact that the mother at the right is blessed with twins—compare <hi rend="i">Night
+Thoughts</hi> no. 4—is, however, a joyful sequel to the problems of the earth spirits in design 9. Perhaps
+there is even an incipient third behind this mother, as was observed in the Seminar. Milton’s “cell” is half
+a cave and half a bower made by the entwining of two trees, perhaps to be understood as implicates of the
+two-trees motif of earlier designs. It is somewhat like the caves in the Arlington Court Picture and the
+“Philoctetes,” the latter of which is reproduced in color as the cover for <hi rend="i">Blake Studies</hi>, 3
+(Fall 1970).</p>
+                        <p>The longing female figures above the cell, five on the left, three on the right,
+are arrested in a futile desire without hope, like those in Limbo, to ascend the sky. If Milton’s cell is a
+bower, they are to be closely related to the forlorn dryads in design 10; if it is a cave, they are related to
+Blake’s Sunflower. Their error is evidently that they pray to the stars rather than celebrate their human
+forms, as Milton does. The constellations from left to right include: the Crab, with a woman astride it, back
+to the viewer, and reading; this seems especially odd until one recalls that crabs move backward. The twins in
+Gemini seem to be having a fight with one another. Taurus is a formidable beast, but Aries has achieved a
+shepherd form wearing a hat like the benighted figures in designs 5 and 6, and carrying a crook like Peace in
+design 7. Orion is intervening to neutralize the charge of the Bull; Blake greatly respected Orion, depicting
+the stars of his belt in the engraving of Job 14 and making a great picture of him in <hi rend="i">Night
+Thoughts</hi> no. 502 (IX, 84). Indeed, Orion and Albion are in effect identified in 
+<hi rend="i">Jerusalem</hi> 25, as Morton Paley suggests. The contrast between the redemptive counter-culture
+underground and the futile establishment above ground is one of the distinctive features of Blake’s
+symbolism, as Frye has explained. The principle is declared unmistakably in the titlepage of <hi rend="i">The
+Marriage of Heaven and Hell</hi>, which is why we looked at a slide of this design before turning again to
+more general considerations.</p>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.1.york</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Symposium at York</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2000</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.1</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Anne Birien</name>
+              <name>Martin Butlin</name>
+              <name>Claire Colebrook</name>
+              <name>Hans-Ulrich Möhring</name>
+              <name>Nicholas M. Williams</name>
+              <name>Carl Woodring</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2000"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+    <body>
+	  <pb id="p34-32" n="32"/>
+      <div1 id="BQ-34-1-0009">
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Symposium at York</hi>
+            </title>
+          </head>
+          <p>Interest is invited in a symposium on William Blake and the 1790s at the Centre for Eighteenth
+Century Studies at the University of York, 10-11 December, on the occasion of the Blake exhibition at the Tate
+Gallery opening in November 2000. Please write to John Barrell or Michael Phillips at the Centre for
+Eighteenth Century Studies, King’s Manor, York, YO1 2EP, Great Britain, or email cmb14@york.ac.uk.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

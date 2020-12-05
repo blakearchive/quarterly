@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.exchange</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Faculty Exchange Center</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <pb id="p09-92" n="92"/>
+      <div1 id="BQ-09-4-0002">
+        <div2>
+          <head>
+            <title type="main">FACULTY EXCHANGE CENTER</title>
+          </head>
+          <p>The Faculty Exchange Center publishes an annual catalog of faculty members in the U.S. and
+elsewhere who are willing to participate in an exchange program in which institutions pay the salaries of
+their own faculty members who are teaching in another institution. The current catalog lists about 400
+professors. The next catalog will be published in early fall 1976. A listing costs $10. For a registration
+form, write Prof. John Joseph, Franklin and Marshall College, P.O. Box 1091, Lancaster, Pa. 17604.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

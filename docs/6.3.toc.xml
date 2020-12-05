@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <front>
+      <pb id="p06-57-58" n="57-58"/>
+      <div1 id="cover">
+        <figure n="cover.006.03.bqscan" rend="file" width="258" height="335">
+          <figTranscr>Blake Newsletter 23<lb/>
+          An Illustrated Quarterly</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-06-3-0001">
+        <table id="contents" rows="20" cols="2">
+         <row>
+            <cell colspan="3">
+                <head>
+                    <title>
+                        <hi rend="b">Contents</hi>
+                    </title>
+                </head>
+            </cell>
+        </row>
+          <row>
+            <cell>
+              <hi rend="i">News</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="6.3.keynes">Sir Geoffrey Keynes</ref></cell>
+          </row>
+          <row>
+        	<cell><supplied type="emend">John Kupersmith,</supplied> 
+<ref type="article" issue="6.3.kupersmith">S. Foster Damon Collection at Brown University</ref></cell>
+          </row>
+          <row>
+        	<cell><ref type="article" issue="6.3.symposium">1974 Blake Symposium at Edinburgh</ref></cell>
+          </row>
+          <row>
+        	<cell><ref type="article" issue="6.3.auctions">Auctions</ref></cell>
+          </row>
+          <row>
+        	<cell><ref type="article" issue="6.3.works">Work in Progress</ref></cell>
+            <cell>60</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="i">Notes</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>James T. Wills, <ref type="article" issue="6.3.wills">An Additional Drawing for Blake’s
+Bunyan Series</ref></cell>
+            <cell>63</cell>
+          </row>
+          <row>
+            <cell>G. E. Bentley, Jr., <ref type="article" issue="6.3.bentley">The Inscriptions on Blake’s
+Designs to <hi rend="i">Pilgrim’s Progress</hi></ref></cell>
+            <cell>68</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="i">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Ruthven Todd, <ref type="article" issue="6.3.todd">The Rev. Dr. John Trusler</ref></cell>
+            <cell>71</cell>
+          </row>
+          <row>
+            <cell>Robert Gleckner, <ref type="article" issue="6.3.gleckner">Blake and Fuseli in a Student’s
+Letter Home</ref></cell>
+            <cell>71</cell>
+          </row>
+          <row>
+            <cell>James King, <ref type="article" issue="6.3.king">A New Piece of Tayloriana</ref></cell>
+            <cell>72</cell>
+          </row>
+          <row>
+            <cell>Roland A. Duerksen, <ref type="article" issue="6.3.duerksen">A Crucial Line in 
+<hi rend="i">Visions of the Daughters of Albion</hi></ref></cell>
+            <cell>72</cell>
+          </row>
+          <row>
+            <cell>John Adlard, <ref type="article" issue="6.3.adlard">The Age and Virginity of
+Lyca</ref></cell>
+            <cell>73</cell>
+          </row>
+          <row>
+            <cell>Martin Butlin, <ref type="article" issue="6.3.butlin">The Inscription on 
+<hi rend="i">Evening Amusement</hi></ref></cell>
+            <cell>74</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="i">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Suzanne R. Hoover on <ref type="article" issue="6.3.hoover"><hi rend="i">Blake’s Job</hi>
+by Andrew Wright</ref></cell>
+            <cell>75</cell>
+          </row>
+          <row>
+            <cell>Morton D. Paley on <ref type="article" issue="6.3.paley">the Tonner Collection pamphlet by
+Martin Butlin and the Pickering Manuscript facsimile published by the Morgan Library</ref></cell>
+            <cell>78</cell>
+          </row>
+        </table>
+        <corr type="emend" rend="plain">
+        <p>Published quarterly under the sponsorship of the Department of English of the University of New
+Mexico. Support for bibliographical assistance provided by the University of California, Berkeley.</p>
+        <p>Morton D. Paley, <hi rend="i">Executive Editor</hi>, University of California, Berkeley.</p>
+        <p>Morris Eaves, <hi rend="i">Managing Editor</hi>, University of New Mexico.</p>
+        <p>Michael Phillips, <hi rend="i">Associate Editor</hi>, University of Edinburgh.</p>
+        <p>Michael Davies and Judith Wallick Page, <hi rend="i">Editorial Assistants for Production</hi>,
+University of New Mexico.</p>
+        <p>Graham Conley, <hi rend="i">Editorial Assistant for Subscriptions</hi>, University of New
+Mexico.</p>
+        <p>Foster Foreman, <hi rend="i">Bibliographer</hi>, University of California, Berkeley.</p>
+        <p>Manuscripts are welcome. Send two copies either to Morton Paley, Dept. of English, Univ. of
+California, Berkeley, Ca. 94720, or to Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, N.M.
+87131.</p>
+        <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4 for one year,
+surface mail; for those overseas who want to receive their issues by air mail, $8. U.S. currency if possible.
+Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address all subscription orders and related
+communications to Morris Eaves, Managing Editor.</p>
+        <p>Some back issues are available. Address Morris Eaves, Managing Editor. Prices: whole numbers 14,
+15, and 21, $2 each. Whole numbers 17-18 (combined issue containing Robert Essick’s <hi rend="i">Finding
+List of Reproductions of Blake’s Art</hi>, 160 pages), $5. Whole number 20 (<hi rend="i">A Handlist of Works
+by William Blake in the Department of Prints &amp; Drawings of the British Museum</hi>, edited by G. E.
+Bentley, Jr.), $3.</p>
+        <p><corr type="emend">The ISSN (International Standard Serial Number) of the <hi rend="i">Blake
+Newsletter</hi> is 0006-453X.</corr></p>
+        </corr>
+        <note type="unreferenced" place="footer">Copyright © 1973 by Morton D. Paley &amp; Morris
+Eaves</note>
+      <pb id="p06-59" n="59"/>
+      <figure n="but504.1.1.wc" id="but504.1.wc.01" work-copy="biblicalwc" rend="db" width="725" height="1000">
+      	<head>“Mary Magdalen at the Sepulchre”</head>
+<figDesc>(pen and black ink and watercolor; 16 ¾ × 12 in., 426 × 305 mm.) was sold at auction by
+Christie, Manson &amp; Woods on 5 June 1973 to Agnew’s for £23,100—a record price for a single drawing by
+Blake at auction. According to the Christie’s catalogue the provenance is as follows: painted for Thomas
+Butts; sold by Thomas Butts, Jr., at Sotheby’s 26 March 1852 (lot 155) to F. J. Palgrave for £3 11s.; given
+by Palgrave to Lady Beatrix Maud Cecil (d. 1950) on her marriage to the second Earl of Selborne, 1883.
+          <p>The catalogue entry reads in part as follows: “Martin Butlin dates the watercolour circa 1805. It
+is one of over eighty works painted by Blake for Thomas Butts. As David Bindman has pointed out, there appears
+to be a distinct group within the series, all of subjects connected with the Crucifixion and the Resurrection:
+they are of similar size, near symmetrical composition, near monochrome colouring, and all of upright format;
+‘Mary Magdalen at the Sepulchre’ is part of this set.”</p>
+          <p>At the same sale Blake’s “The Mourners” (pencil, pen and gray ink, gray wash; 7 × 9 ¼ in.,
+176 × 235 mm.) was auctioned. The drawing is dated by David Bindman c. 1785.</p>
+          <p>Both pictures are reproduced in monochrome in the catalogue, <hi rend="i">Highly Important
+English Drawings and Watercolours</hi>, 40 pls., £1, available from Christie’s, 8 King St., St. James’s,
+London SW1Y 6QT.</p>
+          <p><hi rend="i">Our thanks to David Bindman, Thomas Minnick, and Ruthven Todd for information and
+photographs. Reproduced by permission.</hi></p>
+        </figDesc>
+      </figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

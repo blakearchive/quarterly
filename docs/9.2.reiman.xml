@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.reiman</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="poem">A Significant New Blakean Fragment</title>
+        <author n="Reiman">Donald H. Reiman</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0004">
+      <pb id="p09-44" n="44"/>
+        <div2>
+          <head>
+            <title type="main">A Significant New Blakean Fragment</title>
+          </head>
+          <byline>By <docAuthor>Donald H. <name>Reiman</name></docAuthor></byline>
+          <p>Though Blake’s <hi rend="i">Songs of Innocence</hi> and <hi rend="i">Songs of Experience</hi>
+are familiar to all students above the age at which they first visit the zoo, his fragmentary 
+<hi rend="i">Songs of Education</hi>—not yet found in the collected editions of Blake’s works—are less well
+known. I have known respected Blake scholars, in fact, who were appallingly ignorant of this seminal work.</p>
+          <p>Originally intended for a volume in William and Mary Jane Godwin’s Juvenile Library, 
+<hi rend="i">Songs of Education</hi> was left unfinished when Blake became afflicted by extreme gastric
+indigestion while reading at the British Museum. His only comment on the work occurs in Barron Field’s
+report of the conversation between Blake and Leigh Hunt at Horsemonger Lane Gaol. When asked by either Hunt or
+Thomas Massa Alsager (Field is uncertain which) what place <hi rend="i">Songs of Education</hi> would have
+occupied in his <hi rend="i">oeuvre</hi>, Blake replied: “I cannot tell how the whole might have developed;
+certain I am, however, that Education, while not consonant with Experience, destroys Innocence.”</p>
+          <p>Heretofore scholars have been handicapped by having available only brief, disconnected fragments
+of <hi rend="i">Songs of Education</hi>—couplets and quatrains that Blake composed on the letter-covers of
+Godwin’s appeals for money. Recently, however, there has come into my possession an extended passage from
+the work that incorporates some of the earlier fragments and suggests the tone and purpose, if not the full
+scope and shape, of the projected volume. While browsing in a bookshop near Exit 10 of the New York State
+Thruway, I was fortunate enough to discover (and purchase for thirty-five cents) a copy of Swedenborg’s 
+<hi rend="i">Proverbs of Pisgah</hi>, the excessively rare London edition of 1801 printed by W. E. Inkell for the
+New Church. Imagine my joy when I discovered that its title page bore the inscription, in a clearly
+identifiable hand, “W<hi rend="s">m</hi> Blake/ Poet and Painter/ 1807” and that between the
+otherwise-unrecorded half-title and the title page was a leaf—artistically sewn in with pastel
+thread—containing the following lines from Blake’s 
+<hi rend="i">Songs of Education:</hi><supplied type="spacer"> </supplied><ref target="n5" type="note">1</ref>
+</p>
+<q>
+Then woke the spirit of bald William Blake—<lb/>
+Word-lover, foe of orthodoxies’ kind;<lb/>
+He swept across two school-infested lands<lb/>
+To chastise all self-satisfied of mind.<lb/>
+<lb/>
+Not one to FOSTER DAMONs for a fee,<lb/>
+With rusty KROE BER thumping their stout KEYNES<lb/>
+He drove them to the SHOR; ERe they could flee,<lb/>
+A voice boomed out, inflicting deeper pains:<lb/>
+</q>
+<pb id="p09-45" n="45"/>
+<q>
+“I GRANT that publishers who mind the PURSE<lb/>
+SEE VALue<supplied type="spacer"> </supplied><ref target="p45u1" type="note">*</ref> in the books these scholars write.<lb/>
+<hi rend="i">I’d</hi> rather hear a HAG STRUM on a HARP<lb/>
+ER watch RAINE beating down yon blasted BLOOM<lb/>
+Than, with back BENT, LEYn reading through the night,<lb/>
+Conning their jargon by the PALEY light.<lb/>
+<lb/>
+“ADAM’S a GARDNER who has lost his place<lb/>
+Through sad neGLECK, NER do I find it odd<lb/>
+That when aN URMI of the pedants’ race<lb/>
+ROSE up, our father left that sacred sod.<lb/>
+<lb/>
+“He could not TAYLER to their sketches Gray<lb/>
+Eden’s bright scenes, and so he fled away.<lb/>
+From that day on, the CUR RAN wild, small FRYE<lb/>
+Anatomized each WITT REICH merrily.”<lb/>
+<lb/>
+The prophetic thunder ceased. Another spoke:<lb/>
+“I tells yer, gov’ner, this, an’ no mistake—<lb/>
+That last loud chap ain’t none of Billy Blake.<lb/>
+‘Aven’t yer ‘ERD, MAN? ‘e’s a Cockney bloke.’”
+</q>
+	<note id="n5"><hi rend="s">1</hi> I have edited the fragment heuristically according to the following
+principles: (1) all substantive features of the text have been transcribed literally; (2) all accidental
+features have been emended to conform to my notion of what constitutes communicative English.</note>
+	<note id="p45u1">* Another MS reads “PERCIVALue”</note>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

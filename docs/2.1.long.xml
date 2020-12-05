@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.long</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake Studies</title>
+				<author n="Long">Kay Long</author>
+				<author n="Easson">Roger R. Easson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-1-0002">
+				<pb id="p02-4" n="4"/>
+                <head>
+					<title type="main"><supplied type="emend"><hi rend="i">Blake Studies</hi></supplied></title>
+				</head>
+				<byline>From Professors <docAuthor>Kay <name>Long</name></docAuthor> and <docAuthor>Roger R.
+<name>Easson</name></docAuthor>, University of Tulsa:</byline>
+                <p>
+                    <hi rend="u">Blake Studies</hi>, a journal devoted to encouraging interest in William
+Blake, will be published bi-annually at the University of Tulsa — the first issue to appear September, 1968.
+The subscription rate for one year is $3.00, and checks should be made payable to <hi rend="u">Blake
+Studies</hi>, the University of Tulsa.</p>
+                <p>We project a journal containing approximately six to eight articles in the ten to thirty
+page range. Basically, we fell we would accept any item of interest to studies of William Blake, placing only
+one restriction on manuscripts submitted — that they represent new insights and significant contributions to
+Blakean scholarship. We are now receiving manuscripts for future issues. All correspondence should be directed
+to:<lb/>
+                    <lb/>
+                    <hi rend="u">Blake Studies</hi>
+                    <lb/>
+					Department of English<lb/>
+					The University of Tulsa<lb/>
+					Tulsa, Oklahoma 74104</p>
+                <p>We are pleased to announce the members of the Advisory Board of Editors of the 
+<hi rend="u">Studies</hi>: Hazard Adams, George M. Harper, Karl Kiralis, Martin K. Nurmi, Edward J. Rose, Mark
+Schorer, Ruthven Todd, Winston Weathers, Joseph A. Wittreich.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

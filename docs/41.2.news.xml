@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.2.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Companion of Angels Performances</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.2</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Joseph Viscomi</name>
+              <name>Karen Mulhallen</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>M. Crosby</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+	  <pb id="p41-95" n="95"/>
+      <div1 id="BQ-41-2-0009">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <p><hi rend="i">Companion of Angels</hi>, a musical drama based on the lives of the Blakes, will be
+performed in the autumn at the following venues in the UK:</p>
+        <p>23 November: St. James’s Church, Piccadilly, London, 7.30 pm</p>
+        <p>25 November: Fitzwilliam Museum, Cambridge, 1.15 pm</p>
+        <p>1 December: St. Mary’s Church, Felpham, 7.30 pm</p>
+        <p>The music is by Rachel Stott, and the arrangement and commentary on the words of Blake and his
+contemporaries is by Tom Lowenstein, who has kindly provided us with the following description:</p>
+        <p>The work will consist of scenes based on the lives and work of William and Catherine Blake. The
+tension between Blake’s visionary illumination and the relative obscurity in which he worked will be evoked
+in the context of his social and professional isolation, economic pressures, the political turmoil of the
+period and Blake’s difficulty in attracting patronage. The libretto has been constructed from Blake’s
+prose and poetry and the piece will be in the nature of an oratorio with interaction between characters.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

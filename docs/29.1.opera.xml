@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.1.opera</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Opera</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1995</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1995</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.1</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Alexander Gourlay</name>
+              <name>Lauren G. Henry</name>
+              <name>J.E.M. Latham</name>
+              <name>David Punter</name>
+              <name>Warren Stevenson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1995"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <body>
+      <div1 id="BQ-29-1-0009">
+        <pb id="p29-35" n="35"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Blake Opera</hi>
+            </title>
+          </head>
+          <p>Dana Harden has been working on a new opera based on William Blake’s <hi rend="i">Milton.</hi>
+There will be two semi-staged productions of part 1 (The Bard’s Song) of the opera, at 3 pm, 25 and 26
+November 1995 at the Boulder Public Library Auditorium in Boulder, Colorado.</p>
+          <p>Along with Harden’s score and libretto, Blake’s art work and original set designs will be
+projected on a 20 × 20 foot screen behind the singers and actors. Blake’s language of gestures will be
+incorporated into the choreography. Funding is needed to further stage this production and the rest of 
+<hi rend="i">Milton</hi> next year. This will include developing “Virtual Sets” based on Blake’s artwork and
+creating the libretto and staging. Audio and video recordings of the upcoming November performance will be
+available upon request. Please contact Dana Harden at (303) 530-7617, Golgonooza Productions, PO Box 19614,
+Boulder, CO, 80301-2614 or by email at womansway@aol.com (soon to be golgonooza@aol.com).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

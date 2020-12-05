@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.1</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>E.B. Bentley</name>
+              <name>Morton D. Paley</name>
+              <name>Michael Srigley</name>
+              <name>Joan K. Stemmler</name>
+              <name>Julia M. Wright</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <front>
+      <pb id="p26-1-2" n="1-2"/>
+        <div1 id="cover">
+            <figure n="cover.026.01.bqscan" rend="file" width="258" height="332">
+                <figTranscr>Blake<lb/>
+                    AN ILLUSTRATED QUARTERLY<lb/>
+                    VOLUME 26<lb/>
+                    NUMBER 1<lb/>
+                    SUMMER 1992</figTranscr>
+            </figure>
+        </div1>
+      <div1 id="BQ-26-1-0001">
+        <table id="contents" rows="12" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">Contents</hi>
+            	  </hi>
+          		</title>
+       		  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">ARTICLES</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.srigley">The Sickness of Blake’s Rose</ref><lb/>
+ by Michael Srigley</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.stemmler">“Undisturbed above once in a Lustre”: Francis
+Douce,
+                            George Cumberland and William Blake at the Bodleian Library and
+                            Ashmolean Museum</ref><lb/>
+ by Joan K. Stemmler</cell>
+            <cell>9</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.designs">A New Color Print from the Small Book of
+Designs</ref><lb/>
+ Martin
+                            Butlin</cell>
+            <cell>19</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.sketches">Two Newly Identified Sketches for Thomas
+Commins’s <hi rend="i">An Elegy</hi> and Further Rediscovered Drawings of the 1780s</ref><lb/>
+                            Martin Butlin</cell>
+            <cell>21</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.wright">“Empire is no More”: Odin and Orc in 
+<hi rend="i">America</hi></ref><lb/>
+ Julia M. Wright</cell>
+            <cell>26</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.bentley">Blake’s Elusive Ladies</ref><lb/>
+ E. B. Bentley</cell>
+            <cell>30</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.1.paley">Corrections to the Blake Trust 
+<hi rend="i">Jerusalem</hi></ref><lb/>
+ Morton
+                            D. Paley</cell>
+            <cell>34</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+            	<ref type="article" issue="26.1.satan">Satan Arousing the Rebel Angels</ref>, 
+            	<ref type="article" issue="26.1.subscription">Blake’s <hi rend="i">Subscription Rates
+Rise</hi></ref>
+            </cell>
+            <cell>35</cell>
+          </row>
+        </table>
+        <p><hi rend="b">Cover</hi>: William Blake, “Lady Macbeth and the <corr type="emend">Sleeping</corr>
+                    Duncan.” <note type="unreferenced" place="footer">© 1992 Copyright Morris Eaves and
+Morton D. Paley</note></p>
+      </div1>
+      <pb id="p26-3" n="3"/>
+      <div1 id="BQ-26-1-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTOR’S NOTES</hi>
+          </title>
+        </head>
+        <p><hi rend="b">MARTIN BUTLIN</hi> retired as Keeper of the Historic British
+                    Collection at the Tate Gallery in June 1989. He is author of <hi rend="i">The
+                        Paintings and Drawings of William Blake</hi> (Yale UP, 1981), and other
+                    works on Blake and J. M. W. Turner.</p>
+        <p><hi rend="b">E. B. BENTLEY</hi> has lived and traveled with William Blake and G.
+                    E. Bentley, Jr. for forty years. She collects children’s books, and is
+                    currently working on nineteenth-century emblem books for children and acting as
+                    a research assistant to G. E. Bentley.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi> is the editor of the new Blake Trust edition of
+                        <hi rend="i">Jerusalem.</hi></p>
+        <p><hi rend="b">MICHAEL SRIGLEY</hi>, Professor of English at the University of
+                    Uppsala in Sweden, is finishing a full-length study on Pope’s <hi rend="i">Essay on
+Man</hi>, which includes a chapter on Pope’s
+                    expressed interest in Pythagorean metempsychosis.</p>
+        <p><hi rend="b">JOAN K. STEMMLER</hi>, an independent scholar in Washington, D.C.,
+                    is doing research and teaching in the history of art in England in the
+                    eighteenth and nineteenth centuries.</p>
+        <p><hi rend="b">JULIA M. WRIGHT</hi> is a third year doctoral student in English
+                    Literature at the University of Western Ontario. Her research interests include
+                    English and Irish literature of the Romantic period, and she is currently
+                    working on her dissertation on Blake.</p>
+      </div1>
+      <div1 id="BQ-26-1-0003">
+        <head>
+          <title>
+            <hi rend="i">EDITORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D.
+                    Paley, University of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität
+                    Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia,
+                    Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St.
+                    Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English,
+                    University of Rochester, Rochester, NY 14627.</p>
+        <p><hi rend="b">Telephone:</hi> 716/275-3820.<lb/>
+<hi rend="b">Fax:</hi> 716/442-5769.</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley, CA
+                    94720.</p>
+        <p>Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte,
+                    Postfach 3825, 5500 Trier, West Germany.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA
+                    30602.</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road,
+                    Twickenham TW1 4SX, England.</p>
+      </div1>
+      <div1 id="BQ-26-1-0004">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the
+                    sponsorship of the Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $50 for institutions, $25 for individuals.
+                    All subscriptions are by the volume (1 year, 4 issues) and begin with the summer
+                    issue. Subscription payments received after the summer issue will be applied to
+                    the 4 issues of the current volume. Foreign addresses (except Canada and Mexico)
+                    require a $8 per volume postal sur-charge for surface mail, a $18 per volume
+                    surcharge for air mail delivery. U.S. currency or international money order
+                    necessary. Make checks payable to <hi rend="i">Blake/An Illustrated
+                        Quarterly.</hi> Address all subscription orders and related communications
+                    to Patricia Neill, <hi rend="i">Blake</hi>, Department of English, University of
+                    Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address
+                    Patricia Neill for a list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented
+                    according to the forms suggested in <hi rend="i">The MLA Style Manual</hi>, to
+                    either of the editors: Morris Eaves, Dept. of English, University of Rochester,
+                    Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+                    California, Berkeley, CA 94720. Only one copy will be returned to authors.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0160-628x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the
+                    Modern Language Association’s International Bibliography, the Modern
+                    Humanities Research Association’s Annual Bibliography of English Language
+                    and Literature, <hi rend="i">The Romantic Movement: A Selective and Critical
+                        Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index,
+                    the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

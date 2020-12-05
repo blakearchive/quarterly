@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.exhibitions</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Exhibitions</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-2-0002">
+            	<pb id="p07-31" n="31"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">EXHIBITIONS</hi>
+                        </title>
+                    </head>
+                    <p>John Varley’s “Suburbs of an Ancient City” (1808) was among the works in Spink &amp;
+Son’s exhibit commemorating the early years of the Old Water-colour Society (1804-1812). The exhibit ran
+three weeks beginning 13 November 1973. The Varley is reproduced in <hi rend="i">Apollo</hi>, November 1973,
+p. 391.</p>
+                    <p>An exhibition of English paintings, 1799-1900, at Christopher Gibbs, London, included
+works by Samuel Palmer and John Martin, among others. Catalogues are available for $6 including postage
+(address 118 New Bond St., London W1Y 9AB). Exhibit reviewed in <hi rend="i">Apollo</hi>, January 1974, pp.
+59-60, with reproduction of Palmer’s “Christ in the Garden of Gethsemane.”</p>
+                    <p>The Gerald M. Norman Gallery (8 Duke St., St. James’s, London S.W. 1) held a spring
+exhibition of eighteenth and nineteenth century English and French watercolors and drawings, 13-29 March 1974.
+John Martin’s “Rocky Pool at Dusk” was included; reproduced in <hi rend="i">Connoisseur</hi>, March 1974, p.
+111.</p>
+                    <p>The Wren Gallery exhibited watercolors and drawings of John Varley, 1-6 April 1974, at
+the Alpine Club Gallery, 74 South Audley St., London W. 1. The exhibit was announced, with a photograph of a
+Varley landscape, in <hi rend="i">Connoisseur</hi>, March 1974, p. 48.<supplied type="spacer"> </supplied><ref
+target="n3" type="note">*</ref>
+	<note id="n3">
+                            <hi rend="i">(Our thanks to Thomas Minnick for these items. Eds.)</hi>
+                        </note>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.3.editors</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Editors Aweigh!</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1983-1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983-84</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.3</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Robin Tawney</name>
+              <name>Chapel Petty</name>
+              <name>Dennis Kane</name>
+              <name>Karen Sunde</name>
+              <name>Tom Elder</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Raymond Lister</name>
+              <name>Dennis M. Read</name>
+              <name>Sheila Spector</name>
+              <name>Dena Taylor</name>
+              <name>Nicholas Warner</name>
+              <name>Dennis M. Welch</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983-1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <pb id="p17-119" n="119"/>
+      <div1 id="BQ-17-3-0008">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">
+                <hi rend="i">EDITORS AWEIGH!!</hi>
+              </hi>
+            </title>
+          </head>
+          <p>From 16 March 1984 until 28 July 1984, Morton D. Paley will be Fulbright lecturer at the
+University of Heidelberg, where he will offer a seminar on Blake and courses on Romantic literature and art.
+Those wishing to correspond with him directly during that period should write to him at the following address:
+<q>
+Anglistisches Seminar<lb/>
+Universität Heidelberg<lb/>
+Kettengasse 12<lb/>
+6900 Heidelberg 1<lb/>
+Federal Republic of Germany
+</q>
+From 14 December 1983 until 1 June 1984 Morris Eaves may be reached directly at:
+<q>
+c/o John Darrah<lb/>
+48 St. Paul’s Rd.<lb/>
+London N1 2QW<lb/>
+England
+</q></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

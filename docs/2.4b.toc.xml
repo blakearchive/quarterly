@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>2.4b.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>April 1969</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1969</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">02.4b</biblScope>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4b</biblScope>
+            <respStmt>
+              <resp>Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of California</publisher>
+            <pubPlace>Berkeley, CA, USA</pubPlace>
+            <date when="1969"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_02">
+    <front>
+      <pb id="p02-i" n="i"/>
+      <div1 id="cover">
+        <figure n="cover.002.04b.bqscan" rend="file" width="258" height="329">
+          <figTranscr><hi rend="u">BLAKE NEWSLETTER</hi><lb/>
+            Vol. II, No. 4, Part ii<lb/>
+            April 1969<lb/>
+            <hi rend="u">A Supplement to</hi><lb/>
+            G. E. Bentley, Jr., and Martin K. Nurmi<lb/>
+            A BLAKE BIBLIOGRAPHY<lb/>
+            (1964)<lb/>
+            by<lb/>
+            G. E. Bentley, Jr.<lb/>
+            (Department of English, University College, University of Toronto)<lb/>
+            The BLAKE NEWSLETTER is edited by M. D. Paley, Dept. of English, University of<lb/>
+            California, Berkeley, Calif. 94720.  Subscription price: two dollars for one year<lb/>
+            (4 issues). Overseas subscribers who wish delivery by air, please add one dollar.<lb/>
+            Subscribers in Britain may remit in form of <hi rend="u">open</hi>, <hi rend="u">uncrossed</hi>
+postal money orders.<lb/>
+            Copyright © 1969 by G. E. Bentley, Jr.</figTranscr>
+        </figure>
+      </div1>
+	  <div1 id="BQ-02-4b-0000">
+					<supplied type="emend" rend="plain">
+						<table id="contents" rows="2" cols="1">
+						  <row>
+							<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.4b.bentley">A Supplement to G. E. Bentley, Jr., and Martin K. Nurmi,
+<hi rend="i">A Blake Bibliography</hi> (1964)</ref><lb/>
+							<hi rend="i">by G. E. Bentley, Jr.</hi></cell>
+						  </row>
+						</table>
+					</supplied>
+	  </div1>
+      <div1 id="BQ-02-4p2-0001">
+        <note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by M. D. Paley, Dept. of
+English, University of California, Berkeley, Calif. 94720. Subscription price: two dollars for one year (4
+issues). Overseas subscribers who wish delivery by air, please add one dollar. Subscribers in Britain may
+remit in form of <hi rend="u">open, uncrossed</hi> postal money orders.</note>
+	<note type="unreferenced" place="footer">Copyright © 1969 by G. E. Bentley, Jr.</note>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

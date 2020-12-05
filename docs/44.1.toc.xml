@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-44" status="new">
+    <idno>44.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2010</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">44.1</biblScope>
+            <biblScope unit="volume">44</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2010"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_44">
+    <front id="issue_01">
+      <pb id="p44-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.044.01.bqscan" rend="file" width="258" height="342">
+          <figTranscr>BLAKE<lb/>
+          AN ILLUSTRATED QUARTERLY<lb/>
+            Blake and His Circle:<lb/>
+            A Checklist of Publications and Discoveries in 2009<lb/>
+          VOLUME 44<lb/>
+          NUMBER 1<lb/>
+          SUMMER 2010</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-44-1-0001">
+        <table id="contents" rows="3" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="44.1.bentley">William Blake and His Circle: A Checklist of
+Publications and Discoveries in 2009<lb/>
+</ref>
+              <hi rend="i">By G. E. Bentley, Jr., with the assistance of Hikari Sato for Japanese
+publications</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-44-1-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p44-3" n="3"/>
+      <div1 id="BQ-44-1-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G. E. BENTLEY, JR., is attempting, thus far in vain, to persuade Blake scholars that he has
+identified Blake’s most seen, least known picture.</p>
+      </div1>
+      <div1 id="BQ-44-1-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu<lb/>
+ TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College Street,
+Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-44-1-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $66 for institutions, $33 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors. No articles will be returned unless accompanied by a stamped self-addressed envelope.
+For electronic submissions, you may send a disk, or send your article as an attachment to an email message;
+please number the pages of electronic submissions.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x.<lb/>
+        <hi rend="i">Blake/An Illustrated Quarterly</hi> is indexed in the Modern Language Association’s
+International Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English
+Language and Literature, Humanities International Complete, Arts and Humanities Citation Index, Current
+Contents, Scopus, and the Bibliography of the History of Art.</p>
+        <p>© 2010 Copyright Morris Eaves and Morton D. Paley</p>
+        <p>Cover: An engraving, improbably attributed to William Blake, after a drawing ascribed to Samuel
+Collings. 23.5 × 15.9 cm. City of London, London Metropolitan Archives, main print collection, record 26963.
+See “Red Herring” in the introductory essay.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

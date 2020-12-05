@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.henning</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Blake’s Baptismal Font</title>
+                <author n="Henning">C. M. Henning</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <div1 id="BQ-11-1-0009">
+				<pb id="p11-38" n="38"/>
+                <figure n="BaptismalFont.11.1.bqscan" rend="file" width="500" height="784">
+                    <head>The Baptismal Font, St. James’s Church, Piccadilly</head>
+                </figure>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">Blake’s Baptismal Font</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <hi rend="b">by</hi>
+                        <docAuthor>
+                            <hi rend="b">C.M.</hi>
+                            <name>
+                                <hi rend="b">Henning</hi>
+                            </name>
+                        </docAuthor>
+                    </byline>
+                    <p>St. James’s Church, Piccadilly, is the only West End Church
+                        designed by Wren. Blake was baptized in the church when Charles Moss was
+                        rector, in a font designed by Grinling Gibbons. It is one of few Gibbons
+                        sculptures in marble. The bowl shows three bas-reliefs: of Noah’s
+                        Ark, the baptism of Jesus, and the baptism of the Treasurer of Candace by
+                        St. Philip. The stand represents the tree in the Garden of Eden, with the
+                        serpent coiled about it and Adam and Eve on either side.</p>
+                    <p>By a strange twist of fate, William Pitt the elder was also baptized in the
+                        font.</p>
+                    <p>In the north vestibule of the church is a tablet by Flaxman commemorating
+                        James Dodsley (d. 1797), the brother and partner of Robert Dodsley, the
+                        publisherpatron of Johnson, and a modern tablet commemorating
+                        Blake’s baptism.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

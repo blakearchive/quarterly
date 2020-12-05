@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.1.lister</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Calvert’s “Lady &amp; the Rooks” &amp; Cornish Scenes</title>
+        <author n="Lister">Raymond Lister</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.1</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Brad Hayden</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+              <resp>Design &amp; layout for this issue</resp>
+              <name>Brad Hayden</name>
+              <name>Virginia Masi</name>
+              <resp>Contributors</resp>
+              <name>James Bogan</name>
+              <name>Martin Butlin</name>
+              <name>David V. Erdman</name>
+              <name>Michael Ferber</name>
+              <name>Mary Lynn Johnson</name>
+              <name>Raymond Lister</name>
+              <name>J. Walter Nelson</name>
+              <name>Michael Tolley</name>
+              <resp>Photo credits</resp>
+              <name>Aethelred and Alexandra Eldridge</name>
+              <name>Leonard and Marjorie Gayton</name>
+              <name>Morris Eaves</name>
+              <name>Virginia Masi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-1-0007">
+      <pb id="p10-34" n="34"/>
+        <div2>
+          <byline>
+            <docAuthor>
+              <hi rend="b">RAYMOND</hi>
+              <name>
+                <hi rend="b">LISTER</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <head>
+            <title type="main">
+              <hi rend="b">Calvert’s <hi rend="i">“</hi>Lady &amp; the Rooks<hi rend="i">”</hi> &amp;
+Cornish Scenes</hi>
+            </title>
+          </head>
+          <p>In an article published some years ago,<supplied type="spacer"> </supplied><ref target="n9"
+type="note">1</ref> Mr. Geoffrey Grigson commented on reminiscences of Cornish scenery in Edward Calvert’s
+visionary engravings. He mentioned in general the landscape in the valley of the Fowey north of Lostwithiel,
+and in particular the castle and steep slope of Restormel, which he thought might be reflected in the
+wood-engraving, “The Lady and the Rooks.” I too referred to this in my monograph on Calvert.<supplied
+type="spacer"> </supplied><ref target="n10" type="note">2</ref>
+	<note id="n9"><hi rend="s">1</hi> “A Cornish Artist Edward Calvert, 1799-1883,” <hi rend="i">The West Country
+Magazine</hi> Vol. I, pp. 43-6.</note>
+	<note id="n10"><hi rend="s">2</hi><hi rend="i"> Edward Calvert</hi> (London: 1962), p. 86. “The Lady and the
+Rooks” is number 13 in the catalogue in that book (p. 105).</note></p>
+          <figure n="Gatehouse.10.1.bqscan" rend="file" width="500" height="370">
+            <head>The Gatehouse, Lanhydrock House, Cornwall (1658).</head>
+            <figDesc>A Property of the National Trust.</figDesc>
+          </figure>
+          <p>I recently revisited Cornwall after an interval of twenty-two years, and took the opportunity of
+looking at the castle of Restormel (twelfth-thirteenth centuries) and its surroundings. It is in a splendid
+setting, similar to that in “The Lady and the Rooks,” with the ground everywhere steeply sloping away,
+revealing lovely views. Yet the Romantic building in the background of Calvert’s engraving has nothing in
+common with the stark lines of Restormel itself, and I left feeling less convinced than before about the
+association.</p>
+          <p>Later during the same afternoon, I visited Lanhydrock House, near Bodmin, seat of the Robartes
+family. It is a late nineteenth century Romantic building, replacing one of the seventeenth century, the
+larger part of which was destroyed by fire in 1881.</p>
+          <p>One structure unaffected by the fire was the granite gatehouse, built between 1636 and 1651,
+which, as I first looked at it, seemed familiar. I had by this time dismissed “The Lady and the Rooks” from my
+mind, but it came back now with redoubled force. If Calvert based his design on Cornish landscape and details,
+this gatehouse was surely what he had in mind. For, although the detailing of Calvert’s building (which
+could be the side of a gatehouse) and that at Lanhydrock are somewhat different, they have enough in common to
+make the identification likely.</p>
+          <p>And not only the structure, but the wooded setting, is remarkably like that in the engraving,
+perhaps not sloping so dramatically, but sufficient to have provided the inspiration.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

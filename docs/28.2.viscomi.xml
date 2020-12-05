@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.2.viscomi</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">A Breach in a City the Morning after the Battle: Lost or Found?</title>
+        <author n="Viscomi">Joseph Viscomi</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.2</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>David Simpson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-44" n="44"/>
+      <div1 id="BQ-28-2-0005">
+        <head>
+          <title type="main"><hi rend="i">A Breach in a City the Morning after the Battle</hi>: Lost
+            or Found?</title>
+        </head>
+        <byline>by <docAuthor>Joseph <name>Viscomi</name></docAuthor></byline>
+        <p>In 1784, William Blake exhibited works at the Royal Academy entitled <hi rend="i">A
+            Breach in a City the Morning after the Battle</hi> and <hi rend="i">War Unchained by an
+            Angel. Fire, Pestilence, and Famine Following</hi> (Butlin, <hi rend="i">The Paintings
+            and Drawings of William Blake</hi> 187, hereafter referred to as Butlin; numbers are
+          catalogue entries).<supplied type="spacer"> </supplied><ref target="n0" type="note">*</ref>
+	<note id="n0">I am grateful to
+            Martin Butlin and Robert N. Essick for reading early drafts of this article and for
+            their many helpful suggestions.</note> The latter work, which may have been paired
+          causally with <hi rend="i">A Breach</hi>, is lost, and the identity of the former is a
+          matter of debate. Some critics assume that the version exhibited is either the one now in
+          the Ackland Museum of Art (Robertson 175; Blunt 11n27) or the one in the Carnegie Museum
+          of Art (Cummings 160, Rosenblum 154n27), while others believe that it too is lost and that
+          the Carnegie and Ackland versions are c. 1790-95 and c. 1795-1800 respectively (Pressly
+          138-39; Butlin 188). In this study, I argue that there are strong technical and aesthetic
+          reasons to believe that the drawing in the Ackland Museum is both the second version and
+          the one exhibited in 1784, and that the first two versions of <hi rend="i">Pestilence</hi>
+          are also incorrectly dated. My intention, though, is not only to argue that Robertson and
+          Blunt were correct about the Ackland version of <hi rend="i">A Breach</hi>, but also to
+          examine why and how the same artifact can appear to one art historian to have been
+          produced c. 1784 and to another as late as 1800. While disagreement about dates is not
+          unprecedented in Blake studies, this one is unusually pronounced and raises serious
+          questions about the assumptions and kinds of evidence (e.g., historical documents,
+          techniques, materials, styles, and themes) used to date these and other Blake designs.
+          Indeed, by redating versions of <hi rend="i">A Breach</hi>, I am not only redating
+          versions of <hi rend="i">Pestilence</hi> but am also challenging currently accepted ideas
+          of Blake’s pictorial style and development in the 1780s and 1790s. Furthermore, the
+          inconsistencies in the hypotheses used to date and sequence the versions of <hi rend="i">A
+            Breach</hi> and <hi rend="i">Pestilence</hi> require our rethinking the date and place
+          of a particular sketch (illus. 12) in the evolution of <hi rend="i">Pestilence</hi>—which,
+          in turn, questions Blake’s use and understanding of sketching in general.</p>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">The Production and Evolution of <hi rend="i">A Breach in a City the
+                  Morning after the Battle</hi></hi>
+            </title>
+          </head>
+          <p>The extant versions of Blake’s <hi rend="i">A Breach in a City the Morning after the
+              Battle</hi> are in the Carnegie Museum (illus. 1), the Ackland Museum (illus. 2), and
+            the Fogg Art Museum (illus. 3), though we know this last version as 
+              <hi rend="i">War.</hi> These three watercolors are dated c. 1790-95, c. 1795-1800, and 1805,
+            respectively (Butlin 189, 191, 195). They appear to have been executed or at least
+            paired with versions of <hi rend="i">Pestilence</hi>, which are in the collections of
+            the late Gregory Bateson (on loan to the Ackland Museum) (illus. 13), the Bristol Museum
+            and Art Gallery (illus. 14), and the Boston Museum of Fine Arts (illus. 15; Butlin 190,
+            192, 193).</p>
+          <p><hi rend="i">A Breach</hi> and <hi rend="i">Pestilence</hi> were first described in
+            Alexander Gilchrist’s <hi rend="i">Life of Blake</hi> (1863), but the descriptions are
+            the source of much subsequent confusion. Gilchrist was unaware that there was more than
+            one version of <hi rend="i">A Breach.</hi> From the 1784 Royal Academy exhibition
+            catalogue, he knew of the exhibited version and of <hi rend="i">War Unchained</hi>, but
+            he had seen neither work (1: 54). He identifies the theme of both as “the supreme
+            despicableness of War” and claims that they “gave birth about twenty years later to four
+            very fine water-colour drawings, . . . <hi rend="i">Fire, Plague, Pestilence</hi>, and
+              <hi rend="i">Famine</hi>” (1: 54). By “Pestilence” Gilchrist apparently means 
+              <hi rend="i">Pestilence</hi>: <hi rend="i">The Death of the First Born</hi> (Butlin 442),
+            because he had titled the c. 1805 version of <hi rend="i">Pestilence</hi> (illus. 15) as
+            “Plague” and had it reproduced as a wood-engraving by W. J. Linton and inserted to face
+            page 54.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> Gilchrist’s
+mistitling suggests that he was
+            also unaware that there was more than this one version of <hi rend="i">Pestilence</hi>,
+            since both early versions were so titled by Blake (illus. 13, 14). 
+                <note id="n1"><hi rend="s">1</hi> The c. 1805 version of <hi rend="i">Pestilence</hi> was
+acquired by
+              J. C. Strange from Thomas Butts, Jr. at Foster’s on 29 June 1853 (lot #131). Gilchrist
+              apparently borrowed the work from Strange for W. J. Linton to reproduce.</note></p>
+          <p>In 1862, a year after Gilchrist died and a year before the <hi rend="i">Life of
+              Blake</hi> was published, William Michael Rossetti, using Gilchrist’s lists and those
+            of William Haines, began to compile for the <hi rend="i">Life</hi> the first catalogue
+            raisonné of Blake’s drawings and paintings.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> Like
+            Gilchrist, Rossetti had seen neither <hi rend="i">War Unchained</hi> nor the two early
+            versions of <hi rend="i">Pestilence</hi>, though he had examined the sketch (241,
+              #18).<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> Unlike Gilchrist,
+he had also examined the
+            Carnegie version of <hi rend="i">A Breach</hi>, which had sold in “Mr. [Elhanan]
+            Bicknell’s Sale, [May] 1863” as “The Plague,” a title that Rossetti recognized was
+            “decidedly a mistake,” since that was what Gilchrist and he called the c. 1805 version
+            of <hi rend="i">Pestilence</hi> (207, #55). Rossetti apparently identified the
+            Bicknell/Carnegie drawing as <hi rend="i">A Breach</hi>, the work exhibited in the Royal
+            Academy in 1784 (201, #5), on the basis of its subject—a breached city wall filled with
+            dead soldiers and mourners—since the work itself was not inscribed or titled or in any
+            other way identified by Blake. <note id="n2"><hi rend="s">2</hi> The catalogue is
+              included in the second volume of the <hi rend="i">Life</hi> (199-268) and is here
+              referred to as Rossetti, followed by page and catalogue numbers.</note>	
+                <note id="n3"><hi rend="s">3</hi> Rossetti was thought to have examined the Bristol version of
+                <hi rend="i">Pestilence</hi>, but Butlin’s provenance (192) is actually that of the
+              sketch (see Essick, <hi rend="i">Works</hi> 118; Bennett 136, 138), while the Bristol
+              version itself “remains without a provenance until the sale of works from the
+              collection of Henry Willet at Christie’s on 10 April 1904” (Butlin “Footnotes” 17).
+              Rossetti’s unawareness of the Bateson version of <hi rend="i">Pestilence</hi> is
+              troubling, since it was sold at Sotheby’s on 29 April 1862, supposedly by Frederick
+              Tatham. He is identified as the vendor to this anonymous sale because of the number of
+              Blake works sold (over 200 items) and the preponderance of sketches, the kind of work
+              Tatham inherited through Mrs. Blake. That Rossetti was corresponding with Tatham at
+              this time but unaware of the sale (the works from the sale that he records were known
+              to him through their new owners, like Harvey, Palser, and Palgrave, and not from the
+              sale or its catalogue) raises the possibility that the vendor was someone other than
+              Tatham, and/or that someone was purchasing works from Mrs. Blake between 1827 and
+              1831.</note></p>
+          <pb id="p28-45" n="45"/>
+          <p>Like Gilchrist, Rossetti was unaware that there was more than one version of 
+              <hi rend="i">A Breach</hi>, Bicknell’s version being the only one that he actually
+            examined. He knew of the Fogg version, but he knew it as <hi rend="i">War</hi> and
+            appears not to have realized that it was a version of <hi rend="i">A Breach.</hi> He
+            knew of <hi rend="i">War</hi> because it was “mentioned” by that title “in the account”
+            (209, #68), by which he means Thomas Butts’s account of 12 May 1805 
+              (<hi rend="i">Life</hi> 2: 256; see Bentley, <hi rend="i">Blake Records</hi> 572). But Rossetti
+            lists <hi rend="i">War</hi> twice, implying that there were two works so titled. The
+            second he records as belonging to a “Mr. Fuller” (238, #227), whose Blake collection of
+            nine watercolors he knew only through an 1852 Sotheby’s sale catalogue.<supplied type="spacer"> </supplied><ref target="n4"
+              type="note">4</ref> By 1876, <hi rend="i">War</hi> belonged to J. F. Hall, who lent it
+            to the Burlington Fine Arts Club exhibition. One assumes that Rossetti saw it at that
+            time, since he reviewed the exhibition for <hi rend="i">Academy</hi> (9 [1876]: 364-65).
+            In his revised 1880 lists, he continues to record it as <hi rend="i">War</hi>, the work
+            “mentioned in the account” (216, #75), but deletes the second reference because he comes
+            to believe that Fuller’s <hi rend="i">War</hi> is <hi rend="i">War Unchained</hi> of
+              1784.<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> More confusing
+still, Rossetti fails to
+            mention the connection of Hall’s <hi rend="i">War</hi> to <hi rend="i">A Breach</hi>,
+            despite that connection having been explicitly made in the 1876 exhibition catalogue.
+              <hi rend="i">War</hi> is listed there as “Breach in the City Wall: Morning After the
+            Battle. Water colour. No. 5 in Catalogue, ‘Gilchrist’s Life.’ Exhibited at the Royal
+            Exhibition, 1784” (entry 185). <note id="n4"><hi rend="s">4</hi> Fuller was probably
+              Joseph or Samuel Fuller, print dealers in London from 1808 to 1862. He bought his
+              Blake watercolors on 26 June 1852 at Sotheby’s. For an examination of this auction,
+              its vendors, and the Blake works sold, see my “Blake and the Marketplace
+              1852.”</note>
+	<note id="n5"><hi rend="s">5</hi> In his annotated copy, Rossetti writes
+              next to Fuller’s <hi rend="i">War.</hi> “So far as one can surmise, may be the same as
+              No 4,” by which he means <hi rend="i">War Unchained.</hi> Next to #4 he writes “Mr.
+              Fuller from Mr. Butts,” which in the 1880 lists is shortened to “Butts,” because Butts
+              and Linnell are the only owners recorded in the second edition. <p>Rossetti’s
+                annotated copy of the <hi rend="i">Life</hi> is in the Houghton Library, Harvard
+                University, annotated supposedly between 1868 and 1876 (see Wittreich and Butlin,
+                “Annotations”). But Rossetti appears to have begun making notes very soon after
+                publication of the <hi rend="i">Life.</hi> In a letter of 6 November 1863, Anne
+                Gilchrist refers to Rossetti’s “annotations to the Blake,” which were, Rossetti
+                explained, “certain pencillings I had made in my copy of Gilchrist’s 
+                  <hi rend="i">Life of Blake</hi>, which was by this time already published” 
+                  (<hi rend="i">Rossetti Papers</hi> 41, 40).</p></note></p>
+          <p>In 1863, Rossetti was unaware of the Ackland <hi rend="i">Breach</hi> altogether. This
+            version, the only one titled by Blake, was then owned by Alfred Aspland, whose extensive
+            collection of Blake watercolors and drawings was then unknown to Rossetti. Aspland lent
+            his version to the 1876 Burlington Fine Arts Club exhibition, where it was described as
+            “A Breach in the City: The Morning After the Battle. Water colour. This title is written
+            on it by Blake, with the date apparently of 1780. This drawing, or another with the same
+            title, was exhibited in 1784. See No. 5 in Catalogue, ‘Gilchrist’s Life’” (entry 157).
+            The Burlington title differs slightly from the inscription on the watercolor itself,
+            which reads, “A Breach in A City the Morning / after the Battle / W Blake inv &amp; d.”
+            The supposed date of “1780” is a misreading of “inv &amp; d,” one recorded by Rossetti
+            in 1880 (208, #5). The ampersand—if that is what it is—is completely indistinct (illus.
+            8). Nor are there periods after it, “inv,” and “W” (pace Robertson 175), or after
+“inv”
+            and “&amp;” (pace Butlin 191, Pressley 138). In his revised 1880 lists, Rossetti records
+            the Aspland/Ackland version at the end of the entry for the Carnegie version (208, #5),
+            but he fails to indicate which version was exhibited in 1784.</p>
+          <p>Aspland’s version was acquired in 1904 by W. Graham Robertson, who reproduced it in his
+            1907 edition of Gilchrist’s <hi rend="i">Life</hi> as the one exhibited (1: 54). It is
+            so identified in his <hi rend="i">Blake Catalogue</hi> of 1952 (175-77, pl. 56), and his
+            view was apparently shared by Kerrison Preston—who edited the catalogue and acquired the
+            work in 1961, a year before it went to the Ackland Museum—and shared by Anthony Blunt as
+            well (11n27, pl. 8b). These owners and critics do not sequence the early versions of 
+              <hi rend="i">A Breach</hi> or pair them with versions of <hi rend="i">Pestilence</hi>, nor
+            do they explain their reasons for choosing the Ackland <hi rend="i">Breach</hi> as the
+            one exhibited.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> Apparently,
+they believe their choice
+            is self-evident, probably because the inscription suggests as much, since it is the
+            title by which the work is identified in the Royal Academy catalogue. At any rate, they
+            clearly do not find the style of the Ackland <hi rend="i">Breach</hi> to be inconsistent
+            with Blake’s pen and wash style of the mid-1780s. <note id="n6"><hi rend="s">6</hi> In
+              Robertson’s catalogue, the Fogg and Carnegie versions are conflated; the latter is
+              described with the former’s measurements and provenance (176-77).</note></p>
+          <p>Frederick Cummings and Robert Rosenblum believe that Blake exhibited the Carnegie
+            version and that the Ackland version followed, though how long afterwards they do not
+            say. This position, articulated in Cummings’s 1968 exhibition catalogue, maintains that
+            the “care, detail, and emotional conviction” of the Carnegie version suggest that it was
+            the version exhibited, whereas the Ackland version, because it “is less detailed, [and]
+            has less conviction,” is but “a simpler reworking” of the Carnegie (160).<ref
+              target="n7" type="note">7</ref> Placing the 
+<pb id="p28-46" n="46"/>
+<figure n="breachInACity.28.2.bqscan" rend="file" width="500" height="313">
+              <head>1. <hi rend="i">A Breach in a City the Morning after the Battle</hi>, c.
+                1784.</head>
+              <figDesc>Pen and watercolor (29.7 × 46.3 cm.). Museum of Art, Carnegie Institute,
+                Pittsburgh.</figDesc>
+            </figure> Carnegie version <hi rend="i">before</hi> the Ackland is certainly correct,
+            but not because the Carnegie is more detailed and carefully executed than the subsequent
+            version. The same stylistic features characterize revisions or second versions of other
+            works, while relaxed handling may reflect an artist’s first thoughts on a subject.
+            Indeed, the Carnegie’s companion piece, the Bateson version of 
+              <hi rend="i">Pestilence</hi> (illus. 13), is sketchier and was shown less care than the
+subsequent
+            Bristol version (illus. 14). <note id="n7"><hi rend="s">7</hi> Rosenblum states that
+              David Bindman agrees with Cummings about the Carnegie version of <hi rend="i">A
+                Breach</hi> (154n27). Bindman, though, in his <hi rend="i">Blake as an Artist</hi>,
+              agrees with Cummings’s sequence but not his dates. Apparently the care noted by
+              Cummings leads Bindman to the conclusion that the Carnegie “seems too accomplished”
+              for 1784, “unless Blake re-worked it later.” Adding to the confusion, Bindman
+              reproduces the Ackland version but identifies it as the version in the Fogg (plate
+              59), and believes that both the Ackland and Fogg versions “may be post-1800” (231n19).
+              The Fogg, of course, is dated by Blake 1805, but a post-1800 date for the Ackland is
+              even later than the one suggested by Butlin, which, as we shall see, is inferred from
+              a misreading of the signature’s form.</note></p>
+          <p>While an increase or decrease in detail does not reliably mark sequence, changes
+            between versions that are also corrections do. For example, in the bottom left corner of
+            the Carnegie version (illus. 1), the right foot of the soldier crosses the line forming
+            the arm of another soldier, rendering the foot transparent. In the Ackland version
+            (illus. 2), Blake corrected this mistake by repositioning the arm. The hand retains its
+            original gesture, but instead of grasping a strap that appears connected to a shield,
+            contrary to the manner in which the bottom shield is held, it now grasps either the hilt
+            of a sword or the top (and wrong end) of a banner. The figure to the right, outstretched
+            in the breached wall, is solidly on top of bodies in the Ackland version, whereas in the
+            Carnegie version this figure is tentatively drawn over and through a curved line that
+            apparently was meant to suggest a shield rather than the figure’s chest or robe. The
+            high-arching back of the mourning woman was repeated in the Ackland version but then
+            erased and lowered, while her long neck was shortened, making her proportions more
+            realistic. Perhaps the most significant alteration was the addition of the old man’s
+            crutches in the Ackland version, though traces of them are visible in the Carnegie,
+            where the right one goes only as high as the sash and the left one seems to have been
+            made of glass, passing through a hand (illus. 1). Blake apparently added the crutches
+            after he had drawn the hand—that is, he decided to add them only after the composition
+            had been designed and drawn in ink. Initially, the hand may have grasped the hilt of a
+            sword, pole, or spear, which in turn may have suggested the idea of crutches, an idea
+            developed in the second version.</p>
+          <p>The fingers and toes of the figures in the Carnegie version are generally more detailed
+            and carefully drawn than those in the Ackland, but the assumption that the Carnegie
+            version in its entirety was shown more “care” ignores the many drawing mistakes Blake
+            had made, as well as the fact 
+<pb id="p28-47" n="47"/>
+<figure n="BUT191.1.1.WC" rend="file" width="958" height="667">
+              <head>2. <hi rend="i">A Breach in a City the Morning after the Battle</hi>, c.
+                1784.</head>
+              <figDesc>Pen and watercolor (32.9 × 47.9 cm.). Ackland Art Museum, University of North
+                Carolina at Chapel Hill.</figDesc>
+            </figure> that the Carnegie version is unfinished. Not only are the crutches incomplete,
+            but the old man’s robe, painted blue above the sash, was left uncolored below and to the
+            left of the sash. Such an assumption also ignores the very weak blocking of the Carnegie
+            design. For example, the breach is so crowded with bodies and armor that it lacks visual
+            and thematic focus, expressing the effect of war on a city’s defenses, instead of the
+            horrors of war per se. By removing the shield at the far left and the soldier left of
+            the casket, Blake shows more of the wall and, more significantly, more of the soldier
+            outside the wall. This soldier, lost among bodies in the Carnegie version, is now
+            distinct with highlighted chest and face, representing the numerous but face-less dead
+            behind him and the wall. By simplifying the configuration of bodies at the breach and
+            giving the distant dead a face, Blake expresses more clearly the theme that “War” is the
+            fountain of “bitter Death &amp; of corroding Hell / Till Brotherhood is changd into a
+            Curse” (<hi rend="i">Milton</hi> 35: 3-4).</p>
+          <p>This theme is far more overt in the 1805 version (illus. 3), where the “enemy” dead,
+            rather than being dehumanized, are delineated as carefully as those lying inside the
+            walls. The top figure appears collapsed in despair over his comrades rather than one of
+            the dead; embracing two of them, he is analogous to the woman mourning her lover. In the
+            Ackland version, the two camps are not yet so neatly parallel, but they are moving in
+            that direction, as is suggested by the woman in the killing fields. Like the figures
+            standing beside the wall, she witnesses the carnage, but the sympathy she elicits is due
+            more to her moving cautiously and looking apprehensively, gestures of fear suggested by
+            her dramatically outstretched hands and, most significantly, her wide open eye. Both
+            gestures are missing in the Carnegie version, where she is drawn less expressively and
+            has no eye at all. The removal of the soldier left of the casket also reveals that the
+            Ackland version is moving toward paralleling the warring camps. This middle soldier,
+            with the awkwardly formed armor, is replaced by even clearer symbols of war: a
+            spear—enlarged dramatically, relative to the Carnegie version—and a banner. Implements
+            that are thrust upward in military gallantry lie fallen and futile. The addition of the
+            infant and crutches in the Ackland version also infuse the overall situation, rather
+            than the breached wall, with horror, implying that everyone, from newborns to mothers,
+            soldiers, and aged, is equally affected by war. The Ackland version is simpler, but it
+            is not simplistic. Blake’s changes, generated by aesthetic and technical needs, resulted
+            in a more focused, powerful, and expressive work.</p>
+          <p>The inference, then, that the Carnegie was the version 
+<pb id="p28-48" n="48"/>
+			<figure n="BUT195.1.1.WC" rend="file" width="958" height="737">
+              <figTranscr>inv<lb/>
+              WB<lb/>
+              1805</figTranscr>
+              <head>3. <hi rend="i">War</hi>, 1805.</head>
+              <figDesc>Pen, pencil, and watercolor (29.8 × 38.7 cm.). Fogg Art Museum, Harvard
+                University, Cambridge, Massachusetts.</figDesc>
+            </figure> 
+            exhibited, based entirely on the premises that it is more carefully executed
+            than the Ackland version and that care reflects Blake’s intention to exhibit, is
+            unconvincing. I suspect that Blake executed the Carnegie version first, recognized his
+            various mistakes while washing the design, and proceeded immediately to produce a
+            second, revised version, which he inscribed most likely with an eye to exhibition. Blake
+            chose to repeat the composition on wove paper instead of laid—the support he used for
+            the Carnegie version—which also suggests that he intended to exhibit the new and
+            corrected version of his design, since the wove, the heavier and more expensive paper,
+            took dark washes better, and since the three extant watercolors Blake exhibited at the
+            Royal Academy in 1785 were also executed on wove paper.<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref>
+	<note id="n8"><hi rend="s">8</hi> Three of Blake’s exhibited works in the
+              1780s are untraced: <hi rend="i">Death of Earl Godwin, War Unchained</hi>, and 
+                <hi rend="i">The Bard</hi> (Butlin 60, 187, 160). But the three watercolors of 
+                <hi rend="i">Joseph and his Brethren</hi>, exhibited in 1785, are on wove paper and,
+              like the Ackland <hi rend="i">Breach</hi>, trimmed to the image, which was routinely
+              required of drawings exhibited (see Essick, “Blake’s 1812 Exhibition,” 36).</note></p>
+          <p>This scenario, however, differs completely from the one Martin Butlin proposes. Butlin
+            believes Cummings’s sequence but believes also that both versions of <hi rend="i">A
+              Breach</hi> are too “accomplished” for 1784, that both were produced in the 1790s,
+            possibly five to 10 years apart, and that the exhibited version is lost. The Carnegie
+            version, he argues, “seems rather too advanced for the work exhibited in 1784, being
+            somewhat freer and more accomplished than that of the illustrations to 
+              <hi rend="i">Tiriel</hi> of c. 1789, to which it is otherwise fairly close. It is probably the
+            companion to the Bateson collection <hi rend="i">Pestilence</hi> of the early 1790s”
+            (189). Butlin dates the Carnegie and Bateson works c. 1790-95. He concedes that the
+            Ackland <hi rend="i">Breach</hi> “has sometimes been confused with that exhibited at the
+            Royal Academy in 1784,” but he notes that its “style is somewhat more relaxed: for
+            instance the head of the standing woman on the right is no longer in strict, classical
+            profile” (193). He dates the Ackland version c. 1795-1800.</p>
+          <p>If the Carnegie and Ackland versions appear more accomplished than the 
+              <hi rend="i">Tiriel</hi> illustrations—which neither does to me—it may be because they are
+nearly
+            twice their size (which accounts for their handling “being somewhat freer”) and were
+            executed as autonomous works, whereas the illustrations have some of the stiffness
+            characteristic of designs executed to be engraved, in which washes are laid in precisely
+            to facilitate the engraver’s effort to translate them into linear codes. The “early
+            1790s” date for the Bateson <hi rend="i">Pestilence</hi>, with which the Carnegie 
+              <hi rend="i">Breach</hi> is linked, is itself suspect. It is based on two premises: first,
+              <pb id="p28-49" n="49"/>
+that the Bateson version stylistically resembles the pen and
+            wash drawing, <hi rend="i">The House of Death</hi>, and second, that this drawing is c.
+            1790 (Butlin 190, 259). But the second premise is based on its style appearing to be “a
+            later development of the style and technique of the pen and wash drawings of the 1780s,”
+            a set of drawings that excludes all versions of <hi rend="i">A Breach</hi> and 
+              <hi rend="i">Pestilence</hi> (Butlin 259). The logic, in other words, is circular.
+            Moreover, the c. 1790 date of <hi rend="i">The House of Death</hi> is relative to that
+            of <hi rend="i">The Good and Evil Angels</hi>, a watercolor dated c. 1793-94 because it
+            follows plate 4 of <hi rend="i">The Marriage of Heaven and Hell</hi>, which is
+            supposedly 1790-93 (Butlin 257; Bentley, <hi rend="i">Blake Books</hi> 285). 
+              <hi rend="i">House</hi> is clearly before <hi rend="i">Angels</hi>, and 
+              <hi rend="i">Angels</hi> seems easy enough to date; the problem is that <hi rend="i">Angels</hi>
+            could be as early as 1790, because that is most likely the end date for 
+              <hi rend="i">Marriage</hi> (Viscomi, <hi rend="i">Idea</hi> chap. 26). If the sequence and
+spacing
+            hold—and I believe they do—then <hi rend="i">House</hi> dates from the mid-1780s.</p>
+          <p>The dates for the Carnegie and Ackland versions of <hi rend="i">A Breach</hi> are in
+            part derived from those of their pendants, the Bateson and Bristol versions of 
+              <hi rend="i">Pestilence</hi> (illus. 13, 14). It is probably true that the paired works
+            share the same date. However, if one version of <hi rend="i">Pestilence</hi> was
+            executed before 1790 then both were, for they were executed very close to one another,
+            and not five to 10 years apart. The Bateson version, which is certainly not as
+            accomplished as the <hi rend="i">Tiriel</hi> illustrations, is sketchier than the
+            Bristol version, with the gravedigger’s face redrawn so that the chin rests on the
+            chest, an alteration retained in the Bristol. Other than this difference, they are
+            exceedingly close compositionally and stylistically. In both versions, the hair color of
+            the two women is yellow, the hair on three of the men is orangish-brown, the skirts of
+            the front pallbearer and gravedigger are orange and yellow respectively, and the
+            background wash is a yellowish grey.<supplied type="spacer"> </supplied><ref target="n9"
+type="note">9</ref> Given that both
+            versions are essentially monochromatic wash drawings with touches of color, the same
+            palette and placing of colors strongly suggest that the first and second versions were
+            executed and finished very near to one other. Had there been years between versions, one
+            would expect differences as pronounced as those between the second and third versions.
+            Indeed, such differences in coloring and/or design mark all versions of works reproduced
+            a year or more after the first, even when the new versions were modeled closely on the
+            original composition. Compare, for example, the second versions of <hi rend="i">Paradise
+              Lost, Comus, House of Death, God Judging Adam</hi>, and <hi rend="i">Good and Evil
+              Angels</hi> (Butlin 536, 528, 320, 294, 323) with their models (Butlin 529, 527, 259,
+            257, 258). Copies of illuminated books from different editions also show pronounced
+            differences, whereas copies from the same edition—say, <hi rend="i">Songs of
+              Innocence</hi> copies B and E—are exceedingly similar, sharing the same palette and
+            coloring style and differing only in the placement of some colors (see Viscomi, 
+              <hi rend="i">Idea</hi> chap. 14).<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref>
+	<note id="n9"><hi
+                rend="s">9</hi> In Butlin’s color reproduction of the Bateson 
+                <hi rend="i">Pestilence</hi> (189), the background wash is pinkish, which makes the washes of
+              the two works seem less similar than they are.</note>
+	<note id="n10"><hi rend="s">10</hi> The works commisioned by Linnell, like the <hi rend="i">Wise and Foolish
+                Virgins</hi>, c. 1822, the three <hi rend="i">Paradise Lost</hi> designs, and 
+                <hi rend="i">The Book of Job</hi> (Butlin 479, 537, 551), may seem like exceptions
+              because they repeat the original (or previously executed) compositions so exactly
+              (Butlin 478, 536, 550). The repetition results from Blake’s working from tracings of
+              the originals and reflects the purpose of the commissions, which presumably was to
+              keep as close as possible to the works that generated the commissions in the first
+              place. Even when the composition remained the same, however, the coloring and
+              highlights differed, sometimes radically, as they did in the Linnell versions. The
+              subtle and not-so-subtle changes made among versions of the same work, even from
+              tracings and from impressions from the same illuminated plate, reflect what Essick
+              calls Blake’s “creative revisionism” (<hi rend="i">Language of Adam</hi>
+            116).</note></p>
+          <p>Nothing in the production of the second versions of <hi rend="i">A Breach</hi> and 
+              <hi rend="i">Pestilence</hi> suggests that they were not done the same week or month as
+            the first. Both were developed from tracings of the first versions. The tracings can be
+            inferred from the fact that the sizes of the figures and the relations among them are
+            the same in the two versions, despite slight differences in paper size.<supplied type="spacer"> </supplied><ref target="n11"
+              type="note">11</ref> The Bristol version of <hi rend="i">Pestilence</hi> even repeats
+            exactly the anatomically incorrect positioning of the back pallbearer’s foot beneath the
+            woman. Such similitude is neither accidental nor the result of redrawing freehand. It
+            results from either graticulating or “calking” the original. The first method requires
+            drawing a grid over the original and redrawing the design on a support similarly
+            squared, keeping the same coordinates between design and grid as in the original. But
+            this method was used to enlarge or reduce copy. The method usually used to transfer
+            outlines onto clean sheets of paper (or copper plates covered with etching ground) was
+            “calking.” A tracing of the original outline is made on transparent paper (or thin post
+            paper) and placed over a clean sheet of paper. <corr type="emend">Transference</corr> required either that the
+            verso of the tracing be covered with black or red chalk, or that a thin sheet so treated
+            be inserted between the tracing and new sheet of paper. The outline is then retraced
+            with a stylus and thereby transferred to the new support. An alternative method was to
+            work from the original itself and not from a tracing, by inserting a calking sheet
+            between the original and the new 
+<pb id="p28-50" n="50"/>
+<figure n="BUT144.1.1.WC" rend="file" width="958" height="644">
+              <head>4. <hi rend="i">The Witch of Endor Raising the Spirit of Samuel</hi>,
+                1783.</head>
+              <figDesc>Pen and watercolor (28.3 × 42.3 cm.). New York Public Library.</figDesc>
+            </figure>
+<figure n="witchOfEndorInscription.28.2.bqscan" rend="file" width="350" height="73">
+              <head>4a. <hi rend="i">The Witch of Endor Raising the Spirit of Samuel</hi>, detail of
+                inscription.</head>
+            </figure>
+<figure n="witchOfEndorSignature.28.2.bqscan" rend="file" width="350" height="99">
+              <head>4b. <hi rend="i">The Witch of Endor Raising the Spirit of Samuel</hi>, detail of
+                signature.</head>
+            </figure> sheet of paper and tracing the original’s outline with a stylus. In this
+            latter method, though, the artist needs to press harder over the outline to transfer
+            lines and thus subjects the original to possible defacement. When it is used, as it was
+            to transfer a few of Blake’s designs for Wollstonecraft’s <hi rend="i">Original
+              Stories</hi> (e.g., “Oeconomy &amp; Self-denial”) to copper plates, the verso of the
+            paper shows the indention of the stylus (see also Butlin 340). Such markings are absent
+            from the second versions of <hi rend="i">Pestilence</hi> and <hi rend="i">A Breach</hi>,
+            though the latter has a few indentions of a stylus on its face (along the eagle, wall,
+            and reclining figures).<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref>
+These indentions are
+            presumably from the pencil or stylus used to calk the outline from the tracing. The
+            pinholes in the top right and left corners of the Ackland <hi rend="i">Breach</hi>
+            support this hypothesis, for tracings were often fastened to the new sheet by pins.
+              <note id="n11"><hi rend="s">11</hi> Ordinary writing or printing paper is made
+              transparent when washed with a 50-50 solution of linseed oil and turpentine. Such
+              paper becomes yellow and brittle over time and has a very short life span. Thin post
+              paper or regular sheets of writing paper are made more transparent and effective when
+              the model is placed over a light source, like a window. Transferring outlines to
+              copper from tracings was standard procedure in graphic art; Blake’s use of the method
+              is evinced by the pinholes and wax marks on designs he reproduced (see, for example,
+              the glue marks on the emblem drawings for <hi rend="i">Gates of Paradise</hi> in
+              Blake’s Notebook). It is also evinced by his borrowing Butt’s <hi rend="i">Book of
+                Job</hi> watercolors for Linnell to trace for the new series (Bentley, 
+                <hi rend="i">Blake Records</hi> 273-74). The only Blake tracings extant are of 
+                <hi rend="i">Vision of the Last Judgment</hi> and of <hi rend="i">The Virgin Hushing the Young
+                Baptist</hi> (Butlin 646 and 645, 408 and 406; see also 831).</note>	
+                <note id="n12"><hi rend="s">12</hi> I discovered the stylus marks with the aid of a strong
+              magnifying glass, but I found independent confirmation in <hi rend="i">The Ackland Art
+                Museum Newsletter</hi> 16 (1984), which described <hi rend="i">A Breach</hi> as “pen
+              and black ink, gray wash and watercolor, with traces of stylus(?), underdrawing on
+              off-white wove paper” (2).</note></p>
+          <p>The only marked difference between the two versions of <hi rend="i">Pestilence</hi> is
+            that the faces of two figures were changed from profile to three-quarter view; the same
+            repositioning of heads also differentiates the two versions of <hi rend="i">A
+              Breach</hi> and partly accounts for why this design’s first and second versions are
+            paired with those of <hi rend="i">Pestilence.</hi> But three-quarter views are not why
+            the second versions are second. In both designs, Blake appears to have repositioned
+            heads and gazes for dramatic effect and to diversify the pictorial plane. Technically
+            and aesthetically, he did nothing he hadn’t done earlier and as well. Indeed, in 
+              <hi rend="i">The Witch of Endor Raising the Spirit of Samuel</hi> (illus. 4; Butlin 144),
+            which Blake signed and dated 1783, the faces alternate between profile and
+            three-quarter, much as they do in the Bristol <hi rend="i">Pestilence. Joseph</hi><pb
+              id="p28-51" n="51"/><hi rend="i">Ordering Simeon to Be Bound</hi> (Butlin 156), which
+            Blake exhibited in 1785, also shows a deliberately diverse range of facial positions.
+            This latter work is especially telling, for it is based on a sketch (Butlin 158) in
+            which two of the three-quarter faces are profiles and one of the profiles is
+            three-quarter. The sketch and finished drawing were executed near one another in time,
+            and the changes between them are analogous to those found in the first and second
+            versions of <hi rend="i">A Breach</hi> and <hi rend="i">Pestilence.</hi> Three-quarter
+            views signify neither special accomplishment nor an advanced drawing style, nor do
+            repositioned heads signify years between versions.</p>
+          <p>The Ackland <hi rend="i">Breach</hi> is, indeed, more “relaxed” and even sketchier than
+            it appears in Butlin’s atrocious color reproduction, probably the worst in his
+            magnificent catalogue. The original in Chapel Hill is not muddy, as it is in the
+            reproduction, nor is it as dark and pinkish.<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref> The
+            bodies in the killing fields beyond the breached wall, for example, are mere circles and
+            arched lines (illus. 5), but so are those in the Carnegie version. Technically, the
+            Ackland version lies somewhere between a pen and wash and a watercolor drawing; it is
+            monochromatic except for traces of pink in the old man’s robe, the dead woman’s wrap,
+            the arm of the soldier at the far left, and yellowish-brown hair in the three right
+            figures. It is more relaxed and less advanced than the <hi rend="i">Tiriel</hi> drawings
+            and even the illustrations of <hi rend="i">Joseph</hi> (Butlin 155-57), and certainly
+            less sophisticatedly painted or “accomplished” than color-print drawings and the
+            illustrations to <hi rend="i">Night Thoughts</hi> and Gray’s “Poems,” with which its c.
+            1795-1800 date associates it. Indeed, its coloring is less sophisticated than that of
+            the large-paper copies of illuminated books or <hi rend="i">Songs</hi> copies I, J, L,
+            N, and O, all of which were produced and colored c. 1794-95—before the illustrations to
+            the <hi rend="i">Night Thoughts</hi> and Gray’s “Poems.”<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> Because many of the large-paper copies of illuminated books
+and copies of
+              <hi rend="i">Songs</hi> had been misdated post-1800, Blake’s development as a colorist
+            seemed erratic and his work as a painter and printmaker appeared disconnected. Hence,
+            his period styles seemed either indeterminate or inconsistent. When these copies of
+            illuminated books are perceived as the work of the mid-1790s, however, they reveal that
+            Blake’s coloring style for drawings and relief prints was consistent. They also reveal
+            that the Ackland <hi rend="i">Breach</hi> was executed in an earlier period, more in the
+            style of works like <hi rend="i">The Witch of Endor</hi> (illus. 4) and <hi rend="i">The
+              Spirit of a Just Man Newly Departed Appearing to His Mourning Family</hi> (Butlin
+            135), works executed by the mid-1780s. <note id="n13"><hi rend="s">13</hi> According to
+              Martin Butlin, the fault for the reproduction lies entirely with the poor transparency
+              that the Ackland sent to Yale University Press, the catalogue’s publisher.</note>	
+              <note id="n14"><hi rend="s">14</hi> For the dates and coloring styles of these last sets of
+              illuminated books, see Viscomi, <hi rend="i">Idea</hi> chap. 30.</note></p>
+          <p>The second versions of both <hi rend="i">A Breach</hi> and <hi rend="i">Pestilence</hi>
+            are tied technically to the first versions and resemble them stylistically. 
+<figure n="aBreachInACityDetail.28.2" rend="file" width="662" height="1000">
+              <head>5. <hi rend="i">A Breach in a City the Morning after the Battle</hi>, c.
+                1784.</head>
+              <figDesc>Pen and watercolor; detail of breached wall. Ackland Art Museum, University
+                of North Carolina at Chapel Hill.</figDesc>
+            </figure> There are no good reasons to believe that they were executed five to 10 years
+            after the first. What would have motivated Blake to return to these works at that time?
+            Why work from a tracing instead of freehand, which provides far greater freedom to
+            rethink the design, as evinced in the third versions of both 
+              <hi rend="i">Pestilence</hi> and <hi rend="i">A Breach</hi>? More importantly, why would he
+            duplicate the minimalist coloring in or after 1795, when he employed an enriched palette
+            and coloring style in his other works? Returning years later to an earlier style of
+            execution seems <corr type="emend">implausible;</corr> conversely, the similarity in style
+suggests that Blake
+            returned to the works while they were still fresh in mind. The aesthetic quality of the
+            first version of <hi rend="i">A Breach</hi> may have provided the motivation to revise
+            the composition. The incompletely colored robe in the Carnegie <hi rend="i">Breach</hi>
+            suggests that Blake stopped before finishing, presumably having already decided to
+            redraw it instead of erasing lines and figures. This decision probably influenced the
+            one to redraw <hi rend="i">Pestilence</hi> as well, creating the second pair. As noted,
+            Blunt and Robertson believe that the Ackland <hi rend="i">Breach</hi> is 1784, while
+            Cummings and Rosenblum believe that the Carnegie version is 1784. All four were probably
+            correct.</p>
+          <pb id="p28-52" n="52"/>
+          <figure n="War1805.detail.28.2.bqscan" rend="file" width="250" height="268">
+            <head>6. <hi rend="i">War</hi>, 1805.</head>
+            <figDesc>Pen, pencil, and watercolor; detail. Fogg Art Museum, Harvard University,
+              Cambridge, Massachusetts.</figDesc>
+          </figure>
+          <figure n="bb74.1.14.ms.detail" id="bb74.1.ms.14" work-copy="bb74.1" rend="file" width="958" height="270">
+            <figTranscr>{Let cherubim &amp; seraphim now raise their voices high}<lb/>
+            Then like a mighty wind they raise to heavn the voice of song<lb/>
+            Or like harmonious thunderings the seats of heavn among<lb/>
+            Beneath them sit the revrend men the guardians of the poor<lb/>
+            Then cherish pity lest you drive an angel from your door<lb/>
+            After this they all sat silent for a quarter of an hour {&amp; Mrs Sigtagatist} &amp; Mrs Nannicantipot<lb/>
+            said it puts me in Mind of my {grand} mothers song</figTranscr>
+            <head>7. <hi rend="i">The Island in the Moon</hi>, page 7, c. 1784.</head>
+            <figDesc>Pen and ink (30.8 × 18.5 cm.); detail. Fitzwilliam Museum of Art.</figDesc>
+          </figure>
+          <p>Why then does Butlin date these works so late? The idea that they are too advanced or
+            accomplished for mid-1780s seems predicated on their size and their having figures with
+            three-quarter views, as though such gazes are technically and psychologically more
+            complex and advanced. These reasons, however, are secondary in Butlin’s overall
+            argument, which is actually anchored by a solid hypothesis misapplied: that the forms of
+            Blake’s signature are dateable. Of the Ackland <hi rend="i">Breach</hi>, he states: “its
+            style, size and form of signature show it to be a companion to the version of 
+              <hi rend="i">Pestilence</hi> at Bristol and to date probably from the later 1790s” (193).
+            The Ackland and Bristol drawings are signed “W Blake inv &amp; d” and “WBlake inv d”
+              respectively.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref>
+Moreover, they are the only
+            drawings in which “inv” and “d” were combined, which suggests a deliberate pairing.<ref
+              target="n16" type="note">16</ref> They are dated c. 1795-1800 because their signatures
+            supposedly resemble the monogram that Blake began using almost exclusively in watercolor
+            drawings and prints between 
+<pb id="p28-53" n="53"/>
+<figure n="aBreachinaCity.signature.28.2.bqscan" rend="file" width="350" height="91">
+              <head>8. <hi rend="i">A Breach in a City the Morning after the Battle</hi>, c.
+                1784.</head>
+              <figDesc>Pen and watercolor; detail of signature. Ackland Art Museum, University of
+                North Carolina at Chapel Hill.</figDesc>
+            </figure>
+<figure n="pestilence1784.signature.28.2.bqscan" rend="file" width="350" height="97">
+              <head>9. <hi rend="i">Pestilence</hi>, c. 1784.</head>
+              <figDesc>Pen and watercolor; detail of signature. City of Bristol Museum and Art
+                Gallery.</figDesc>
+            </figure> 1795 and 1805. The questions to ask of both works, then, are these: are the
+            signatures really like the monogram? Were the works signed when produced, or were they
+            signed afterward? <note id="n15"><hi rend="s">15</hi> The “d” is for “delineavit,”
+              usually shortened to “del” and meaning “has drawn it.” When used on drawings, as it
+              was by Francis Towne in the 1780s, it implies both invention and execution. On
+              reproductive prints, it refers to either the painter—signified also by “pinxit” (“has
+              painted it”) or “invenit” (“has invented it”)—or to an intermediary draughtsman who
+              prepared the drawing for the engraver. The engraver was identified either by
+              “sculpsit” (“has engraved it”), “fecit” (“has made it”), or “incisit”
+(“has engraved
+              it”). In his original graphic art, Blake used “del” and “inv” interchangeably, the
+              former to mean the latter, as in “del &amp; sc”, the combination favored by his
+              teacher, James Basire, but he used the two terms together only four times (see n16),
+              perhaps because the combination is redundant.</note>
+	<note id="n16"><hi rend="s">16</hi><hi rend="i"> A Breach</hi> and <hi rend="i">Pestilence</hi> are the only
+              two drawings with “inv” and “d,” though two other works, both post-1805, have similar
+              signatures: the <hi rend="i">Vision of the Last Judgment</hi> is signed “W Blake inv
+              &amp; del: 1808” (Butlin 643), and the <hi rend="i">Whore of Babylon</hi> is signed
+              “WBlake inv &amp; del 1809” (Butlin 523). <hi rend="i">Epitome of James Hervey’s
+                “Meditations among the Tombs”</hi> (c. 1820) is signed “W Blake inv &amp;,” with
+              “del” possibly trimmed away (Butlin 770); Blake also combined “inv” with “del” in
+the
+              plates in Hayley’s <hi rend="i">Triumphs of Temper</hi> (1803), inscribing six designs
+              “Maria Flaxman inv &amp; del” and “W Blake sculp.”</note></p>
+          <p>Blake’s monogram was formed by a stylized italic <hi rend="i">W</hi> and 
+              <hi rend="i">B.</hi> The top and bottom loops of the <hi rend="i">B</hi> were formed by round
+            strokes. The swash tail circles over both initials to connect to the left serif of the
+            W, and “inv” was placed inside the loop (illus. 6).<supplied type="spacer"> </supplied><ref
+target="n17" type="note">17</ref> Starting with the serif on the <hi rend="i">W</hi>, the two initials were
+            written in one continuous gesture of up and down strokes, with the tips of the 
+              <hi rend="i">W</hi>’s right leg and the <hi rend="i">B</hi>’s stem connected. In the
+            signature of the Ackland version, the <hi rend="i">B</hi> of “Battle” and “Blake” were
+            formed alike but different from the monogram’s <hi rend="i">B</hi>; the top loop is much
+            smaller than the bottom and is formed by a downward rather than curved stroke. The same
+            style of <hi rend="i">B</hi> is present in the signature of <hi rend="i">The Witch of
+              Endor</hi> (illus. 4b), dated by Blake 1783, and throughout <hi rend="i">The Island in
+              the Moon</hi> c. 1784 manuscript (illus. 7; see “Beneath” in line 3).<supplied
+type="spacer"> </supplied><ref target="n18"
+              type="note">18</ref> Furthermore, the Ackland’s <hi rend="i">W</hi> differs from the
+            monogram’s in that it has no left upward serif and is separate from the 
+              <hi rend="i">B.</hi> The form of just one part of the Ackland signature resembles the monogram,
+            and then only superficially and inadvertently. The stem of the “d” loops over the “inv
+            &amp;” (illus. 8), creating a monogram-like feature, which in fact supports a 1780s
+            date—or at least does not rule it out—because it is simply the style that Blake used to
+            write his “d”s at this time, as is evinced by nearly all the “d”s in <hi rend="i">An
+              Island in the Moon.</hi> Note that “wind” and “mind” create similar monogram-like
+            forms (illus. 7, lines 1 and 6).<supplied type="spacer"> </supplied><ref target="n19"
+type="note">19</ref>
+	<note id="n17"><hi
+                rend="s">17</hi> Sometimes the <hi rend="i">B</hi>’s swash tail circled to the “i”
+              of “inv” (Butlin 440) or to the “v” of “inv” (Butlin 450). On three color-print
+              drawings possibly pulled in 1795, Blake incised “Blake” (Butlin 316, 310, 291), though
+              not necessarily at the time of the pulls.</note>
+	<note id="n18"><hi rend="s">18</hi>
+              Butlin records the signature on <hi rend="i">The Witch of Endor</hi> as “1783 W Blake
+              inv” (144), which is how it was initially written, with a long trailing serif on the
+              “v.” But the signature has been slightly damaged and is now difficult to make out
+              completely. In the photograph (illus. 4b), it unfortunately appears to read “1723 W
+              Blake.” The flag emanating from the top of the <hi rend="i">B</hi> and connecting it
+              to the <hi rend="i">W</hi> is still visible. This kind of connection between capital
+                <hi rend="i">W</hi>s and the following letter was typical of Blake’s hand (see
+              Blake’s <hi rend="i">Island in the Moon</hi> manuscript or Notebook). A similar but
+              more pronounced kind of connection is made between the <hi rend="i">W</hi> and 
+                <hi rend="i">B</hi> in the five “Fresco W Blake inv” signatures (Butlin 295, 299, 307,
+              317, 326).</note>
+	<note id="n19"><hi rend="s">19</hi> See also the final “d” of
+              “departed” in the inscription of <hi rend="i">The Spirit of a Just Man Newly Departed
+                Appearing to His Mourning Family</hi>, c. 1780-85 (Butlin 135).</note></p>
+          <pb id="p28-54" n="54"/>
+          <p>The resemblance to the monogram was formed inadvertently, by an ornamental flourish
+            characteristic of Blake’s calligraphic hand. But the situation may be more complicated
+            than that, because the loop may have been extended after the fact, as is suggested by
+            the break in the line just above the “v” of “inv” and to the left of the dot for the
+“i”
+            (illus. 8). Moreover, the ink of the indistinct ampersand and “d” is a lighter hue, and
+            the flag-like serif of the “v” crosses instead of extends the right leg of the “v” and
+            crosses the stem of the “d,” raising the possibility that all three forms, and not just
+            the extension of the “d”’s loop, were added later. While the similarity of the strokes
+            of the letters and their extensions argues against this, the possibility cannot be ruled
+            out entirely, because Blake did alter the inscription, changing four lower-case letters
+            to capitals. Initially, “A,” “Breach,” “A,” and “City” were not capitalized
+(illus. 8).
+            If they were capitalized after 1784, then the original inscription was closer to the
+            1784 Royal Academy catalogue entry (#400): “A breach in a city, the morning after a
+            battle W. Blake” (Bentley, <hi rend="i">Blake Records</hi> 28). Whether these changes
+            were made the following day or years later may be impossible to tell, but the
+            inscription and signature are clearly in the same ink and made by the same pen or brush,
+            and their letter forms are perfectly consistent with those used in the 1780s and differ
+            considerably from the signature Blake designed c. 1795.</p>
+          <p>The Ackland version appears to have been signed when produced, though parts of the
+            inscription and possibly a part of the signature may have been altered afterwards. The
+            Bristol version of <hi rend="i">Pestilence</hi>, however, appears to have been signed
+            after it was produced. The ink of the signature is darker and the letter strokes wider
+            than those of the inscription (“Pestilence”) and the design itself.<supplied type="spacer"> </supplied><ref target="n20"
+              type="note">20</ref> The letter forms of this signature (illus. 9) are closer to those
+            in the monogram than are those in the Ackland version, but they still vary. The 
+              <hi rend="i">W</hi> lacks its upward left serif but connects with the B. The “d”’s stem is
+            not as extended, and the “inv” is formed very differently from that of the Ackland
+            version and monogram (illus. 6). The “v” has a long winding serif like the one in the
+            Ackland signature and, though illus. 4 does not show it, like the one in 
+              <hi rend="i">The Witch of Endor</hi>, but the “n” is <corr type="emend">misshapen</corr> or redrawn. The feature of
+the
+              <hi rend="i">Pestilence</hi> signature that most resembles the monogram is the 
+              <hi rend="i">B</hi>’s swash tail, but this feature also makes the signature unique.<ref
+              target="n21" type="note">21</ref> It is the only signature in which the surname begins
+            with a monogram-styled <hi rend="i">B</hi>; elsewhere, this style of <hi rend="i">B</hi>
+            was used only for the initial. The assumption seems reasonable, then, that the form
+            Blake either develops into the monogram or was influenced by it. In either case, it
+            seems that Blake signed the work after it was produced, deliberately to match the form
+            and text of the signature of its companion. <note id="n20"><hi rend="s">20</hi> I am
+              grateful to Francis Greenacre, the curator at the Bristol Museum, for this
+              information.</note>
+	<note id="n21"><hi rend="s">21</hi> The signature appears
+              consistent with itself, yet the <hi rend="i">B</hi> and “l” of “Blake” also appear
+              initially to have been joined, and the circling tail appears possibly to have been
+              inserted just outside the <hi rend="i">B</hi>’s bottom loop. A line was drawn from the
+              top of the “l” through the “k” to near the “i” of “inv.” Traces of a letter or
+number
+              seem to be under the <hi rend="i">B</hi>’s top loop, possibly from a differently
+              formed <hi rend="i">B</hi>, one like the <hi rend="i">B</hi> of “Battle” and “Blake”
+              in the Ackland <hi rend="i">Breach</hi>, with a higher but smaller top loop and a stem
+              to the right of the present stem. Again, whether these marks and lines signify changes
+              or false starts, made when the signature was written or later, may be impossible to
+              discern.</note></p>
+          <p>Because Blake sometimes signed and dated works years after they were produced, the
+            possibility that the Ackland alterations and the Bristol signature itself occurred long
+            after production cannot be ruled out.<supplied type="spacer"> </supplied><ref target="n22"
+type="note">22</ref> Dating these
+            works by the form of their signatures must remain suspect—especially when the
+            signatures’ texts are excluded from the dating rationale. As Butlin has demonstrated,
+            the signatures with Blake’s surname, “WBlake 1795” and “Fresco W Blake inv” (Butlin 292,
+            303, 321; 295, 299, 307, 317, 326), are on color prints possibly pulled in 1795 but
+            probably added after 1805 (Butlin, “Physicality” 8-9). These two forms of signatures are
+            dated after 1805 precisely because they are inconsistent with the monogram in form and
+            text, and because they appear to be variants of “WBlake inv,” which Blake began to use
+            after 1805 (Butlin, “Physicality” 8). By the same logic, the texts of the Ackland and
+            Bristol signatures, “W Blake inv &amp; d” and “WBlake inv d,” place the works either
+            before 1795 or after 1805, as does the placement of “inv” beside the surname instead of
+            above Blake’s initials. The third version of <hi rend="i">A Breach</hi> is dated by
+            Blake 1805 and is clearly in a later drawing and coloring style (illus. 3). A pre-1795
+            date is left, but this terminal date can be pushed further back. 
+                <note id="n22"><hi rend="s">22</hi> The Tate impression of the color-print drawing 
+                <hi rend="i">Newton</hi> is on 1804 paper but is signed “1795 WB inv” in monogram. For an
+              overview of Blake’s habit of signing works after production, and a bibliography, see
+              Butlin’s “Physicality.”</note></p>
+          <p>The watercolors <hi rend="i">Los and Orc</hi> and <hi rend="i">God Judging Adam</hi>,
+            dated c. 1792-93 and 1790-93 respectively (Butlin 255, 258), are both signed “W Blake,”
+            without “inv &amp; d.” These, the only signed watercolors between c. 1790 and 1795, are
+            also among the very few watercolors Blake appears to have produced during this period,
+            which was dominated by illuminated printing and commercial engravings—and even these may
+            be earlier than supposed. Like <hi rend="i">House of Death</hi>, they are dated relative
+            to <hi rend="i">The Good and Bad Angels</hi>, which, as noted, is possibly as early as
+            1790 and not as late as 1794. In any event, their “W Blake” resembles Blake’s signature
+            on the illuminated books from 1788 to 1795: “The Author &amp; Printer W [or Will]
+            Blake,” as well as his signature in the 1780s. The terminal date, then, for the
+            signature on the Ackland <hi rend="i">Breach</hi> appears no later than 1790, but this
+            earlier date need not be accepted by process of elimination. It is actually suggested by
+            the inclusion and placement of “inv” in <hi rend="i">The Witch of Endor</hi>, signed
+            “1783 W Blake inv” (illus. 4b). As noted, this work’s lower right corner is slightly
+            damaged, and its right margin appears to have been trimmed 
+<pb id="p28-55" n="55"/>
+            after “inv,” through the “v”’s long serif (see n18). A brush or pen mark from the edge
+            of the sheet curves over the “v” of “inv,” possibly a fragment of a looping “d”
+trimmed
+            off, in which case the signature may have originally read “1783 W Blake inv [&amp;] d,”
+            like the Ackland and Bristol works (see n16 for a work similarly trimmed).</p>
+          <p>For the Ackland <hi rend="i">Breach</hi> to have been signed when executed and the
+            Bristol <hi rend="i">Pestilence</hi> signed afterwards would not be so strange, for it
+            is not the signatures that make them companions. Indeed, the last version of 
+              <hi rend="i">Breach</hi> is signed and dated, but its companion, the Boston version of 
+              <hi rend="i">Pestilence</hi>, is neither signed nor dated. Moreover, Blake consistently
+            signed finished drawings after 1795 and in forms consistent enough to discern dateable
+            patterns, but not before. Of the 140 known drawings and sketches produced in the 1770s
+            and 1780s (Butlin 49-190), only eight—including the Ackland <hi rend="i">Breach</hi> and
+            Bristol <hi rend="i">Pestilence</hi>—are signed. Of these, <hi rend="i">Moses with the
+              Tables of Stone</hi> is untraced but is reported to have been signed “W Blake 1774
+            [?]” and “WB [in monogram] 1774” (Butlin 49).<supplied type="spacer"> </supplied><ref
+target="n23" type="note">23</ref> The
+            presence of a signature on another is dubious (Butlin 184), and the signatures on three
+            appear to me as possibly in a hand other than Blake’s (Butlin 119, 126, 179A).<ref
+              target="n24" type="note">24</ref> But two of the latter, <hi rend="i">Saul and
+              David</hi>, c. 1780-85, and <hi rend="i">A Medieval Battle Scene</hi>, c. 1780, are
+            signed “W Blake inven”; if these are Blake’s signatures, then the likelihood that 
+              <hi rend="i">A Breach</hi> and <hi rend="i">Pestilence</hi> were signed mid-1780s is
+            further strengthened. While admittedly there are too few signed works from the 1770s and
+            1780s to indicate conclusively the evolution of Blake’s signature during this 20-year
+            period, it is clear that the texts resemble one another, that all eight are variations
+            on “W Blake inv,” and that the “d” is more likely to have been included in the signature
+            during this period than the period in which the surname is dropped altogether and “inv”
+            is newly positioned. In fact, no drawings signed during the period in which the monogram
+            was regularly used (1795-1805) include both “inv” and “d” or have “inv” 
+              <hi rend="i">beside</hi> the <hi rend="i">B.</hi> It seems very unlikely, then, that Blake
+signed
+            these works while using the true monogram (see n16). <note id="n23"><hi rend="s">23</hi>
+              Butlin infers the possible signatures on <hi rend="i">Moses</hi> from information
+              supplied by the 6 April 1925 Sotheby sale catalogue (lot 153), which states that the
+              work is “signed and dated W.B. 1774.” There is no mention of a monogram, but a near
+              monogram in the mid-1770s is not impossible. Blake’s teacher signed his works “Basire
+              del &amp; sc” and “JBasire del &amp; sc,” often combining his initials into a
+              monogram.</note>
+	<note id="n24"><hi rend="s">24</hi> The signatures are “W. Blake”
+              (179A) and “W Blake inven” (119, 126). The bowed legs of the former’s 
+                <hi rend="i">W</hi> are especially un-Blakean, and none of the <hi rend="i">B</hi>s matches
+the
+              style used throughout <hi rend="i">The Island in the Moon</hi> manuscript.</note></p>
+          <p>We can only speculate why Blake signed some works and not others, or some long after
+            production. Probably, as Butlin suggests, sales prompted signatures (“Physicality” 8).
+            The earliest provenances of the Ackland <hi rend="i">Breach</hi> and the Bristol 
+              <hi rend="i">Pestilence</hi> are unknown, and so the idea that the latter’s signature and
+            its presumably deliberate echoing of the Ackland’s were instigated by sale of the two as
+            a pair cannot be proven or disproven.</p>
+          <p>While the form of the signature has been misread to indicate a c. 1795-1800 date, the
+            very presence of an inscription on <hi rend="i">A Breach</hi>, a clearer indicator of
+            date, has been given little attention. The few works whose titles are inscribed on the
+            picture surface itself are all from the 1780s.<supplied type="spacer"> </supplied><ref
+target="n25" type="note">25</ref>
+            These include <hi rend="i">Samuel Presenting Saul to the People</hi> c. 1780-85,
+            inscribed “Behold your King,” <hi rend="i">The Spirit of a Just Man Newly Departed
+              Appearing to His Mourning Family</hi> c. 1780-85, so inscribed, <hi rend="i">The Witch
+              of Endor Raising the Spirit of Samuel</hi>, 1783, so inscribed, <hi rend="i">The King
+              of Babylon in Hell</hi> c. 1780-85, inscribed “Hell beneath is moved for thee to meet
+            thee at thy coming.—Isaiah,” <hi rend="i">Pestilence, Probably the Great Plague of
+              London</hi> c. 1780 (illus. 10), inscribed “Lord have m<hi rend="s">er</hi> on us,”
+            and both versions of <hi rend="i">Pestilence</hi> (illus. 13, 14), so inscribed (Butlin
+            117, 135, 144, 145, 184, 190, 192). Works finished after 1790, including the
+            Wollstonecraft designs, the color-print drawings, and the designs in the 
+              <hi rend="i">Small Book of Designs</hi> copy B, have inscriptions written below rather than on
+the
+              design.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref>
+	<note id="n25"><hi rend="s">25</hi>
+              Bentley’s list of “titles Blake wrote on his pictures” (<hi rend="i">Blake Books</hi>
+              210-12) is inadvertently misleading in that the titles recorded were not on the
+              pictures themselves but in the Royal Academy catalogues, below the designs, or by
+              other hands.</note>
+	<note id="n26"><hi rend="s">26</hi> Inscriptions below the image
+              became Blake’s standard mode of presenting the biblical watercolors executed for
+              Butts. These works were signed usually in the bottom right corner, with a biblical
+              reference in ink just under the signature and image (Butlin 499, 500), and possibly a
+              title centered below the image. However, there are very few works in this original
+              condition, because most were trimmed to the image when inserted into mounts. These
+              were pasted down in windows cut in thick matboard. The information trimmed away was
+              replaced in pencil on the mount in copperplate hand. The titles on these mounts may be
+              repeating what was cut away or, more likely, were created by Butts, who derived them
+              from the biblical reference. For further description of this style of re-presenting
+              Blake’s works, see my “Blake and the Marketplace 1852.”</note></p>
+          <p>Severing the Ackland <hi rend="i">Breach</hi> from its c. 1795-1800 date forces us to
+            reconsider the opinions of those who believe that the exhibited version is not lost.
+            Their position is supported rather than refuted by the Ackland’s signature, which is
+            textually closer to the signatures of the 1780s than to those in the 1790s. The visual
+            similarity between it and the c. 1795 monogram is based on the looping stem of the “d,”
+            an ornamental flourish characteristic of Blake’s hand in the 1780s. The differences
+            between the signature and monogram are more substantial and troubling. If the Ackland
+            version of <hi rend="i">A Breach</hi> was executed in 1795 or later, then it is not only
+            a return to an earlier style of drawing and coloring, but it is also the only known pen
+            and wash or watercolor c. 1795-1800 inscribed on the design’s surface, and, with the
+            partial exception of <hi rend="i">Pestilence</hi>, probably the only one signed with
+            “inv” beside the surname and <hi rend="i">W</hi> and <hi rend="i">B</hi> unconnected.
+            Rather than suppose that Blake returned haphazardly to a signing style abandoned years
+            earlier, it seems more reasonable 
+            <pb id="p28-56" n="56"/>
+            <figure n="BUT184.1.1.WC" rend="file" width="958" height="706">
+              <figTranscr>Lord have<lb/>
+              mer[cy] on us</figTranscr>
+              <head>10. <hi rend="i">Pestilence, Probably the Great Plague of London</hi>, c.
+                1779-80.</head>
+              <figDesc>Pen and watercolor (13.8 × 18.6 cm.). Robert Tear Collection.</figDesc>
+            </figure> 
+            to assume that he signed the Ackland version at the time of production, c.
+            1784. It is also reasonable to assume that the work exhibited was inscribed, for the
+            title in the exhibition catalogue quotes nearly verbatim that inscription rather than
+            referring to the work by subject—say <hi rend="i">War</hi>, or simply <hi rend="i">A
+              Breach in a City Wall.</hi> Why “the morning after the battle”? Nothing in the Ackland
+            version suggests morning or, for that matter, twilight; there is no rose or yellow in
+            the sky. In other words, the drawing is not titled generically or by subject, as were
+            the Joseph watercolors exhibited in 1785 (e.g., “Joseph making himself known to his
+            brethren,” cat. no. 449; see Bentley, <hi rend="i">Blake Records</hi> 30). If the
+            exhibited version was inscribed but is now lost, then why would the Carnegie, the
+            subsequent version, have compositional errors but no inscription, while the Ackland, the
+            next version, corrects these errors but has the inscription? It makes little sense to
+            assume that the Carnegie version was modeled on an earlier version but included drawing
+            errors and excluded its title, or that the Ackland version was executed 10 or more years
+            later only to return to the original model’s title, despite the title’s absence in the
+            supposed intermediate (Carnegie) version.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">The <hi rend="i">Pestilence</hi> Sketch</hi>
+            </title>
+          </head>
+          <p>The corrections made in the composition of the Ackland <hi rend="i">Breach</hi>
+            indicates that it follows the Carnegie version. Inferred from the fact that heads were
+            changed from “strict, classical profile” (Butlin 191) to three-quarter view is the
+            hypothesis that there is a “progression” from one to the other (Essick, 
+              <hi rend="i">Works</hi> 118). Using this hypothesis, Essick places the recently discovered
+sketch
+            of <hi rend="i">Pestilence</hi> (illus. 12) after instead of before the Bateson version,
+            interpreting it as an intermediate study between the Bateson and Bristol versions
+            (illus. 13, 14) instead of as a preliminary study for the composition itself. According
+            to Essick, “the unfinished character of the Huntington sketch, and the hesitant and
+            studied nature of its lines, suggest that it is Blake’s first experiment at changing
+            some figures to three-quarter view to develop the expressive potential of their faces”
+              (<hi rend="i">Works</hi> 118).</p>
+          <p>This hypothesis lies at the heart of Shelley Bennett’s analysis of the sketch. At
+            first, Bennett suspected that the sketch might have been a preliminary study for 
+              <hi rend="i">Pestilence</hi>, between it and the earliest versions of the subject (illus.
+            10, 11), which appear to have evolved from Blake’s English history series (Butlin 184,
+              185).<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> In attempting to
+place the sketch, she
+            notes the shape of the doorway behind the pallbearer—curved in the sketch, square in the
+            three finished designs—and suggests that the sketch may have preceded the designs, as
+            its medium suggests. She reasons that “the pencil drawing may represent an earlier idea
+            that was modified in the three later variations. The fact that this work is executed in
+            pencil, a medium which Blake, [like] his contemporaries, used for preliminary studies,
+            also reinforces this arrangement in sequence. It seems likely that Blake would begin his
+            complete reworking of the earlier composition with a pencil study before proceeding to
+            watercolor” (134). This is exactly right, but instead of trusting the purpose of
+            sketching and the material facts of production, Bennett proceeds 
+            <pb id="p28-57" n="57"/>
+            <figure n="BUT185.1.1.WC" rend="file" width="958" height="639">
+              <figTranscr/>
+              <head>11. <hi rend="i">Pestilence</hi>, c. 1780-84.</head>
+              <figDesc>Pen and watercolor (18.5 × 27.5 cm.). Robert N. Essick Collection, Altadena,
+                California.</figDesc>
+            </figure> 
+            to argue that “the three-quarter turn of the female’s head in the Huntington
+            drawing and Bristol and Boston watercolors links these works and suggests that they, in
+            turn, follow the Bateson watercolor” (135). And, of course, the supposed c. 1790-95 date
+            for the Bateson <hi rend="i">Pestilence</hi> (Butlin 190) implies that the sketch is
+            mid-1790s. <note id="n27"><hi rend="s">27</hi> These works are now referred to as 
+                <hi rend="i">Pestilence, Probably the Great Plague of London</hi> and 
+                <hi rend="i">Pestilence</hi> (Butlin 184, 185). Both were referred to as <hi rend="i">The
+                Plague</hi> in various nineteenth-century auction catalogues.</note></p>
+          <p>Precedent exists for placing a sketch between two finished versions of the same
+            subject. The six designs of the second series of <hi rend="i">On The Morning of Christ’s
+              Nativity</hi>, c. 1815, were radically reworked after the first series of 1809.
+            Preliminary sketches for <hi rend="i">Descent of Peace</hi> and <hi rend="i">The Flight
+              of Moloch</hi> are extant (Butlin 539, 541). But the material and aesthetic
+            circumstances are completely different from those surrounding the first and second
+            (Bateson and Bristol) versions of <hi rend="i">Pestilence.</hi> The second series of 
+              <hi rend="i">Nativity</hi> is considerably smaller, which means that the original series
+            was not traced or calked. Technically, Blake could have squared up tracings to reduce
+            the original images, but apparently he used the new series as an opportunity to
+            reconceive the designs, a process which in turn required visual rethinking or sketching.
+            These new <hi rend="i">Nativity</hi> sketches are to their first versions of the subject
+            what the <hi rend="i">Pestilence</hi> sketch is to the <hi rend="i">earliest</hi>
+            versions of <hi rend="i">Plague/Pestilence</hi> (illus. 10, 11)—i.e., “a complete
+            reworking of the earlier composition” (Bennett 134). However, if the 
+              <hi rend="i">Pestilence</hi> sketch follows the Bateson version, then the situation is not
+            analogous, for the sketch differs as slightly from the Bateson as from the Bristol
+            version, from the design it supposedly reworks as from the design it supposedly
+            prepares.</p>
+          <p>Placing such a sketch between two finished designs that vary so insignificantly ignores
+            the primary purpose of sketching: to develop ideas and block out compositions. It
+            supposes that Blake needed to sketch in order to solve such minor technical problems as
+            repositioning a figure or a head. That supposition ignores Blake’s virtuosity as well as
+            his watercolor technique, which encouraged continuous invention. Indeed, Blake’s
+            watercolor technique—drawing lightly in pencil and finding (“invenire”) the subject in
+            the resulting marks, erasing excess pencil lines and firmly determining the subject
+            decided upon through washes, colors, and pen outlining—discouraged producing preliminary
+            sketches in any great detail or to size. In other words, his technique encouraged
+            sketches to be “unfinished” (Essick, <hi rend="i">Works</hi> 118).<supplied type="spacer"> </supplied><ref target="n28"
+              type="note">28</ref> Assuming that Blake needed to sketch in this instance, after
+            completing the Bateson version and in preparation for the Bristol version, also ignores
+            what profiles and three-quarter views are to artists: mere technical tricks performed as
+            easily as any other from well-rehearsed visual repertories. The position of a head does
+            not signify evolved technical mastery, but rather an aesthetic choice made during the
+            composing or recomposing process, a choice predicated upon the schemata that enables
+            artists to draw in the first place, to delineate faces, hands, bodies, and the like in
+            diverse forms with facility, almost automatically. Examples of the non-progressive
+            implication of turning heads are the 
+<pb id="p28-58" n="58"/>
+<figure n="thePlaguePestilencePencil.28.2.bqscan" rend="file" width="500" height="394">
+              <head>12. <hi rend="i">The Plague/Pestilence</hi>, c. 1784.</head>
+              <figDesc>Pencil (24.2 × 29.8 cm.). Henry E. Huntington Library and Art Gallery, San
+                Marino, California.</figDesc>
+            </figure> faces of Michael, Satan, and the other angels in the three sketches for 
+              <hi rend="i">Warring Angels: Michael Contending with Satan</hi>, c. 1780; they are
+            variously formed in each subsequent version (Butlin 114, 115, 116). And, as noted, the
+            sketch and watercolor of <hi rend="i">Joseph Ordering Simon to Be Bound</hi> (Butlin
+            158, 156) exemplify the same facility. <note id="n28"><hi rend="s">28</hi> As Bennett
+              correctly points out, the sketch “bears all the earmarks of Blake’s distinctive
+              calligraphic style. In particular, it displays the rather crude, often hesitant line
+              which is associated with his preparatory pencil studies, . . . from such gauche
+              beginnings Blake would develop the flowing, expressive contour lines characteristic of
+              his finished designs” (132). This refinement and development, it must be understood,
+              usually occurred in the watercolors themselves, due to Blake’s two-stage process of
+              sketching out designs, erasing unneeded lines, and adding washes and pen and ink
+              outlining.</note></p>
+          <p>The sketch appears to be derived from rather than leading to the Bateson version
+            because it shares features with both the Bateson and Bristol versions. But placing the
+            sketch between two finished designs is troubling, not only because the latter design was
+            developed from a tracing of the former, but also because it asks us to believe the
+            following: the mourning man’s profile is copied exactly in the sketch (illus. 12) as it
+            is delineated in the Bateson version (illus. 13), only to be independently changed to
+            three-quarter view in the Bristol version (illus. 14); the rear pallbearer and the
+            mourning woman were moved to the left, relative to the Bateson version, a new position
+            only to be ignored in the Bristol version, which repeats that of the Bateson; and the
+            gravedigger was also repositioned, moved closer to the front pallbearer, a position
+            ignored in the Bristol, which repeats that of the Bateson. These changes and repetitions
+            are troubling because they indicate that Blake ignored most of his own recommendations
+            and was able to make changes in the new version as it was being worked up and without
+            recourse to a sketch. Why, then, would he execute a sketch?</p>
+          <p>The question is not whether Blake used sketches to rethink whole designs, but whether
+            he used them to try out minute changes in pre-existing designs. If he intended to change
+            a few faces—or to see if a turned face would work—he did not need to redraw the entire
+            design. Indeed, Blake’s mode of production, in both the first and second versions,
+            encouraged revision and eliminated the need to sketch revisions on a separate sheet of
+            paper. The first version differs from the sketch because it was redrawn freehand, a
+            process in which the original invention continues to evolve through execution. The
+            second version of <hi rend="i">Pestilence</hi> differs from the first, despite its
+            development from a tracing, because the changes, like turned heads, raised arms, added
+            or deleted figures, were made on the tracing itself, or on the new sheet of paper as the
+            calked outline was being worked up in pencil. By transferring just the outline and not
+            the details, artists (or engravers) leave room for revision; thus, they prevent
+            execution from being merely an act of reproduction.</p>
+          <p>Redrawing the composition freehand on a larger sheet of paper accounts for the
+            differences between the Bateson version and the sketch. The differences between the
+            Bristol and Bateson versions were created either on the tracing paper or on the new
+            support when the outline was calked. The Boston version (illus. 15), executed in 1805,
+            differs from the Bristol (illus. 14) but repeats features from both the sketch and the
+            Bateson (illus. 10, 11). Rossetti knew the sketch and the last version, but not the
+            first two versions, so he logically assumed that the sketch was “an expressive and
+            reasonably careful sketch for the grand water-colour” (241, #18). Hence, Rossetti
+            misdated the sketch 1805, but he may have been correct about the relation. The
+            provenance of the Bristol version is now believed to be that of the sketch, which means
+            that the sketch was probably acquired by Harvey from the 29 April 1862 auction at
+            Sotheby’s. The 
+<pb id="p28-59" n="59"/>
+<figure n="Pestilence1784.Ackland.28.2.bqscan" rend="file" width="500" height="334">
+              <head>13. <hi rend="i">Pestilence</hi>, c. 1784.</head>
+              <figDesc>Pen and watercolor (31.6 × 48.1 cm.). Ackland Art Museum, University of North
+                Carolina at Chapel Hill; loan of Lois Bateson.</figDesc>
+            </figure>
+<figure n="Pestilence1784Bristol.28.2.bqscan" rend="file" width="500" height="332">
+              <head>14. <hi rend="i">Pestilence</hi>, c. 1784.</head>
+              <figDesc>Pen and watercolor (32.2 × 48.4 cm.). City of Bristol Museum and Art
+                Gallery.</figDesc>
+            </figure>
+<pb id="p28-60" n="60"/>
+<figure n="BUT193.1.1.WC" rend="file" width="958" height="676">
+              <head>15. <hi rend="i">Pestilence</hi>, c. 1805.</head>
+              <figDesc>Pen and watercolor over pencil (31.2 × 43 cm.). Museum of Fine Arts,
+                Boston.</figDesc>
+            </figure> Bateson version of <hi rend="i">Pestilence</hi> sold in the same auction to
+            Toovey (Butlin 190), a dealer with whom Rossetti apparently had no contact. As I
+            mentioned, the sale may or may not have been Tatham’s, but the works sold were the kind
+            that would have remained in Blake’s studio and possibly have been sold by his widow
+            between 1827 and 1831 (see n3). The sketch and the Bateson version, then, were most
+            likely in the studio when Blake executed the 1805 version and probably remained till his
+            death.</p>
+          <p>The third version repeats features from the sketch and the Bateson version but hardly
+            any from the Bristol. The face of the rear pallbearer (illus. 15) is that of the Bateson
+            (illus. 13), but his position is that of the sketch (illus. 12); he, and the doorway
+            behind him, have been moved from behind the man’s shoulders to behind his head, which
+            eliminated the awkward foot beneath the woman; the mourning woman’s face is that of the
+            sketch, but her position is that of the Bateson version; the digger returns to the
+            position occupied in the sketch, close beside the pallbearer; the bodies being buried
+            are again closer to the digger’s feet than to his hands and the shovel’s handle; the
+            mourning man’s hand is again spiky, and the mourning woman is again in three-quarter
+            view, as in the sketch. The last version contains differences as well: the digger holds
+            the shovel with his left hand instead of his right, and the spade is in front of instead
+            of behind his feet; the infant’s right leg is lifted, and its right arm is extended
+            along its mother’s right leg.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref> Only the
+            three-quarter view of the mourning man is possibly drawn from the Bristol version, but
+            this change, like the others, could have been drawn without reference to the Bristol, if
+            the three-quarter view of the rear pallbearer in the sketch was once again transferred
+            to the mourning man. <note id="n29"><hi rend="s">29</hi> Bennett finds that “in the
+              Bristol and the Boston watercolors the baby’s left arm has been extended across the
+              mother’s legs in a crucifix-like position more clearly and expressively indicating the
+              child’s sad condition” (133). I see an extended right arm in the Boston version but no
+              left arm at all, while in the Bristol version I see a baby formed much as he was in
+              the sketch and first two versions, with perhaps the right arm or leg partially visible
+              over the mother’s left knee.</note></p>
+          <p>To believe that the Bristol version of <hi rend="i">Pestilence</hi> (illus. 14) was
+            executed after the Bateson (illus. 13) version is not difficult, but the reason is not
+            that its figures are drawn in three-quarter views. To assume so requires focusing
+            completely on parts instead of the composition as a whole. More significantly, such an
+            assumption ignores Blake’s mode of production and the techniques that enabled him both
+            to repeat himself and to vary his own designs while doing so.</p>
+          <p>Authenticating and dating art works, long at the heart of art historical analysis,
+            cannot be dismissed as merely the concerns of connoisseurs, beneath the notice of
+            scholars and critics, for they are essential in establishing the visual texts studied
+            and the chronologies that define periods. When a work is redated, our ideas of period
+            style, technique, and media—the features that assist in dating and identifying works—are
+            called into question. When one work is redated, nearly always others require redating as
+            well, and even the parameters or defining features of a period or style can be altered.
+            The earliest extant versions of <hi rend="i">A Breach</hi> and of 
+              <hi rend="i">Pestilence</hi> are a case in point. They were probably produced by 1784 and not in
+            the 1790s. The Carnegie and Bateson versions of these works were the first executed
+            within their groups, followed closely by the Ackland and Bristol versions. 
+              <pb id="p28-61" n="61"/>
+Both second versions are signed, and they have been dated
+            post-1795 because the form of one part of their signatures resembles the monogram Blake
+            began using that year. Butlin’s hypothesis that the <hi rend="i">form</hi> of Blake’s
+            signature is dateable is probably sound, but it is helpful only in dating works produced
+            in and after 1795, when Blake began to sign works consistently and uniformly, and not
+            before. Moreover, in the Ackland version, the monogram-like features were inadvertently
+            produced, while in the Bristol version they were probably made after production, though
+            how long afterwards is probably impossible to determine. Furthermore, the 
+              <hi rend="i">texts</hi> of these signatures differ significantly from those of the mid- and
+            latter-1790s but are similar to those of the 1780s. The new dates for the Carnegie and
+            Ackland versions of <hi rend="i">A Breach</hi> raise the possibility that the latter
+            version was the work exhibited in 1784. Its inscription and monochromatic wash style
+            support this supposition and date. If the Ackland version is the supposedly untraced 
+              <hi rend="i">A Breach in a City the Morning after the Battle</hi> (Butlin 188), then the
+            three extant versions of the composition were probably the only ones executed, in which
+            case no version of <hi rend="i">A Breach</hi> is lost, and our ideas about Blake’s
+            drawing style in the 1780s require rethinking.</p>
+          <p>The second versions of both <hi rend="i">A Breach</hi> and <hi rend="i">Pestilence</hi>
+            differ from the first by the presence of three-quarter views in place of profiles.
+            Mistakenly inferred from this stylistic feature is a hypothesis about development in
+            Blake’s style. This hypothesis, combined with a tendency to overlook the material facts
+            of production, Blake’s technique of watercolor drawing, and the purpose of sketching,
+            has led to misdating and misplacing a sketch in the evolution of 
+              <hi rend="i">Pestilence.</hi> The sketch is exactly what it looks like: a preliminary study for
+            the composition in general and for the Bateson version in particular, executed by c.
+            1784 and not the mid-1790s.</p>
+          <p>I am not questioning the assumption that Blake’s pictorial compositions move towards
+            greater technical and emotional complexity as they were reworked. Three-quarter views
+            may indeed be more prevalent in later works than in earlier, more neoclassical works,
+            but, in and of themselves, such views do not signify later production. I am questioning
+            the tendency to assign higher evidentiary status to particular facial gestures than to a
+            composition’s overall style, to selected visual details than to technique and
+            production.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">WORKS CITED</hi>
+              </title>
+            </head>
+            <p>Bennett, Shelly M. “A Newly Discovered Blake at the Huntington.” 
+                <hi rend="i">Blake/An Illustrated Quarterly</hi> 18 (1984-85): 132-39.</p>
+            <p>Bentley, G. E., Jr. <hi rend="i">Blake Books.</hi> Oxford: Clarendon Press, 1977.</p>
+            <p>—. <hi rend="i">Blake Records.</hi> Oxford: Clarendon Press, 1969.</p>
+            <p>Blunt, Anthony. <hi rend="i">The Art of William Blake.</hi> New York: Columbia
+              University Press, 1959.</p>
+            <p>Butlin, Martin. “Footnotes on the Huntington Blakes.” <hi rend="i">Blake/An
+                Illustrated Quarterly</hi> 22 (1988): 17-18.</p>
+            <p>—. <hi rend="i">The Paintings and Drawings of William Blake.</hi> 2 vols. New Haven:
+              Yale University Press, 1982.</p>
+            <p>—. “William Rossetti’s Annotations to Gilchrist’s <hi rend="i">Life of William
+                Blake.</hi>” <hi rend="i">Blake Newsletter</hi> 2 (1968-69): 39-40.</p>
+            <p>Cummings, Frederick, and Allen Staley. <hi rend="i">Romantic Art in Britain:
+                Paintings and Drawings, 1760-1860.</hi> Philadelphia: Philadelphia Museum of Art,
+              1968.</p>
+            <p>Essick, Robert N. “Blake’s 1812 Exhibition.” <hi rend="i">Blake/An Illustrated
+                Quarterly</hi> 27 (1993): 36-42.</p>
+            <p>—. <hi rend="i">William Blake and the Language of Adam.</hi> Oxford: Oxford
+              University Press, 1989.</p>
+            <p>—. <hi rend="i">The Works of William Blake in the Huntington Collections.</hi> San
+              Marino: The Huntington Library, 1985.</p>
+            <p>Gilchrist, Alexander. <hi rend="i">Life of William Blake.</hi> 2 vols. London:
+              Macmillan, 1863.</p>
+            <p>—. Life of William Blake. New and Enlarged Edition. 2 vols. London: Macmillan,
+              1880.</p>
+            <p>—. <hi rend="i">Life of William Blake.</hi> Ed. W. Graham Robertson. London:
+              Macmillan, 1907.</p>
+            <p>Pressly, Nancy L. <hi rend="i">The Fuseli Circle in Rome.</hi> New Haven: Yale Center
+              for British Art, 1979.</p>
+            <p>Robertson, Graham W. <hi rend="i">The Blake Collection of W. Graham Robertson.</hi>
+              Ed. Kerrison Preston. London: William Blake Trust, 1952.</p>
+            <p>Rosenblum, Robert. <hi rend="i">Transformations in Late Eighteenth-Century Art.</hi>
+              Princeton: Princeton University Press, 1967. 3rd printing, 1974.</p>
+            <p>Rossetti, William Michael. “Annotated Catalogue of Blake’s Pictures and Drawings.” In
+              Gilchrist 1863, 2: 199-268.</p>
+            <p>—. <hi rend="i">Rossetti Papers 1862 to 1870.</hi> London: Sands, 1903.</p>
+            <p>Viscomi, Joseph. <hi rend="i">Blake and the Idea of the Book.</hi> Princeton:
+              Princeton University Press, 1993.</p>
+            <p>—. “Blake and the Marketplace 1852: Thomas Butts, Jr. and Other Unknown
+              Nineteenth-Century Blake Collectors.” <hi rend="i">Blake/An Illustrated Quarterly</hi>
+              (forthcoming).</p>
+            <p>Wittreich, Joseph Anthony. “Further Observations on William Rossetti’s Annotations to
+              Gilchrist’s <hi rend="i">Life of Blake.</hi>” <hi rend="i">Blake Newsletter</hi> 3
+              (1969): 48-51.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

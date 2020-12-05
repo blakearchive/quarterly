@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.deck</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">An American Original: Mrs. Colman’s Illustrated Printings of Blake’s
+Poems, 1843-44</title>
+                <author n="Deck">Raymond H. Deck, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <pb id="p11-4" n="4"/>
+            <div1 id="BQ-11-1-0003">
+                <head>
+                    <title type="main">
+                        <hi rend="b">An American Original: Mrs. Colman’s Illustrated
+                            Printings of Blake’s Poems, 1843-44</hi>
+                    </title>
+                </head>
+                <byline><hi rend="b">By</hi> <docAuthor><hi rend="b">Raymond H. </hi><name><hi
+rend="b">Deck</hi></name>, <hi rend="b">Jr.</hi></docAuthor></byline>
+                <figure n="ColemanProspectus.11.1.bqscan" rend="file" width="500" height="632">
+                	<figTranscr>PROSPECTUS.<lb/>
+                	THE BOYS’ AND GIRLS’ MAGAZINE.<lb/>
+                	<lb/>
+                	UNDER the above title, we shall commence, this month, the publication of a new<lb/>
+                	MAGAZINE. Having been engaged a long time in preparing books for their young<lb/>
+                	friends, the publishers have frequently thought of, and intended to make, a Monthly<lb/>
+                	Visitor, for all the Girls and Boys of America; and now, finding their facilities sufficient,<lb/>
+                	and their hearts still warm on the subject, they propose to furnish, Monthly, a<lb/>
+                	BOYS’ AND GIRLS’ MAGAZINE.<lb/>
+                	<lb/>
+                	The Editor of the work will be MRS. S. COLMAN, heretofore favorably known as the<lb/>
+                	editor of the Mother’s Library, Aunt Mary’s Library, The Dahlia, Child’s Gem, &amp;c.<lb/>
+                	<lb/>
+                	The following persons are also engaged as regular contributors to every number, viz.:<lb/>
+                	Rev. JACOB ABBOTT, author of the Rollo, Lucy, and Jonas Books; T. S. ARTHUR,<lb/>
+                	author of Stories for Children, Six Nights with the Washingtonians, and as many other<lb/>
+                	popular tales; and also several ladies, well known and much approved writers for<lb/>
+                	young people.<lb/>
+                	<lb/>
+                	THE BOYS’ AND GIRLS’ MAGAZINE will be issued in beautiful style, embellished<lb/>
+                	with extra Engravings, executed in a superior manner, under the particular care and<lb/>
+                	supervision of S. Colman, and will contain such kind and variety of reading and<lb/>
+                	amusement as every parent, desirous of promoting the happiness of his children, may<lb/>
+                	approve. The yearly volume will contain Four Hundred and Thirty-Two pages,<lb/>
+                	including the extra engravings, and will be sold for One Dollar and Twenty-Five Cents<lb/>
+                	a year, in advance. Five copies for Five Dollars. Ten copies, to one address, for<lb/>
+                	Ten Dollars; or in Monthly Parks, for Twelve and a half Cents.<lb/>
+                	<lb/>
+                	EMBELLISHMENTS OF NUMBER III.<lb/>
+                	PRINTED ON EXTRA PAPER, IN BEAUTIFUL STYLE, BY MEAD &amp; BEAL.<lb/>
+                	<lb/>
+                	THREE very beautiful extra Engravings, by Messrs. J. G. CHANDLER &amp; Co.,<lb/>
+                	Artists, together with the Initial Letters, &amp;c., in the body of the work; and a colored<lb/>
+                	plate of a Moss ROSE, richly executed under the supervision of a lady of much<lb/>
+                	taste and experience.<lb/>
+                	<lb/>
+                	☞ Postmasters and Teachers are respectfully requested to take an interest in<lb/>
+                	this work. A number, for examination, will be sent free to those who may desire it.<lb/>
+                	<lb/>
+                	Subscriptions received by the publishers, T. H. CARTER &amp; CO., 118½ Washington<lb/>
+                	Street, Boston, by the following and by the publishers named on the title-page.<lb/>
+                	<lb/>
+                	☞ Newspapers, in any part of the country, inserting the above, and occasionally<lb/>
+                	noticing the work editorially, will be entitled to the yearly volume.<lb/>
+                	<lb/>
+                	AGENTS.<lb/>
+                	<lb/>
+                	GEORGE COLMAN, Portland.<lb/>
+                	W. &amp; S. B. IVES, Salem.<lb/>
+                	W. TAYLOR, Baltimore.<lb/>
+                	R. FARNHAM,<lb/>
+                	ZIEBER &amp; Co.,<lb/>
+                	} Washington, D.C.<lb/>
+                	<lb/>
+                	R. Y. BERFORD, Pittsburg, Pa.<lb/>
+                	A. M. WILDER, Brooklyn, N. Y.<lb/>
+                	W. C. LITTLE, Albany, N. Y.<lb/>
+                	C. MORSE, Rochester, N. Y.<lb/>
+                	J. H. TEBBETTS, Montreal, Can.</figTranscr>
+                    <head>Illus. 1</head>
+                </figure>
+                <p>Between 1843 and 1845, Pamela Chandler Colman, an American Swedenborgian active
+                    in the production of children’s books, was responsible for printing
+                    in four separate publications nine different poems from Blake’s <hi rend="i">Songs of
+Innocence.</hi>
+                    <ref target="n1" type="note">1</ref> Taken
+                    together, these printings constitute a remarkable “edition” of
+                    Blake’s poems, both for their text and for their accompanying
+                    illustrations. As we will see, Mrs. Colman did not simply reprint a selection
+                    from Wilkinson’s 1839 edition of the <hi rend="i">Songs</hi> or from
+                    Cunningham’s <hi rend="i">Lives</hi> as we might expect at this time
+                    in America; she apparently used an original copy of <hi rend="i">Innocence</hi>
+                    and chose texts which she thought most appropriate for her young readers; she
+                    even took the liberty of attributing to Blake a rather saccharine piece entitled
+                    “Evening Hymn.” Perhaps more remarkable, most of these poems,
+                    taken from Blake’s illuminated pages, are accompanied by
+                    illustrations, at least one or two of which seem to have been inspired by
+                    Blake’s etched design and which constitute a graphic interpretation
+                    of Blake’s <hi rend="i">Innocence.</hi> After presenting the
+                    illustrated text of Mrs. Colman’s “edition” of
+                    Blake’s poems, I will consider the question of her source text and
+                    finally suggest two contexts in which to view her work: the genre of American
+                    children’s books in the 1840s and the continuing interest in Blake
+                    manifested by American Swedenborgians. <note id="n1">
+                        <hi rend="s">1</hi> My
+                        discoveries of six of Mrs. Colman’s insertions and of several
+                        other early printings of Blake’s poems have been noted in my
+                        “Unnoticed Printings of Blake’s Poems,
+                        1825-51,” <hi rend="i">Blake Newsletter</hi> 40 (Spring 1977); with
+                        the exception of her insertions of “A Dream,”
+                        “The Little Boy lost,” and “The Little Boy
+                        Found,” Mrs. Colman’s printings of Blake’s
+                        poems have not been noticed previously in Blake scholarship. For other early
+                        printings and mentions of Blake helpfully arranged in chronological order,
+                        see G. E. Bentley, Jr., <hi rend="i">William Blake: The Critical
+                            Heritage</hi> (London: Routledge and Kegan Paul, 1975), pp.
+                        220-69.</note>
+                </p>
+                <p>Mrs. Colman’s editorial career began in the 1830s, when her husband,
+                    Samuel, established himself as a successful bookseller and publisher in New York
+                    City. In addition to his adult publications and his sale of works by other
+                    publishers, Samuel Colman began by 1839 to produce children’s books
+                    edited, and sometimes written, by his wife. Their most extensive effort to
+                    achieve some prominence in the field of children’s literature did not
+                    begin until 1843, when the Colmans (who continued to reside and to publish other
+                    works in New York) began to publish a number of children’s books in
+                    Boston. Some of these productions, especially the original inventions of Mrs.
+                    Colman, were published by “S[amuel]. Colman” of Boston, but
+                    others, including all those with Blake poems, give on their title pages only
+                    “T. H. <pb id="p11-5" n="5"/>
+Carter &amp; Co.” of
+                    Boston, although they were the joint enterprise of Carter and Samuel Colman.<supplied
+type="spacer"> </supplied><ref target="n2" type="note">2</ref>
+                    <note id="n2">
+                        <hi rend="s">2</hi> Samuel and Pamela Colman are considered
+                        briefly in both the <hi rend="i">Dictionary of American Biography</hi> and
+                            <hi rend="i">Appleton’s Cyclopedia of American Biography</hi>
+                        as the parents of the American landscape painter Samuel Colman. My chief
+                        source of information about their publishing activities is the <hi rend="i">National
+Union Catalogue.</hi> Relevant to their New York activities
+                        during 1843 and 1844 are J. C. Palmer, <hi rend="i">Thulia: A Tale of the
+                            <corr type="emend">Antarctic</corr></hi> (New York: Samuel Colman, 1843), and a
+New York edition of
+                            <hi rend="i">The Little Keepsake for 1844</hi> (see my note 5, below).
+                        For Samuel Colman’s early publishing activities in New York see
+                        “S. Colman’s List of Publications,” appended to
+                        Anon., <hi rend="i">Sunday Morning Reflections</hi> (New York: S. Colman,
+                        1839), and his “List of Birthday and Holiday Presents Published by
+                        Samuel Colman” appended to Jane Marcet, <hi rend="i">Willy’s Stories for Young
+Children</hi> (New York: S.
+                        Colman, 1839), pp. 143-44. About the New York-Boston connection, one
+                        possibility is that the “G. Colman” of Boston listed as
+                        publisher of some of Mrs. Colman’s works was a relative who, in
+                        some sort of business relationship with Samuel Colman, represented the New
+                        York publisher’s interests in Boston.</note>
+                </p>
+                <p>Clearly the showpiece of the Colman’s juvenile
+                    productions—and the one upon which must have depended their greatest
+                    hopes for success—was the first of their Boston publications, the <hi rend="i">Boys’
+and Girls’ Magazine</hi>
+                    <ref target="n3" type="note">3</ref> (illus. 1). The magazine featured
+                    contributions by the genre’s leading authors, and the publishers went
+                    to the special expense of having many illustrations especially designed and
+                    engraved to accompany particular texts. Unfortunately, the <hi rend="i">Boys’ and
+Girls’ Magazine</hi> seems to have proved a
+                    less successful venture than had been hoped, for no numbers were published after
+                    the twelve for 1843. As an indication of the public’s disappointing
+                    response during that year, we find, in the prefatory notice integral to the
+                    third bound volume, the announcement that the next year’s edition,
+                    which in fact never appeared, would be reduced in price to $1.00,
+                    “trusting thereby to meet the wishes of a much larger number throughout
+                    the whole country.” <note id="n3">
+                        <hi rend="s">3</hi> In addition to
+                        the monthly and annual states described in the
+                        “Prospectus” (illus. 1), the <hi rend="i">Boys’
+                            and Girls’ Magazine</hi> was issued in tri-annual volumes,
+                        which I have seen at the Wellesley College Library and at the New Church
+                        Theological School, Newton, Massachusetts. The magazine is concurrently
+                        paginated for the tri-annual and annual volumes, e.g., Blake’s
+                        “The Blossom” appears on page 142 of Volume II of the
+                        tri-annual volumes, which is also page 286 of the annual volume; my volume
+                        and page references are to the tri-annual volumes.</note>
+                </p>
+                <p>
+                    <hi rend="i">July 1843</hi> Mrs. Colman seems first to have encountered
+                    Blake’s poems in the middle of 1843—probably, as argued in
+                    a later section of this essay, in an original but uncolored copy of 
+<hi rend="i">Innocence</hi> alone. She displays Blake’s
+                    “Introduction” to <hi rend="i">Innocence</hi> very prominently
+                    as the leading piece of the July number (II, No. 3, 73-74), and she appends to
+                    the poem a short biography of the author in which she promises future selections
+                    from Blake’s “charming, illuminated volume” (illus.
+                    2).</p>
+                <p>For all Mrs. Colman’s Blake texts we can make here the general
+                    observation that they vary from Blake’s original in accidentals of
+                    capitalization and punctuation and in the normalizing of many of
+                    Blake’s contracted forms, for example
+                    “vanish’d” and
+                    “pluck’d” in his “Introduction”
+                    and “wandring” and “thro’” in
+                    “The Little Boy Found.” In Blake’s
+                    “Introduction,” our Victorian editor also has altered the
+                    “chear” of Blake’s lines 6 and 10 to
+                    “cheer” and has added Roman numerals as stanza numbers.</p>
+                <p>That the Victorian illustration accompanying this printing resembles
+                    Blake’s design of his frontispiece to <hi rend="i">Innocence</hi> may
+                    result from Mrs. Colman’s access to an original copy of
+                    Blake’s work and her deliberate copying of his design (illus. 3). In
+                    considering that we may have in 1843 a graphic reinterpretation of
+                    Blake’s design, it is important to establish that the editor or
+                    publisher has not simply chosen an extant engraving which seemed generally
+                    appropriate to the subject matter, as would be the usual procedure in
+                    children’s books of the period. In fact, the engraving accompanying
+                    Blake’s “Introduction” to <hi rend="i">Innocence</hi> was used at least once in later
+years, as the cover of Miss
+                    [Mary Russell] Mitford’s <hi rend="i">The Rustic Wreath</hi> (Boston,
+                    1849), published by W. J. Reynolds, who also republished several of Mrs.
+                    Colman’s original works (illus. 4). But an examination of many of the
+                    works Mrs. Colman edited or wrote and of publications by likely firms,
+                    especially T. H. Carter &amp; Co., has not revealed an earlier use of the
+                        engraving.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref>
+Neither have I found any
+                    other engraving related closely enough in design so as to suggest that someone
+                    in the Carter-Colman business circle was likely to have conceived of this 
+                    <figure n="ColemanIntro.11.1.bqscan" rend="file" width="500" height="858">
+                    	<figTranscr>BOYS’ &amp; GIRLS’ MAG.<lb/>
+                    	<lb/>
+                    	INTRODUCTION<lb/>
+                    	TO<lb/>
+                    	SONGS OF INNOCENCE.<lb/>
+                    	<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	I.<lb/>
+                    	PIPING down the valleys wild,<lb/>
+                    	Piping songs of pleasant glee,<lb/>
+                    	On a cloud I saw a child,<lb/>
+                    	And he, laughing, said to me:<lb/>
+                    	<lb/>
+                    	II.<lb/>
+                    	“Pipe a song about a lamb;”<lb/>
+                    	So I piped with merry cheer.<lb/>
+                    	“Piper, pipe that song again;”<lb/>
+                    	So I piped,—he wept to hear.<lb/>
+                    	<lb/>
+                    	VOL. II.   JULY, 1843.   G<lb/>
+                    	<lb/>
+                    	73<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	218<lb/>
+                    	CHARLES AND WILLIAM.<lb/>
+                    	<lb/>
+                    	III.<lb/>
+                    	“Drop thy pipe,—thy happy pipe,<lb/>
+                    	Sing thy songs of happy cheer;”<lb/>
+                    	So I sung the same again,<lb/>
+                    	While he wept with joy to hear.<lb/>
+                    	<lb/>
+                    	IV.<lb/>
+                    	“Piper, sit thee down and write<lb/>
+                    	In a book, that all may read;”<lb/>
+                    	So he vanished from my sight,<lb/>
+                    	And I plucked a hollow reed,—<lb/>
+                    	<lb/>
+                    	V.<lb/>
+                    	And I made a rural pen,<lb/>
+                    	And I stain’d the water clear,<lb/>
+                    	And I wrote my happy songs,<lb/>
+                    	Every child may joy to hear.<lb/>
+                    	<lb/>
+                    	NOTE.—William Blake was a poet of the <lb/>
+                    	last century, contemporary with Flaxman.<lb/>
+                    	This article is taken from a charming, illuminated<lb/>
+                    	volume, printed in 1789, from which<lb/>
+                    	some of the most beautiful songs will be<lb/>
+                    	given in future numbers of the Magazine.</figTranscr>
+                        <head>Illus. 2</head>
+                    </figure>
+                    <figure n="s-inn.u.p2" id="s-inn.u.illbk.02" work-copy="s-inn.u" rend="db" width="651" height="1000">
+	<figTranscr/>
+                        <head>Illus. 3 from <hi rend="i">Innocence</hi> (U)</head>
+                    </figure>
+                    <pb id="p11-6" n="6"/>
+                    <figure n="MitfordRusticWreath.11.1.bqscan" rend="file" width="500" height="733">
+                    	<figTranscr>FOR<lb/>
+                    	BOYS’ &amp; GIRLS’<lb/>
+                    	<lb/>
+                    	THE<lb/>
+                    	RUSTIC WREATH.<lb/>
+                    	<lb/>
+                    	BY MISS MITFORD.<lb/>
+                    	<lb/>
+                    	WITH OTHER<lb/>
+                    	AMUSTING AND INSTRUCTIVE<lb/>
+                    	STORIES.<lb/>
+                    	<lb/>
+                    	BOSTON:<lb/>
+                    	W. J. REYNOLDS AND COMPANY.<lb/>
+                    	1849.</figTranscr>
+                        <head>Illus. 4</head>
+                    </figure>
+                    <figure n="Blossom.11.1.bqscan" rend="file" width="500" height="230">
+                    	<figTranscr>THE BLOSSOM.<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	MERRY, merry sparrow,<lb/>
+                    	Under leaves so green,<lb/>
+                    	A happy blossom<lb/>
+                    	Sees you, swift as arrow,<lb/>
+                    	Seek your cradle narrow,<lb/>
+                    	In the greenwood tree.<lb/>
+                    	<lb/>
+                    	Pretty, pretty robin,<lb/>
+                    	Under leaves so green,<lb/>
+                    	A happy blossom hears your<lb/>
+                    	Sobbing, sobbing—<lb/>
+                    	Pretty robin,<lb/>
+                    	In the greenwood tree.</figTranscr>
+                        <head>Illus. 5</head>
+                    </figure> design without reference to Blake’s original. To be sure,
+                    some of the engravings in the <hi rend="i">Boys’ and
+                        Girls’ Magazine</hi> antedated that publication by several years,
+                    perhaps the oldest being the ornamental design bordering the dedication page,
+                    which had been used as early as 1838 in <hi rend="i">The Metamorphoscope</hi>
+                    (Boston: T. H. Carter). Nevertheless, my survey of the productions of Mrs.
+                    Colman and her publishers makes clear that a great majority of the engravings in
+                    the <hi rend="i">Boys’ and Girls’ Magazine</hi> were not
+                    used earlier, although they were then frequently reused in later publications.
+                    The unusually close correlation between texts and accompanying designs supports
+                    the conclusion that new engravings usually were prepared to accompany specific
+                    texts in the <hi rend="i">Boys’ and Girls’ Magazine.</hi>
+                    <note id="n4">
+                        <hi rend="s">4</hi> I have seen many publications by T. H. Carter
+                        and related firms in a unique collection at the John Greene Chandler
+                        Memorial at South Lancaster, Mass. Other collections which I have examined
+                        include those at the Boston Atheneum, the American Antiquarian Society, the
+                        Boston Public Library, Wellesley, and Harvard.</note>
+                </p>
+                <p>
+                    <hi rend="i">August 1843</hi> “The Blossom” from <hi rend="i">Innocence</hi> appeared at
+the end of the next number of the <hi rend="i">Boys’ and Girls’ Magazine</hi> (II, No. 4, 142)
+                    (illus. 5). Mrs. Colman has made a drastic emendation of Blake’s
+                    lines 6 and 12, which should read “Near my Bosom.” Also, the
+                    words “hears you” belong to line 10. That this poem is the
+                    last feature in Volume II of the magazine suggests that Mrs. Colman was
+                    deliberately beginning one number and ending the next number, and the second
+                    tri-annual volume, with Blake’s poems.</p>
+                <p>
+                    <hi rend="i">September 1843</hi> A version of “Nurse’s
+                    Song” from <hi rend="i">Innocence</hi> appeared in the subsequent issue
+                    of the <hi rend="i">Boys’ and Girls’ Magazine</hi> (III,
+                    No. 1, 9) (illus. 6). In none of Blake’s texts is Mrs.
+                    Colman’s brazen ear, which so handicaps her as an editor of poetry,
+                    more obvious than in her multitude of substantive emendations to this poem, most
+                    of which seem to have no special purpose and which serve to destroy
+                    Blake’s meter and even his rhyme scheme. We begin with the addition
+                    of the indefinite article to the poem’s title, and proceed to the
+                    syntactical inversion of the first sentence, which should begin, “When
+                    the voices of children are heard” and which should not include
+                    “When” at line 3. In the next stanza (Mrs. Colman might be
+                    excused for ignoring the stanza divisions which are somewhat unclear on
+                    Blake’s illuminated page), we should have “Then” in
+                    place of “Now” and “gone down” rather than
+                    simply “down” in line 5. In the next line, Blake tells us that
+                    the dews “arise,” but Mrs. Colman, not content merely to have
+                    them “fall,” tells us that they “fall fast.”
+                    To complete the mutilation of this stanza, Mrs. Colman has omitted the
+                    repetition of “come” at the beginning of line 7 and has the
+                    morning appear in the “east” rather than in the
+                    “skies,” which fortunately does nothing further to disturb the
+                    rhyme scheme because she has already emended the preceding rhyme word from
+                    “arise” to “fast.” This trend of unfortunate
+                    emendation, which could only improve, does improve. In the last half of the
+                    poem, our editor is content to destroy the final rhymes by changing
+                    “bed” to “rest” at the end of line 12 and
+                    then by adding “for joy” after a regularized spelling of
+                    Blake’s “ecchoed.”</p>
+                <p>Although Mrs. Colman has not been very careful in attending to the texts of
+                    Blake’s “Nurse’s Song,” she has produced
+                    an accompanying engraving similar to Blake’s designs for that poem
+                    and for the title page of <hi rend="i">Innocence</hi> (illus. 7, 8). I have
+                    found neither an earlier nor a later use of the Victorian engraving. In the May
+                    issue of the <hi rend="i">Boys’ and Girls’</hi>
+                    <pb id="p11-7" n="7"/>
+                    <figure n="NursesSong.11.1.bqscan" rend="file" width="500" height="418">
+                    	<figTranscr>A NURSE’S SONG.<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	THE voice of children is heard on the green,<lb/>
+                    	And laughing is heard on the hill;<lb/>
+                    	When my heart is at rest within my breast,<lb/>
+                    	And everything else is still.<lb/>
+                    	“Now come home, my children, the sun is down,<lb/>
+                    	And the dews of night fall fast;<lb/>
+                    	Come, leave off play, and let us away,<lb/>
+                    	Till the morning appears in the east.”<lb/>
+                    	No, no, let us play, for it is yet day—<lb/>
+                    	<lb/>
+                    	And we cannot go to sleep;<lb/>
+                    	Besides, in the sky the little birds fly,<lb/>
+                    	And the hills are all covered with sheep.<lb/>
+                    	“Well, well, go and play till the light fades away,<lb/>
+                    	And then go home to rest.”<lb/>
+                    	The little ones leaped, and shouted, and laughed,<lb/>
+                    	And all the hills echoed for joy.</figTranscr>
+                        <head>Illus. 6</head>
+                    </figure>
+                    <figure n="s-inn.u.p9-24" id="s-inn.u.illbk.09" work-copy="s-inn.u" rend="db" width="689" height="1000">
+                    	<figTranscr>Nurse’s Song<lb/>
+                    	<lb/>
+                    	When the voices of children are heard on the green<lb/>
+                    	And laughing is heard on the hill,<lb/>
+                    	My heart is at rest within my breast<lb/>
+                    	And every thing else is still<lb/>
+                    	<lb/>
+                    	Then come home my children, the sun is gone down<lb/>
+                    	And the dews of night arise<lb/>
+                    	Come come leave off play, and let us away<lb/>
+                    	Till the morning appears in the skies<lb/>
+                    	<lb/>
+                    	No no let us play, for it is yet day<lb/>
+                    	And we cannot go to sleep<lb/>
+                    	Besides in the sky, the little birds fly<lb/>
+                    	And the hills are all coverd with sheep<lb/>
+                    	<lb/>
+                    	Well well go &amp; play till the light fades away<lb/>
+                    	And then go home to bed<lb/>
+                    	The little ones leaped &amp; shouted &amp; laugh’d<lb/>
+                    	And all the hills ecchoed</figTranscr>
+                        <head>Illus. 7, from <hi rend="i">Innocence</hi> (U)</head>
+                    </figure>
+                    <figure n="s-inn.u.p1-3" id="s-inn.u.illbk.01" work-copy="s-inn.u" rend="db" width="633" height="1000">
+                    	<figTranscr>SONGS<lb/>
+                    	of<lb/>
+                    	Innocence<lb/>
+                    	<lb/>
+                    	1789<lb/>
+                    	<lb/>
+                    	The Author &amp; Printer. WBlake</figTranscr>
+                        <head>Illus. 8, from <hi rend="i">Innocence</hi> (U)</head>
+                    </figure>
+                    <pb id="p11-8" n="8"/>
+                    <figure n="TwoNurses.11.1.bqscan" rend="file" width="500" height="562">
+                        <head>Illus. 9</head>
+                    </figure>
+                    <figure n="LaughingSkipping.11.1.bqscan" rend="file" width="500" height="416">
+                    	<figTranscr>LAUGHING SONG.<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	WHEN the green woods laugh with the voice of joy,<lb/>
+                    	And the dimpling stream runs laughing by,<lb/>
+                    	When the air does laugh with our merry wit,<lb/>
+                    	And the green hills laugh with the noise of it;<lb/>
+                    	<lb/>
+                    	When the meadows laugh with lively green,<lb/>
+                    	And the grasshopper laughs in the merry scene,<lb/>
+                    	When Mary and Susan and Emily,<lb/>
+                    	With their sweet round mouths sing, Ha, ha, ha;<lb/>
+                    	<lb/>
+                    	When the painted birds laugh in the shade,<lb/>
+                    	Where our table with cherries and nuts is spread;<lb/>
+                    	Come live and be merry and join with me,<lb/>
+                    	To sing the sweet chorus of Ha, ha, ha.<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	THE SKIPPING-ROPE.<lb/>
+                    	BY ALFRED TENNYSON.<lb/>
+                    	<lb/>
+                    	SURE never yet was antelope<lb/>
+                    	Could skip so lightly by.<lb/>
+                    	<lb/>
+                    	Stand off, or else my skipping-rope<lb/>
+                    	With hit you in the eye.<lb/>
+                    	<lb/>
+                    	How lightly whirls the skipping-rope!<lb/>
+                    	How fairy-like you fly!<lb/>
+                    	<lb/>
+                    	Go, get you gone, you muse and mope,<lb/>
+                    	I hate that silly sigh.<lb/>
+                    	<lb/>
+                    	Nay, dearest, teach me how to hope,<lb/>
+                    	Or tell me how to die.<lb/>
+                    	<lb/>
+                    	There, take it, take my skipping-rope,<lb/>
+                    	And hang yourself thereby.</figTranscr>
+                        <head>Illus. 10</head>
+                    </figure>
+                    <hi rend="i">Magazine</hi>, however, there is an illustration which includes the
+                    nurse and which is probably by the same designer (illus. 9). This illustration
+                    also may have been produced with reference to Blake’s designs. Even
+                    if it was not, the designer may have combined his preconceived iconography of
+                    the nurse with some inspiration from Blake to produce the Victorian design
+                    accompanying “Nurse’s Song.” Here the repeated use
+                    of the rather Georgian chair with its high, rounded back both on
+                    Blake’s title page and in the Victorian design for
+                    “Nurse’s Song” is particularly important, for we
+                    should expect our later designer, if indeed he had no knowledge of
+                    Blake’s design, to situate his nurse on a Victorian chair as had been
+                    done in the designs prepared a few months earlier.</p>
+                <p>
+                    <hi rend="i">October 1843</hi> Blake’s “Laughing
+                    Song” from <hi rend="i">Innocence</hi>, with an interesting choice for
+                    a companion piece, was the fourth of his poems to appear in successive monthly
+                    numbers of the <hi rend="i">Boys’ and Girls’ Magazine</hi>
+                    (III, No. 2, 66) (illus. 10). Besides emending “hill laughs”
+                    to “hills laugh” at line 4, Mrs. Colman has given, instead of
+                    the “He” which is quite clear on Blake’s
+                    illuminated page, yet a third “ha” at the ends of he second
+                    and third stanzas.</p>
+                <p>
+                    <hi rend="i">1843</hi> It was probably during the latter part of this year that
+                    “Mrs. Colman” edited—and her husband and his
+                    co-publisher, T. H. Carter offered for sale—<hi rend="i">The Little
+                        Keepsake for 1844</hi>,<supplied type="spacer"> </supplied><ref target="n5"
+type="note">5</ref> which, we learn
+                    from their advertisements, was intended primarily as a Christmas and New
+                    Year’s gift. Included in this small volume are Blake’s
+                    “A Dream” and “A Cradle Song” (illus. 11).
+                    In “A Dream,” Mrs. Colman has emended the first words of
+                    several lines: “Where” to “When” at line 4,
+                    “All” to “Quite” at line 8, and
+                    “Do” to “And” at line 10. She has also given
+                    “do” for “how” at line 9, and
+                    “beetle” for “beetles” at line 19. I have
+                    found no other uses of this particular engraving, but it is very similar in
+                    style to many illustrations of animals and foliage in the Colman and Carter
+                    publications. <note id="n5">
+                        <hi rend="s">5</hi>
+                        <hi rend="i"> The Little Keepsake for 1844</hi>, ed. Mrs. S. Colman (Boston:
+                        T. H. Carter and Co. [copyright 1843]). The <hi rend="i">NUC</hi> (NC
+                        0555861) lists what seems to be another copy of this same work, but which
+                        gives “Colman” of “New York” as
+                        publisher; this copy, reported by the Boston Public Library, unfortunately
+                        has disappeared from that library.</note>
+                </p>
+                <p>“A Cradle Song” is included in a story, “The
+                    Baby,” which apparently was written by Mrs. Colman specifically to
+                    display Blake’s poem and which reflects her continued enthusiasm for
+                    his poems as works which should be known to her young readers (illus. 12). The
+                    most substantial emendation is of line 4, which should read “By happy
+                    silent moony beams.” Mrs. Colman has also given
+                    “weeps” for Blake’s verb “weep”
+                    at line 20 and “Thus” for “Thou” at line 27.
+                    This engraving, which is not in any event notably similar to Blake’s
+                    original illuminations, also appeared with Miss A. A. Gray’s story
+                    “Little Charlie” in the <hi rend="i">Boys’ and
+                        Girls’ Library</hi> (II, 62). This issue (June 1844) follows the
+                    preparation of <hi rend="i">The Little Keepsake for 1844</hi> by several months
+                    and is a good example of the reuse of a design which could fit several
+                    narratives; here the design seems less appropriate to Blake’s poem
+                    than to Miss Gray’s story, which begins: “‘The
+                    Babe will not eat his breakfast; will he, mother?’ said little Laura.
+                    ‘No; he will eat nothing. Poor little Charlie! He is very
+                    ill.’”</p>
+                <p>
+                    <hi rend="i">June 1844</hi> During 1844, Mrs. Colman edited the <hi rend="i">Boys’ and
+Girls’ Library</hi> (Boston: T. H. Carter
+                    and Co. [copyright 1844]), which was almost identical 
+<pb id="p11-9" n="9"/>
+                    <figure n="Emmet.11.1.bqscan" rend="file" width="958" height="398">
+                    	<figTranscr>“But I saw a glow-worm near.”<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	STORY OF THE EMMET.<lb/>
+                    	(A DREAM.)<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	ONCE a dream did weave a shade,<lb/>
+                    	O’er my angel guarded bed,<lb/>
+                    	That an Emmet lost its way —<lb/>
+                    	Where on grass methought I lay.<lb/>
+                    	Troubled, wildered, and forlorn,<lb/>
+                    	Dark, benighted, travel-worn<lb/>
+                    	Over many a tangled spray,<lb/>
+                    	Quite heart-broke I heard her say,<lb/>
+                    	Oh my children! how they cry;<lb/>
+                    	And they hear their father sigh.<lb/>
+                    	Now they look abroad to see,<lb/>
+                    	Now return and weep for me.<lb/>
+                    	<lb/>
+                    	Pitying, I drop’d a tear;<lb/>
+                    	But I saw a glow-worm near,<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	STORY OF THE EMMET.   37<lb/>
+                    	<lb/>
+                    	Who replied, - What wailing wight<lb/>
+                    	Calls the watchman of the night.<lb/>
+                    	I am set to light the ground,<lb/>
+                    	While the beetle goes his round;<lb/>
+                    	Follow now the beetle hum -<lb/>
+                    	Little wanderer, hie thee home.</figTranscr>
+                        <head>Illus. 11</head>
+                    </figure>
+                    <figure n="Baby.11.1.bqscan" rend="file" width="958" height="754">
+                    	<figTranscr>THE BABY.<lb/>
+                    	<lb/>
+                    	“OH, what a lovely little babe! Is it<lb/>
+                    	really my sister, and may I sometimes<lb/>
+                    	hold it, mamma?”<lb/>
+                    	<lb/>
+                    	“Yes, my darling, and when it is larger<lb/>
+                    	and stronger, you shall hold it a<lb/>
+                    	much as you please.”<lb/>
+                    	<lb/>
+                    	“Oh, dear, I am afraid she is going to<lb/>
+                    	cry; may I sing that little song to her<lb/>
+                    	that I learnt in William Blake’s “Songs<lb/>
+                    	of Innocence,” mamma?”<lb/>
+                    	<lb/>
+                    	“Yes, Helen, you may, if it is not<lb/>
+                    	very long.”<lb/>
+                    	<lb/>
+                    	“No, mamma, it is not, — and it is all<lb/>
+                    	about a little baby.”<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	94   THE BABY.<lb/>
+                    	<lb/>
+                    	“Sweet dreams form a shade<lb/>
+                    	O’er my lovely infant’s head,<lb/>
+                    	Sweet dreams of pleasant streams<lb/>
+                    	Under happy, silver moonbeams.<lb/>
+                    	<lb/>
+                    	Sweet sleep, with soft down,<lb/>
+                    	Weave thy brows an infant crown,<lb/>
+                    	Sweet sleep, angel mild,<lb/>
+                    	Hover o’er my happy child.<lb/>
+                    	<lb/>
+                    	Sweet smiles in the night,<lb/>
+                    	Hover over my delight,<lb/>
+                    	Sweet smiles, mother’s smiles,<lb/>
+                    	All the livelong night beguiles.<lb/>
+                    	<lb/>
+                    	Sweet means, dove-like sighs,<lb/>
+                    	Chase not slumber from thine eyes,<lb/>
+                    	Sweet moans, sweeter smiles,<lb/>
+                    	All the dove-like moans, beguiles.<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	THE BABY.   95<lb/>
+                    	<lb/>
+                    	Sleep, sleep, happy child,<lb/>
+                    	All creation slept and smiled:<lb/>
+                    	Sleep, sleep, happy sleep,<lb/>
+                    	While o’er thee thy mother weeps.<lb/>
+                    	<lb/>
+                    	Sweet babe, in thy face,<lb/>
+                    	Holy image I can trace,<lb/>
+                    	Sweet babe, once like thee,<lb/>
+                    	Thy Maker lay and wept for me.<lb/>
+                    	<lb/>
+                    	Wept for me, for thee, for all,<lb/>
+                    	When he was an infant small,<lb/>
+                    	Thus His image ever see,<lb/>
+                    	Heavenly face that smiles on thee.<lb/>
+                    	<lb/>
+                    	Smiles on thee, on me, on all,<lb/>
+                    	Who became an infant small —<lb/>
+                    	Infant smiles are his own smiles,<lb/>
+                    	Heaven and earth to peace beguiles.”<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	96   THE BABY.<lb/>
+                    	<lb/>
+                    	“Mamma, she is fast asleep; how<lb/>
+                    	sweet she looks with her eyes shut! But<lb/>
+                    	don’t you think that is a beautiful song?”<lb/>
+                    	<lb/>
+                    	“Yes, indeed, my daughter; but now<lb/>
+                    	little sister is sleeping, you had better go<lb/>
+                    	out to play.”<lb/>
+                    	<lb/>
+                    	“Well, good-by, darling sister, I will<lb/>
+                    	come to see you again when you wake.<lb/>
+                    	Let me first kiss your precious little hand.<lb/>
+                    	There, now I’m gone.<lb/>
+                    	<lb/>
+                    	<lb/>
+                    	“Sleep, sleep, happy child,<lb/>
+                    	All creation slept and smiled.”</figTranscr>
+                        <head>Illus. 12</head>
+                    </figure>
+                    <pb id="p11-10" n="10"/>
+                    <figure n="EveningHymn.11.1.bqscan" rend="file" width="500" height="734">
+                    	<figTranscr>EVENING HYMN.<lb/>
+                    	BY WILLIAM BLAKE.<lb/>
+                    	<lb/>
+                    	I KNOW, when I lie down to sleep,<lb/>
+                    	The Lord is near my bed;<lb/>
+                    	That angels watch, by his command,<lb/>
+                    	Around my infant head.<lb/>
+                    	<lb/>
+                    	I know, when I kneel down to pray,<lb/>
+                    	That still the Lord is there;<lb/>
+                    	He hears my words, he sees my thoughts,<lb/>
+                    	And listens to my prayer.<lb/>
+                    	<lb/>
+                    	I know, when I go forth to play,<lb/>
+                    	The Lord is by my side;<lb/>
+                    	Through every hour, at every step,<lb/>
+                    	He is my guard and guide.<lb/>
+                    	<lb/>
+                    	I know his eye sees everything<lb/>
+                    	In earth and sea and air;<lb/>
+                    	The he in darkness, as in light,<lb/>
+                    	Can see me everywhere.<lb/>
+                    	<lb/>
+                    	Then let me guard each thought, each word,<lb/>
+                    	Lest he should chance to find<lb/>
+                    	Evil within a heart that should<lb/>
+                    	Be gentle, meek, and kind.</figTranscr>
+                        <head>Illus. 13</head>
+                    </figure>
+                    <figure n="ChildandLamb.11.1.bqscan" rend="file" width="350" height="721">
+                    	<figTranscr>87<lb/>
+                    	<lb/>
+                    	THE CHILD AND LAMB.<lb/>
+                    	<lb/>
+                    	BY W. BLAKE.<lb/>
+                    	<lb/>
+                    	LITTLE lamb, who made thee?<lb/>
+                    	Does thou know who made thee?<lb/>
+                    	Gave thee life and bid thee feed<lb/>
+                    	By the stream and o’er the mead;<lb/>
+                    	<lb/>
+                    	Gave thee clothing of delight—<lb/>
+                    	Softest clothing woolly bright;<lb/>
+                    	Gave thee such a tender voice—<lb/>
+                    	Making all the vales rejoice:<lb/>
+                    	Little lamb, who made thee?<lb/>
+                    	Dost thou know who made thee?</figTranscr>
+                        <head>Illus. 14, part 1</head>
+                    </figure> to the <hi rend="i">Boys’ and Girls’
+                        Magazine</hi> in subject matter and format, and which was issued in twelve
+                    monthly numbers later bound in three successive volumes. In the issue for June
+                    1844 (II, 47) she incorrectly attributes the poem “Evening
+                    Hymn” to Blake (illus. 13). I have been unable to discover the correct
+                    attribution of this sentimental piece; the prominence which she has given
+                    Blake’s other poems and the absence of any other likely poet named
+                    William Blake indicate that she did indeed consider “Evening
+                    Hymn” and “The Lamb” works by the same poet. Mrs.
+                    Colman’s error in attribution suggests that she no longer had
+                    Blake’s original printing at hand, that she was now working with a
+                    transcription of Blake’s poems which she had apparently confused with
+                    a transcription of some other poet’s work.</p>
+                <p>
+                    <hi rend="i">July 1844</hi> Mrs. Colman printed “The Lamb” in
+                    the next monthly number of the <hi rend="i">Boys’ and
+                        Girls’ Library</hi> (II, 87-88) (illus. 14). Instead of small
+                    mistakes which might be attributed to careless transcription, we have the
+                    substantive emendation of three important lines. Mrs. Colman has altered line
+                    14, which should read “For he calls himself a Lamb,” and the
+                    final two lines, both of which should read “Little Lamb God bless
+                    thee.”</p>
+                <figure n="USBank.11.1.bqscan" rend="file" width="500" height="833">
+                	<figTranscr>88   LATE UNITED STATES BANK.<lb/>
+                	<lb/>
+                	Little lamb, I’ll tell thee,<lb/>
+                	Little lamb, I’ll tell thee.<lb/>
+                	He is called by thy name,<lb/>
+                	He is called himself a Lamb.<lb/>
+                	<lb/>
+                	He is meek and he is mild,<lb/>
+                	He became a little child;<lb/>
+                	I a child and thou a lamb,<lb/>
+                	We are called by his name.<lb/>
+                	Little lamb, the Lord bless thee,<lb/>
+                	Little lamb, God bless.<lb/>
+                	<lb/>
+                	Songs of Innocence.<lb/>
+                	<lb/>
+                	<lb/>
+                	LATE UNITED STATES BANK. — Philadelphia.<lb/>
+                	<lb/>
+                	THIS picture represents a very elegant edifice of white<lb/>
+                	marble, and in its design and proportions are displayed<lb/>
+                	the leading features of the Parthenon at Athens.<lb/>
+                	<lb/>
+                	<lb/>
+                	CONUNDRUM. — Why are poets like toys?</figTranscr>
+                    <head>Illus. 14, part 2</head>
+                </figure>
+                <pb id="p11-11" n="11"/>
+                <p>One difference between the <hi rend="i">Boys’ and Girls’
+                        Magazine</hi> and the <hi rend="i">Boys’ and Girls’
+                        Library</hi> is that, apparently as an economy measure, the Colmans
+                    frequently used engravings which were at hand from their earlier publications
+                    and from other sources rather than going to the expense of regularly producing
+                    engravings especially for particular texts. In fact, the cherub from the
+                    engraving for Blake’s “Introduction” to <hi rend="i">Innocence</hi> in the 
+<hi rend="i">Boys’ and
+                        Girls’ Magazine</hi> for July 1843 is used in the successor
+                    publication to illustrate a piece about the aeolian harp (III, 48) (illus. 15).
+                    The availability of the engraving with which Mrs. Colman accompanies
+                    Blake’s “The Lamb” might explain why the lamb is
+                    attended in the illustration by a woman rather than by a
+                    “child” as in the text of Blake’s poem and in his
+                    design. Originally, this engraving may have been prepared as an illustration of
+                    Wordsworth’s “The Pet-Lamb” in <hi rend="i">Poems
+                        for the Little Folks</hi> (New York: Samuel Colman), p. 38, which is similar
+                    in typography and format to Samuel Colman’s New York publications of
+                    about 1839. The engraving was later put to at least one less glorious use, as an
+                    illustration for the story, “The Dwarf in Search of a
+                    Lodging,” in Miss A. A. Gray’s <hi rend="i">John’s Adventures, or the Little Knight
+Errant</hi> (Boston: S.
+                    Colman [copyright 1846 by Mrs. P. Colman]), p. 62.</p>
+                <p>
+                    <hi rend="i">1844</hi> As in the previous year, Mrs. Colman compiled a small
+                    Christmas and New Year’s gift book, the <hi rend="i">Child’s Gem for 1845</hi>
+(Boston: T. H. Carter &amp; Co.),
+                    in which she included Blake’s “The Little Boy lost”
+                    and “The Little Boy Found” from <hi rend="i">Innocence</hi>
+                    (illus. 16). In the former poem, Mrs. Colman has added the word
+                    “dear” to the first line, and she has made a quite significant
+                    alteration in the sense of the poem by substituting “thick”
+                    for “away” at line 8. For “The Little Boy
+                    Found,” our Victorian editor’s text agrees with
+                    Blake’s except for the addition of “he” to line
+                    6.</p>
+                <div2>
+                    <head>
+                        <title>The Source Text</title>
+                    </head>
+                    <p>A case establishing that Mrs. Colman has taken an original copy of
+                        Blake’s <hi rend="i">Innocence</hi> as her source text would be
+                        substantial support of speculation about Mrs. Colman’s designs as
+                        a graphic Victorian reinterpretation of Blake’s art and would add
+                        to our interest in her various emendations and in her enthusiastic response
+                        to Blake’s illuminated work. Similarities between the Victorian
+                        designs and Blake’s originals suggest Mrs. Colman’s
+                        use of an original copy; further, we can establish that she had access to
+                        Copy U of <hi rend="i">Innocence</hi> in New York in 1843, and we can
+                        discount the possibility that she has used earlier letterpress versions of
+                        the poems as her source. 
+						<q> Keynes gives a short history of 
+<hi rend="i">Innocence</hi> (U):<lb/>
+                            <lb/>
+ Formerly in the possession of Robert
+                            Balmanno, an English journalist, who emigrated to New York. He had been
+                            friendly with Stothard and Fuseli and other artists who knew Blake, and
+                            may have had the books directly from him. Afterwards in the collection
+                            of E. W. Hooper, of Boston.<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref>
+                            <note id="n6">
+                                <hi rend="s">6</hi> Sir Geoffrey Keynes and Edwin Wolf II,
+                                    <hi rend="i">William Blake’s Illuminated Books, A
+                                    Census</hi> (New York: Grolier Club, 1953), p. 17. This copy is
+                                described in detail by Thomas E. Connally in “<hi rend="i">Songs of
+Innocence</hi>, Keynes (1921) Copy U, Keynes-Wolf
+                                (1953) Copy U,” <hi rend="i">Blake Newsletter</hi> 28
+                                (Spring 1974), 88-89.</note>
+						</q>
+						On the flyleaf now found with Copy U, which is in the Houghton Library,
+                        Harvard University, is Hooper’s 
+                        <figure n="Cherub.11.1.bqscan" rend="file" width="500" height="400">
+                            <head>Illus. 15</head>
+                        </figure>
+                        <figure n="LittleBoy.11.1.bqscan" rend="file" width="500" height="620">
+                        	<figTranscr>THE LITTLE BOY LOST.<lb/>
+                        	<lb/>
+                        	Father, dear father, where are you going,<lb/>
+                        	Oh do not walk so fast.<lb/>
+                        	Speak father. speak to your little boy,<lb/>
+                        	Or else I shall be lost.<lb/>
+                        	<lb/>
+                        	The night was dark, no father was there,<lb/>
+                        	The child was wet with dew.<lb/>
+                        	The swamp was deep, the child did weep,<lb/>
+                        	And thick the vapor flew.<lb/>
+                        	<lb/>
+                        	<lb/>
+                        	THE LITTLE BOY FOUND.<lb/>
+                        	<lb/>
+                        	The little boy lost in the lonely fen,<lb/>
+                        	Led by the wandering light,<lb/>
+                        	Began to cry, but God ever nigh,<lb/>
+                        	Appeared like his father in white.<lb/>
+                        	<lb/>
+                        	He kissed the child, and by the hand led,<lb/>
+                        	And to his mother he brought,<lb/>
+                        	Who in sorrow pale through the lonely dale,<lb/>
+                        	Her little boy weeping sought.<lb/>
+                        	<lb/>
+                        	W. BLAKE.</figTranscr>
+                        	<head>Illus. 16</head>
+                        </figure>
+                        <pb id="p11-12" n="12"/>
+                        <figure n="Publications.11.1.bqscan" rend="file" width="604" height="1000">
+                        	<figTranscr>S. COLMAN’S LIST OF PUBLICATIONS.   I<lb/>
+                        	<lb/>
+                        	S. COLMAN<lb/>
+                        	<lb/>
+                        	ANDERSON<lb/>
+                        	<lb/>
+                        	SAMUEL COLMAN,<lb/>
+                        	PUBLISHER AND BOOKSELLER.<lb/>
+                        	No. VIII Aster House, Broadway, New-York.<lb/>
+                        	<lb/>
+                        	Complete in 1 vol. 8vo. law binding.<lb/>
+                        	THE LAW OF PATENTS. BY W. PHILLIPS.<lb/>
+                        	My Williard Phillips of Boston, is well known as the author of several valuable<lb/>
+                        	law books. The present work is the only one on this subject in this <lb/>
+                        	country.<lb/>
+                        	<lb/>
+                        	In 1 vol. 12mo. well bound.<lb/>
+                        	THE INVENTOR’S GUIDE. BY W. PHILLIPS.<lb/>
+                        	Author of “The Law of Patents.”<lb/>
+                        	It comprises the Rules, Forms, and Proceedings for securing Patent Rights,<lb/>
+                        	and embraces all that is considered of practical importance to Inventors and <lb/>
+                        	Patentees.<lb/>
+                        	<lb/>
+                        	The following letter from the Commissioner of patents at Washington, respecting<lb/>
+                        	the above valuable works, will fully establish their reputations.<lb/>
+                        	<lb/>
+                        	Patent Office, Washington.<lb/>
+                        	WILLIARD PHILLIPS, ESQ.—Dear Sir, I have intended a long time to embrace<lb/>
+                        	a leisure moment to assure you with how much pleasure I have perused<lb/>
+                        	two works published by yourself, the Law of Patents, and the Inventor’s<lb/>
+                        	Guide. Both of these are admirably calculated for the objects in view.<lb/>
+                        	Much that is valuable is condensed in a small compass, and I trust you will</figTranscr>
+                            <head>Illus. 17, part 1</head>
+                        </figure> 
+                        note which has supplied most of Keynes’ information and
+                        which adds that Balmanno “died in Brooklyn N. Y. about 1865 (He was
+                        formerly a Secty of Antiqu[ari]es of London?) E.W.H.”</p>
+                    <p>Although an investigation of the entire history of Copy U is not called for
+                        here, we should like to know enough about Balmanno’s situation in
+                        New York to estimate the likelihood of his association with Mrs. Colman. I
+                        have been able to piece together some idea of his American career from such
+                        secondary sources as the <hi rend="i">NUC</hi>, Allibone’s 
+<hi rend="i">Dictionary</hi>, which includes articles on Robert and Mary
+                        Balmanno written in 1858, and the New York Historical Society’s
+                            <hi rend="i">Dictionary of Artists in America</hi> (1957), which relies
+                        upon a search of records at the National Academy of Design and the American
+                            Institute.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref>
+First, we can be certain
+                        that Robert Balmanno (1780-1861, dates given in the <hi rend="i">NUC</hi>)
+                        had emigrated to New York by 1843, the first year of Mrs.
+                        Colman’s Blake publications. A date before 1835 is suggested by
+                        Mrs. Balmanno’s “three poems written for special
+                        occasions (July 3-4, 1835) at Geneva, N.Y.” which were added to a
+                        copy of her <hi rend="i">Poems</hi> (London, 1830; <hi rend="i">NUC</hi>
+                        NB0074878), and we know that in 1843 she was exhibiting her works at the
+                        National Academy (NYHS <hi rend="i">Dictionary</hi>). Although Robert
+                        Balmanno actually made his living in New York as “a clerk at the
+                        customhouse” (NYHS <hi rend="i">Dictionary</hi>), by the later
+                        years of the 1840s and into the next decade both of the Balmannos occupied
+                        places of at least some small note in artistic and literary circles. Mary
+                        Balmanno published various short poems, continued to exhibit her still life
+                        paintings, produced “the beautiful drawing of all the flowers
+                        mentioned by Shakespeare, which excited so much attention at the New York
+                        Crystal Palace in 1853-54” (Allibone), and in 1858 published <hi rend="i">Pen and
+Pencil</hi> (<hi rend="i">NUC</hi> NB0074877)
+                        “illustrated with cuts, a majority of which were drawn on the block
+                        by her own hand” (Allibone). This last work was published by D.
+                        Appleton &amp; Co. as was her earlier edition of Thomas
+                        Moore’s poems (1850, <hi rend="i">NUC</hi> NM0751581), a fact
+                        which suggests a specific connection with Mrs. Colman, whose <hi rend="i">Innocence of
+Childhood</hi> was also published by Appleton in 1850 (<hi rend="i">NUC</hi> NC0555851). Robert Balmanno’s
+literary
+                        career was quite similar. His first American work was published in 1846 
+(<hi rend="i">NUC</hi> NB0074881), and two years later his <hi rend="i">Stoke
+                            Church and Park</hi> (<hi rend="i">NUC</hi> NB0074882) was printed with
+                        illustrations engraved after his own designs. In addition to his few short
+                        works in the <hi rend="i">NUC</hi>, we are told by Allibone that he
+                        “contributed many articles to the London periodicals and to the New
+                        York Knickerbocker, Evening Post, and Graham’s (Phila.)
+                        Magazine.” <note id="n7">
+                            <hi rend="s">7</hi> S[amuel] Austin
+                            Allibone, <hi rend="i">Dictionary of English Literature</hi>
+                            (Philadelphia: Lippincott, 1886); the writer of the article on Balmanno
+                            states that his account was written in 1858. George C. Groce and David
+                            H. Wallace, <hi rend="i">The New-York Historical Society’s
+                                Dictionary of Artists in America, 1564-1860</hi> (New Haven: Yale,
+                            1957).</note>
+                    </p>
+                    <p>Although the preceding evidence documents the Balmannos’ literary
+                        activities only after 1843, it seem reasonable to assume that their
+                        association with literary circles probably began soon after their arrival in
+                        New York. It would then seem quite possible that by 1843 the Balmannos may
+                        have found their way to Samuel Colman’s successful publishing
+                        house on Broadway which was “one of the first in this country to
+                        publish illustrated books in color; and which became a gathering place for
+                        literary men and artists” (<hi rend="i">Appleton’s
+                            Cyclopedia of American Biography</hi>, III, 546), probably including
+                        Longfellow and the dramatist Willis, whom Colman published (<hi rend="i">Dictionary of
+American Biography</hi>) (illus. 17). There they may have
+                        loaned Blake’s illustrated volume to the publisher’s
+                            <pb id="p11-13" n="13"/>
+wife, who was then editing an illustrated
+                        children’s magazine. Of course <hi rend="i">Innocence</hi> (U)
+                        may have come to Mrs. Colman in a multitude of other ways; it is even
+                        possible that Balmanno had sold Copy U by 1843 and that she had it on loan
+                        from someone else, possibly her brother-in-law, William, a publisher of
+                        prints who was then preparing to open “the first gallery in the
+                        city for the sale of pictures” (<hi rend="i">ACAB</hi>). It is the
+                        combination of Mrs. Colman’s access to Copy U of <hi rend="i">Innocence</hi>
+together with her production of designs similar to
+                        Blake’s originals which most strongly supports the case that her
+                        source was this original copy of <hi rend="i">Innocence.</hi>
+                    </p>
+                    <p>The remainder of the case for Mrs. Colman’s use of <hi rend="i">Innocence</hi> (U)
+depends upon our exclusion of other possible
+                        sources. We can first discount the possibility that Mrs. Colman has used
+                        earlier letterpress versions of the poems. Wilkinson’s (1839) and
+                        Tulk’s (1843 or later) complete editions of the <hi rend="i">Songs</hi> were the
+only letterpress sources to include all or even
+                        most of the poems which Mrs. Colman prints. Tulk’s edition of
+                        only twelve copies was printed on paper watermarked 1843 and may well have
+                        been produced after Mrs. Colman’s first printing of a Blake poem,
+                        in July 1843; neither do we have any evidence that a copy was available in
+                            America.<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref>
+We do know that at least
+                        one copy of Wilkinson’s edition had made its way across the
+                        Atlantic by 1843, for at a time almost exactly contemporaneous with Mrs.
+                        Colman’s first printings, we find in the <hi rend="i">New Church
+                            Magazine for Children</hi> (Boston: August-December 1843) five of
+                        Blake’s <hi rend="i">Songs</hi> given in a text following
+                        Wilkinson’s almost exactly;<supplied type="spacer"> </supplied><ref target="n9"
+type="note">9</ref>
+                        copies belonging to Emerson and T. W. Higginson may also have been available
+                        at this early date.<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref> Mrs.
+                        Colman’s texts have no recognizable pattern of similarity to the
+                        punctuation, capitalization, stanza divisions and other emendations by which
+                        Wilkinson’s texts differ from Blake’s originals. It is
+                        true that Mrs. Colman was not particularly careful with many of her texts:
+                        for example, in Tennyson’s “The May Queen” (<hi rend="i">Boys’ and Girls’
+Magazine</hi>, II, No.
+                        1, 12-13) she gives only one “black” in line 5 and
+                        contracts his “woven” to
+                        “wov’n” at line 25, both of which emendations
+                        adversely affect the meter. Yet the text in substance and accidentals
+                        clearly shows that she was cognizant, if not particularly respectful, of
+                        Tennyson’s printed text,<supplied type="spacer"> </supplied><ref target="n11"
+type="note">11</ref>
+                        and I think it reasonable to suppose that even someone who has treated
+                        Blake’s “Nurse’s Song” as she has
+                        would betray some familiarity with Wilkinson’s version if that
+                        were her source. <note id="n8">
+                            <hi rend="s">8</hi> Sir Geoffrey Keynes
+                            describes the two known surviving copies of Tulk’s edition
+                            (now at the British Museum and Liverpool University) in “Blake,
+                            Tulk and Garth Wilkinson,” <hi rend="i">The Library</hi>, 4th
+                            ser. 26 (1945), 190-92.</note>
+                        <note id="n9">
+                            <hi rend="s">9</hi> Cited in my “Unnoticed
+                            Printings.” The copy of Wilkinson’s edition used by
+                            the Swedenborgians in 1843 was probably available to them a year
+                            earlier, when another Boston Swedenborgian publication, the <hi rend="i">New
+Jerusalem Magazine</hi>, reprinted Wilkinson’s text
+                            of “The Lamb” (16 (September, 1842), 40).</note>
+                        <note id="n10">
+                            <hi rend="s">10</hi> In “The 1839 Wilkinson Edition
+                            of Blake’s <hi rend="i">Songs</hi> in Transcendental
+                            America,” <hi rend="i">Blake Newsletter</hi> 16 (Winter,
+                            1970-71), Edward J. Rose discusses two copies, those of Emerson and T.
+                            W. Higginson, which may have been in America by 1843.</note>
+                        <note id="n11">
+                            <hi rend="s">11</hi> I have compared Mrs. Colman’s
+                            text to the American edition published by W. D. Ticknor (Boston,
+                            1842).</note>
+                    </p>
+                    <p>Another possibility is that Mrs. Colman may have seen a manuscript
+                        transcription by a third party, who would then be held responsible for the
+                        various emendations. A third party could even have been responsible for
+                        sketching Blake’s designs and thus for providing Mrs. Colman with
+                        a semblance of Blake’s original. Although it is possible that
+                        Mrs. Colman may have seen a manuscript which has not been traced in Blake
+                        scholarship, I know of only one transcription—this one complete
+                        with detailed copies of Blake’s designs—which
+                        eventually found its way to America, but its text differs in particulars
+                        from that given by Mrs. Colman.<supplied type="spacer"> </supplied><ref target="n12"
+type="note">12</ref> A
+                        final possibility is that Mrs. Colman had seen an original copy of 
+<hi rend="i">Innocence</hi> or of the complete <hi rend="i">Songs</hi> but
+                        not Copy U. No other copies are reported by Keynes (<hi rend="i">Census</hi>) as
+                        <figure n="PublicationsDetail.11.1.bqscan" rend="file" width="500" height="465">
+                        	<figTranscr>S. COLMAN</figTranscr>
+                            <head>Illus. 17, detail</head>
+                        </figure>
+                        <pb id="p11-14" n="14"/>
+                        <figure n="MagazineTitlePage.11.1.bqscan" rend="file" width="500" height="732">
+                        	<figTranscr>BOYS’ AND GIRLS’<lb/>
+                        	MAGAZINE.<lb/>
+                        	EDITED BY MRS. S. COLMAN.<lb/>
+                        	<lb/>
+                        	CONTRIBUTORS.<lb/>
+                        	<lb/>
+                        	REV. JACOB ABBOTT,<lb/>
+                        	T. S. ARTHUR,<lb/>
+                        	MRS. L. H. SIGOURNEY,<lb/>
+                        	MRS. F. S. OSGOOD,<lb/>
+                        	<lb/>
+                        	MRS. A. J. GRAVES,<lb/>
+                        	MRS. SUSAN JEWETT,<lb/>
+                        	WILLIAM CUTTER, ESQ.,<lb/>
+                        	EDITOR OF THE YOUTH’S KEEPSAKE,<lb/>
+                        	<lb/>
+                        	MISS H. F. GOULD,<lb/>
+                        	MRS. E. GOODWIN,<lb/>
+                        	MISS C. M. SEDGWICK.<lb/>
+                        	<lb/>
+                        	BOSTON.<lb/>
+                        	PUBLISHED BY T. H. CARTER &amp; CO.</figTranscr>
+                            <head>Illus. 18</head>
+                        </figure> having been available in America at such an early date, but for
+                        our purposes, new evidence about the availability of another copy would only
+                        strengthen our most important argument: that Mrs. Colman has seen an
+                        original copy of Blake’s illuminated work. Of course we should
+                        like to know exactly which copy she used as a source text, but it is more
+                        important that her texts, her enthusiastic reaction to Blake’s
+                        works, and some of her illustrations may have been in response to the
+                        original form of Blake’s art. <note id="n12">
+                            <hi rend="s">12</hi>
+                            G. E. Bentley, Jr., “The Contemporary Facsimiles of <hi rend="i">Songs of
+Innocence and of Experience</hi>,” <hi rend="i">Papers of the Bibliographical Society of America</hi>, 64
+                            (1970), 450-63. Copy “Alpha” (c. 1805) remained in
+                            England until 1958. The history of copy “Beta” (c.
+                            1821), which was made from copy “Alpha,” is not known
+                            before its sale in San Francisco in 1965.</note>
+                    </p>
+                    <p>We must consider briefly some of the obvious problems and questions which
+                        remain in connection with the hypothesis that the designs in Mrs.
+                        Colman’s publications derive from Blake’s original
+                        illuminations. How might the design have been transmitted from Mrs. Colman
+                        in New York to T. H. Carter in Boston? Can we know who might have done the
+                        designing and engraving? A study of the signed engravings in the
+                        “Boys’ and Girls’” series of 1843
+                        and 1844 shows the services both of Boston engravers (John Greene Chandler,
+                        George T. Devereux, Fernando E. Worcester) and of New York engravers
+                        (Alexander Anderson, Joline J. Butler, Marx M. Hart, and William
+                            Howland).<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref> These facts put us no
+                        closer to knowing who actually designed or engraved the illustrations to the
+                        Blake poems; none of these engravers seems to have been very active as a
+                        designer, and none of the signed engravings bears a particular technical
+                        resemblance to the Victorian illustrations of Blake’s
+                        poems—but they do indicate that at least some of the designs and
+                        engravings issued from New York. If the engravings illustrating
+                        Blake’s “Introduction” and
+                        “Nurse’s Song” were prepared in New York, we
+                        can suppose, given her prominent and deliberate display of
+                        Blake’s poems and the special production of the accompanying
+                        engraving, that Mrs. Colman may have shown the designer Blake’s
+                        original with instructions about how she would like text and illustration
+                        arranged on the page. <note id="n13">
+                            <hi rend="s">13</hi> For information on
+                            these engravers see the <hi rend="i">NYHS Dictionary</hi> and Sinclair
+                            Hamilton, <hi rend="i">Early American Book Illustrators and Wood
+                                Engravers, 1670-1870</hi>, 2 vols. (Princeton Univ. Press,
+                            1968).</note>
+                    </p>
+                </div2>
+                <div2>
+                    <head>
+                        <title>American Children’s Books at Mid-Century</title>
+                    </head>
+                    <p>We should also consider the immediate context in which Mrs.
+                        Colman’s readers encountered Blake’s poems. The <hi rend="i">Boys’ and Girls’
+Magazine</hi> is
+                        generally representative of all four publications considered here. Although
+                        the Blake printings have previously gone unnoticed, the work has a place in
+                        the bibliography of American literature for the first printing of a
+                        Hawthorne story. In the August 1843 issue, also containing the bowdlerized
+                        version of “The Blossom,” we find Hawthorne’s
+                        “Little Daffydowndilly” (II, No. 4, 264-69), the story of
+                        a boy by this name who, through various encounters with a rather irksome
+                        character named Mr. Toil, learns that “diligence is not a whit more
+                        toilsome than sport or idleness” (269). Even more important for its
+                        contemporary reputation, the magazine had as contributors some of the most
+                        popular writers of juvenile stories and verse (illus. 18). Jacob Abbott
+                        (1803-79) was a prolific writer of moral works (48 pages in the 
+<hi rend="i">NUC</hi>), most notably <hi rend="i">The Young Christian</hi> (1832 and
+                        numerous editions thereafter) and of the extended juvenile series, the 
+<hi rend="i">Rollo</hi> and <hi rend="i">Lucy</hi> books. Abbott had moved
+                        to New York in 1843, and his contributions may well have resulted from his
+                        personal association with the Colmans (<hi rend="i">DAB</hi>). T. S. Arthur
+                        (1809-85) was another prolific writer of children’s books (36
+                        pages in the 
+<pb id="p11-15" n="15"/>
+                        <hi rend="i">NUC</hi>), although his greatest fame came from <hi rend="i">Ten Nights
+in a Barroom and What I Saw There</hi> (1854), a volume
+                        which enjoyed sales in the 1850s second only to those of <hi rend="i">Uncle
+                            Tom’s Cabin</hi> (<hi rend="i">DAB</hi>). We should note that
+                        Arthur manifested an interest in Blake after his involvement with Mrs.
+                        Colman’s publications; his <hi rend="i">The Brilliant: A Gift
+                            Book for 1850</hi> (New York: 1850) included the text of “The
+                        Tyger” and a lengthy account of Blake’s life taken from
+                        Cunningham (120-26). Later, Arthur repeated an anecdote from Cunningham in
+                        “Death of Blake, the Painter,” <hi rend="i">Arthur’s Home Magazine</hi>, 3 (March
+1854), 220. The
+                        publications of Lydia Howard Sigourney (1791-1865) may have exceeded those
+                        of Abbott and Arthur combined, in number if not in length (<hi rend="i">ACAB</hi>,
+Vol. I, 154). In the <hi rend="i">Dictionary of American
+                            Biography</hi> we read that “it is almost impossible to find a
+                        number of one of the popular magazines of the thirties or forties that does
+                        not contain a poem or an article by her”; indeed, “the
+                        inevitable regularity with which her poetic tribute followed the demise of
+                        any prominent person led a wag to declare that she had added a new terror to
+                        death.” Catherine Maria Sedgwick (1789-1867) was on one occasion
+                        praised by her co-contributor, Hawthorne, as “our most truthful
+                        novelist” (<hi rend="i">DAB</hi>). A series of novels published
+                        from 1825-35 and marked by “extravagent and imitative
+                        romanticism” (<hi rend="i">DAB</hi>) had established her as perhaps
+                        the most popular woman author in the country, and she continued with
+                        increasingly moral works until 1857. The only other contributors to the
+                        magazine noted in American biography (<hi rend="i">DAB</hi> and 
+<hi rend="i">ACAB</hi>) are Hannah Flagg Gould (1789-1865), and Frances Sargent
+                        Osgood (1811-50), poets whose chief works were short, innocuous
+                        contributions to magazines and annuals. In addition, Miss Gould edited
+                        several juvenile works in this genre; Mrs. Osgood did some similar editorial
+                        work and published several volumes of verse on floral topics.</p>
+                    <p>Although Mrs. Colman apparently had managed to assemble for her magazines and
+                        annuals the work of many well known writers, their contributions might seem
+                        strikingly undifferentiated to the modern reader. What we might see as an
+                        oppressive lack of innovation is not really so very surprising, for the
+                        surge of juvenile literature in the thirties and forties had actually begun
+                        with a formal code set for authors and editors by the American Sunday School
+                        Union, which published 6,000,000 volumes between 1824 and 1830.
+                        Contributions were to be adapted to the children’s level, to
+                        adhere to high standards of style and content, to have an American
+                        character, and to be morally and religiously impeccable, although
+                            non-denominational<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref> (illus. 19).
+                            <note id="n14">
+                            <hi rend="s">14</hi> John Tebbell, <hi rend="i">A History
+                                of Book Publishing in the United States</hi>, 2 vols. (New York: R.
+                            R. Bowker, 1972), I, 531.</note>
+                    </p>
+                    <p>This code and the strict traditions which flowed from it may help us to
+                        understand Mrs. Colman’s treatment of Blake’s poems.
+                        On one level, some of her emendations may be understandable attempts to
+                        present Blake’s poems as correct and instructive models of the
+                        English language—as any work in her collection might have been
+                        expected to serve. This requirement certainly explains her addition of heavy
+                        punctuation as well as many of her alterations of capitalization and
+                        spelling, for example her regularization of “chear”
+                        (“Introduction” to <hi rend="i">Innocence</hi>) to the
+                        standard Victorian American spelling, “cheer.” Especially
+                        in the case of Blake, whose text was difficult to read and whose works were 
+                        <figure n="MagazineIntro.11.1.bqscan" rend="file" width="500" height="610">
+                        	<figTranscr>INTRODUCTION<lb/>
+                        	<lb/>
+                        	It is with feelings of pleasure, my dear young friends, that the editor<lb/>
+                        	of the “GIRL’S AND BOY’S MAGAZINE” enters upon the duties of preparing<lb/>
+                        	a monthly repast for your moral and intellectual nature, because<lb/>
+                        	she anticipates being able, with the kind and generous assistance<lb/>
+                        	of several Ladies and Gentlemen, who have already done much for your<lb/>
+                        	happiness, in preparing for you good books, to place before you, in<lb/>
+                        	the pages of this Magazine, such Pictures, Tales, Anecdotes, Travels,<lb/>
+                        	Biography, and Amusement, as may, if rightly improved, cultivate<lb/>
+                        	your taste, improve your judgment, awaken a desire for rational inquiry,<lb/>
+                        	and teach, confirm, and strengthen the moral principles and best<lb/>
+                        	affections of the heart.<lb/>
+                        	<lb/>
+                        	Without making any further engagements of what shall be done,<lb/>
+                        	allow me to wish you a “Happy New-Year,” and to invite you to read,<lb/>
+                        	and judge for yourselves, the monthly numbers of the MAGAZINE FOR<lb/>
+                        	GIRLS AND BOYS.</figTranscr>
+                            <head>Illus. 19</head>
+                        </figure>
+                        <pb id="p11-16" n="16"/>
+almost unknown, Mrs. Colman—in the best
+                        tradition of nearly all of Blake’s nineteenth century
+                        editors—apparently felt an almost complete freedom in bringing
+                        his works into conformity with the established code. An innocent but
+                        substantial example is the final line of “Nurse’s
+                        Song”; Blake’s “And all the hills
+                        ecchoed” may have been intended to leave the echo pointedly
+                        unexplained, but Mrs. Colman apparently felt it necessary to make explicit
+                        for her young readers that the hills echo “for joy,” lest
+                        they think otherwise. Similarly, the “dews of night” in
+                        the same poem might be said to “fall fast” rather than to
+                        “arise” because Mrs. Colman has in mind some scientific
+                        explanation which she believes accurate for the phenomenon of dew (her
+                        explanation seems no closer than Blake’s to the scientific fact
+                        that dew condenses). Attention to the facts of Scripture may explain the
+                        emendation of Blake’s “For he calls himself a
+                        Lamb:” (“The Lamb,” line 14) to “<hi rend="i">He</hi> is called 
+<hi rend="i">himself</hi> a Lamb.”
+                        Mrs. Colman is correct in that Jesus never calls himself a lamb, although he
+                        is often so named, e.g. John 1: 29. As for the illustrations, the piper and
+                        cherub of Blake’s frontispiece are draped according to popular
+                        stereotypes, while the angel is given a small harp and the shepherd a
+                        faithful dog, because they serve, as does Blake’s poem, as proper
+                        introductions to a series of moral poems and tales. About the emendation to
+                        “A Blossom,” we can easily understand Mrs.
+                        Colman’s categorical exclusion of the word
+                        “bosom”; this emendation also suggests her idea of a
+                        Victorian order for the natural world as she would have the blossom wish the
+                        sparrow and robin to be “In the greenwood tree” rather
+                        than “Near my bosom.”</p>
+                </div2>
+                <div2>
+                    <head>
+                        <title>
+                            <hi rend="b">Swedenborgian Interest in Blake</hi>
+                        </title>
+                    </head>
+                    <p>Mrs. Colman’s unique “edition” of
+                        Blake’s poems should also be understood in the context of
+                        American Swedenborgianism. “Samuel Colman” and
+                        “Mrs. Pamela C. Colman” of New York had joined the Boston
+                        Society of the New Jerusalem in 1833, and in succeeding years Colman
+                        advertised and sold many of Swedenborg’s works and such
+                        Swedenborgian collaterals as the <hi rend="i">New Jerusalem
+                            Magazine.</hi>
+                        <ref target="n15" type="note">15</ref> That Mrs.
+                        Colman’s Swedenborgian interests continued after 1839 is clear
+                        from her <hi rend="i">Innocence of Childhood</hi> (New York: Appleton,
+                        1850), which was reviewed and advertised in Swedenborgian periodicals and
+                        which includes fairly direct references to Swedenborg’s teachings
+                        although the master’s name is not mentioned.<supplied type="spacer"> </supplied><ref
+target="n16" type="note">16</ref> Indeed it may well have been through the
+                        Swedenborgian connection that Colman and T. H. Carter came together to
+                        publish the volumes which are the objects of our study. Carter had joined
+                        the Boston Society in 1821 and continued as an important member in
+                        subsequent years.<supplied type="spacer"> </supplied><ref target="n17"
+type="note">17</ref> The fact of the
+                        Colmans’, and the Carters’, Swedenborgianism might
+                        itself seem a circumstance unrelated to their printing of Blake’s
+                        poems except for the remarkable coincidence that almost every other printing
+                        of Blake’s poems in America before the time of Gilchrist seems to
+                        have depended upon various Swedenborgians.<supplied type="spacer"> </supplied><ref
+target="n18" type="note">18</ref> All these coincidences may have resulted from the fact that so
+                        many Swedenborgians were involved in publishing, but I think that the
+                        evidence of specific Swedenborgian statements about Blake, especially the
+                        American view expressed in articles about Blake and Flaxman in the <hi rend="i">New
+Jerusalem Magazine</hi> (1831),<supplied type="spacer"> </supplied><ref target="n19" type="note">19</ref>
+suggests that their Swedenborgianism gave these
+                        individuals a special interest in sustaining the memory of Blake. <note id="n15">
+                            <hi rend="s">15</hi>
+                            <hi rend="i"> A Sketch of the History of the Boston Society of the New
+                                Jerusalem, with a list of its members</hi> (Boston: John C. Regan,
+                            1873), p. 84. “S. Colman’s List of
+                            Publications,” op. cit., p. 9.</note>
+                        <note id="n16">
+                            <hi rend="s">16</hi> See especially pp. 11-24 for Mrs.
+                            Colman’s Swedenborgian interpretation of
+                            “Innocence.” A short review praising Mrs. Colman for
+                            having “managed to interweave some of the choicest truths and
+                            lessons of the New Church” into “a pleasant vein of
+                            fiction” appeared in the <hi rend="i">New Church
+                                Repository</hi>, 1 (New York, 1850), p. 50. Advertisements listing
+                            the work appeared on the paper cover of another New York Swedenborgian
+                            Journal, <hi rend="i">The Herald of Light</hi>, e. g., the back cover of
+                            2, No. 1 (May 1858).</note>
+                        <note id="n17">
+                            <hi rend="s">17</hi>
+                            <hi rend="i"> History of the Boston Society</hi>, pp. 82, 15, 27-28,
+                            73.</note>
+                        <note id="n18">
+                            <hi rend="s">18</hi> All of the American reprintings included
+                            in my “Unnoticed Printings” are of Swedenborgian
+                            origin. T. S. Arthur, whose works I have mentioned in my text, was a
+                            Swedenborgian, as was Mrs. D. L. Child, the author of the popular 
+<hi rend="i">Good Wives</hi>, which included sketches of Blake and
+                            Flaxman. Longfellow’s printings in <hi rend="i">The
+                                Estray</hi> (1847) may have had a source with Samuel Colman, who was
+                            one of his New York publishers before 1845. Henry James, Sr., had the
+                            poems which he reprinted in <hi rend="i">The Harbinger</hi> (1848) from
+                            Garth Wilkinson.</note>
+                        <note id="n19">
+                            <hi rend="s">19</hi> “Memoir of Flaxman the
+                            Sculptor” and “Memoirs of William Blake,” <hi rend="i">New Jerusalem
+Magazine</hi>, 5 (1831-32), pp. 153-60,
+                            192-99.</note>
+                    </p>
+                    <p>Unlike more conventional rationalists of the nineteenth century, the
+                        Swedenborgians had no quarrel with what the editor of the <hi rend="i">New
+                            Jerusalem Magazine</hi> called Blake’s “continual
+                        intercourse with spirits” (p. 193). Swedenborg himself had
+                        conversed frequently with spirits and had been privileged to visit their
+                        heavens and hells on many occasions. The very fact that Blake had spiritual
+                        visions argued for the existence of a spiritual world, the basic tenet of
+                        the Swedenborgian world view. Blake’s error, they believed, was
+                        “the strange use he made of this intercourse,” and it was
+                        seen in contrast to Flaxman’s rational, Swedenborgian
+                        interpretation of his spiritual vision: 
+						<q> But while Flaxman believed in
+                            the reality of a spiritual world, and in the actual and personal
+                            existence of spirits, as fully as Blake, in him this belief had nothing
+                            in it or with it of unregulated enthusiasm or of wild phantasy; he
+                            believed, and he knew why and what he believed, . . . But it was not so
+                            with Blake. He was gifted with perhaps an equal talent, and he appears
+                            to have embraced some of the peculiar opinions of Flaxman, but not
+                            understandingly; and these truths were, in his case, little more than
+                            broken parts of a system of which he knew not the unity and coherence;
+                            and they were mingled with falsities and made to minister to his
+                            self-conceit, and grievously distorted by the false medium through which
+                            he saw them. (p. 193) </q>
+Although Blake’s interpretation of
+                        his visions was misguided, the editor believed that the worth of the visions
+                        themselves was to be acknowledged: 
+						<q> We do not say that their [the
+                            visions’] influence was destroyed or entirely perverted, for
+                            there was enough in his character to justify the hope that this was not
+                            the case; nevertheless, our readers will find in the following account
+                            of him frequent occasions for pity and regret. (p. 193) </q>
+                    </p>
+                    <p>We should add that this same magazine was, some ten years later, the first
+                        American publication (with the exception of American editions of
+                        Cunningham’s <hi rend="i">Lives</hi>) to reprint one of
+                        Blake’s poems, “The Lamb,” in September 1842
+                        (p. 40). Further, in 1843 and 1844 the <hi rend="i">New Church Magazine for
+                            Children</hi> reprinted several of Blake’s <hi rend="i">Songs.</hi> Despite
+their criticism of Blake’s excesses in
+                        interpreting his spiritual vision, the American Swedenborgians may well have
+                        agreed with J. J. Garth Wilkinson’s argument, in the preface to
+                        his edition of 1839, that at least Blake’s <hi rend="i">Innocence</hi> represented a
+vision of the eternal state of childhood
+                        in accord with Swedenborg’s teachings.</p>
+                    <p>Mrs. Colman had joined the Boston Society of the New Jerusalem on 7 April
+                        1833, only a little more than a year after the articles about Flaxman and
+                        Blake appeared in the Society’s publication, the <hi rend="i">New
+                            Jerusalem Magazine</hi>, and that her husband was later a New York
+                        distributor of that periodical also suggests 
+                    <pb id="p11-17" n="17"/> 
+                    	that she may have known the articles. Mrs. Colman may be sharing the special
+                        interest of the other Boston Swedenborgians in sustaining Blake’s
+                        memory when she chooses to introduce so prominently to her nineteenth
+                        century readers the poems of Blake, whom, in accord with the editors of the
+                            <hi rend="i">New Jerusalem Magazine</hi>, she associates with Flaxman in
+                        her brief biographical sketch.</p>
+                    <p>Mrs. Colman’s Swedenborgianism also offers one explanation of her
+                        emendations to Blake’s poems and illustrations. That she gives
+                        “the Lord” instead of Blake’s
+                        “God” in the penultimate line of “The
+                        Lamb” may possibly reflect a habit of Swedenborgian expression,<supplied
+type="spacer"> </supplied><ref target="n20" type="note">20</ref> but otherwise there is little evidence
+                        of Swedenborgian influence in her emendations. Although many of her small
+                        emendations are certainly due more to carelessness and to her insensitivity
+                        to rhyme and meter than to a deliberate, philosophical interpretation, a
+                        critical predisposition against Blake’s “unregulated
+                        enthusiasm” and “wild phantasy” may have
+                        increased her disregard for the authority of Blake’s given text.
+                        As for the designs, Mrs. Colman may have agreed with Blake that his
+                        arrangement of the piper and the angel were an appropriate illustration of
+                        his “Introduction” to <hi rend="i">Innocence</hi>, but
+                        instead of the naked and energetic figures which Blake may have seen in the
+                        excesses of his “unregulated enthusiasm,” Mrs. Colman has
+                        seen fit to present his design in a much more conventional and rationally
+                        acceptable manner. We should add that however strongly Mrs. Colman may have
+                        felt about the supposed Swedenborgian content of Blake’s vision
+                        of innocence, she probably would not in any event have made overtly
+                        Swedenborgian references in her emendations or in her short biographical
+                        sketch of Blake, for such reference would have violated the requirements of
+                        non-denominationalism. The reader familiar with Swedenborg’s
+                        writings can recognize as Swedenborgian the references in her publications
+                        to “Use” or to “Divine Providence,”<supplied type="spacer"> </supplied><ref
+target="n21" type="note">21</ref> but these are presented in such a way
+                        as to be consistent with the standard nineteenth-century Protestant view of
+                        the world. The point is that just because she makes no overt connection
+                        between Blake and Swedenborg, we should not discount the extent to which
+                        Mrs. Colman may have shared in Swedenborgian interest in Blake’s
+                        life and work and the possible significance of this interest in her decision
+                        to display prominently a number of Blake’s poems. <note id="n20">
+                            <hi rend="s">20</hi> See Swedenborg’s <hi rend="i">True
+                                Christian Religion</hi>, Section 81.</note>
+                        <note id="n21">
+                            <hi rend="s">21</hi> E.g., T. S. Arthur’s
+                                little story “The Delight of Use,” <hi rend="i">Boys’ and Girls’
+Magazine</hi>, I, No. 3,
+                                90-94, and a Swedenborgian analysis of the “use”
+                                of conundrums and riddles according to the concept of
+                                “Divine Providence” by “W,” <hi rend="i">Boys’ and Girls’ Library</hi>, I,
+                                No. 1, 31-32. Mrs. Colman’s contributions seem free of
+                                Swedenborgian coloration.
+                        </note>
+                    </p>
+                    <p>In Mrs. Colman we have a person who, in the years of relative public neglect
+                        which preceded the Blake revival of the 1860s, found the illuminated poems
+                        of <hi rend="i">Innocence</hi> so interesting that she displayed them
+                        prominently in her publications and possibly had some of Blake’s
+                        original illustrations redesigned and engraved, thus providing us with a
+                        unique graphic interpretation of Blake’s art. The context of her
+                        little “edition” is important because it indicates some of
+                        the various channels by which Blake’s reputation survived. We see
+                        the fortuitous coming together of a copy of Blake’s poems,
+                        probably <hi rend="i">Innocence</hi> (U), with a publisher, and we see that
+                        Blake’s poems were of interest chiefly because of their openness
+                        to interpretation as lyrics intended for the delight and edification of
+                        children. Finally, Mrs. Colman’s printings reflect the special
+                        Swedenborgian interest in Blake’s life and works which helped to
+                        sustain Blake’s reputation during the years before Gilchrist.</p>
+                    <pb id="p11-18" n="18"/> 
+					<note type="unreferenced">
+						<p>
+							<hi rend="i">Additional notes on the
+								illustrations.</hi> The “Prospectus” (illus.
+							1) is printed on the back of the paper cover in which the April 1843
+							monthly issue of the <hi rend="i">Boys’ and
+								Girls’ Magazine</hi> was bound; identical covers,
+							with the exception of the printed date and volume number, seem to
+							have been used for all twelve issues of the publication. The
+							original page size of the <hi rend="i">Boys’ and
+								Girls’ Magazine</hi>, the <hi rend="i">Boys’ and Girls’ Library</hi>, and <hi rend="i">The
+Rustic Wreath</hi> is 6 ¾″ by 5
+							¼″. The three illustrations from <hi rend="i">Innocence</hi> (illus. 3, 7, 8) are produced from Copy
+U, the
+							same copy which was probably available to Mrs. Colman and which is
+							now at the Houghton Library, Harvard University. The two designs of
+							the old woman (illus. 9) appear on successive pages of the May 1843
+							issue of the <hi rend="i">Boys’ and Girls’
+								Magazine</hi> (II, No. 1, 24-25) and illustrate a narrative
+							poem, “Julia Clifford.” “A
+							Dream” (illus. 11) appears on pages 35-37 and “The
+							Baby” (illus. 12), including Blake’s
+							“Cradle Song,” on pages 92-96 of the <hi rend="i">Little Keepsake for 1844</hi>; the original page size
+is 3
+							¾″ by 2 ¾″. “The
+							Little Boy lost” and “The Little Boy
+							Found” (illus. 16) appear on page 69 of the <hi rend="i">Child’s Gem for 1845</hi>; the original page
+size is
+							4 ½″ by 7 ¼″. The title page
+							of the <hi rend="i">Boys’ and Girls’
+								Magazine</hi> reproduced here (illus. 18) is that of the second
+							tri-annual volume. Mrs. Colman’s
+							“Introduction” (illus. 19) is printed on the third
+							page of the first issue of the <hi rend="i">Boys’ and
+								Girls’ Magazine.</hi>
+						</p>
+						<p>Illustrations are reproduced with the generous permission of the
+							following institutions: the <hi rend="i">Boys’ and
+								Girls’ Magazine</hi> courtesy of the Swedenborg
+							School of Religion, Newton, Massachusetts; the <hi rend="i">Boys’ and Girls’ Library</hi> courtesy
+of
+							The Boston Athenaeum; the <hi rend="i">Little Keepsake for 1844</hi>
+							courtesy of the Houghton Library, Harvard University; <hi rend="i">Innocence</hi> (U) courtesy of the
+Houghton Library, Department
+							of Printing and Graphic Arts, Harvard University; the <hi rend="i">Child’s Gem for 1845</hi> courtesy
+of the Boston
+							Public Library; <hi rend="i">The Rustic Wreath</hi> courtesy of the
+							John Greene Chandler Memorial, South Lancaster, Massachusetts. For
+							assistance with the complex bibliographical problems presented by
+							the material in this article, I am indebted to the staff of the
+							above institutions and of the American Antiquarian Society, of the
+							Margaret Clapp Library, Wellesley College, and of the Goldfarb
+							Library, Brandeis University, particularly: Victor Burch, Special
+							Collections Librarian, and Barton Lessin, Assistant Reference
+							Librarian, Goldfarb Library, Brandeis University; Marian Kirven,
+							Librarian, Swedenborg School of Religion; Herbert H. Hosmer,
+							Curator, John Greene Chandler Memorial; Miss Eleanor Garvey,
+							Curator, and David Becker, <corr type="emend">Assistant</corr> Curator, Department of Printing
+							and Graphic Arts, Houghton Library, Harvard University; Jack
+							Jackson, Art Department, and Ann Wadsworth, Rachel Stuhlman, and
+							Kathleen S. Boyd, Reference Department, The Boston Athenaeum; and
+							Miss Eleanor Nicholes, Special Collections Librarian, Margaret Clapp
+							Library, Wellesley College.</p>
+					</note>
+                    <figure n="Fence.11.1.bqscan" rend="file" width="500" height="350"/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

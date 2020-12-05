@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.erdman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Teaching Blake</title>
+                <author n="Erdman">David V. Erdman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <div1 id="BQ-04-2-0003">
+            	<pb id="p04-35" n="35"/>
+                <head>
+                    <title type="main">
+                            <hi rend="i">TEACHING BLAKE</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor>David <name>Erdman</name>
+                        </docAuthor> writes that</byline>
+                    <p>A semester Blake course is being given this fall in the SUNY CEH (Continuing Education
+in the Humanities) format, and seems to be going well. Thursdays at 7 p.m. Erdman holds forth, usually with
+slides, in one of the new lecture rooms—attendance of around 160 (half undergraduates, half schoolteachers);
+at 8:30 or earlier the class divides into five sections for “seminars” led by five dissertation-contemplating
+Teaching Assistants (dissertations on Blake, of course). The teaching group, with a few stray grad students
+who have joined the course, gather about 4 p.m. to start the conversation; it ends finally at 10 p.m., or
+later. One small knot continued past midnight. Then on Tuesday mornings we have a reading aloud of 
+<hi rend="i">The Four Zoas</hi>, reaching Night the Eighth on Election Day. (The bureaucratic rubric for the
+course is “The Great Tradition. I.”)</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

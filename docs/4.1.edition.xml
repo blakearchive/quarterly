@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.edition</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">A facsimile edition of All Religions are One</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-1-0004">
+                <pb id="p04-3" n="3"/>
+                <div2>
+                    <p>A facsimile edition of <hi rend="u">ALL RELIGIONS are ONE</hi> has been published by
+the Trianon Press for the William Blake Trust. The reproduction is by color collotype with the occasional
+addition, by hand, of water-color washes through the stencils. To obtain a faithful reproduction, the entire
+text was silhouetted by hand on the collotype negatives. The facsimile is printed on pure rag. Price: £ 18 or
+$43.20.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.day</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake Day at University of Sussex</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+        <pb id="p06-4" n="4"/>
+            <div1 id="BQ-06-1-0002">
+                <head>
+                    <title type="section">
+                        <hi rend="b">News.</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE DAY AT UNIVERSITY OF SUSSEX</hi>
+                        </title>
+                    </head>
+                    <p>“Blake Day” was held as part of the Graduate Colloquium for the Winter Term of 1972 at
+the University of Sussex. The Graduate School in Arts and Social Studies arranged four meetings for 27
+October. Following a discussion of Blake with slides, led by David Bindman and Morton Paley, there were three
+lectures: “Blake’s Early Poetry” by Michael Phillips, “Blake’s Illustrations to Young’s 
+<hi rend="i">Night Thoughts</hi>” by Deirdre Toomey, and “Blake and Revolution” by Geoffrey Carnall. Bindman is a
+Lecturer in the History of Art at Westfield College, London; Paley an Associate Professor of English at the
+University of California, Berkeley; Phillips a Lecturer in English at the University of Edinburgh; Toomey a
+graduate student at the University of London; and Carnall a Reader in English at the University of
+Edinburgh.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

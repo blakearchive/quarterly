@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>43.4.petrov</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="remembrance">Karl Kroeber, 1926-2009</title>
+		<author n="Petrov">Philip Petrov</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 2010</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">43.4</biblScope>
+            <biblScope unit="volume">43</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2010"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_43">
+    <body>
+      <pb id="p43-151" n="151"/>
+      <div1 id="BQ-43-4-0008">
+        <head>
+          <title type="section">REMEMBRANCE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Karl Kroeber, 1926-2009</title>
+          </head>
+          <div3>
+            <p>“Kroeber once portrayed William Blake, whom he admired for decades, as a kind of shamanistic
+figure, a poet whose allegiance was not to any standard of aesthetics but to the men and women who lived,
+suffered, and died around him. Blake—and this is a fact that Kroeber saw more clearly than others—was
+committed to showing that many of the psychological sources of man’s unhappiness could be cast aside,
+transmuted, overcome. His poetry stemmed from a desire to show that there was nothing unavoidable, nothing
+inexorable, about human suffering. Kroeber bore a much more striking resemblance to Blake than he would ever
+have admitted. In a world replete with self-promotion and self-pity, he worked—quietly and
+unpretentiously—to remind us of how things could be.”</p>
+            <p><hi rend="i">From Philip Petrov, “Karl Kroeber, or Living and Dying in the Present,”</hi>
+Columbia Spectator <hi rend="i">12 Nov. 2009: 4. Extract reprinted with permission.</hi></p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

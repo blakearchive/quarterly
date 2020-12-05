@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.1.stevenson</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">David Simpson on Paolozzi’s Newton</title>
+        <author n="Stevenson">Warren Stevenson</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1995</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1995</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.1</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Alexander Gourlay</name>
+              <name>Lauren G. Henry</name>
+              <name>J.E.M. Latham</name>
+              <name>David Punter</name>
+              <name>Warren Stevenson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1995"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <body>
+	<pb id="p29-24" n="24"/>
+      <div1 id="BQ-29-1-0007">
+        <head>
+          <title type="section">DISCUSSION</title>
+        </head>
+        <head>
+          <title type="section-subtitle"><hi rend="i">with intellectual spears &amp; long winged arrows of
+thought</hi></title>
+        </head>
+        <p>David Simpson’s suggestion that the bending figure in Blake’s color print 
+<hi rend="i">Newton</hi> may be a conflation of Sir Isaac Newton and the Rev. John Newton, the reformed
+slave-trader, is indeed interesting. It leads by an almost irresistible imaginative progression to the further
+surmise that the “mighty Spirit . . . Nam’d Newton” who “leap’d from the land of Albion” and
+seized from Orc the “Trump of the last doom”
+<pb id="p29-25" n="25"/>
+in <hi rend="i">Europe: a Prophecy</hi> (13:1-5) may likewise be a conflation of those two (in many ways)
+seeming opposites. I have always been uneasy with Northrop Frye’s explanation of what he refers to as
+“that curious passage in <hi rend="i">Europe</hi>” as representing Blake’s doctrine that “the mental
+attitude represented by [Isaac] Newton moves toward a consolidation of error which could provoke an
+apocalypse” (<hi rend="i">Fearful Symmetry</hi> 254) and have felt that there must be still another way of
+interpreting the allusion. The passage seems to have a contemporaneous quality, with the preceding plate
+(which also mentions “the trump of the last doom”) referring to Albion’s Angel, “Great George
+street,” Enitharmon’s triumph, and so on. And of course the impromptu trumpet lesson the “mighty Spirit
+. . . Nam’d Newton” gives the feckless Orc is followed by Enitharmon’s awakening and the information
+that “eighteen hundred years were fled” (12:12-13:10), which sounds fairly specific.</p>
+        <p>If Blake <hi rend="i">is</hi> referring, at least in part, to the Rev. John Newton here, he would
+seem to be anticipating the shift of emphasis in his evolving myth from Orc to Los, writ large in 
+<hi rend="i">The Book of Los</hi> and <hi rend="i">The Song of Los</hi>, of which John Newton’s famous
+conversion, evangelical fervor and anti-slavery work would be suitable, if partial, symbols, all of which find
+counterparts elsewhere in Blake’s poetry.</p>
+        <p>As for Professor Simpson’s reference to Martin Butlin’s account of the recent controversy over
+Sir Eduardo Paolozzi’s sculpture adapted from Blake’s <hi rend="i">Newton</hi> intended for the British
+Library, no doubt Butlin is right to warn us against imposing “too strictly a Blakean interpretation” on a
+different work of art; but judging from his description and the accompanying photograph (admittedly a risky
+business), I would have to say that Paolozzi’s <hi rend="i">Newton</hi> looks very nearly the antithesis of
+Blake’s, <corr type="emend">wherein</corr> the lightness and delicacy of the medium is artfully contrasted to the heaviness of the
+design, enhancing the satirical effect. To my bad eye, Paolozzi’s <hi rend="i">Newton</hi> resembles nothing
+so much as a defecating armadillo. Cast in bronze twelve feet high, and mounted on a podium of similar height,
+it could only represent (if taken in the way Butlin warns us against) a perversion of Blake’s design into a
+travesty of unutterable ugliness and monumental stupidity. One can only hope that it isn’t as bad as it
+looks.</p>
+        <byline>
+          <docAuthor>Warren <name>Stevenson</name></docAuthor>
+        </byline>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

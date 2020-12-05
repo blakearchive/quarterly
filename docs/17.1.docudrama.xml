@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.docudrama</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Docudrama</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <pb id="p17-38" n="38"/>
+      <div1 id="BQ-17-1-0008">
+        <div2>
+          <head>
+            <title type="main">BLAKE DOCUDRAMA</title>
+          </head>
+          <p>Global Concepts/The Media Group, Inc. has produced a half-hour television docudrama on 
+<hi rend="i">Blake: The Marriage of Heaven and Hell</hi> for the Swedenborg Foundation of New York. According to a
+press release from Global Concepts, “the final script is set in 1827, during Blake’s last days, painting
+his final version of the engraving of Urizen spanning the heavens with a giant compass. From the microcosm of
+the simple rooms shared by William and Catherine Blake, the action expands into a series of visions of what
+Catherine is reported to have deemed their ‘children with bright fiery wings.’ ” Blake is played by
+George Rose, Catherine by Anne Baxter, Urizen by Joseph C. Davies, and the Devil by Captain Haggerty.</p>
+          <p>The film is available free on loan from the Swedenborg Foundation, which has also sponsored other
+films that might interest <hi rend="i">Blake</hi> readers. For information and a catalogue, write Darrell
+Ruhl, Executive Director, Swedenborg Foundation, 139 E. 23rd St., New York, NY 10010.</p>
+          <figure n="docudrama.17.1.bqscan" rend="file" width="400" height="871">
+            <head>Anne Baxter as Catherine Blake and Vision of “Innocence” from Blake: The Marriage of
+Heaven and Hell.</head>
+            <figDesc>Photo by Global Concepts, Inc., the Swedenborg Foundation, Inc.</figDesc>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

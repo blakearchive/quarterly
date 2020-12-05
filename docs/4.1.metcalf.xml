@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.metcalf</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Toward a More Accurate Description of the Tiriel Manuscript</title>
+                <author n="Metcalf">Francis Wood Metcalf</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <pb id="p04-10" n="10"/>
+            <div1 id="BQ-04-1-0006">
+                <head>
+                    <title type="section">MINUTE PARTICULARS</title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. Toward a More Accurate Description of the 
+<hi rend="u">Tiriel</hi> Manuscript</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Francis Wood <name>Metcalf</name>
+                        </docAuthor> 2 Horatio Street #17S New York, N.Y. 10014</byline>
+                    <p>Professor Bentley’s description of the <hi rend="u">Tiriel</hi> manuscript in his
+facsimile edition (Oxford, 1967) is confused. Although I have not examined the original manuscript, it is
+clear from a study of the facsimile that Professor Bentley mistakes Blake’s sectional numberings for
+foliations: “The rectos of the leaves are foliated 1-7 in ink, in the top centre of the page, on pages 1, 3,
+5, 7, <hi rend="u">10</hi> [<hi rend="u">N</hi>.<hi rend="u">B</hi>.] [Bentley’s emphasis], 11, and 13” (p.
+52). He cannot “explain the misnumbering on page 10, which is a verso instead of a recto like the other
+numbered pages. The ‘5’ on page 10 implies that the order of the pages should be 1-8, 10, 9, 11-15, but
+the continuity of the narrative clearly demonstrates that the present order is the correct one” (p. 52).</p>
+                    <p>The present order is indeed correct. The simple explanation for “the misnumbering on
+page 10” is that <hi rend="u">section</hi> 4 is considerably longer than the other sections. Instead of
+occupying just one leaf, recto and verso, as do the preceding three sections, it spills over to the next
+recto, page 9. The next section, 5, then begins a top the next page, 10. That this page
+<pb id="p04-11" n="11"/>
+is a verso instead of a recto is irrelevant. Blake’s practice thoughout the manuscript is to form sectional
+units by numbering, and by beginning each section at the top of a page. Although Professor Bentley agonizes at
+some length and to no conclusion over “the strange way in which the pages are filled with writing” (p. 55),
+the principle is clear, if a section ends part-way through a page, the rest of that page is left blank, and
+the next section begins atop the next page. Section 4 occupies two and nine-tenths pages: therefore, as
+Professor Bentley observes, there is a blank space of “a tenth of a page on [the bottom of] page 9” (p. 55).
+Section 5 fills one page exactly; and since this page is a verso, section 6 begins atop a recto, page 11,
+restoring what Professor Bentley mistakes for a pattern of foliation by rectos. Section 6 ends half-way
+through page 12, and after the familiar blank space, section 7 begins atop page 13. The shortest section, it
+fills only three-quarters of its page. Therefore, <corr type="emend">the next</corr> section, 8, begins atop a <hi rend="u">verso</hi>,
+page 14. This is the very phenomenon that stymied Professor Bentley in the case of section 5; but he does not
+mention “8”—quite plain on the page—at all, not even as a “misnumbering.”</p>
+                    <p>Professor Bentley states that “the rectos are also correctly foliated in pencil 2-9 on
+the top right corner of pages 1, 3, 5, 7, 9, 11, 13, and 15. Probably neither foliation is Blake’s” (p. 52).
+Part of this conclusion is unjustifiable. Since one “foliation” is not a foliation but a sequence of
+section-numbers, and since these numbers appear (in the facsimile) to be in the same hand and ink as the rest
+of the manuscript, they are very likely Blake’s own. After all, “the same grey-black ink is used throughout
+the poem” (p. 55). However, the true foliation, in pencil, may well be someone else’s. Whether it is or not,
+it indicates that if the first page is folio no. 2, there must be a missing page 1; possibly this could be the
+title page. One wishes that Professor Bentley had given us a more considered account of the manuscript in this
+otherwise splendid edition.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

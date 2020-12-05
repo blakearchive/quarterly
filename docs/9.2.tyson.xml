@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.tyson</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">An Early Allusion to Blake</title>
+        <author n="Tyson">G. P. Tyson</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0004">
+      <pb id="p09-43" n="43"/>
+        <div2>
+          <head>
+            <title type="main">An Early Allusion to Blake</title>
+          </head>
+          <byline>By <docAuthor>G. P. <name>Tyson</name></docAuthor></byline>
+          <p>Among William Blake’s first engravings for the booksellers was his head of Albrecht von Haller
+(1708-1777), which was used as a frontispiece for Thomas Henry’s <hi rend="i">Memoirs of Albert de Haller,
+M.D.</hi> (1783). Of Henry’s extant letters there is one at the Bodleian to his bookseller, Joseph Johnson,
+containing a brief allusion to Blake; the letter (Ms. Engl. theol. C.50, f. 182) is dated 13 April 1783,
+making it one of the earliest known references to the engraver.</p>
+		<q>
+Manchester<lb/>
+<lb/>
+Dear Sir<lb/>
+<lb/>
+The Author of the Sermons which come to you with this letter is a very worthy Clergyman, and the particular
+Friend of all your Friends here. You will agree with me that the Discourse is an excellent one, and written in
+a good cause. It will be of some importance to him to have it more known, and you are desired to advertise it
+in some of the papers and, if you can, introduce it to the London [Unitarian] Association. You will oblige us
+all by attending to it, and forwarding the Sale.<lb/>
+I hope the Magnesia [Alba] arrived—There had been some accident to one of the Waggons which delayed
+it—<lb/>
+Pray hasten the Head of Haller—The Book is finished, and very neat, and the Season is advancing rapidly. The
+heads might come in Clerk’s parcel, or in Newton’s. The One deals with Bew, the other with
+Rivington—<supplied type="spacer"> </supplied><ref target="n3" type="note">1</ref><lb/>
+I have got Memoires de P. Acad: from the R[oyal] S[ociety] by Dr. Simmons<supplied type="spacer"> </supplied><ref target="n4" type="note">2</ref>—Yr’s very truly<lb/>
+                        Tho<hi rend="s">s</hi> Henry <note id="n3"><hi rend="s">1</hi> According to
+Pendred’s <hi rend="i">Directory</hi> both Clerk or Clark and Newton were Manchester booksellers.</note>
+	<note id="n4"><hi rend="s">2</hi> Simmons was Henry’s collaborator on the <hi rend="i">Memoirs.</hi> The
+work referred to is Henry’s English edition of Lavoisier’s essays addressed to the Paris
+Academy.</note></q>
+          <p>It is conceivable that Henry was familiar with Blake. In 1780 he had engraved a plate for William
+Enfield’s <hi rend="i">The Speaker</hi> which Johnson published. At this time Enfield was a tutor at the
+Warrington Academy, and along with the other teachers there, was certainly known to Henry through their mutual
+religious, scientific, and literary interests. Concerning the delay in sending the head to Henry, only
+inference can offer assistance. Johnson had a reputation for being dilatory, but only after about 1795 when
+his health began to fail. Earlier he enjoyed the confidence of authors and customers for being attentive and
+honest. Blake’s work on the plate, though, falls between his marriage in 1782 and the setting up of his
+print shop in 1784. So possibly he had other matters on his mind than finishing a small engraving for a
+bookseller.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

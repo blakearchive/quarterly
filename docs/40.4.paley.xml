@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>40.4.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">“Mr. J. Blake”</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">40.4</biblScope>
+            <biblScope unit="volume">40</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>J.B. Mertz</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Morton D. Paley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_40">
+    <body>
+	  <pb id="p40-151" n="151"/>
+      <div1 id="BQ-40-4-0008">
+        <head>
+          <title type="section">MINUTE PARTICULAR</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">“Mr. J. Blake”</title>
+          </head>
+          <byline>By <docAuthor>Morton D. <name>Paley</name></docAuthor></byline>
+          <p>A hitherto unrecorded reference to William Blake (although with the wrong
+                        first initial) appears in the <hi rend="i">New Monthly Magazine</hi> for 1
+                        January 1815 (vol. 2 [1814]: 537). Headed “Intelligence in Literature
+                        and the Arts and Sciences,” it reads: “Mr. Flaxman has
+                        finished a series of compositions in outline from Hesiod’s Works,
+                        which will be engraved by Mr. J. Blake, and printed in folio, to correspond
+                        with the outlines from Homer, by the same eminent professor.”</p>
+          <p>The volume number and year appear anomalous because the first issue for 1815
+                        was paginated as part of the volume for 1814. <hi rend="i">The Theogony,
+                            Works and Days, and the Days of Hesiod</hi>, with 37 plates engraved by
+                        William Blake after Flaxman’s designs, was published in 1817 by
+                        Longman, Hurst, Rees, Orme &amp; Brown. The <hi rend="i">New
+                        Monthly</hi>’s mistake about Blake’s first initial may be an
+                        indication of how obscure he was in what Gilchrist called his “years
+                        of deepening neglect.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

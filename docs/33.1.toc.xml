@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>33.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1999</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">33.1</biblScope>
+            <biblScope unit="volume">33</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Claire Colebrook</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>David Perkins</name>
+              <name>Joe Riehl</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_33">
+    <front>
+      <pb id="p33-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.033.01.bqscan" rend="file" width="258" height="332">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Nelson Hilton’s “Blake’s Digital Text Project” Explained<lb/>
+            VOLUME 33<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1999</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-33-1-0001">
+        <table id="contents" rows="11" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.perkins">Animal Rights and “Auguries of
+Innocence”</ref><lb/>
+<hi rend="i">by David Perkins</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.hilton">www.english.uga.edu/wblake</ref><lb/>
+<hi rend="i">by Nelson Hilton</hi></cell>
+            <cell>
+              <hi rend="i">11</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.riehl">Bernard Barton’s Contribution to Cunningham’s
+“Life of Blake”: A New Letter</ref><lb/>
+<hi rend="i">by Joe Riehl</hi></cell>
+            <cell>
+              <hi rend="i">16</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.bentley">David Linnell, <hi rend="i">Blake, Palmer, Linnell
+and Co.: The Life of John Linnell</hi></ref><lb/>
+<hi rend="i">Reviewed by G.E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">21</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.esterhammer">William Blake. <hi rend="i">Zwischen Feuer und
+Feuer. Poetische Werke. Zweisprachige Ausgabe</hi> and William Blake. <hi rend="i">Milton. Ein
+Gedicht</hi></ref><lb/>
+<hi rend="i">Reviewed by Angela Esterhammer</hi></cell>
+            <cell>
+              <hi rend="i">24</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="33.1.news">Urizen in New York City</ref><lb/>
+<hi rend="i">by Dr. Elizabeth B. Bentley</hi></cell>
+            <cell>
+              <hi rend="i">27</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-33-1-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p33-3" n="3"/>
+      <div1 id="BQ-33-1-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Elizabeth B. Bentley, aka Beth Budd Bentley, has done research on William Blake on five continents.
+She has lived with William Blake for 47 years, which is better than Catherine Blake did. But she is not so
+proficient with a pencil or a printing press as Catherine was.</p>
+        <p>G. E. Bentley, Jr. is completing <hi rend="i">The Stranger from Paradise</hi>, a biography of
+William Blake.</p>
+        <p>Claire Colebrook teaches in the Centre for Comparative Literature and Cultural Studies at Monash
+University. She is the author of <hi rend="i">New Literary Histories</hi> (1997) and <hi rend="i">Ethics and
+Representation</hi> (1999). She is also the co-editor of <hi rend="i">Deleuze and Feminist Theory</hi>
+(1999).</p>
+        <p>Angela Esterhammer is Associate Professor of English and Comparative Literature at the University
+of Western Ontario. She is the author of <hi rend="i">Creating States: Studies in the Performative Language of
+John Milton and William Blake. The Romantic Performative</hi> is forthcoming from Stanford University
+Press.</p>
+        <p>Nelson Hilton’s “Hymns and Blake’s <hi rend="i">Songs</hi>” appears in <hi rend="i">Blake
+in the Nineties</hi>, edited by Steve Clark and David Worrall and recently published by St. Martin’s
+Press.</p>
+        <p>David Perkins is Marquand Professor, Emeritus at Harvard University. He has published books and
+articles on romantic poetry, modern poetry, and other topics. He is currently at work on a book on 
+<hi rend="i">Romanticism and Animal Rights.</hi></p>
+        <p>Joe Riehl is Professor of English at the University of Southwestern Louisiana. He is at work, with
+Edwin Marrs, Jr., completing the remaining three volumes of <hi rend="i">The Letters of Charles and Mary Anne
+Lamb.</hi></p>
+      </div1>
+      <div1 id="BQ-33-1-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@uhura.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@uhura.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-33-1-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE / AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $55 for institutions, $30 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require a $10 per
+volume postal surcharge for surface, and $25 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030. Electronic submissions are encouraged. You may send a diskette, or you may send your article as an
+attachment to an email message. The optimal format is Microsoft Word. Other formats are usually
+acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi>
+	<note type="unreferenced" place="footer">© 1999 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

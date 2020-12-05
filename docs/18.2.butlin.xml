@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.2.butlin</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Two Blakes Reappear and Make Three</title>
+        <author n="Butlin">Martin Butlin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.2</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary V. Jackson</name>
+              <name>James McCord</name>
+              <name>Jerome J. McGann</name>
+              <name>Thomas L. Minnick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <body>
+	<pb id="p18-118" n="118"/>
+      <div1 id="BQ-18-2-0008">
+        <div2>
+          <head>
+            <title type="main">Two Blakes Reappear and Make Three</title>
+          </head>
+          <byline>
+            <docAuthor>Martin <name>Butlin</name></docAuthor>
+          </byline>
+          <p>Two Blake drawings listed in my <hi rend="i">Paintings and Drawings of William Blake</hi>, 1981,
+as untraced since 1949 have now reappeared in the United States. They are my no. 177, “Head of a Bearded Man
+in Profile, possibly from the Antique” (reproduced as Butlin pl. 214), and no. 592, “Satan between Two
+Angels (?)” (Butlin pl. 828). My last record for these drawings was that they were bought by the London
+booksellers Maggs at the Graham Robertson sale at Christie’s on 22 July 1949. It now appears that they were
+in the collection of the late Edward Dickinson of New York State whose widow sold them to Giuliano Ceseri;
+“Satan between Two Angels (?)” still belongs to him, while the other drawing has passed to his associate
+Joel L. Fletcher, also of Lafayette, Louisiana.</p>
+          <p>The exciting news is that when the later drawing was removed from its old mount a further
+drawings, similar in general composition but with the main figure in reverse, was found on the back.
+Unfortunately this new discovery does not help the present writer towards any closer identification of the
+subject, save that it does perhaps reinforce my first thought that the central, Orc-like figure is holding
+vials rather than the sun and the moon; some force or element seems to be projected from each of these towards
+the possibly demonic figures in the lower corners of the composition. Besides the parallels given in my
+catalogue entry there seem to be
+<pb id="p18-119" n="119"/>
+similarities with certain of the illustrations in <hi rend="i">Jerusalem</hi> and also to those of the
+unfinished illuminated copy of the Book of Genesis in the Huntington Library.</p>
+          <p>Thanks to fresh measurements given me (in centimeters)
+            <figure n="Verso.SatanBetweenTwoAngels.18.2.bqscan" rend="file" width="958" height="515">
+	<head>William Blake.</head>
+	<figDesc>Verso of “Satan between Two Angels(?).” (c. 1815-20?). Courtesy of Giuliano Ceseri.</figDesc>
+</figure>
+by Fletcher I am able to give slightly revised dimensions for the two drawings. No. 177 is 5 11/16 × 5 3/16
+in. (14.5 × 13.2 cm) and no. 592 is 4½ × 8¼ in. (11.4 × 20.6 cm.).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.carey</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake’s “Warring Angels”</title>
+        <author n="Carey">Frances Carey</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <pb id="p11-120-121" n="120-121"/>
+      <div1 id="BQ-11-2-0006">
+        <head>
+          <title type="section">
+            <hi rend="b">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">BLAKE’S “WARRING ANGELS”</title>
+          </head>
+          <byline>by <docAuthor>Frances <name>Carey</name></docAuthor></byline>
+          <p>A hitherto unknown drawing from the early part of Blake’s career appeared in a Christie’s
+sale on 3 August 1976, where it was purchased by Thos. Agnew and Sons, Ltd., who have included it in their
+104th exhibition of watercolors and drawings (17 January-18 February 1977, cat. no. 11). The composition on
+the recto, <hi rend="i">Warring Angels</hi> (illus. 1), is one of three versions of this subject, the other
+two belonging to the Tonner Collection, now in the Philadelphia Museum (64-110-6), and to the Graham Robertson
+Collection (no. 97 in the sale catalogue of 1947). A fourth drawing of the same subject is to be found in the
+British Museum (1874-12-12-140, 141); this is much later in date and should be associated with Blake’s
+illustrations to Young’s <hi rend="i">Night Thoughts</hi> rather than his “juvenilia.” Of the three early
+versions in question, Agnew’s drawing is the most fully developed composition and the Graham Robertson
+sketch, the most perfunctory. The subject matter is, itself, of interest, when seen in conjunction with a
+number of drawings from Lady Melchett’s collection (<hi rend="i">Lucifer and the Gods</hi>, Christie’s
+sale 9 November 1971, no. 78; <hi rend="i">Adam and Eve</hi>, Christie’s 9 November 1976, no. 78), which are
+proof of Blake’s intention to execute a series of Miltonic illustrations as early as c. 1780.</p>
+          <figure n="WarringAngels.11.2.bqscan" rend="file" width="958" height="685">
+            <head>1 Recto: Warring Angels c. 1780.</head>
+            <figDesc>Pen, ink and wash. 238 × 330 mm.</figDesc>
+          </figure>
+          <pb id="p11-122-123" n="122-123"/>
+          <figure n="AcademicStudies.11.2.bqscan" rend="file" width="958" height="702">
+            <head>2 Verso: Academic Studies.</head>
+            <figDesc>Pencil.</figDesc>
+          </figure>
+          <p>On the verso of the sheet are studies of a leg and foot (illus. 2) which probably relate to
+Blake’s student exercises at the Royal Academy, where he enrolled in 1779.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

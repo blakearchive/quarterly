@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.bentley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Sterne and Blake</title>
+				<author n="Bentley">G. E. Bentley, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0004">
+                <pb id="p02-64" n="64"/>
+                <div2>
+                    <head>
+                        <title type="main">2. Sterne and Blake</title>
+                    </head>
+                    <byline>
+                        <docAuthor>G. E. <name>Bentley</name>, Jr.</docAuthor> University of Toronto</byline>
+                    <p>There are few obvious connections between Blake and Sterne, beyond the fact that Blake
+made an engraving for <hi rend="i">Sentimental Journey</hi> in <hi rend="i">The Novelist’s Magazine</hi>,
+Volume IX (1782) and, according to his letter of 4 May 1804, hoped to make others from <hi rend="i">Tristram
+Shandy</hi> for Hayley’s <hi rend="i">Romney</hi> (1809). Certainly their imaginations appear to be pointed
+in quite different directions; the irrepressibly impulsive Yorick is difficult to picture in the same creative
+world as the titanic Los calling all his sons to the strife of blood.</p>
+                    <p>There is however, a passage from <hi rend="i">Sentimental Journey</hi> (1768) which
+seems to be echoed in Blake’s <hi rend="i">America</hi> (1793). In the chapter called “The Captive. Paris”
+Yorick relates how he heard a caged bird repeating pathetically “I can’t get out” and immediately 
+<pb id="p02-65" n="65"/>
+begun to figure to myself the miseries of confinement. . . . — I took a single captive, and having first
+shut him up in his dungeon, I then look’d through the twilight of his grated door to take his picture.</p>
+                    <p>I beheld his body half wasted away with long expectation and confinement, and felt what
+kind of sickness of the heart it was which arises from hope deferr’d. Upon looking nearer I saw him pale and
+feverish: <hi rend="u">in thirty years</hi> the western breeze had not once fann’d his blood — he had seen
+no sun, no moon in all that time — nor had the voice of friend or kinsman breathed through his lattice —
+his children—</p>
+                    <p>—But here my heart began to bleed — and I was forced to go on with another part of
+the portrait . . . <ref target="n1" type="note">1</ref>
+                        <note id="n1">
+                            <hi rend="s">1</hi> Lawrence Sterne, <hi rend="i">A Sentimental Journey through
+France and Italy</hi>, ed. G. D. Stout, Jr. (Berkeley &amp; Los Angeles, 1967), 201-202; the italics here and
+below are mine.</note>
+                    </p>
+                    <p>The passage on <hi rend="i">America</hi> plate 6 is as different as possible in
+character, but the imagined situation of the languishing prisoner is remarkably similar to Sterne’s. Orc is
+predicting the apocalypse:</p>
+					<q>
+The morning comes, the night decays, the watchmen leave their stations;<lb/>
+The grave is burst, the spices shed, the linen wrapped up.<lb/>
+The bones of death, the cov’ring clay, the sinews shrunk &amp; dry’d<lb/>
+Reviving shake, inspiring move, breathing! awakening!<lb/>
+Spring like redeemed captives when their bonds &amp; bars are burst;<lb/>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+Let the inchained soul shut up in darkness and in sighing,<lb/>
+Whose face has never seem a smile <hi rend="u">in thirty</hi> weary <hi rend="u">years</hi>;<lb/>
+Rise and look out, his chains are loose, his dungeon doors are open<lb/>
+And let his wife and children return . . .
+</q>
+                    <p>Probably the association is only one of coincidence, but it is in some respects a
+striking coincidence of minds which one might otherwise say were as different as imaginable.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

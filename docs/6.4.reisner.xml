@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.4.reisner</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="discussion">Songs of Innocence Copy U</title>
+                <author n="Reisner">Mary Ellen Reisner</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.4</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+        	<pb id="p06-96" n="96"/>
+            <div1 id="BQ-06-4-0003">
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">SONGS OF INNOCENCE</hi> COPY U</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="b">Mary Ellen</hi>
+                            <name>
+                                <hi rend="b">Reisner</hi>
+                            </name>
+                        </docAuthor>
+                    <ref target="n29" type="note">*</ref></byline>
+                    <p>In <hi rend="i">Blake Newsletter</hi> 21 (Summer 1972), p. 22, John E. Grant comments
+on my note (<hi rend="i">Blake Newsletter</hi> 19 [Winter 1971-72], p. 214) concerning the location of two
+copies of the <hi rend="i">Songs.</hi> Unfortunately, his strictures are misdirected. It is well known that
+Copy U of <hi rend="i">Songs of Innocence and of Experience</hi>, which once belonged to the White family, is
+now at Princeton, but this fact has no bearing on the whereabouts of Copy U of <hi rend="i">Songs of
+Innocence</hi>, the subject of my note. Since Keynes and Wolf list the location of the latter exemplar as
+Harvard, it is hardly “odd,” in Grant’s phrase, that I should have sought it there.</p>
+                    <p>My original note does, however, need correction. In a recent letter from Thomas E.
+Connolly to Morton D. Paley, a copy of which was forwarded to me, I learned that Connolly, after being told
+initially (as I was) that Copy U of <hi rend="i">Innocence</hi> was not at Harvard, later discovered that it
+was there after all but had not been catalogued.</p>
+                    <p>Whatever pertinence Grant’s reflections may have on the use made of Blake originals,
+by critics or by graduate students, no serious scholar would willingly forgo the study of originals in favor
+of reproductions, or consider any of the former expendable. <note id="n29">
+                            <hi rend="i">Mary Ellen Reisner teaches at the Université Laval, Québec. She is
+working on a book on Blake’s</hi> Songs.</note>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

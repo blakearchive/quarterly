@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.chapman</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake, Wollstonecraft, and the Inconsistency of Oothoon</title>
+        <author n="Chapman">Wes Chapman</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+      <pb id="p31-4" n="4"/>
+      <div1 id="BQ-31-1-0005">
+        <head>
+          <title type="section">ARTICLES</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake, Wollstonecraft, and the Inconsistency of Oothoon</title>
+          </head>
+          <byline>by <docAuthor>Wes <name>Chapman</name></docAuthor></byline>
+          <p>William Blake’s <hi rend="i">Visions of the Daughters of Albion</hi> has long been taken to be
+a response to Mary Wollstonecraft’s <hi rend="i">A Vindication of the Rights of Woman.</hi> Understanding
+Blake’s attitude towards Wollstonecraft is troublesome, however, because Blake’s attitude towards women in
+general has seemed so contradictory. Although some critics have taken Blake’s apparent affirmation of
+Wollstonecraft in <hi rend="i">Visions</hi> as a sign of his support for feminism—Mark Schorer, for example,
+claims that “the poem is a perfectly direct allegory of [Wollstonecraft’s] doctrines” (290)—Susan Fox,
+in an influential article, has argued that Blake’s conception in the prophetic works of “a perfection of
+humanity defined in part by the complete mutuality of its interdependent genders” is belied by his
+representation of women as either “inferior and dependent” or as “unnaturally and disastrously
+dominant” (507), a view that Anne Mellor confirms (passim). Alicia Ostriker shows up the problem nicely when
+she writes that there are in Blake’s work not one, but four different sets of attitudes towards gender and
+sexuality, indeed four Blakes: “the Blake who celebrates sexuality and attacks repression”; the Blake who
+“depicts sexual life as a complex web of gender complementarities and interdependencies”; the Blake,
+“apparently incompatible with Blake number one, who sees sexuality as a tender trap rather than a force of
+liberation”; and the Blake “to whom it was necessary, as it was to his patriarchal predecessor Milton, to
+see the female principle as subordinate to the male” (“Desire” 156).</p>
+          <p>Commendably, Ostriker does not try to resolve or reduce these contradictions, and I shall try to
+follow her example in this respect. But if these contradictions are irresolvable they are nonetheless
+comprehensible. Blake was sympathetic to Wollstonecraft’s condemnation of women’s oppression, at least at
+the time he wrote <hi rend="i">Visions of the Daughters of Albion</hi> (he was considerably less sympathetic
+in his later, more Miltonic works), but he was critical of the beliefs which underlay her argument,
+particularly her faith in reason and her distrust of sexuality. At the same time, Wollstonecraft’s critique
+of male sensualism posed a strong challenge to his own sexual ideologies, a challenge he could neither ignore
+nor fully reconcile with his own beliefs. Conflicted as he was, Blake anticipated the crucial problems men
+have had in responding to feminism, constructively or otherwise. In the end, I will argue, Blake decentered a
+woman-centered undertaking, appropriating parts of it for his own political purposes and projecting upon it
+his own reimaginations of female character.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Wollstonecraft’s Enlightenment Principles and Sexuality</hi>
+              </title>
+            </head>
+            <p>The opening pages of Wollstonecraft’s <hi rend="i">Vindication of the Rights of Woman</hi>
+situate Wollstonecraft’s polemic squarely in the mainstream of Enlightenment thinking, while emphasizing
+certain terms above others. She argues that “[in] the present state of society it appears necessary to go
+back to first principles in search of the most simple truths, and to dispute with some prevailing prejudice
+every inch of the ground” (81). The return to “first principles” to counter “prevailing prejudice”
+is characteristic of writings in Wollstonecraft’s political tradition—of Rousseau, particularly, who,
+finding that “our wisdom is slavish prejudice, our customs consist in control, constraint, compulsion”
+(<hi rend="i">Émile</hi> 10), turns back to nature, “which never lies” (<hi rend="i">Discourse on
+Inequality</hi> 10), as the foundation for his political philosophy. Yet Wollstonecraft, in her exposition of
+“first principles,” does not allude explicitly to nature. She has not abandoned the concept of nature as a
+grounding for the truth of her discourse; references to nature and “natural” states abound in her work.
+But she de-emphasizes nature as a first principle, placing the emphasis instead on reason, virtue and
+knowledge. The three are carefully linked together: knowledge with reason, in that reason establishes
+“man’s pre-eminence over the brute creation” while knowledge is “denied to the brutes”; both are
+enlisted in the struggle with passion (the passions were implanted so that “man by struggling with them
+might attain a degree of knowledge denied to the brutes”) and so are aligned with virtue (81). In part,
+Wollstonecraft, knowing full well that any challenge to conventional gender roles would ensure a counterattack
+on her sexual morality—and indeed, as Alicia Ostriker points out, the <hi rend="i">Anti-Jacobin Review</hi>
+called the <hi rend="i">Rights of Woman</hi> “a scripture, archly fram’d, for propagating whores” (rev.
+of Todd 130)—is establishing the moral high ground. But more specifically this fiercely impeccable
+triumvirate of first principles sets her up to attack Rousseau, whose notorious anti-feminism needed to be
+answered, since he was a major figure in her own radical tradition. In Book V of <hi rend="i">Émile</hi>
+Rousseau had claimed to be arguing from nature when he deduced that “woman is specially made for man’s
+delight” (322); rather than pursue Rousseau onto the same ground, which would lead to an irresolvable
+dispute over what was “natural,” Wollstonecraft argues that Rousseau’s conception of the natural leads
+him to an inconsistent conception of virtue.</p>
+            <p>In attacking Rousseau, Wollstonecraft aligns herself with conventional sexual morality and
+against sensual pleasure. Conceding that men have greater physical strength, she warns that men’s claims to
+further superiority are founded not on rational argument but on interested sensuality: “not
+<pb id="p31-5" n="5"/>
+content with this natural pre-eminence, men endeavour to sink us still lower, merely to render us alluring
+objects for a moment” (74). She counts upon her audience to condemn such men who succumb to the “influence
+of the senses” and to the women who are “intoxicated” by their adoration (74). Aligning herself with
+conventional morality in this way, Wollstonecraft, far from exempting women from her criticism, condemns them
+too for their own sensual short-sightedness. She likens them repeatedly to courtiers, who accept servility as
+the price of attendant power and pleasure. “<hi rend="i">Men</hi> have submitted to superior strength to
+enjoy with impunity the pleasure of the moment,” she says, referring to “the courtier, who servilely
+resigns the birthright of a man”; she continues, “<hi rend="i">women</hi> have only done the same”
+(106). The remark cuts two ways. On the one hand, she is alluding to the common radical argument that the
+natural reason of members of the aristocracy was corrupted by power and luxury, and thus implies that women
+who do not act like rational and morally responsible people do so because they too are corrupted by their
+upbringing in and treatment by society. On the other hand, her language tends to support the stereotype of
+women as frivolous and irrational beings. As Cora Kaplan says of a similar passage, the language of her
+analysis of gender inequality is “more innovatory, less secure, and less connotative than the metaphorical
+matrix used to point and illustrate it. As a consequence, there is a constant slippage back into a more
+naturalized and reactionary view of women, and a collapse of the two parts of the metaphors into each other”
+(43).</p>
+            <p>Whereas Rousseau had treated the alleged irrationality and frivolity of women as women’s
+natural condition, however, Wollstonecraft attributes these qualities to false education:
+<q>
+The conduct and manners of women, in fact, evidently prove that their minds are not in a healthy state; for,
+like the flowers which are planted in too rich a soil, strength and usefulness are sacrificed to beauty. . . .
+One cause of this barren blooming I attribute to a false system of education, gathered from the books written
+on this subject by men who, considering females rather as women than human creatures, have been more anxious
+to make them alluring mistresses than affectionate wives and rational mothers. . . . (73)
+</q>
+In twentieth-century terms, Wollstonecraft is arguing that gender has been socially constructed;<supplied
+type="spacer"> </supplied><ref target="n1" type="note">1</ref> but she does so from a late eighteenth-century
+standpoint, with eighteenth-century assumptions. She avoids the specifically sexual biological essentialism of
+Rousseau (although the flower metaphor implies that there is a “healthy” female self, Wollstonecraft does
+not imply that we can know what it is),<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> but in place of sexual essence she posits a human essence and a moral 
+<hi rend="i">telos.</hi> The essence of all humanity is reason; that is what establishes humanity’s
+“pre-eminence over the brute creation” (81); and the end of reason, its purpose, is to lead its possessor
+to virtue. That “the civilized women of the present century, with a few exceptions, are only anxious to
+inspire love” is only partly a political problem, a subordination of women to male desire; it is at the same
+time, and perhaps for Wollstonecraft more importantly, a moral problem, resting upon the assumption that
+“they ought to cherish a nobler ambition, and by their abilities and virtues exact respect” (73)—which
+is after all perfectly conventional morality; Wollstonecraft’s radicalism lies in the fact that she is
+willing to take that morality seriously as a guideline for the behavior of both men and women. So, in the
+dedication to Talleyrand-Périgord which prefaces <hi rend="i">Rights of Woman</hi>, she writes that in
+“[c]ontending for the rights of women, my main argument is built on this simple principle, that if she be
+not prepared by education to become the companion of man, she will stop the progress of knowledge and
+virtue” (66). <note id="n1"><hi rend="s">1</hi> Cora Kaplan makes this point in her discussion of
+Wollstonecraft (46).</note>
+	<note id="n2"><hi rend="s">2</hi> So, for instance, when she does speculate on the respective positions of
+the sexes in a society in which women were properly educated, she only does so ambiguously: “when morality
+shall be settled on a more solid basis, then, without being gifted with a prophetic spirit, I will venture to
+predict that woman will be either the friend or the slave of man” (104).</note></p>
+            <p>Virtue—not liberty, or equality—is the end of Wollstonecraft’s argument, its final cause.
+Building her argument around virtue allows her to sidestep, at least temporarily, the highly charged and
+overdetermined problem of the nature of men and women. Having accepted the conventional assessment of female
+behavior, Wollstonecraft must explain it; she finds an explanation right at hand, in radical arguments about
+the corruption of human nature in society. But those arguments, particularly in Rousseau, depend upon a
+conception of a “natural” self, dangerous ground, since the prevailing arguments over what were
+“natural” gender differences were by no means in her favor. To argue from nature directly, as Rousseau had
+done, would be to argue from diversity, the plenitude of creation, and thus for a potential validation of
+double standards; to found her argument on virtue is to argue for a single moral essence, and thus for a
+repudiation of all double standards. Thus she attacks Rousseau not for his assessment of women, but for his
+relativism: “If women are by nature inferior to men, their virtues must be the same in quality, if not in
+degree, or virtue is a relative idea; consequently, their conduct should be founded on the same principles,
+and have the same aim” (94-95).</p>
+            <p>Brilliant as this strategy is, she adopts it at a terrible cost. As Kaplan points out, in
+defining her position against male
+<pb id="p31-6" n="6"/>
+sensuality, Wollstonecraft repudiates female sexuality as well (35ff.); in arguing for better education for
+women, she confirms contemporary prejudices against women that no twentieth-century feminism would find
+tenable. In sum, she denies sexual difference—“the first object of laudable ambition,” she writes, “is
+to obtain a character as a human being, regardless of the distinction of sex” (75)—which in effect
+valorized the value systems of contemporary male-dominated society, even as it tried to apply those value
+systems consistently. Her valorization of reason and virtue aligned feminism with the successful revolutionary
+ideologies of the era, but it also led her to assume a male norm, and it affirmed the conventional morality
+that for a century and a half would be used to condemn her and her work.</p>
+            <p>It also proved extremely difficult to live by during the years surrounding Wollstonecraft’s
+composition of <hi rend="i">Rights of Woman</hi>, as Blake might have seen in Wollstonecraft’s relationship
+with Henry Fuseli.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> William Godwin, in
+the <hi rend="i">Memoirs of Mary Wollstonecraft</hi>, describes Wollstonecraft’s relationship with Fuseli as
+one which forced Wollstonecraft to come to terms with the potential conflict between reason and sexual desire.
+As Godwin describes it, Wollstonecraft’s pleasure in the relationship conflates intellect with sensation and
+emotion: “Mary was not of a temper to live upon terms of so much intimacy with a man of merit and genius,
+without loving him,” he writes. “The delight that she enjoyed in his society, she transferred by
+association to his person” (60), as if the origin of her sexual feelings were, naturally enough, Fuseli’s
+intellect. Thus far, the relationship—at least as Godwin describes it—seems to follow the principle that
+Wollstonecraft purportedly laid down for herself, “that the imagination should awaken the senses, and not
+the senses the imagination” (61). As it developed, however, sense and sensibility became harder to
+reconcile. Although Godwin writes that Wollstonecraft “scorned to suppose, that she could feel a struggle,
+in conforming to the laws she should lay down to her conduct” (61), clearly she did feel such a struggle. At
+least, her codes of sexual conduct began to change: presumably in deference to the tastes of Fuseli, who
+disliked women with the appearance of a “philosophical sloven” (Knowles 164), Wollstonecraft began to
+dress more fashionably, discarding her old black dress and powdering her hair (Ferguson and Todd 12, Knowles
+164-166). “She began to think,” writes Godwin,
+<q>
+that she had been too rigid, in the laws of frugality and self-denial with which she set out in her literary
+career; and now added to the neatliness and cleanliness which she had always scrupulously observed, a certain
+degree of elegance, and those temperate indulgences in furniture and accommodation, from which a sound and
+uncorrupted taste never fails to derive pleasure. (62)
+</q>
+“Temperature indulgences” they no doubt were, but Godwin’s haste to assure the reader of
+Wollstonecraft’s—and Godwin’s own—“sound and uncorrupted taste” shows the effort required to
+reconcile sensual pleasure of any kind or degree with accepted English Jacobin principles. Such a
+reconciliation must have been much more difficult for Wollstonecraft, to whom sexual morality was always a
+more central concern than it was to Godwin, and who, as a woman, was under far more pressure to conform to the
+conventional sexual code. <note id="n3"><hi rend="s">3</hi> For discussion of <hi rend="i">Visions of the
+Daughters of Albion</hi> as reference to Wollstonecraft and Fuseli, see Hilton, Ostriker (rev. of Todd), and
+Wasser.</note></p>
+            <p>Eventually, according to Godwin, the strain of having to reconcile her morality with her
+feelings became intolerable to Wollstonecraft, and to avoid Fuseli’s company she fled to France. What Godwin
+does not record is the sequence of events leading up to Wollstonecraft’s departure. According to John
+Knowles, Fuseli’s biographer, Wollstonecraft—believing that “although Mrs. Fuseli had a right to the
+person of her husband, she, Mrs. Wollstonecraft might claim, and, for congeniality of sentiments and talents,
+hold a place in his heart, for ‘she hoped,’ she said, ‘to unite herself to his mind’”
+(165)—proposed to the Fuselis that she move in with them in a non-sexual menage á trois (Knowles 167). That
+Wollstonecraft herself did not see this arrangement as immoral is evident, for when Fuseli warned her of
+“the impropriety of indulging in a passion that took her out of common life,” she replied, “If I thought
+my passion criminal, I would conquer it, or die in the attempt. For immodesty, in my eyes, is ugliness; my
+soul turns with disgust from pleasure tricked out in charms which shun the light of heaven” (Knowles
+167).</p>
+            <p>Godwin’s reliability as a character witness may be doubted,<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> and Knowles surely had his friend Fuseli more at heart than
+Wollstonecraft. But the picture of Wollstonecraft during this era in her life that emerges from their accounts
+is fairly consistent with the persona of <hi rend="i">Rights of Woman</hi>—a picture of a highly principled
+woman who believed fervently in reason and distrusted sexuality, who either found her exaltation of mind over
+body unsatisfying in her relationship with Fuseli, according to Godwin, or found her society unwilling to
+accept her personal fusion
+<pb id="p31-7" n="7"/>
+of the intellectual and the sexual (or sublimation of the sexual into the intellectual), according to Knowles;
+whose Enlightenment belief in reason, that is, failed her when she tried to live by it. 
+<note id="n4"><hi rend="s">4</hi> Godwin frequently uses Wollstonecraft as a foil for his own self-image. For example, he writes
+that “Mary and myself perhaps each carried farther than to its common extent the characteristic of the sexes
+to which we belonged” (131), which gives him occasion to describe, at some length, his self-reported “love
+of intellectual distinction” (131), as opposed to Wollstonecraft’s particular strengths, which he takes to
+be “feeling,” a “sensitive and generous spirit . . . left to the spontaneous exercise of its own
+decisions,” and “the warmth of her heart,” which “defended her against artificial rules of judgment”
+(132).</note></p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Oothoon’s Contradictory Character</hi>
+              </title>
+            </head>
+            <p>The first word of the <hi rend="i">Visions of the Daughters of Albion</hi>, “ENSLAV’D,”
+if read in intertextual juxtaposition with the <hi rend="i">Rights of Woman</hi>, calls attention to the
+problematic position of its feminist protagonist, Oothoon:<supplied type="spacer"> </supplied><ref target="n5"
+type="note">5</ref><q>
+ENSLAV’D, the Daughters of Albion weep: a trembling lamentation<lb/>
+Upon their mountains; in their valleys, sighs towards America.<lb/>
+(<hi rend="i">VDA</hi> 1:1-2)<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref>
+	<note id="n5"><hi rend="s">5</hi> In calling into question Oothoon’s reliability, I am following the
+general trend of a number of articles of the past decade. As Thomas Vogler has written, until recently Oothoon
+was taken “as the speaker of a prophetic Truth that would transform the world, if only Theotormon would
+listen to her and act accordingly” (271). Recent critics, however, have challenged that view. Mark Anderson
+finds that Oothoon fails to achieve the prophetic stance that Blake was seeking to define, because she “ends
+by seeing her freedom but failing to know it: she sees through Urizen’s morality to the potential eternity
+in the moment of desire, but cannot realize it while she continues to depend on Theotormon rather than on
+herself for her liberation” (14). David Aers, while still holding up Oothoon, with “so clear a
+revolutionary critique of sexual and social exploitation” and “so full an understanding of the
+psychological effects and perverted indulgences of repressed sexuality,” as one who is “able to transcend
+the consciousness of her fellow women <hi rend="i">absolutely</hi>,” treats the clarity of her understanding
+as an undialectical mistake—“the illusion [of] assuming that revolutionary consciousness can ever be as
+uncontaminated by dominant structures as Oothoon’s appears to be” (31). In writing 
+<hi rend="i">Visions</hi>, Blake came to see “the need for deepening his sexual dialectic to include the notion
+of ‘female will,’ casting out the vestiges of delusions about consciousness as free from all the effects
+of the system against which it is struggling” (32). Nelson Hilton goes further, arguing that “in
+suggesting that ‘conversing with shadows dire’ represents Theotormon’s involvement with his own
+narcissistic projections, the closing lines put forward the depressing possibility that <hi rend="i">Oothoon
+herself is one of those projections</hi>: herself, to repeat, ‘a solitary shadow wailing on the margin of
+non-entity’” (102). Vogler’s view is similar; he argues that “[a]s a representation of speaking woman,
+[Oothoon] serves conveniently as a ventriloquating mirror for acts of narcissistic self-completion on the part
+of those male readers who like to have their truths of feminine desire come out of the mouths of
+‘women’” (300). Harriet Kramer Linkin, on the other hand, challenges these negative views of Oothoon,
+arguing that the narrator’s pessimistic view of Oothoon’s stasis at the end of the poem is called into
+question by the illustrations that accompany the poem and that Oothoon’s experience throughout the poem is
+“ultimately progressive rather than degenerative” (185). I agree with Linkin that Oothoon progresses
+towards prophetic status in the poem, but to me this only shows up the disjunction between her visionary power
+and her complicity with her oppressors.</note>
+	<note id="n6"><hi rend="s">6</hi> All references to Blake’s work are from <hi rend="i">The Complete Poetry
+and Prose of William Blake</hi>, ed. David V. Erdman, (Berkeley: U of California P, 1982). References to 
+<hi rend="i">The Marriage of Heaven and Hell</hi> are cited as <hi rend="i">MHH</hi>, followed by the plate
+number; references to <hi rend="i">Visions of the Daughters of Albion</hi> are cited as <hi rend="i">VDA</hi>,
+followed by plate and line numbers; other references are cited as <hi rend="i">E</hi> followed by the page
+number.</note></q>
+As Nelson Hilton points out, slavery is “the master trope of the <hi rend="i">Vindication.</hi>”<supplied
+type="spacer"> </supplied><ref target="n7" type="note">7</ref> Women are slaves, for Wollstonecraft, not only
+because they have no freedom but because, in their lack of freedom, they come to accept the values of their
+oppressors. Just as one cannot “expect virtue from a slave, from a being whom the constitution of civil
+society has rendered weak, if not vicious,” so “it will also require some time to convince women that they
+act contrary to their real interest on an enlarged scale, when they cherish or affect weakness under the name
+of delicacy” (116). Blake uses the image similarly in <hi rend="i">Visions of the Daughters of Albion</hi>:
+the “swarthy children of the sun,” says Bromion, “are obedient, they resist not, they obey the scourge:
+/ Their daughters worship terrors and obey the violent” (<hi rend="i">VDA</hi> 1:21-23). Bromion’s concern
+in these lines is to establish his control over Oothoon, but his words describe aptly the condition we now
+call “identification with the oppressor.” The opening lines of <hi rend="i">Visions</hi>, then,
+immediately raise the issue of perspective. If one cannot “expect virtue from a slave”—nor expect,
+presumably, self-knowledge—then how does a slave come to know his or her own position, and speak truthfully
+about it once it is known? Oothoon is not one of the Daughters of Albion, but she is a woman, and like them is
+bound by her oppressors; we should expect her analysis of her own bondage to reflect to some extent her
+oppressors’ thinking. Moreover, she is the “soft soul of America,” and as such is a figure for imperfect
+liberation. <hi rend="i">Visions</hi> was printed fewer than 20 years after the beginning of the American
+Revolution, the full effects of which were only beginning to be felt in France. In <hi rend="i">America a
+Prophecy</hi>, printed in the same year as <hi rend="i">Visions</hi>, America is the birthplace of Orc, the
+spirit of Revolution. So the Daughters’ “sighs towards America” reflect their desire for liberation, and
+Oothoon’s identification as the “soft soul of America” suggests that Oothoon is a liberator figure; yet
+in the context of these opening lines, with their reference to slavery, America carries a very different
+meaning as well, because America was a country in which slavery was thriving. America had thrown off its old
+English fetters but had not ceased forging new ones.<supplied type="spacer"> </supplied><ref target="n8"
+type="note">8</ref>
+	<note id="n7"><hi rend="s">7</hi> See Hilton for a partial listing of references to slavery in the 
+<hi rend="i">Vindication</hi>, with particular emphasis on images of slavery to the senses.</note>
+	<note id="n8"><hi rend="s">8</hi> For discussion of <hi rend="i">Visions of the Daughters of Albion’s</hi>
+debt to the abolitionist movement, see Erdman, <hi rend="i">Prophet Against Empire.</hi> By the time he came
+to write <hi rend="i">Visions</hi>, Blake had engraved the illustrations for John Stedman’s 
+<hi rend="i">Narrative of an Expedition against the Revolted Negroes of Surinam</hi>, so he was well acquainted
+with the issue.</note></p>
+            <p>Oothoon is not strictly a representation of Wollstonecraft; but she is caught, as Blake might
+have thought Wollstonecraft was caught, in the disjunction between her sexual feelings and her intellectual
+allegiances. The Argument to the poem shows the quandary Oothoon is in:
+<pb id="p31-8" n="8"/>
+	<q>
+I loved Theotormon<lb/>
+And I was not ashamed<lb/>
+I trembled in my virgin fears<lb/>
+And I hid in Leutha’s vale!<lb/>
+(<hi rend="i">VDA</hi> iii: 1-4)
+</q>
+This deceptively simple lyric reveals some contradictions in Oothoon’s attitude towards sexuality. Although
+Oothoon alleges that she is “not ashamed” of her love for Theotormon, she “tremble[s] in [her] virgin
+fears / And [hides] in Leutha’s vale.” We might recall Wollstonecraft’s words to Fuseli: “If I thought
+my passion criminal, I would conquer it, or die in the attempt. For immodesty, in my eyes, is ugliness; my
+soul turns with disgust from pleasure tricked out in charms which shun the light of heaven” (Knowles
+167)—a declaration, like Oothoon’s love, not at all ashamed, yet from the point of view of someone like
+Blake, a fervent if troubled believer in sexuality, strangely contradictory. Wollstonecraft defends what she
+explicitly calls her “passion,” yet her most ardent language is reserved for her “disgust [with]
+pleasure tricked out in charms which shun the light of heaven,” language not of the passionate lover but of
+the moralist.</p>
+            <p>Blake might have found Wollstonecraft’s attitude towards modesty in general contradictory, in
+fact, for in the <hi rend="i">Rights of Woman</hi> she at once eulogizes and condemns it. Modesty can be
+“purity of mind, which is the effect of chastity” (191): “something nobler than innocence, [modesty] is
+the delicacy of reflection, and not the coyness of ignorance. . . . so far from being incompatible with
+knowledge, it is its fairest fruit” (192). Yet as it is practiced in society, it can be the opposite of
+purity: “the modesty of women, characterized as such, will often be only the artful veil of wantonness
+instead of being the natural reflection of purity” (265). Wollstonecraft does distinguish the two kinds of
+modesty; the modesty which is purity of mind is a non-sexual virtue, practised for its own sake, while the
+modesty which is wantonness is a standard of propriety to which only women are subject, practiced solely to
+protect reputation. But the boundary between the two kinds of modesty sometimes blurs disconcertingly, as in
+the chapter titled “Modesty.—Comprehensively Considered, and Not as a Sexual Virtue”:
+<q>
+Modesty! Sacred offspring of sensibility and reason!—true delicacy of mind!—may I unblamed presume to
+investigate thy nature, and trace to its covert the mild charm, that mellowing each harsh feature of a
+character, renders what would otherwise only inspire cold admiration—lovely!—Thou that smoothest the
+wrinkles of wisdom, and softenest the tone of the sublimest virtues till they all melt into humanity;—thou
+that spreadest the ethereal cloud that, surrounding love, heightens every beauty, it half shades, breathing
+those coy sweets that steal into the heart, and charm the senses—modulate for me the language of persuasive
+reason, till I rouse my sex from the flowery bed, on which they supinely sleep life away! (191)
+</q>
+This eulogy of modesty borders on parody: the language of the passage, with its archaic thou’s, and its
+extravagant—even romantic—metaphors and personifications, align the passage with the “turgid bombast of
+artificial feelings” and “flowery diction” she condemns in the introduction, the “pretty
+superlatives” which, “dropping glibly from the tongue, vitiate the taste, and create a kind of sickly
+delicacy that turns away from simple unadorned truth” (76). Modesty acts in the passage as a kind of
+non-specific cosmetic, “smooth[ing] the wrinkles of wisdom,” “soften[ing] the tone of the sublimest
+virtues,” “breathing those coy sweets that steal into the heart and charm the senses,” more like “the
+artful veil of wantonness” Wollstonecraft condemns than the “purity of mind” she praises. Nevertheless,
+one cannot take the passage wholly as parody: “true delicacy of mind,” in the passage above, foreshadows
+“purity of mind, or that genuine delicacy which is the only virtuous support of chastity” and the
+“delicacy of reflection” which is “nobler than innocence” in her later, serious discussion of modesty
+as a non-sexual virtue (192). It is not so much that there are two kinds of modesty, as that modesty itself
+has an ambivalent character. As the “offspring of sensibility and reason,” it may live up or down to its
+parents’ respective reputations.</p>
+            <p>Blake was not one to praise modesty, even ambivalently, nor was he a friend to conventional
+morality generally. Therefore the Oothoon of the Argument, though she is “not ashamed,” still
+“tremble[s] in [her] virgin fears” and hides in Leutha’s vale. Leutha’s vale is a land of delusion; in
+a fragment intended for <hi rend="i">America</hi>, when “In vain the dreamer grasps the joyful images,”
+the images “fly / Seen in obscured traces in the Vale of Leutha” (<hi rend="i">E</hi> 59). (The
+possibility that Oothoon has changed is discussed below.) In <hi rend="i">Europe</hi>, Leutha is one of
+Enitharmon’s daughters, the “lureing bird of Eden,” whose description echoes the language of
+Wollstonecraft’s description of corrupt female sensuality:
+<q>
+Soft soul of flowers Leutha!<lb/>
+Sweet smiling pestilence! I see thy blushing light:<lb/>
+Thy daughters many changing,<lb/>
+Revolve like sweet perfumes ascending O Leutha silken queen!<lb/>
+(<hi rend="i">E</hi> 65)
+</q>
+As in Wollstonecraft’s <hi rend="i">Rights of Woman</hi>, images and adjectives associated with conventional
+femininity—“soft soul of flowers,” “sweet smiling,” “blushing,” “sweet perfumes,” and
+“silken”—are linked with corrupt aristocracy, the “queen” who is a “pestilence.” Modesty here,
+represented by Leutha’s blushing, is unequivocally an “artful veil of wantonness.” For Oothoon to hide
+in Leutha’s vale, then, is for her to indulge in the self-deluding, deceitful sensualism Wollstonecraft
+condemns in her work. She does so, too, not in spite of her morality but because of it, for it is
+<pb id="p31-9" n="9"/>
+her “virgin fears” that drive her to Leutha’s vale in the first place.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref>
+	<note id="n9"><hi rend="s">9</hi> That for Blake this kind of sensualism is compatible with conventional
+morality is made clear in <hi rend="i">Europe</hi> by the figure of Enitharmon herself, who, desiring that
+“Woman, lovely Woman! may have dominion” (<hi rend="i">E</hi> 62), is the archetype of feminized
+aristocracy, or, since the images work two ways, female tyranny. She tyrannizes by encouraging moralistic
+judgments upon sexuality: she asks Rintrah to “. . . tell the human race that Womans love is Sin!. . . /
+Forbid all Joy, &amp; from her childhood shall the little female / Spread nets in every secret path” 
+(<hi rend="i">E</hi> 62).</note></p>
+            <p>Although Oothoon brings an ambivalent attitude towards sexuality with her to the sexual act,
+she is not the source of that ambivalence: the source is the “terrible thunders” that tear her “virgin
+mantle in twain.” The tearing of the mantle is a figure for rape, but it is also a figure for doubleness;
+the problem all along has been that the “virgin mantle” is torn “in twain,” i.e., that sexual morality
+is ambivalent, paradoxical: modesty is wantonness; “virgin fears” lead to Leutha’s vale, home of the
+“lureing bird of Eden.” But the “virgin mantle” is torn “in twain” <hi rend="i">after</hi> Oothoon
+plucks the flower and “[rises] up from the vale”; the contradictory assumptions Oothoon brings to the
+sexual act are caused by or at least confirmed by the aftermath of that act, a temporal incongruity that
+points out the destructive circularity of sexual codes. Conventional morality’s condemnation of sexuality is
+internalized by the individual, for whom sexuality is inevitably compromised; sexuality then becomes the
+destructive force it is assumed to be, and the cycle starts all over again. As Blake writes in 
+<hi rend="i">The Marriage of Heaven and Hell</hi>, “Prisons are built with stones of law, brothels with bricks
+of religion” (<hi rend="i">MHH</hi> 8).</p>
+            <p>The “terrible thunders” that tear the mantle are the acts and ideologies of Bromion and
+Theotormon. Bromion is the most obvious oppressor, if not finally the most dangerous. He is a rapist, who
+after raping Oothoon, brands his victim as “Bromions harlot” (<hi rend="i">VDA</hi> 2:1). He is a slave
+owner and an imperialist, who will reproduce in the new lands he seeks to conquer the evils of his own
+civilization, because he forces the multiplicity of existence to match up with his own narrow set of
+assumptions; he enforces “one law for both the lion and the ox” (<hi rend="i">VDA</hi> 4:22), and, as we
+know from <hi rend="i">The Marriage of Heaven and Hell</hi>, “One Law for the Lion &amp; Ox is Oppression”
+(<hi rend="i">MHH</hi> 24). But Theotormon, whom Oothoon loves, is at least as much her oppressor as Bromion.
+Theotormon is a moralist whose sense of shame and sin torments him, and spuriously justifies his torment of
+others. Whereas Bromion takes pleasure directly from the exercise of power and the acquisition of “riches
+and ease,” Theotormon takes pleasure from his self-righteous sorrow over sin and suffering, suffering which
+his religiosity only increases. Indeed, the text suggests that his religious sufferings are really a corrupt
+form of sexual enjoyment. After THeotormon rolls his waves around Bromion and Oothoon in Bromion’s cave, he
+weeps at the cave’s mouth; beneath him sound the “voice of slaves beneath the sun, and children bought
+with money” who “shiver in religious caves beneath the burning fires / Of lust, that belch incessant from
+the summits of the earth” (<hi rend="i">VDA</hi> 2:8-10). The slaves and children are “beneath”
+Theotormon; they are also “beneath” the fires of lust, implying that Theotormon, although he condemns and
+spurns Oothoon, is within those fires. His repressed desires “belch incessant from the summits of the
+earth,” taking the form of what Oothoon will call, by the end of the poem, the “self enjoyings of self
+denial”:
+<q>
+the youth shut up from<lb/>
+The lustful joy, shall forget to generate, &amp; create an amorous image<lb/>
+In the shadows of his curtains and in the folds of his silent pillow.<lb/>
+Are not these the places of religion? the rewards of continence?<lb/>
+The self enjoyings of self denial?<lb/>
+(<hi rend="i">VDA</hi> 7:3-9)
+</q>
+Theotormon’s weeping is, in effect, a form of masturbation, a way of creating an “amorous image” in the
+secret “places of religion,” and a particularly sado-masochistic form of masturbation at that; it feeds
+off suffering, both the “self denial” of the masturbator and the more genuine sufferings of those it
+condemns.</p>
+            <p>Oothoon at least has the decency not to weep, and is in general more honest and less corrupt
+than Theotormon; but her love for Theotormon drives her to a similar kind of behavior.
+<q>
+Oothoon weeps not: she cannot weep! her tears are locked up;<lb/>
+But she can howl incessant writhing her soft snowy limbs.<lb/>
+(<hi rend="i">VDA</hi> 2:12-13)
+</q>
+Bloom argues that Oothoon’s writhing is not a form of suffering, but of sexual arousal (Bloom 106, 
+<hi rend="i">E</hi> 901). The context of the line confirms this; this description immediately follows the passage
+describing Theotormon’s masturbatory weeping in the fires of lust, and the image of Oothoon, with her
+“soft snowy limbs,” is itself sexualized. Her own “self enjoyings,” however, take the form not of
+solipsistic weeping, but of a masochistic desire for purification at the hands of “Theotormons Eagles.”
+<q>
+I call with holy voice! kings of the sounding air,<lb/>
+Rend away this defiled bosom that I may reflect.<lb/>
+The image of Theotormon on my pure transparent breast.<lb/>
+(<hi rend="i">VDA</hi> 5:14-16)
+</q>
+	<pb id="p31-10" n="10"/>
+Blake’s punctuation, though frequently baffling to me, sometimes tells; here, the full stop after
+“reflect” makes one read that word in two ways.<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref> Read as the end of a sentence consisting of the first two lines, “reflect” means
+something like “cogitate.” Wollstonecraft uses the word “reflect” often in this sense, most tellingly
+when she writes about modesty: modesty “is the delicacy of reflection, and not the coyness of ignorance. . .
+. so far from being incompatible with knowledge, it is its fairest fruit” (192); or later, “modesty, being
+the child of reason, cannot long exist with the sensibility which is not tempered by reflection” (200). In
+these passages, as indeed throughout the <hi rend="i">Rights of Woman</hi>, reflection is the exercise of
+reason. If “reflect” is read in this way, the first two lines of the passage quoted above summarize
+Wollstonecraft’s <hi rend="i">Rights of Woman</hi>: Wollstonecraft calls for an end to the corruption of
+women by a partial education in a partial society, in order that women may take their place as reasoning
+creatures (“rend away this defiled bosom that I may reflect,” says Oothoon). Likening Oothoon to
+Prometheus (a likeness reinforced by Blake’s illustration in plate 6, in which Oothoon’s arms are thrown
+back, as if bound, while an eagle tears at her abdomen), the lines imply that such a call requires courage and
+imagination. But the Promethean sacrifice seems somehow less noble if it is self-inflicted; in context,
+following immediately upon the image of Theotormon’s masturbatory sorrow, Oothoon’s call to the eagles
+looks suspiciously like another form of the “self enjoyings of self denial.” In other words, “to
+reflect,” in the sense of “to reason,” is also to “reflect,” in the sense of “to mirror,” and
+specifically to mirror Theotormon’s image: to “reflect. / The image of Theotormon on my pure transparent
+breast.” Oothoon’s struggle with her oppressors is a noble one, and is depicted as such, but it is doomed
+to fail so long as she desires to “reflect,” and above all to reflect the image of Theotormon, i.e., so
+long as she valorizes reason and internalizes conventional morality’s sado-masochistic standards of purity.
+Loving Theotormon, Oothoon has internalized the values of her oppressors, and is bound to them. Thus
+Theotormon binds Oothoon to her more obvious oppressor Bromion: after the rape, and after Bromion calls
+Oothoon “Bromions harlot,” Theotormon “fold[s] his black jealous waters round the adulterate pair /
+Bound back to back in Bromions cave terror &amp; meekness dwell” (<hi rend="i">VDA</hi> 2:4-5). 
+<note id="n10"><hi rend="s">10</hi> The edition of <hi rend="i">Visions</hi> (copy G) in <hi rend="i">The Early
+Illuminated Books</hi> has a comma after “reflect” (250) rather than a full stop; my argument remains the
+same for both versions.</note></p>
+            <p>I have dwelt long upon the complicity of Oothoon with her oppressors, because I want to
+emphasize what seems to me a fundamental disjunction in the poem between the position from which Oothoon
+speaks and what she actually says. The body of the poem has three parts, each ending with the line, “The
+Daughters of Albion hear her woes, and eccho back her sighs.” The first part tells the action of the story:
+Bromion rapes Oothoon and Oothoon calls Theotormon’s Eagles to her. In the second part, Oothoon, Theotormon
+and Bromion each speak; in the third, Oothoon alone speaks. Counting the Argument, then, there are four parts.
+The first two, the Argument and the narration of events, call into question the political reliability of
+Oothoon in a number of ways: she is “enslav’d,” her attitudes towards sexuality are contradictory (so
+that, despite Oothoon’s morality, she hides in the immorality of Leutha’s vale), and she desires to
+reflect the image of Theotormon, of sexuality repressed into sado-masochistic religiosity. We would expect,
+then, that in the last two sections of the poem, in which Oothoon analyzes and protests her oppression, her
+analysis would be flawed in some way recognizably traceable to the thinking of her two oppressors. For the
+most part, however, Oothoon’s response to her oppressors is eloquent, more eloquent than it would seem
+possible to be, and—this is important—only intermittently consistent with Wollstonecraft’s 
+<hi rend="i">Rights of Woman.</hi><supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref>
+	<note id="n11"><hi rend="s">11</hi> Goslee described the differences between Oothoon and Wollstonecraft in
+terms similar to those I am using in this article: “Both her attack upon a patriarchal God and her attack
+upon a unitary, consistent, and rational image of God in the human signal that Oothoon’s vindication of
+women will follow a very different route from Mary Wollstonecraft’s, because a careful presentation of the
+latter and an unexamined acceptance of the former are Wollstonecraft’s most basic premises for deducing
+equality between the sexes . . .” (120).</note></p>
+            <p>Oothoon’s analysis of modesty shows the contradictions in her character. As—sometimes—for
+Wollstonecraft, who writes that “the modesty of women, characterized as such, will often be only the artful
+veil of wantonness instead of being the natural reflection of purity” (265), for Oothoon modesty is not a
+reflection of innocence but a corruption of it: “subtil modesty” teaches Innocence to “dissemble all
+[its] secret joys” (<hi rend="i">VDA</hi> 6:7-8). This corrupted sexuality then becomes bound into a system
+of economics, “nets . . . to catch virgin joy” and “sell it in the night” (<hi rend="i">VDA</hi>
+6:11-12). As such it is a means of gaining illicit power, at the cost of losing freedom. The “virgin joy”
+the “modest virgin” spreads her nets for is not attributed to any one person or gender, for it is
+applicable to all the victims of conventional marriage: to the wife, who by using her sexuality to, as it
+were, “net” a husband, becomes a commodity; to the husband, who is trapped in marriage; to the prostitute,
+the necessary other of sexual repression, who is, like the wife, a commodity but, unlike her, is “brand[ed]
+. . .with the name of whore” (<hi rend="i">VDA</hi> 6:12).</p>
+            <p>In <hi rend="i">Rights of Woman</hi>, too, degraded sexuality is characterized as a costly
+means of attaining illicit power, although Wollstonecraft’s metaphors are of monarchy rather than economy;
+she argues that women, for whom “[p]leasure is the business of . . . life,” choose the “sovereignty of
+beauty,” and thus choose “rather to be shortlived queens than labour
+<pb id="p31-11" n="11"/>
+to obtain the sober pleasures that arise from equality” (124). Unlike Wollstonecraft, however, for whom the
+“artful veil of modesty” is necessitated by male tyranny over women, Oothoon implicates religion in this
+corruption of innocence. Addressing first the “modest virgin knowing to dissemble,” and then Theotormon,
+she says,
+<q>
+Religious dreams and holy vespers, light thy smoky fires:<lb/>
+Once were thy fires lighted by the eyes of honest morn<lb/>
+And does my Theotormon seek this hypocrite modesty!<lb/>
+This knowing, artful, secret, fearful, cautious, trembling hypocrite.<lb/>
+Then is Oothoon a whore indeed! and all the virgin joys<lb/>
+Of life are harlots: and Theotormon is a sick mans dream<lb/>
+And Oothoon is the crafty slave of selfish holiness.<lb/>
+(<hi rend="i">VDA</hi> 6:14-20)
+</q>
+Oothoon is slave, not to male sensuality, but to “selfish holiness,” to the kind of hypocritical
+religiosity that we have seen in Theotormon. Religion is the corrupter of innocence, lighting the “smoky
+fires” of the modest virgin’s sexuality, once lit by the “eyes of honest morn.” As Oothoon says later,
+the “places of religion” are the “shadows of . . . curtains” and the “folds of [the] silent
+pillow” where “the youth shut up from / Lustful joy. shall forget to generate. &amp; create an amorous
+image” (<hi rend="i">VDA</hi> 7:5-7); religion is no guardian of the soul against the corruption of
+sexuality, but rather a corrupted, solipsistic form of sexuality.</p>
+            <p>Oothoon’s analysis of sexuality and religion is standard Blakean fare. But what is surprising
+about it is that Oothoon should be able to offer it. For she has been described from the very beginning of the
+poem as exactly the “modest virgin” whose duplicity she deplores, who “tremble[s] in [her] virgin fears
+/ And . . . hid[es] in Leutha’s vale,” and whose masochistic quest for purity reflects Theotormon’s
+“self enjoyings of self denial.” Conceivably she has changed, and become enlightened to her condition; the
+poem is often read this way, the change usually ascribed to her openness to sexuality.<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref> But there are at least three problems with this reading.
+First, the flower that Oothoon picks—the symbol of her sexual openness—is <hi rend="i">in</hi> Leutha’s
+vale; that is, her sexual experience is corrupted from the very beginning. Second, Oothoon calls to
+Theotormon’s Eagles after she plucks the flower; if her enlightened perspective is due to her sexual
+openness, then we would expect her to see through her quest for purity long before she does. Third—and most
+tellingly, I think—her new perspective too shows symptoms of Leuthan corruption. After decrying the modesty
+that would make her “a whore indeed,” Oothoon offers her own vision of sexuality, free of Theotormon’s
+jealousy and rigid morality:
+<q>
+silken nets and traps of adamant will Oothoon spread,<lb/>
+And catch for thee girls of mild silver, or of furious gold;<lb/>
+I’ll lie beside thee on a bank &amp; view their wanton play<lb/>
+In lovely copulation bliss on bliss with Theotormon:<lb/>
+Red as the rosy morning, lustful as the first born beam,<lb/>
+Oothoon shall view his dear delight, nor e’er with jealous cloud<lb/>
+Come in the heaven of generous love; nor selfish blightings bring.<lb/>
+(<hi rend="i">VDA</hi> 7:23-29)
+</q>
+Oothoon’s idea of non-jealous love here—essentially to act as procurer for and voyeur within a private
+brothel for Theotormon—seems very different from her earlier desire for “purity,” but the language of
+the passage makes clear that it amounts to much the same thing. Just as the “modest virgin” uses nets
+“to catch virgin joy,” so too Oothoon will spread “silken nets and traps of adamant” to catch for
+Theotormon “girls of mild silver, or of furious gold.” That the nets are “silken” also suggests that
+Oothoon’s offer to Theotormon follows the same pattern of sexual entrapment, for in 
+<hi rend="i">Europe</hi>, Leutha is described as the “silken queen.” In short, there is little to choose
+between branding “virgin joy . . . with the name of whore” and procuring whores oneself; they are simply
+opposite aspects of the same thing. Put another way, since brothels are made of the bricks of religion,
+freedom lies, not in the brothel that Oothoon would offer Theotormon, but in some new way of thinking that can
+stay out of church and brothel both. <note id="n12"><hi rend="s">12</hi> Bloom, for instance, after his
+discussion of the scene in which Oothoon calls to Theotormon’s Eagles to rend her, writes, “This is
+Oothoon’s most exploited and deceived moment, but her liberated passion does not permit her, or us, to abide
+in it. . . . By her increase in sensual enjoyment Oothoon has done what Thel failed to do—broken through the
+philosophy of the five senses, not by ascetic avoidance, but by expanding the crucial sense towards an
+infinite of desire” (110).</note></p>
+            <p>If one wishes to argue that Oothoon has changed, then, one must argue that she has changed at
+least twice—from the “modest virgin” enslaved by her assumptions about sexuality, to the clear-eyed
+analyst of her oppression, to the procurer again enslaved—and enslaving. The causes of these changes are not
+clear; the only plausible cause, the plucking of the flower itself, comes at the wrong point in the poem to
+explain anything. At some point it seems less confusing simply to accept that Oothoon is not a consistent
+character; what she is described to be and do, and what she says, are at odds.</p>
+            <p>Oothoon’s vision of a brothel for Theotormon also shows that, although in many ways she is
+very much like Wollstonecraft, she is in other ways completely unlike Wollstonecraft as well. Oothoon’s
+depiction of “subtil modesty” and Wollstonecraft’s analysis of the kind of modesty that is “the artful
+veil of wantonness” are similar, but Wollstonecraft would hardly have found Oothoon’s vision of the
+brothel a satisfactory alternative. In fact, Wollstonecraft uses a similar image, the image of the seraglio,
+as a metaphor for the lives of women corrupted by an
+<pb id="p31-12" n="12"/>
+education designed only to make them pleasing to men: she writes that the “weak beings” whose “strength
+of body and mind are sacrificed to libertine notions of beauty” “are only fit for a seraglio” (76). For
+Wollstonecraft, brothels are not built with the bricks of religion, but with the bricks of female education
+designed and controlled by male desire. The harem, then, far from being a figure for a kind of sexuality which
+is liberated because it is not possessive, is a figure for marriage in corrupt contemporary society, in which
+women’s freedom and potential are sacrificed to “libertine notions of beauty.”</p>
+            <p>Moreover, the central tenets of Wollstonecraft’s political philosophy in <hi rend="i">Right
+of Woman</hi> are directly opposed to the philosophy Oothoon espouses in her lament. Whereas Oothoon protests
+the “one law for the lion &amp; the ox” which treats everyone the same, Wollstonecraft argues against
+treating them differently: “If women are by nature inferior to men, their virtues must be the same in
+quality, if not in degree, or virtue is a relative idea; consequently, their conduct should be founded on the
+same principles, and have the same aim” (58). Emphasizing virtue as she does, Wollstonecraft argues up the
+Chain of Being to God, the single unitary point on the chain; Oothoon argues down the chain, to the diversity
+of living creatures. To argue upwards, according to Blake, is to be both complicit with oppression and utterly
+self-deluding, for the “Creator of men” is a “mistaken Demon of heaven.” “Thy joys are tears!”
+says Oothoon to Urizen, “thy labour vain, to form men to thine image” (<hi rend="i">VDA</hi> 5:3-4)—vain
+too, presumably, to emulate that image, or any image which tries to enforce conformity.</p>
+            <p>The contradictions in Oothoon’s character lie along the fault lines of these two conflicting
+sets of ideologies. The Oothoon of the Argument and the first section of <hi rend="i">Visions</hi>, who, by
+“reflecting” Theotormon’s religiosity, and seeking masochistically for purity, is bound back to back
+with the oppressor Bromion and his “one law for the lion &amp; the ox,” is like Wollstonecraft in that she
+accepts conventional standards of sexual morality and is committed to a single standard of conduct for all.
+The Oothoon who speaks in the second and third parts of <hi rend="i">Visions</hi>, on the other hand, condemns
+single standards, arguing instead for the value of diversity and individuality, and is much more like the
+Devil in <hi rend="i">The Marriage of Heaven and Hell</hi> than Wollstonecraft. Along the fault lines between
+these two positions, too, lies—most uncomfortably—the issue of sexuality. Accepting conventional morality
+leads to Leutha’s vale, and the sexual corruption implied thereby; but so too do Oothoon’s politics of
+diversity—the “silken nets and traps of adamant” that Oothoon spreads in an attempt to defy the law of
+the Jealous god Urizen are indistinguishable from the nets the “modest virgin” finds to “catch virgin
+joy.”</p>
+            <p>These contradictions are not, in my opinion, resolvable. Indeed, it is important not to attempt
+to reduce or dissolve them, for, as more than one critic has noted, Oothoon’s advocacy of multiplicity—of
+the revolutionary force of contradiction, one might say—is an important part of her power as a
+character.<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref> These contradictions do
+require some explaining, however, especially since Oothoon’s advocacy of multiplicity is itself a surprising
+feature in a character who desires to “reflect” the “image of Theotormon” (<hi rend="i">VDA</hi>
+2:15-16). To understand these contradictions, we need to consider one more difference between Oothoon and
+Wollstonecraft. Although, by the standards of twentieth-century feminisms, much of what Wollstonecraft has to
+say about women in <hi rend="i">Rights of Woman</hi> is enmeshed in reactionary discourse, Wollstonecraft
+never wanders in that text too far from her main aim, which is the improvement of women’s position. The same
+cannot be said of Oothoon. Her political targets are many—slavery, imperialism, jealousy, forced conformity,
+modesty, single-mindedness, etc.—but very little of her political critique can be said to be aimed
+specifically at improving the lot of women. Wollstonecraft was concerned with a broad spectrum of political
+issues also, of course, in <hi rend="i">Rights of Woman</hi> and even more evidently in other works such as
+<hi rend="i">A Vindication of the Rights of Men.</hi> But as a topic, the oppression of women has a
+specificity and <corr type="emend">woman-centeredness</corr> in Wollstonecraft’s work that it simply does
+not have in Blake’s, even in <hi rend="i">Visions of the Daughters of Albion</hi>, with its female and
+sometimes feminist protagonist. In taking up Wollstonecraft’s cause, Blake changed its object; he tried to
+trace women’s oppression to the same masters he traced all other oppressions to, rationality and religion,
+abstraction, etc.—to Urizen, in a word—and in doing so, he lost sight of anything specific to the
+oppression of women. In fact, as I shall try to show, it clarifies many of the contradictions in the poem
+simply to say outright that the poem is not about women at all, but about men. 
+<note id="n13"><hi rend="s">13</hi> In “Blake’s Oothoon: The Dilemmas of Marginality,” James A. W. Heffernan argues that
+Oothoon’s contradictions are a central aspect of her character as a marginal (and therefore a revolutionary
+if disempowered) figure: “What makes her marginal is precisely her resistance to classification, her refusal
+to be polarized. Straddling the line between defiant assertion and helpless submission, Oothoon challenges all
+binary oppositions” (6). As the Introduction to <hi rend="i">Visions of the Daughters of Albion</hi> in 
+<hi rend="i">The Early Illuminated Books</hi> points out, Oothoon’s embrace of multiplicity ought to encourage a
+non-reductive reading of her character: “perhaps we should not try to answer these questions [of
+interpretation raised by Oothoon’s complicity] on their own either/or terms when confronted by a poem that
+announces a plurality of ‘Visions’ in its title and presents a character who rejects unitary reduction and
+embraces multiplicity” (234).</note></p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Appropriations</hi>
+              </title>
+            </head>
+            <p>In his annotations to Lavater’s <hi rend="i">Aphorisms on Man</hi>, Blake writes: “let the
+men do their duty &amp; the women will be such wonders, the female life lives from the life of the male. see a
+mans female dependants you know the man” (<hi rend="i">E</hi> 596). Fox writes of this passage that its
+“condescension disguised . . . as appreciation marks an ambivalence towards women
+<pb id="p31-13" n="13"/>
+which is a significant feature of all Blake’s poetry. He admired women, but not enough to imagine them as
+autonomous human beings” (508). I agree with this assessment, but I think that part of the ambivalence in
+Blake’s remark arises not so much from a contradiction within Blake’s work—although, as I have tried to
+show, contradictions abound in Blake—but from differences between twentieth-century feminism and late
+eighteenth-century feminism. For what Blake argues in his annotation to Lavater is in important respects more
+closely aligned with the feminism of his time than with its misogyny.</p>
+            <p>The aphorism to which Blake responds consists of a series of misogynist clichés: “A great
+woman not imperious, a fair woman not vain, a woman of common talents not jealous, an accomplished woman, who
+scorns to shine—are four wonders, just great enough to be divided among the four quarters of the globe”
+(<hi rend="i">E</hi> 596). Blake’s response to this depiction of female vices resembles, to a point,
+Wollstonecraft’s response to Rousseau. Whereas Lavater implies that imperiousness, vanity, etc., are
+characteristics inherent to women, Blake argues that their ultimate cause is men: “let the men do their duty
+&amp; the women will be such wonders.” So too argues Wollstonecraft. Wollstonecraft accepts contemporary
+prejudices about female behavior, but attributes that behavior to deficiencies in education, deficiencies
+which, she makes quite clear, are designed to fit women to male desires. Women’s “infantine airs,” their
+“cunning” and “propensity to tyrannize,” Wollstonecraft attributes to “false notions of female
+excellence”—excellence the primary criterion of which is the ability to “excite desire,” for in a
+system in which women are wholly dependent on men for subsistence and status, “all the power [women] obtain,
+must be obtained by their charms and weakness” (77, 131). Like Blake, then, Wollstonecraft would remedy the
+weaknesses of women by correcting the deficiencies in men: “let men grow more chaste and modest,” and
+women should “grow wiser in the same ratio” (77).</p>
+            <p>Both Blake’s and Wollstonecraft’s arguments here are derivatives of the “natural man”
+argument, in that they presuppose that the corrupted self, if freed from the constrictions and falsehoods
+which corrupt it, will naturally grow wiser and more virtuous. As this argument is applied to gender
+relations, however, it takes on new characteristics: it targets as corrupting influences not society in
+general but a specific group within society, namely men; and it takes up new issues of inherent worth. In the
+traditional “natural man” argument, what merits or deficiencies members of the aristocracy would have in
+an uncorrupted society is not important; as the argument is applied to issues of gender, heavily
+overdetermined by traditional assumptions about men and women, the respective natures of the “natural man”
+and the “natural woman” are unavoidably at issue.</p>
+            <p>This question of the natural—as opposed to conventional—qualities of men and women can be
+taken up in a number of ways, which is why Blake’s annotation can be at once feminist in its contemporary
+context and thoroughly sexist in our own. Wollstonecraft tries to leave the question open as much as possible;
+so, in the passage above, she does not claim positively that in an uncorrupted society women’s
+understandings would be the equal of men’s, but leaves that judgment to those whose understandings are not
+themselves corrupted by contemporary society: “if women do not grow wiser in the same ratio” that “men
+become more chaste and modest,” <hi rend="i">then and only then</hi> “it will be clear that they have
+weaker understandings” (77). Blake, on the other hand, less philosophically consistent than Wollstonecraft,
+seems to have decided the issue already: “the female life lives from the light of the male,” he writes,
+assuming male precedence. This assumption of male precedence is confirmed by his annotation to the Lavater
+aphorism. At the same time that he attributes women’s supposed imperiousness, vanity, etc., to men, he
+covertly affirms Lavater’s implied conception of female virtues. In the sentence “let the men do their
+duty &amp; the women will be such wonders,” “such” is not an intensifier but a demonstrative adjective;
+i.e., women will be not any wonders, but the “four wonders” Lavater describes—“a great woman not
+imperious, a fair woman not vain, a woman of common talents not jealous, an accomplished woman, who scorns to
+shine.” By implication, then, this “natural” woman, not imperious, not vain, not jealous, who scorns to
+shine, will be humble, whatever else she may be, and in all likelihood quite content to live “from the light
+of the male.” Blake is consistent with the letter of Wollstonecraft’s philosophy, but utterly at odds with
+its spirit.<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref>
+	<note id="n14"><hi rend="s">14</hi> Blake probably annotated Lavater’s <hi rend="i">Aphorisms</hi> in 1788
+(<hi rend="i">E</hi> 583), four years before the publication of <hi rend="i">A Vindication of the Rights of
+Woman</hi>, so his remarks cannot be considered to have been influenced by Wollstonecraft’s feminism (he and
+Wollstonecraft may well have met by this time, but how clearly formulated Wollstonecraft’s political
+principles were at this point, and how much if at all she and Blake would have discussed them, cannot be
+reliably assessed). I juxtapose these texts only to show that while Blake and Wollstonecraft shared much in
+the way of political assumptions and strategies, their political goals were at odds.</note></p>
+            <p>Much the same thing occurs in <hi rend="i">Visions of the Daughters of Albion. Visions</hi>
+shares a number of images and arguments with the <hi rend="i">Rights of Woman</hi>: the tropes of slavery and
+flowers (and with them assumptions about the corrupting effect of social conditioning on individual
+consciousness), an analysis of “subtil modesty” as the “artful veil of wantonness,” and the assumption
+that undesirable female thought and behavior is caused by men. Yet, as I have said, Blake redirects this
+material to ends very different from Wollstonecraft’s: Wollstonecraft is concerned with the political and
+moral advancement of women, the primary obstacle to which is male sensualism; Blake is concerned most of all
+with the freedom of individual propensities, the greatest obstacle to which is Urizen, the jealous god
+primarily
+<pb id="p31-14" n="14"/>
+associated with reason. In short, Blake appropriates Wollstonecraft’s critique for his own purposes.</p>
+            <p>Indeed, although I do think that Blake was sympathetic to women at the time he wrote 
+<hi rend="i">Visions</hi>, his entrance upon the terrain of female oppression might well have been motivated not
+so much by sympathy as by philosophical necessity. In his last annotation to Lavater’s 
+<hi rend="i">Aphorisms</hi>, Blake posits an essential link between denial of individuality and men’s opinions
+of women. Whereas Lavater, and those like him who knowingly or unknowingly inherit the doctrine of original
+sin, believe that “the vicious propensity” is “a leading feature of the man,” and that vice is not
+only inherent but active, Blake redefines vice as accidental and negative: it is the “omission of act in
+self &amp; the hindering of act in another.” Just as the “natural man,” until corrupted by civilization,
+is inherently good, so too the “leading propensity” of every person, “his leading Virtue &amp; his good
+Angel,” must be good also. But whereas the traditional “natural man” argument, by focusing on the
+condition of the species in nature, effaces the differences between individuals, Blake emphasizes individual
+character above all else: each person has a unique “leading propensity,” which it would be oppression to
+hold to a single standard (what “laws of Kings &amp; Priests” do in calling “the Staminal Virtues of
+Humanity” by the name of Vice). Blake’s defense of diversity requires him to address the issue of female
+nature, for “the origin of this mistake [making the “vicious propensity . . . a leading feature of the
+man”] in Lavater &amp; his cotemporaries is, They suppose that Womans love is Sin” (<hi rend="i">E</hi>
+601). For Blake this equation of women with sin matters a great deal politically, for it taps into the
+mythological origins of Lavater’s “mistake.” According to the doctrine of original sin, the guilt for
+Eve’s disobedience is transmitted to all future generations, so that sin is an inherent feature of human
+beings—so that, in other words, the “vicious propensity” is a “leading feature of the man.” The
+stereotypical image of woman as vain, jealous, sensual is thus intricately connected with the Urizenic denial
+of individuality and diversity which Blake protests vehemently in <hi rend="i">Visions</hi> and elsewhere. For
+Blake to affirm the sacredness of individual character, then, he needed to nullify the equation of “Womans
+love” with sin, and therefore to reimagine female character.</p>
+            <p>Blake’s quarrel with the doctrine of original sin explains why, in a poem of which the
+primary political claim is that individual character is sacred, Blake found it congenial to appropriate parts
+of Wollstonecraft’s feminism; he required what she had to offer, a new Vision of the Daughters of Albion, to
+break the equation of Woman’s love with sin which he felt led his contemporaries to make the “vicious
+propensity . . . a leading feature of the man.” But his quarrel with the doctrine of original sin does not
+in itself explain why, given that Blake took exception to many of the fundamental principles of
+Wollstonecraft’s work, the vision of women that he promotes should also be a woman’s vision
+(Oothoon’s)—why, in other words, the “of” in the title <hi rend="i">Visions of the Daughters of
+Albion</hi> indicates the genitive case as well as the objective. For that we need to return to the final
+sentence of the first Lavater annotation discussed above: “see a mans female dependants you know the man.”
+In some ways this sentence is the most interesting part of the annotation, personalizing and bringing into the
+present the necessary abstraction of arguments about a “natural” self. Whereas the first part of the
+annotation, “let the men do their duty &amp; the women will be such wonders,” projects a future utopia,
+and the second part, “the female life lives from the light of the male,” claims to state a universal
+truth, the third part argues about concrete conditions in the present: “see a mans female dependents” 
+<hi rend="i">under current conditions</hi>, and “you know the man.” Although this sentence, like the one
+before it, shows little respect for women’s autonomy, nevertheless in a small way it shows an
+internalization of responsibility for women’s oppression. For a male to take seriously Wollstonecraft’s
+argument that female weakness is caused by male sensuality would mean more than simply supporting education
+for women, because Wollstonecraft attributes the corruption of female character not merely to the system in
+which men are dominant but to the personal characteristics of men themselves; to take her argument seriously,
+a male would have to come to terms somehow with the part of male identity which is implicated in that
+corruption.</p>
+            <p>One would expect, then, that in <hi rend="i">Visions of the Daughters of Albion</hi>, a work
+which explores the limits of change in female identity, Blake would betray some anxiety about male identity as
+well. In fact, patterns of male sexual identity in the poem are as limited as patterns of female sexual
+identity: the only models are Bromion, the sensualist and imperialist, and Theotormon, the solipsist and
+religious hypocrite.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> Both are
+corrupt; both are oppressors. If we consider these options as responses to Wollstonecraft, we can see what a
+quandary Blake was in. According to the narrator of <hi rend="i">The Marriage of Heaven and Hell</hi>, the
+moment when “the whole creation will be consumed, and appear infinite. and holy whereas it now appears
+finite &amp; corrupt” will “come to pass by an improvement of sensual enjoyment” (<hi rend="i">MHH</hi>
+14). Sensual pleasure, then, and especially sexual pleasure, is for Blake politically crucial. But
+Wollstonecraft had argued that the underlying cause of female oppression was male sensualism; and while he
+could and did fault Wollstonecraft for her alliance with conventional morality, Blake could not avoid her
+challenge to his political program, and her challenge to male sexual desire.
+<pb id="p31-15" n="15"/>
+To put this in other terms: just as Blake could see no sexual alternative for women, in contemporary
+conditions, to the delusive coquetry of Leutha’s vale, so too he could see no sexual alternative for men, in
+contemporary conditions, to the rape-mentality of Bromion. To restrain male desire, as Wollstonecraft
+proposes, is merely to be Theotormon, an oppressor at one higher level of abstraction. This is why “none but
+Bromion can hear [Oothoon’s] lamentations” (<hi rend="i">VDA</hi> 3:1); Bromion’s perceptions are
+limited, but Theotormon, by repressing sexuality, has closed off perception entirely.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref>
+	<note id="n15"><hi rend="s">15</hi> Ostriker also notes the limitations of male sexual identity in the poem:
+Bromion “represents the social and psychological pathology of sexual violence” while “Theotormon
+represents its pitiable underside, sexual impotence” (“Desire” 157). In the Introduction to 
+<hi rend="i">Visions</hi> in <hi rend="i">The Early Illuminated Books</hi>, these two patterns of sexual identity
+are traced, as I have traced them here, to the “mistake” identified by Blake in his annotations of Lavater
+of “suppos[ing] Womans love is sin” (232).</note>
+	<note id="n16"><hi rend="s">16</hi> It is for this reason, I believe, that <hi rend="i">America a
+Prophecy</hi> begins with a rape, and that the “nameless shadowy female” he rapes is revealed in 
+<hi rend="i">Europe a Prophecy</hi> to be the daughter of Enitharmon. Blake requires new patterns for both male
+and female sexuality, but these patterns must arise from conditions as they are; any child born of Orc, the
+revolutionary spirit, must be born of the male rapist (Orc) and the female coquette (of the lineage of
+Enitharmon).</note></p>
+            <p>The limitations of male sexual identity explain the contradiction between the compromised
+position Oothoon speaks from and her astute political critique, and brings us to Blake’s second strategy of
+responding to feminism: utopianizing, a form of projection. Blake’s assessment of male character was similar
+to Wollstonecraft’s, in that he too attributed what he took to be the limitations of female character to the
+limitations of male character. When he tried to imagine a male character which could break free from the
+oppressive roles which men are raised to play, he found that the political strategies he had employed in
+earlier works were already claimed by the enemy. In <hi rend="i">The Marriage of Heaven and Hell</hi>, Blake
+tries to break free from the oppressive abstractions of “Good,” defined as “the passive that obeys
+reason,” by countering them with “Evil,” defined as the “active springing from Energy” 
+(<hi rend="i">MHH</hi> 3). In short, he counters Heaven with Hell, one supernatural force with another. The
+supernatural aspect is important, because it allows a perspective from which to speak; Blake can attribute his
+critique of contemporary patterns of thought to the Devil, or whoever speaks the “Proverbs of Hell.” This
+strategy ensures Blake a position from which successful critique is possible; attributing his critique to a
+supernatural source allows him to bypass the problem of imagining a human character immune to the corruptions
+of society, while emphasizing the partiality of that critique (Heaven must be countered with Hell and vice
+versa) postpones the impossible project of putting that critique into practice. Thus he can, for instance,
+advocate acting on sexual desires—“Sooner murder an infant in its cradle than nurse unacted desires”
+(<hi rend="i">MHH</hi> 10), without having to imagine too specifically what form “an improvement in sensual
+enjoyment” might take in mere humans.</p>
+            <p>When, in <hi rend="i">Visions of the Daughters of Albion</hi>, Blake does try to apply his
+political agenda of sexual release to men and women, these strategies are no longer available. At the level of
+Heaven and Hell—i.e., at a high level of abstraction—it is possible to consider sexuality as an abstract
+force, as Energy with a capital E. At a more human level, however, sexuality has already been coded by gender
+and corrupted by social conditioning. Male sexuality is torn by contraries, what we might call the sexuality
+of the church and the sexuality of the brothel: the sexuality of the solipsist and passive oppressor
+Theotormon or the sexuality of the rapist and active oppressor Bromion. For an effective critique, then, Blake
+needed a third party upon whom he might project his political vision. He found that third party in Oothoon,
+who as a woman was not subject to the contradictions of male sexuality.</p>
+            <p>Projecting upon Oothoon a political vision may at first appear absurd, since, as discussed
+above, female sexuality too is subject to contraries of church and brothel, of the “modest virgin” or
+“Leutha’s vale.” But men and women hold unequal positions within Blake’s ideological economy, making
+it absolutely necessary—if hopeless—to at least attempt to reimagine female character. Because, according
+to Blake, “the female life lives from the light of the male,” women hold ideological value; men project
+ideological value. The two Lavater annotations show this inequality clearly. Lavater’s mistake of making
+“the vicious propensity . . . the leading feature of the man,” a mistake which, because it denies
+individual character, underlies a host of inequalities, originates in the supposition that “Womans love is
+Sin”; that is, Lavater has projected onto women a negative value. This is a “mistake” for Blake only
+because it leads to other mistakes, i.e., false conceptions of virtue and vice; whether this value accords
+with women’s actual character hardly seems to matter. In fact Lavater’s assessment of women may even be
+true: because women “live from the light of the male,” they hold the value that men place upon them. Hence
+the future tense in “let the men do their duty &amp; the women will be such wonders”—clearly women are
+not such wonders now, and will not be until men make them so. The verbs themselves are telling: men do; women
+are.</p>
+            <p>What men do, besides rape, colonize, abstract and weep, is project: Bromion brands Oothoon as
+“Bromions harlot,” while Theotormon “severely smiles” and Oothoon’s “soul reflects the smile”
+(<hi rend="i">VDA</hi> 2:18). Until the men cease to project upon Oothoon the particular image they do project
+upon her, they will continue to be trapped by the limitations of their perceptions, limitations the poem takes
+care to describe. Bromion can see nothing but the wars, poverty, and riches that he himself has brought into
+being, while Theotormon can see nothing but his own thoughts: “Tell me what is a thought? &amp; of what
+substance is it made?” (<hi rend="i">VDA</hi> 3:23). What must change in this economy of projection, limited
+perception, and oppression is the ideological value of women; Oothoon must become something different from
+what she has been made out—or simply made—to be.</p>
+            <p>Blake, writing self-consciously from within the ideological boundaries of his time, tries to
+show as much of this
+<pb id="p31-16" n="16"/>
+transformation as possible, which explains many of the contradictions in the poem. He shows the limited
+perceptions of men, and the corresponding limitations in women, who “live their life from the light of the
+male.” He shows the transformation in Oothoon, not so much in her repeated assertions of purity, which are
+undercut by her relationship with hopelessly corrupt Theotormon (“How can I be defild,” she asks him,
+“when I reflect thy image pure?”), but in her acquisition of a voice which tells more than either Bromion
+or Theotormon knows, and a vision which sees more than they can see. And finally, he shows the consequences of
+such a transformation, in the content of her vision: however compromised Oothoon is by her love of Theotormon,
+she has at least ceased to assume that “Womans love is Sin,” and can therefore see that all manner of
+living creatures are different, and that “every thing that lives is holy.” What Blake does not attempt to
+show, what I think he simply could not imagine and realized he could not imagine, is the nature of gender
+uncorrupted by false assumptions about gender. However bold Oothoon’s vision is, it still includes Leuthan
+nets and traps, and neither Theotormon nor Bromion changes at all. The poem ends, therefore, with the promise
+of political renewal frustrated and Oothoon’s protest unheard: “Thus every morning wails Oothoon. but
+Theotormon sits/ Upon the margind ocean conversing with shadows dire” (<hi rend="i">VDA</hi> 8:11-12).</p>
+            <p>In describing Blake’s strategies for dealing with feminism, I have used terms familiar in
+political arguments: appropriation and projection. Customarily, both terms are used negatively, the first
+signifying a strategy by which a dominant class nullifies a potential political threat, the second signifying
+a strategy by which a dominant class can speak for an oppressed other and avoid listening to what the other
+might have to say. Both of these negative meanings are applicable to Blake’s strategies, which is why I
+retain these terms. Nevertheless I believe that in practice these strategies have ambivalent political values.
+Just as women cannot hold as subjects the place that male ideology has defined for them as objects, so too men
+cannot hold as subjects the place that feminism has defined for them as objects. But both men and women do
+respond as subjects to discourse in which they are defined as objects, and thus take up that discourse with a
+difference. For women this has meant, among other things, that throughout the works of women who were on the
+surface far from rebellious—Christina Rosetti or Emily Dickinson, for instance—one can trace substantial
+undercurrents of rebellion. For men responding to feminism, I think this has meant and will continue to mean
+that assimilation of feminism is always in part appropriation of feminism. To put this at the crudest—and
+perhaps the least useful—level, let me ask, was Blake feminist? In my opinion, if by feminism we mean any
+twentieth-century feminism that I know of, then the answer must be a resounding no. If by feminism we mean the
+feminism of Wollstonecraft, then the answer is much less clear; he was true to many of the fundamental
+principles of Wollstonecraft’s feminism, but, because he prejudged the ultimate nature of gender, he was
+already moving in a direction directly counter to the spirit of Wollstonecraft’s feminism, even in 
+<hi rend="i">Visions</hi>, the work of his most sympathetic to feminism. In some ways, the most admirable thing
+Blake did was the most questionable: he gave Oothoon a voice, which meant that he dared to dream of female
+autonomy, and at the same time denied that autonomy by trying to project his own voice onto the woman whose
+autonomy he imagined.</p>
+            <p>For men sympathetic to feminism now—and they are my main concern here, since it is hardly my
+place to speak for feminism, or try to define its direction—I believe that it is impossible to avoid
+appropriation of feminism, or projection onto it, and probably impossible to avoid responses which are
+inimical to feminism. We believe what we believe, and concealment, rooted in defensiveness, can only make
+matters worse. But we can at least try to see clearly how we are responding to feminism, and why. Nearly two
+hundred years have passed since Blake wrote <hi rend="i">Visions</hi>, and the manner of his appropriation and
+projection look uncomfortably familiar; and he was neither the first nor the last male whose response to
+feminism might teach us about our own. “The Eye sees more than the Heart knows,” runs the motto of 
+<hi rend="i">Visions</hi>, an appropriate motto for a poem which tries to see beyond the limits of the self. Male
+critics who wish to be useful to feminism, and who wish to avoid the charge or the act of trying to conquer
+feminism as a new terrain, might start by examining how men have responded historically to feminism—might
+try, that is, to see how our eyes have seen, in hopes of seeing a little more.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>Aers, David. “Blake: Sex, Society and Ideology.” In <hi rend="i">Romanticism and Ideology:
+Studies in English Writing 1765-1830.</hi> London: Routledge, 1981.</p>
+            <p>Anderson, Mark. “Oothoon, Failed Prophet.” <hi rend="i">Romanticism Past and Present</hi> 8
+(1984): 1-22.</p>
+            <p>Blake, William. <hi rend="i">The Complete Poetry and Prose of William Blake.</hi> Ed. David V.
+Erdman. Berkeley: U of California P, 1982.</p>
+            <p>—. <hi rend="i">The Early Illuminated Books.</hi> Ed. Morris Eaves, Robert N. Essick, and
+Joseph Viscomi. Blake’s Illuminated Books 3. Princeton: Princeton UP, 1993.</p>
+            <p>Bloom, Harold. <hi rend="i">Blake’s Apocalypse.</hi> New York: Doubleday, 1963.</p>
+            <p>Damon, S. Foster. <hi rend="i">A Blake Dictionary: The Ideas and Symbols of William Blake.</hi>
+Revised edition. Hanover: UP of New England, 1988.</p>
+            <p>Erdman, David V. <hi rend="i">Blake: Prophet Against Empire.</hi> Princeton: Princeton UP,
+1954.</p>
+            <p>Ferguson, Moira, and Janet Todd. <hi rend="i">Mary Wollstonecraft.</hi>
+	<pb id="p31-17" n="17"/>
+Twayne’s English Author Series. Ed. Sarah Smith. Boston: Twayne, 1984.</p>
+            <p>Fox, Susan. “The Female as Metaphor in William Blake’s Poetry.” <hi rend="i">Critical
+Inquiry</hi> 3 (1977): 507-20.</p>
+            <p>Godwin, William. <hi rend="i">Memoirs of Mary Wollstonecraft</hi>, 1798. Ed. W. Clark Durant.
+New York: Garden, 1972.</p>
+            <p>Goslee, Nancy Moore. “Slavery and Sexual Character: Questioning the Master Trope in Blake’s
+<hi rend="i">Visions of the Daughters of Albion.</hi>” <hi rend="i">ELH</hi> 57 (1990): 101-28.</p>
+            <p>Heffernan, James A. W. “Blake’s Oothoon: The Dilemmas of Marginality.” 
+<hi rend="i">Studies in Romanticism</hi> 30 (1991): 3-18.</p>
+            <p>Hilton, Nelson. “An Original Story.” <hi rend="i">Unnam’d Formas: Blake and
+Textuality.</hi> Ed. Nelson Hilton and Thomas A. Vogler. Berkeley: U of California P, 1986.</p>
+            <p>Kaplan, Cora. <hi rend="i">Sea Changes: Essays on Culture and Feminism.</hi> London: Verso,
+1986.</p>
+            <p>Knowles, <hi rend="i">The Life and Writings of Henry Fuseli.</hi> 1831. Millwood, NY: Kraus,
+1982.</p>
+            <p>Linkin, Harriet Kramer. “Revisioning Blake’s Oothoon.” <hi rend="i">Blake</hi> 22 (1990):
+184-94.</p>
+            <p>Mellor, Anne. “Blake’s Portrayal of Women.” <hi rend="i">Blake</hi> 16 (1982-83):
+148-55.</p>
+            <p>Ostriker, Alicia. “Desire Gratified and Ungratified: William Blake and Sexuality.” 
+<hi rend="i">Blake</hi> 16 (1982-83): 156-65.</p>
+            <p>—.Review of Janet M. Todd, ed., <hi rend="i">A Wollstonecraft Anthology. Blake</hi> 14
+(1980): 129-31.</p>
+            <p>Raine, Kathleen. <hi rend="i">Blake and Tradition.</hi> Princeton: Princeton UP, 1968.</p>
+            <p>Rousseau, Jean-Jacques. “Discourse on the Origins and Foundations of Inequality Among Men.”
+<hi rend="i">Rousseau’s Political Writings.</hi> Ed. Alan Ritter. Trans. Julia Conaway Bondanella. New York:
+Norton, 1988. 3-57.</p>
+            <p>—. <hi rend="i">Émile.</hi> London: Everyman, 1966.</p>
+            <p>Schorer, Mark. <hi rend="i">William Blake: The Politics of Vision.</hi> New York: Henry Holt,
+1946.</p>
+            <p>Vogler, Thomas A. <corr type="emend">““in</corr> vain the Eloquent tongue”: An Un-Reading
+of VISIONS of the Daughters of Albion.” In <hi rend="i">Critical Paths: Blake and the Argument of
+Method.</hi> Ed. Dan Miller, Mark Bracher and Donald Ault. Durham: Duke UP, 1987. 271-309.</p>
+            <p>Wesser, Henry H. “Notes on the Visions of the Daughters of Albion by William Blake.” 
+<hi rend="i">Modern Language Quarterly</hi> 9 (1948): 291-93.</p>
+            <p>Wollstonecraft, Mary. <hi rend="i">A Vindication of the Rights of Men, in a Letter to the Right
+Honourable Edmund Burke.</hi> 1790. <hi rend="i">The Works of Mary Wollstonecraft.</hi> Ed. Janet Todd and
+Marilyn Butler. Vol. 5. Washington Square: New York UP, 1989.</p>
+            <p>—. <hi rend="i">A Vindication of the Rights of Woman with Strictures on Political and Moral
+Subjects.</hi> 1792. <hi rend="i">The Works of Mary Wollstonecraft.</hi> Ed. Janet Todd and Marilyn Butler.
+Vol. 5. Washington Square: New York UP, 1989.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

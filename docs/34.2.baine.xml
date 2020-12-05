@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.2.baine</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="remembrance">Rodney M. Baine, 1913-2000</title>
+        <author n="Hilton">Nelson Hilton</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2000</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.2</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Alexander Gourlay</name>
+              <name>Mary Lynn Johnson</name>
+              <name>Hatsuko Niimi</name>
+              <name>Kazuya Okada</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2000"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+  	<body>
+  		<pb id="p34-64" n="64"/>
+  		<div1>
+  			<div2>
+  				<div3 type="in-memoriam">
+  					<head>
+  						<title type="main">Rodney M. Baine<lb/>
+  						1913-2000</title>
+  					</head>
+  				</div3>
+  				<p>Born in Kosciusko, Mississippi, Rodney M. Baine (1913-2000) graduated from Tupelo High School in
+1931, then earned degrees from Southwestern at Memphis, from Vanderbilt, and from Harvard. In 1936 he held a
+Rhodes Scholarship at Merton College, Oxford. Baine served as an instructor of English at MIT, and as
+professor at the University of Richmond, Delta State University of Alabama at Montevallo, and finally,
+beginning in 1962, the University of Georgia. He published books on Defoe (<hi rend="i">Daniel Defoe and the
+Supernatural</hi>, 1968), Holcroft (<hi rend="i">Thomas Holcroft and the Revolutionary Novel</hi>, 1965),
+Munford (<hi rend="i">Robert Munford: America’s First Comic Dramatist</hi>, 1962), and through the 1990s he
+edited several volumes of papers concerning James Oglethorpe and the founding of Georgia. His 1986 privately
+printed and privately distributed book, <hi rend="i">The Scattered Portions: William Blake’s Biological
+Symbolism</hi>, has become a respected reference. Baine was an avid chess player and a member of the local
+symphony. The lecture series endowed by his elder sons in his honor was inaugurated in the mid-1980s by
+Northrop Frye, a fellow student at Oxford with whom Baine became well acquainted. [<hi rend="i">Nelson
+Hilton</hi>, as adapted from the <hi rend="i">Athens [Ga.] Daily News/Banner-Herald</hi>, 27 June 2000, at
+www.onlineathens.com.]</p>
+  			</div2>
+  		</div1>
+  	</body>
+  </text>
+</TEI.2>

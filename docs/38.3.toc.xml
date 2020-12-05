@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>38.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2004/2005</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2004-05</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">38.3</biblScope>
+            <biblScope unit="volume">38</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Adam Komisaruk</name>
+              <name>Thomas Frosch</name>
+              <name>Joseph Wittreich</name>
+              <name>Yoko Ima-Izumi</name>
+              <name>Antoine Capet</name>
+              <name>David Shaddock</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2004/2005"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_38">
+    <front>
+      <pb id="p38-89-90" n="89-90"/>
+      <div1 id="cover">
+        <figure n="cover.038.03.bqscan" rend="file" width="258" height="333">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+			S<lb/>
+			E W<lb/>
+			N<lb/>
+            Adam Komisaruk Models Blake<lb/>
+            VOLUME 38<lb/>
+            NUMBER 3<lb/>
+            WINTER 2004-05</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-38-3-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+			<cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.komisaruk">Introducing The Blake Model</ref><lb/>
+<hi rend="i">By Adam Komisaruk</hi></cell>
+            <cell>
+              <hi rend="i">92</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.frosch">Tristanne J. Connolly, <hi rend="i">William Blake
+and the Body</hi></ref><lb/>
+<hi rend="i">Reviewed by Thomas Frosch</hi></cell>
+            <cell>
+              <hi rend="i">102</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.wittreich">Alexander S. Gourlay, ed., <hi rend="i">Prophetic
+Character: Essays on William Blake in Honor of John E. Grant</hi></ref><lb/>
+<hi rend="i">Reviewed by Joseph Wittreich</hi></cell>
+            <cell>
+              <hi rend="i">107</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.imaizumi">The Program of the International Blake Conference
+<hi rend="i">Blake in the Orient</hi> and the Catalogue of a Concurrent Exhibition <hi rend="i">The Reception
+of Blake in Japan</hi></ref><lb/>
+<hi rend="i">Reviewed by Yoko Ima-Izumi</hi></cell>
+            <cell>
+              <hi rend="i">109</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.capet">Blake at Work Exhibition, Tate Britain,
+London</ref><lb/>
+<hi rend="i">Reviewed by Antoine Capet</hi></cell>
+            <cell>
+              <hi rend="i">115</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><hi rend="b">Newsletter</hi><lb/>
+			Online Features</cell>
+            <cell><hi rend="i">119</hi></cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="html-issue" issue="bonus.bentley">G. E. Bentley, Jr., “Blake
+and the Xenoglots”</ref></corr></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="html-issue" issue="bonus.sklar">A report by Susanne Sklar on a
+recent reading of <hi rend="i">Jerusalem</hi></ref></corr></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Poem</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="38.3.shaddock">Nobodaddy Wakes from His Slumber (After Blake
+12)</ref><lb/>
+<hi rend="i">By David Shaddock</hi></cell>
+            <cell>
+              <hi rend="i">119</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-38-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p38-91" n="91"/>
+      <div1 id="BQ-38-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Adam Komisaruk is assistant professor of English at West Virginia University. He is author of
+articles on “Monk” Lewis, Mary Shelley, Thomas Rowlandson, Mary Wollstonecraft, and Lord Byron. His works
+in progress include a book-length study of sexuality and the growth of the middle class in British
+Romanticism.</p>
+        <p>Thomas Frosch is professor of English at Queens College of the City University of New York and
+author of <hi rend="i">The Awakening of Albion: The Renovation of the Body in the Poetry of William
+Blake</hi>, as well as articles on Wordsworth, Shelley, and Keats.</p>
+        <p>Joseph Wittreich is distinguished professor of English at the Graduate Center of the City
+University of New York and, most recently, the author of <hi rend="i">Shifting Contexts: Reinterpreting</hi>
+Samson Agonistes and co-editor of <hi rend="i">Altering Eyes: New Perspectives on</hi> Samson Agonistes.</p>
+        <p>Yoko Ima-Izumi, professor of English and film studies at the University of Tsukuba in Japan, has
+been publishing books and essays on William Blake, Romantic literature, and Japanese film. Her recent
+publications (in Japanese) include <hi rend="i">Close-Ups of the Woman: Reframing Japanese Cinema</hi> (1997),
+<hi rend="i">Representations of the Female Body in English Literature and Film</hi> (1999), 
+<hi rend="i">Blake’s Revision of the Female</hi> (2001), and <hi rend="i">Film Syntax: Shot Analysis of Japanese
+Film</hi> (2004).</p>
+        <p>Professor Antoine Capet is head of British studies at the University of Rouen.</p>
+        <p>David Shaddock is a poet and psychotherapist. His <hi rend="i">After Blake</hi> won the 
+<hi rend="i">Ruah</hi> Power of Poetry prize for a chapbook of spiritual poems.</p>
+      </div1>
+      <div1 id="BQ-38-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sjns@mail.rochester.edu<lb/>
+TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 Macpherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS U.K.<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-38-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the U.S., Canada, and
+Mexico require a $15 per volume postal surcharge for surface delivery, or $20 for airmail. Credit card payment
+is available. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all
+subscription orders and related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English,
+University of Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for
+information on issues and prices, or consult the web site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors: Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627-0451;
+Morton D. Paley, Dept. of English, University of California, Berkeley CA 94720-1030. No articles will be
+returned unless accompanied by a stamped self-addressed envelope. For electronic submissions, you may send a
+diskette, or send your article as an attachment to an email message; please number the pages of electronic
+submissions. The preferred file format is RTF; other formats are usually acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: (clockwise, from top left) Landscape in Ulro with Golgonooza (created in Bryce 3D by Adam
+Komisaruk); Cathedron (by Fred Yee); Representation of <hi rend="i">Jerusalem</hi> 12:54-60, 14:29-30,
+associating points of the compass with sensory trajectories (created in Bryce 3D by Adam Komisaruk);
+Three-dimensional body scan recreating Blake’s <hi rend="i">Milton</hi>, plate 31 (Brian Corey, model).
+<note type="unreferenced" place="footer">© 2005 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+	<body>
+		<pb id="p38-119" n="119" rend="hidden"/>
+	</body>
+  </text>
+</TEI.2>

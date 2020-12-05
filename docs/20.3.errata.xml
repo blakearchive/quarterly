@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.3.errata</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Errata’s Errata</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1986-87</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986-87</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.3</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Stewart Crehan</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Stuart Peterfreund</name>
+              <name>Michael J. Tolley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-110" n="110"/>
+      <div1 id="BQ-20-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">ERRATA’S ERRATA</hi>
+            </title>
+          </head>
+          <p>Our readers might like to note these corrections to “Improving the Text of <hi rend="i">The
+Complete Poetry</hi> &amp; <hi rend="i">Prose of William Blake</hi>” (<hi rend="i">Blake</hi>, fall 1986):
+<q><hi rend="i">Blake</hi> p. 50:<lb/>
+p. xvii canterbury <hi rend="i">should read</hi> Canterbury<lb/>
+*p. 148 Line 60: the error is “rsua” not “rsau”<lb/>
+p. 482 Line 5 <hi rend="i">should read</hi> Line 6<lb/>
+p. 487 <hi rend="i">After</hi> Line 32 <hi rend="i">insert</hi> t <hi rend="i">in the margin</hi><lb/>
+p. 489 <hi rend="i">should read</hi> [“The Crystal Cabinet”] Line 27 [etc.]<lb/>
+<hi rend="i">Blake</hi> p. 51, after entry for p. 845 add:<lb/>
+p. 850 Line 2 (from bottom): insert 32 Envy is free <hi rend="i">1st rdg del.</hi><lb/>
+p. 986 Line 5 (from bottom): 466 <hi rend="i">should read</hi> 446<lb/>
+p. 990 Line 3: 488 <hi rend="i">should read</hi> 448
+</q></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

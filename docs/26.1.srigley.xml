@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.1.srigley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Sickness of Blake’s Rose</title>
+        <author n="Srigley">Michael Srigley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.1</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>E.B. Bentley</name>
+              <name>Morton D. Paley</name>
+              <name>Michael Srigley</name>
+              <name>Joan K. Stemmler</name>
+              <name>Julia M. Wright</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <body>
+      <pb id="p26-4" n="4"/>
+      <div1 id="BQ-26-1-0005">
+        <head>
+          <title type="main">The Sickness of Blake’s Rose</title>
+        </head>
+        <byline>by <docAuthor>Michael <name>Srigley</name></docAuthor></byline>
+        <p>Blake’s poem, <hi rend="i">The Sick Rose</hi> is probably one of the
+                    best-known, best-loved and yet, as I hope to show, least understood poems in the
+                    English language. Its popularity is due to its apparent simplicity and to its
+                    generous ambiguity. When students are asked to give their own impressions of the
+                    poem, their responses are usually vague and various. It is about love or beauty
+                    undergoing corruption; it is about the frailty of goodness or the destructive
+                    power of time. All the interpretations have in common a general sense of
+                    something beautiful being defiled or desecrated. A similar variety of
+                    interpretation within the same limits is found in literary criticism. One of the
+                    most elaborate interpretations is offered by Kathleen Raine. She suggests that
+                    the key to the poem is to be found in the tale of Psyche and Eros in
+                    Apuleius’ <hi rend="i">The Golden Ass</hi>, which Blake is known to have
+                        admired.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> The
+mysterious
+                    “invisible worm” of the poem is traced to Eros as the invisible
+                    winged serpent whom Psyche will marry according to the Oracle of Apollo. David
+                    Erdman approaches the meaning of the poem through Blake’s illustrations
+                    to it, and finds both markedly erotic.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> In
+                    one illustration, a worm “extends a curved phallic body out from the
+                    flower centre and about the human form of the Rose.” The girl’s
+                    face “registers desperation and we see the sharp proboscis of the worm
+                    turning out from below her dress as about to attack her.” Despite the
+                    phallic imagery and the suggestions of incipient rape, Erdman interprets both
+                    the etchings and the poem as basically optimistic; their message, he concludes,
+                    is that “life is mortal.” He also finds a sign of hope in the
+                    upraised arms of one of the girls: it indicates that “a worm hidden in
+                    secret may be reborn as a boy or girl.” <note id="n1"><hi rend="s">1</hi>
+                        Kathleen Raine, Blake and Tradition, 2 vols. (Princeton, NJ: Princeton UP,
+                        1968) 2: 199-201.</note>
+	<note id="n2"><hi rend="s">2</hi> The Illuminated Blake, annotated by David V.
+                        Erdman (Garden City, NJ: Anchor P/Doubleday, 1975) 81-82.</note></p>
+        <p>It is not my purpose to criticize or dismiss such interpretations of <hi rend="i">The Sick
+Rose</hi>; each of them in its own way throws some light on the
+                    poem’s ‘intention,’ to use the Renaissance term. Rather, I
+                    wish to suggest that there is an alternative approach to a lyric such as this,
+                    one that concentrates on the details of the poem and seeks to elucidate
+                        them.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> As
+various, more recent studies of
+                    Blake’s deceptively simple poems have shown, they are often richly
+                    complex and repay close analysis. <hi rend="i">The Sick Rose</hi> belongs to
+                    this category. Kathleen Raine has written that 
+					<q> Blake’s obscurities
+                        are never vague; they are hard, precise, and insoluble until we have the key
+                        to their meaning; then they vanish altogether.<supplied type="spacer"> </supplied><ref
+target="n4" type="note">4</ref>
+	<note id="n3"><hi rend="s">3</hi> Paul Robinson, “What Psychology Won’t
+                            Explain” in Michigan Quarterly Review (1980): 45-46.</note>
+	<note id="n4"><hi rend="s">4</hi> Kathleen Raine, Blake and Antiquity
+                            (Princeton, NJ: Princeton UP, 1977) 12.</note></q>
+I believe this is true in
+particular of certain obscurities in <hi rend="i">The Sick Rose</hi>, not least the nature of the nocturnal
+“invisible
+                    worm” which causes the sickness of the Rose. 
+                </p>
+        <p>First the poem itself: 
+		<q> O Rose, thou art sick!<lb/>
+ The invisible worm<lb/>
+                        That flies in the night,<lb/>
+ In the howling storm,<lb/>
+ Has found out thy
+                        bed<lb/>
+ Of crimson joy:<lb/>
+ And his dark secret love<lb/>
+ Does thy life
+                        destroy. </q>
+In a draft of this poem, the ‘his’ of the
+                    penultimate line is replaced by ‘her.’ This indicates that in
+                    Blake’s mind the invisible worm could be of either sex. Further
+                    information about the worm can be gleaned from the poem. It is invisible, it
+                    flies by night in a howling storm, and it seeks out the Rose as the object of
+                    its “dark secret love.” Its love is in some way surreptitious; as
+                    the imagery of the poem suggests it is sexual; and as we learn from the final
+                    line it is destructive. It causes the Rose to become sick. Let us look more
+                    closely at the various meanings of the word <hi rend="i">worm.</hi></p>
+        <div2>
+          <head>
+            <title>
+              <hi rend="i">The Worm</hi>
+            </title>
+          </head>
+          <p>Among the more normal meanings of this word listed in the Oxford English
+                        Dictionary, there are two figurative ones that might throw some light on
+                        Blake’s “invisible worm.” According to one (II. 1) it
+                        is “a grief or passion that preys stealthily on a man’s heart
+                        or torments his conscience (like a worm in a dead body or a maggot in
+                        food),” with examples from 900 A.D. onwards. Alternatively (II.b), it
+                        is defined as “a whim or ‘maggot’ in the brain; a
+                        perverse fancy or desire; a streak of madness or insanity, often <hi rend="i">wild
+worm.</hi>” This figurative worm is the embodiment
+                        of some powerful human feeling that preys stealthily on the mind and causes
+                        a form of abnormality. Behind these figurative meanings lies a long
+                        tradition of various nocturnal wormlike spirits that can travel to a human
+                        being and induce some form of abnormal state. It is to this tradition that
+                        Blake’s “invisible worm” belongs. These invisible
+                        spirits, known as <corr type="emend"><hi rend="i">larves</hi></corr> or <hi rend="i">larvae</hi>, are
+                        mentioned by St. Augustine in his <hi rend="i">Civitas Dei</hi> (Ix. ix.
+                        Loeb ed.) and became part of the demonic lore inherited by the Middle Ages
+                        and the Renaissance. Boccaccio in his influential iconographical work, <hi rend="i">De
+deis gentium</hi> (1472, p. 295a) states that these spirits
+                        were created by Morpheus, the deity of dreams, as phantasms which according
+                        to popular belief “invade the sleeping and weigh down on them,
+                        pressing and oppressing the senses.” In the form of incubi and
+                        succubi they visited sleeping persons, causing them to have vivid erotic
+                        dreams. In the 12th Book of <hi rend="i">Orlando Furioso</hi>, Orlando is
+                        described as being pursued by a phantom copy of his Angelica. This phantom
+                        is called “notturne larve,” a nocturnal ghost or spirit that
+                        haunts lovers. A similar incident occurs in Spenser’s <hi rend="i">Faerie
+Queene</hi> (I.i.34 ff) when Archimago employs two magical flies
+                        to 
+<pb id="p26-5" n="5"/>
+deceive the Red Cross Knight. One fly is sent to
+                        procure a lascivious dream from Morpheus, while the other becomes a phantom
+                        copy of Una which attempts to seduce the Knight and arouse him sexually.
+                        These nocturnal spirits travel to men or women and cause them to have erotic
+                        dreams that can result in orgasm. In a learned commentary on Genesis
+                        published in 1601, Benedictus Pererius gave the standard view of what are
+                        today called ‘wet dreams’: 
+						<q> when men are polluted by
+                            nocturnal seed, a succubus-demon is there, acting through a body of air
+                            in the form of a woman.<supplied type="spacer"> </supplied><ref target="n5"
+type="note">5</ref>
+	<note id="n5"><hi rend="s">5</hi> Pererius, <hi rend="i">Commentarium et
+                                    Dusoputationem in Genesim</hi> (1601), v. I, p. 387, col. b,
+                                para. 64.</note></q>
+We can now understand why Blake could vacillate about the
+gender of the
+                        “invisible worm.” If it was visiting a man it would be the
+                        female succubus, and a male incubus if visiting a woman. We can therefore
+                        deduce that the Rose in the final version of the poem stands for a young
+                        woman being visited by a male incubus in the form of an “invisible
+                        worm.”</p>
+          <p>The idea of the “wild worm” infecting the mind of a person and
+                        a nocturnal <hi rend="i">larva</hi> fused in the seventeenth century, when
+                        the meaning of <hi rend="i">larva</hi> as ghost, skeleton, or mask, was
+                        extended by biologists to include grub or maggot, a meaning which the word
+                        “worm” also once had (O.E.D. under “worm,” 5).
+                        To obtain some idea of how Blake may have visualized the “worm/That
+                        flies by night,” let us now consider a seventeenth-century engraving
+                        found in a work that Blake almost certainly knew. This is the <hi rend="i">Lumen de
+lumine</hi> (1652), the alchemical allegory written by Thomas
+                        Vaughan, brother of the metaphysical poet, Henry Vaughan. As Raine has
+                        suggested, this allegorical vision of Thalia revealing the secrets of
+                        alchemy to an adept in the depths of the earth is a major inspiration of
+                        Blake’s <hi rend="i">The Book of Thel.</hi> Blake would certainly
+                        have been interested in the emblematic engraving which opens <hi rend="i">Lumen de
+lumine</hi>, as well as in the commentary on it in the main
+                        text. The central panel of the engraving shows an oval of illuminated ground
+                        surrounded by darkness. In the center is an altar with a candle on it
+                        signifying <hi rend="i">Lumen Naturae</hi>, the Light of Nature. An Angel
+                        with raised sword and a ball of thread is seen to the left, while to the
+                        right a blindfolded man is groping his way towards the surrounding darkness
+                        designated <hi rend="i">Regio Phantastica</hi>, the Region of Fantasy.
+                        Awaiting to seize him there are various winged creatures including basilisks
+                        and winged serpents or worms with coiled tails. As we learn from
+                        Vaughan’s commentary on this scene, the blindfolded figure being
+                        initiated into the mysteries of alchemy will stray into the monstrous region
+                        of fantasy unless he accepts the protection of the Angel and uses the thread
+                        of Ariadne to guide him through the labyrinth of the alchemical 
+<hi rend="i">opus.</hi> His goal is both above and below him. Above is the <hi rend="i">Mons Magorum
+Invisibilis</hi>, the Invisible Mountain of the
+                        Magicians. Below is a large winged dragon with its tail in its mouth, the
+                        alchemical <hi rend="i">ourobouros</hi> enclosing a heap of gold on which a
+                        child is sitting and the inscription <hi rend="i">Non nisi parvilis</hi>,
+                        intimating that only as children can we enter the Kingdom of Heaven.
+                        Concerning the basilisks and winged worms that infest the Region of Fantasy,
+                        Vaughan has this to say: in gaining access to the caverns of the Invisible
+                        Mountain where the secrets of alchemy are to be discovered, great care must
+                        be taken because 
+						<q> they are very dangerous places after Night, for they
+                            are haunted with Fires, and other strange Apparitions, occasion’d
+                            (as I am told by the Magi) by certaine spirits, which dabble
+                            lasciviously with the sperm of the world, and imprint their Imaginations
+                            on it, producing many times fantastic, and monstrous Generations.<supplied
+type="spacer"> </supplied><ref target="n6" type="note">6</ref>
+	<note id="n6"><hi rend="s">6</hi> Thomas Vaughan, <hi rend="i">Lumen de
+                                    Lumine</hi> in <hi rend="i">The Works of Thomas Vaughan</hi>,
+                                ed. Alan Rudrum (Oxford: Clarendon Press, 1984) 317, 643-48.</note></q>
+It is
+these monstrous productions of sexual imagination that are shown
+                        flying in the dark as basilisks and worms or snakes, seeking to waylay the
+                        candidate during his maze-like initiation into <hi rend="i">the Mysteries of
+                            this my</hi> &lt;<hi rend="i">Thalia’s</hi>&gt; 
+<hi rend="i">Schoole.</hi><supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> As the
+                        alchemists repeatedly claimed, sexual abstinence was a prime requirement for
+                        accomplishing the Work; the basilisks and winged worms therefore represent
+                        erotic temptation to the practitioner of alchemy. As we shall see, these
+                        nocturnal spirits were believed to be created from a special sperm created
+                        during erotic dreams or imaginings. <note id="n7"><hi rend="s">7</hi> Vaughn
+                            310, 435-36.</note></p>
+          <p>It has been necessary to investigate this highly taboo area of human belief
+                        in order to discover the lost context of a poem like <hi rend="i">The Sick
+                            Rose.</hi> It was precisely such an investigation into the taboos
+                        surrounding sex in his own age that Blake undertook. It is well-known that
+                        he regarded the Pauline Christian attitude towards sex as unhealthy and as
+                        the cause of much abnormality. It warped the natural sexuality of young men
+                        and women; it corrupted family life; and it led to prostitution and venereal
+                        disease. Through enforced celibacy it was also the cause of much sexual
+                        prurience in the Church itself. In his poetry, Blake frequently attempted to
+                        expose this diseased attitude to sex, and some of the key passages will be
+                        cited later. The point I wish to make here is that <hi rend="i">The Sick
+                            Rose</hi>, far from being a vaguely romantic evocation of the
+                        susceptibility of beauty to corruption, is in fact a detailed analysis of
+                        the causes of the sexual malady of Blake’s times. Its general
+                        diagnosis can now be summarized. The “invisible worm” is the
+                        embodiment of the sexually heated fantasies of a male, traveling by night
+                        through the “howling storm” of erotic passion to the woman
+                        being imagined and desired by the solitary lover. To understand this strange
+                        idea of what can be called telepathic sexual intercourse between a man and a
+                        woman who are physically apart, we must now consider the writings of someone
+                        who inspired both Vaughan and Blake. This is the sixteenth-century physician
+                        and alchemist, Paracelsus.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="i">Paracelsus and Invisible Illnesses</hi>
+            </title>
+          </head>
+          <p>Blake left it on record that the two figures to whom he was most indebted
+                        were the mystic, Jakob Boehme, and the physician, Paracelsus. In <hi rend="i">The
+Marriage of Heaven and Hell</hi>, he claims that
+                        “any man of mechanical talents may from the writings of Paracelsus or
+                        Jacob Behmen produce ten thousand 
+<pb id="p26-6" n="6"/>
+volumes of equal
+                        value with Swedenborg’s.”<supplied type="spacer"> </supplied><ref target="n8"
+type="note">8</ref>
+                        In a verse letter to John Flaxman of 1800 he again mentions Paracelsus and
+                        Boehme as sources of inspiration, claiming that they have actually appeared
+                        to him.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref>
+Discussing the influence of
+                        Paracelsus on Blake, S. Foster Damon has suggested that the paramount
+                        importance given by Blake to the human imagination derives ultimately from
+                            Paracelsus.<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref> This is true also of
+                        the negative power of the human imagination when uncontrolled or distorted
+                        by wrong desire. What a man imagines, he becomes, declared Paracelsus in his
+                            <hi rend="i">Archidoxis</hi>, which would have been available to Blake
+                        in the English translation of 1656.<supplied type="spacer"> </supplied><ref
+target="n11" type="note">11</ref>
+                        This applies both to the use of the creative imagination and of a diseased
+                        imagination. Paracelsus’ fullest treatment of uncontrolled
+                        imagination as the cause of various psychological or physical diseases is
+                        his <hi rend="i">De Causis et Origine Morborum Invisibilium</hi>, originally
+                        published in German in 1565 in <hi rend="i">Opera Omnia</hi>, and reissued
+                        in Geneva in 1658 in Latin translation.<supplied type="spacer"> </supplied><ref
+target="n12" type="note">12</ref> Leaving aside for the moment the question of whether Blake was
+                        acquainted with this work, I shall first give an account of its relevant
+                        portions. <note id="n8"><hi rend="s">8</hi><hi rend="i"> Complete Writings of William
+Blake</hi>, ed. Geoffrey
+                            Keynes (London; New York, Toronto: Oxford UP, 1966) 158.</note>
+	<note id="n9"><hi rend="s">9</hi> Keynes 799</note>
+	<note id="n10"><hi rend="s">10</hi> See <hi rend="i">A Blake Dictionary</hi>
+                            (1979), ed. by S. Foster Damon, under “Paracelsus.” See
+                            also Morton D. Paley, <hi rend="i">Energy and the Imagination: A Study
+                                of the Development of Blake’s Thought</hi> (Oxford, 1970)
+                            passim, for parallels between the thought of Paracelsus and
+                            Blake.</note>
+	<note id="n11"><hi rend="s">11</hi><hi rend="i"> The Archidoxes of Magic by Paracelsus</hi>, transl. by R.
+                            Turner (London, 1656); 2nd ed. 1975 (London: <corr type="emend">Askin Publishers,</corr> 1975)
+                            introd. by Stephen Skinner.</note>
+	<note id="n12"><hi rend="s">12</hi> All quotations are from the ed. of
+                            1656.</note></p>
+          <p>As the title of the book indicates, it deals with the causes and origin of
+                        invisible diseases. Among these Paracelsus includes diseases born of the
+                        imagination, and these he covers in Book III of <hi rend="i">De
+                            Origine.</hi> When uncontrolled the human imagination was shameless and
+                        obstinate and gave rise to many human ills.<supplied type="spacer"> </supplied><ref
+target="n13" type="note">13</ref> This was particularly so in illnesses deriving from an
+                        overactive sexual fantasy. It is this fantasy that creates a false sperm
+                        from which incubi and succubi are produced. More particularly, this false
+                        sperm or “corrupted salt” is 
+						<q> born of the imagination in
+                            Amor Heroes &lt;solitary sex&gt;. What is this love? It is none
+                            other than when someone creates a woman in his mind through the power of
+                            fantasy, and making love with her satisfies his love. From this act
+                            results the ejaculation of a useless, feeble sperm incapable of
+                            generating children. From this sperm, however, incubi and succubi are
+                            created. (<hi rend="i">Iam vero sperma hoc, ita productum,
+                                eximaginatione in amore Hereos natum est. Quid vero iste amor est?
+                                Nihil aliud, quam quod sibi aliquis per phantasiam in animo foeminam
+                                fingit, &amp; cum hac re habendo, amorem suum exsatiat. Unde surdi
+                                quo-que fatui spermatis exitus est, quod ad liberorum generationem
+                                ineptum est. Exillo tamen spermate</hi> Incubus <hi rend="i">&amp;</hi>
+Succubus <hi rend="i">gignuntur</hi>).<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref>
+	<note id="n13"><hi rend="s">13</hi><hi rend="i"> De Causis</hi> 128, in <hi rend="i">Opera
+                                    Omnia.</hi></note>
+	<note id="n14"><hi rend="s">14</hi><hi rend="i"> De Causis</hi> 120.</note></q>
+The adulterated sperm
+produced by the erotic imagination is carried off
+                        by nocturnal spirits (<hi rend="i">per nocturnos spiritus</hi>), and
+                        “hatched into serpents, worms (<hi rend="i">vermes</hi>), toads and
+                        similar impure creatures,” including as Paracelsus also says
+                        basilisks. They pass from the heated imagination of one person to the person
+                        being imagined. This can explain acts of black magic. For example, 
+						<q> if a
+                            man has a strong and evil imagination, and wishes to injure another,
+                            such beings are always ready to hand to lend a helping hand for the
+                            accomplishment of his purpose.<supplied type="spacer"> </supplied><ref
+target="n15" type="note">15</ref>
+	<note id="n15"><hi rend="s">15</hi> Franz Hartmann, <hi rend="i">Paracelsus: Life and Prophecies</hi> (New
+York: Rudolph Steiner
+                                Publications, 1973) 92.</note></q>
+The <hi rend="i">larvae</hi> used for such
+a transmission 
+<q> can only
+                            act upon men if the latter make room for them in their minds. A healthy
+                            mind is a castle that cannot be invaded without the will of its master;
+                            but if they are allowed to enter, they excite the passions of men and
+                            women, they create cravings in them, they produce bad thoughts which act
+                            injuriously upon the brain; they sharpen the animal instinct and
+                            suffocate the moral sense.<supplied type="spacer"> </supplied><ref target="n16"
+type="note">16</ref>
+	<note id="n16"><hi rend="s">16</hi> Hartmann 93.</note></q>
+In a passage from <hi rend="i">Philosophia
+Saqax</hi>, Paracelsus
+                        describes how this transmission takes place: 
+						<q> Spirits desire to act upon
+                            &lt;a person’s imagination&gt;, and they therefore often
+                            make use of his dreams for the purpose of acting upon him. During sleep
+                            the sidereal man may by the power of the imagination be sent out of the
+                            physical form, at a distance to act for some purpose. No place is too
+                            far for the imagination to go, and the imagination of one man may
+                            impress that of another, wherever it reaches.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref>
+	<note id="n17"><hi rend="s">17</hi> Hartmann 112.</note></q>
+The same idea is found in another passage:
+<q>
+One man may communicate
+                            his thoughts to another with whom he is in sympathy, at any distance
+                            however great it may be, or he may act upon the spirit of another person
+                            in such a manner as to influence his actions after the latter awakens
+                            from his sleep, and in this way he may even injure the health of the
+                            latter, and upon this law of Nature is based the possibility of
+                            witchcraft and sorcery.<supplied type="spacer"> </supplied><ref target="n18"
+type="note">18</ref>
+	<note id="n18"><hi rend="s">18</hi> Hartmann 213-14.</note></q>
+In these various excerpts from the writings
+of Paracelsus are to be
+                        found, I believe, either the main source of or a striking analogue to ideas
+                        used by Blake in <hi rend="i">The Sick Rose.</hi> The poem is essentially a
+                        distillation of the Paracelsan teaching concerning the transmission at a
+                        distance of passionate imaginings from one person to another, as found
+                        primarily in <hi rend="i">De Origine morborum <corr type="emend">invisibilium</corr></hi> but also
+                        referred to in other works by Paracelsus. The sickness of the Rose has been
+                        caused by the fantasizing of a lonely young man as he conjures up an image
+                        of a woman and imagines making love to her. From the ethereal sperm produced
+                        by this act of erotic imagination, an “invisible worm” is
+                        created which flies through the tempestuous night from the lover to the
+                        beloved. As an expression of his “dark secret love” it carries
+                        out an act of violation on the young woman. It is for this reason that Blake
+                        speaks of this form of love as destructive. 
+                    </p>
+          <p>The role of the young lover in the drama evoked in <hi rend="i">The Sick
+                            Rose</hi> is concealed, but it comes out clearly in a passage in 
+<hi rend="i">Visions of the Daughters of Albion</hi>, describing the erotic
+                        experiences of a young girl and youth as each lies alone in bed: 
+						<q> The
+                            moment of desire! The moment of desire! The virgin<lb/>
+ That pines for
+                            man shall awaken to enormous joys<lb/>
+ In the secret shadows of her
+                            chamber: the youth shut up from<lb/>
+ The lustful joy shall forget to
+                            generate and create an amorous image<lb/>
+ In the shadows of his curtains
+                            and in the folds of his silent pillow.<supplied type="spacer"> </supplied><ref
+target="n19" type="note">19</ref>
+	<note id="n19"><hi rend="s">19</hi> Keynes 194.</note></q>
+The girl is awakening from a powerful erotic
+dream, while the young
+                        man, deprived of natural “lustful joy,” conjures up in his
+                        solitude “an amorous image” of the desired woman. The two
+                        halves of the passage are joined by a colon, perhaps suggesting that the
+                        sexual climax of the girl and the erotic imaginings of the young man are
+                        interrelated and simultaneous. Her pining for a man travels to him as
+                        “an amorous 
+<pb id="p26-7" n="7"/>
+image”; his longing for her
+                        travels to the girl to become her partner in the sexual dream. As in <hi rend="i">The
+Sick Rose</hi> with its “dark secret love,”
+                        their loves are conceived in “secret shadows” and in
+                        “the shadows of his curtains.” Here for Blake lies the
+                        unnatural character and essential sickness of their love. It is also
+                        unnatural in that the youth “shall forget to generate.” This
+                        may echo the observation of Paracelsus that erotic imaginings lead to a form
+                        of sterile sperm that is incapable of producing children. The young man,
+                        condemned by the Christian norms of society to living in unnatural celibacy,
+                        is compelled to create “a woman in his mind through the power of
+                        fantasy,” as Paracelsus wrote.</p>
+          <p>The sickness in the love of the boy and girl is traced by Blake to religion.
+                        In lines that immediately follow those we have just discussed, Blake writes
+                        in fierce irony about monastic celibacy and its effects: 
+						<q> Are not these
+                            the palaces of religion, the rewards of continence;<lb/>
+ The
+                            self-enjoyings of self-denial? why dost thou seek religion?<lb/>
+ Is it
+                            because acts are not lovely that thou seekest solitude<lb/>
+ Where the
+                            horrible darkness is impressed with reflections of desire?<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref>
+	<note id="n20"><hi rend="s">20</hi> Keynes 194.</note></q>
+Enforced continence leads to sexual sickness in
+the form of
+                        narcissistic “self-enjoyings of self-denial” in darkness and
+                        solitude. This abuse of sexuality is seen by Blake as epidemic in quality
+                        and as spreading almost as a viral infection to all young love. Here again
+                        his conception of the “self-enjoyings of self-denials” found
+                        at the heart of the celibate Church is remarkably close to
+                        Paracelsus’ view. In his treatise on plagues, <hi rend="i">De
+                            pestilate</hi>, Paracelsus draws attention to the dangers of convents,
+                        monasteries, and houses of prostitution, because in such places a lascivious
+                        and evil imagination is especially active, and great quantities of sperma
+                        are there collected by evil spirits, and that sperma contains a powerful
+                        Mumia which may be extracted, and transformed into evil things.<supplied
+type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n21"><hi rend="s">21</hi> Hartmann 124.</note></p>
+          <p>From the revulsion towards sexuality inculcated by the Church arises a
+                        psychic pestilence that is destroying the Garden of Love. Its victims are
+                        named in <hi rend="i">The Sunflower</hi>:
+<q> Youth pined away with
+                            desire,<lb/>
+ And the pale Virgin shrouded in snow.<supplied type="spacer"> </supplied><ref target="n22"
+type="note">22</ref>
+	<note id="n22"><hi rend="s">22</hi> Keynes 215.</note></q>
+As William J. Keith has rightly suggested, the
+individuals in this poem
+                        and in <hi rend="i">Vision of the Daughters of Albion</hi> are varieties of
+                        Ovid’s Narcissus, but it is important to stress that for Blake their
+                        self-consuming, sickly narcissism was imposed on them by the puritanical
+                        norms of a superficially Christian society.<supplied type="spacer"> </supplied><ref
+target="n23" type="note">23</ref>
+	<note id="n23"><hi rend="s">23</hi> William J. Keith, “The
+                            Complexities of Blake’s Sunflower: An Archetypal
+                            Speculation,” in <hi rend="i">Blake: A Collection of Critical
+                                Essays</hi>, ed. by Northrop Frye (Englewood Cliffs, NJ:
+                            Prentice-Hall, 1966) 58.</note></p>
+          <p>This interpretation of <hi rend="i">The Sick Rose</hi> and of related poems
+                        by Blake rests on the assumption that Blake was conversant with
+                        Paracelsus’s strange ideas concerning invisible diseases and
+                        telepathic infection. As we have seen, Blake himself claimed to have been in
+                        direct contact with the spirits of Paracelsus, Boehme, Milton and other
+                        discarnate entities, but such a claim is treated today with skepticism.
+                        Eliminating then direct communication with the spirit of Paracelsus as the
+                        source of Blake’s information about invisible diseases, there is the
+                        possibility that Blake read <hi rend="i">De Origine</hi> in the Latin of the
+                        1658 edition. It is know that by 1803 Blake could read both Latin and Greek,
+                        and that his Greek was as fluent as that of “an Oxford
+                            scholar.”<supplied type="spacer"> </supplied><ref target="n24"
+type="note">24</ref> Unfortunately, it
+                        is not known when Blake began learning these languages. There remains the
+                        possibility that Blake could have learnt Paracelsus’s teachings about
+                        invisible diseases from people in his circle of friends who were interested
+                        in such matters. In her forthcoming work entitled <hi rend="i">Men of
+                            Desire: Swedenborg, Blake and Illuminist Freemasonry</hi>, Marsha Keith
+                        Schuchard investigates, among other things, the keen interest in Paracelsus,
+                        Swedenborg and in Cabalism in the circles that Blake frequented. She has
+                        generously allowed me to make use of some of her findings.<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref>
+	<note id="n24"><hi rend="s">24</hi> Keynes 821.</note>
+	<note id="n25"><hi rend="s">25</hi> The information and quotations contained
+                            in the following paragraph documenting the interest in Paracelsus in the
+                            eighteenth century were kindly supplied to me by Dr.
+                        Schuchard.</note></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="i">Paracelsus in the Late Eighteenth Century</hi>
+            </title>
+          </head>
+          <p>In the <hi rend="i">Catalogue of Ancient and Modern Books</hi> (1787) listed
+                        as available in the London bookshop of John Denis, Dr. Schuchard notes the
+                        following items: <list type="simple">
+	<item><p># 4945 Auriolus Phillipus Theophrastus, his five Books of the
+                                    Causes of Invisible Diseases, <hi rend="i">manuscript, fairly
+                                        wrote</hi></p></item>
+	<item><p># 4927 <hi rend="i">Paracelsi Opera Omnia</hi> (1662)</p></item>
+	<item><p># 5241 <hi rend="i">Paracelsus his Archidoxes</hi> (1660)</p></item>
+</list> John Denis was the English agent for the distribution of
+                        Swedenborg’s works in England. Schuchard has also examined a handlist
+                        “Catalogue of the Library of Richard Cosway,” now in the
+                        Huntington Library. Cosway, painter and mystic, was a lifelong friend of
+                        Blake’s. The Catalogue contains the following works by Paracelsus in
+                        English translation: <hi rend="i">On the Nature of Things</hi> (1650 and
+                        1674); <hi rend="i">New Light of Alchymy</hi> (1674); <hi rend="i">The
+                            Supreme Mysteries of Nature</hi> (1656); <hi rend="i">Philosophy
+                            Reformed</hi> (1657). The catalogue does not list Cosway’s
+                        collection of occult manuscripts. A catalogue of the library of the artist,
+                        Philippe Jacques de Loutherbourg, now in the Victoria and Albert Museum,
+                        includes under item 136 a number of books by Paracelsus. Like Cosway, de
+                        Loutherbourg was a Freemason and a follower of Swedenborg, and probably
+                        known to Blake. Schuchard points out that interest in Paracelsus was also
+                        widespread in a wider circle of Swedenborgian Freemasons. Such figures as
+                        Manoah and Ebenezer Sibly, General Charles Rainsford and Dr. Sigismund
+                        Bacstrom all possessed private libraries of occult literature, and refer to
+                        Paracelsus in their published writings and manuscripts.</p>
+          <p>It is clear then that in the final decades of the eighteenth century
+                        Paracelsus continued to be read and studied and that his teachings
+                        interested the members of the occult circles that Blake frequented. The
+                        printed works of Paracelsus were still available in private libraries and
+                        for sale in John Denis’s bookshop in and about the year 1787. It is
+                        of particular interest that 
+<pb id="p26-8" n="8"/>
+in that year Denis had
+                        for sale a manuscript English translation of Paracelsus’s <hi rend="i">De Origine
+morborum <corr type="emend">invisibilium</corr></hi>, the very work which, as
+                        I claim, Blake was influenced by when he came to write <hi rend="i">The Sick
+                            Rose</hi> only a few years later. Blake and his wife joined the
+                        Swedenborgian Society in 1789, and it is reasonable to assume that Blake
+                        frequented John Denis’s bookshop. The copies of Swedenborg’s
+                            <hi rend="i">Heaven and Hell</hi> and <hi rend="i">Divine
+                            Providence</hi> in English translation which Blake procured in 1789 and
+                        1790 were published by John Denis.<supplied type="spacer"> </supplied><ref
+target="n26" type="note">26</ref>
+                        Even if Blake had not read the English translation of Paracelsus’s
+                            <hi rend="i">De Origine</hi> available in Denis’s bookshop, there
+                        were a number of Swedenborgians and other esotericists close to Blake who
+                        were interested in Paracelsus, as Schuchard has documented, and who could
+                        have supplied him with the requisite information about its ideas. 
+<note id="n26"><hi rend="s">26</hi> Information about Denis’s role in
+                            the publication of these two works of Swedenborg was kindly supplied by
+                            Dr. Schuchard.</note></p>
+          <p>In whatever exact way Blake may have acquired knowledge of
+                        Paracelsus’s <hi rend="i">De Origine</hi>, it seems to me clear this
+                        work played a significant part in the genesis of <hi rend="i">The Sick
+                            Rose</hi> and that an awareness of its ideas illuminates the central
+                        drama of the poem. It enables us to understand more exactly the nature of
+                        the invisible worm that flies by night, the urge that drives it through the
+                        storm, and why its love is destructive. It also throws light on one of
+                        Blake’s major preoccupations: the blighting effect on young people of
+                        the Church’s condemnation of sexuality as sinful by nature. Because
+                        of this condemnation, sexual attraction does not lead to sexual union, nor
+                        does it result in generation. It leads only to solitary, imagined sex which
+                        Blake sees as enfeebling and as sick and sterile. The poem is therefore an
+                        expression in a powerfully compressed and suggestive form of Blake’s
+                        conviction that the Church’s condemnation of sexuality as
+                        intrinsically shameful has caused a widespread social and psychological
+                        sickness. It leads to the breaking of the marriage bond, to prostitution, to
+                        venereal disease, and to a fevered eroticism that is essentially unhealthy.
+                        It manifests as a destructive “dark secret love” instead of
+                        Oothoon’s “lovely copulation” in bright daylight. It is
+                        furtive instead of open. <hi rend="i">The Sick Rose</hi> not only forms an
+                        integral part of Blake’s attack on negative Christian attitudes
+                        towards human sexuality, but it is remarkable for its specific diagnosis of
+                        the illness that this attitude has brought about. Using traditional demonic
+                        lore but above all the ideas of Paracelsus, Blake suggests that the human
+                        imagination when unregulated is able to create a strange psychic cloud of
+                        pollution hovering over society and infested by the weird creatures of
+                        erotic longing. It is these in the form of the “invisible
+                        worm,” the spectral <hi rend="i">vermis</hi> of Paracelsus’s
+                            <hi rend="i">De Origine</hi>, that travel telepathically from person to
+                        person bearing erotic infection. As Blake wrote “He who desires but
+                        acts not, breeds pestilence.”<supplied type="spacer"> </supplied><ref target="n27"
+type="note">27</ref>
+	<note id="n27"><hi rend="s">27</hi> Keynes 151.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.3.abley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">New Blake Documents: Job, Oedipus, and the Songs of Innocence and of
+Experience</title>
+        <author n="Abley">Mark Abley</author>
+        <author n="Bentley">G. E. Bentley, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1987/1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1987-88</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.3</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Mark Abley</name>
+              <name>Stephen C. Behrendt</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Mark Bracher</name>
+              <name>Leslie Brisman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Dan Miller</name>
+              <name>Michael Scrivener</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1987/1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+	<pb id="p21-104" n="104"/>
+      <div1 id="BQ-21-3-0006">
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">New Blake Documents: <hi rend="i">Job, Oedipus</hi>, and the <hi rend="i">Songs
+of Innocence and of Experience</hi><supplied type="spacer"> </supplied><ref target="n37" type="note">1</ref>
+	<note id="n37"><hi rend="s">1</hi> The materials exhibited here were discovered and recorded by Mark Abley in
+1982 and 1983 and generously shared with G. E. Bentley, Jr., in September 1986; they have been organized and
+made into the present essay by GEB.
+                                <p>We should like to dedicate this essay to our friend Joan Linnell Ivimy in
+thanks for her friendship to each of us over many years. The manuscripts are quoted here by her
+permission.</p></note>
+	</title>
+          </head>
+          <byline><docAuthor>Mark <name>Abley</name></docAuthor> and <docAuthor>G. E. <name>Bentley</name>,
+Jr.</docAuthor></byline>
+          <p>Contemporary documents of William Blake’s life are widely scattered, in record offices,
+museums, churches, and libraries from London to San Marino and Melbourne. However, one of the richest
+collections of such materials is in a cottage called Apple Thatch in Hampshire among the voluminous papers of
+Blake’s last great patron, the artist John Linnell. This extraordinarily rich cache of manuscripts has
+wonderful materials not only for John Linnell and William Blake but for many others as well, such as Samuel
+Palmer and William Butler Yeats. Scholars with many goals have been welcomed, and often fed, housed, and
+entertained, by the splendidly generous custodian of these papers, John Linnell’s great granddaughter Joan
+Linnell Ivimy. The pages of <hi rend="i">Blake Records</hi> (1969), which attempted to gather all contemporary
+references to Blake, are thickly strewn with references to the Ivimy Manuscripts, particularly in the parts
+recording the last ten years of Blake’s life.</p>
+          <p>When I first went through the Ivimy mss. in 1959, it quickly became apparent that I could not
+possibly read the majority of them without devoting more years to the undertaking than I had weeks to spare.
+Consequently, I read with care everything I could find which related directly to Blake and to his known
+acquaintances during his lifetime (1757-1827); I read almost equally scrupulously everything for the period
+from his death in 1827 to that of his wife in 1831. For the period after 1863, I read much more casually and
+rarely did more than glance at letters unless they were to or from someone important to Blake, such as Anne
+Gilchrist or Samuel Palmer. I concluded my search, confident that I had found most of the Blake references
+there and that more were awaiting searchers with sharper eyes and more patience and time than I could
+muster.</p>
+          <figure n="Linnell.EdwardDenny.bqscan" rend="file" width="400" height="547">
+            <head>1. John Linnell’s oil portrait (dated “1821”) of Edward Denny (then age 25) in the
+collection of Robyn Denny, and reproduced with permission of Robyn Denny.</head>
+          </figure>
+          <p>But the collection kept growing, with the discovery of here a trunk of Linnell manuscripts which
+had lain unrecognized for decades in the vaults of a family lawyer and there the return of letters from other
+members of the family. In the past twenty-seven years, I have returned repeatedly to Apple Thatch and to the
+loving hospitality of Joan Linnell Ivimy, and I have often found more references to Blake.</p>
+          <pb id="p21-105" n="105"/>
+          <p>In 1982 and 1983, Mark Abley, formerly a Rhodes Scholar at Oxford and now a successful Canadian
+journalist, called by arrangement at Apple Thatch in search of letters of William Butler Yeats and documents
+relating to Samuel Palmer. He was welcomed with her customary generosity by Joan Linnell Ivimy, and indeed
+Mark Abley stayed for some time at Apple Thatch. During his stay, he found not only manuscripts relating to
+William Butler Yeats and Samuel Palmer, which were partly for the Oxford edition of Yeats’s letters and
+partly for Mark Abley’s own <hi rend="i">Parting Light: Selected Writings of Samuel Palmer</hi> (1985); he
+also found a number of references to William Blake which were not recorded in <hi rend="i">Blake Records</hi>
+(1969) or <hi rend="i">William Blake: The Critical Heritage</hi> (1975). A number of these references to Blake
+I had myself seen in the years since <hi rend="i">Blake Records</hi> went to press, and, by the time I met
+Mark Abley in September 1986, these were already incorporated in the <hi rend="i">Blake Records
+Supplement</hi>, which is now in press. Some of them, however, were quite new to me, among them some of the
+most interesting references to Blake. When <hi rend="i">The Parting Light</hi> was published, I discovered in
+it some Blake references (not from the Ivimy mss.) which were new to me, and when I wrote to Mark Abley, and
+subsequently met him in Toronto, he generously offered me the notes he had made of his discoveries among the
+Ivimy mss. for the <hi rend="i">Blake Records Supplement.</hi> Because of the remarkable interest of these
+Blake materials not already incorporated in the <hi rend="i">Blake Records Supplement</hi>, I thought it
+desirable to make them into a separate article, to which Mark Abley generously agreed.</p>
+          <div3>
+            <head>
+              <title>BLAKE AND <hi rend="i">OEDIPUS</hi></title>
+            </head>
+            <p>John Linnell had deeply impressed a young man some four years younger than himself named Edward
+Denny (b. 1796), the son of a baronet and a man of substance, and Linnell had apparently made Denny acquainted
+with Blake and his works. From August through November 1821 Linnell was busy painting portraits of Edward
+Denny and five other members of his family; that of Edward Denny<supplied type="spacer"> </supplied><ref
+target="n38" type="note">2</ref> shows a dreamy young man with his finger marking his place in a little
+book—he looks strikingly like a Romantic poet such as Shelley (see illus. 1). On 30 October Linnell sent
+some of the portraits to Denny at his home at King’s End House, Worcester, and on 2 November Denny wrote
+that the pictures had arrived. In passing he remarked:
+<q>
+when you see Mr. Blake be so kind as to tell him to keep the drawings he is making for me, when they are
+finished, till he either sees or hears from me— . . .<lb/>
+and Believe me, dear Sir,<lb/>
+your’s truly obliged,<lb/>
+Edward Denny.—
+</q>
+This is the first known reference to a direct connection between Blake and Denny, but it is plain that already
+Denny was an admirer of Blake. Unfortunately, we do not know what drawings Blake was making for Denny in 1821,
+for Denny is not known to have owned any drawings by Blake.<supplied type="spacer"> </supplied><ref
+target="n39" type="note">3</ref> Apparently the drawings pleased Denny, for Denny purchased other Blake works
+in November 1826. <note id="n38"><hi rend="s">2</hi> Linnell’s portrait of Edward Denny (1821) was exhibited
+in Katharine Crouan, <hi rend="i">John Linnell:</hi> A Centennial Exhibition (Fitzwilliam Museum 5 Oct.-12
+Dec. 1982; Yale Center for British Art, 26 Jan.-20 March 1983), #76.</note>
+	<note id="n39"><hi rend="s">3</hi> According to the index to Martin Butlin’s magisterial 
+<hi rend="i">Paintings and Drawings of William Blake</hi> (1981). Through Linnell, Denny bought Blake’s Job
+engravings and Blair’s <hi rend="i">Grave</hi> with Blake’s designs (<hi rend="i">Blake Records</hi>
+[1969], 335-36, 593).</note></p>
+            <p>John Linnell scrawled a long draft reply to Denny on the letter itself, including a fascinating
+reference to a curious theatrical performance:
+<q>
+    Mr Varley, Mr Blake &amp; myself were much entertained Thursday Evening last by wittnessing a
+representation of Oedipus at the West London Theatre—it much exceeded our expectations as to the effect of
+the Play &amp; the performance of the Actors. I see it sneered at in one of the public[<hi rend="i">?</hi>]
+papers but you know what [a bad(<hi rend="i">?</hi>) set <hi rend="i">del</hi>] petty motives govern all 
+<hi rend="sub">^</hi> most of <hi rend="sub">^</hi> the Public criticism[.]
+</q>
+Linnell had taken his friends<supplied type="spacer"> </supplied><ref target="n40" type="note">4</ref> to a
+box at the West London Theatre in Tottenham Street<supplied type="spacer"> </supplied><ref target="n41"
+type="note">5</ref> where they saw <hi rend="i">Oedipus</hi> by John Dryden and Nat Lee, first acted in 1678.
+However, the play was advertised as being the <hi rend="i">Oedipus</hi> of Sophocles, and, not surprisingly,
+at least some in the audience reacted with indignation to the imposture. The anonymous reviewer in 
+<hi rend="i">The Times</hi> for Friday 2 November 1821 wrote:
+<q><hi rend="u">ROYAL WEST LONDON THEATER.</hi><lb/>
+A numerous audience was attracted yesterday evening to this theatre, by as barefaced an imposition as was ever
+practised on a public audience since the days of the bottle-conjuror. It was ostentatiously announced in the
+play-bills, and also in some of the public prints, that the <hi rend="i">Œdipus Tyrannus</hi> of Sophocles
+would be acted last night at this theatre, “being its first appearance these 2440 years”. Of course many
+persons, attracted by the accurate chronological knowledge of the supposed translator, went in the expectation
+of seeing the ancient tragedy stalking for once on modern boards . . . . In this expectation, which the
+numerous translations of the <hi rend="i">Œdipus Tyrannus</hi> into English prose and verse did not render
+altogether unfounded, they were most miserable disappointed; for instead of listening to the simple yet
+majestic strains of Sophocles, they were indulged with a cut-down edition of the bombastic yet powerful
+tragedy of Lee and Dryden upon the same subject. That piece, which must always affect an audience very
+strongly, certainly has made its appearance on the stage within the last 2440 years . . . . The tragedy, in
+spite of “being its first appearance for these last 2440 years”, was given out for repetition amidst
+thunders of applause, which we expect the play-bills of today will inform us proceeded from an audience,
+distinguished no less for its numbers and its fashion, than for its intelligence and discrimination.
+</q>
+The reviewer’s dire prediction was at least partly fulfilled, for in <hi rend="i">The Times</hi> for
+Wednesday 7 November appeared the following advertisement:
+<q><hi rend="u">NEW ROYAL WEST LONDON THEATRE,</hi>
+Tottenham-street, Charlotte-street, Fitzroy-square. Œdipus Tyrannus, by Sophocles, revived after a lapse of
+2440 years, and received (as at Athens) with shouts of applause. It will be repeated till further notice. THIS
+and every EVENING, ŒDIPUS. Œdipus, Mr. Huntley; Jocasta, Mrs. Glover. After which, THE WAGER LOST; in which
+Mrs. Glover will perform. Boxes 4s., pit 2s., gallery 1s. Private boxes for families may be had nightly.
+</q>
+	<pb id="p21-106" n="106"/>
+At least the date in this advertisement is two centuries less preposterous than that in the review. 
+<note id="n40"><hi rend="s">4</hi> In his Journal, Linnell recorded that he went on “Th[<hi rend="i">ursday
+November</hi>] 2 To see Œdipus,” but he said nothing about his companions, and in his Cash Account Book he
+noted under 8 November 1821 payment of four shillings “to Dr Thornton for Box Ticket—for Œdipus[?].”
+                                <p>Linnell was clearly keenly interested in Greek plays, and the impulse to
+attend this production may have been his. On 8 May 1819 he paid £1.1.0 “for Greek Theatre 3 vol. 4<hi
+rend="s">to</hi>,” and on 24 April 1821 he paid four shillings for “Sophocles—Greek.”</p></note>
+	<note id="n41"><hi rend="s">5</hi> For details of the theatre itself, see Raymond Mander &amp; Joe
+Mitchenson, <hi rend="i">The Lost Theatres of London</hi> (1976), 202. It was not a patent theatre and was not
+therefore entitled to perform legitimate drama, but, “being of too humble pretensions to create jealousy,
+[<hi rend="i">it</hi>] is permitted to play tragedy, comedy, or farce, in as legitimate a manner as the
+company is capable of doing” (<hi rend="i">The Percy Anecdotes Original and Select</hi> [1822], 168, cited
+in Allardyce Nicoll, <hi rend="i">A History of English Drama, 1660-1900</hi>, 4 [1955], 288).</note></p>
+            <p>Blake was certainly familiar with Sophocles, for his “Philoctetes and Neoptolemus at
+Lemnos” (1812) was made nine years before from Sophocles’ <hi rend="i">Philoctetes</hi>,<supplied
+type="spacer"> </supplied><ref target="n42" type="note">6</ref> and his intimate friends John Flaxman and John
+Linnell<supplied type="spacer"> </supplied><ref target="n40" type="note" n="4b">4</ref> were admirers of
+Sophocles, and Flaxman had made designs from his plays. It is agreeable to find that Blake was “much
+entertained” by the performance, even though the play he saw was some two thousand three hundred years
+younger than it was advertised to be. <note id="n42"><hi rend="s">6</hi> Butlin (1981), #676.</note></p>
+          </div3>
+          <div3>
+            <head>
+              <title>BLAKE AND <hi rend="i">JOB</hi></title>
+            </head>
+            <p>On 9 February 1826 Linnell wrote to his father from Cheltenham about a “scrape” relating to
+his painting of “The Burial of Saul,” and as an afterthought he remarked: “I shall be glad to hear from
+Ed. Chance how the Job goes on &amp; what has occurred.” Edward Chance was Linnell’s nephew, who was
+helping to supervise the printing of Blake’s <hi rend="i">Illustrations of the Book of Job</hi> at just this
+time. For instance, on this same day, 9 February 1826, Linnell’s wife Mary wrote to him that “Edward . . .
+has been every day to Lahees &amp; to [<hi rend="i">the Linnell’s house in</hi>] Cirencester Place[<hi
+rend="i">;</hi>] from all I can learn the printing is going on well by a man of the name of Freeman[.]”</p>
+            <p>The landscape painter Edward Price wrote to Linnell from Trentham on Monday 3 September 1827,
+three weeks after Blake’s death, about Blake’s <hi rend="i">Job</hi> engravings:
+<q>
+Lady Stafford will not be here for a month so I have not been able to put before her Ladyship Blake’s
+Etchings, and I fear I shall not be able to get subscribers as many of my friends who have seen them, have
+only made the remark that they were striking but extravagant and not one has yet expressed a desire to buy,
+but I will omit no opportunity of shewing it whenever I meet with the One Man in a Thousand who understands
+Painting.
+</q>
+Elizabeth Lady Stafford, the wealthy Countess of Sutherland in her own right, was married to the even
+wealthier George Grenville Leveson-Gower, Marquis of Stafford, who was famous as a politician and an improver
+of their huge estates (including most of the County of Sutherland). Both Lord and Lady Stafford were keenly
+interested in the arts; he was President of the British Institution, she was a painter in watercolors, and
+both collected art eagerly. A purchase from the Staffords might have led to important commissions for Linnell
+and perhaps to purchases of other works by Blake. However, if Lady Stafford was shown the 
+<hi rend="i">Job</hi> engravings on her return to their home in Trentham, she apparently showed little interest in
+them, for her name does not appear in Linnell’s <hi rend="i">Job</hi> accounts.</p>
+            <p>There are numerous letters from Edward Price to Linnell among the Ivimy mss., but he is not
+known to have had any other connection than this one with Blake. Clearly he was simply one of many
+acquaintances through whom Linnell tried to sell copies of Blake’s <hi rend="i">Job.</hi></p>
+          </div3>
+          <div3>
+            <head>
+              <title>BLAKE AND THE <hi rend="i">SONGS OF INNOCENCE AND OF EXPERIENCE</hi></title>
+            </head>
+            <p>Blake sold an extraordinarily beautiful copy of <hi rend="i">Songs of Innocence and of
+Experience</hi> (copy AA) to Mrs. Charles Aders in July 1826 for £5.5.0,<supplied type="spacer"> </supplied><ref target="n43" type="note">7</ref> and Linnell apparently had it bound for her—indeed,
+probably the sale was made through him. Eight years later, when in somewhat narrower circumstances, Mrs. Aders
+wrote to Linnell:
+<q>
+24 Savage Gardens June 17th [<hi rend="i">1834</hi>]<supplied type="spacer"> </supplied><ref target="n44"
+type="note">8</ref><lb/>
+My dear Sir<lb/>
+    I much hoped to have been able to see you before this, but as usual illness has prevented me.—The fact
+is, I wish to explain to you my feelings &amp; wishes about Blakes songs of Innocence &amp; I cannot resist
+the desire to have Mr Aders’ portrait [painted by you], but am not now so well able to dispose of money as I
+was, (at any rate for my luxuries or fancies) and wish therefore that you would take that work in part
+payment, it cost me as you know 6£ that is <table type="inline"><row>
+	<cell>£</cell>
+	<cell>s</cell>
+	<cell>d</cell>
+</row>
+<row>
+	<cell>5..</cell>
+	<cell>5..</cell>
+	<cell>0</cell>
+</row></table> to Mr Blake and <table type="inline"><row>
+	<cell>s</cell>
+</row>
+<row>
+	<cell>16</cell>
+</row></table> to you for the Book in which they are [<hi rend="i">bound?</hi>]—I have also another work of
+Blakes for which I gave to Mr. Tatham 5..5..0[<hi rend="i">;</hi>] perhaps you might like to have that
+also—What I have said above is in confidence to you, &amp; I feel sure your delicacy will treat it as
+such—If you agree to my plan you will have the kindness to send for the Songs—and Michael Angelo’s 
+[<hi rend="i">designs engraved by Linnell</hi>] whenever you please[<hi rend="i">;</hi>] perhaps some day it may
+please God that I may be rich enough to purchase the latter[.]<lb/>
+Yours very sincerely<lb/>
+Eliza Aders 
+                            </q>
+Linnell evidently was not tempted by the Blake work which had come from Frederick Tatham—perhaps the
+drawings of “Los Walking on the Mountains of Albion” or “Christian with the Shield of Faith, Taking
+Leave of His Companions” from <hi rend="i">Pilgrim’s Progress</hi> which Mrs. Aders kept in an album until
+her death<supplied type="spacer"> </supplied><ref target="n45" type="note">9</ref>—but he did take the 
+<hi rend="i">Songs.</hi> Next year he had an unfortunate misunderstanding with Mrs. Aders about the prices of
+these works, and on 8 August 1835 she wrote to him that she had understood the price of Linnell’s portrait
+of Mr. Aders was to have been £26.5.0; “when therefore you took Blakes Songs of Innocence &amp;c at 6G<hi
+rend="s">s</hi> I of course concluded I had only 20£ to pay.” She declined to pay more but said that a
+friend might do so, “in which case when you receive the money you will send us the 6 G<hi rend="s">s</hi>
+for Blakes work.”<supplied type="spacer"> </supplied><ref target="n46" type="note">10</ref> Linnell did keep
+the <hi rend="i">Songs</hi>, and twenty-eight years later he inscribed it: “Given to James Tho Linnell by
+John Linnell sen<hi rend="s">r</hi>, April 28 1863.” <note id="n43"><hi rend="s">7</hi> The receipt of 29
+July 1826 is given in <hi rend="i">Blake Records</hi>, 583, the source of the other Blake references quoted
+incidentally here.</note>
+	<note id="n44"><hi rend="s">8</hi> The letter is postmarked “NIGHT / JU 17 / 1834” and addressed to “J.
+Linnell Esq<hi rend="s">r</hi>. / Porchester Terrace / Bayswater.”</note>
+	<note id="n45"><hi rend="s">9</hi> Butlin (1981), #784 and #829 (20).</note>
+	<note id="n46"><hi rend="s">10</hi><hi rend="i"> Blake Records</hi>, 583, n 1, quoting the Ivimy
+mss.</note></p>
+          </div3>
+          <div3>
+            <head>
+              <title>BLAKE AND <hi rend="i">JOB</hi></title>
+            </head>
+            <p>Linnell had become a profound admirer of “the
+<pb id="p21-107" n="107"/>
+dear kind and accomplished Lady Torrens,” and in 1820 he painted an admirable portrait of her with her six
+children.<supplied type="spacer"> </supplied><ref target="n47" type="note">11</ref> In April 1826 he sold a
+copy of Blake’s <hi rend="i">Job</hi> to her,<supplied type="spacer"> </supplied><ref target="n48"
+type="note">12</ref> and on 19 December 1832 her son A. W. Torrens, a captain in the Grenadier Guards, asked
+Linnell to send “by the bearer the ‘<hi rend="i">Book of Job</hi>,’ as you kindly promised to
+do.”<supplied type="spacer"> </supplied><ref target="n49" type="note">13</ref> He apparently admired but did
+not buy Blake’s <hi rend="i">Job</hi>, and three years later he wrote again to Linnell:
+<q>
+Windsor.<lb/>
+17. <hi rend="i">April 1835.</hi><lb/>
+Dear Mr. Linnell,<lb/>
+I received the book of Job, &amp; return you many thanks for the present, in the name of my wife.<supplied
+type="spacer"> </supplied><ref target="n50" type="note">14</ref>—The note you were so good as to send with
+it, is no mean part of the value of the gift, containing as it does from so eminent an artist such strong
+approbation of the copy which was inadvertently left in the book . . . .<lb/>
+Yr. very truly obliged,<lb/>
+<hi rend="i">Arthur W. Torrens.</hi></q>
+Clearly the Denny and Torrens families were appreciative patrons of William Blake. If only we had records of
+the rest of their dealings with and opinions of him. <note id="n47"><hi rend="s">11</hi> It is reproduced in
+color in Katharine Crouan’s catalogue of <hi rend="i">John Linnell</hi> (1982), #75.</note>
+	<note id="n48"><hi rend="s">12</hi><hi rend="i"> Blake Records</hi>, 590, 599.</note>
+	<note id="n49"><hi rend="s">13</hi><hi rend="i"> William Blake: The Critical Heritage</hi> (1975),
+226.</note>
+	<note id="n50"><hi rend="s">14</hi> Of course neither Arthur Torrens nor his wife appears in the records of
+payments for <hi rend="i">Job</hi>, since the copy they received was a gift.</note></p>
+            <p>These are so far the last of the records of Blake’s life and works to be discovered among the
+Ivimy mss., but it seems likely that yet more will be found in that rich respository. Few discoveries,
+however, are likely to be so intriguing as the view given here of Blake sitting between his friends John
+Varley and John Linnell in a box in a little theatre in Westminster being “much entertained” by a
+performance of <hi rend="i">Oedipus</hi> advertised as having been written in 619 BC by Sophocles (496-406 BC)
+but in fact written by Dryden and Lee and first acted in 1678.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

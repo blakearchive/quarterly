@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.minnick</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Blake Items in the Library of Isaac Reed</title>
+				<author n="Minnick">Thomas L. Minnick</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-89" n="89"/>
+            <div1 id="BQ-03-4-0006">
+                <head>
+                    <title type="section">
+                        <hi rend="u">MINUTE PARTICULARS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. BLAKE ITEMS IN THE LIBRARY OF ISAAC REED</title>
+                    </head>
+                    <p>A glance through <hi rend="u">Bibliotheca Reediana</hi> (London, 1807), the sale
+catalogue of the library of Isaac Reed, reveals that gentleman as a bookbuyer with interests far outside his
+own profession of theater history. He was in fact a kind of bookstall omnivore. It is therefore not surprising
+that, as a friend of William Hayley and George Romney, Reed left two works by William Blake among the
+possessions to be auctioned after his death.</p>
+                    <p>In their <hi rend="u">Blake Bibliography</hi>, Professors Bentley and Nurmi list one of
+these, but inaccurately (see item 431). “Blake’s Poetical Sketches— 1783” appears in the auction catalogue
+but as lot 6577 and on page 302, not as the bibliographers note. According to the priced catalogue in the
+Harvard College Library, the <hi rend="u">Poetical Sketches</hi> sold for six shillings sixpence, a
+respectable price for the sale, on the thirtieth day of the auction, December 5, 1807.</p>
+                    <p>A second Blake item, not listed in Bentley and Nurmi, was sold nine days later among
+the prints and manuscripts. Lot 8936 (on page 404 of the catalogue) contained an unspecified number of prints
+including “Designs to a Series of Ballads, by Hayley, engraved by Blake, 2 No. 1802”—clearly Bentley and
+Nurmi number 375. This reference is the fifth known type-printed allusion to Blake during 1807 (see 
+<hi rend="u">A Blake Bibliography</hi>, p. xvii). The entire lot, with the now very rare “Designs,” brought eleven
+shillings sixpence.</p>
+                    <byline>
+                        <docAuthor>Thomas L. <name>Minnick</name>
+                        </docAuthor> Dept. of English The Ohio State University</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

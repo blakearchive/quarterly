@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.4.linkin</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Revisioning Blake’s Oothoon</title>
+        <author n="Linkin">Harriet Kramer Linkin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.4</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Bidney</name>
+              <name>Christopher Heppner</name>
+              <name>Nelson Hilton</name>
+              <name>Harriet Kramer Linkin</name>
+              <name>Morton D. Paley</name>
+              <name>John B. Pierce</name>
+              <name>Sheila A. Spector</name>
+              <name>Michael Tolley</name>
+              <name>Gunnel Tottie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <pb id="p23-184" n="184"/>
+      <div1 id="BQ-23-4-0006">
+        <head>
+          <title type="main">Revisioning Blake’s Oothoon</title>
+        </head>
+        <byline>by <docAuthor>Harriet Kramer <name>Linkin</name></docAuthor></byline>
+        <p>In applying feminist perspectives to Blake studies critics continue to explore the disparity
+between Blake’s larger advocacy of human liberation and his more limited representation of the female in his
+poetry. Arguing for a Blake who is alternately feminist, sexist, engendered, beyond gender or struggling
+towards a truly androgynous vision, most implicitly accept Fox’s general categories for Blake’s portrayal
+of the female: positive/passive, pernicious/active, and, in the rarest of instances, active/good.<supplied
+type="spacer"> </supplied><ref target="n31" type="note">1</ref> Disagreements occur in slotting specific
+figures into those categories, perhaps none quite as frustrating as Oothoon in <hi rend="i">Visions of the
+Daughters of Albion.</hi> Early modern critics hailed Oothoon as the perfect vehicle for Blake’s
+psychosexual beliefs, hearing the poet’s voice resound in her cries for “Love! Love! Love! happy happy
+Love! free as the mountain wind!” (7:16, E 50).<supplied type="spacer"> </supplied><ref target="n32"
+type="note">2</ref> Although critics celebrated her imaginative awakening as active and good, they still
+placed the poem within the cycle of Experience because Oothoon remained unable to share her newly organized
+desires with Theotormon.<supplied type="spacer"> </supplied><ref target="n33" type="note">3</ref> In 1973
+Peterson broke with standard readings of <hi rend="i">Visions</hi> by positing imperfections in Oothoon
+herself as the source of her lack of fulfillment.<supplied type="spacer"> </supplied><ref target="n34"
+type="note">4</ref> Since then, more and more critics fault Oothoon rather than her situation for the seeming
+paralysis and prophetic failure that ends her story, suggesting she adopts the strategies of her oppressors to
+become pernicious or passive or, for some, both.<supplied type="spacer"> </supplied><ref target="n35"
+type="note">5</ref> This shifting characterization of Oothoon foregrounds recent sociocultural history in that
+the liberated Oothoon of the decades culminating in the 1960s is revisioned as the co-opted
+    <figure n="vda.i.p11" id="vda.i.illbk.11" work-copy="vda.i" rend="db" width="715" height="1000">
+	<figTranscr>Where the cold miser spreads his gold? or does the bright cloud drop<lb/>
+	On his stone threshold? does his eye behold the beam that brings<lb/>
+	Expansion to the eye of pity? or will he bind himself<lb/>
+	Beside the ox to thy hard furrow? does not that mild beam blot<lb/>
+	The bat, the owl, the glowing tyger, and the king of night.<lb/>
+	The sea fowl takes the wintry blast. for a cov’ring to her limbs:<lb/>
+	And the wild snake, the pestilence to adorn him with gems &amp; gold.<lb/>
+	And trees. &amp; birds. &amp; beasts, &amp; men. behold their eternal joy.<lb/>
+	Arise you little glancing wings. and sing your infant joy!<lb/>
+	Arise and drink your bliss. for every thing that lives is holy!<lb/>
+	Thus every morning wails Oothoon. but Theotormon sits<lb/>
+	Upon the margind ocean conversing with shadows dire,<lb/>
+	The Daughters of Albion hear her woes, &amp; eccho back her sighs.<lb/>
+	The End</figTranscr>
+	<head>1. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate 8.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+Oothoon of the 70s and 80s. Because I believe Oothoon stands for something uniquely positive throughout
+Blake’s poetic career—in <hi rend="i">Visions, Europe, Milton</hi>, and <hi rend="i">Jerusalem</hi>—I
+hope to challenge current negative
+<pb id="p23-185" n="185"/>
+estimations of her by questioning whether <hi rend="i">Visions</hi> ends in stasis as well as in her
+complicity. Instead, I argue (1) that Blake concludes <hi rend="i">Visions</hi> with two strategic
+disjunctions to prompt double vision: the emotive power of Oothoon’s language counters the narrator’s
+assertion of paralysis, which is subsequently undermined by the illuminator’s image of Oothoon in flight,
+and (2) that Oothoon’s experience is ultimately progressive rather than degenerative. 
+<note id="n31"><hi rend="s">1</hi> Susan Fox, “The Female as Metaphor in William Blake’s Poetry,” <hi rend="i">Critical
+Inquiry</hi> 3 (1977): 507-19. Along with Fox, key articles discussing Blake’s representation of the female
+include Irene Taylor, “The Woman Scaly,” <hi rend="i">Blake’s Poetry and Designs</hi>, ed. Mary Lynn
+Johnson and John Grant (1973; New York: Norton, 1979) 539-53; Anne K. Mellor, “Blake’s Portrayal of
+Women,” <hi rend="i">Blake</hi> 16 (1982-83): 148-55; Alicia Ostriker, “Desire Gratified and Ungratified:
+William Blake and Sexuality,” <hi rend="i">Blake</hi> 16 (1982-83): 156-65; and Brenda S. Webster, “Blake,
+Women, and Sexuality,” <hi rend="i">Critical Paths: Blake and the Argument of Method</hi>, ed. Dan Miller,
+Mark Bracher, and Donald Ault (Durham: Duke UP, 1987) 204-24.</note>
+	<note id="n32"><hi rend="s">2</hi> All quotations of Blake’s poetry are from <hi rend="i">The Complete
+Poetry and Prose of William Blake</hi>, ed. David V. Erdman (Berkeley: U of California P, 1982), hereafter
+cited as E followed by the page number.</note>
+	<note id="n33"><hi rend="s">3</hi> S. Foster Damon identifies <hi rend="i">Visions</hi> as a poem of
+Experience in his <hi rend="i">William Blake: His Philosophy and Symbols</hi> (Boston: Houghton-Mifflin, 1924)
+107 and <hi rend="i">A Blake Dictionary: The Ideas and Symbols of William Blake</hi> (1965; rpt. Shambhala P,
+1979) 437, Northrop Frye considers it part of the doomed Orc cycle in <hi rend="i">Fearful Symmetry: A Study
+of William Blake</hi> (1947; rpt. New Jersey: Princeton UP, 1969) 245, and Harold Bloom notes that Oothoon
+achieves Organized Innocence but Theotormon never receives her message in <hi rend="i">Blake’s Apocalypse: A
+Study in Poetic Argument</hi> (New York: Cornell UP, 1963) 113-16.</note>
+	<note id="n34"><hi rend="s">4</hi> Jane E. Peterson, “<hi rend="i">The Visions of the Daughters of
+Albion</hi>: A Problem in Perception,” <hi rend="i">Philological Quarterly</hi> 52 (1973): 252-64.</note>
+	<note id="n35"><hi rend="s">5</hi> Though the following critics condone aspects of Oothoon’s imaginative
+awakening, they find fault as well; the listing is not meant to be exhaustive but to reflect recent critical
+trends: Michael G. Cooke, <hi rend="i">Acts of Inclusion</hi> (New Haven: Yale UP, 1979); Vernon E. Lattin,
+“Blake’s Thel and Oothoon: Sexual Awakening in the Eighteenth Century,” <hi rend="i">The Literary
+Criterion</hi> 16 (1981): 11-24; Mark Anderson, “Oothoon: Failed Prophet,” <hi rend="i">Romanticism Past
+and Present</hi> 8 (1984): 1-21; Laura Ellen Haigwood, “Blake’s <hi rend="i">Visions of the Daughters of
+Albion</hi>: Revising an Interpretive Tradition,” <hi rend="i">San Jose Studies</hi> 11 (1985): 77-94; and
+Nelson Hilton, “An Original Story,” <hi rend="i">Unnam’d Forms: Blake and Textuality</hi>, ed. Nelson
+Hilton and Thomas A. Vogler (Berkeley: U of California P, 1986) 69-104.</note></p>
+        <p>Assessments of Oothoon’s general failure derive from a negative reading of the ending, where the
+darker visions of the narrator follow Oothoon’s last joyous exhortations:
+<q>
+Arise you little glancing wings, and sing your infant joy!<lb/>
+Arise and drink your bliss, for every thing that lives is holy!<lb/>
+<lb/>
+Thus every morning wails Oothoon. But Theotormon sits<lb/>
+Upon the margind ocean conversing with shadows dire.<lb/>
+<lb/>
+The Daughters of Albion hear her woes, &amp; eccho back her sighs.<lb/>
+(8:6-13, E 51)
+</q>
+By dramatically shifting both the temporal and emotional planes of the text, these concluding lines replace
+conventional narrative past tense with a continuing present and move from exultation to resignation. Just as
+Oothoon reaches the apex of her awakening, the narrative reduces her culminating vision to daily activity; her
+resounding proclamations of liberty turn into the narrator’s “wails,” “sighs,” and “woes.” Given
+the narrator’s disconcerting summary view of Oothoon’s orations, many readers believe her prophetic
+insights conclude with failure, since she does not appear to free Theotormon or her sisters.</p>
+        <p>Although the illumination that follows the last three lines depicts Oothoon in flight (pl. 8,
+illus. 1),<supplied type="spacer"> </supplied><ref target="n36" type="note">6</ref> supplanting the Urizenic
+pursuer illustrated on the title page (pl. ii, illus. 2), and possibly bearing the word to her sisters, most
+critics envision her at tale’s end locked in the static tableau Blake illustrates in his frontispiece (pl.
+i, illus. 3). Even the more optimistic Johnson and Grant believe the bound tableau scene eclipses the final
+visual impression of hard-won freedom:
+<q>
+Oothoon never actually escapes from the two warped lovers she is bound to. The three appear locked in their
+situation in the full-page frontispiece (or tailpiece in one copy), plate i, in a sort of “No Exit”
+triangle, even though Oothoon has achieved psychological liberation and brings her
+    <figure n="vda.i.p2" id="vda.i.illbk.02" work-copy="vda.i" rend="db" width="802" height="1000">
+	<figTranscr>VISIONS<lb/>
+	of<lb/>
+	the Daughters of<lb/>
+	Albion<lb/>
+	The Eye sees more than the Heart knows.<lb/>
+	Printed by Will:m Blake : 1793.</figTranscr>
+	<head>2. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate ii, title
+page.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+message to the Daughters of Albion in the final design.<supplied type="spacer"> </supplied><ref target="n37"
+type="note">7</ref>
+	<note id="n36"><hi rend="s">6</hi> All illustrations of Blake’s illuminations are from <hi rend="i">The
+Illuminated Blake</hi>, annot. by David V. Erdman (New York: Anchor P, 1974), and follow Erdman’s plate
+numbers.</note>
+	<note id="n37"><hi rend="s">7</hi> Mary Lynn Johnson and John E. Grant, eds., <hi rend="i">Blake’s Poetry
+and Designs</hi> (New York: W. W. Norton, 1979) 69.</note></q>
+As Johnson and Grant indicate, Blake used the frontispiece as a tailpiece in the early (if not original) copy
+A of <hi rend="i">Visions</hi>, but then consistently positioned it as frontispiece in every other
+copy;<supplied type="spacer"> </supplied><ref target="n38" type="note">8</ref> while shifting plates is the
+easiest mode of revision for a poet who loves to play with textual orderings, I believe Blake deliberately
+presented the tableau scene as frontispiece to avoid leaving viewers with a closing image of paralysis.
+Nevertheless,
+<pb id="p23-186" n="186"/>
+readers find the frontispiece an apt illustration of the poem’s ending, accepting verbatim the narrator’s
+vision of Oothoon. 
+                    <note id="n38"><hi rend="s">8</hi> Erdman (<hi rend="i">Illuminated Blake</hi> 125) argues
+that copy C is the first because of the angel sitting on the female rider’s lap; even so, only one of the
+earliest copies of <hi rend="i">Visions</hi> used the frontispiece as tailpiece until Blake changed his
+mind.</note></p>
+        <p>Imaging that bound Oothoon, critics track back through the tale to uncover the character faults
+that account for her defeat. To some extent doing so reenacts Bromion’s labeling of Oothoon as harlot after
+he rapes her; the narrator tells us Oothoon wails daily, and rather than question how this is true, we return
+to her story for the reasons why. Why, however, do we so readily take the narrator’s final despairing
+description at face value? A work that impugns the validity of individual perceptions and perspectives, notes
+their dependence on the identity of the perceiver, refrains from identifying the narrator (unlike many other
+Blake books),<supplied type="spacer"> </supplied><ref target="n39" type="note">9</ref> and repeatedly points
+to the imaginative necessity of double vision requires us to question the authority of the narrative
+conclusion. <note id="n39"><hi rend="s">9</hi> While the issue of who actually narrates what in Blake’s
+works is a complex one, Blake often provides an ostensible narrator, such as the piper of the 
+<hi rend="i">Songs of Innocence</hi>, the bards of <hi rend="i">Songs of Experience</hi> and 
+<hi rend="i">America</hi>, or the Blakean personae of <hi rend="i">The Marriage of Heaven and Hell, Europe, The
+Book of Urizen, Milton</hi>, and <hi rend="i">Jerusalem. Visions</hi> contains no comparable figure or
+persona.</note></p>
+        <p>Rather than support or even describe the ending, the frontispiece establishes how individuals shape
+or frame what is seen. Circumscribing the primary image—Oothoon and Bromion bound back to back while
+Theotormon covers his head—is a cave whose outline forms a human skull while the sun above Bromion’s head
+doubles as an eye (in many copies). As mere illustration of the text, the image might refer to two specific
+passages: the narrator’s description of how Theotormon “folded his black jealous waters round the
+adulterate pair / Bound back to back in Bromions caves terror &amp; meekness dwell” (2:4-5, E 46) and
+Oothoon’s glance at the sun through Theotormon’s eyes, where “Instead of morn arises a bright shadow,
+like an eye” (2:35, E 47). As illumination, Blake’s sun-eye and cave-skull indicate how perspective
+influences perception; both the eye and I of the perceiver (narrator <hi rend="i">and</hi> reader) determine
+what is seen. We look through our own eyes and skull to see the mirroring eyes and skull of the narrator
+peering back at us. And the frontispiece’s primary image of the trio recedes into these reflecting mirrors,
+frustrating efforts to “converge upon a critical center; Oothoon wails on just at the margin of our
+comprehension.”<supplied type="spacer"> </supplied><ref target="n40" type="note">10</ref> Instead of
+revealing the way Oothoon’s story ends, the frontispiece diagrams how visions accrue through individual
+perspective. <note id="n40"><hi rend="s">10</hi> Mary Lynn Johnson, “William Blake,” <hi rend="i">The
+English Romantic Poets</hi>, ed. Frank Jordan, 4th ed. (New York: MLA, 1985) 218.</note></p>
+        <p>The title page that follows similarly comments on the nature of perception through its illumination
+and language. The title emphasizes plural vision with a grammatical ambiguity that calls attention to the
+identity of the perceiver-narrator
+    <figure n="vda.i.p1" id="vda.i.illbk.01" work-copy="vda.i" rend="db" width="710" height="1000">
+	<figTranscr/>
+	<head>3. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate i,
+frontispiece.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+by making us wonder whose visions constitute <hi rend="i">Visions of the Daughters of Albion.</hi> Does Blake
+use “of” as a possessive indicating the Daughters who see these visions or as a preposition pointing
+toward an external narrator who envisions the Daughters? Why are the visions multiple? The plurality of vision
+could refer to the three participants in the tale, or the three days over which the tale ensues, but these
+plurals still occur within a single overall narrative vision.<supplied type="spacer"> </supplied><ref
+target="n41" type="note">11</ref> Are they “visions” because textual narration differs from visual
+narration? Is the narrator also the illuminator, as Blake’s title page to <hi rend="i">The Book of
+Urizen</hi> suggests (where Urizen writes with one hand and illustrates with the other, pl. 1, illus. 4), or
+do narrator and illuminator offer separate and equally unreliable visions? Perhaps the visions are plural
+because internal evidence offers the viewer more than one way of seeing Oothoon’s experience, overriding any
+single reading of the conclusion. The motto warns, “The Eye sees more than the Heart knows” (pl. ii, E
+45): beyond its obvious application to Theotormon, Bromion, Oothoon, and her sisters, the motto speaks
+directly to readers whose eyes see more of Blake’s composite intent than either the verbal or visual text
+establishes.<supplied type="spacer"> </supplied><ref target="n42" type="note">12</ref>
+	<note id="n41"><hi rend="s">11</hi> John Middleton Murry suggests there were to be other 
+<hi rend="i">Visions</hi>, perhaps as there were to be books beyond <hi rend="i">The [First] Book of Urizen</hi>,
+in “A Note on William Blake’s Visions of the Daughters of Albion,” <hi rend="i">Visions of the Daughters
+of Albion</hi>, reproduced in facsimile (London and Toronto: J. M. Dent and Sons, 1932) 11.</note>
+	<note id="n42"><hi rend="s">12</hi> W. J. T. Mitchell writes “For Blake, writing does not move in a
+straight line toward a single version (or vision) of the story. It traces the clash of contraries and subverts
+the tendency to settle into the fixed oppositions he calls ‘Negations,’ whether these are the moral
+antitheses of law and prophecy, the sensory divide between eye and ear, or the aesthetic gulf between word and
+image” in his “Visible Language: Blake’s Wond’rous Art of Writing,” <hi rend="i">Romanticism and
+Contemporary Criticism</hi>, ed. Morris Eaves and Michael Fischer (Ithaca: Cornell UP, 1986) 80.</note></p>
+        <p>Among the visual cues of the title page, the vertically and horizontally centered “i” of
+“Albion” is augmented by a figure crouching over the “bi”; reminiscent of the bowed (unseeing) head of
+Theotormon (pl. i) and anticipating the bowed (unseeing) Daughters depicted later (pl. 7), the figure
+implicates the unitary perspective of a seeing eye/I. Plate 1 (illus. 5) similarly attacks the seeing eye/I
+through the annotated “i”s of “Visions”: the first is dotted with a dreamy female figure on a cloud
+while an archer aims his arrow through the second. Other figures on the top of plate 1 slyly undermine the
+closure of narrative vision: the illuminator frames the printed word “Visions” with a curved “V” on
+the left and a sinuously robed figure on the right—just as the narrator frames Oothoon’s story with
+introductory and concluding present tense statements. That same “V” sets off the text’s enlarged first
+word—“Enslav’d”—when paired with the comma that follows. A robed figure also appears to drip paint
+or tears over the word “weep,”<supplied type="spacer"> </supplied><ref target="n43" type="note">13</ref>
+hinting, perhaps, at a narrative inability to see beyond enslavement. As the illuminator suggests, the
+<pb id="p23-187" n="187"/>
+<figure n="urizen.c.p1" id="urizen.c.illbk.01" work-copy="urizen.c" rend="db" width="703" height="1000">
+	<figTranscr>THE<lb/>
+	FIRST BOOK<lb/>
+	of<lb/>
+	URIZEN<lb/>
+	LAMBETH. Printed by Will Blake 1794.</figTranscr>
+	<head>4. William Blake, <hi rend="i">First Book of Urizen</hi>, 1794, plate 1.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+narrator may well be locked in a vision of slavery precluding other visions; the illuminator’s efforts to
+undermine the narrator’s vision here, however, dangerously minimize the morally irreducible fact of slavery.
+Both visions invite serious scrutiny. <note id="n43"><hi rend="s">13</hi> Erdman (<hi rend="i">Illuminated
+Blake</hi> 130) likens the figure to an “apocalyptic angel [who] pours liquid from a thin vial to drip
+beside ‘weep,’” while Johnson and Grant see “a draped figure [who] holds out what appears to be a
+dripping paintbrush” (71).</note></p>
+        <p>While the frontispiece, title page, and annotating figures above the text on plate 1 incriminate
+unitary perspective, the third preliminary plate illuminates double vision. Almost evenly divided into text
+and image, plate iii (illus. 6) provides another instance of the discrepancy between various views.
+Oothoon’s first-person account in “The Argument” summarizes the opening actions of 
+<hi rend="i">Visions</hi> from a fairly physical perspective (in what critics identify as a flat, repressed
+voice<supplied type="spacer"> </supplied><ref target="n44" type="note">14</ref>): she loves Theotormon, hides
+in a vale, plucks a flower, rises to meet him, and is raped by Bromion. Probably for Theotormon and Bromion,
+Oothoon’s plot summary accurately describes her story; even the Daughters—and some critics—might accept
+her eight lines as the shell of what happens to Oothoon, since she never seems to move beyond the rape in her
+relationship with Theotormon. <note id="n44"><hi rend="s">14</hi> See Harold Bloom, “Commentary,” 
+<hi rend="i">The Complete Poetry and Prose of William Blake</hi>, ed. David V. Erdman, Berkeley: U of California
+P, 1982) 901 and Peterson 255.</note></p>
+        <p>The illumination below the text provides a counter-image by depicting the glorious imaginative
+awakening “The Argument” omits: Oothoon not only reveals and revels in double vision by seeing the
+Marygold as flower and nymph (as do we), but also demonstrates her prophetic response in kissing “the joy as
+it flies.”<supplied type="spacer"> </supplied><ref target="n45" type="note">15</ref> When we view the entire
+page in context, “The Argument” shows Oothoon’s enslavement and enlightenment as well as the need to
+connect emotional truths with physical experience. Most important, it offers a holistic way of reading the
+conclusion: just as “The Argument” requires text and image for cohesion, the final plate of 
+<hi rend="i">Visions</hi> achieves balance when we conflate the illumination with the narration. Like Oothoon and
+the Marygold, we could welcome Oothoon as she flies. <note id="n45"><hi rend="s">15</hi> D. G. Gillham points
+to Blake’s Notebook entry on “Eternity” to gloss Oothoon’s response to the Marygold in his 
+<hi rend="i">William Blake</hi> (Cambridge: Cambridge UP, 1973) 210: “He who binds to himself a joy / Does the
+winged life destroy / But he who kisses the joy as it flies / Lives in eternity’s sun rise” (E
+470).</note></p>
+        <p>To credit the illuminator with a true vision, and castigate the narrator for a limited one,
+however, abrogates the larger implication of double vision. Just as the narrator’s perspective determines
+perception, so too the illuminator’s. Oothoon’s story contains more than rape, as “The Argument”’s
+illumination shows; at the same time, nothing mitigates the painful horror of rape or victimization or
+slavery, despite the illuminator’s optimistic efforts here. And the illuminator is not always an optimist.
+When Oothoon asserts she is “Open to joy and to delight where ever beauty appears” (6:22, E 50), she goes
+on to describe how she would “in evening mild. wearied with work; / Sit on a bank and draw the pleasures of
+this free born joy” (7:12, E 50); directly above her words the illuminator ironically juxtaposes an image of
+the weary Daughters sitting on such a bank (pl. 7, illus. 7), bringing to mind the hard truth of the
+Daughters’ enslavement. Earlier the illuminator undercuts Theotormon’s anguished “and in what rivers
+swim the sorrows? and upon what mountains / Wave shadows of discontent?” (3:25-4:1, E 47-48) by presenting
+Oothoon chained in a shadowy wave that not only hovers over Theotormon’s bowed head but also ironically
+rises out of his very words “Wave shadows of discontent” (pl. 4, illus. 8). In viewing the conclusion’s
+disjunctive components, we should not reject the narrator’s vision for the illuminator’s image or
+Oothoon’s words, but see how these visions oppose one another to effect plural understanding: “Without
+Contraries is no progression” (<hi rend="i">Marriage</hi> 3:6, E 34).</p>
+        <p>The preliminary plates establish hermeneutic principles that condition our reading of the narrative
+plates, where narration and illumination often present competing perspectives on how to interpret the physical
+and emotional events in <hi rend="i">Visions.</hi> Rather than repeat the excellent critical accounts of what
+happens in <hi rend="i">Visions</hi>, the symbolic identities of the main participants, and the nature of
+Oothoon’s prophetic awakening,<supplied type="spacer"> </supplied><ref target="n46" type="note">16</ref> I
+turn now to a brief summary of the criticism that tends to blame Oothoon’s ostensible failure on her own
+imperfections. One group sees Oothoon as flawed because (1) she depends so much on Theotormon for her identity
+that she becomes no more than a reflection (Peterson, Lattin, Anderson, Hilton), (2) she decries the virgins
+and priests who use nets and snares, is “snared” by Bromion, but offers to trap girls for Theotormon
+(Peterson, Cooke, Anderson, Haigwood, Hilton), (3) she is inactive despite her prophetic stance on action,
+neither forcing a relationship with Theotormon (Peterson) nor leaving him (Peterson, Anderson), and (4) she
+reveals Urizenic traits through her manipulative use of language (Haigwood). A second group looks to Blake
+himself for Oothoon’s shortcomings: too engendered by his times to conceive of a truly liberated woman, he
+does not make Oothoon powerful enough to change her situation (Fox,
+<pb id="p23-188" n="188"/>
+Mellor, Ostriker). Although I share the critical bias of this second group, I disagree that Oothoon ultimately
+fails. While her progress towards prophecy is not constant or direct, she undergoes what I outline below as a
+developmental process that results in her acquiring prophetic stature by the conclusion of the poem; whatever
+discrepancies remain stem from Blake’s historical inability to see beyond fundamental inequities in his
+system. <note id="n46"><hi rend="s">16</hi> Excellent accounts abound; readers might turn to Anderson,
+Gillham, or Peterson for a start.</note></p>
+        <p>On the first day her reactions to the rape demonstrate real psychological complexity: some
+instances seem to suggest she accepts the guilt thrust upon her by Bromion and Theotormon while others hint at
+the beginnings of a visionary response. Unlike the weeping, paralyzed Theotormon, Oothoon does not weep; the
+narrator’s characterization of her writhing limbs and “howl incessant” may point to active, Rintrah-like
+rage.<supplied type="spacer"> </supplied><ref target="n47" type="note">17</ref> Although she seeks to purify
+herself of someone else’s pollution (despite the Marygold’s assertion that “the soul of sweet delight /
+Can never pass away” 1:9-10, E 46), she wants to cleanse the bosom bathed in the Marygold’s glow and not
+her rent loins: “Rend away this defiled bosom that I may reflect. / The image of Theotormon on my pure
+transparent breast” (2:15-16, E46). Defining Oothoon’s desire to reflect Theotormon as limiting ignores
+its affirming dimension: rather than replace Bromion’s signet with Theotormon’s eagle-inscribed insignia,
+she hopes to revive the Marygold’s glow through Theotormon’s image (although her call for a Urizenic,
+self-lacerating method of purification indicates feelings of culpability). The narrator’s summary statement
+sheds more light on narrative perspective than the consequences of Oothoon’s demand; calling Theotormon’s
+responding smile severe, the narrator declares “her soul reflects the smile; / As the clear spring mudded
+with feet of beasts grows pure &amp; smiles” (2:18-19, E 46), but it is impossible for us to ascertain much
+less
+    <figure n="vda.i.p4" id="vda.i.illbk.04" work-copy="vda.i" rend="db" width="691" height="1000">
+	<figTranscr>Visions<lb/>
+	Enslav’d, the Daughters of Albion weep: a trembling lamentation<lb/>
+	Upon their mountains; in their valleys, sighs toward America.<lb/>
+	For the soft soul of America, Oothoon wanderd in woe,<lb/>
+	Along the vales of Leutha seeking flowers to comfort her;<lb/>
+	And. thus she spoke to the bright Marygold of Leutha’s vale<lb/>
+	Art thou a flower! art thou a nymph! I see thee now a flower;<lb/>
+	Now a nymph! I dare not pluck thee from thy dewy bed!<lb/>
+	The Golden nymph replied; pluck thou my flower Oothoon the mild<lb/>
+	Another flower shall spring. because the soul of sweet delight<lb/>
+	Can never pass away, she ceas’d &amp; closd her golden shrine.<lb/>
+	Then Oothoon pluck’d the flower saying, I pluck thee from thy bed<lb/>
+	Sweet flower. and put thee here to glow between my breasts<lb/>
+	And thus I turn my face to where my whole soul seeks.<lb/>
+	Over the waves she went in wing’d exulting swift delight;<lb/>
+	And over Theotormons reign, took her impetuous course.<lb/>
+	Bromion rent her with his thunders, on his stormy bed<lb/>
+	Lay the faint maid, and soon her woes appalld his thunders hoarse<lb/>
+	Bromion spoke. behold this harlot here on Bromions bed,<lb/>
+	And let the jealous dolphins sport around the lovely maid;<lb/>
+	Thy soft American plains are mine, and mine thy north &amp; south;<lb/>
+	Stampt with my signet are the swarthy children of the sun:<lb/>
+	They are obedient, they resist not, they obey the scourge:<lb/>
+	Their daughters worship terrors and obey the violent:</figTranscr>
+	<head>5. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate 1.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+accept the validity of the narrator’s judgment: can the narrator see her soul? It is the narrator, and not
+Oothoon, who concludes the first day with a simile that represents her as no more than a reflecting spring.
+<note id="n47"><hi rend="s">17</hi> While we cannot blindly accept the narrator’s interpretive statements
+(does she “howl” or “scream” or “cry”?), we must, at some point, work with the basic physical
+outline of events (that, for instance, Bromion intercepts her flight towards Theotormon). Like Haigwood (81) I
+disagree with Bloom’s view that Oothoon’s writhing limbs indicate her need for sexual fulfillment from
+Theotormon (“Commentary,” 901).</note></p>
+        <p>On the second day she surges beyong the limitations of the first by asserting her essential purity
+and rejecting Urizen’s definition of the five senses, explaining how former teachings falsely restrained her
+vision: “They told me that I had five senses to inclose me up. / And they inclos’d my infinite brain into
+a narrow circle” (2:31-32, E 47). Moving beyond personal understanding, she offers the first of the several
+glorious, image-specific orations that decimate Urizen’s law of the senses:
+<pb id="p23-189" n="189"/>
+	<q>
+With what sense is it that the chicken shuns the ravenous hawk?<lb/>
+With what sense does the tame pigeon measure out the expanse?<lb/>
+With what sense does the bee form cells? have not the mouse &amp; frog<lb/>
+Eyes and ears and sense of touch? yet are their habitations.<lb/>
+And their pursuits, as different as their forms and as their joys:<lb/>
+(3:2-6, E 47)
+</q>
+Through language that evolves from the innocent, revelatory query Oothoon asks of the Marygold—“Art thou a
+flower! art thou a nymph!” (1:6, E 46)—to the powerful, rhetorical questions offered to Theotormon and
+Bromion, Oothoon’s expanded sensory awareness moves her further and further towards prophecy.</p>
+        <p>While they acknowledge Oothoon’s increasing awareness, critics also note two instances of
+regression on this second day. After Oothoon rejects the limited schooling of the five senses, she turns to
+Theotormon to celebrate the new morning; because he fails to share or confirm her perceptions, his eyes take
+in a very different landscape, uniformly colored by his despair: “Instead of morn arises a bright shadow,
+like an eye / In the eastern cloud: instead of night a sickly charnel house / That Theotormon hears me not! to
+him the night and morn / Are both alike” (2:35-38, E 47). Worried by her apparent dependency on
+Theotormon’s perception, some cite this moment to show how Oothoon’s vision fails.<supplied type="spacer"> </supplied><ref target="n48" type="note">18</ref> Instead, we might see Oothoon’s desire for visual
+intercourse with Theotormon as confirmation of her double vision: her ability to see the world through his
+eyes indicates a strength, rather than a weakness. What she sees saddens her, but does not destroy her
+progress towards prophecy, her sense of her own identity or her independent vision of the landscape; it is
+after she looks through Theotormon’s shadowy perception that she offers her powerful assertion of multiple
+sensory experience for different creatures. <note id="n48"><hi rend="s">18</hi> See Hilton 100 and Peterson
+259.</note></p>
+        <p>The second instance of regression is problematic, for Oothoon appears to bribe Theotormon with
+silence and uses images of defilement to establish her purity:
+<q>
+Silent I hover all the night, and all day could be silent.<lb/>
+If Theotormon once would turn his loved eyes upon me;<lb/>
+How can I be defild when I reflect thy image pure?<lb/>
+Sweetest the fruit that the worm feeds on. &amp; the soul prey’d on by woe<lb/>
+The new wash’d lamb ting’d with the village smoke &amp; the bright swan<lb/>
+By the red earth of our immortal river: I bathe my wings.<lb/>
+And I am white and pure to hover round Theotormons breast.<lb/>
+(3:14-19, E 47)
+</q>
+Like the dissembling virgin she attacks the very next day, Oothoon extends a promise of silence in exchange
+for one look from Theotormon. Not yet a hypocrite, Oothoon actually might learn to condemn the virgin’s
+silence because she keeps her promise when Theotormon finally responds.</p>
+        <p>More disturbing than her promise, she seems to go back on her prophetic declaration of essential
+purity in asking how she can be defiled when she reflects Theotormon’s “image pure.” Given the
+linguistic ambiguity we do not know whether she means Theotormon himself or his image of purity; in either
+case Anderson considers her metaphors for purity defiled through external forces revelatory of how Oothoon
+continues to see herself in Theotormon’s terms (5). I believe Oothoon consciously adopts Theotormon’s
+terms to focus her message for his level of awareness. Just as Oothoon’s address on sensory differentiation
+speaks directly to Bromion, her semantic choices here disclose immense sensitivity in trying to lead
+Theotormon to her own position with images culled from his perceptual system. Because the responses of
+Theotormon and Bromion echo the words Oothoon offers, they show how well she reads them. That her speech
+    <figure n="vda.i.p3" id="vda.i.illbk.03" work-copy="vda.i" rend="db" width="834" height="1000">
+	<figTranscr>The Argument<lb/>
+	I loved Theotormon<lb/>
+	And I was not ashamed<lb/>
+	I trembled in my virgin fears<lb/>
+	And I hid in Leutha’s vale!<lb/>
+	I plucked Leutha’s flower,<lb/>
+	And I rose up from the vale;<lb/>
+	But the terrible thunders tore<lb/>
+	My virgin mantle in twain.</figTranscr>
+	<head>6. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate iii.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+does provoke a response from the nearly paralyzed Theotormon demonstrates the efficacy of her language. When
+Theotormon finally “turns his loved eyes upon her” through his reply, she keeps her word and maintains
+silence.</p>
+        <p>As the third day begins, Oothoon concludes her vow of silence with an exponential leap of
+awareness, turning her attention from Theotormon to Urizen with a lamentation so sweeping and long it
+constitutes roughly half of the text.<supplied type="spacer"> </supplied><ref target="n49"
+type="note">19</ref> Extending her basic denial of Bromion’s “one law for both the lion and the ox”
+(4:22, E 48) to human systems, Oothoon attacks Urizen through a brilliant series of prophetic utterances that
+connect economics, agriculture, religion, education, and marriage:
+<q>
+How can the giver of gifts experience the delights of the merchant?<lb/>
+How the industrious citizen the pains of the husbandman.<lb/>
+<pb id="p23-190" n="190"/>
+How different far the fat fed hireling with hollow drum;<lb/>
+Who buys whole cornfields into wastes, and sings upon the heath:<lb/>
+How different their eye and ear! how different the world to them!<lb/>
+With what sense does the parson claim the labour of the farmer?<lb/>
+What are his nets &amp; gins &amp; traps.<lb/>
+(5:12-18, E 48-49)
+</q>
+Just as the forms, habitations, and pursuits of animals point toward multivalent experience, human systems
+demonstrate such vast differences we cannot impose one code of interpretation. The giver of gifts and the
+merchant may perform the same basic function—transferring an item to a new owner—and even require one
+another to perform that function, but any effort to evaluate their actions demands completely separate scales.
+<note id="n49"><hi rend="s">19</hi><hi rend="i"> Visions</hi> comes to two hundred twenty-two lines if we
+include “The Argument” and the motto; Oothoon’s final lamentation goes for one hundred two of those
+lines.</note></p>
+        <p>No one disputes the depth and range of Oothoon’s prophetic statements on human systems; some
+become uneasy when Oothoon moves from her broad analysis of limited Urizenic morality to refocus attention on
+her own situation. Describing how the child’s natural sexuality is further and further repressed until that
+child grows up to be a virgin hypocrite, Oothoon expresses her frustration through a direct attack on
+Theotormon:
+<q>
+Then com’st thou forth a modest virgin knowing to dissemble<lb/>
+With nets found under thy night pillow, to catch virgin joy,<lb/>
+And brand it with the name of whore; &amp; sell it in the night,<lb/>
+In silence. ev’n without a whisper, and in seeming sleep:<lb/>
+. . . And does my Theotormon seek this hypocrite modesty!<lb/>
+This knowing, artful, secret, fearful, cautious, trembling hypocrite.<lb/>
+Then is Oothoon a whore indeed! and all the virgin joys<lb/>
+Of life are harlots: and Theotormon is a sick mans dream<lb/>
+And Oothoon is the crafty slave of selfish holiness.<lb/>
+(6:10-20, E 49-50)
+</q>
+As Haigwood points out, Oothoon’s language limits rather than invites Theotormon’s response through her
+does/then construction, which “doesn’t ask Theotormon what he thinks and feels; she tells him,
+‘enslaving’ his experience to her own ‘system’” (88).<supplied type="spacer"> </supplied><ref
+target="n50" type="note">20</ref> Haigwood’s point is well-taken: Oothoon not only exhibits Urizenic
+behavior through syntax, but also adopts Bromion’s reductive name-calling by conditionally branding herself
+a whore and Theotormon a “sick mans dream.” <note id="n50"><hi rend="s">20</hi> Earlier Haigwood
+identifies how Oothoon’s “either/or construction slams shut the door of dialogue at the same time that it
+seems to open it: that is, the possible responses are limited in such a way that if the answer doesn’t fit
+the asker’s prescribed categories, the person addressed can only be mute” (88).</note></p>
+        <p>In Oothoon’s defense, however, let us consider her self-righteous wrath. Oothoon lashes out in
+justified anger after her description of the virgin hypocrite’s decorous silence; perhaps Oothoon 
+<hi rend="i">has</hi> been made into “a whore indeed” if it is her silence rather than her great verbal
+sensitivity which finally prompts Theotormon’s longed-for response. That the two lines describing how the
+hypocrite virgin brands sexuality with “the name of whore” and keeps silent constitute the exact center of
+Oothoon’s one hundred and two line oration on the third day highlights their importance to her experience.
+Potentially co-opted by Urizen’s system, Oothoon recoils from her similarity to the virgin with rage.
+Although she quickly retracts the names she calls herself—“But Oothoon is not so” (6:21, E 50)—she
+never corrects her nomination of Theotormon as a “sick mans dream.” In fact, she perpetuates the image
+later on by describing someone who closely resembles Theotormon as sickened with self-love (7:17-22, E
+50).</p>
+        <p>What critics cite most frequently as proof of Oothoon’s downfall is her offer to catch girls for
+Theotormon:
+<q>
+But silken nets and traps of adamant will Oothoon spread,<lb/>
+And catch for thee girls of mild silver, or of furious gold;<lb/>
+I’ll lie beside thee on a bank &amp; view their wanton play<lb/>
+In lovely copulation bliss on bliss with Theotormon:<lb/>
+Red as the rosy morning, lustful as the first born beam,<lb/>
+Oothoon shall view his dear delight, nor e’er with jealous cloud<lb/>
+Come in the heaven of generous love; nor selfish blightings bring.<lb/>
+(7:24-29, E 50)
+</q>
+Although her “silken nets and traps of adamant” are meant to contrast with the web of age spun by the
+jealous, weeping lover in the section above, “grey and hoary! dark!” (7:19, E 50), Oothoon’s apparent
+willingness to use these Urizenic tools awakens suspicions, given her denunciation of both the parson and the
+virgin for their nets and traps. Despite the negative connotations nets and traps generally bear, they may not
+be innately tainted in <hi rend="i">Visions</hi>: in measuring the parson’s labor against the farmer’s,
+Oothoon suggests a legitimate use for nets and traps: “With what sense does the parson claim the labour of
+the farmer? / What are his nets &amp; gins &amp; traps?” (5:17-18, E 49). At the same time 
+<hi rend="i">Marriage</hi> insists that “All wholesom food is caught without a net or a trap” (7:13, E
+36).</p>
+        <p>Even more troubling than her means, the offer itself alerts many critics to a weakness in Oothoon.
+Most wonder why Oothoon intimates she would be content to watch Theotormon copulate with other girls, as it
+exemplifies the voyeuristic sexuality Oothoon condemns in attacking “The self enjoyings of self denial”
+(7:9, E 50). Several points bear consideration: first, Blake’s lines are sufficiently equivocal to suggest
+that Oothoon lies beside Theotormon “in lovely copulation” while the pair watch the wanton play of the
+girls; second, Oothoon never says she will only and always watch. Third, the entire episode sets up an
+antimony to the kind of looking the jealous lover performs in the section above, whose “lamplike eyes
+watching around the frozen marriage bed” (7:22, E 50) lock lovers into fruitless relationships. Fourth, and
+most important, she clearly follows the path Blake demarcates for enlightened Emanations by advocating a form
+of polygyny;<supplied type="spacer"> </supplied><ref target="n51" type="note">21</ref> as Damon writes, “To
+save the marriage, 
+<pb id="p23-191" n="191"/>
+the Emanation must renounce her thirst for dominion and sacrifice her selfishness” 
+(<hi rend="i">Dictionary</hi> 122). Oothoon’s offer to trap girls for Theotormon justifiably distresses recent
+critics, but perhaps we should be troubled by Blake himself. <note id="n51"><hi rend="s">21</hi> In 
+<hi rend="i">Milton</hi>, for instance, several of Blake’s figures promote polygyny, such as the Divine Voice:
+<q>
+She shall begin to give<lb/>
+Her maidens to her husband: delighting in his delight<lb/>
+And then &amp; then alone begins the happy Female joy<lb/>
+As it is done in Beulah, &amp; thou O Virgin Babylon Mother of Whoredoms<lb/>
+Shalt bring Jerusalem in thine arms in the night watches; and<lb/>
+No longer turning her a wandering Harlot in the streets<lb/>
+Shalt give her into the arms of God your Lord &amp; Husband.<lb/>
+(33:17-23, E 133)
+</q></note></p>
+        <p>Oothoon goes on to end the third day’s lamentation with a rousing finale that validates her
+tremendous progress towards prophetic stature. Rather than seize upon the negative aspects of her experience,
+I propose we consider that progress is not always swift and direct. Like the Los of <hi rend="i">Milton</hi>
+who succumbs to Satan’s pleas only to recall that pity divides the soul, or who first joins Urizen to block
+Milton’s journey before he remembers the prophecy of Eden, Oothoon must work through the obstacles in her
+path towards prophecy. Not at all static, Oothoon’s language and experiences reveal increasing visionary
+awareness through leaps and surges. Although at first she addresses Theotormon alone (after the rape), she
+soon includes Bromion and then moves outward to Urizen, expanding the range of her commentary from sensory
+differentiation to human systems. She begins the second day with a call inviting Theotormon to “Arise,”
+but by the end of the third, she broadens her scope immeasurably: “Arise you little glancing wings, and sing
+your infant joy! / Arise and drink your bliss, for every thing that lives is holy!” (8:9-10, E 51).</p>
+        <p>The narrator’s conclusion not only undermines the emotional affect of Oothoon’s visionary
+exhortations but also reverses any sense of progress: “Thus every morning wails Oothoon. but Theotormon sits
+/ Upon the margind ocean conversing with shadows dire” (8:11-12, E 51). Because Oothoon imagines turning
+into such a shadow through Theotormon’s continued rejection, “Till beauty fades from off my shoulders
+darken’d and cast out, / A solitary shadow wailing on the margin of non-entity” (7:14-15, E 50), Hilton
+wonders if Theotormon’s dire shadows might be Oothoon herself (102-
+    <figure n="vda.i.p10" id="vda.i.illbk.10" work-copy="vda.i" rend="db" width="722" height="1000">
+	<figTranscr>7<lb/>
+	In happy copulation; if in evening mild. wearied with work;<lb/>
+	Sit on a bank and draw the pleasures of this free born joy.<lb/>
+	The moment of desire! the moment of desire! The virgin<lb/>
+	That pines for man; shall awaken her womb to enormous joys<lb/>
+	In the secret shadows of her chamber; the youth shut up from<lb/>
+	The lustful joy, shall forget to generate, &amp; create an amorous image<lb/>
+	In the shadows of his curtains and in the folds of his silent pillow.<lb/>
+	Are not these the places of religion? the rewards of continence!<lb/>
+	The self enjoyings of self denial? Why dost thou seek religion?<lb/>
+	Is it because acts are not lovely, that thou seekest solitude,<lb/>
+	Where the horrible darkness is impressed with reflections of desire.<lb/>
+	Father of Jealousy. be thou accursed from the earth!<lb/>
+	Why hast thou taught my Theotormon this accursed thing?<lb/>
+	Till beauty fades from off my shoulders darken’d and cast out,<lb/>
+	A solitary shadow wailing on the margin of non-entity.<lb/>
+	I cry, Love! Love! Love! happy happy Love! free as the mountain wind!<lb/>
+	Can that be Love, that drinks another as a sponge drinks water?<lb/>
+	That clouds with jealousy his nights, with weepings all the day:<lb/>
+	To spin a web of age around him, grey and hoary! dark!<lb/>
+	Till his eyes sicken at the fruit that hangs before his sight.<lb/>
+	Such is self-love that envies all! a creeping skeleton<lb/>
+	With lamplike eyes watching around the frozen marriage bed.<lb/>
+	But silken nets and traps of adamant will Oothoon spread,<lb/>
+	And catch for thee girls of mild silver, or of furious gold:<lb/>
+	I’ll lie beside thee on a bank &amp; view their wanton play<lb/>
+	In lovely copulation bliss on bliss with Theotormon;<lb/>
+	Red as the rosy morning, lustful as the first born beam,<lb/>
+	Oothoon shall view his dear delight, nor e’er with jealous cloud<lb/>
+	Come in the heaven of generous love; nor selfish blightings bring.<lb/>
+	Does the sun walk in glorious raiment, on the secret floor</figTranscr>
+	<head>7. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate 7.</head>
+	<figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+03). Does the narrator merely echo Oothoon’s despairing possibility? Like Bromion, whose second speech
+initially supports Oothoon’s vision—“knowest thou that trees and fruits flourish upon the earth / To
+gratify senses unknown” (3:14-15, E 48)—and then abruptly rejects it in asserting “eternal fire, and
+eternal chains” (3:23, E 48), the narrator tells Oothoon’s story sympathetically but finally denies the
+larger truth of her progress through time: “the true meaning of time lies in its identity with the spirit of
+prophecy, for by speaking out, the prophet can reverse the cycles of history and make time an agent of mercy,
+rather than of destruction.”<supplied type="spacer"> </supplied><ref target="n52" type="note">22</ref>
+	<note id="n52"><hi rend="s">22</hi> Mollyanne Marks, “Time as Hero in Blake’s Major Prophecies,” 
+<hi rend="i">Studies in Eighteenth-Century Culture</hi>, vol. 5, ed. Ronald C. Rosbottom (Wisconsin: U of
+Wisconsin P, 1976) 59.</note></p>
+        <pb id="p23-192" n="192"/>
+        <p>Much more than a shadowy reflection of Theotormon, Oothoon actually presents a model that
+Theotormon shadows; not only rent by Bromion after Oothoon is rent, Theotormon also mimes Oothoon’s
+rhetoric, as the following call by Oothoon and response (albeit reductive) from Theotormon reveals:
+<q>
+They told me that the night &amp; day were all that I could see;<lb/>
+They told me that I had five senses to inclose me up;<lb/>
+And they inclos’d my infinite brain into a narrow circle.<lb/>
+<lb/>
+. . . . . . . . . . . .<lb/>
+<lb/>
+And then tell me the thoughts of man, that have been hid of old.<lb/>
+(2:30-3:13, E 47)<lb/>
+<lb/>
+. . . . . . . . . . . .<lb/>
+<lb/>
+Tell me what is the night or day to one o’erflowed with woe?<lb/>
+Tell me what is a thought? &amp; of what substance is it made?<lb/>
+Tell me what is a joy? &amp; in what gardens do joys grow?<lb/>
+. . . . . . . . . . . .<lb/>
+Tell me where dwell the thoughts forgotten till thou call them forth<lb/>
+Tell me where dwell the joys of old! &amp; where the ancient loves?<lb/>
+(3:22-4:4, E 47-48)
+</q>
+Already a shade when we meet him, Theotormon’s past grace and glory exist, like Ahania’s Urizen or
+Ophelia’s Hamlet, in the memories of those who loved him. The text’s final image of Theotormon suggests he
+becomes a shadow conversing with shadows, fulfilling the dictum of Blake’s prophecy on restrained desire:
+“being restrained it by degrees becomes passive till it is only the shadow of desire” 
+(<hi rend="i">Marriage</hi> 5:4-5, E 34). Despite the narrator’s grim summary view of Theotormon, Oothoon’s
+insistent questioning effects some small but real progress. On the first day he stops weeping to smile
+(severely); on the second day Oothoon elicits a verbal response from him. By the end he no longer weeps in
+front of his cave but engages in conversation.</p>
+        <p>Given Theotormon’s corresponding fall, does Oothoon err in her efforts to awaken him? Those who
+see Oothoon’s failure in her inability to free herself from dependence on Theotormon neglect to consider
+Oothoon’s real options and prophetic commitments. As Theotormon’s Emanation, she must effect reintegration
+with him; choosing another partner unleashes devastating consequences for other pairs in <hi rend="i">The Four
+Zoas</hi> or <hi rend="i">Jerusalem.</hi> Nor does Blake present Oothoon with any options: in order to fulfill
+her desire she can only turn to Theotormon or Bromion the rapist (who Gillham argues is Theotormon).<supplied
+type="spacer"> </supplied><ref target="n53" type="note">23</ref> If anything binds Oothoon, it is Blake’s
+system of Emanations. Beyond the constraints imposed by that larger, later system, however, lies the
+compelling responsibility of the true prophet. Oothoon’s daily lamentation signifies her wonderful
+determination to awaken those around her, providing an early version of the persistent visionary Blake clearly
+endorses in <hi rend="i">Jerusalem</hi>:
+<q>
+Of the Sleep of Ulro! and of the passage through<lb/>
+Eternal Death! and of the wakening to Eternal Life.<lb/>
+<lb/>
+This theme calls me in sleep night after night, &amp; ev’ry morn<lb/>
+Awakes me at sun-rise, then I see the Saviour over me<lb/>
+Spreading his beams of love, &amp; dictating the words of this mild song.<lb/>
+<lb/>
+Awake! awake O sleeper of the land of shadows, wake! expand!<lb/>
+<lb/>
+I am in you and you in me, mutual in love divine:<lb/>
+<lb/>
+. . . . . . . . . . . .<lb/>
+<lb/>
+Trembling I sit day and night, my friends are astonish’d at me.<lb/>
+<lb/>
+Yet they forgive my wanderings, I rest not from my great task!<lb/>
+To open the Eternal Worlds, to open the immortal Eyes<lb/>
+(4:1-7, 5:16-18, E 146-47)
+</q>
+	<note id="n53"><hi rend="s">23</hi> Unlike the heroines of numerous 1960s and 70s novels, Oothoon cannot walk
+out on Theotormon to find a more enlightened man.</note></p>
+        <p>Rather than castigate Oothoon’s seeming dependence on Theotormon, let us recognize the depth of
+her resolution. Just as Los must work with his Spectre to build Golgonooza, Oothoon must bring Theotormon to a
+new level of awareness. And just as Los “built the stubborn structure of the Language, acting against /
+Albions melancholy, who must else have been a Dumb despair” (<hi rend="i">Jerusalem</hi> 36:59-60, E 183),
+Oothoon moves beyond dumb despair—beyond embracing her own silence and Theotormon’s—to use the stubborn
+structure of language for enlightenment. Taking action through words, Oothoon never surrenders; although
+Theotormon, Bromion, and Urizen fail to comprehend her prophecy by the end of <hi rend="i">Visions</hi>, she
+embodies the healing mercy of time: in describing an Oothoon who continues to wail, the narrator provides
+evidence to support the possibility of change. While the narrator does not yet understand, as Oothoon does,
+how “they inclos’d my infinite brain into a narrow circle” (2:32, E 47), narrative disjunction enables
+readers to go into and out of the circle Blake’s Notebook taunts God with: “If you have formed a Circle to
+go into / Go into yourself &amp; see how you would do” (“To God,” E 516). By framing the narrator’s
+despair with two positive instances in the text—Oothoon’s triumphant calls for freedom and the
+illumination depicting her in flight—Blake enables alternate viewings of the conclusion. Jumping back and
+forth between the image of Oothoon called up through the narrator’s words<supplied type="spacer"> </supplied><ref target="n54" type="note">24</ref> and the illuminated Oothoon in flight<supplied
+type="spacer"> </supplied><ref target="n55" type="note">25</ref> effects the double vision Oothoon possesses
+when she first sees the Marygold: “I see thee now a flower! now a nymph!” Although I believe we should
+follow Oothoon’s prophetic response and kiss “the joy as it flies” (“Eternity,” E 470), the
+illuminator’s final image does not correct the narrator’s version so much as balance it. Eyes may see more
+than hearts know, but hearts
+<pb id="p23-193" n="193"/>
+know that at the end of <hi rend="i">Visions</hi>, Oothoon remains without Theotormon. The determined
+expression on Oothoon’s face warns us not to condone her lack of fulfillment; at the same time we should
+heed her words—“Arise and drink your bliss, for every thing that lives is holy!”—to joy in her
+progress towards prophecy. <note id="n54"><hi rend="s">24</hi> Gillham sees the three figures on the bank in
+the final plate as Oothoon, Theotormon, and Bromion (195).</note>
+	<note id="n55"><hi rend="s">25</hi> See Janet Warner, <hi rend="i">Blake and the Language of Art</hi>
+(Kingston and Montreal: McGill-Queen’s UP, 1984) 94-95 and E. B. Murray, “A Pictorial Guide to Two-Fold
+Vision: Copy ‘O’ of <hi rend="i">VDA</hi>,” <hi rend="i">Sparks of Fire: Blake in a New Age</hi>, ed.
+James Bogan and Fred Goss (California: North Atlantic Books, 1982) 165, among others for very different
+discussions of how to view the final image of Oothoon in flight.</note></p>
+        <p>While Oothoon does not and cannot approximate a contemporary feminist ideal, she comes closest to
+bridging the curious gap between Blake’s belief in human liberation and his poetic representation of the
+female. As the best (and perhaps only) active, good female figure, Oothoon occupies a special place in
+Blake’s canon; unlike his more conventional portrayal of females as positive through self-sacrifice (Ololon,
+<hi rend="i">Thel</hi>s Lilly) or perniciously manipulative (Enitharmon, Vala), Oothoon acts through prophetic
+speeches that render the philosophical principles generally stated by male figures. After Visions Blake offers
+limiting images of women; the feminist possibilities Oothoon embodies seem to disappear. Oothoon herself,
+however, periodically resurfaces as if Blake means to hold on to the fleeting possibilities she embodies; the
+rebellious daughter who goes against Enitharmon’s reign of sexual delusion in <hi rend="i">Europe</hi>, the
+guard who enables the fulfillment of Leutha’s desires after Elynittria brings Leutha to Palamabron’s bed
+in <hi rend="i">Milton</hi>,<supplied type="spacer"> </supplied><ref target="n56" type="note">26</ref> she is,
+finally, a way into Beulah in <hi rend="i">Jerusalem</hi>:
+<q>
+There is a Grain of Sand in Lambeth that Satan cannot find<lb/>
+Nor can his Watch Fiends find it: tis translucent &amp; has many Angles<lb/>
+But he who finds it will find Oothoons palace, for within<lb/>
+Opening into Beulah every angle is a lovely heaven<lb/>
+(37:15-18, E 183)
+</q>
+In our current revisioning of Oothoon, I propose we view her through that translucent angle of vision that
+opens into Beulah. <note id="n56"><hi rend="s">26</hi> Oothoon also hovers with Leutha over Orc “Opening
+interiorly into Jerusalem &amp; Babylon shining glorious / Into the Shadowy Females bosom” (18:41-42, E 112)
+to suggest the kind of female form Orc would have the Shadowy Female wear. Although many read her appearance
+as negative, I believe she initially represents the possibility of a polygynous marriage that the Shadowy
+Female rejects; that rejection accounts for the turn towards perversity. Oothoon appears again in the poem’s
+concluding movement toward apocalypse: “soft Oothoon / Pants in the Vales of Lambeth weeping oer her Human
+Harvest” (42:32-33, E 144).</note></p>
+        <figure n="vda.i.p7" id="vda.i.illbk.07" work-copy="vda.i" rend="db" width="675" height="1000">
+	<figTranscr>Wave shadows of discontent! and in what houses dwell the wretched<lb/>
+	Drunken with woe forgotten. and shut up from cold despair,<lb/>
+	Tell me where dwell the thoughts forgotten till thou call them forth<lb/>
+	Tell me where dwell the joys of old! &amp; where the ancient loves?<lb/>
+	And when will they renew again &amp; the night of oblivion past?<lb/>
+	That I might traverse times &amp; spaces far remote and bring<lb/>
+	Comforts into a present sorrow and a night of pain<lb/>
+	Where goest thou O thought! to what remote land is thy flight?<lb/>
+	If thou returnest to the present moment of affliction<lb/>
+	Wilt thou bring comforts on thy wings, and dews and honey and balm;<lb/>
+	Or poison from the desart wilds, from the eyes of the envier.<lb/>
+	Then Bromion said; and shook the cavern with his lamentation<lb/>
+	Thou knowest that the ancient trees seen by thine eyes have fruit;<lb/>
+	But knowest thou that trees and fruits flourish upon the earth<lb/>
+	To gratify senses unknown? trees beasts and birds unknown:<lb/>
+	Unknown, not unpercievd, spread in the infinite microscope,<lb/>
+	In places yet unvisited by the voyager. and in worlds<lb/>
+	Over another kind of seas, and in atmospheres unknown.<lb/>
+	Ah! are there other wars, beside the wars of sword and fire!<lb/>
+	And are there other sorrows, beside the sorrows of poverty?<lb/>
+	And are there other joys, beside the joys of riches and ease?<lb/>
+	And is there not one law for both the lion and the ox?<lb/>
+	And is there not eternal fire, and eternal chains?<lb/>
+	To bind the phantoms of existence from eternal life?<lb/>
+	Then Oothoon waited silent all the day, and all the night,</figTranscr>
+          <head>8. William Blake, <hi rend="i">Visions of the Daughters of Albion</hi>, 1793, plate 4.</head>
+          <figDesc>Courtesy of the Yale Center for British Art, Paul Mellon Collection.</figDesc>
+        </figure>
+      </div1>
+	<pb id="p23-194" n="194" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

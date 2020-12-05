@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.4.passion</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Power and Passion in William Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.4</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Morton D. Paley</name>
+              <name>Margaret Storch</name>
+              <name>John Vice</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <body>
+      <pb id="p26-171" n="171"/>
+      <div1 id="BQ-26-4-0009">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">POWER AND PASSION IN WILLIAM BLAKE</hi>
+            </title>
+          </head>
+          <div3>
+            <head>
+              <title>
+                <hi rend="i">CALL FOR PAPERS</hi>
+              </title>
+            </head>
+            <p>Topic: <hi rend="i">Power and Passion in William Blake</hi>, to be read at the Northeast Modern
+Language Association 1994 Convention in Pittsburgh, PA, 8-10 April, 1994. Send papers with 20 minutes reading
+time (approx. 8-10 typed pages) by 31 August, 1993 to:
+<q>
+Dr. Rachel Billigheimer<lb/>
+Department of English<lb/>
+McMaster University<lb/>
+Hamilton, Ontario<lb/>
+Canada L8S 4L9
+</q></p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.3.europe</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Europe iii: 18</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.3</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>S. Foster Damon</name>
+                            <name>Alvin H. Rosenfeld</name>
+                            <name>Laurence Goldstein</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <div1 id="BQ-01-3-0005">
+				<pb id="p01-16" n="16"/>
+                <div2>
+                    <head>
+                        <title type="main">5. <hi rend="u">Europe</hi> iii: 18</title>
+                    </head>
+                    <p>In examining copy H of <hi rend="u">Europe</hi> at the Houghton Library, I found that
+line 18 of the prefatory poem reads “The world, when every particle of dust breathes forth its joy.” The third
+word is usually printed as “where,” but there is only one other copy of <hi rend="u">Europe</hi> with this
+plate extant (K, in the Fitzwilliam Museum), and David Erdman informs me that he has examined his slide of the
+Fitzwilliam plate iii and found the reading to be “when.” The line makes perfect sense as Blake etched it; in
+fact, “when” ties in more closely with the theme of the prefatory poem.</p>
+                    <p>At the beginning of the poem, Blake hears the Fairy singing about the senses: “Five
+windows light the cavern’d Man” etc. The fifth sense, touch, could admit man to the joys of Eternity if his
+hypocritical morality did not restrain him:
+					<q>
+					Thro’ one, himself pass out what time he please, but he will not;<lb/>
+					For stolen joys are sweet, &amp; bread eaten in secret pleasant.
+					</q>
+                    </p>
+                    <p>After the Fairy is caught by the poet, he promises to write a Blakean illuminated book
+(“on leaves of flowers”) and to
+					<q>
+					shew you all alive<lb/>
+					The world, when every particle of dust breathes forth its joy.
+					</q>
+					</p>
+                    <p>Thus the line as Blake etched it continues the theme of erotic mysticism introduced
+earlier in the poem, “when” referring to the ecstatic moment at which the life of the universe is
+perceived.<gap type="emend"/></p>
+					<pb id="p01-18" n="18"/>
+                    <p>How “when” came to be printed for “where” in editions of Blake is not clear. Perhaps
+Ellis and Yeats started the tradition. Sampson (1905) printed “when,” but Sloss and Wallis (1926) reverted to
+“where.” Keynes printed “when” in 1925, but afterwards substituted “where”; the Erdman-Bloom edition has
+“where.” There appears to be no textual authority for any reading but “when.”</p>
+                    <byline>
+                        <docAuthor>MDP</docAuthor>
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

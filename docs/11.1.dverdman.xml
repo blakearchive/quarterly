@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.dverdman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Errors in the Signet Edition of The Selected Poetry of Blake</title>
+                <author n="Erdman">David V. Erdman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <div1 id="BQ-11-1-0009">
+				<pb id="p11-37" n="37"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">Errors in the Signet Classic Edition of The Selected Poetry
+                                of Blake</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <hi rend="b">by</hi>
+                        <docAuthor>
+                            <hi rend="b">David V.</hi>
+                            <name>
+                                <hi rend="b">Erdman</hi>
+                            </name>
+                        </docAuthor>
+                    </byline>
+                    <p>In the “Selected Bibliography” on page xvii the Keynes
+                        edition of <hi rend="i">Complete Writings</hi> should be said to contain
+                        “Modernized punctuation” but <hi rend="i">not</hi>
+                        spelling. The Erdman-Stevenson edition of 1971 should be described as
+                        containing “Modernized spelling and punctuation.”</p>
+                    <p>Page 133, note 16:14 should read: “ . . . the year of this Prophecy
+                        (1793) . . . .”</p>
+                    <p>Page 199, note 11:32 should read: “Sin, daughter of Satan and mother
+                        of Death.”</p>
+                    <p>I deny any responsibility for—or any awareness of, before they
+                        were <hi rend="i">faits accomplis</hi>—the weird montage on the
+                        front cover and the deathly prose on the back (“richly
+                        representative . . . extraordinary blending . . . vividly immediate and
+                        tantalizingly ambiguous” and so on).</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

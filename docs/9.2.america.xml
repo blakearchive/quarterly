@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.america</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">New Reproduction of America</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0003">
+        <pb id="p09-37" n="37"/>
+        <div2>
+          <head>
+            <title type="main">New Reproduction of <hi rend="i">America</hi></title>
+          </head>
+          <p>The <hi rend="i">Newsletter</hi> has just finished printing a new reproduction of Blake’s 
+<hi rend="i">America, a Prophecy.</hi> We designed it chiefly for classroom use, as its features show. It is
+<list type="ordered">
+	<item><p><label>1.</label><hi rend="i">America</hi> copy E, except for 2 plates from copy a* (proofs), plus
+the 4 cancelled plates, all from the Lessing J. Rosenwald Collection of the Library of Congress;</p></item>
+	<item><p><label>2.</label> black and white, reproduced with good halftone screens, 150 lines to the inch, on
+9″ × 12″ text paper;</p></item>
+	<item><p><label>3.</label> approximately the size of the original;</p></item>
+	<item><p><label>4.</label> printed <hi rend="i">one plate per page.</hi> There are 2 reproductions of 
+<hi rend="i">each plate</hi>, one on one side of the page, one on the other. One reproduction is a “dropout”
+halftone made from a high-contrast photograph, the other is a standard halftone made from a medium-contrast
+photograph. Each kind of reproduction has its particular virtues, and we are experimenting to find out which
+is more satisfactory;</p></item>
+	<item><p><label>5.</label> unbound, loose sheets in an envelope, so that students can study sequences of
+plates without turning pages back and forth;</p></item>
+	<item><p><label>6.</label> very inexpensive, $2.50 per copy, so that, for example, you can supplement the
+Blake section of an anthology of Romantic poetry—or even the Blake section of a broader anthology in a
+survey course—with one of Blake’s works in illuminated printing, without having students spend too much
+money on books for the course.</p></item>
+</list>
+If you would like to order <hi rend="i">America</hi> for your classes, please give your school bookstore our
+address (below). They will want to know that our discount is 20%, standard for most textbooks, and that our
+return policy is to refund money on all copies returned in good condition within a year.</p>
+          <p>Please understand that we are publishing the reproduction of <hi rend="i">America</hi> strictly
+as a service to teachers of Blake, with no intention of making a profit. We hope we can give you a good, cheap
+reproduction of <hi rend="i">America</hi>, good service, and personal attention to make up for the resources
+in personnel, money, and experience that commercial publishers have. We promise to do our best, but we hope
+you won’t expect more than we can deliver.</p>
+          <p>Send all orders to:<lb/>
+Morris Eaves, Editor<lb/>
+<hi rend="i">Blake Newsletter</hi><lb/>
+Department of English<lb/>
+University of New Mexico<lb/>
+Albuquerque NM 87131</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.2.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>October 1, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.2</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <front>
+            <pb id="p01-1" n="1"/>
+            <div1 id="cover">
+                <figure n="cover.001.02.bqscan" rend="file" width="258" height="331">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Number 2<lb/>
+                        October 1, 1967<lb/>
+                        The Gnomes were at work in issue number 1, and the following errors<lb/>
+                        and omissions should be noted:<lb/>
+                        The report on the Blake—Varley sketchbook (p. 2) appeared not in 
+<hi rend="u">TLS</hi><lb/>
+                        but in the London <hi rend="u">Times</hi>.  We thank Mr. Martin Butlin for pointing
+this out<lb/>
+                        and Miss Mary Hanna for having sent us the clipping.<lb/>
+                        Mr. Fred Whithead, whom we again thank for a list of ongoing Blake pro-<lb/>
+                        jects, was incorrectly renamed Robert.<lb/>
+                        Our masthead was deisgned by Miss Amy Tsuji, who also compiled the list<lb/>
+                        of articles on pp. 2-4 of number 1.  On page 3, we should have included the<lb/>
+                        contributions by Fred C. Robinson to the December 1966 <hi rend="u">PMLA</hi>
+discussion<lb/>
+                        “Tense and the Sense of Blake’s ‘The Tyger’” (599-600, 602-603).<lb/>
+                        On p. 7 (Stevenson note 3), there were two obvious typos for “Keynes”<lb/>
+                        and “Greek.”<lb/>
+                        All of which reminds us that the crooked roads without Improvement are<lb/>
+                        roads of Genius.<lb/>
+                        *  *  *  *  *  *  *  *  *<lb/>
+                        Newsletter number 3 is scheduled for publication on December 15, 1967.  It<lb/>
+                        will be dedicated to S. Foster Damon.  We had originally intended to<lb/>
+                        dedicate the present issue to Professor Damon, but have changed the date in<lb/>
+                        hopes of getting more material from his students and colleagues.  The<lb/>
+                        deadline for copy will be December 1.<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English,<lb/>
+                        University of California, Berkeley, California 94720.  Subscription price:<lb/>
+                        two dollars for one volume (four issues).  Please make checks payable to<lb/>
+                        Morton D. Paley.</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-01-2-0000">
+				<supplied type="emend" rend="plain">
+					<table id="contents" rows="9" cols="2">
+					  <row>
+						<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.corrections">Corrections to Previous Issue</ref></cell>
+						<cell>1</cell>
+					  </row>
+					  <row>
+						<cell><hi rend="b">News</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.news">Publications and exhibitions</ref></cell>
+						<cell>2</cell>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Note</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.bentley">Blake Apocrypha</ref><lb/>
+						<hi rend="i">Gerard E. Bentley, Jr.</hi></cell>
+						<cell>4</cell>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Queries</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.courses">Blake courses</ref><lb/>
+						<hi rend="i">G. E. Bentley, Jr., John E. Grant, Irene H. Chayes, Martha W. England</hi></cell>
+						<cell>6</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.druids">Druids in Annandale</ref><lb/>
+						<hi rend="i">John E. Grant</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.chayes">Robed figure in “The Little Boy Found”</ref><lb/>
+						<hi rend="i">Irene H. Chayes</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.tayler">Blake’s illustrations to Thomas Gray</ref><lb/>
+						<hi rend="i">Irene Tayler</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Discussion<lb/>
+						“With intellectual spears, &amp; long winged arrows of thought.”</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.grant">Recognizing Fathers</ref><lb/>
+						<hi rend="i">John E. Grant</hi></cell>
+						<cell>7</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.2.tolley">Remarks on “The Tyger”</ref><lb/>
+						<hi rend="i">Michael J. Tolley, with a response by Morton D. Paley</hi></cell>
+						<cell>9</cell>
+					  </row>
+					</table>
+				</supplied>
+			</div1>
+            <div1 id="BQ-01-2-0001">
+                <p>Newsletter number 3 is scheduled for publication on December 15, 1967. It will be dedicated
+to S. Foster Damon. We had originally intended to dedicate the present issue to Professor Damon, but have
+changed the date in hopes of getting more material from his students and colleagues. The deadline for copy
+will be December 1. <note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by Morton D.
+Paley, Department of English, University of California, Berkeley, California 94720. Subscription price: two
+dollars for one volume (four issues). Please make checks payable to Morton D. Paley.</note>
+                </p>
+            </div1>
+        </front>
+        <body>
+            <div1 id="BQ-01-2-0005">
+				<pb id="p01-14" n="14"/>
+                <div2>
+                    <p>One of the pleasantest results of publishing the Newsletter has been receiving letters
+from many Blake scholars in the U.S. and elsewhere in the world. All too often, I’m afraid, my answers have
+been shorter and later than I could wish. This situation will probably get worse rather than better, as it
+would be impossible for me to take the time to answer letters as they deserve <hi rend="u">and</hi> put out
+the Newsletter, in addition to doing my own work. Therefore I ask the understanding and indulgence of our
+readers, who have been (and will, I hope, continue to be) generous with their contributions of material and
+comment.</p>
+                    <p>This winter I expect to be travelling to a number of Blake collections, and although
+mail will eventually reach me, forwarding may take as much as two weeks. It would be helpful if readers marked
+Newsletter correspondence “Blake Newsletter” in the lower left hand corner of the envelope. In that way, I can
+make whatever special arrangements are necessary more easily. The deadline for copy for the next issue is
+December 10.</p>
+                    <byline>
+                        <docAuthor>MDP</docAuthor>
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

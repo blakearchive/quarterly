@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>37.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2003</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2003</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">37.1</biblScope>
+            <biblScope unit="volume">37</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>David Duff</name>
+              <name>Alexander Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Margaret Storch</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2003"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_37">
+    <front>
+      <pb id="p37-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.037.01.bqscan" rend="file" width="258" height="335">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Publications and Discoveries in 2002:<lb/>
+            G. E. Bentley, Jr., Reports<lb/>
+            VOLUME 37<lb/>
+            NUMBER 1<lb/>
+            SUMMER 2003</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-37-1-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.1.bentley">William Blake and His Circle: A Checklist of
+Publications and Discoveries in 2002</ref><lb/>
+<hi rend="i">By G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.1.duff">Muir’s Facsimiles and the Missing 
+<hi rend="i">Visions</hi></ref><lb/>
+<hi rend="i">By David Duff</hi></cell>
+            <cell>
+              <hi rend="i">32</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.1.gourlay">“Man on a Drinking Horse” A Print by Thomas
+Butts, Jr.</ref><lb/>
+<hi rend="i">By Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">35</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.1.hilton">K. E. Smith, <hi rend="i">An Analysis of William
+Blake’s Early Writings and Designs to 1790, Including</hi> Songs of Innocence</ref><lb/>
+<hi rend="i">Reviewed by Nelson Hilton</hi></cell>
+            <cell>
+              <hi rend="i">36</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.1.storch">Christopher Z. Hobson, <hi rend="i">Blake and
+Homosexuality</hi></ref><lb/>
+<hi rend="i">Reviewed by Margaret Storch</hi></cell>
+            <cell>
+              <hi rend="i">38</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-37-1-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p37-3" n="3"/>
+      <div1 id="BQ-37-1-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G. E. Bentley, Jr., writes about Blake’s life and his books. The second edition of his 
+<hi rend="i">Blake Records</hi> (1969), incorporating <hi rend="i">Blake Records Supplement</hi> (1988) and much
+added matter, and a slightly revised paperback edition of his <hi rend="i">The Stranger from Paradise</hi> are
+to be published by Yale in the spring of 2003.</p>
+        <p>David Duff teaches English at the University of Aberdeen. Author of <hi rend="i">Romance and
+Revolution: Shelley and the Politics of a Genre</hi> (1994), he is currently completing a book on Romantic
+genre theory.</p>
+        <p>Alexander Gourlay is shamelessly plugging the collection he edited—<hi rend="i">Prophetic
+Character: Essays on William Blake in Honor of John E. Grant</hi> (Locust Hill Press, 2002), thirteen new
+studies of the art and poetry by a diverse group of scholars. He teaches at Rhode Island School of Design.</p>
+        <p>Nelson Hilton appears as co-author with Jonathan Arnold of “Revelations from a bread mould,” a
+“News and Views” item in <hi rend="i">Nature</hi>, vol. 422 (24 April 2003).</p>
+        <p>Margaret Storch is the author of <hi rend="i">Sons and Adversaries: Women in William Blake and D.
+H. Lawrence</hi> (University of Tennessee Press, 1990). She has published in journals such as 
+<hi rend="i">Modern Language Quarterly, American Imago</hi> and <hi rend="i">D. H. Lawrence Review</hi>, and
+regularly contributes reviews to <hi rend="i">Modern Language Review.</hi> She has taught English in Britain,
+Canada and the United States.</p>
+      </div1>
+      <div1 id="BQ-37-1-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sjns@mail.rochester.edu<lb/>
+TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada The University of
+Toronto declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-37-1-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the 4 issues of the current volume. Addresses outside the
+U.S., Canada, and Mexico require a $15 per volume postal surcharge for surface delivery, and $20 for airmail.
+Credit card payment is available. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department
+of English, University of Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones
+for information on issues and prices, or consult the web site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in <hi rend="i">The MLA Style Manual</hi>, and with pages numbered, to
+either of the editors: Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627-0451;
+Morton D. Paley, Dept. of English, University of California, Berkeley CA 94720-1030. No articles will be
+returned unless accompanied by a stamped self-addressed envelope. For electronic submissions, you may send a
+diskette, or send your article as an attachment to an email message; please number the pages of electronic
+submissions. The preferred file format is RTF; other formats are usually acceptable.</p>
+        <p>Cover: “Man on a Drinking Horse,” by Thomas Butts. Reproduced by kind permission of Alexander
+S. Gourlay. <note type="unreferenced" place="footer">© 2003 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

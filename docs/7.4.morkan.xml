@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.4.morkan</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Milton’s Eikonoklastes &amp; Blake’s Mythic Geography: A
+Parallel</title>
+                <author n="Morkan">Joel Morkan</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1974</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1974</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.4</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1974"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <pb id="p07-87" n="87"/>
+            <div1 id="BQ-07-4-0003">
+                    <byline>
+                        <docAuthor>Joel <name>Morkan</name>
+                        </docAuthor>
+                    <ref target="n28" type="note">*</ref></byline>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">Milton’s</hi> Eikonoklastes <hi rend="i">&amp; Blake’s Mythic
+Geography: A Parallel</hi>
+                            </hi>
+                        </title>
+                    </head>
+                    <p>There is an interesting parallel between a passage in Milton’s 
+<hi rend="i">Eikonoklastes</hi> and the way Blake conflates Biblical and English geography for mythic purposes in
+<hi rend="i">Milton, The Marriage of Heaven and Hell</hi>, and <hi rend="i">Jerusalem.</hi>
+                        <note id="n28">
+                        <hi rend="i">Joel Morkan is an Associate Professor of English at Florida State
+University. He has published essays on Milton and the Romantics. He is particularly interested in the
+relationship between Milton and Blake.</hi>
+                    </note>
+                    </p>
+                    <p>In his attack on Charles I as a Urizenic tyrant, Milton wrote:
+<q>
+                            <hi rend="i">Ireland</hi> was as <hi rend="i">Ephraim</hi>, the strength of his
+head, <hi rend="i">Scotland</hi>, as <hi rend="i">Judah</hi>, was his Law-giver; but over 
+<hi rend="i">England</hi> as over <hi rend="i">Edom</hi> he meant to cast his Shoo; and yet so many sober
+Englishmen not sufficiently awake to consider this, like men inchanted with the Circaean cup of servitude,
+will not be held back from running thir own heads into the Yoke of Bondage.<supplied type="spacer"> </supplied><ref target="n22" type="note">1</ref>
+                            <note id="n22">
+                                <hi rend="s">1</hi> Merritt Y. Hughes, ed., <hi rend="i">The Complete Prose
+Works of John Milton</hi> (New Haven: Yale Univ. Press, 1962), II, 488.</note>
+						</q>
+                    </p>
+                    <p>The fusion of English and Biblical geography, the mythic humanization of the nation,
+and the figure of the whole people as a sleeping or enchanted giant under the foot of a brutal tyrant are all
+elements familiar from Blake’s poetry. Some of this is attributable to the imaginative compatibility of the
+two writers, and also, no doubt, to their common grounding in such scriptural passages as Psalm 60:7-8:
+“Ephraim also is the strength of mine head, Judah is my lawgiver. / Over Edom will I cast out my shoe.”</p>
+                    <p>There are, however, more specific connections between Blake’s use of allegorical
+geography and this passage from Milton. In <hi rend="i">Eikonoklastes</hi>, Ireland is Ephraim, and in
+Blake’s <hi rend="i">Jerusalem</hi> (72:23) the seven counties of Connaught are assigned to Ephraim. In
+Milton’s passage Scotland is Judah, whereas in <hi rend="i">Jerusalem</hi> (16:54) one of Judah’s
+functions is to<gap type="emend"/>
+<pb id="p07-89" n="89"/>
+<gap type="emend" rend="plain"/>
+guard Aberdeen, Berwick, and Dumfries. Finally, in Blake, Edom is a fallen land 
+(<hi rend="i">Milton</hi> 17:20; <hi rend="i">Jerusalem</hi> 49:43; 92:23; 96:9), but is also both the giant who
+must recover his lost inheritance and the land that must be transformed before the apocalypse 
+(<hi rend="i">Marriage of Heaven and Hell</hi> 2:14-20, 3:5-6).</p>
+                    <p>One hesitates to put more weight on these parallels than they will bear; however, they
+do point in a direction that could be fruitful in further explorations of both Blakes’s mythic geography and
+history in the prophetic Books, that is Milton’s historical and polemical prose and his native antecedents
+in the use of allegorical geography: Spenser, Drayton, <corr type="emend">Phineas Fletcher,</corr> and William Browne of Tavistock. 
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.taurus</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Taurus Press America</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-2-0007">
+        <pb id="p11-131" n="131"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">TAURUS PRESS <hi rend="i">AMERICA</hi></hi>
+            </title>
+          </head>
+          <p>Blake’s text of <hi rend="i">America</hi>, printed with “handcut” type in scarlet, illustrated
+with linocuts by Peter Paul Piech printed in black is being sold for £50 by Taurus Press of Willow Dene, 2
+Willow Dene, Bushey Heath, Herts. WD2 1PS England. There is an introduction by Hugo Manning and Roger R.
+Easson. The linocut illustrations are also available without the text, signed by the artist, £50.</p>
+          <figure n="America.11.2.bqscan" rend="file" width="500" height="801">
+          	<figTranscr>THe ciTizens of New York close<lb/>
+          	Their books &amp; lock tHeir cHests;<lb/>
+          	THe mariners of Boston drop THeir<lb/>
+          	ancHors and unlade;<lb/>
+          	THe scribe of PensYlvania casts His<lb/>
+          	Pen uPon THe earTH;<lb/>
+          	THe builder of Virginia THrows His<lb/>
+          	Hammer down in Fear.<lb/>
+          	<lb/>
+          	Then Had America been losT, o’erwHelmed<lb/>
+          	by THe ATlantic,<lb/>
+          	And EarTH Had losT anoTHer PorTion<lb/>
+          	of THe infinite,<lb/>
+          	BuT all rusH ToGeTHer in THe niGHT in<lb/>
+          	wraTH and raGinG Fire!<lb/>
+          	THe red Fires raG’d! THe PlaGues recoil’d!<lb/>
+          	THen roll’d THeY back wiTH Fury<lb/>
+          	On Albion’s AnGels : THen THe PesTilence<lb/>
+          	beGan in sTreaks of red<lb/>
+          	<lb/>
+          	<lb/>
+          	30</figTranscr>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

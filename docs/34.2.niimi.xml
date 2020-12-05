@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.2.niimi</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Book of Ahania: A Metatext</title>
+        <author n="Niimi">Hatsuko Niimi</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2000</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.2</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Alexander Gourlay</name>
+              <name>Mary Lynn Johnson</name>
+              <name>Hatsuko Niimi</name>
+              <name>Kazuya Okada</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2000"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+    <body>
+      <div1 id="BQ-34-2-0006">
+        <pb id="p34-46" n="46"/>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">The Book of Ahania</hi>: A Metatext</title>
+          </head>
+          <byline>By <docAuthor>Hatsuko <name>Niimi</name></docAuthor></byline>
+          <p>The three books etched by Blake in 1794-95, namely <hi rend="i">The Book of Urizen, The Book of
+Ahania</hi> and <hi rend="i">The Book of Los</hi> have been considered by many critics to be a sequence of
+parodies or satires on the Pentateuch; David W. Lindsay, Leslie Tannenbaum and Stephen C. Behrendt maintain
+that they constitute Blake’s Bible of Hell, intended to revise and challenge the received Bible of Heaven,
+while Harold Bloom believes they belong in the framework of the Orc myths. Tannenbaum, examining them in the
+context of the Bible and its traditions, regards <hi rend="i">Urizen</hi> and <hi rend="i">Los</hi> as dealing
+with the events in the book of Genesis and <hi rend="i">Ahania</hi> as related to the book of Exodus. Finally,
+David Worrall, in his edition of the three books, which appeared in 1995 and is the most recent, groups them
+together and refers to them as the Urizen Books; he considers the trilogy to be “an expression of Blake’s
+scepticism about his age’s politicization of scriptural authority” (153). This corresponds to Jon Mee’s
+claim that “Blake is constantly seeking to break down the notion of scripture as monolithic authority”
+(14); his primary assumption is that Blake’s “rhetorical practices” (2) in the 1790s can be construed
+better and differently, if put in the context of the controversy over the French Revolution. Worrall examines
+the extent to which Blake was affected by the political and religious debates in progress in London during
+this decade: disputes which intensified and grew more dangerous for those suspected of sedition, when England
+declared war against France in 1793, and Thomas Paine’s <hi rend="i">The Age of Reason</hi> was published in
+1794-95. Worrall defines the Urizen Books, written in the years of “Pitt’s Terror” (12), as Blake’s
+“most politically interventionist works” (19) and gives particular attention to his Muggletonian
+sympathies and his connection with one of his contemporaries, the radical anti-clericalist, Thomas
+Spence.<supplied type="spacer"> </supplied><ref target="n27" type="note">1</ref> It may, then, be an
+invitation to disagreement to single out one of these books as a work with its own peculiar merit and
+significance. But to read <hi rend="i">The Book of Ahania</hi> closely encourages us, I believe, to see it as
+unique in its ability to shed light on Blake’s ideas concerning writing or literacy, as opposed to speaking
+or orality, and consequently on his view of the text, or the book, in general. 
+<note id="n27"><hi rend="s">1</hi> Worrall’s assertion that the Books were written “against a background of an authoritative
+and repressive culture” (15) is cogently illustrated in his discussion of <hi rend="i">Ahania</hi>, which he
+situates in the contemporary print culture of political caricature (157-59), and in his analysis of its
+endpiece design (162-63).</note></p>
+          <p>One of the distinctive features of this work, in contrast with <hi rend="i">Urizen</hi> and 
+<hi rend="i">Los</hi>, is the role <corr type="emend">allotted</corr> to the female character. In 
+<hi rend="i">Urizen</hi>, Enitharmon is presented by means of description as a figure giving birth to Orc, and
+weeping over her son chained to a rock, but at no point does she speak for herself. Similarly, 
+<hi rend="i">Los</hi> consists entirely of the recollections of its narrator, Eno, apart from the six lines which
+introduce her, but Eno does not tell her own story. Yet Ahania, whose plight is described in the opening
+chapter of the book named after her, begins to speak for herself in the fifth and last chapter: her
+lamentation for the prelapsarian state of her union with Urizen occupies almost the whole of this chapter, and
+is therefore given great prominence. This fact, together with the content of her speech, suggests that the
+events connected with Urizen and Fuzon, which are related in the first four chapters, are, like her own
+situation, capable of being interpreted in a new way: in the context of linguistic activity, with its various
+moral, historical and ideological connotations.</p>
+          <p>Jon Mee, who considers the three books to be “Blake’s critique of the Bible” (162), refers,
+in his discussion of <hi rend="i">Urizen</hi>, to Blake’s making use of “an antithesis between written and
+oral forms” (103), and characterizes the former as oppressive and the latter as liberated. His argument
+includes a consideration of the status of Blake’s own writing in his chosen medium of illuminated printing.
+Although Mee is only concerned with the opposition between the druid-priest Urizen and bard-prophets like Orc
+and Los, I think this sort of opposition exists also in <hi rend="i">Ahania</hi>, in the contrast between
+Urizen who “wrote / In silence his book of iron” (pl. 4:63-64)<supplied type="spacer"> </supplied><ref
+target="n28" type="note">2</ref> and Ahania, “his parted soul” (pl. 3:32), and in the relationship between
+Urizen and Fuzon, whose corpse “Urizen nail’d” on the topmost stem of “the accursed Tree of Mystery”
+(pl. 5:6-8). Urizen is depicted as the murderer of his rebellious son and a producer of written books, but he
+remains silent throughout the book, except for four lines addressed to his bow. Fuzon, a character who
+resembles Orc, denounces Urizen in four lines which occur early in chapter 1, just before he attempts to
+assassinate him: in chapter 2 he utters one line of exultation when he thinks he has succeeded: otherwise he
+also remains silent. In striking contrast, Ahania shows herself capable of prolonged eloquence in the
+concluding chapter, as she speaks of her love for Urizen and her vision of the past, her fervor unaffected by
+her sense of the futility of her appeal. <note id="n28"><hi rend="s">2</hi> All quotations from 
+<hi rend="i">The Book of Ahania</hi> are from <hi rend="i">The Urizen Books</hi> edited by David Worrall (London:
+The William Blake Trust/The Tate Gallery, 1995). Subsequent references to the text will be designated by the
+plate number, followed by the lines in parentheses, as in (Pl. 3: 1-5).</note></p>
+          <p>The purpose of this paper is to interpret <hi rend="i">Ahania</hi> as a metatext, concerned with
+conflicting and antagonistic linguistic realities, represented by the activities of these three characters.
+First, Ahania’s speech will be discussed, with reference to Saussure’s distinction between parole and
+langue and Walter J. Ong’s analysis of orality and literacy. My argument is that Ahania is an instance of
+parole, which is “active
+<pb id="p34-47" n="47"/>
+and individual” (Saussure 70a), or a “winged word,” a Homeric phrase, familiar to many of Blake’s
+contemporaries through Horne Tooke’s book,<supplied type="spacer"> </supplied><ref target="n29"
+type="note">3</ref> and signifying “evanescence, power, and freedom” (Ong 77). In addition, I hope by
+discussing her speech, to connect it with her markedly feminine “ethics of care” (Mellor 3). 
+<note id="n29"><hi rend="s">3</hi> The phrase, in Greek, constituted the first two words of the title Horne Tooke
+gave to his two-volume study of language and grammar, <hi rend="i">Epea Pteroenta: Or, the Diversions of
+Purley</hi> (1786-1805). Tooke (1736-1812) was known primarily as a radical politician, but achieved temporary
+fame as an etymologist as a result of this book until genuine philological knowledge began to reach England
+from the continent in the nineteenth century.
+                            <p>Robert N. Essick, in <hi rend="i">William Blake and the Language of Adam</hi>
+(Oxford: Clarendon P, 1989), discusses Tooke’s work on language in relation to Blake as well as to Locke in
+the linguistic context of the late eighteenth and the early nineteenth century (57-66). He also gives an
+explication of <hi rend="i">The Book of Urizen</hi> as Blake’s criticism of contemporary linguistic theories
+(140-59). Although Tooke’s book was published by Joseph Johnson, there is no surviving evidence that Blake
+met him or knew his book.</p>
+	<p>The phrase is used by Blake in the Preludium to <hi rend="i">The Book of Urizen</hi>, where he asks the
+“Eternals” to “Dictate swift winged words” (Pl. 2:6). Angela Esterhammer, in her <hi rend="i">Creating
+States</hi>, discusses the poem in terms of naming and speech acts and argues that the Preludium “must
+already make us suspicious about the extent to which (inspired) words will be instruments of imposition on a
+passive audience” (155).</p></note></p>
+          <p>Conversely, Urizen, it seems to me, represents an aspect of langue, which is “passive and
+resident in the collectivity” (Saussure 70a), and he also possesses, I believe, the characteristics of
+writing, which is “a particularly pre-emptive and imperialistic activity” (Ong 12). I shall attempt to
+show that Urizen’s casting out of Ahania, who represents his “pathos,” that is, his ability to feel pity
+or sadness, and his murder of Fuzon, who is his eros, demonstrate his conception of justice, which consists of
+enforcing repressive and self-righteous laws and of the writing of books, which in their inflexibility are
+incapable of response to the dynamic procedures of language formation.</p>
+          <p>Finally, I would like to discuss the unmistakable affinities between Ahania’s lucid eloquence
+and Blake’s creation of illuminated hand-printed texts, and the close resemblance between Urizen’s writing
+of “his book of iron” and the standardized printing of texts which have been established with finality.
+Blake’s production of his etched texts, analogous to the production of manuscripts, is much more akin to
+spoken language than the reproduction by a printing press of written language. Moreover, in <hi rend="i">The
+Book of Ahania</hi> there are two designs which depict Ahania; they help to justify my belief that Blake’s
+conception of the text/book can be deduced from an analysis of the various contrasts between Urizen and
+Ahania. Blake’s books will never be definitive and the same to all readers; they will remain flexible and
+fluid, seeking a dialogue with readers every time they are produced, with successive copies always differing
+in some respect.</p>
+          <div3>
+            <head>
+              <title>I</title>
+            </head>
+            <p>In chapter 1 of <hi rend="i">Ahania</hi>, the heroine represents the soul, or emanation of
+Urizen, divided from him after Fuzon’s attack on his “cold loins” has caused him to discard her as sin:
+she is said to move as “the moon anguishd circles the earth,” for she is under the control of Urizen; as
+“a faint shadow” and the “mother of Pestilence,” she is bound to revolve round him, “Unseen,
+unbodied, unknown.” She becomes a voiceless figure, associated with disease and death, the victim of
+Urizen’s suppression and hatred, as well as an invisible and amorphous being. Except for the first six
+lines, which describe her formless presence, chapter 5 consists first of her lamentation over her miserable
+separation and alienation from Urizen; secondly, of her unwearied questionings of his rejection, aloofness and
+rigidity, and finally, of her frank and impassioned recollections of her glorious past, sharing sexual and
+mental joy, beauty and freedom with Urizen.</p>
+            <p>Although at the beginning of the work, Ahania is said to be his “parted soul,” in the final
+chapter, she can be said to be a representation of either wisdom (Bloom 176, Tannenbaum 242), or pleasure
+(Paley 30), or desire (Worrall 185), according to the aspect of her supplication which is seen as predominant.
+She is also relational and interpersonal, with “the mutualism of selflessness” (Behrendt 147): she has
+care and compassion for others, as well as resistance to the dualism and universalization which characterise
+abstract thinking (Cox 160). As regards style, she uses pictorial and concrete images and introduces into the
+poem “a new speed and flexibility” (Lindsay 146). Ahania is described as wandering and floating, as well
+as weeping and chanting “on the verge / Of Non-entity,” which indicates the extent to which her exiled
+condition can vary.</p>
+            <p>It is obvious that her role is primarily that of a speaker: a protagonist whose medium is
+language. More specifically, she is endowed with the functions of parole and orality, or oral culture. I would
+like to demonstrate this by referring first to Saussure’s conception of parole, as expounded in his third
+course of lectures on general linguistics (1910-11). He distinguishes two kinds of parole: “The use of
+faculties in general for linguistic purposes (phonation, etc.)” and “individual use of the language code
+to express individual thought” (70a); this last function of parole, which is the source of all change in a
+language, is of crucial importance in linguistic activity. He further indicates the interdependency between
+parole and langue:
+<q>
+There is nothing in the language which has not entered (directly or indirectly) through speech, that is
+through the sum total of words perceived, and conversely no speech is possible before the development of this
+product called the language, which supplies the individual with the elements for the composition of his
+speech. (71a)
+</q></p>
+            <pb id="p34-48" n="48"/>
+            <p>In contrast to langue, which is constructed structure, parole is constructing structure; parole
+is regulated by the collective knowledge of langue, which in turn is to be reformed through the individual
+activity of parole. David Holdcroft lists six comparable characteristics shared by the two, according to
+Saussure’s account: parole is individual, contingent, has an active role, is designed, is not conventional,
+and provides a heterogeneous subject matter which is studied by different disciplines, whereas langue is
+social, essential, has no active individual role, is not designed, but conventional, and provides a
+homogeneous subject matter to be studied as a branch of social psychology (21). By quoting Saussure’s
+              <corr type="emend">statement</corr> that “Each change is launched by a certain number of individuals before it is accepted for general
+use,” Holdcroft emphasizes that “parole is needed to explain not only how langue is constituted as a
+stable system in a community, but also how changes occur in it” (33).</p>
+            <p>Ong, who recognizes the primacy of parole (oral speech) in Saussure’s classifications, has
+given further consideration to the respective spheres of the oral and the literate. It is relevant to draw on
+his argument in order to clarify certain aspects of the function of language in a community. He states:
+<q>
+. . .oral cultures must conceptualize and verbalize all their knowledge with more or less close reference to
+the human lifeworld, assimilating the alien, objective world to the more immediate, familiar interaction of
+human beings.(42)
+</q></p>
+            <p>Orality “situates knowledge within a context of struggle,” engaging “others in verbal and
+intellectual combat” (44); “Primary orality fosters personality structures that in certain ways are more
+communal and externalized, less introspective than those common among literates. Oral communication unites
+people in groups” (69). He also points out that “Oral man is not so likely to think of words as
+‘signs,’ quiescent visual phenomena,” but as “constantly moving, but by flight, which is a powerful
+form of movement, and one lifting the flier free of the ordinary, gross, heavy, ‘objective’ world” (77).
+It is necessary to see these characteristics of oral cultures in contrast with those of writing cultures, and
+I would like to discuss this topic later in part 2, in connection with Urizen’s role as a writer. But the
+immediate relevance of Ong’s account of the distinctive features of oral cultures to my argument concerning
+Ahania, consists in his claim that they spring from direct contacts with the living world, from a strong
+interest in differences between the self and others, and from a consequent wish to become involved with
+others, by setting up personal relationships. Finally, his suggestion that language is seen as flexible and
+mobile by speakers in an oral culture, is particularly relevant to my interpretation of this character.</p>
+            <p>In chapter 5 of <hi rend="i">Ahania</hi>, we can detect in the descriptions of her state and in
+her own utterances various elements which remind us of the aspects of parole and orality to which I have drawn
+attention:
+<q>
+Her voice was heard, but no form<lb/>
+Had she: but her tears from clouds<lb/>
+Eternal fell round the Tree<lb/>
+(pl. 5:49-51)
+</q></p>
+            <p>It is noticeable that her existence is verbal, yet has no fixed form. It has therefore one
+quality essential to orality: so has her unrestricted power to feel sorrow and compassion for the pain and
+suffering of others. In addition, her passionate yearning for Urizen and her continuing sense of his merit and
+superiority, are repeatedly suggested by her actions and words:
+<q>
+And the voice cried: Ah Urizen! Love!<lb/>
+Flower of morning! I weep on the verge<lb/>
+On Non-entity; how wide the Abyss<lb/>
+Between Ahania and thee!<lb/>
+(pl. 5:52-55)
+</q></p>
+            <p>The significance of her invisibility as well as the danger that she will become extinct,
+separated from Urizen, will be discussed later, but the point to notice here is that, in spite of his hardness
+and cruel rejection of her, she never fails to show care and love for him, unable to see his initial
+brightness and magnificence as lost, and seeking to reestablish their unity. Memory is also an important
+element in orality (Ong 19). Worrall states that Ahania’s solitary lament “is presented as the most
+dubious authentification of Urizen” (153) and thinks her “irrevocable loss of Urizen’s presence might
+itself be a misremembered recollection of a paradisaical joy which never happened” (155). It is, however,
+hard to discover any grounds in her speech for this interpretation. Her plea is earnest and pressing, vividly
+recalling his “bright presence” (pl. 5:63). Her intense and continuous plea for change is vain, which
+makes her appeal pathetic, but no less authentic.</p>
+            <p>Ahania’s most individual and unconventional characteristics are very evident in her vision of
+her former blissful intercourse with Urizen, and in her vindication of the passion and fulfilment of their
+love as her recollections proceed. She is eager to “awake my king in the morn! / To embrace Ahanias joy / On
+the breadth of his open bosom” (pl. 6:10-12) and looks back to the time:
+<q>
+When he gave my happy soul<lb/>
+To the sons of eternal joy:<lb/>
+When he took the daughters of life<lb/>
+Into my chambers of love:<lb/>
+When I found babes of bliss on my beds.<lb/>
+And bosoms of milk in my chambers<lb/>
+Fill’d with eternal seed<lb/>
+O! eternal births sung round Ahania<lb/>
+In interchange sweet of their joys.<lb/>
+(pl. 6:15-23)
+</q></p>
+            <pb id="p34-49" n="49"/>
+            <p>She dwells with passionate affirmation on the unique world of unrestrained desire, sexual joy
+and consequent fertility, which she shared with Urizen: she is referring to “the eternal exchange of the
+joys of love freely given and received in a sexual embrace” (Tannenbaum 246). Lindsay, emphasizing the fact
+that “the human integrity and creativity of an unfallen mind” are portrayed in this section, indicates
+that the “golden age here is remembered as one of free and confident energy, of delight unrestricted by
+possessiveness, of abundance and unfettered generosity” (147). Ahania recalls the sense of belonging to a
+unified whole, which she experienced when she and Urizen were together and in harmony. She expresses herself
+in fluid and prolific images, which contrast strongly with Urizenic categorization and demarcation.<supplied
+type="spacer"> </supplied><ref target="n30" type="note">4</ref> She is not uttering a prophetic vision, but
+recreating an experienced world of life and love. She is a daring believer in her own vision of the past,
+though she does not know how to reclaim it, and it is the fervor of her belief that gives her speech its
+individuality. <note id="n30"><hi rend="s">4</hi> Cox discusses Ahania’s attempt to “try to picture the
+state of undivided yet <hi rend="i">related</hi> wholeness that existed before Urizen began his revolutionary
+career” and suggests that her “pictorializations are vaguely bordered, expandable things that resist both
+sharp division and dogmatic universalization” (160).</note></p>
+            <p>The generosity of maternal love, the willingness to forgive natural to a liberal mind, and the
+urge to recover the unstinted reciprocity of a sexual and personal relationship are all demonstrated in
+Ahania’s speech, and all correspond to the characteristics of parole and orality. It will deepen our
+understanding of this speech, from a linguistic viewpoint, if we consider the feminine ethics it implies,
+which also share some of the qualities of parole and orality. In her study of Michel Foucault and feminism,
+Lois McNay examines the feminine critique of rationality, stating that in contrast to an abstract, masculine
+ethics of justice, “a feminist ethics is based on a responsiveness to others and a respect for the
+particular which leads to moral concerns connected to providing care, preventing harm and maintaining
+relationships” (92). In her discussion of Carole Gilligan’s “particular ethics,” which is “based
+more on caring and interpersonal relations” (93), she explicates Gilligan’s view of women’s moral
+judgments, which are “more contextual and more immersed in the details of relationships and narrative (the
+‘particular other’)” (93). This ethics of care is certainly to be found in Ahania’s attitude to Urizen
+and in the pity for Fuzon which the opening lines of chapter 5 attribute to her. Her longing for the
+restoration of broken relationships is central to her character. As Anne K. Mellor points out, Blake’s
+“feminine ethics” is developed fully in later prophetic books, especially in <hi rend="i">Jerusalem</hi>,
+in his creation of “Emanations” which “are clearly maternal and valued for their feminine capacities for
+sympathy and empathy” (21). But in <hi rend="i">Ahania</hi>, the heroine’s speech and her implied
+characteristics do not only arise from a moral outlook which anticipates postmodern feminine ethics. They also
+reveal her commitment to a far more amorphous and generous love relationship. She places a strong emphasis on
+the primacy of physicality, sexually based difference, and the capacity for reform. Being unseen, unbodied and
+unknown to fallen Urizen, and asking insistently for change and for a close personal bond, as she gives full
+vent to her innermost sorrow and joy, she embodies speech, or Saussurean parole, though this parole is
+received or approved by no one, as it reaches out towards a reciprocal relationship which has been lost.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">II</hi>
+              </title>
+            </head>
+            <p>If it is appropriate to regard Ahania as representing parole and orality, what are the roles of
+Urizen and Fuzon in terms of linguistic activity? And especially what is the meaning of Ahania’s solitary
+and rejected situation in the context of language? It is again relevant to examine Saussure’s concept of
+parole in contrast to langue, and Ong’s differentiation of orality and literacy as opposing principles; it
+will enable us to see that Urizen is possessed of some attributes of langue and the function of writing. In
+<hi rend="i">The Book of Ahania</hi>, he is depicted chiefly as the crucifixer of Fuzon and as a writer of
+books, seated on the rock enclosed by the Tree of Mystery.</p>
+            <p>As we have seen, Ong stresses the primacy of orality and suggests that writing “was a very
+late development in human history” (83). Moreover, writing “separates the knower from the known and thus
+sets up conditions for ‘objectivity,’ in the sense of personal disengagement or distancing” (46). He
+offers a four-point summary of Plato’s view of writing: it is inhuman and thing-like; it destroys memory; it
+creates an unresponsive text; it is passive (79). Ong also points out “the deadness of the text, its removal
+from the living human lifeworld, its rigid visual fixity,” though this “assures its endurance and its
+potential for being resurrected into limitless living contexts by a potentially infinite number of living
+readers” (81). In comparison with spoken words, writing entails “the reduction of dynamic sound to
+quiescent space, the separation of the word from living present” (82). Moreover, the writer of a text is
+alone and writing is “a solipsistic operation” (101), but it “makes possible the great introspective
+religious traditions such as Buddhism, Judaism, Christianity, and Islam” and all of which have “sacred
+texts” (105). These characteristics of writing illuminate various aspects of Urizen as a writer and his
+writings.</p>
+            <p>Before he is attacked by Fuzon’s “sounding beam” (pl. 3:27), Urizen had been “shrunk
+away / From Eternals”:
+<q>
+. . . he sat on a rock<lb/>
+Barren; a rock which himself<lb/>
+From redounding fancies had petrified . . .<lb/>
+Soon shot the pained root<lb/>
+<pb id="p34-50" n="50"/>
+Of Mystery under his heel:<lb/>
+It grew a thick tree; he wrote<lb/>
+In silence his book of iron:<lb/>
+(pl. 4:56-64)
+</q></p>
+            <p>What is suggestive here is the simultaneity of the growing of the mystery tree with Urizen’s
+writing of the book of iron, as well as his association with the rock. Almost all the critics of this work
+identify Urizen with Jehovah, and Fuzon with Moses, or Christ; other suggestions have been Satan, St.
+Sebastian and Robespierre. His role in <hi rend="i">Ahania</hi> certainly has apparent allusions to the last
+four books of the Pentateuch, and to the Atonement. But Urizen is absorbed in the production of religious
+texts which are essentially concerned with mystery. Moreover, the rapid enlargement of the Tree of Mystery
+clearly means that its leaves are multiplying, and there is a possible punning allusion to the multiplying
+leaves of Urizen’s book, which suggests that his role as a writer will lead to his becoming a despot,
+increasing in power and isolation as the tree increases.</p>
+            <p>The tree developing into a forest is seen as symbolizing several things: “the network of
+Church-and-State religion” (Paley 32); “the restrictions he placed on intellectual freedom” (Lindsay
+145); “the establishment of the priesthood of the Levites” (Tannenbaum 233); “the psychic origin of
+Urizen’s repressive institutions” (Webster 171); “Urizenic state religion” (Mee 102). These
+interpretations of the Tree of Mystery enable us to see in it one of the attributes of writing which has been
+distinguished by Ong: its tendency to encourage the establishment and perpetuation of rigid and fixed
+“sacred texts,” through the medium of priestcraft or of institutions like churches of state religion, even
+though the original code might have taken shape in the immediacy of care and love.</p>
+            <p>In this sense, the book of iron is the Bible of Heaven, and as he writes it, Urizen is
+“compassed round / And high roofed over with trees” (pl. 4:69-70); he is incapable of seeing through the
+world of appearances, though possessing the power to demand sacrifice and subjection. The rock, the thick tree
+and the book of iron, which are associated with the earth and resistant to change, are his instruments for the
+enforcement of his written law and for the infliction of cruel punishment, creating “An endless labyrinth of
+woe” (pl. 5:4). He represents the established power, the guardian and promoter of “the deadness of the
+text”. He can also be said to be an embodiment, after his own fashion, of Saussure’s langue, the
+constructed structure of the social code, which is developed and made durable by “the collective
+intelligence” (Saussure 71a), so widely different from the individual wills which are responsible for
+parole; in Urizen’s case, of course, the difference has become extreme, and the code a tyranny.</p>
+            <p>As stated in my introduction, Jon Mee draws our attention to “an antithesis between written
+and oral forms” when referring to Urizen, who is “associated with the process of transcription and the
+written law”; he also suggests that “One obvious implication of these metal books is the inflexibility of
+the political and psychological order Urizen sponsors,” while the “struggle against the iron authority of
+Urizen’s written laws is often figured in terms of orality” (103). Mee cites as examples Orc in 
+<hi rend="i">America</hi> and <hi rend="i">The Book of Urizen</hi> and Los in <hi rend="i">The Song of Los.</hi>
+My argument is that in <hi rend="i">The Book of Ahania</hi>, orality is represented by the heroine, though her
+voice occasions no hint of change on the part of Urizen, who embodies the system of langue; her speech fails
+to receive its “collective approval.”</p>
+            <p>Another common factor shared by interpretations of <hi rend="i">Ahania</hi> is the assumption
+that Fuzon is the hero of the poem, as a rebellious spirit. His revolt against his father, and consequent
+crucifixion, presented in the first two chapters, have obvious biblical associations, recognized, as noted
+above, by most critics.<supplied type="spacer"> </supplied><ref target="n31" type="note">5</ref> Paley,
+however, sees Fuzon rather differently: “Fuzon as the Energy principle, the element of fire, is the force
+within man that will redeem him from the bondage of Urizen’s repressing law” (28). Webster and Cox
+construe Fuzon as representing impulse or passion. His “beautiful visage, his tresses,/ That gave light to
+the morning of heaven” (pl. 4:41-42) are just what Ahania once enjoyed admiring in Urizen. 
+<note id="n31"><hi rend="s">5</hi> Tannenbaum, for example, suggests that “Fuzon-Moses represents the passion for
+justice, the spirit of righteousness that quickly extends its vitality as it takes the form of doctrines,
+laws, and codes of living” (226-27).</note></p>
+            <p>When Fuzon attacks Urizen in chapter 1, he already sees his father as “this Demon of
+smoke,” spreading the deceiving vapor of a joyless religion, and demanding worship. Fuzon calls him:
+<q>
+. . . this abstract non-entity<lb/>
+This cloudy God seated on waters<lb/>
+Now seen, now obscur’d; King of sorrow (?)<lb/>
+(pl. 3:11-13)
+</q></p>
+            <p>Fuzon refuses to worship him, and “in a fiery flame” of wrath throws “The howling
+Globe” which lengthens into “a hungry beam” (pl. 3:18-19). His beam of desire is encountered by
+Urizen’s disk of abstract geometry, which constitutes the shield of reason. Fuzon’s attempt at parricide
+undeniably entails a sexual assault, “The cold loins of Urizen dividing” (pl. 3:29) and this is clear also
+from Urizen’s reaction: “Dire shriekd his invisible Lust” (30). The result is that Ahania is divided
+from Urizen, who casts her away; as Bloom says, “Urizen rejects his sexuality, and dismisses his female
+counterpart as Sin” (177). Webster suggests that “Urizen’s opposing shield, forged in “mills” of
+logic, functions, like the curtains in <hi rend="i">Urizen</hi>, to distance dangerous impulses by denying
+both hungry sexuality and aggression” (169).</p>
+            <pb id="p34-51" n="51"/>
+            <p>It is clear, I think, that Fuzon is the projection of Urizen’s sexual and rebellious
+impulses. In chapter 2, the parent’s retaliation starts, which is the beginning of the process by which
+Urizen endeavors to repress his eros. The detailed procedures by which he prepares his weapon are significant:
+his bow is the “Bow of the clouds of secresy” (pl. 4:26) and his arrow is a “poisoned rock” (24); the
+son is struck down and killed by the rock. The development of Urizen’s character in chapter 3 reveals that
+it is “the rock of the Law,” which serves “as a negation of an arrow of desire” (Bloom 179). Lindsay
+also offers an interpretation of this assault, suggesting that “the spirit of rebellion is struck down by
+the moral law” (145). It is not difficult to see why Urizen’s nailing of his son’s corpse to the Tree of
+Mystery is seen by many critics as an unmistakable parody of the Atonement, but it is more difficult to be
+sure, even approximately, of the significance of Fuzon’s declaration in chapter 2 “I am God. said he, the
+eldest of things!” (pl. 4:38) To one critic, it suggests that “the rebel has become the tyrant”
+(Tannenbaum 226); to another that “By proclaiming his omnipotence, Fuzon breathes new life into the Urizenic
+system” (Mee 194).</p>
+            <p>It is possible to suggest an explanation, in terms of the linguistic analogy, of Fuzon’s
+boastful claim, and I will attempt this after a further brief discussion of the part he plays in 
+<hi rend="i">Ahania.</hi> It would be reasonable to expect to find some illumination of his second speech in
+chapter 4, but it is the most enigmatic of the five chapters. It could conceivably be a continuation of the
+atonement of Fuzon, or a stage in Urizen’s own gradual degradation, or in his ossification of the fluid lava
+of life and energy. Lindsay is, as far as I know, the only critic who makes any extensive comment on this
+chapter: he says of the “white Lake” (pl. 5:14), “By his withdrawal from eternal liberty into the
+futilities of abstract thought, Urizen transmuted his active powers into inertia and chill frustration”
+(146); with regard to Fuzon’s body, he comments that it is displayed as “an advertisement for
+suffering,” and believes it is meant to suggest that “the first inventing of religion confined humanity
+within the physical body, so this consolidation of clerical privilege reduces man to a still more earth-bound
+existence and further hardens the bony prison of his brain” (146). The second consequence of Urizenic rule,
+which Lindsay mentions here, is of course an allusion to chapter 4, verse 8.</p>
+            <p>Lindsay’s explication, though a little schematic, offers an interesting summary of the power
+struggle with which the poem is concerned: “the rational intellect is by the destructive violence of its own
+offspring wrenched apart from intellectual joy” (144). His exegesis suggests that as Urizen represents
+repressive reason and law, Ahania represents intellectual pleasure and Fuzon passion and lust; reason is
+destined to negate every emotional, sexual or mental joy and fulfilment. More might be said about Ahania, but
+it seems clear that Fuzon does indeed represent a vehement assertion of the claims of unashamed sexual
+impulse: his castration of his father is an instinctive attack on passionless and repressed sexual activity:
+the “cold loins” of Urizen and his “invisible Lust.” It seems reasonable to conclude that Urizen’s
+elimination of his son and his female counterpart and his attempt to perpetuate his logocentric rule signify a
+victory of reason over eros and pathos.</p>
+            <p>It is clear that a situation of this kind can arise with respect to the need to find an
+appropriate language, which may exist in any single human being, or in any community. Writing, speech, and the
+nascent language impulses which arise from the need to claim fulfilment for sexual impulse, can become
+involved in a three-sided struggle, each urge to self-expression trying to assert its own primacy over the
+others, but not in the hope of winning interactive responses. Hostility or rejection may continue, in so far
+as difference and the existence of other functions are denied. The lava of meanings, or the signified, latent
+in the internal world of sexuality and emotion, and in contacts with the external world, is struggling to
+achieve entrance into the solid universe of language, and could bring about an alteration in its system if it
+could do so. But a writing culture, too reliant on unchangeable texts, cannot accommodate this direct
+assertion of eros, and orality or parole cries in vain for the moments of interaction with the literacy or
+langue, and for assimilation into it.</p>
+            <p>Fuzon’s ominous second speech is explicable, if he represents both impatient sexual passion,
+demanding its right to reject repression and hypocritical control, and nascent language impulse, determined to
+challenge tyrannical control by the langue. When he makes his attempt at assassination, he is renouncing his
+legitimate means of promotion through the parole, in which he was already beginning to be at home, as his
+first speech shows. In attempting to obtain forced entrance to the langue, by violent assault, he deprives
+himself of the support of parole, and of the vestigial chance that he might change the langue by right of
+kinship and by traditional non-destructive modifications. So it is understandable that as to his attack, his
+confidence should contract into hollow swagger, and his command of speech should be equal only to a crude
+adolescent assertion of supremacy, which reveals that his rebellion was self-defeating: this was not the way
+to deal with Urizen.</p>
+            <p>Thus the three characters, Urizen, Ahania and Fuzon could be said to have become isolated in
+their separate spheres, unable to influence each other constructively because all normal interaction has been
+halted. Emotion welling up to become language has to encounter negation by the accumulated knowledge of the
+written. This has repressed the challenge and entreaty of speech, which would ordinarily be the means of
+shaping nascent language impulses, and providing their means of gaining access in the language. The following
+diagram shows what each of the characters represents.
+<pb id="p34-52" n="52"/>
+<figure n="AttributesTable.34.2.bqscan" rend="file" width="400" height="252"/>
+If there is no normal interaction, the three forms of language activity remain closed off from each other, as
+in the diagram. My second diagram shows a normal interaction operating without rejection and hostility.
+<figure n="NascentSpeech.34.2.bqscan" rend="file" width="400" height="113"/><list type="ordered">
+	<item><p>1 Nascent speech impulses welling up to become language</p></item>
+	<item><p>2 Innovations seeking collective approval</p></item>
+	<item><p>3 Acceptance for general use Materials to create speech</p></item>
+	<item><p>4 Encouragement to become articulate</p></item>
+</list></p>
+            <p>The last seven lines of Ahania’s speech effectively convey the stagnant state of language
+which ensues, when the reciprocal interchange is arrested:
+<q>
+Cruel jealousy! selfish fear!<lb/>
+Self-destroying: how can delight,<lb/>
+Renew in these chains of darkness<lb/>
+Where bones of beasts are strown<lb/>
+On the bleak and snowy mountains<lb/>
+Where bones from the birth are buried<lb/>
+Before they see the light.<lb/>
+(pl. 6:41-47)
+</q></p>
+            <p>The “bones of beasts” suggest the refuse or carcasses of words which have failed to become
+langue, and the last four lines indicate that language is at an impasse, where sexual energy and love are
+denied their right to be born either as langue or parole: this is the work of Urizen, the writer of the iron
+books, who is trying to create a universe of death, and to abstract everything from “the all-creative
+Imagination” (Tannenbaum 248). Bloom states that in <hi rend="i">Ahania</hi> “Few images, even in Blake,
+are grimmer than that final <corr type="emend">vision</corr> of infanticide” (180). It is also true to say with Lindsay that “this is
+the most negative of Blake’s major poems since <hi rend="i">Tiriel</hi>” (144), for if its linguistic
+implications are accepted, there is little sign of a positive intercourse. But it must be remembered that this
+is Ahania’s comment on the situations not necessarily Blake’s last word.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>III</title>
+            </head>
+            <p>Blake’s designs for <hi rend="i">Ahania</hi> do much to clarify the meaning of the text,
+especially as regards the linguistic function of Ahania and Urizen, and will next be examined. Then with
+reference to Jerome J. McGann’s idea of an indeterminate text, I would like to consider the significance of
+Los in this work, and finally to deduce Blake’s view of written texts and printing in relation to oral
+culture. My investigation of these questions will be concerned with reading <hi rend="i">The Book of
+Ahania</hi> as a metatext, relevant to Blake’s method of book production.</p>
+            <p>It is a distinctive visual feature of the three Urizen books that they “mostly mimic the
+layout of the Authorized Version, double columns divided into chapter and verse” (Mee 162). But the two
+memorable images of Ahania on the frontispiece and on the titlepage respectively reinforce the theme of
+language and text. The first shows her in an attitude of protest and supplication, as she is “about to be
+“siez’d on his [Urizen’s] mountains of Jealousy” after the castration of Urizen’s “cold loins”
+by his son Fuzon” (Worrall 160). This Ahania strongly contrasts with the figure on the titlepage, who is
+depicted as “still flying but (the direction of her hair tells us) descending obliquely” (Worrall 161),
+with a worried expression on her face. These two contrary states of Ahania, one earthbound and the other free
+from the ground, correspond well with those conveyed in the text. The figure on the titlepage illustrates the
+role of oral speech or “winged words,” and her pathetic facial expression emphasizes her suffering under
+“the iron authority of Urizen’s written laws” (Mee 104), which means either that parole is denied entry
+into langue, forced to keep circling around aimlessly, or that liberated speech is repulsed by oppressive
+writing (Mee 104). The Ahania of the frontispiece, who is the character in chapter 5 before her final
+expulsion, suggests that orality is being deprived of the opportunity to express love and care. It also
+illustrates the rigid control exercised by Urizen or the written language, shut up in its own sphere. As for
+the design on the last plate, it has been generally agreed that it “depicts severed heads and mangled limbs,
+leavings of the guillotine” (Paley 33), but in terms of the linguistic interpretation I am suggesting, it
+may depict the body of Fuzon finally murdered, the wreckage of the pre-literal state of eros or energy
+demanding to be a component of language, but savagely broken into pieces by the drive towards fixed written
+texts which result from exclusive and empirical thinking.</p>
+            <p>The coordination between text and designs vindicates my belief that Blake is describing in 
+<hi rend="i">Ahania</hi> a language situation in which pre-language chaos and oral speech are forcibly
+<pb id="p34-53" n="53"/>
+suppressed by the written; if nothing is done, this situation is going to bring about the prohibition of
+freedom of expression at a political level, as well as in artistic creation, and the negation of free love and
+sex. But Blake seems to imply, while symbolizing this state of linguistic turmoil, that his own composite art
+offers a solution, and in order to discuss this possibility it is necessary to consider the concept of an
+indeterminate text proposed by McGann and Mee.</p>
+            <p>McGann regards <hi rend="i">The Book of Urizen</hi> as Blake’s indeterminate text, claiming
+that Dr. Alexander Geddes’s work showed Blake “not only that many texts of the Bible of Heaven existed,
+but also that those texts exhibited lacunae and redundancies within and between themselves” (323). He
+believes that Blake’s reading of Geddes encouraged him to rewrite the Bible by interpolating material into
+his version which seems incongruous with the surrounding text. But although there are two passages in 
+<hi rend="i">Ahania</hi> which unexpectedly introduce Los and could be said to resemble interpolations, there is
+no evidence that they are insertions. Los first appears in chapter 1, verse 9, retrieving “the fiery beam of
+Fuzon”; he “siezd it and beat it in a mass / With the body of the sun.” In chapter 4, verse 5 he appears
+again, in lines which refer to his exertions in <hi rend="i">Urizen</hi> chapter 4, when this demon was
+beginning the process of acquiring a semblance of the human form, and Los was laboring to fetter him into this
+shape. We are told, this time, that having “forg’d nets of iron around,” Los “threw them around the
+bones.” These fragmentary descriptions of Los’s characteristic task of beating and forging, which
+represents Blake’s idea of imaginative creation, are a reminder of what he was trying to do himself. The
+passages in question are not really out of place: the first shows Los conserving the passion of anger and
+sexual aggression and amalgamating it with the sun, and the second shows him laboring to ensure that Urizen is
+confined within an identifiable body: both are imaginative and resourceful actions. If his readers were
+reminded of interpolations in the biblical text (as they might have been, in view of the fact, noted above,
+that all three of the Urizen books mimic the lay-out of the Authorized Version), they could only have noted
+the contrast between the pointless mystification caused by such a practice, in this text venerated by a
+writing culture, and the effect of Blake’s own apparent digressions. Blake was repudiating the repetition of
+identical words on printed pages and attempting to avoid producing texts which looked determinate and final:
+his aim was to create new perspectives by an activity similar to parole.</p>
+            <p>To believe that this is the case is to wish to consider Blake’s own illuminated printing. In
+his comparative view of writing, manuscript, and print, Ong states “typographic control typically impresses
+more by its tidiness and inevitability: the lines perfectly regular, all justified on the right side,
+everything coming out even visually,” and that the print is “an insistent world of cold, non-human,
+facts” (122); on the other hand, manuscript culture, he argues, preserves “a feeling for a book as a kind
+of utterance, an occurrence in the course of conversation, rather than as an object” (125). Moreover print
+“encourages a sense of closure, a sense that what is found in a text has been finalized, has reached a state
+of completion,” and “encloses thought in thousands of copies of a work of exactly the same visual and
+physical consistency” (132). The most important point of difference is that the “printed text is supposed
+to represent the words of an author in definitive or ‘final’ form,” while manuscripts “were in
+dialogue with the world outside their own borders. They remained closer to the give-and-take of oral
+expression” (132).</p>
+            <p>The closeness of Blake’s manuscripts to oral expression is pointed out by Mee in a similar
+vein:
+<q>
+Blake operates with a notion of writing as containing both positive and negative potentialities. He seeks a
+writing that retains the fluidity of the voice; that seeks the status of “poetic tales” rather than
+“forms of worship”....Blake sought to achieve a means of literary production that was fluid and operated
+against the notion of the single authoritative Word .... (105-06)
+</q></p>
+            <p>In other words, Blake is trying to avert the fixation or standardization of his books, and to
+keep the fiery vitality, passion and freedom of the living voice, which has its source in the individual will.
+Metaphorically speaking, Blake aims to maintain Ahania’s orality as far as possible and to assimilate
+Fuzon’s violent impulses. In a sense, Blake’s artistic creation has a recurring nature, which does not
+proceed from repeating the same dull round, but from eternally recreating the prime eros and pathos. The fact
+that the germ of all change is first found in speaking has already been discussed in this essay, but speech,
+through the activity of various individuals, seeks to constitute literate culture, by continually modifying
+the established system. The production of his etched plates means that Blake was trying to open up a new
+perspective on the world by situating the plates at the point of intersection of orality and literacy, so that
+they maintain the fluid reciprocity between parole and langue, which is to lead to a change and renewal of
+language.</p>
+            <p>Blake’s other attempt to avoid the inflexibility of a written text is his “double printing
+method” (Mee 106): his books were etched on copper plates and then printed on paper, which “allowed him to
+insert differences at each stage of production. Changes were always available to Blake in transcribing
+copy-text to plate and in the process of <corr type="emend">transferring</corr> plate to paper.... His books always went beyond the state
+of Urizen’s books of metals, that is, the copper-plate, and each of the final states varied one from the
+other so none could claim the status of scriptural authority” (Mee 106). This constant flight from
+establishing one single final version of his text helps to establish, as far as possible, an impression of
+indeterminacy, as I have said. His creative principle is to
+<pb id="p34-54" n="54"/>
+attain a mutual infiltration of parole and langue and consequent linguistic activation, thus resisting
+political, religious and intellectual oppression, or sterility and obscurantism.</p>
+            <p><hi rend="i">The Book of Ahania</hi> provides an example of the state of linguistic activity
+under the autocratic reign of the written; the voice of change is suppressed. As I suggested at the beginning
+of this article, Blake was drawing attention to his own view of printing and the printed text; he was, in
+addition, criticizing the contribution made to a dangerous situation by automatic deference to the biblical
+text. He believed that the danger could be counteracted: to read Blake’s illuminated books is to be well
+aware not only of his unique “printing” method but of his metatextual concept of writing. Behrendt states
+that the “reading activity Blake advocates is one of dismantling, of uncovering, of removing the semantic
+and intellectual garments and displaying the pristine, naked eternal truth that is everywhere the primary
+<corr type="emend">objective</corr> of his art” and the reading “must be a subversive activity whose processes are corrosive to the
+authority both of text and of the acts and principles embodied in that text” (127). As Blake’s corrosive
+acid removes surfaces and allows the truth to stand out, his texts, with the convergence of the oral and the
+written, make us question the validity of the language situation of our own time and our methods of linguistic
+expression and communication, so much controlled by institutional customs, rules and prejudices. They
+demonstrate a way of achieving freedom from coercion, discrimination and suppression in almost every human
+activity and society, by their endless effort to flee from finalization.</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Works Cited</hi>
+                </title>
+              </head>
+              <p>Behrendt, Stephen C. <hi rend="i">Reading William Blake.</hi> London: Macmillan, 1992.</p>
+              <p>Bloom, Harold. <hi rend="i">Blake’s Apocalypse: A Study in Poetic Argument.</hi> London:
+Victor Gollancz, 1963.</p>
+              <p>Cox, Stephen. <hi rend="i">Love and Logic: The Evolution of Blake’s Thought.</hi> Ann
+Arbor: U of Michigan P, 1992.</p>
+              <p>Esterhammer, Angela. <hi rend="i">Creating States: Studies in the Performative Language of
+John Milton and William Blake.</hi> Toronto, Buffalo and London: U of Toronto P, 1994.</p>
+              <p>Holdcroft, David. <hi rend="i">Saussure: Signs, System, and Arbitrariness.</hi> Cambridge:
+Cambridge UP, 1991.</p>
+              <p>Komatsu, Eisuke and Roy Harris, ed.and transl. <hi rend="i">Saussure’s Third Course of
+Lectures on General Linguistics (1910-1911).</hi> Oxford, New York, Seoul and Tokyo: Pergamon P, 1993.</p>
+              <p>Lindsay, David W. “<hi rend="i">The Book of Ahania</hi>: An Interpretation of the Text.”
+<hi rend="i">Durham University Journal</hi> 68 (1976): 144-47.</p>
+              <p>McGann, Jerome J. “The Idea of an Indeterminate Text: Blake’s Bible of Hell and Dr.
+Alexander Geddes.” <hi rend="i">Studies in Romanticism</hi> 25 (1988): 303-24.</p>
+              <p>McNay, Lois. <hi rend="i">Foucault and Feminism.</hi> Cambridge: Polity Press, 1992. Rep.
+1994.</p>
+              <p>Mee, Jon. <hi rend="i">Dangerous Enthusiasm: William Blake and the Culture of Radicalism in
+the 1790s.</hi> Oxford: Clarendon P, 1992.</p>
+              <p>Mellor, Anne K. <hi rend="i">Romanticism and Gender.</hi> New York and London: Routledge,
+1993.</p>
+              <p>Ong, Walter J. <hi rend="i">Orality and Literacy: The Technologizing of the Word.</hi> New
+York and London: Routledge, 1988.</p>
+              <p>Paley, Morton D. “Method and Meaning in Blake’s <hi rend="i">Book of Ahania.</hi>” 
+<hi rend="i">Bulletin of the New York Public Library</hi> lxx (1966): 27-33.</p>
+              <p>Tannenbaum, Leslie. <hi rend="i">Biblical Tradition in Blake’s Early Prophecies: The Great
+Code of Art.</hi> Princeton: Princeton UP, 1982.</p>
+              <p>Webster, Brenda S. <hi rend="i">Blake’s Prophetic Psychology.</hi> Athens: U of Georgia P,
+1969.</p>
+              <p>Worrall, David, ed. <hi rend="i">William Blake: The Urizen Books.</hi> London: The William
+Blake Trust/The Tate Gallery, 1995.</p>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

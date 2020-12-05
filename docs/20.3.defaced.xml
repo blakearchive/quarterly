@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.3.defaced</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">De-Faced Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1986-87</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986-87</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.3</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Stewart Crehan</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Stuart Peterfreund</name>
+              <name>Michael J. Tolley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-110" n="110"/>
+      <div1 id="BQ-20-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">DE-FACED BLAKE</hi>
+            </title>
+          </head>
+          <p>Readers may have noticed a certain patchiness in the type of our fall issue, the unfortunate but
+unavoidable result of having some articles set in Albuquerque and some in Rochester. The patchiness will
+continue until all articles set in New Mexico have been published, perhaps as late as the summer and fall
+issues next year.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

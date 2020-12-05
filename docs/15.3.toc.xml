@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1981/1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981·82</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.3</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <name>Wendy Jones</name>
+              <resp>Typist</resp>
+              <name>Denise Warren</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Greg Crossan</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Michael Ferber</name>
+              <name>Thomas V. Lange</name>
+              <name>Bo Ossian Lindberg</name>
+              <name>Donald H. Reiman</name>
+              <name>Joseph S. Salemi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1981/1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <front>
+      <pb id="p15-105-106" n="105-106"/>
+      <div1 id="cover">
+        <figure n="cover.015.03.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+ AN ILLUSTRATED QUARTERLY 59<lb/>
+ Volume 15<lb/>
+ Number 3<lb/>
+            Winter 1981-82</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-15-3-0001">
+        <table id="contents" rows="15" cols="2">
+          <row>
+            <cell>
+              <head>
+                <title>
+                  <hi rend="b">CONTENTS</hi>
+                </title>
+              </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.salemi">Emblematic Tradition in Blake’s 
+                  <hi rend="i">The Gates of Paradise</hi></ref><lb/>
+ by Joseph S. Salemi</cell>
+            <cell>108</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.dorrbecker">Innocence Lost &amp; Found: An
+                Untraced Copy Traced</ref><lb/>
+ by Detlef W. Dörrbecker</cell>
+            <cell>125</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.butlin">A New Acquisition for the Tate and a New
+                Addition to the Blake Catalogue</ref><lb/>
+ by Martin Butlin</cell>
+            <cell>132</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.crossan">Blake’s Maiden Queen in “The
+              Angel”</ref><lb/>
+ by Greg Crossan</cell>
+            <cell>133</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.lange">A Rediscovered Colored Copy of Young’s 
+                  <hi rend="i">Night Thoughts</hi></ref><lb/>
+ by Thomas V. Lange</cell>
+            <cell>134</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.ferber">Mars and the Planets Three in 
+                  <hi rend="i">America</hi></ref><lb/>
+ by Michael Ferber</cell>
+            <cell>136</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.bentley">Blake’s Letters and Literals<lb/>
+                Geoffrey Keynes, Kt., ed. <hi rend="i">The Letters of William Blake with Related
+                  Documents.</hi> Third edition.</ref><lb/>
+ Reviewed by G. E. Bentley, Jr.</cell>
+            <cell>138</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.lindberg">Robert N. Essick, <hi rend="i">William
+                  Blake Printmaker</hi></ref><lb/>
+ Reviewed by Bo Ossian Lindberg</cell>
+            <cell>140</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.gebentley">The Least Blake<lb/>
+<hi rend="i">Poetry
+                  of William Blake</hi></ref><lb/>
+ Reviewed by G. E. Bentley, Jr.</cell>
+            <cell>148</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.3.reiman">John D. Baird and Charles Ryskamp, eds.,
+                  <hi rend="i">The Poems of William Cowper. Vol. 1: 1748-1782.</hi><lb/>
+James King
+                and Charles Ryskamp, eds., <hi rend="i">The Letters and Prose Writings of William
+                  Cowper. Vol. 1: “Adelphi” and Letters, 1750-1781.</hi></ref><lb/>
+ Reviewed by
+              Donald H. Reiman</cell>
+            <cell>149</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>151</cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend">
+                <ref type="article" issue="15.3.norton">The Norton Blake</ref>, 
+                  <ref type="article" issue="15.3.huntington">Huntington Symposium &amp; Exhibition</ref>, 
+                  <ref type="article" issue="15.3.scruz">Santa Cruz Conference: Blake &amp;
+                  Criticism</ref>, <ref type="article" issue="15.3.night">Help Me Make It Through
+                  the Night</ref>
+              </supplied>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-15-3-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>G. E. BENTLEY, JR., of the University of Toronto, claims to be a student of learned pigs
+          by profession and a catcher of bears by avocation.</p>
+        <p>MARTIN BUTLIN is Keeper of the Historic British Collection at the Tate Gallery, London,
+          author of numerous works on Blake and Turner, and frequent contributor to 
+            <hi rend="i">Blake.</hi> His catalogue of <hi rend="i">The Paintings and Drawings of William
+            Blake</hi> was published by Yale University Press earlier this year.</p>
+        <p>GREG CROSSAN is a lecturer in English at Massey University, New Zealand, and author of
+            <hi rend="i">A Relish for Eternity</hi> (1976), a study of the poetry of John Clare.</p>
+        <p>DETLEF DÖRRBECKER teaches art history at the University of Trier.</p>
+        <p>MICHAEL FERBER is an assistant professor of English at Yale. He has published articles on
+          Blake, Coleridge, and Simone Weil and a book on draft resistance. He is now working on a
+          book on Blake’s political thought.</p>
+        <p>THOMAS V. LANGE is a specialist in illustrated books, now working on the history of
+          French book illustration.</p>
+        <p>BO OSSIAN LINDBERG was born in Åbo, Finland, in 1937. In 1973 he published 
+            <hi rend="i">William Blake’s Illustrations to the Book of Job.</hi> He is a painter and art
+          historian, working at the Institute of Art History, Lund, Sweden.</p>
+        <p>DONALD H. REIMAN has returned to his work on <hi rend="i">Shelley and his Circle</hi> at
+          the Pforzheimer Library after teaching during the summer at the University of Washington.
+          His current and forthcoming publications include essays in <hi rend="i">ELN, TEXT,
+            SiR</hi>, and <hi rend="i">Blake</hi>, as well as reviews in <hi rend="i">SiR, South
+            Atlantic Quarterly</hi>, and <hi rend="i">Keats-Shelley Journal.</hi></p>
+        <p>JOSEPH S. SALEMI is on the adjunct faculty of the English Department of Pace University,
+          New York City. He has also taught at New York University, Brooklyn College, and Marymount
+          Manhattan College. His field of specialization is Renaissance controversialist literature,
+          but he writes on a wide range of scholarly subjects. His articles have appeared in 
+            <hi rend="i">Novel, Chaucer Review, Allegorica</hi>, and <hi rend="i">University
+            Bookman.</hi>
+	<note type="unreferenced" place="footer">© Copyright 1981 by Morris Eaves
+            &amp; Morton D. Paley</note></p>
+        <figure n="Castle.15.3.bqscan" rend="file" width="300" height="146"/>
+      </div1>
+      <pb id="p15-107" n="107"/>
+      <div1 id="BQ-15-3-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California,
+          Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of
+          Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+          Albuquerque NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department of English,
+          University of California, Berkeley, CA 94720.<lb/>
+ Thomas L. Minnick, University College,
+          Ohio State University, 1050 Carmack Road, Columbus, Ohio 43210.<lb/>
+ Nelson Hilton,
+          Department of English, University of Georgia, Athens, GA 30602.<lb/>
+ Frances A. Carey,
+          Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+          England.</p>
+        <figure n="SINNCopyYShepherd.15.3.bqscan" rend="file" width="400" height="615"></figure>
+      </div1>
+      <div1 id="BQ-15-3-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="Agamemnon.15.3.bqscan" rend="file" width="400" height="388"></figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Marcy Erickson, Univ. of New Mexico. EDITORIAL ASSISTANTS:
+          Wayne Erickson, Wendy Jones, George Hartley, Univ. of New Mexico.</p>
+        <p>TYPIST: Denise Warren</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of
+          English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume, 4 issues. Special rates for individuals,
+          $12.00, surface mail. Air mail subscriptions are $10.00 more than surface mail
+          subscriptions. U.S. currency or international money order if possible. Make checks payable
+          to Blake/An Illustrated Quarterly. Address all subscription orders and related
+          communications to the Circulation Mgr., Marcy Erickson, <hi rend="i">Blake</hi>, Dept. of
+          English, Univ. of New Mexico, Albuquerque, New Mexico 87131, USA.</p>
+        <p>Some BACK ISSUES are available. Address Marcy Erickson for a list of issues and
+          prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms
+          suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept.
+          of English, Univ. of New Mexico, Albuquerque, N.M. 87131; Morton D. Paley, Dept. of
+          English, Univ. of California, Berkeley, California 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is INDEXED in
+          the Modern Language Association’s International Bibliography, the Modern Humanities
+          Research Association’s Annual Bibliography of English Language and Literature, 
+            <hi rend="i">English Language Notes</hi>’ annual Romantic bibliography, ARTbibliographies
+          MODERN, American Humanities Index, (Whitson Pub.), and the Arts and Humanities Citation
+          Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

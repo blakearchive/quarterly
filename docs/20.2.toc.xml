@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.2</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>David V. Erdman</name>
+              <name>Nelson Hilton</name>
+              <name>Tim Hoyer</name>
+              <name>Wallace Jackson</name>
+              <name>Edward Larrissy</name>
+              <name>Raymond Lister</name>
+              <name>Morton D. Paley</name>
+              <name>David Punter</name>
+              <name>David Scrase</name>
+              <name>David Simpson</name>
+              <name>Dena Bain Taylor</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <front>
+      <pb id="p20-33-34" n="33-34"/>
+      <div1 id="cover">
+        <figure n="cover.020.02.bqscan" rend="file" width="258" height="336">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 20<lb/>
+            NUMBER 2<lb/>
+            FALL 1986</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-20-2-0001">
+        <table id="contents" rows="19" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.bentley">A New <hi rend="i">America</hi></ref><lb/>
+G. E. Bentley, Jr.</cell>
+            <cell>37</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.larrissy">Blake and the Hutchinsonians</ref><lb/>
+Edward Larrissy</cell>
+            <cell>44</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.taylor">The Visual Context of “Joseph of Arimathea among
+the Rocks of Albion”</ref><lb/>
+Dena Bain Taylor</cell>
+            <cell>47</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.lister">William Muir</ref><lb/>
+Raymond Lister</cell>
+            <cell>49</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.erdman">Improving the Text of <hi rend="i">The Complete
+Poetry</hi> &amp; <hi rend="i">Prose of William Blake</hi></ref><lb/>
+David V. Erdman</cell>
+            <cell>49</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.butlin">A Reply to Martin Butlin</ref><lb/>
+Raymond Lister</cell>
+            <cell>52</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.paley">C. A. Patrides and Joseph Wittreich, eds., 
+<hi rend="i">The Apocalypse in English Renaissance Thought and Literature: Patterns, Antecedents, and
+Repercussions</hi></ref>, reviewed by Morton D. Paley</cell>
+            <cell>53</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.jackson">Fredric V. Bogel, <hi rend="i">Literature and
+Insubstantiality in Later Eighteenth-Century England</hi></ref>, reviewed by Wallace Jackson</cell>
+            <cell>57</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.punter">Peter L. Thorslev, Jr., <hi rend="i">Romantic
+Contraries: Freedom versus Destiny</hi></ref>, reviewed by David Punter</cell>
+            <cell>60</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.simpson">Olivia Smith, <hi rend="i">The Politics of
+Language, 1791-1819</hi></ref>, reviewed by David Simpson</cell>
+            <cell>63</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.scrase">Robert N. Essick, <hi rend="i">The Separate Plates
+of William Blake: A Catalogue</hi></ref>, reviewed by David Scrase</cell>
+            <cell>64</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.hilton">Edward Larrissy, <hi rend="i">William Blake</hi>,
+Rereading Literature Series, edited by Terry Eagleton</ref>, reviewed by Nelson Hilton</cell>
+            <cell>66</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.2.hoyer">Harvey Bellin and Tom Kieffer, <hi rend="i">The
+Marriage of Heaven and Hell</hi>, and Joseph Viscomi, <hi rend="i">An Island in the Moon</hi></ref>, two
+videotapes reviewed by Tim Hoyer</cell>
+            <cell>68</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="20.2.society">The Blake Society</ref>, 
+              <ref type="article" issue="20.2.beinecke">New Beinecke Fellowships</ref>, 
+              <ref type="article" issue="20.2.designer">Designer Blake</ref>
+        	</cell>
+            <cell>71</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-20-2-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">G. E. BENTLEY, JR.</hi>, of the University of Toronto, writes chiefly about Blake and
+about illustrated books of Blake’s time.</p>
+        <p><hi rend="b">DAVID V. ERDMAN</hi> has two books in press, a photofacsimile of <hi rend="i">The Four
+Zoas</hi> with commentary (in collaboration with Cettina Tramontano Magno) and a study of John Oswald and the
+British in Paris 1790-1793.</p>
+        <p><hi rend="b">NELSON HILTON</hi> teaches English at the University of Georgia and is the Review
+Editor for <hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">TIM HOYER</hi>, graduate student in the Department of English, University of
+California at Berkeley, is working on a dissertation on Blake. He also heads the automated cataloging unit of
+the Bancroft Library.</p>
+        <p><hi rend="b">WALLACE JACKSON</hi> is Professor of English at Duke University. His most recent book
+is <hi rend="i">Alexander Pope: Vision and Re-Vision</hi> (Wayne State University Press, 1983). He is
+presently at work on an inquiry into the historical bases of Pope’s literary reputation and an intertextual
+study of Thomas Gray’s poetry.</p>
+        <p><hi rend="b">EDWARD LARRISSY</hi>, Lecturer in English, University of Warwick, is author of 
+<hi rend="i">William Blake</hi> in the Rereading Literature series. His poems have appeared in various
+periodicals, and he is currently writing a book on contemporary British and American poetry.</p>
+        <pb id="p20-35" n="35"/>
+        <p><hi rend="b">RAYMOND LISTER</hi>, an Emeritus Fellow of Wolfson College, Cambridge, and a Syndic of
+the Fitzwilliam Museum, has just completed a catalogue raisonné of the works of Samuel Palmer to be published
+in 1987 by Cambridge University Press.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi>’s most recent book is <hi rend="i">The Apocalyptic Sublime</hi>
+(Yale University Press, 1986), a study of works on apocalyptic subjects by British artists from John Hamilton
+Mortimer to Lord Leighton.</p>
+        <p><hi rend="b">DAVID PUNTER</hi> is Senior Lecturer in English at the University of East Anglia. His
+books include <hi rend="i">The Literature of Terror</hi> (1980), <hi rend="i">Blake, Hegel and Dialectic</hi>
+(1982), and <hi rend="i">The Hidden Script: Writing and the Unconscious</hi> (1985). A book on romanticism and
+the unconscious is forthcoming from Harvester Press later in 1986.</p>
+        <p><hi rend="b">DAVID SCRASE</hi>, Keeper of Paintings, Drawings, and Prints at the Fitzwilliam
+Museum, is responsible for the cataloging and exhibitions of the holdings in that museum, which is, as is well
+known, particularly rich in Blake’s works.</p>
+        <p><hi rend="b">DAVID SIMPSON</hi> is Professor of English at the University of Colorado, Boulder. His
+most recent book is <hi rend="i">The Politics of American English, 1776-1850</hi> (Oxford University Press,
+1986).</p>
+        <p><hi rend="b">DENA BAIN TAYLOR</hi> completed her Ph.D. at the University of Toronto, writing on the
+Kabbalistic elements in Blake’s poetry and designs. She lectures parttime at Erindale College, University of
+Toronto.</p>
+      </div1>
+      <div1 id="BQ-20-2-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627, <hi rend="b">Telephone</hi> 716/275-3820.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West Germany.
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+      </div1>
+      <div1 id="BQ-20-2-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake / An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Associations International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, ART bibliographies
+MODERN, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

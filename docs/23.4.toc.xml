@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.4</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Bidney</name>
+              <name>Christopher Heppner</name>
+              <name>Nelson Hilton</name>
+              <name>Harriet Kramer Linkin</name>
+              <name>Morton D. Paley</name>
+              <name>John B. Pierce</name>
+              <name>Sheila A. Spector</name>
+              <name>Michael Tolley</name>
+              <name>Gunnel Tottie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <front>
+      <pb id="p23-173-174" n="173-174"/>
+      <div1 id="cover">
+        <figure n="cover.023.04.bqscan" rend="file" width="258" height="335">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 23<lb/>
+            NUMBER 4<lb/>
+            SPRING 1990</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-23-4-0001">
+      	<table id="contents" rows="16" cols="2">
+      	  <row>
+      	  	<cell>
+      		  <head>
+      			<title><hi rend="b"><hi rend="i">CONTENTS</hi></hi></title>
+      		  </head>      	  	
+      	  	</cell>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<hi rend="b"><hi rend="i">ARTICLES</hi></hi>
+      	  	</cell>
+      	  	<cell/>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.spector">Sources and Etymologies of Blake’s
+“Tirzah”</ref><lb/>
+by Sheila A. Spector</cell>
+      	  	<cell>176</cell>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.linkin">Revisioning Blake’s Oothoon</ref><lb/>
+by Harriet Kramer Linkin</cell>
+      	  	<cell>184</cell>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<hi rend="b"><hi rend="i">MINUTE PARTICULAR</hi></hi>
+      	  	</cell>
+      	  	<cell/>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.bidney">Urizen and Orc, Cortés and Guatimozin: Mexican
+History and <hi rend="i">The Four Zoas</hi> VII</ref><lb/>
+Martin Bidney</cell>
+      	  	<cell>195</cell>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<hi rend="b"><hi rend="i">DISCUSSION</hi></hi>
+      	  	</cell>
+      	  	<cell/>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.pierce">Bunyan at the Gates of Paradise</ref><lb/>
+John B. Pierce</cell>
+      	  	<cell>198</cell>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.heppner">“Under the Hill”: Tyndale or Bunyan</ref><lb/>
+Christopher Heppner</cell>
+      	  	<cell>200</cell>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.tolley">Hilton under the Hill: Other Dreamers</ref><lb/>
+Michael J. Tolley</cell>
+      	  	<cell>201</cell>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.hilton">Fellow Travelers . . .</ref><lb/>
+Nelson Hilton</cell>
+      	  	<cell>204</cell>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<hi rend="b"><hi rend="i">REVIEWS</hi></hi>
+      	  	</cell>
+      	  	<cell/>
+      	  </row>
+      	  <row>
+      	  	<cell><ref type="article" issue="23.4.bentley">Shelley Bennett. <hi rend="i">Thomas Stothard:
+Mechanisms of Art Patronage c. 1800</hi></ref>, reviewed by G. E. Bentley, Jr.</cell>
+      	  	<cell>205</cell>
+      	  </row>
+      	  <row>
+      	  	<cell><corr type="emend"><ref type="article" issue="23.4.paley">William Blake. 
+<hi rend="i">Äktenskapet mellan <corr type="emend" rend="plain">Himmel</corr> och Helvete</hi>, trans. Folke
+Isaksson</ref>,</corr> reviewed by Morton D. Paley and Gunnel Tottie</cell>
+      	  	<cell>209</cell>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<hi rend="b"><hi rend="i">NEWSLETTER</hi></hi>
+      	  	</cell>
+      	  	<cell/>
+      	  </row>
+      	  <row>
+      	  	<cell>
+      	  		<ref type="article" issue="23.4.limit"><hi rend="i">The Limit of Opakeness</hi></ref>, 
+      	  		<ref type="article" issue="23.4.tate"><hi rend="i">Blake’s Fate at the Tate</hi></ref>, 
+      	  		<ref type="article" issue="23.4.brooklyn"><hi rend="i">Blake’s Job Engravings at the Brooklyn
+Museum</hi></ref>, 
+      	  		<ref type="article" issue="23.4.news"><hi rend="i">Historicizing Blake</hi></ref>, 
+      	  		<ref type="article" issue="23.4.century">Blake <hi rend="i">in the 21st Century</hi></ref>, 
+      	  		<ref type="article" issue="23.4.screenplay"><hi rend="i">Blake: The Screenplay</hi></ref>
+      	  	</cell>
+      	  	<cell>211</cell>
+      	  </row>
+      	 </table>
+                Cover: William Blake, <hi rend="i">A Vision: The Inspiration of the Poet,</hi> c. 1819-20.
+Courtesy of the Tate Gallery, London, England.
+                <note type="unreferenced" place="footer">© 1990 Copyright Morris Eaves and Morton D
+Paley</note>
+	</div1>
+      <pb id="p23-175" n="175"/>
+      <div1 id="BQ-23-4-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">G. E. BENTLEY, JR.</hi>, University of Toronto is the author of <hi rend="i">Blake
+Records</hi> (1969), <hi rend="i">Blake Records Supplement</hi> (1988), and <hi rend="i">Blake
+Books</hi>(1977), and is presently preparing a supplement to <hi rend="i">Blake Books.</hi></p>
+        <p><hi rend="b">MARTIN BIDNEY</hi>, Professor of English and Comparative Literature at SUNY
+Binghamton, is the author of <hi rend="i">Blake and Goethe: Psychology, Ontology, Imagination</hi> (U of
+Missouri P, 1988).</p>
+        <p><hi rend="b">CHRISTOPHER HEPPNER</hi>, Associate Professor of English at McGill University, has
+written a variety of essays on Blake and Shelley.</p>
+        <p><hi rend="b">NELSON HILTON</hi> is Review Editor of <hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">HARRIET KRAMER LINKIN</hi>, Assistant Professor of English at New Mexico State
+University, has recently completed a book on Herbert and Blake.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi> has prepared an edition of Copy E of <hi rend="i">Jerusalem</hi>
+for the William Blake Trust.</p>
+        <p><hi rend="b">JOHN B. PIERCE</hi> teaches English literature at the University of Toronto. He has
+published articles on Blake and Shelley and has recently completed a book-length study on the growth and
+development of <hi rend="i">Vala</hi> or <hi rend="i">The Four Zoas.</hi></p>
+        <p><hi rend="b">SHEILA A. SPECTOR</hi>, who teaches English at Kennesaw State College, is primarily
+interested in Hebraic influences on Blake. Her background study, “Blake as an Eighteenth-Century
+Hebraist,” has just been published in David V. Erdman’s anthology <hi rend="i">Blake and His Bibles</hi>
+(Locust Hill Press, 1990).</p>
+        <p><hi rend="b">MICHAEL TOLLEY</hi>, Associate Professor of English at the University of Adelaide, is
+currently working with John E. Grant to complete the commentary for the 1980 edition of <hi rend="i">William
+Blake’s Designs for Edward Young’s</hi> Night Thoughts.</p>
+        <p><hi rend="b">GUNNEL TOTTIE</hi> is an Associate Professor of English linguistics at the University
+of Uppsala, Sweden.</p>
+      </div1>
+      <div1 id="BQ-23-4-0003">
+        <head>
+          <title>
+            <hi rend="i">EDITORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627.</p>
+        <p><hi rend="b">Telephone</hi> 716/275-3820.</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.</p>
+        <p>Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX,
+England.</p>
+      </div1>
+      <div1 id="BQ-23-4-0004">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $30 for institutions, $20 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $6 per volume postal surcharge for surface mail, a $15 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Only one copy will be returned to authors. Please send disks if your
+manuscript was typed on a computer; note the name of the computer, the word processing system used, and the
+file name of your article. If possible, have your disk converted to IBM Dos 4.0, and Word-Perfect 5.0.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">The Romantic Movement: A Selective and Critical Bibliography</hi> (ed. David V.
+Erdman et al.), American Humanities Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

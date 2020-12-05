@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.1.correction</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="correction">Correction to review of Geoffrey Keynes, Blake’s Letters</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.1</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-18" n="18"/>
+            <div1 id="BQ-03-1-0006">
+                <head>
+                    <title type="section">
+                        <hi rend="i">CORRECTION</hi>
+                    </title>
+                </head>
+                <p>Sir Geoffrey Keynes wishes to point out that the second edition of <hi rend="i">Blake’s
+Letters</hi> contains four letters not included in the first edition, and not one, as was stated in the Spring
+<hi rend="i">Newsletter.</hi> In addition to the brief letter to Mrs. Aders, there are two complete letters to
+Hayley and one to Linnell<corr type="emend">.</corr> Furthermore, the inverted commas in the poem sent to
+Butts are not editorial, but form part of Blake’s original letter.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

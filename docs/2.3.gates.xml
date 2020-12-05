@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.gates</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Gates of Paradise</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-3-0002">
+				<div2>
+                    <pb id="p02-38" n="38"/>
+                    <div3>
+                        <head>
+                            <title type="main">
+                                <hi rend="i">The Gates of Paradise</hi>
+                            </title>
+                        </head>
+                        <p>Scheduled for publication this month: a facsimile reproduction 
+                        of the complete <hi rend="i">Gates of Paradise</hi>, published for 
+                        the William Blake Trust by the Trianon Press (Chateau de Boissia, 
+                        Clairvaux, Jura, France).</p>
+                        <p>Volume 1 includes seventeen preliminary sketches from Blake’s 
+                        <hi rend="i">Notebook</hi>, reproduced in facsimile by collotype, 
+                        together with Sir Geoffrey Keynes’s introduction, page-by-page 
+                        explanation and comparative study of all three stages of the work, 
+                        and a census of every known copy of the two volumes of engravings. 
+                        In his illuminating text, Sir Geoffrey has outlined the origins of 
+                        Blake’s project from a series of sixty-four drawings in the 
+                        <hi rend="i">Notebook</hi> which are listed and described. From 
+                        these drawings Blake chose seventeen which he engraved and issued 
+                        in 1793 entitled <hi rend="i">For Children. The Gates of 
+                        Paradise.</hi> Later, in about 1818, he re-worked all the plates, 
+                        adding three and issued them under the title <hi rend="i">For the 
+                        Sexes.</hi> Volume 2 of this edition is a facsimile of the 
+                        <hi rend="i">For Children</hi> series made from the Lessing J. 
+                        Rosenwald copy in the Library of Congress, and contains additional 
+                        states of an earlier version. Volume 3 is a facsimile of the 
+                        Huntington Library copy of <hi rend="i">For the Sexes</hi>, 
+                        together with a number of comparative plates from other 
+                        sources.</p>
+                        <p>The engravings have been reproduced in facsimile by two-tone 
+                        collotype with the plate mark impressed from hand-bevelled copper 
+                        plates. The paper is pure rag Arches Vergé. The edition is limited 
+                        to 700 copies for sale: 50 copies numbered 1 to 50, containing 
+                        extra plates and material used in printing the book, are bound in 
+                        full morocco and presented in a cloth slip-case (49 gns.); 650 
+                        copies numbered 51 to 700 are bound in cloth and presented in a 
+                        cloth-covered slip-case (16 gns.).</p>
+                    </div3>
+                </div2>
+            </div1>
+		</body>
+    </text>
+</TEI.2>

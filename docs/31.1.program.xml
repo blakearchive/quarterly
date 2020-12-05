@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.program</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Society Program for 1997</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+      <div1 id="BQ-31-1-0007">
+      	<pb id="p31-39" n="39"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Blake Society Program for 1997</hi>
+            </title>
+          </head>
+          <p>22 July, 7: 30 pm, Jeanne G. Moskal, “Forgiving Blake”; 10 August, noon, meeting at Blake’s
+grave at Bunhill Fields; 30 September, 7:30 pm, David Worrall, “Blake’s Mrs. Q: A Late Portrait
+Engraving”; 15 October, 7:30, Joint meeting with the Wilfred Owen Society, Chris Rubenstein, “Blake and
+Owen in Peace and War”; 28 November, 1 pm, <hi rend="i">Songs of Innocence and of Experience;</hi> 4
+December, 7:30, General Meeting of the Blake Society; 27 January 1998, 7:30 pm, Terence Watson, “My Course
+Through Darkness: William Blake and Creative Depression.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

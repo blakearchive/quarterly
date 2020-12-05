@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.3.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">The Last Judgment by “B. Blake”</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2007-08</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007-08</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.3</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>C.S. Matheson</name>
+              <name>Jennifer Davis Michael</name>
+              <name>Morton D. Paley</name>
+              <name>Wayne C. Ripley</name>
+              <name>G.A. Rosso</name>
+              <name>Justin Van Kleeck</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007/2008"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+	  <pb id="p41-135" n="135"/>
+      <div1 id="BQ-41-3-0008">
+        <head>
+          <title type="section">MINUTE PARTICULAR</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">The Last Judgment</hi> by “B. Blake”</title>
+          </head>
+          <byline>By <docAuthor>Morton D. <name>Paley</name></docAuthor></byline>
+          <p>As is well known, William Blake exhibited three pictures at the Royal Academy exhibition of 1808.
+These are listed in the exhibition catalogue as “311 Jacob’s dream,—vide Genesis, chap. xxviii, ver.
+12”; “439 Christ in the sepulcher, guarded by angels”; and “477 The Last Judgment.”<supplied
+type="spacer"> </supplied><ref target="n8" type="note">1</ref> There is a peculiarity about the listing of the
+third that has been silently corrected in Blake scholarship. It seems indeed trivial, involving only one
+letter. The artist’s name is given as “B. Blake.” <note id="n8">1. <hi rend="i">The Exhibition of the
+Royal Academy MDCCCVIII.</hi></note></p>
+          <p>Royal Academy catalogues were probably produced quickly and with little proofreading. Getting a
+letter wrong was nothing out of the ordinary. The miniature painter John Hazlitt’s name was, for example,
+given as “T. Hazlitt” in the catalogue of 1802 in conjunction with Hazlitt’s portrait of Samuel Taylor
+Coleridge.<supplied type="spacer"> </supplied><ref target="n9" type="note">2</ref> However, there is an
+important difference here. There was in 1802 no exhibiting painter named T. Hazlitt, while John Hazlitt had
+exhibited every year from 1788 through 1801. The public could easily guess the real name of the artist who
+showed the Coleridge portrait and three others. In contrast, Benjamin Blake was the name of a painter of
+landscapes and of game who exhibited “View at Dumford, near Amesbury” (171) in 1808, and whose address is
+given in the catalogue as 37 Broad Street, Soho.<supplied type="spacer"> </supplied><ref target="n10"
+type="note">3</ref> (William Blake’s address is correctly given as 17 South Molton Street, Oxford Street.)
+As the Royal Academy did not act as an agent for selling paintings, providing the artist’s address was a way
+for prospective buyers to gain contact, and so giving the wrong artist’s name for <hi rend="i">The Last
+Judgment</hi> was, though unintentional, a professional disservice. It is also an indication of how obscure
+Blake was as he entered what Alexander Gilchrist was to call his “Years of Deepening Neglect.” 
+<note id="n9">2. See my <hi rend="i">Portraits of Coleridge</hi> (Oxford: Clarendon P, 1999) 28.</note>
+	<note id="n10">3. Some details about B. Blake, but not the confusion about <hi rend="i">The Last
+Judgment</hi>, are given in appendix 2, “Blake Residences,” in G. E. Bentley, Jr.’s <hi rend="i">Blake
+Records</hi>, 2nd ed. (New Haven: Yale UP, 2004) 737. By 1811, when B. Blake showed “View at Great Dunford,
+Wiltshire” (<hi rend="i">The Exhibition of the Royal Academy MDCCCXI</hi>, 146), his address was Great
+Dunford, near Salisbury.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

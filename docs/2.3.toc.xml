@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <front id="issue_03">
+            <pb id="p02-35" n="35"/>
+            <div1 id="cover">
+                <figure n="cover.002.03.bqscan" rend="file" width="258" height="332">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Volume II, Number 3<lb/>
+                        Whole #7<lb/>
+                        December 15, 1968<lb/>
+                        The <hi rend="i">Newsletter</hi> sends Season’s Greetings<lb/>
+                        to all its readers, in the hope that we<lb/>
+                        will soon see the fulfillment of the<lb/>
+                        opening lines of “A Prophecy” in Blake’s<lb/>
+                        <hi rend="i">Europe</hi>:<lb/>
+                        The deep of winter came;<lb/>
+                        What time the secret child,<lb/>
+                        Descended thro’ the orient gates of the eternal day:<lb/>
+                        War ceas’d, &amp; all the troops like shadows fled to their abodes.<lb/>
+                        *  *  *  *  *  *  *  *  *<lb/>
+                        <hi rend="i"><hi rend="u">NEWS</hi></hi><lb/>
+                        Mr. Ruthven Todd’s essay, “Blake’s Dante Plates” has been reprinted, with<lb/>
+                        additions, from BOOK COLLECTING &amp; LIBRARY MONTHLY (147 Gray’s Inn Road,
+London,<lb/>
+                        W.C. 1).  Copies are available from the publisher at 75¢ each.<lb/>
+                        As readers of the <hi rend="i">Newsletter</hi> know, Mr. Todd has been working on a
+revised<lb/>
+                        edition of Gilchrist’s <hi rend="i">Life</hi>. We have sent him xeroxes of a number
+of Blake<lb/>
+                        articles in connection with this, and he proposes to eventually give these,<lb/>
+                        with whatever others are sent to  him, to the Preston-Blake Library in
+Westminster.<lb/>
+                        The articles are to be mounted in large folio loose-leaf volumes—over a dozen<lb/>
+                        volumes have been made up already—with an index volume for the set.  The ad-<lb/>
+                        vantages of such a collection to Blake scholars working in London are self-<lb/>
+                        evident, and we would like to encourage authors of articles to send xeroxes<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English,<lb/>
+                        University of California, Berkeley, California, 94720.  Subscription price:<lb/>
+                        $2.00 for one year; overseas subscribers who wish delivery by air, please add<lb/>
+                        one dollar.  Please make checks or money orders payable to Morton D. Paley.<lb/>
+                        Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by air)<lb/>
+                        if the money order is <hi rend="u">open</hi> and uncrossed.<lb/>
+                        Copyright 1968 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+			<div1 id="BQ-02-3-0000">
+					<supplied type="emend" rend="plain">
+						<table id="contents" rows="22" cols="2">
+						  <row>
+							<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><hi rend="b">News</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.news">Ruthven Todd: “Blake’s Dante Plates,” Gilchrist’s 
+<hi rend="i">Life</hi>, article collection</ref></cell>
+							<cell>35</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.checklist">Checklist corrections</ref></cell>
+							<cell>36</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.kolker">Blake in the Institute</ref><lb/>
+							<hi rend="i">Robert P. Kolker</hi></cell>
+							<cell>36</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.mla">MLA: Seminar 55</ref><lb/>
+							<hi rend="i">David V. Erdman</hi></cell>
+							<cell>37</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.gates"><hi rend="i">The Gates of Paradise</hi></ref></cell>
+							<cell>38</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Notes</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.butlin">1. William Rossetti’s Annotations to Gilchrist’s 
+<hi rend="i">Life of William Blake</hi></ref><lb/>
+							<hi rend="i">Martin Butlin</hi></cell>
+							<cell>39</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.buck">2. Miss Groggery</ref><lb/>
+							<hi rend="i">John Buck</hi></cell>
+							<cell>40</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.bentley">3. A Census of Coloured Copies of Young’s 
+<hi rend="i">Night Thoughts</hi> (1797)</ref><lb/>
+							<hi rend="i">G. E. Bentley, Jr.</hi></cell>
+							<cell>41</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Discussion</hi><lb/>
+							<hi rend="b">With intellectual spears, &amp; long winged arrows of thought</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.cummings">1. Blake at Detroit and Philadelphia</ref><lb/>
+							<hi rend="i">Frederic Cummings</hi></cell>
+							<cell>46</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.erdman">2. <hi rend="i">Jerusalem</hi> 95: 2-20</ref><lb/>
+							<hi rend="i">David V. Erdman</hi></cell>
+							<cell>49</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.grant">3. Mothers and Methodology (continued from previous
+issue)</ref><lb/>
+							<hi rend="i">John E. Grant</hi></cell>
+							<cell>50</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.hertz">Suggestion in connection with previous discussion of “The
+Little Boy Found”</ref><lb/>
+							<hi rend="i">Niels Christian Hertz</hi></cell>
+							<cell>54</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Review</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.tolley">William Blake’s <hi rend="i">Poetical Sketches</hi>, by
+John W. Ehrstine</ref><lb/>
+							<hi rend="i">reviewed by Michael J. Tolley</hi></cell>
+							<cell>55</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Queries</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.todd">“Exhibiting my two Pictures”</ref><lb/>
+							<hi rend="i">Ruthven Todd</hi></cell>
+							<cell>58</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.paley">“Menny wouver”</ref><lb/>
+							<hi rend="i">Morton D. Paley</hi></cell>
+							<cell>58</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.3.residence">Answers to Hard Questions: The Residence of Thomas
+Butts</ref><lb/>
+							<hi rend="i">G. E. Bentley, Jr.</hi></cell>
+							<cell>58</cell>
+						  </row>
+						</table>
+					</supplied>
+			</div1>
+            <div1 id="BQ-02-3-0001">
+                <p>The <hi rend="i">Newsletter</hi> sends Season’s Greetings to all its readers, in the hope
+that we will soon see the fulfillment of the opening lines of “A Prophecy” in Blake’s 
+<hi rend="i">Europe</hi>:
+				<q>
+				The deep of winter came;<lb/>
+				What time the secret child,<lb/>
+				Descended thro’ the orient gates of the eternal day:<lb/>
+				War ceas’d, &amp; all the troops like shadows fled to their abodes.</q></p>
+				<note type="unreferenced">
+					<p>The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English, University of California,
+Berkeley, California, 94720. Subscription price: $2.00 for one year; overseas subscribers who wish delivery by
+air, please add one dollar. Please make checks or money orders payable to Morton D. Paley. Residents of
+Britain may pay by Postal Money Order for 16/9 (£ 10s by air) if the money order is <hi rend="u">open</hi>
+and uncrossed.</p>
+				</note>
+				<note type="unreferenced">
+					<p>Copyright 1968 by Morton D. Paley</p>
+				</note>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

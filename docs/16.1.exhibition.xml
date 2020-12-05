@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.1.exhibition</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Essick Collection Exhibited</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.1</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-66" n="66"/>
+      <div1 id="BQ-16-1-0009">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Essick Collection Exhibited</hi>
+            </title>
+          </head>
+          <p>The Grolier Club, New York, presented an exhibition of Blake’s book illustrations from 25 March
+through the end of May. All works were from the collection of Robert N. Essick. The exhibit centered on the
+engraved book illustrations designed and executed by Blake, but also included reproductive graphics, a small
+selection of early facsimiles of the illuminated books, and the recently rediscovered copy h of 
+<hi rend="i">Songs of Innocence and of Experience.</hi> The exhibition was not open to the public.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

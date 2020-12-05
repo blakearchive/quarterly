@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.4.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="query">“Folly is the Cloke of knavery.”</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.4</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Jackie Di Salvo</name>
+              <name>Morris Eaves</name>
+              <name>Robert N. Essick</name>
+              <name>George Goyder</name>
+              <name>Nelson Hilton</name>
+              <name>Inge Jonsson</name>
+              <name>Morton D. Paley</name>
+              <name>Donald H. Reiman</name>
+              <name>David Simpson</name>
+              <name>Tadeusz Sławek</name>
+              <name>Sheila A. Spector</name>
+              <name>David H. Weinglass</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <pb id="p21-173" n="173"/>
+      <div1 id="BQ-21-4-0008">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">QUERY</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">“Folly is the cloke of knavery.”</title>
+          </head>
+          <byline>
+            <docAuthor>Morton D. <name>Paley</name></docAuthor>
+          </byline>
+          <p>I had always thought of this Proverb of Hell as originating in <hi rend="i">The Marriage.</hi>
+However, Walter Scott in <hi rend="i">Waverley</hi>, in speaking of Davie Gellately, says: “Davie had no
+mind to explain, and had wit enough to make his folly cloak his knavery. . .” (Andrew Hook, ed., Penguin,
+1972 [116]). This seems too close for coincidence, and so there must either be a common source or an
+intermediary source, unless we assume that Sir Walter had been conversing with Blake’s Devils. Does anybody
+know?</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

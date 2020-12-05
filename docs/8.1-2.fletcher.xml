@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+	<idno>8.1-2.fletcher</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">John Todhunter’s Lectures on Blake, 1872-1874</title>
+        <author n="Fletcher">Ian Fletcher</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer-Fall 1974</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">08.1-2</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">1-2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Sharon Stell</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1974"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <pb id="p08-4" n="4"/>
+      <div1 id="BQ-08-1_2-0002">
+        <head>
+          <title type="main">
+            <hi rend="b">John Todhunter’s Lectures on Blake, 1872-1874</hi>
+          </title>
+        </head>
+        <byline>EDITED BY <docAuthor>IAN <name>FLETCHER</name></docAuthor><supplied type="spacer"> </supplied><ref target="n0" type="note">*</ref></byline>
+        <figure n="Flower.8.1-2.bqscan" rend="file" width="250" height="184"/>
+        <p>In January 1960, through the generosity of the poet’s son, some of the literary manuscripts of
+John Todhunter (1839-1916) were presented to the University of Reading. Best remembered as a friend of John
+Butler Yeats and later of his son William Butler Yeats, and as one of the first poets to adopt the “programme”
+of the “Irish Renaissance” by the use of Celtic myth in his volume <hi rend="i">The Banshee</hi> (1888),
+Todhunter was also a member of the Rhymers’ Club. More than an accomplished minor poet, Todhunter was a
+dramatist who, if not successful was at least adventurous: the range of his work extends from pastoral to the
+Ibsenite “problem” play. As a critic, he was as adventurous and more gifted: he anticipates Yeats in promoting
+non-naturalist drama; while his <hi rend="i">Study of Shelley</hi> (1880) has been warmly commended by
+Professor Harold Bloom.</p>
+        <note id="n0">
+          <hi rend="i">Ian Fletcher, Reader in English Literature at the University of Reading, is currently
+Visiting Professor at the University of Illinois. He has published monographs on Pater, Beaumont and Fletcher,
+and Swinburne; edited two collections of essays; and edited the poems of Lionel Johnson, John Gray, and Victor
+Plarr.</hi>
+        </note>
+        <p>Among the unpublished manuscript material at Reading are four lectures on William Blake: MS
+202/4/3. This altogether consists of fifty-five leaves.
+<q>
+Lecture VII (12 leaves) dated 31 October 1872<lb/>
+Lecture VIII (13 leaves) dated 5 November 1872 (incomplete)<lb/>
+Lecture XVI (24 leaves) dated 10 March 1874<lb/>
+Lecture XVIII (6 leaves) dated 12 March 1874
+</q>
+In the text I give here, ampersands have been expanded, spelling has been normalized and editorial punctuation
+is enclosed by a square bracket.</p>
+        <p>These lectures form part of a cycle on the English poets delivered at Alexandra College, Dublin. Of
+this cycle, only the lecture on Blake appear to have survived.</p>
+        <p>Alexandra College<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> had been
+founded in 1866 by R.C. Trench, Anglican Archbishop of Dublin, friend of F. D. Maurice and Tennyson, jointly
+with the remarkable Anne Jellicoe, pioneer in modes of training women for suitable employment. Alexandra had
+been preceded in the “higher” education of ladies by Queen’s (1848) and Bedford Colleges, London. It was an
+“Ascendancy” institution closely linked to Trinity College, Dublin. Its primary aim, indeed, was to persuade
+Trinity to admit women to degrees and itself to become an associated College of the new bisexual model. In
+this it was to be oddly disappointed: women were admitted to Trinity in 1904 but Alexandra College, despite an
+admirable academic record, was left to its own devices. Those involved becoming a grammar school, even if an
+extraordinary one. Alexandra’s ambition accounts for the distinction of its lecturers and the demanding
+quality of their lectures. In the 1870s lectures were given by, among others, J. P. Mahaffy and Edward Dowden
+and we are told that Dowden’s <hi rend="i">Shakespere: His Mind and Art</hi> was first given in the form of
+a series of lectures to the ladies of Alexandra College. The series itself formed part of the “Saturday
+Lectures” given between 1869 and 1877 in Trinity and by Trinity staff. <note id="n1"><hi rend="s">1</hi> I am
+much indebted to Miss Honor Stuart, Librarian of Alexandra College, for furnishing me with information and
+with literature, particularly <hi rend="i">Alexandra College, Dublin, Jubilee Record 1866-1916.</hi> My thanks
+are also due to the Todhunter family and to the Librarian of the University of Reading.</note></p>
+        <p>Todhunter had been appointed Professor of English Literature at Alexandra in 1870 and is shown also
+as an Examiner for Certificates of 
+                    <pb id="p08-5" n="5"/>
+Education in the <hi rend="i">Calendar</hi> for 1874.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> It seems unlikely that the Blake lectures formed part of the “Saturday” or any other
+formal series. More plausibly, they come under the rubric for the English Literature Division and would have
+been given in Alexandra itself at 5, 6 and 7 Earlsfort Terrace, Dublin:
+<q>
+a series of Lectures on the history of English Literature from the earliest times to the present, the lives
+and writings of the more important and representative poets and prose writers; the successive variations of
+our literature in connextion with national history.<supplied type="spacer"> </supplied><ref target="n3"
+type="note">3</ref></q>
+	<note id="n2"><hi rend="s">2</hi> See pp. 18 and 28. Other Professors in the earlier years included T. Kells
+Ingram, incongruously author of that famous nationalist lyric, “Who fears to speak of Ninety-Eight!” and G. A.
+Greene, later a fellow member of the Rhymers’ Club.</note>
+	<note id="n3"><hi rend="s">3</hi> See <hi rend="i">Alexandra College Dublin, Calendar for the Year 1874</hi>
+. . . , p. 29.</note></p>
+        <p>Todhunter clearly used the cycle delivered in 1872 two years later, occasionally rewriting and
+correcting. This would account for the cancelled beginning of Lecture VI (24 October 1872), which was
+superseded by two new pages of introductory matter. The whole now became Lecture XVI of the new cycle and was
+repaginated. The cancelled passage runs:
+<q>
+Instead of giving my intended lecture on the poems of Burns today, I think it better to introduce you at once
+to a much more remarkable man—William Blake whose name perhaps many of you may never have heard of before.
+</q>
+This historically interesting statement is substantially repeated on the first page of the new lecture (here
+p. 11).</p>
+        <p>These lectures, brief though they are, document a discriminating enthusiasm at a moment when
+Blake’s reputation was still equivocal. Nine years had elapsed since the publication of Gilchrist’s life
+of the “Pictor Ignotus” and on Gilchrist Todhunter depends heavily for his biographical material. R. H.
+Shepherd had furnished two editions of the <hi rend="i">Songs of Innocence</hi> and the <hi rend="i">Songs of
+Experience</hi> in 1866 and in 1868 respectively, and in that latter year Swinburne’s brilliant essay had
+appeared. In January of the following year, James Smetham, painter, poet and associate of Rossetti, published
+his long notice of Gilchrist in <hi rend="i">The London Quarterly Review.</hi> Like the Rossettis and
+Swinburne, Todhunter’s response to Blake was that of a practicing poet; in his first collection 
+<hi rend="i">Laurella</hi> there are distinct tinges of the <hi rend="i">Songs of Innocence</hi> and 
+<hi rend="i">Songs of Experience.</hi> Two of the poems there had been published as affectionate parodies of Blake
+in <hi rend="i">Kottabos</hi> of 1871. But Todhunter’s involvement with Blake goes back to his association
+with John Butler Yeats’s “Brotherhood” in the last years of the 1860s (E. J. Ellis was also associated with
+the group) for the Brotherhood had its own cult of Blake.</p>
+        <p>Occasionally profound in generalization, Todhunter’s main gift is for a judicious closeness. He
+compares favorably with his immediate contemporaries: Smetham is not without interest on the painting, but has
+a Methodist distrust of all Blake’s poetry after the <hi rend="i">Songs of Innocence.</hi> For Smetham,
+indeed, Blake is painfully mad, almost in the sense of diabolic possession. Swinburne “kidnaps” Blake, finally
+imprisoning him in sterile dialectic between Aestheticism and Puritanism. Todhunter’s reading of 
+<hi rend="i">The Marriage</hi>
+	<pb id="p08-6" n="6"/>
+	<hi rend="i">of Heaven and Hell</hi> is usefully conditioned by interest in Hegel and Whitman. His
+interpretation of Blake’s paradoxes takes Todhunter beyond Swinburne into a synthetic view of Blake’s
+moral vision, a vision that is certainly not that of the coterie poet. Blake is seen as prophet of a
+Whitmanesque “democracy” with the caveat that this “democracy” is a preparation for, rather than the realized,
+Kingdom of Heaven. Interestingly, Todhunter uses the word “modern” polemically, not as synonym for
+“contemporary” but to describe Blake’s <hi rend="i">avant garde</hi> qualities. In reading these lectures,
+we ourselves experience the wrestlings and rewards of a sympathetic and acute mid-Victorian reader of Blake,
+whose occasional insights are “modern” in his own challenging sense.</p>
+        <div2>
+          <head>
+            <title>Lecture VII, 31 October 1872 Songs of Innocence</title>
+          </head>
+          <p>I daresay many of you who listened to my most meagre and fragmentary sketch of the life of Blake
+on Tuesday,<supplied type="spacer"> </supplied><ref target="n4" type="note">1</ref> taking it in connection
+with the great admiration which I expressed for the man, thought that I was a little mad myself, to say
+nothing of Blake. Today I hope to give you some grounds for this admiration of mine, which no doubt appears
+rather extravagant. I must however declare at starting that I feel it to be the most difficult thing in the
+world to give a lecture on Blake which shall be at all satisfactory to myself or intelligible to you. With
+other poets I assume you have some acquaintance but Blake is quite a new discovery even for literary men.
+Other poets speak a language not very far removed from our ordinary speech, but he has a mystical vocabulary
+of his own, which no one has as yet thoroughly mastered. Other poets speak in metaphors which are more or less
+easy of solution; but he speaks in dark myths which tax the highest imagination to read clear. Besides this
+Blake is constantly dealing with abstruse psychological ideas rather than the phenomena of the external world.
+He is probably the most intensely subjective of all our poets. You can easily perceive how hard it is
+adequately to treat of the works of such a man in one or two lectures. The most I can hope for is, that some
+of you may be induced to study him for yourselves. <note id="n4"><hi rend="s">1</hi> This refers back to the
+cancelled opening of Lecture VI (29 October 1872), which has not survived, now at the top of f. 3.[f.1.] of
+Lecture XVI.</note></p>
+          <p>Let me first try to give you some idea of the position which Blake occupies in our literature and
+of the nature of these psychological ideas which he is so constantly handling. I have called Blake a modern,
+and I daresay you are a little puzzled by the term. To understand this we must study a little the ideas upon
+which we find the great poets most constantly dwelling and the problems which most occupy their attention. We
+may class these ideas under two heads viz. the idea of the revolt of passion against restrictions, and the
+idea of the revolt of the individual against social tyrannies. Every great poet of the last half century is
+loud in his demand for liberty of passion and liberty of action—freedom of the individual will. But if the
+individual be thus free, what guarantee is there that he will not injure his neighbour and reduce society to
+chaos? The answer is that love is the harmonizer of the passions, and that large idea of friendship—the
+universal brotherhood of democracy—the harmonizer of human action. But this introduces the further question
+how we are to attain to these? And this gives rise to the endless practical problems which are constantly
+agitating society—the relations between the sexes, between peoples and their rulers, and between nation and
+nation. All these problems have two sets of answers—the one prosaic and practical, the other poetical and
+utopian—the one belonging to the domain of morality, the other to the domain of poetry. It is the difference
+between the Law and the Prophets. Hence arises the perplexing paradox that Art which is not moral (the rigid
+moralist would say immoral) is yet a good and great thing—and the further paradox that poets who are
+constantly leaping the barriers of morality are yet our highest teachers. The fact is that if you want to
+become moral you must go to the moralist, if you want to be filled with divine aspirations you must go to the
+poet. The moralist points to the stern path of duty, the poet makes your heart beat with intenser life. But at
+bottom the two are in accord and are necessary to each other. Morality rises to its highest pitch when through
+the impulse communicated by the poet duty becomes delight. Love is the only perfect fulfilling of the law.
+Morality is a rigid law imposed from without, love is the perfect law of liberty imposed from within. The
+poet, so far as he is a poet acknowledges and can acknowledge no law from without—hence the moral
+difficulties in which he is perpetually plunged—if he does not attain to love he plays the devil with
+morality and society which is based upon it. We find this antagonism between law and liberty—which is in
+fact ultimately the antagonism between necessity and free will—taking its highest philosophical form in the
+antagonism between Science and Religion, science acknowledging nothing but the Reign of Law. Religion nothing
+but the reign of miracle. The progress of mankind is a struggle for the reconciliation of these two
+principles—what Blake calls the Marriage of Heaven and Hell. Poetry is constantly dashing ahead in pursuit
+of some golden impossibility. Morality and Science come toiling after striving to make this impossibility
+possible. Poetry revolts against morality and morality against poetry. We see this all through history—We
+see it on a grand scale at the time of the Reformation. The Medieval Catholic Church was the incarnation of
+mystical poetry—the Protestant Church is the incarnation of prosaic morality. The Mediaeval Church in its
+<pb id="p08-7" n="7"/>
+decay gave birth to Jesuitry and the whole system of immorality of which the Sale of Indulgences in Luther’s
+time was the culminating point. Protestantism in decay gives birth to the whited sepulchre morality of modern
+society—against which the poets are in revolt.</p>
+          <p>Now the ideas which I have just been endeavouring to put in an intelligible form are emphatically
+modern ideas. They underlie all literature of course, and in the Bible they are constantly recurring in
+various forms—but formerly they were the mystical secrets dimly understood by a few, now they are the
+discoveries of the whole race—seen in all their length and breadth by mere thinkers as well as by poets.
+They are the very essence of Blake’s Philosophy. In his “Marriage of Heaven and Hell” he uses Heaven in the
+sense of Law and order, and Hell in the sense of passion and energy. In the marriage of the two, the liberty
+of perfect law and the perfect law of liberty become one.</p>
+          <p>To descend from these perplexing abstractions to particulars, Blake is emphatically a modern in
+several of his favourite ideas and feelings which we shall come across in due course in considering his poems.
+In speaking of these, I shall confine myself almost entirely to the “Songs of Innocence and of Experience”,
+which are to be had separately for a few shillings;<supplied type="spacer"> </supplied><ref target="n5"
+type="note">2</ref> but before going to them let me say a few words about Blake’s mere poetical style, which
+in itself is such a remarkable phenomenon in the 18th century. As illustrations of that I shall take a number
+of poems prefixed to the Songs of Innocence in Gilchrist’s Life. One of them was written before he was 14,
+and while perhaps recalling some of the Chatterton poems in general form, is quite unique as a piece of poetic
+imagination and melody of versification (How sweet I roamed etc. p. 8).<supplied type="spacer"> </supplied><ref target="n6" type="note">3</ref> Others of these poems are quite Elizabethan in character (one
+called “My silks and fine array” and Song p. 9). Others again seemed to have been inspired by Collins but are
+much more spontaneous and imaginative than his poems. (To the Muses (p. 10) contains such expressions as these
+<q>
+“The chambers of the sun that now<lb/>
+From ancient melody have ceased”
+</q>
+and
+<q>
+“Or the blue regions of the air,<lb/>
+Where the melodious winds have birth”.
+</q>
+To the Evening Star, To Spring, and To Summer—also surpass Collins in his own style—Keats if he had lived
+in those days might almost have written “To Summer”) (p. 13). <note id="n5"><hi rend="s">2</hi> Probably a
+reference to Richard Herne Shepherd’s editions of 1866 and 1868. “Separately” means separately from
+Blake’s other works.</note>
+	<note id="n6"><hi rend="s">3</hi> The references here and later, unless otherwise stated, are to the second
+volume of A. Gilchrist, <hi rend="i">Life of William Blake, Pictor Ignotus</hi> (1863).</note></p>
+          <p>The Song “I love the jocund dance” breathes the very spirit of Anti-Puritanic innocent mirth. It
+is apparently addressed to his wife (p. 6). To the pure all things are pure.</p>
+          <p>“Love and harmony combine” is a mystical poem on marriage (p. 5). These two poems are eminently
+Blake’s own.</p>
+          <p>The “Mad Song” (p. 7) is unsurpassed by anything in the language for subtle melody of
+versification.</p>
+          <p>The fragment of a drama entitled King Edward the Third written when Blake was quite young shows a
+good deal of dramatic power, and is wonderfully Shakespearean in its imagery.</p>
+          <p>In all these poems we find this illiterate, unappreciated painter writing with a felicitous
+spontaneity which it is difficult to parallel elsewhere—just at a time when false polish and false sentiment
+were the great characteristics of our literature. In Blake we find a return to nature and inspiration in
+despite of all frigid rules.</p>
+          <p>We now come to the “Songs of Innocence”. This series is in direct contrast to the other series
+called “Songs of Experience”. The former are full of childlike simplicity and unquestioning faith, innocent
+happiness—the latter of paradox and mystery and questioning and passion. To go from the Songs of Innocence
+to the Songs of Experience is like turning from Haydn to Beethoven. But the “Songs of Innocence” close with a
+hint that the highest truth and its highest happiness is a thing of the childlike mind: and the Songs of
+Experience are full of suggestions of a solution of all these doubts and antagonism, and end with a poem which
+speaks of a regeneration and spiritual resurrection of mankind.<supplied type="spacer"> </supplied><ref
+target="n7" type="note">4</ref>
+	<note id="n7"><hi rend="s">4</hi> The poem alluded to is “To Tirzah.”</note></p>
+          <p>The Songs of Innocence are thus quaintly introduced (p. 27).<supplied type="spacer"> </supplied><ref target="n8" type="note">5</ref>
+	<note id="n8"><hi rend="s">5</hi> “Piping down the valleys wild” on p. 26 of Gilchrist, Volume II.</note></p>
+          <p>The “Echoing Green” is a song of Innocent mirth, like “I love the jocund dance.”</p>
+          <p>“The Lamb” expresses the child’s idea of creation and of life-seeking no solution of problems
+but taking the love and fatherhood of God on trust (p. 29).</p>
+          <p>“The Chimney-sweeper” is the child’s solution of the miseries which so soon come upon him (p.
+32). The spirit of adoption by which every Abba-Father<supplied type="spacer"> </supplied><ref target="n9"
+type="note">6</ref> is the child’s spirit. <note id="n9"><hi rend="s">6</hi> Abba. The word is a
+transliteration of the Aramaic for “Father” and is found at <hi rend="i">Mark</hi> 14:36, at 
+<hi rend="i">Romans</hi> 8:15 and at <hi rend="i">Galatians</hi> 4:6.</note></p>
+          <pb id="p08-8" n="8"/>
+          <p>In “the Divine Image”, this feeling of the fatherhood of God makes the child’s heart throb with
+brotherly love toward all men.</p>
+		<q>
+“All must love the human form<lb/>
+In heathen, Turk, or Jew;<lb/>
+Where mercy, love, and pity dwell,<lb/>
+There God is dwelling too.”
+</q>
+          <p>The theologian of the tract-shops has a number of epithets Deist, Atheist, Infidel, which he
+loves to brand men with, when he wishes to put them outside the pale of our sympathy—much as boys tie a
+kettle to a dog’s tail and then cry mad dog after him. Blake regards such men as Paine and Godwin with
+sympathy so far as they are striving after truth and with pity so far as they are plunged in error and
+blindness. He apparently alludes to such men in the closing poem of the Songs of Innocence (p. 46).</p>
+          <p>The poem called “Night” is more mystical than any of these, and expresses the child’s trust
+that though Nature be apparently as Tennyson says “one with rapine”—yet even evil itself is a means with
+God.</p>
+          <p>In the Cradle Song, and Infant Joy, Blake enters into the feelings of a mother as few poets have
+done before. There is no namby-pambyism in these songs, and no effort to be dramatic. In Tennyson’s “Sea
+Dreams” there is a mother’s song which is full of artificial prettiness—he condescends to the mother’s
+standpoint, and the result is painful. Blake’s songs are almost as far above this as his religious poems are
+above the hymns which every idiot who is pious and can rhyme thinks himself justified in deluging the world
+with. In Infant Joy (p. 42) the mother holds a dialogue with her little nameless baby of two days old—and
+then sings over it as it smiles in her face.</p>
+          <p>I shall close with the lines called Spring which are full of the spiritualized essence of a
+child’s open-air animal spirits. (p. 40).</p>
+          <p>Next week I hope to lecture on the “Songs of Experience”.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Lecture VIII, 5 November 1872 Songs of Experience</hi>
+            </title>
+          </head>
+          <p>The “Songs of Experience”, as I told you in my last lecture, are in direct contrast to the “Songs
+of Innocence”. The “Songs of Innocence” are full of unquestioning childlike faith—the “Songs of Experience”
+are full of faith also; but it is sceptical faith, struggling with the hard problems which experience brings.
+There all is cheerful gazing upon the face of God, and trustful rest upon His bosom—here all is indignant
+appeal and restless questioning, and solemn musing. The faith of the “Songs of Innocence” is a rapturous
+belief in the reality of things seen and felt—what the hands have actually handled of the Word of
+Life.<supplied type="spacer"> </supplied><ref target="n10" type="note">7</ref> The faith of the Songs of
+Experience is something more—it is “the substance of things hoped for, the evidence of things not
+seen”.<supplied type="spacer"> </supplied><ref target="n11" type="note">8</ref> The poet of the Songs of
+Experience still sings in the presence of the Most High, but now He has withdrawn himself behind the clouds
+which veil his sanctuary. <note id="n10"><hi rend="s">7</hi> The hands have handled. Compare 1 
+<hi rend="i">John</hi> 1:1. “Our hands have handled” in allusion to the human person of the Divine Word.</note>
+	<note id="n11"><hi rend="s">8</hi> The substance of things hoped for. <hi rend="i">Hebrews</hi> 11:1. The
+definition of faith.</note></p>
+          <p>The contrast between the two series is made more definite by the same titles being in several
+instances repeated in both—the subjects being handled very differently in the latter series. Poems entitled
+“Holy Thursday”, “The Chimney Sweeper”, “A Cradle Song”, and “Nurse’s Song” occur in both; while “The Little
+Boy Lost” and “The Little Boy Found” of the Songs of Innocence correspond to some extent to “The Little Girl
+Lost” and “The Little Girl Found” and the shorter poems “A Little Boy Lost” and “A Little Girl Lost” of the
+Songs of Experience. The “Lamb” of the one contrasts with the “Tiger” of the other as does “Infant Joy” with
+“Infant Sorrow”.</p>
+          <p>In the Introduction to the “Songs of Experience” the voice of the Bard is heard calling to the
+Earth in transgression—
+<q>
+“Calling the lapsed soul,<lb/>
+And weeping in the evening dew.”
+</q></p>
+          <p>The burthen of this call is similar to that of John the Baptist “Repent for the Kingdom of Heaven
+is at hand!” although differently worded.</p>
+          <p>The answer of the Earth, whose locks are “covered with grey despair,” is to the effect that
+“cruel jealous selfish fear” has bound “free love” with bondage. This is Blake’s perpetual complaint—the
+human heart is bound down by the bitter restrictions of the moral law. Love and faith laugh consequences to
+scorn, Prudence and doubt dwell in constant fear of consequences, and give rise to the moral law. Hence
+Blake’s constant scorn of prudence and doubt. But we must distinctly understand Blake on this point. He does
+not mean to say that the moral law is unnecessary and rashly to be cast off in practice. He knows that the
+present world is what St. Paul calls “under the law”. He expressly says: “Many persons, such as Paine and
+Voltaire, with some of the ancient Greeks say ‘We will not converse concerning good and evil; we will live
+in Paradise and Liberty.<supplied type="spacer"> </supplied><ref target="n12" type="note">9</ref> You may do
+so in spirit, but not in the mortal body, as you pretend, till after a Last Judgement”. But the whole creation
+groans and travails to be delivered from this moral law—and will be by this last
+<pb id="p08-9" n="9"/>
+Judgment. By this Last Judgment Blake means something very different from what our worthy but prosaic friend
+the tract shop theologian means. He does <hi rend="i">not</hi> mean a melodramatic coming of angels blowing
+trumpets and sitting on clouds, visible with opera-glasses from the top of the Merrion Hall and other such
+tabernacles. He means a tremendous spiritual convulsion of men’s minds through which their bodies shall
+become temples of the Holy Ghost—the Lord descending to shake terribly the earth no less really because not
+visible to the carnal but the spiritual sense. The tract shop theologian is in fact a gross materialist, Blake
+like the great Hebrews a mystical poet. He speaks of a Last Judgment passing upon a man every time he
+renounces error and begins to live in the truth. <note id="n12"><hi rend="s">9</hi> “Many persons, such as
+Paine and Voltaire etc.” from <hi rend="i">A Vision of the Last Judgment.</hi></note></p>
+          <p>The next poem in the series—“The Clod and the Pebble” introduces us to one of those paradoxes
+which we are constantly meeting in our lives (p. 49). The solution of this is that love is what Hegel would
+call an identity of opposites. It is at once the highest self-interest and the highest self-renunciation.</p>
+          <p>The “Holy Thursday” of the “Songs of Experience” contrasts with the “Holy Thursday” of the Songs
+of Innocence. In the earlier series the poet sees only the beauty of this modern idea of philanthropy, and
+rejoices in the happiness of the little charity school children singing in St. Pauls. Now he sees only the
+reverse side—the show of our philanthropies and the horrors of Beadledom <corr type="emend">(50).</corr> 
+Poverty, Blake would seem to say, is the result of wordly prudence and Mammon worship. If we were all living 
+<hi rend="i">in</hi> Christian charity there would be no necessity for what we in the hardness of our hearts 
+<hi rend="i">call</hi> charity.</p>
+          <p>The “Little Girl Lost” and the “Little Girl Found” are rather obscure, and I can only suggest an
+interpretation. They seem to be in general terms an allegory of the purification of the human soul through
+passion and the consequent regeneration of morality—ascetic Puritanism becoming non-ascetic purity. But I am
+inclined to think that Blake had something more definite in view, and that the little girl Lyca typifies the
+feminine soul in its progress from mere innocence to purity. Lyca is led away from her parents by the song of
+the wild birds, and is lost in the “desert wild”. She lies down under a tree and tries to sleep, but cannot,
+while thinking of the unhappiness of her parents. That is to say she has not lost her innocence, although she
+has left the regions of conventional morality—she keeps her parents in her heart although she has left their
+home. She is still faithful to the domestic religion of the affections. At last she sleeps in all the
+fearlessness of innocence and the wild beasts come prowling round her, but gambol about without harming her.
+The lion which is love weeps, the lioness or the chastity of love strips her naked, and they carry her off,
+still sleeping, to their caves. The meaning of this appears to be that an innocent woman is unconscious of the
+dangers which assail her, and that the passage from innocence to purity takes place in her soul unconsciously.
+The passions come raging harmlessly around her, merely stripping her of her conventionality and
+self-concealment, and carry her off without her feeling shame or self-consciousness. There seems to be a
+special truth in this myth as applied to a woman. The ordinary life of a woman is full of concealments—her
+soul shrinks from every self revelation, like the Venus de Medici. It is only in the self-forgetfulness of
+some great passion that it dares to stand naked but not ashamed. (p. 51).</p>
+          <p>In “The Little Girl Found” the parents seek her through the night, weeping—meet the lion, are
+terrified and stricken down by him. The domestic moralities are outraged by the advent of a great passion. But
+he licks their hands and stands by them silent, and when they have to look up they find “a spirit armed in
+gold” who bids them follow him, and shows them Lyca sleeping unharmed amid the tigers.
+<q>
+“To this day they dwell<lb/>
+In a lonely dell,<lb/>
+Nor fear the wolvish howl<lb/>
+Nor the lion’s growl.”
+</q>
+The pure, to show all things are pure, dwell “In a lonely dell” apart from the everyday morality of the
+world.</p>
+          <p>The two poems “The sick rose” and “The sunflower” appear to me to express the one this death of
+delight through the canker of selfishness, and the other the aspiration of the soul after the delight of pure
+love—
+<q>
+“The youth pined away with desire<lb/>
+And the pale virgin shrouded in snow”
+</q>
+are as Shakespeare says “lamenting some enforced chastity”. This enforced chastity of morality, the chastity
+of Ophelia is a thing of snow, the chastity of love—the chastity of Imogen—a thing of fire. (p. 56-p. 60).
+The Rose expresses the sickness of creation, the Sunflower the groaning and travailing of creation to be
+delivered. The Rose expresses the bitterness of regret—the Sunflower the melancholy of aspiration.</p>
+          <p>“The Tiger” is the converse of “The Lamb” of the “Songs of Innocence”. The man recoils in awe
+before the mystery of evil which the child does not see. The child trusts—the man questions. (p. 59).</p>
+          <p>The lines “My pretty Rose tree” may possibly have been suggested by one of Mrs. Blake’s little
+attacks of jealousy. (p. 60).</p>
+          <p>“The Garden of Love” is another lamentation for “enforced chastity”—a wail over the “thou shalt
+nots” of the moral law (p. 61).</p>
+          <p>“The little Vagabond” expresses dissatisfaction at the separation between religion and the
+wholesome pleasures of life. It is dramatic in form and full of quaint humour. The poor little vagabond’s
+only idea of pleasure is drinking in the Alehouse—and he looks upon the Devil as an honest poor fellow
+<pb id="p08-10" n="10"/>
+kept down and ill-treated by Church and State. (p. 62).</p>
+          <p>“London” is full of horror at the results of the lusts of the flesh and the wars and fightings
+which spring from them. (p. 63).</p>
+          <p>“The Human Abstract” is a revolt against the Utilitarian philosophy which makes self-interest the
+rule of life—and against the gospel of diplomatists that “mutual fear brings peace”. Blake did not believe
+that large capitalists were the greatest benefactors to their species, nor that peace was produced by the
+keeping up of huge standing armies. The best form of this poem is in an appendix, not in the Songs of
+Experience. “The Angel” is the gospel of Christ. The devil, the gospel of wordly wisdom (p. 81). It is called
+here “The two Songs”.</p>
+          <p>“A Little Boy Lost” is a story of religious persecution. The little boy is a rationalist and
+utilitarian—it may be Tom Paine with his “Rights of Man” and “Age of Reason”. Blake is no friend to his
+philosophy but he is still less a friend to religious persecution. Error is a venial sin compared with
+hypocrisy and he is a practical hypocrite and the cause of hypocrisy in others who tries to crush out ideas by
+force instead of investigating and sifting them. The true way of dealing with Error is to bring it to the
+light not to force it to take refuge in darkness, by blind persecution (p. 66).</p>
+          <p>“A little girl Lost” expresses the crushing out of love by mistaken parental care. These two
+poems are complementary, the one showing how <hi rend="i">men</hi> are made either hypocrites or martyrs by
+religious persecution, the other how <hi rend="i">women</hi> are made either hypocrites or martyrs by the
+persecution of parental authority. The religious bigot acknowledges no truth outside his own creed, the
+parental bigot acknowledges no higher duty than filial <corr type="emend">obedience</corr>.</p>
+          <p>The “Cradle Song” of the “Songs of Experience” of course expresses the opposite side of the
+subject to that expressed in the one in the “Songs of Innocence”. In that the mother sees in her child only
+what, in spite of the tract-shop theologian, I shall venture to call original grace; in this she sees the
+germs of what is called original sin. (p. 68)</p>
+          <p>The next poem “The Schoolboy” takes up the child during his period of education, and is a
+remonstrance against that false system of education which by going directly contrary to all the healthy
+instincts of childhood makes learning a hateful task instead of a delight. The brutal ignorance of parents and
+teachers which is born of want of sympathy crushes the genius out of the child and makes him either a
+blockhead or a learned prig—crammed with the husks of knowledge.</p>
+          <p>The book ends with a strange mystical poem “To Tirzah”, which is a commentary on David’s text
+“In sin did my mother conceive me”. In this Blake preaches the doctrine of regeneration, by which man rises
+above the infirmity of the flesh and inherits eternal life. This is the spiritual resurrection which solves
+all the riddles, theoretical and practical, of the world.</p>
+          <p>A remarkable feature of Blake’s poetry is his constant impatience under the restrictions of the
+moral law. He never in his poetry acknowledges with St. Paul that the law is “holy and just and good”. The
+reason probably is that St. Paul was a practical man and an orator, not a poet like Blake. St. Paul is
+occupied necessarily with the temporary condition of things in which not one jot or tittle of the law can be
+dispensed with till all be fulfilled, whereas Blake is constantly occupied with the eternal world of pure
+beauty and love, in which all <hi rend="i">is</hi> fulfilled. The sphere of the practical is the sphere of
+moral duty, the sphere of the ideal is the sphere of unfettered spiritual force.</p>
+          <p>I have not time now to dwell upon that exquisite poem “The Book of Thel”. I have not myself quite
+fathomed this as yet, but Thel would appear to be a human soul perplexed with the problems of life and
+dissatisfied with man’s lot so unsatisfactory and transitory. At last she descends into the grave and finds
+it also resounding with terrible questions. She shrieks and flies back to life. The problems of life can only
+be solved and the questions of death answered by living in faith—“Sufficient unto the day is the evil
+thereof”. She has to learn this, and also that “as her day her strength shall be”.</p>
+          <p>There are just one or two more of Blake’s poems which I must speak of before we part. Mr.
+William Rossetti thus writes of “Broken Love” (p. 76-79).<supplied type="spacer"> </supplied><ref target="n13"
+type="note">10</ref>
+	<note id="n13"><hi rend="s">10</hi> The reference is actually to pp. 76-77 of Gilchrist, Volume II. The
+relevant paragraph is:
+                            <p>Never perhaps have the agony and perversity of sundered affection been more
+powerfully (however singularly) expressed than in the piece called <hi rend="i">Broken Love.</hi> The speaker
+is one whose soul has been intensified by pain to be his only world, among the scenes, figures, and events of
+which he moves as in a new state of being. . . . There is his ‘spectre,’ the jealous pride which scents in
+the snow the footsteps of the beloved rejected woman; his ‘emanation’ which silently weeps within him, for
+has not he also sinned? So they wander together in ‘a fathomless and boundless deep,’ the morn full of
+tempests and the night of tears. . . . Also this woe of his can array itself in stately imagery. He can count
+separately how many of his soul’s affections the knife she stabbed it with has slain, how many yet mourn
+over the tombs which he has built for these: he can tell, too, of some that still watch around his bed, bright
+sometimes with ecstatic passion of melancholy, and crowning his mournful head with vine. All these living
+forgive her transgressions: when will she look upon them, that the dead may live again? Has she not pity to
+give for pardon? nay, does he not need her pardon too? He cannot seek her, but oh! if she would return! Surely
+her place is ready for her, and bread and wine of forgiveness of sins. I have dwelt on the meaning of this
+poem, because it . . . might be accounted specially obscure. But in reality, it is perhaps the only instance
+in which Blake has dealt with any of the deeper phases of human passion; . . . the result . . . gives me to
+regret that this poet did not oftener elect to walk in the ways not of spirits or children, but of living
+men.</p></note></p>
+          <pb id="p08-11" n="11"/>
+          <p>“The Defiled Sanctuary” expresses the horrible pollution produced by the entrance of lust into
+the temple of love (82).</p>
+          <p>“The Mental Traveller” is one of Blake’s longest poems, and contains a philosophy of History
+which Goether himself might have been proud to own (98),</p>
+          <p>I shall conclude with a few passages from an epigrammatic poem called “Auguries of Innocence” in
+which<supplied type="spacer"> </supplied><ref target="n14" type="note">11</ref>
+	<note id="n14"><hi rend="s">11</hi> The lecture breaks off at this point.</note></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Lecture XVI, 10 March 1874 William Blake</hi>
+            </title>
+          </head>
+          <p>In this lecture I wish to introduce to you a man, who almost unknown to the general public as he
+is, is a more remarkable man even than Burns himself[.] I mean William Blake, the painter of sacred pictures
+that nobody bought, and singer of incomprehensible songs that nobody read. Mad as Blake was esteemed by the
+<hi rend="i">conoisseurs</hi> and literary critics of his time, and mad as most people would no doubt consider
+him even now—there is at least a wonderful amount of method in this so-called madness of his. His designs,
+rude as some of them are in point of technical skill, fairly entitle him to rank beside Michael Angelo as far
+as mere genius is concerned—although in the development of his genius Michael Angelo is a giant beside poor
+Blake, who was cramped in every possible manner that the cruelty of fortune could suggest. Indeed I am not
+sure that it would be speaking extravagantly if I were to say that the native genius of our own Blake was
+broader and deeper than that of the great Italian. He often seems to combine the spiritual beauty and grace of
+Fra Angelico with the sublimity of M. Angelo. But this is a question which we may leave to painters to
+determine. As a lyric poet I unhesitatingly place Blake among the first singers of all ages. For mere melody,
+his best poems may fairly compete with anything that the language can produce[.] They are flawless gems of
+spontaneous song—song which, as the Germans say, “rushes out of the throat as the bird sings”. These lyric
+poems of Blake are, like those of Burns, real songs, made to be sung to real music; but while Burns was but a
+poor musician, picking up the popular airs, for which he wrote words, with difficulty, Blake had, according to
+the verdict of those who knew him, a musical gift no less exquisite than his poetic gift. His songs had their
+musical part in the shape of original melodies as unstudied as the words themselves. He sang them himself just
+as they came into his head.</p>
+          <p>In Burns, great as he undoubtedly was, there was still a good deal of the savage element
+remaining. He is a transition man, not a pure modern like Blake. He is in rebellion against Puritanism, but he
+has no better religion to offer. He revolts against asceticism but there is no sacred fervour in his revolt.
+His passion is often of a chaotic kind—an earthly lust rather than a divine ardour. And yet there are
+everywhere in him gleams of better things. Many of his songs such as “a man’s a man for a’ that” are full
+of splendid democratic <hi rend="i">élan</hi>, or of fiery indignation[.]</p>
+          <p>His hatred of hypocrisy is no show against meanness and falseness—others again are pure as
+dew-drops and tender as tears. You feel his heart beating with love for all created things—and then perhaps
+he seems to sink into lower regions[,] flashes out into outrageous mirth, or cynical humour, until all at once
+some touch of pathos reveals the true meaning of all this. What is great in Burns is his perfect simplicity
+and naturalness. What is in him, good and bad, (or both mingled) flows out in song. There is little high
+poetic imagination in Burns—his poetry is poetry of passion rather than imagination[.] With Blake on the
+contrary there is that perfect fusion of passion and imagination which is only found in the very highest
+poetic geniuses. He lives habitually in regions which Burns never reaches in his highest flights.</p>
+          <p>Carlyle has called Burns a hero,<supplied type="spacer"> </supplied><ref target="n15"
+type="note">12</ref> and we may heartily grant him the title; but, as compared with Blake’s, his heroism is
+of an ordinary and common-place kind. His whole life was, as compared with Blake’s, chaotic, “like sweet
+bells jangled out of tune and harsh.” He was <hi rend="i">not</hi> “o’er all the ills of life victorious” as
+Blake was, His drunken revellings with their boisterous mirth, were very far removed from the serene happiness
+of Blake with his songs and his visions. Blake too brought love down from the heaven of imagination, and made
+it incarnate in his daily life as Burns never did; and vanquished poverty, and trampled its horrible
+degradations under foot, as Burns never did. It must, however[,] be confessed that Burns was much more in
+harmony with the most of the people than Blake—and that by virtue of his weaknesses and short-comings, as
+well as by virtue of his heroism—Burns was a man of his time, Blake a man in advance of his time[.] Burns
+was the poet of real life, Blake the idealist and mystic, who reveals for us the eternal forms and types which
+underlie real life . . . <ref target="n16" type="note">13</ref>
+	<note id="n15"><hi rend="s">12</hi> Carlyle has called Burns a hero: “One of those men . . . who take rank
+with the Heroic among men.” “The Hero as Man of Letters,” <hi rend="i">Heroee and Hero Worship</hi>, 1869, p.
+222.</note>
+	<note id="n16"><hi rend="s">13</hi> At this point Todhunter condenses Gilchrist, Volume I, pp.
+[5]-38.</note></p>
+          <p>Blake indeed had the sense to perceive that a man’s wife does not come ready made to his hand,
+but that she must be created by him out of the raw material of womanhood which he may wisely or
+<pb id="p08-12" n="12"/>
+foolishly select for the purpose. He also saw very clearly that the tendency of the average woman is to draw
+her husband away from all ideal aims, and to degrade the inspired artist into a conventional paterfamilias
+drudging for his daily bread. Now Blake had not the smallest notion of sacrificing his ambition to his love,
+knowing well that in so doing he would have been cutting the wings of love himself and turning him into a
+barn-door fowl—good for little else than to make giblet soup of. His art was for him a divine thing, and he
+felt very strongly that to love wife or children or comfort or respectability or success in life, more than
+this, was to be unworthy of it. He knew also that being faithful to his art was in reality being faithful to
+love. He might have said with Lovelace
+<q>
+“I could not love thee, dear, so well<lb/>
+Loved I not honour more”.
+</q>
+using the word <hi rend="i">honour</hi> in the highest possible sense.</p>
+          <p>Accordingly when the lovers were married in August 1782—Blake being in his 25th, and his bride
+in her 21st year—a great struggle had to be gone through before the poor little woman who had with a
+woman’s splendid temerity engaged to love honour and obey this mad artist was at all capable of doing so.
+The process of becoming a wife is not an easy one for a woman, even if her husband be the average man of
+everyday life.—and the man of genius is not a whit less, but infinitely more exacting in his demands. Blake
+was not the man to countenance the idea that holy matrimony was a mere profession with routine duties and
+routine affections. This might do well enough for the world at large, but he was not of the world at large,
+and his theory of marriage was that it was one of the highest of the fine arts, which had for its end the
+cultivation of that genius for love which exists in a germinal form in each of us. Blake took an aesthetic and
+utopian, not a utilitarian and practical view of marriage. The love of such a man is terrible—a woman might
+nearly as well marry the angel with the fiery sword that guards the gate of Paradise. We may imagine the
+tumult of poor little Mrs. Blake’s mind during the process of her coming into existence as Blake’s wife.
+Fancy a woman being called upon to resign comfort, orthodoxy, respectability, success in life, and
+conventionality of all kinds—at one fell swoop—and to look starvation straight in the face without
+blenching! It must have cost not a few tears. But at bottom every woman not a fool (and there are a good many
+such women scattered about thro’ the world) cares more about love than all these things put together—and
+we find Mrs. Blake developing rapidly under her husband’s tuition—firmly believing in his
+visions—sitting by his side silent and awestruck, when some one of more than ordinary grandeur comes to him
+by night and he has to rise and work, lest the pressure of it may kill him—learning herself to engrave and
+even to make designs, nearly as good as his own. If ever there was a man to whom his wife’s love clung like
+a garment, that man was Blake. The course of their true love seems to have run perfectly smooth from this time
+forth, so far as their inner life was concerned—except that Mrs. Blake was inclined to be jealous of her
+husband’s friends, and on one occasion, as the story goes, was a good deal disturbed by a remarkable and
+characteristic notion of his. He had been living in imagination in Patriarchal times and was ravished with the
+beauty of the Patriarchal life, and his wife having no children, he is said to have entertained the idea of
+taking another wife. This relapse into barbarism—this madness of the prophet Mrs. Blake forbade, not like a
+dumb ass speaking with man’s voice, but like a splendid high-spirited little woman as she was. Her obedience
+was not the obedience of a slave but of a wife, and she had no notion of being put off with
+half-a-husband.</p>
+          <p>Flaxman had already got married and had been taken up by a literary lady of the name of
+Matthews—once a celebrity in aesthetic circles. To her Flaxman introduced Blake and at her soirees he
+appears to have made his debut in society. At these Blake used to sing his poems to airs composed by
+himself—if we can call airs composed which flowed as spontaneously as the exquisite poems themselves. Some
+of these are reported by an auditor to have been “most singularly beautiful”, and “noted down by musical
+professors,” but all trace of them appears to have vanished from this earth.</p>
+          <p>These early poems were printed by subscription, Flaxman poor as he was paying half the cost. The
+edition was never published however. Soon after this Blake dropped out of the Matthews circle, his “unbending
+deportment” not being pleasant to the fine ladies and gentlemen[.]</p>
+          <p>Meanwhile Stothard was gettin on in the world and Blake was employed to his great disgust in
+engraving his designs—many of which were suggested by his own works. He managed just to keep himself from
+starvation by doing such jobs as this—appearing even as an engraver of caricatures! But in 1784 he made a
+second appearance in the Academy with two designs in which he preached one of his favourite doctrines—and
+one which marks him as an advanced modern—namely the supreme atrocity and stupidity of war . . . 
+<ref target="n17" type="note">14</ref>
+	<note id="n17"><hi rend="s">14</hi> Here, Todhunter condenses Gilchrist, Volume I, pp. 55-70.</note></p>
+          <p>In 1789 the year of the engraving of Songs of Innocence Wordsworth then 19 was beginning to write
+his early poems.</p>
+          <p>The same year Blake wrote and etched his delicious mystical poem in the style of Ossian entitled
+“The Book of Thel” and in 1790 he wrote the “Marriage of Heaven &amp; Hell” the first of his Prophetic
+Books—the subject of it is the Mystery of Evil, and in it occur a number of aphorisms (on the model of
+Lavater) which he whimsically calls Proverbs of Hell—that is to say they are Proverbs of revolt for the most
+part (p. 81). A good deal of the Marriage of Heaven &amp; Hell is in prose. Of this as of his other Prophetic
+Books
+<pb id="p08-13" n="13"/>
+only fragments have been hitherto published, and no one has as yet fathomed their meaning. To the great
+majority of readers they are very Midsummer madness, and yet even these fragments excite the deepest interest
+in the mind of any serious reader (p. 83) . . . <ref target="n18" type="note">15</ref>
+	<note id="n18"><hi rend="s">15</hi> Here, Todhunter condenses Gilchrist, Volume I, pp. 93-95.</note></p>
+          <p>For the next 3 or 4 years to 1793 Blake busied himself with new Prophetic Books “Visions of the
+Daughters of Albion” “America” “Europe” &amp; “Jerusalem”. No one has yet seriously studied these books and
+the extracts published although full of poetry are mysterious and unintelligible—some passages in them would
+seem to mark Blake as a worthy predecessor of Walt Whitman. We may almost surmise that Blake in these books
+gives a mystical history of the progress of religion and of the regeneration of society—democracy being for
+him rather the preparation for the Kingdom of Heaven than the Kingdom of Heaven itself. Every page of these
+books glows with magnificent designs in colour and gold . . . <ref target="n19" type="note">16</ref>
+	<note id="n19"><hi rend="s">16</hi> A brief paragraph is omitted. This condenses Gilchrist, Volume I, pp.
+119, 130, 132, 135, 139 and 217.</note></p>
+          <p>About 1800 Flaxman introduced him to Hayley,<supplied type="spacer"> </supplied><ref target="n20"
+type="note">17</ref> the friend of Cowper, who employed him in making designs for some of his works, and Blake
+removed to a cottage at Felpham to be under Hayley’s eye—and Hayley appears to have done all he could to
+help him. This Felpham was in Sussex and close to the sea, and Blake walked by shore and saw visions and held
+converse with Moses and the Prophets, Homer, Dante, and Milton—“All” as he said when asked about them
+“majestic shadows, grey but luminous, and superior to the common height of men.” (Fairy’s funeral p. 159.)
+<note id="n20"><hi rend="s">17</hi> The passage that follows is condensed from Gilchrist, Volume I, pp.
+145-83; pp. 199-208; pp. 255 ff.; p. 247. As it rounds off the lecture, however, I print it.</note></p>
+          <p>In 1803 Blake’s peaceful life at Felpham was disturbed in a strange way. A drunken soldier
+broke into his garden one day, behaved in a violent manner and refused to quit the place when requested. Blake
+in a divine fury rushed at him and thrust him out before he well knew where he was. In the scuffle some words
+passed between them. The soldier claimed to be the King’s soldier whereupon Blake in the heat of his spirit
+exclaimed “Damn the King and you too”—for which seditious language, he had to stand his trial for High
+Treason (no less) at the next Quarter Sessions. Hayley, kind-hearted man as he was, spite of broken head (the
+consequence of a fall from his horse caused by an eccentric habit of his of suddenly unfurling an umbrella
+over his horse’s head) came to give evidence in his favour; and Blake himself on the soldier coming out with
+some outrageous charge against him, shouted “false!” in such a tremendous voice as “electrified the court and
+carried conviction with it”. The result was that Blake was acquitted.</p>
+          <p>At Felpham he worked away at drudgery for his daily bread with honest patience, until Hayley took
+it into his head that he might make his fortune by miniature paintings, and he was even tempted by the offer
+of a regular salary as drawing master in a nobleman’s family. But this was like selling his birthright for a
+mess of pottage—he felt his visionary power failing[.] “The visions were angry” as he said—and he fled
+back to London and poverty.</p>
+          <p>In 1804 he wrote and engraved “Jerusalem, the Emanation of the Giant Albion” and the same year
+“Milton—a poem in two Books”—apparently a continuation of Jerusalem.</p>
+          <p>For the next two years he worked for a publisher named Cromek who has left a bad name behind him.
+He ground and cheated Blake on pretence of patronizing him, and he appears further to have done the widow of
+Burns out of the copyright of some of his poems. Blake wrote the following epigrams upon him (p. 208).</p>
+          <p>In 1800 he made a last grand appeal to the public in the shape of an exhibition of his designs.
+This was by no means a success and he appears to have given up the public as hoplessly dead to true art. The
+remainder of his life was passed in quiet work, and patient drudgery. He made a few disciples and gained some
+patrons—and supported himself chiefly by selling copies of his Songs of Innocence &amp; Experience.</p>
+          <p>His mode of life (p. 306)</p>
+          <p>His unworldliness (p. 309)</p>
+          <p>His “blasphemy”</p>
+          <p>“Damn the money” (p. 313)</p>
+          <p>His death (p. 360)</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Lecture XVIII, 12 March 1874 William Blake</hi>
+            </title>
+          </head>
+          <p>Before commencing our study of the “Songs of Innocence” and “Songs of Experience”, which will
+form the principal subject of today’s lecture, I wish to say something with regard to Blake’s general
+position in our literature (Old Section p. 1).<supplied type="spacer"> </supplied><ref target="n21"
+type="note">18</ref>
+	<note id="n21"><hi rend="s">18</hi> Old section p. 1. At this point Todhunter indicates that he wishes to
+repeat the second paragraph of Lecture VII delivered fifteen months earlier.</note></p>
+          <p>In contrasting Blake with Burns in my last lecture, I spoke of Blake as being filled with the 
+<hi rend="i">modern</hi> spirit, and a few words will be necessary to explain my meaning in this phrase. Blake is
+a modern by virtue of his independence. He is full of reverence indeed for the things of the past—the
+splendid poetry of the Bible, the great architecture of the middle ages, the art of the early Renaissance; but
+he looks upon all these things, however great the inspiration of the men through whom they come
+<pb id="p08-14" n="14"/>
+to us, as of no infallible authority in themselves. The spirit of truth and beauty in himself is always
+Blake’s final appeal—these things are good and great because they are the works of the same spirit of God
+which works in himself. He is a modern also by virtue not of his morbidity, for he was not morbid, but by
+virtue of his hopeful forward-looking glance, which finds the golden age, even in advance. not in the past but
+in the future. He is a modern in his faith in the power of human nature to make progress. He is a modern in
+his sympathy with the great social revolutions by which alone this progress can be attained—and in his broad
+tolerance and philanthropy, his horror of the oppressions of the poor, and of all suffering, whether of man or
+beast, of war, of field sports, of poverty itself, he is emphatically a modern. But unlike many of our modern
+men the genius of Blake led him not in the direction of rationalism and materialism, but in that of
+spiritualism and mysticism. He lives perpetually in the presence of the Most High—His heaven is not a thing
+merely of a future state—He sees the courts of it stretching away infinitely upon all sides of him. His
+religion is not got at second hand—the very prophets and apostles are for him but everlasting doors thro’
+which the light shines. He may use the orthodox formulae but he does not use them in the orthodox sense. They
+become in his hands filled with subtle spiritual meanings of which the prosaic dogmatist never dreams. In the
+poetry of the Bible Blake breathes his native spiritual air, full of sunshine and exhilaration[.] It is not
+for him, as for so many pious but thoroughly prosaic and materialistic people of Saxon race, a species of
+exhausted receiver,<supplied type="spacer"> </supplied><ref target="n22" type="note">19</ref> in which they
+seem to gasp for breath, until they can concentrate its rarefied atmosphere, so full of warmth and light, into
+oppressive dogma. The gospel which seizes upon his imagination, is not the gospel of damnation, of which the
+cardinal point is the utter corruption and innate perdition of the human race, the world sweeping thro’
+space impelled by the pursuing storm of the divine wrath; but the gospel of hope and joy, of the perpetual
+forgiveness of sins, of the birthright not of damnation but salvation, the motive power of creation being
+infinite love not infinite wrath. It must not be supposed however that Blake’s religion excludes the idea of
+divine wrath—far from it, but for him the wrath is but the purifying fire of love burning up all lies and
+leaving the soul that has clung to them naked and pierced with the anguish of shame in the presence of
+intolerable purity. It would seem so far I can understand Blake, as if he looked upon falsehood as the sin of
+sins, loveless malignity being the resultant of the blindness produced by persistence in falsehood—love of
+darkness and hatred of light. <note id="n22"><hi rend="s">19</hi> Todhunter appears to be using the word in
+the sense of the glass vessel of an air-pump in which the vacuum is formed. Cf. Young, “Like cats in air-pumps
+to subsist we strive.”</note></p>
+          <p>The minor poems of Blake, as indeed most of his published writings[,] deal chiefly with but one
+side of our spiritual nature. They are in the main poems of aspiration and revolt, and hence his teaching if
+accepted with prosaic literalness could be likely to lead to the most immoral results[.] With his hatred of
+hypocrisy and belief in the deep instincts of humanity, there is nothing that he hates more than the
+whited-sepulchre morality of much of our respectable English life, which binds our liberty with burthens
+grievous to be borne.—And living as he did in a dreamland of his own, it must be confessed that he is
+inclined to worship liberty too much at the expense of law, and instinct and passion at the expense of reason
+and self-control. With great natural power of self-control himself he appears to be quite unaware of how
+deficient most men are in this respect—and to ignore the great practical fact that liberty is preserved by
+law, instinct rectified and re-created by reason, and passion intensified by self-control. Without
+self-control there can properly speaking be no passion, but merely appetite and outrageous lust[.] Blake
+sometimes apparently forgets this, but only apparently—for the ultimate idea of his philosophy is the
+intimate union and mutual dependence of law, and liberty—what he symbolises under the figure of the
+“Marriage of Heaven and Hell”. In reading Blake, then, we must always keep this in mind, that such expressions
+of violent revolt as are contained in some of the “Proverbs of Hell”—for example “Damn braces, bless
+relaxes”—“The Tigers of wrath are better than the horses of instruction”, etc., etc., give us but one
+half—although a most important one of Blake’s philosophy.</p>
+        </div2>
+        <figure n="FlowerNegative.8.1-2.bqscan" rend="file" width="250" height="158"/>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

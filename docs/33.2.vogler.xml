@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>33.2.vogler</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">John B. Pierce, Flexible Design: Revisionary Poetics in Blake’s Vala or The
+Four Zoas</title>
+        <author n="Vogler">Thomas A. Vogler</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1999</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">33.2</biblScope>
+            <biblScope unit="volume">33</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Keri Davies</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_33">
+    <body>
+      <pb id="p33-51" n="51"/>
+      <div1 id="BQ-33-2-0007">
+        <head>
+          <title type="section">REVIEW</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">John B. Pierce. <hi rend="i">Flexible Design: Revisionary Poetics in
+Blake’s</hi> Vala <hi rend="i">or</hi> The Four Zoas. Montreal &amp; Kingston, London, Buffalo:
+McGill-Queen’s University Press, 1998. xxvii + 9 illus. $36.00.</title>
+          </head>
+          <byline>Reviewed by <docAuthor>Thomas A. <name>Vogler</name></docAuthor> (Santa Cruz Blake Study
+Group)</byline>
+          <p>If Catherine Blake had been given to journal writing we might be fortunate enough to find an
+entry that read: “Mr. Blake told me today he decided what to do with his Vala poem. It will be. . . .” But
+Catherine was no Dorothy, and we are left with both a mystery and the fact that the “final state” of 
+<hi rend="i">Vala or The Four Zoas</hi> is a manuscript. The unavoidable truth is put forcefully in Paul Mann’s
+observation that “it is <hi rend="i">as manuscript</hi> that <hi rend="i">The Four Zoas</hi> must be read,
+and manuscript not in some fiction of completion which one’s reading continually tries to approximate: that
+is, neither as the trace of an interrupted compositional trajectory nor as something to be read as if it were
+finished” (208). John B. Pierce’s new book does not venture to solve the mystery of what final form Blake
+intended for the poem, or what phases his material plans for its production might have gone through, but he
+does claim to show us how to read the work <hi rend="i">as a manuscript.</hi> It is a promising, but in the
+end a frustrating and disappointing book.<supplied type="spacer"> </supplied><ref target="n38"
+type="note">1</ref> The promise is to provide a “manuscript poetics” and a “poetics of revision” based
+on a “critical approach driven primarily by the physical state of the manuscript, with its many erasures,
+additions, and complex rearrangements, which require careful, focused, and detailed scrutiny” (xv). Pierce
+claims to be “bringing the material force of the manuscript into play with an interpretative approach” in
+“a study weighted towards a close reading of textual detail” (xv). Unfortunately, his choice of text to
+quote is Bentley’s transcript in his 1963 facsimile, which is decidedly inferior to Erdman in accuracy.
+Those who want to follow Pierce’s close reading of textual detail will have to have a copy of Bentley, and
+even then it will be difficult to understand why he chooses one reading over another in some cases and gives
+alternate readings in others; or why at times he keeps Bentley readings even when they are clearly in error,
+and at other times goes for Erdman’s infrared recreations. <note id="n38"><hi rend="s">1</hi> Although the
+publication date of <hi rend="i">Flexible Design</hi> is 1998, there are many signs that suggest it was
+basically written in the 1980s. Most conspicuous of these is Pierce’s statement that the “standard
+edition” of Blake’s works is “the revised edition of of the <hi rend="i">Complete Poems</hi> in 1982”
+(xiv; he gets the title right in the bibliography), rather than the newly revised edition of 1988, which
+includes some further corrections of transcription and of mistakes made in 1982 (no more “abdominable
+void<corr type="emend">”</corr> in <hi rend="i">Urizen</hi>). He points out that “Magno and Erdman’s
+facsimile offers helpful reconstructions of many of the erased drawings” (xv), but shows no signs of having
+used it. Indeed, he gives embarrassing evidence of <hi rend="i">not</hi> having used it when he gives us
+Bentley’s description of page 12, where Bentley sees at the top of the page “a circle, perhaps for a
+head.” Pierce goes on to say, “It is tempting to speculate that the ‘circle, perhaps for a head’
+between Los and Enitharmon was to be that of Urizen (77). If he had consulted Magno and Erdman’s facsimile,
+he would have found their description of that page, where with the help of Vincent De Luca and infrared
+photography we can now “see Urizen descend, with grinning human face but serpent body, swinging down from a
+tree to hover between them” (31).</note></p>
+          <p>Consider for example the two epigraphs that open Pierce’s work, coming after the title page and
+before the table of contents. The 14 lines of quoted text (34:9-15, 21:1-7) differ from Erdman at seven
+points. The first of these differences is in the first line, where Pierce quotes: “Now Los &amp; Enitharmon
+walkd forth on the dewy Earth,” and Erdman has “For Los &amp; Enitharmon. . . .” The answer would seem
+to be that the manuscript has “For Now Los &amp; Enitharmon. . . .” which Bentley has rendered [For] 
+<hi rend="i">Now</hi> Los &amp; Enitharmon. . . .” and Pierce has chosen the earlier reading. This would jibe
+with his keeping the lower-case “elemental” in 34:15 even though the manuscript clearly shows it changed
+to “Elemental” as Bentley has indicated with his “[E] elemental.” But in the second epigraph (21:1-7)
+he goes the other way, keeping the two manuscript revisions: from lower case to upper with “As One Man. .
+.” and the more substantial change of “One Man above Mount Giliad Sublime” to “One Man above the
+Mountain of Snowdon Sublime.”<supplied type="spacer"> </supplied><ref target="n39" type="note">2</ref> In
+neither case do the lines “taken from G. E. Bentley, Jr.’s facsimile edition” (xi) actually reproduce
+Bentley’s typographic rendering, with its minimal graphic indications of revisionary stages.<supplied
+type="spacer"> </supplied><ref target="n40" type="note">3</ref>
+	<note id="n39"><hi rend="s">2</hi> The other differences from Erdman are where Erdman reads lower case
+“c” in “contracting” and “call” where Bentley reads upper case, and lower case “o” in
+“one” where Bentley reads upper case.</note>
+	<note id="n40"><hi rend="s">3</hi> When he does make use of editorial markings, he chooses Erdman’s
+brackets with italics [. . .] to indicate deleted material and &lt;. . .&gt; to indicate new material, where
+Bentley uses brackets to indicate new material and italics to indicate deleted material. The result is mildly
+confusing and irritating for a reader attempting to check against Bentley, and another instance of Pierce’s
+not in fact quoting Bentley’s transcription. Also the lack of page references to Erdman makes it difficult
+to find quotations on those (quite a few!) pages where Erdman has different enumeration.</note></p>
+          <p>More important than the numerous basic mistakes in transcription that mar this book are the
+clearly strategical decisions that seem in conflict with its announced goals.<supplied type="spacer"> </supplied><ref target="n41" type="note">4</ref> The most glaring of these is the choice to examine only
+Blake’s
+<pb id="p33-52" n="52"/>
+verbal text, in spite of the claims to “make full use of the material complexity of the manuscript” (xiv)
+and “to take fully into account the material form of the manuscript as part of the reading process”
+(xxvi). This amazing decision is “dictated partly by the general incompleteness of many of the drawings”
+that “leaves the viewer lost in a field of conjecture with no firm basis for argument. In addition, the
+drawings do not readily lend themselves to the developmental discussion usually possible with a written
+text” (xv-xvi). Why does a study committed to “flexible design” and “the turmoil of composition and
+revision” (xix) require a “firm basis for argument?” Why does an argument so involved with
+“synchrony” require a “developmental discussion”? One would expect that Pierce’s passion for “a
+synchronous narrative” (xxii) would lead him to privilege the drawings that provide a consistent
+manifestation of that quality. <note id="n41"><hi rend="s">4</hi> Some mistakes belong to Bentley, e.g., “I
+am made to sow thistle for wheat” (96, quoting 35:1) instead of “I am made to sow the thistle for
+wheat,” a clear manuscript reading and in Erdman. He follows Bentley’s “Enitharmon let loose in the
+troubled deep” (57) instead of the manuscript and Erdman “on the troubled deep.” At other times he
+silently corrects Bentley’s errors, as when on page 67 quoting 8:14 he includes “Beech” (as per the
+manuscript and Erdman) instead of Bentley’s “Beach.” I’m not sure whether the fact that many
+quotations are punctuated with periods not in the text (e.g., 57, 67, 82, 87, 89, 96, 132) is an example of
+mistake or inconsistency, since occasionally a quotation not ending with a period will be closed by Pierce
+with an ellipsis.</note></p>
+          <p>Given his choice to focus on the graphics of the verbal, and the dynamics of textual revision, it
+is surprising that Pierce has no interest in communicating Blake’s textual dynamism with even the minimal
+potential of a printed text. Thus after a gesture towards <hi rend="i">Vala</hi> or <hi rend="i">The Four
+Zoas</hi> as the “title” for the work under consideration, he settles in for <hi rend="i">Vala</hi>
+through the rest of his study. One would at least expect <hi rend="i">Vala</hi> in this context—or better
+still, <hi rend="i">VALA.</hi> But Pierce is attracted to “the bold calligraphy” of “VALA” and sees
+that title “with only a slight pencil mark through it, a mark distinct enough to be registered but not
+definitive enough to cancel out its potential status as a title” (148).<supplied type="spacer"> </supplied><ref target="n42" type="note">5</ref> Since even “Blake’s Careful Hand” (73) could be scraped
+away for palimpsestic revision, it seems odd to belittle the pencil, so easy to change that 
+<hi rend="i">not</hi> changing it can almost seem to affirm it. At any rate, Pierce’s holograph ontology sees
+text in pencil as <hi rend="i">de facto</hi> having a “rather tentative nature” that shows it “was not
+an integral part of <hi rend="i">Vala</hi>” (93). One could argue equally well that Blake’s “careful”
+copperplate hand is that of a copyist, the quickly penciled text that of the inspired poet. Pierce reads the
+poem’s subtitles as offering a choice: “The Death and Judgement of the Eternal Man” suggests “a
+teleological structure leading from death to judgment and
+presumably to redemption,” while the later addition “Torments of Love &amp; Jealousy” bespeaks
+“emotional turmoil,” indicating a “shift from teleology to states of torment” and to what Pierce calls
+a “poetics of character” (66). Thus in terms of his analysis they are equally pertinent to the poem in
+spite of the difference between writing style and instrument. <note id="n42"><hi rend="s">5</hi> See my
+argument for <hi rend="i">MIL/TON</hi> as preferable to <hi rend="i">Milton</hi> in “RE: Naming 
+<hi rend="i">MIL/TON.</hi>” Pierce claims that “the pull towards the title of <hi rend="i">The Four Zoas</hi>
+in Blake criticism generally registers a desire for a return to the work after the cacophony of textual
+revision” (148-49). The pull in Pierce towards <hi rend="i">Vala</hi> as title would seem to register the
+opposite desire, manifested at the end with his attempt to transcribe the full copperplate text of the
+poem.</note></p>
+          <p>Early in his study Pierce quotes with approval a statement from “the Santa Cruz Blake Group”
+(he does get the name right in the bibliography): “what the manuscript exhibits in the most graphologically
+explicit fashion is an ongoing, unfinished process of self-editing, a process which print ordinarily shuts
+down.” He then claims that “This statement acts as a background to my own methodology” (xx). A distant
+background, for it is not only the title where he rejects graphic mimesis. He explains that “where it is
+relevant” to his discussion he gives “Bentley’s (or on occasion Erdman’s) readings of erased or
+canceled words,” but that he does not “include erasures or cancellations where they might needlessly
+complicate a passage under discussion” (xi). However, it is often difficult to follow his sense of
+relevance, and more often than not his quotations are brought “under discussion”
+<pb id="p33-53" n="53"/>
+by stripping them of precisely that (needless?) complication that constitutes the manuscript experience.
+Consider this simple example. On page 132 Pierce gives a quotation described as the “final lines of the
+addition to page 105”:
+<q>
+there was hidden within<lb/>
+The bosom of Satan The false Female as in an ark &amp; veil<lb/>
+Which christ must rend &amp; her reveal.<lb/>
+(105:24-26)
+</q></p>
+          <p>A look at the manuscript or either facsimile shows that these are not the “final lines,” and
+that line 105:26 as quoted is half (with no period) of the first of an additional three lines that are
+indented and end with “The daughters &amp;c”. The manuscript strongly supports the reading “then”
+instead of “there,” and Erdman chooses that alternative for his text. This may seem like a very small
+change, but when one is arguing, as Pierce is here, about “the diachronic demands of narrative
+development” (132), the difference between a temporal “then” and a spatial “there” can be
+significant. Here is the way Bentley transcribes the final lines of the addition to page 105:
+<q>
+[[there was hidden within]]<lb/>
+[Which give a tincture to false beauty <hi rend="i">therefore they were calld</hi><lb/>
+[<hi rend="i">The daughters</hi> &amp;] [[The bosom of Satan The false Female as in an ark &amp; veil<lb/>
+[[Which christ must rend &amp; her reveal Her Daughters are Calld<lb/>
+[[Tirzah She is <hi rend="i">calld</hi> namd Rahab their various <corr type="emend">divisions</corr> are
+calld<lb/>
+[[The daughters &amp;c]]
+</q></p>
+          <p>Pierce’s proposal to treat the manuscript as “a distinctly layered event” whose “meaning
+exists in the stages of development of the poem, not its organic unity” (xxvi), can be seen in action in his
+discussion of page 4 of the manuscript, one of those opening pages that exhibit a palimpsestic agon of
+re-re-revision. Starting with what he calls “the earliest <hi rend="i">surviving</hi> reading” (99,
+italics added) of 4:10-11, he goes on to attempt a layered series of readings of material forms of the
+manuscript, some of which could never have existed in isolation or been available to an actual reader, and
+none of which is available to the reader of the manuscript in its present form. Here is how he presents the
+case: “‘I have hidden thee Enion in Jealous Despair / I will build thee a Labyrinth where we may remain
+for ever alone.’ These lines begin a story of Tharmas’s jealousy and possessiveness” (99). Presumably
+this is a “surviving” reading because “I have hidden. . . .” (how appropriate!) is written over a
+prior erased copperplate line.<supplied type="spacer"> </supplied><ref target="n43" type="note">6</ref>
+Whether the line includes “O Pity Me” or not, its “reader” (who? when?) would have experienced it as
+written over an erased prior state, one which—as copperplate script—would have been a transcription of a
+still prior state. On the next page we find Pierce’s version of the next stage of revision:
+<q>
+I have hidden &lt;Enitharmon&gt; in Jealous Despair O Pity Me<lb/>
+I will build thee a Labyrinth &lt;also O pity me O Enion&gt;
+</q>
+Now we have “the pitying quality that Tharmas is generally noted for but that was virtually non-existent in
+phase 2” (100) and we have “Enitharmon” in the place of “Enion.” But this is the way the text would
+look if Blake had made a new transcription at this stage, if this does indeed accurately represent a stage.
+What we would actually have in the manuscript at that hypothetical stage would look more like this:
+<q>
+Jerusalem<lb/>
+I have hidden thee Enion in Jealous Despair O Pity Me
+</q>
+The hypothetical reader of this hypothetical line would clearly see that Jerusalem had replaced Enion in a
+change to a line that had displaced a prior, erased line that had been a transcription of a still prior
+version. <note id="n43"><hi rend="s">6</hi> According to his announced policy, Pierce must be following
+Bentley here; but Bentley includes “O Pity Me” at this stage and Pierce does not, presumably because “it
+is not always possible to tell which erased text is the earliest copperplate one” (97) and because he wants
+it to be in stage 2 where it shows character transformation (cf. 100). He should cite Erdman, but Erdman
+numbers the lines 9-10 rather than 10-11.</note></p>
+          <p>By the time we reach the “latest revisions” Pierce is losing interest. Blake was “not
+thoroughly consistent” (103) and the changes are “tentative” or marked by accidental neglect as Blake
+shifts from meaningful revision to “tampering with this text” (104). Line 4:10 (Erdman 4:9) is now quoted
+in reduced form as “Hidden &lt;Jerusalem&gt; [instead of Enitharmon] in Silent Contrition&gt;.”<supplied
+type="spacer"> </supplied><ref target="n44" type="note">7</ref> But we are now up to the current stage of the
+manuscript, and what the reader encounters in Bentley’s transcript of 4:10-4:15 is:
+<q>
+[Jerusalem in Silent Contrition]<lb/>
+I have hidden <hi rend="i">thee Enion in Jealous Despair</hi> O Pity me<lb/>
+[also O pity me O Enion]<lb/>
+I will build thee a Labyrinth <hi rend="i">where we may remain for ever alone</hi><lb/>
+[why has thou taken sweet Jerusalem from my inmost Soul<lb/>
+[Let her Lay secret in the Soft recess of darkness &amp; silence<lb/>
+[It is not Love I bear to Enitharmon It is Pity<lb/>
+<pb id="p33-54" n="54"/>
+[She hath taken refuge in my bosom &amp; I cannot cast her out.]<supplied type="spacer"> </supplied><ref
+target="n45" type="note">8</ref>
+	<note id="n44"><hi rend="s">7</hi> Another sign that Pierce does not favor this “stage” is that he
+inserts “[instead of Enitharmon]” here, but did not write “[instead of Enion]” in his prior
+transcription.</note>
+	<note id="n45"><hi rend="s">8</hi> Bentley’s notes to these lines help convey some of the complexity of the
+manuscript at this point: “<hi rend="i">Line 10</hi>: the alteration first read in pencil ‘Enitharmon in
+Silent &lt;?&gt; Contrition’; then ‘Enitharmon’ was changed in pencil to ‘Jerusalem’; and then the
+whole was darkened in ink. The deleted words are crossed out in pencil. <hi rend="i">Line 11</hi>: the words
+deleted were crossed out in pencil, and ‘also pity me O Enion’ written above them; the addition was then
+confirmed in ink, with the added addition of ‘O’. <hi rend="i">Lines 12-15, 18-26</hi> (a single block)
+seem to be written over about twelve erased modified copperplate lines which had been written over the erased
+copperplate lines. The modified copperplate lines begin farther to the left than those in the copperplate
+hand. Of the modified copperplate lines only ‘Enion’ at the end of the next to last line, and
+‘light&lt;?&gt; of day’ at the end of the last line are legible. <hi rend="i">Lines 12-15</hi> seem to be
+written over the same thing in pencil (with the exception of line 12), which were written over erased modified
+copperplate lines, which in turn were written over erased copperplate writing. All this alteration makes
+reading exceedingly difficult, and the erasure has almost worn through the page. Line 12 read in pencil:
+<q>
+[Jerusalem]<lb/>
+‘[Why hast thou taken] <hi rend="i">Enitharmon</hi> from my inmost soul’
+</q></note></q>
+I have gone through line 15 (Bentley’s numbering) here to illustrate one last point about this dense
+scenario where Enion and Enitharmon and Jerusalem all seem to be competing (if that’s the right word) for
+the same space. If Jerusalem were winning, how could Blake not have changed “Enitharmon” in line 4:14?
+Pierce suggests that the change was “only very tentative” (compared with what else in this context?)
+or—quoting Erdman—that Blake “accidentally neglected making the same change here as in lines 9 and 11”
+(that line number problem again) or that Blake’s “incomplete revision signaled his temporary abandonment
+of the text” (104). That last alternative might serve as a generic description of any manuscript at any
+stage; anything less than “completion” is abandonment. 
+                    </p>
+          <p>In a brief concluding chapter, Pierce invokes Joseph Viscomi’s discussion of the illuminated
+works as supportive authority on “how Blake constantly revised his works” and how “Fluidity and change
+become the norm” (141). In doing so, he drastically misreads and misrepresents Viscomi’s position.
+Abandoning his own earlier assertion that “the sharpness of definition is the sharpness of the engraving
+technique—the antithesis of the tentativeness and freely shifting boundaries of the pencil sketches”
+(xxv), Pierce now claims that “the copperplate becomes a medium with the flexibility of the sketchpad”
+(141), and therefore the site for meaningful revisions. But Viscomi rejects the notion that the plate can be
+seen as “the initial invention” separated from printing and coloring, and he also rejects the view that
+differences among copies mean we can equate execution with revision (178-79). More explicitly still, Viscomi
+asserts that “the plate image cannot be treated like a manuscript that has been distorted or deliberately
+altered” (178). Viscomi argues that <hi rend="i">meaningful</hi> differences between the works must be
+understood at the level of <hi rend="i">editions</hi> rather than—with rare exceptions—of the individual
+copy. Nothing could be more explicit than his assertion that Blake’s “variations do not signify a
+rejection of uniformity and all it supposedly represents” (175), that “the absence of more pronounced
+differences among copies within an edition is quite surprising, and the differences themselves seem minor”
+(175), and that “what is questionable are the ideas that Blake willfully produced variants within editions
+for the purpose of making each copy of the edition a unique version of the book, that he believed variants
+within editions altered the book’s meaning, and that variations express a conscious desire to rebel against
+engraving uniformity” (183).</p>
+          <p>Pierce’s invocation of Roland Barthes’ distinction between “work” and “text” in that
+chapter seems even more off the mark. In his eagerness to show that he is “a post-Saussurean,
+poststructuralist reader” (xvi) and “to take account of recent theoretical movements” (xv), he claims
+that his “approach to the work as text, as a network of signifiers, delivers the work into the order of
+language and writing” (143). But Barthes firmly associates the category of <hi rend="i">manuscript</hi> with
+the notion of the <hi rend="i">work</hi> (160), and the two together with the authority of the author. The
+work is <hi rend="i">material</hi> for Barthes, “a fragment of substance” that “can be seen” and
+“can be held in the hand,” whereas “the text is held in language” (156-57). How is this different from
+“the material complexity of the manuscript” (xiv) with its “material resistance” (xv) that Pierce
+takes as his object of study? For Barthes, the <hi rend="i">work</hi> “refers to the image of an organism
+which grows by vital expansion, by ‘development’” (161), and this is precisely what Pierce attempts to
+do as he “traces the evolution of Blake’s poetic thought” (xvi) through the “conscious revision and
+correction of an essentially diachronic narrative” (xvii-xviii). While claiming that “any study of the
+manuscript will be heavily driven by such conceptualizations of author as intentional consciousness” (144),
+Pierce wants to keep that conceptualization only for the manuscript changes that “suggest an attempt to
+achieve coherence and consistency” (144). But any change that is not systematically registered through the
+whole manuscript “calls into question the use of a unified conception of an author embodying conscious and
+singular intentionality. Did Blake forget, give up, or get careless?” (144). We are offered “an author
+figure [who] can only be reconstructed as embodying multiple conceptions of the poem simultaneously rather
+than as presenting a unified or consistent consciousness,” but one who is nevertheless a “figure” based
+on hypothesized states of consciousness. Here too we can see a conflict between a poststructuralist pose that
+claims, “I am not attempting to reconstruct Blake’s subjective thought processes, rather to trace out the
+evolution of a poetic construct. Intentionality is thereby a function of the manuscript rather than of an
+individual consciousness” (xvi), and Pierce’s actual practice,
+<pb id="p33-55" n="55"/>
+which claims to “trace Blake’s process of composition in great detail” (xx) and insists repeatedly that
+“Blake’s poetics are the result of conscious revision and correction” (xvii) and “This type of
+revision seems conscious on Blake’s part” (56).</p>
+          <p>Insofar as Pierce has a method, it can best be described as an example of “compositional
+fiction,” a phrase coined by Paul Mann. Emphasizing “the fact that the ‘final state’ of 
+<hi rend="i">The Four Zoas</hi> is a manuscript,” Mann points out that any hypothetical reconstruction of what
+Bentley calls its “composition and growth” is “an entirely separate concern” (208). “No matter how
+tentative and conditional the language of these compositional fictions they regularly determine editorial
+decisions” (208) and in Pierce’s case they regularly reconfirm his simplistic view of Blake’s writing
+practice in <hi rend="i">VALA</hi>.<supplied type="spacer"> </supplied><ref target="n46" type="note">9</ref>
+In fact, Pierce has two different compositional fictions for Blake’s manuscript, both highly speculative.
+His argument embodies the same “conflict” he attributes to the manuscript, with subtle accounts of
+seamless transition alternating with dramatic accounts of quantum-leap “ruptures.” On the one hand, the
+“manuscript tells a tale of steady addition and enlargement” (142) through “conscious revision and
+correction of an essentially diachronic narrative” (xxvii-xviii). But even though Blake’s poetics was
+fundamentally and essentially narrative (xvii), it “underwent a gradual shift during composition,
+transcription, and revision of the poem, a shift accompanied by a growing emphasis on synoptic and synchronic
+tendencies” as he “gradually altered the shape of the poem” (xvii). On the other hand, “Blake’s
+process of revision and recomposition seems part of a sometimes frantic attempt to save all that he wrote”
+(19). Blake was given to “tampering with this text” (104), and produced “fractures in the framework of
+his epic” (109), creating “vertical rupture” and “disruptions” that “mark a breakthrough in
+narrative strategy” (46), causing “a multitude of shifts in the poem that disrupt an earlier
+‘conception’ of the poem’s narrative” and producing “a radical effect on the poem’s design”
+leading to “a late but overwhelming notion, one that overpowers the bulk of the base transcription of the
+poem” (49). In particular, “Blake made three separate additions to the end of Night VII[a], each more
+disruptive than the last, producing a serious rupture in this narrative sequence, a rupture that increasingly
+precluded any attempts at maintaining sequential ‘fit’” (51). <note id="n46"><hi rend="s">9</hi> For
+examples of the frequency of speculation, see 72: “Blake’s aim here seems to be. . . those above possibly
+suggest. . . . seem to predate. . . . This addition may also. . . . Presumably, the fact that. . . . Although
+we cannot always know for certain. . . .those figures seem thoroughly compatible. . . . figures on page 8
+‘seem to represent’. . . . Enion appears bent over. . . . These ideas and designs were probably a part of.
+. . . One factor that seems consistent. . . . Another set of additions that might be early. . . .” On page
+35 we get five speculations in ten lines: “Blake may have contemplated rejecting the preceding Night and
+starting his epic with the second Night. It is possible that he considered beginning <hi rend="i">Vala</hi>
+with the Second Night while reconsidering the appropriateness of the original text on pages 3-7. Perhaps the
+revisions he required were so significant that he considered discarding the whole Night. It is also possible
+that, even after he made extensive revisions to these pages, he was still unhappy with the results. Therefore,
+he changed the title of the Night to ‘Night the First’ and at the same time may have changed the
+‘Then’ of the first line to ‘The’ in an attempt to remove or blunt the sense of narrative continuity
+implied by the adverb.”</note></p>
+          <p>Pierce sees Blake as an author unable to decide whether he is writing a “diachronic” poem or
+a “synchronic” poem. At times Pierce claims that Blake was striving to move the poem “away from a
+diachronic concern with narrative sequence towards a synchronic principle of juxtaposition or discontinuity”
+(48) only to succeed in the end in producing a “material failure” (xxvi). At other times he writes as if
+the synchronic “ruptures” were spoiling a poem that wanted to be diachronic narrative, so that a
+“sequentially coherent and consistent narrative structure” was being ruined by “a subversively
+disjunctive and disruptive narrative” (109). In either case the result is a failure, but the two views are
+quite different. At still other times Pierce suggests a positive sense of “flexible design” (xxii) and a
+process in which “the poem is revised to enact its own meaning through emergent forms” (xxvi). This sounds
+much better than failure. There are still other times when “all additions and revisions cohere around a
+single mythic core until at the end of the poem a right balance is established among the four faculties within
+the mind of the eternal man” (85). These contradictions in Pierce’s text can be read as embodiments or
+enactment of his basic intuition, but they are not consciously deployed. Pierce seems bent on seeing 
+<hi rend="i">VALA</hi> as a unique site of conflict, but what he describes are universal aspects of apocalyptic or
+eschatological writing in general and of Blake’s writing in particular. Vincent De Luca adopted the dynamics
+of the sublime to discuss Blake’s structural <hi rend="i">peripeteias</hi>, arguing that Blake intentionally
+designed his poetry so that the reader’s time-bound and narrativized “Corporeal Understanding” will be
+frustrated and overwhelmed by “a vision determinate and singular, measured and finite, a miraculous (or
+astonishing) compression of all contingent forms into one intellectual identity—the living Word of
+Eternity” (102).</p>
+          <p>As long ago as 1971 I was discussing what Pierce calls “the unresolved conflict between a
+diachronic and a synchronic poetics” (32) as it appears in the work of Blake, Wordsworth, Keats and Hart
+Crane.<supplied type="spacer"> </supplied><ref target="n47" type="note">10</ref> Another book that anticipates
+Pierce’s formulation and qualifies its claims for Blake’s uniqueness is Thomas Greene’s <hi rend="i">The
+Descent from Heaven</hi> (1963). Greene discusses numerous prior instances of the topos of “descent” in
+precisely the dynamics Pierce attributes
+<pb id="p33-56" n="56"/>
+to Blake. For Pierce, Blake’s “descent of the Lamb” comes when “a truly divine revelation is needed”
+(45), and “the descent of the Lamb acts as a vertical marker, a synchronic disjunction, that ruptures the
+teleology of a diachronic narrative of war as it moves to its temporal climax and spatial completion” (46).
+“The vertical rupture brought to this narrative of death through the intervention of the Lamb of God offers
+an alternative focus, redirecting attention from the foregrounded cataclysms of sequential development to the
+apocalyptics of synchronic perception” (46). In his study of the epic, Greene focuses on “the history of a
+minor form within a larger, encompassing form,” choosing “the descent of an emissary god or angel from
+heaven bearing a message to earth. . . . In most respects the celestial descent makes a peculiarly useful
+point of critical departure. For it does more than describe the swift and dramatic movement of a body through
+space. It constitutes typically a crucial nexus of the narrative; it represents the intersection of time and
+the timeless” (237). <note id="n47"><hi rend="s">10</hi> In <hi rend="i">Preludes to Vision</hi> I map some
+of the same narrative structural issues Pierce discusses, using temporal epic and atemporal lyric as polar
+examples of structure.</note></p>
+          <p>Pierce claims to have identified “a new kind of narrative form towards which Blake was
+striving” (44) and thinks that the form was fulfilled in <hi rend="i">Jerusalem</hi>, where the diachronic
+is fully abandoned for the synchronic (109). He suggests repeatedly that Blake is striving to make 
+<hi rend="i">VALA</hi> become <hi rend="i">Jerusalem</hi>—or we might rather say, a poem that can be read the
+way we have been taught to read <hi rend="i">Jerusalem</hi> ever since Frye announced in <hi rend="i">Fearful
+Symmetry</hi> that the poem was the climax of a poetic canon produced “in accordance with a permanent
+structure of ideas” (14). But Morton Paley, who is praised by Pierce for demonstrating that 
+<hi rend="i">Jerusalem</hi> is synchronic in structure, does not in fact make the extreme claim attributed to him.
+Rather he insists that “There is a story in <hi rend="i">Jerusalem</hi>, consisting of many episodes, but
+this diachronic aspect of the work is for the most part subordinated to its synchronic aspect. . . . The
+organizational container reinforces the expectation of a strong narrative line, an expectation which is
+subverted time after time in the work itself” (303). This sounds more like Pierce’s view of 
+<hi rend="i">VALA</hi> than like the unilateral triumph of an oxymoronic “synchronic narrative.” The
+co-existence of the diachronic with the synchronic, claimed by Pierce as a unique feature of 
+<hi rend="i">VALA</hi> is an inevitable aspect of all narrative, and is a dominant feature of all texts in the
+apocalyptic tradition.<supplied type="spacer"> </supplied><ref target="n48" type="note">11</ref> As Paul
+Youngquist notes, “To isolate the synchronic thus requires a prior immersion in the diachronic, which the
+resulting ‘single archetypal pattern’ functions to repress. Synchronism in fact arises through the
+diachronic process it subsequently subordinates. The recognition of repetition that underwrites traditional
+criticism of <hi rend="i">Jerusalem</hi> is also the cipher of time and contingency. In the barely visible gap
+that opens within ‘spatial form’ to define its self-identity can be glimpsed its diachronic origins in the
+process of reading the poem” (604). Far from being unique to or originary with <hi rend="i">VALA</hi>, the
+eschatological dynamic Pierce finds there is everywhere in Blake and as old as the Christian Bible, carefully
+edited so that the diachronic temporality of the “Old” Testament and the synoptic gospels give way to the
+synchronic realm of the Gospel of John (“Jesus said unto them, Verily, verily, I say unto you, Before
+Abraham was, I am.”) and to the apocalyptic climax of Revelation. What Blake is doing in 
+<hi rend="i">VALA</hi> is typical of an apocalyptic tradition that includes writers as different as Dante and
+Wordsworth. Dante increasingly notes the distinction towards the end of the <hi rend="i">Paradiso</hi> as he
+approaches the point at which all time becomes present (“<hi rend="i">il punto a cui tutti li tempi son
+presenti</hi>”) coming to eternity from the temporal (“<hi rend="i">all’etterno dal tempo era
+venuto</hi>”) he finds that a single moment can produce more effect than twenty-five centuries 
+(“<hi rend="i">Un Punto solo m’è maggior letargo / che venticinque secoli alla ’mpressa</hi>”). In 
+<hi rend="i">The Prelude</hi> Wordsworth recounts those vertiginous moments of estrangement and vision where he
+felt in touch with the hiding places of Power. Such spots of time can be found and multiplied, like the
+“Wild Thyme” of Blake’s “Moment in each Day that Satan cannot find.” 
+<note id="n48"><hi rend="s">11</hi> Barthes gives a typical structuralist description in his “Structuralist Analysis of
+Narratives”: “To understand a narrative is not merely to follow the unfolding of the story, it is also to
+recognize its construction in ‘storeys’, to project the horizontal concatenations of the narrative
+‘thread’ on to an implicitly vertical axis; to read (to listen to) a narrative is not merely to move from
+one word to the next, it is also to move from one level to the next” (87).</note></p>
+          <p>Pierce’s problems in gaining a coherent perspective on the poem reflect those he claims to find
+in the poem, and are related to the ways in which a teleological narrative of origins is taken to be the 
+<hi rend="i">repetition</hi> in time of a prior structure of temporal events. He remains what Donald Ault calls a
+“Newtonian reader,” in spite of his appeals to Ault’s notions of Newtonian and anti-Newtonian narrative.
+His compositional fiction, seeking “a sequentially coherent and consistent narrative structure” (109) of
+the poem’s origin, holds him back from a reading of the manuscript <hi rend="i">as manuscript</hi> that
+would be congruent with Ault’s argument that
+<q>
+the <hi rend="i">Four Zoas</hi> narrative is a purely relational process that has no existence (cannot be
+pointed to) in any form except through the act of reading. . . .This radical relational narrative process
+undermines Newtonian narrative ontology (through retroactive transformation, aspectual interconnection, and so
+on); it invades and desubstantializes the independently existing Newtonian reader and text, reconstituting
+them relationally as the primary conditions of the coming-into-existence of the narrative. (22)
+</q>
+	<pb id="p33-57" n="57"/>
+All of the characters in <hi rend="i">VALA</hi> are “fallen,” and all seek to “remember” what caused
+them to fall, in the process of which they construct a multitude of stories without realizing that they are
+“actively constructing rather than passively remembering” (Adams 636). Thus narrativity—or a mistaken
+notion of narrativity and time—is the fallen condition. <hi rend="i">VALA</hi> is the only one of Blake’s
+three great works in which he does not constantly and explicitly refer to himself as author, reminding the
+reader of the ongoing present of writing and physically producing the work in what Adams calls a “dramatic
+mimesis of visionary creation” (630).<supplied type="spacer"> </supplied><ref target="n49"
+type="note">12</ref> In <hi rend="i">VALA</hi> that dramatic mimesis is continuous in the material form of the
+poem itself and the reader/editor of the manuscript is called on to become co-producer of whatever meaning
+emerges in the reading process. As Ault points out, “In its naked preservation of the traces of its struggle
+to be (re)composed, <hi rend="i">The Four Zoas</hi> pushes to the foreground the productive labor of writing;
+it is a text that insists on its own radical heterogeneity, on its own struggle to be different from itself,
+indeed, ultimately on its process of eradicating a potentially unitary textual ‘self’ from which ‘it’
+could ‘differ’” (xiii). <note id="n49"><hi rend="s">12</hi> There is only one explicit indication in 
+<hi rend="i">VALA</hi> that someone is writing it: Night V (6:9) where Blake wrote, “I write not here but all
+their after life was lamentation.”</note></p>
+          <p>Blake did not simply set out to write a diachronic narrative, as if that were an aesthetic or
+formalist decision. His initial goal seems to have been to achieve a Hegelian <hi rend="i">Aufhebung</hi>
+through time, as in the <hi rend="i">Phenomenology of Spirit</hi> (1807), to reach through memory a triumph of
+the mnemonic over time in an apocalyptic self-absorption at the end of history when past and present, being
+and becoming are harmonized. In the process of working on the poem he made the discovery that was to mark the
+nineteenth century—that memory is the mechanism by which ideology materializes itself, and that a
+transformational account of human structures is common both to the political theorist and to the visionary
+poet. In <hi rend="i">The Sense of an Ending</hi> Frank Kermode deploys the useful terms 
+<hi rend="i">chronos</hi> and <hi rend="i">kairos</hi>, where <hi rend="i">chronos</hi> is the linear sense of
+history and <hi rend="i">kairos</hi> is a sense of time that integrates past, present and future: 
+“<hi rend="i">Chronos</hi> is ‘passing time’ or ‘waiting time’—that which, according to Revelation,
+‘shall be no more’—and <hi rend="i">kairos</hi> is the season, a point in time filled with significance,
+charged with a meaning derived from its relation to the end” (47). <hi rend="i">Kairoi</hi> are historical
+moments that are out of time, and eschatology plots the pattern of <hi rend="i">kairoi</hi> in relation to the
+End. It is possible to see many of the temporal experiments of high modernism as motivated by an inspired
+ideal of <hi rend="i">kairos</hi> in opposition to linear history.</p>
+          <p>Modernism itself, informed by “spatial form” and the model of cinematic montage,
+self-consciously sought to become the art of a new consciousness that would disprove Lessing’s relegation of
+the verbal arts to the temporal dimension. Joyce’s “Bloomsday” in <hi rend="i">Ulysses</hi> and his
+Viconian <hi rend="i">ricorsi</hi> in <hi rend="i">Finnegans Wake</hi> were attempts to align the literary
+work with the force of <hi rend="i">kairos.</hi> Virginia Woolf, whether poised between the gendered temporal
+poles of Mrs. Ramsey’s <hi rend="i">kairos</hi> and Mr. Ramsey’s <hi rend="i">chronos</hi>, or focused on
+Mrs. Dalloway’s day, or an interval “between the acts” of history, sought the same effect. Yeats
+revealed the same concerns in his obsession with occult repetitions, as did Lawrence in his striving for
+apocalyptic endings to his novels, or in his <hi rend="i">Apocalypse</hi>, where he announced that “Our idea
+of time as a continuity in an eternal straight line has crippled our consciousness cruelly” (quoted in
+Bradbury 51). The tension between <hi rend="i">chronos</hi> and <hi rend="i">kairos</hi> is the central theme
+of T. S. Eliot’s <hi rend="i">Four Quartets</hi>, where we see the Dantesque poet (“So here I am, in the
+middle way”) revealing a secular perception of diachronic time challenged by Christian eschatology:
+<q>
+A people without history<lb/>
+Is not redeemed from time, for history is a pattern<lb/>
+Of timeless moments. So, while the light falls<lb/>
+On a winter’s afternoon, in a secluded chapel<lb/>
+History is now and England.<lb/>
+(237-41)
+</q></p>
+          <p>In many ways as different from Blake as another poet could be, Eliot here shares with Blake the
+struggle against linear time, and looks to patterns preserved in national tradition and archaic myths of
+organic community, to find the possibility of a redeemed temporality.</p>
+          <p>I think we can be better readers of Blake if we stop thinking of him as a solipsistic creator of
+a private myth and see how many concerns he shared with other significant writers of the modern period.
+Similarly, we should not think of his manuscript struggle with <hi rend="i">VALA</hi> as a uniquely
+“Blakean” experience as Pierce suggests, but take note of how the more we learn of the text life of other
+authors the better we can understand the real process of <hi rend="i">writing</hi> (verb) 
+<hi rend="i">writing</hi> (noun). One of the more serious omissions in Pierce’s study is the context provided by
+work done in recent years on recovering and reading the manuscripts of other romantic and nineteenth-century
+writers.</p>
+          <p>Especially relevant here is work on Wordsworth, Coleridge and Shelley. If we read 
+<hi rend="i">The Prelude</hi> (of course that title begs the question!) in its full textual plurality, or “Home
+at Grasmere” (originally intended as Book I of the never-written <hi rend="i">Recluse</hi>), along with the
+myriad of poems Wordsworth continually rewrote and rearranged, we see that Wordsworth was a poetic Penelope
+who wove and rewove his poems endlessly to avoid the spectre of closure. Wordsworth’s obsessive (the term is
+de Selincourt’s) revisions include many poems he seems never to have intended to publish at all. His famous
+inability to leave his poems alone has led to the Cornell Wordsworth project, organized with the aim to print
+texts of poems and all variants from first draft to final lifetime
+<pb id="p33-58" n="58"/>
+(or first posthumous) publication, together with facsimiles of available manuscript versions. The growth of
+his <hi rend="i">Prelude</hi> can now be traced through up many different versions. His constant alteration of
+his poems, even after they were published, is notorious. If we see these poems as traces of a scene of
+writing, rather than as finished products, we can sense how Wordsworth continually altered his poems in order
+to keep the activity of writing going. His endless process of alteration was a way to preclude a closure of
+identity in a fixed text, to avoid becoming one who had written rather than one who was writing. His was a
+writing project that had to inscribe itself as something ever more about to be, in order to avoid being a copy
+of something that already was.<supplied type="spacer"> </supplied><ref target="n50" type="note">13</ref> The
+long-standing Cornell Wordsworth project has led to an enhanced sense of Wordsworth as reviser of his own
+work, and has helped in particular to identify multiple versions of <hi rend="i">The Prelude</hi>, ranging
+from its humble beginning in 1789 on the last page of a German lesson notebook (“Was it for this?”) to the
+14-book version that was left at his death. We can now read the poem as a scene of action rather than a report
+on events that happened elsewhere in the past, events that are “over.” Coleridge too is increasingly seen
+as a Penelope. Jack Stillinger asks “How Many <hi rend="i">Mariners</hi> Did Coleridge Write?” in an essay
+where he considers how Coleridge “undermines the concept of a stable text by his continuous revising”
+(38). One might equally well ask how many <hi rend="i">VALAS</hi> (or <hi rend="i">Urizens</hi> or 
+<hi rend="i">MIL/TONS</hi> or. . . .) did Blake write?<supplied type="spacer"> </supplied><ref target="n51"
+type="note">14</ref>
+	<note id="n50"><hi rend="s">13</hi> I discuss Wordsworthian revision at greater length in “A Spirit, Yet a
+Woman Too!”</note>
+	<note id="n51"><hi rend="s">14</hi> Stillinger is expanding on J. C. C. Mays’s “Reflections on Having
+Edited Coleridge’s Poems.”</note></p>
+          <p>Useful recent work in this area has not been limited to English authors. Blake’s contemporary
+Hölderlin left behind a horde of manuscripts, especially those of the remarkable elegies and hymns from his
+later years, that resemble palimpsests on which the poet constantly revised his work, using all the space in
+the margins and even the space between lines. In contrast to the “authoritative” text of the monumental
+<hi rend="i">Grosse Stuttgarter Ausgabe</hi>, the life-work of Friederich Beissner and his colleague Adolf
+Beck, the new <hi rend="i">Frankfurter Ausgabe</hi>, edited by Dieter E. Sattler (and published by a leftist
+publishing collective called Roter Stern) provides a <hi rend="i">Rezeptionstheorie</hi>-friendly edition for
+readers who believe that meaning is generated through acts of reading. Where Beissner sought to produce the
+effect of authoritative readings, creating the impression that definitive versions of the work could be
+recovered, the Frankfurt Edition provides a mapping of poems in process that keeps the graphic integrity of
+Hölderlin’s poetic process with a facsimile of the manuscript, accompanied by a diplomatic transcription
+that follows the spatial configurations of the original. In addition there is a “phase analysis” of the
+manuscript that converts the spatial arrangement of the page into a linear sequence where the different stages
+of composition are indicated by different typefaces. Finally, there is an explicitly “provisional” reading
+text version of the work.</p>
+          <p>Recent textual work on post-romantic writers can also help prepare us to read 
+<hi rend="i">VALA</hi> in its manuscript form. For example, the last 10 years have shown a remarkable
+intensification of interest in the materiality of Emily Dickinson’s writing. The facts that her writing is
+almost exclusively in manuscript form, that she regularly suggested alternative words or phrases and produced
+alternate versions, that the distinction in her writing between poetry and prose is not always clear, have led
+to a growing body of writing on her work dealing both with editing and reading theory.<supplied type="spacer"> </supplied><ref target="n52" type="note">15</ref> As Jerome McGann states, “Dickinson’s scripts cannot be
+read as if they were ‘printer’s copy’ manuscripts, or as if they were composed with an eye toward some
+state beyond their handcrafted textual condition” (<hi rend="i">Textual Condition</hi> 38). One of the
+significant features of Dickinson’s manuscripts is the inclusion of alternate readings with no indication of
+status or priority. Similar cases occur in Blake when multiple revisions leave the text suspended. A good
+example can be found in <hi rend="i">VALA</hi> 5:44-53 and 6:9-7:7, where the lines are deleted in pencil, but
+circled in ink—a printer’s symbol for reinstating text according to Andrew Lincoln, whose presentation
+convinced Erdman to include them in the text. As Ault writes, these considerations “are compelling but not
+decisive: it is as though Blake’s text leaves open or indeterminate the rules for interpreting what should
+be excluded or included” (501). Another area of textual scholarship that could be useful to those interested
+in a better understanding of “manuscript poetics” is the growing field of genetic research in Joyce,
+especially <hi rend="i">Finnegans Wake.</hi> The <hi rend="i">James Joyce Archive</hi> includes 15 thick
+volumes of facsimiles for the surviving Joyce notebooks and 20 volumes that reproduce drafts, typescripts and
+galley proofs for the different stages of the text of <hi rend="i">Finnegans Wake.</hi> The manuscript
+evidence ranges from handwritten sketches to final galley proofs, and genetic criticism of Joyce’s 
+<hi rend="i">Wake</hi> is rooted in the manuscript remains of his work habits from 1922 to early 1939.<supplied
+type="spacer"> </supplied><ref target="n53" type="note">16</ref>
+	<note id="n52"><hi rend="s">15</hi> In “The Importance of a Hypermedia Archive” Martha Nell Smith
+describes the organization of the Dickinson Editing Collective. Susan Howe, Ellen Louise Hart, Marta Werner,
+Roland Hagenbach, Jerome J. McGann, and Jeanne Holland are other members of the Editing Collective whose work
+has greatly advanced the understanding of Dickinson’s handwritten poetic experimentation in punctuation,
+lineation, calligraphic orthography and mixed media layouts.</note>
+	<note id="n53"><hi rend="s">16</hi> Graham Falconer has a useful survey of contemporary genetic criticism in
+his “Genetic Criticism.” A somewhat dated bibliography of <hi rend="i">Wake</hi> genetic criticism can be
+found in the revised edition of McHugh’s <hi rend="i">Annotations to Finnegans Wake</hi> (1991). Ongoing
+archival research is regularly reported on in <hi rend="i">Genesis</hi>, the journal published by the 
+<hi rend="i">Institut des Texts et Manuscrits Modernes</hi> in Paris. The <hi rend="i">Institut</hi> is dedicated
+exclusively and rigorously to genetic studies and has included among its more notable members Daniel Ferrer,
+Jean-Michel Rabaté, Laurent Milesi and Claude Jacquet. There is also an Antwerp school of genetic Joyce
+criticism, led by Geert Lernout, who has also done a study of Hölderlin. In Ireland the leading genetic
+scholars are Danis Rose, Vincent Deane, Roland McHugh and John O’Hanlon.</note></p>
+          <p>I’m concerned here with the experience of <hi rend="i">reading</hi> Blake’s
+<pb id="p33-59" n="59"/>
+	<hi rend="i">writing</hi>, in as full and unmediated a way as possible. One major hindrance to realizing this
+goal is access to the manuscript text in suitable form. Few of us can visit the British Museum to read the 
+<hi rend="i">VALA</hi> original, and the two facsimile options are expensive to own and difficult to read. We may
+never know what final form Blake intended for <hi rend="i">VALA</hi>, and it is quite likely that his material
+plans for the poem went through several phases. A more tractable but still difficult question is, in what form
+is the work best made available to the prospective reader? The possibility of an edition along the lines of
+Sattler’s edition of Hölderlin is appealing, but none that I know of is in the works. The closest thing to
+it in Blake studies is the invaluable facsimile <hi rend="i">Notebook</hi> with diplomatic transcription that
+David Erdman did with Donald Moore back in the 1970s. But then we need not be limited in our study of
+Blake’s materiality to a literally material version of his text. The poem has not appeared yet on the Blake
+Archive priority list, but it is tempting to anticipate the kind of polymorphous textual experience that a
+proper hypertext edition could make possible.<supplied type="spacer"> </supplied><ref target="n54"
+type="note">17</ref> If when we read a manuscript we are reading writing <hi rend="i">as writing</hi>, then
+every aspect of the text exemplifies its physical contingency, its distance from that ideal unique unchanging
+work that leads a textual critic like Thomas Tanselle to claim “that language is an intangible medium and
+that words on paper are therefore not verbal works themselves but only guides to the reconstitution of such
+works” (“<hi rend="i">Textual Criticism</hi>” xi). Tanselle claims that many critics (both textual and
+literary) “have been led into muddy thinking by a failure at the outset to recognize the basic distinction
+between texts of works and texts of documents” (<hi rend="i">Rationale</hi> 35). Over against the mud
+metaphor he posits the clear thinking of a material text that is “the crystal goblet of typography and
+calligraphy [that] conveys a cargo that is abstract” (<hi rend="i">Rationale</hi> 40). But Tanselle’s
+clear thinking is muddled on a number of important ontological issues and—perhaps even more telling—it is
+divorced from the actual practice of writing engaged in by many literary artists, and from the text-work they
+produce. <note id="n54"><hi rend="s">17</hi> Bill Ruegg’s “Experimental Hypertext” and accompanying
+essay are suggestive to a certain degree. The Emily Dickinson Editing Collective has plans for a hyprmedia
+archive of her writing to supplement the new variorum edition being prepared by Ralph Franklin.</note></p>
+          <p>I have concentrated so far primarily on Pierce’s emphasis on the manuscript status of 
+<hi rend="i">VALA</hi>. He has a second related focus on what he calls a “poetics of character,” for which he
+claims that his “use of character arises from the suggestions offered by Barthes in <hi rend="i">S/Z</hi>
+that character ‘is an adjective, an attribute, a predicate,’ or, more in keeping with ‘the ideology of
+the person,’ ‘the sum, the point of convergence’ of a set of signifying elements (what Barthes calls
+‘semes’) that cluster around a proper name.” Pierce has difficulty with Blake’s revisions because
+Blake’s “clustering of ‘adjectives’ can lead to a set of apparent contradictions in character
+attributes with each reworking of the poem” (xxiii), making the poem exhibit a “contradictory sense of the
+whole idea of stability in characterization” (xxiv). It’s not surprising that Barthes’ formulation
+doesn’t work all that well for a work like <hi rend="i">VALA</hi>, since Barthes is describing the
+conventional coding of conventional fiction where the <hi rend="i">effect</hi> of “character” is produced
+by semiotic consistency readers have learned to expect. As Melville pointed out in his 
+<hi rend="i">Confidence-Man</hi>, “there is nothing a sensible reader will more carefully look for, than that,
+in the depiction of any character, its consistency should be preserved” (69). But Melville goes on to ask,
+“is it not a fact, that, in real life, a consistent character is a <hi rend="i">rara avis</hi>?” (69).
+Neither Melville in <hi rend="i">The Confidence-Man</hi> nor Blake in <hi rend="i">VALA</hi> is committed to
+the representation of something that could be called “character,” and it is not at all clear that the
+names that multiply like weeds throughout the manuscript should be interpreted as signifiers of character.
+Bentley identifies 143 different “symbolic names” in <hi rend="i">VALA</hi>, and according to his count
+117 names (82% of the total) appear only in added passages or in Night VIII, while 94 (66%) appear on only one
+page.</p>
+          <p>I think it is rather Pierce’s need for consistency that is at work here, as he labors through
+many pages to show how he thinks Blake is consistently revising to create stable “characters” who can be
+consistently and <hi rend="i">judgmentally</hi> identified by the reader as “evil” or “blatantly evil”
+or “malevolent” or “sympathetic” or “fallen.” Here too as with the compositional fiction, we have
+a program of staged readings where for Pierce Blake can only imagine a shift from one essentialism to another,
+as sympathetic (i.e., good) characters become evil and evil characters become repentant, so that “as Tharmas
+grows more evil, Enion becomes a more sympathetic (or simply pathetic) victim” (104). Pierce seems oblivious
+to the fact that these descriptions of character are often spoken by other “characters” who are
+tendentious to the extreme. For example, he cites Ahania’s “first approach” to Urizen, where she says:
+“Thou sitst in harmony for God hath set thee over all” (after 37:9; see E 830), and notes that Blake
+“struck out this line and made a series of other changes that undermine any positive value in Urizen’s
+creation” (90). Is this in fact a change by Blake in an omniscient valorization of Urizen, or is it a change
+in Ahania’s perception of him, or a change in her rhetorical strategy in dealing with him? 
+<hi rend="i">VALA</hi> is not a disembodied “story” that portrays “character,” but a dramatic logomachia
+in which “voices” with different names hurl accusations and confessions at one another.</p>
+          <p>According to Pierce’s criteria Milton, when he got to the point where Eve and Adam ate the
+apple, would have to go back and re-establish their essential “character” as fallen in order to be
+convincingly consistent. As Davis P. Harding pointed out long ago, Milton, “as a theologian, was compelled
+<pb id="p33-60" n="60"/>
+to maintain a spotless innocence in Adam and Eve until that precise moment when Eve actually eats the Fruit.
+As a poet, he was compelled to anticipate the Fall by implying in both our first parents not only a
+predisposition to sin but the specific frailty out of which the sin could grow and take its shape, as a plant
+is formed from its seed” (68-69).<supplied type="spacer"> </supplied><ref target="n55" type="note">18</ref>
+Blake and Milton were both writing in traditions where radical, inexplicable character transformation was
+possible, for better and for worse, and Pierce’s labors to convince us of Blake’s labors for consistency
+are not successful. Pierce writes, “There is no essential character that [Blake] fears violating in such
+revisions” (xxiv); the point is, that there is <hi rend="i">no essential character.</hi><supplied
+type="spacer"> </supplied><ref target="n56" type="note">19</ref> When Blake in 29:1 writes “Eternal Man,”
+then erases “Eternal” and writes “Fallen, “then writes “Ancient” above “Fallen” in pencil,
+then erases “Fallen” and return us to “Ancient,” he is not going from one essential attribute to
+another one, but creating a site where there is no fixed identity. <note id="n55"><hi rend="s">18</hi>
+Harding’s study is a wonderful revelation of Milton’s rhetorical stratagems to “implant in the minds of
+his readers a secret, furtive, tentative uneasiness about Adam and Eve—not so much doubts as the shadows of
+doubts—while simultaneously maintaining the illusion of their entire sinlessness” (69).</note>
+	<note id="n56"><hi rend="s">19</hi> Pierce adds to—or reflects—the situation by making seemingly
+contradictory assessments of “characters.” For example, at one point we read about “preparation for the
+transfer of power into Los later in the poem” (117) and later we read that “Los becomes a mere product of
+the Fall who will disappear at the end of time” (122). Pierce claims that it was the development of Tharmas
+as a “significant character” that caused Blake to abandon his elaborate copperplate fair copy (114), but
+even though Tharmas “as chaos, is father to Los, the human creative principle” (116) and has “symbolic
+ascendancy over the other Zoas” (125) and it is his cry that “begins the action of the poem and expresses
+the universal anxiety felt by all the characters in the work” (126), he is said to have “only very local
+and very limited effect in the plot” (117). If these contradictions are meant to be statements that apply to
+different stages of revision of the poem, Pierce needs to be much more precise in his formulations.</note></p>
+          <p><hi rend="i">VALA</hi> raises the question of character identity by thematizing it, and by
+embodying it textually with parts of the manuscript that are not clearly in or out of the poem, or that enter
+and leave the poem as it is revised and revised again. The instability of the text, reflected in its material
+manuscript embodiment, is not an accident or an aesthetic choice, but a reflection of a problematic subject
+and theme that is intimately related to the interrelationship between narrativization and the grounding of
+identity in memory as a dimension of human consciousness. From the time of Locke on, in the Anglo-European
+discourse, personal identity as a state of continuous subjectivity has been intertwined with narrating and
+tropes of writing as a special effect. But if identity is grounded in memory, and in the ability to remember
+and narrate, then fluidity of memory will preclude the traditional grounding of stable identity. As Theodore
+Adorno expressed it,
+<q>
+The unstable character of traditional philosophy’s solid identity can be learned from its guarantor, the
+individual human consciousness. To Kant, this is the generally predesigned unit underlying every identity. If
+fact, if an older person looking back has started early on a more or less conscious existence, he will
+distinctly remember his own distant past. It creates a unity. Yet the ‘I’ which he remembers in this
+unreality this I turns simultaneously into another, into a stranger to be detachedly observed. (154)
+</q></p>
+          <p>The analogue for a Kantian identity is a belief that time is related to a fundamental continuum
+that provides the condition of possibility for memory and narrative. Paul Ricoeur, in <hi rend="i">Time and
+Narrative</hi>, has given a thorough and exhaustive treatment of this concept, arguing that time is possible
+because of a continuum we are always in, a <hi rend="i">chronos</hi> uninterruptedly continuous with the
+earliest “archaic” moment (<hi rend="i">arkhè</hi>, as beginning, origin, principle). Ricoeur presents
+Proust’s <hi rend="i">À la récherche du temps perdu</hi> as a prime example of his theory, claiming that
+the novel demonstrates the connection of the narrator’s involuntary memories through the non-temporal zone
+or grounding continuum that Proust calls “time.” Freud subjectifies this concept and problematizes it, by
+hypothesizing an unconscious that functions like Ricoeur’s continuum for the individual psyche: “It is a
+prominent feature of unconscious processes that they are indestructible. In the unconscious nothing can be
+brought to an end, nothing is past or forgotten” (<hi rend="i">The Interpretation of Dreams, SE</hi>
+5:577-78). This unerring repository of our past with its equivocal power is both the problem Freud sought to
+solve and the solution. For Freud, the unconscious contains an unchanging record of the past, somehow
+“written” in us in a mysterious material form. But consciousness “circulates a mobile and ungrounded 
+<hi rend="i">representation</hi> of these contents to which direct access is theoretically impossible. These two
+memories cohabit within us but cohere nowhere; these two pasts constitute us but conflict ceaselessly”
+(Terdiman 289).<supplied type="spacer"> </supplied><ref target="n57" type="note">20</ref> The memory might
+permanently ground our identity, for better or worse, is not directly available to consciousness, and the
+representations produced by the memory function in consciousness demonstrate a protean volatility in which
+things can be changed into other things interminably. Derrida observed that “The substitution of signifiers
+seems to be the essential activity of psychoanalytic interpretation” (210), and in this the Freudian
+hermeneutic and the textuality of <hi rend="i">VALA</hi> as manuscript are alike both in cause and effect.
+<note id="n57"><hi rend="s">20</hi> I am indebted in these observations to Richard Terdiman’s discussion in
+<hi rend="i">Present Past</hi> of Freudianism as a theory of memory.</note></p>
+		<q>
+Since the transition to consciousness is not a derivative or repetitive writing, a transcription duplicating
+an unconscious writing, it occurs in an original manner and, in its very secondariness, is originary and
+irreducible. Since consciousness for Freud is a surface exposed to the external world, it is here that instead
+of
+<pb id="p33-61" n="61"/>
+reading through the metaphor [i.e., of writing] in the usual sense, we must, on the contrary, understand the
+possibility of a writing advanced as consciousness and as acting in the world (the visible exterior or the
+graphism of the literal, of the literal becoming literary, etc.) in terms of the labor of the writing which
+circulated like psychical energy between the unconscious and the conscious. The “objectivist” or
+“worldly” consideration of writing teaches us nothing if reference is not made to a space of psychical
+writing. (Derrida 212)
+</q>
+          <p>I offer these observations on Freud because the prophetic ambition of Blake’s 
+<hi rend="i">VALA</hi> suggests the cultural equivalent of psychotherapy, and because they suggest how instability
+of identity and instability of text can both be related to the thematics of <hi rend="i">VALA</hi> and its
+manifestation in the text as unstable writing or manuscript—what Terdiman aptly calls “the unlimited
+plasticity” of representation in general and the “extravagant mobility of psychic contents” (292). For
+both Freudian hermeneutics and Blake’s <hi rend="i">VALA</hi>, the basic problem is how a stable
+representation of the past can be possible. I also want to avoid the possible implication in my discussion
+that there is anything like a universal “manuscript poetics” which governs or manifests itself in all
+manuscript writing. I am convinced that <hi rend="i">VALA</hi> remained in manuscript because it became a poem
+about writing, and about its own writing, a dynamic, ongoing process with no conceivable end. “There is more
+than enough work to do on the specifics of Blake’s daily (changing) practice as writer, printer, engraver,
+and painter” (McGann, <hi rend="i">Literature of Knowledge</hi> 13), while the ongoing process of writing,
+in its immediacy and materiality, is available for a myriad of contingent relationships to the “meaning”
+of innumerable texts by other authors. In spite of its shortcomings Pierce’s book will have served a useful
+function if it directs our renewed attention to reading Blake’s writing.</p>
+		<q>
+the books remaind still unconsumd<lb/>
+Still to be written &amp; interleavd with brass &amp; iron &amp; gold<lb/>
+Time after time for such a journey none but iron pens<lb/>
+Can write And adamantine leaves recieve nor can the man who goes<lb/>
+The journey obstinate refuse to write time after time <hi rend="i">VALA</hi> 70 (second portion) 39-43
+</q>
+          <p>In conclusion, I’d like to return to my initial statement in this review. I do believe that the
+manuscript of <hi rend="i">VALA</hi> calls out for study <hi rend="i">as a manuscript.</hi> Surely Blake
+deserves the kind of careful scrutiny that is being brought to bear on the manuscripts of other authors; and
+Blake studies, especially of <hi rend="i">VALA</hi>, can benefit from some of the critical and methodological
+gains being made in contemporary textual studies. In spite of my disappointment with Pierce’s book, I want
+to emphasize that it is situated in an important but still relatively unexplored area of Blake studies. He is
+right when he points out that
+<q>
+critical arguments do not make full use of the material complexity of the manuscript. . . . none has yet fully
+embraced the material resistances of the poem—its state as manuscript with alternate readings, cancelled
+possibilities, uncertainties in direction, and variations in pen, ink, crayon, colour wash, stitch marks,
+writing styles, paper, and so on. These matters mark the poem as graphically as its characters, themes, and
+narrative complexities. (xiv-xv)
+</q></p>
+          <p>My own hope is that future work on <hi rend="i">VALA</hi> will be broader in its focus than
+Pierce’s book is, and will be informed by an awareness of recent textual studies and theory that can help to
+refine our ability to read Blake’s manuscript.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>Adams, Hazard. “Jerusalem’s Didactic and Mimetic-Narrative Experiment.” 
+<hi rend="i">Studies in Romanticism</hi> 32 (1993): 627-54.</p>
+            <p>Adorno, Theodor. <hi rend="i">Negative Dialetics.</hi> Trans. E. B. Ashton. New York: Seabury,
+1973.</p>
+            <p>Alighieri, Dante. <hi rend="i">The Divine Comedy. III Paradiso.</hi> Trans. and commentary by
+John D. Sinclair. New York: Oxford UP, 1969.</p>
+            <p>Ault, Donald. <hi rend="i">Narrative Unbound: Re-Visioning William Blake’s</hi> The Four
+Zoas. Barrytown, New York: Station Hill Press, 1987.</p>
+            <p>Barthes, Roland. “From Work to Text.” <hi rend="i">Image, Music, Text.</hi> Trans. Stephen
+Heath. New York: Hill and Wang, 1977, 155-64.</p>
+            <p>—. “Introduction to the Structural Analysis of Narratives.” <hi rend="i">Image, Music,
+Text.</hi> Trans. Stephen Heath. New York: Hill and Wang, 1977, 79-124.</p>
+            <p>—. <hi rend="i">S/Z.</hi> Trans. Richard Miller. New York: Hill and Wang, 1974.</p>
+            <p>Blake, William. <hi rend="i">The Complete Poetry and Prose of William Blake.</hi> Ed. David V.
+Erdman. Newly rev. ed. New York, London, Toronto, Syndey, Auckland: Doubleday, 1988.</p>
+            <p>—. <hi rend="i">The Notebook of William Blake: A Photographic and Typographic Facsimile.</hi>
+Ed. David V. Erdman, with the assistance of Donald K. Moore. Rev. ed. Readex Books, 1977.</p>
+            <p>The Four Zoas <hi rend="i">by William Blake: A Photographic Facsimile of the Manuscript with
+Commentary on the Illuminations.</hi> Ed. Cettina Magno Tramontano and David V. Erdman. Lewisburg: Bucknell
+University Press; London and Toronto: Associated University Presses, 1987.</p>
+            <p>—. <hi rend="i">Vala or The Four Zoas: A Facsimile of the Manuscript, A Transcript of the
+Poem, and a Study of Its Growth and Significance.</hi> Ed. G. E. Bentley, Jr. Oxford: Clarendon Press,
+1963.</p>
+            <p>Bradbury, Malcolm and James McFarlane, Ed. <hi rend="i">Modernism:</hi>
+	<pb id="p33-62" n="62"/>
+	<hi rend="i">A Guide to European Literature 1890-1930.</hi> London: Penguin, 1976.</p>
+            <p>Coleridge, Samuel Taylor. <hi rend="i">The Notebooks of Samuel Taylor Coleridge</hi>, Ed.
+Kathleen Coburn. New York: Pantheon, 1957.</p>
+            <p>—. <hi rend="i">The Collected Works of Samuel Taylor Coleridge.</hi> [London]: Routledge and
+K. Paul; [Princeton]: Princeton UP, 1969-.</p>
+            <p>De Luca, Vincent Arthur. <hi rend="i">Words of Eternity: Blake and the Poetics of the
+Sublime.</hi> Princeton: Princeton UP, 1991.</p>
+            <p>Derrida, Jacques. “Freud and the Scene of Writing.” <hi rend="i">Writing and
+Difference.</hi> Trans. Alan Bass. Chicago: U of Chicago P, 1978.</p>
+            <p>Eliot, T. S. <hi rend="i">The Four Quartets. Collected Poems 1909-1962.</hi> London: Faber and
+Faber, 1963.</p>
+            <p>Falconer, Graham. “Genetic Criticism.” <hi rend="i">Comparative Literature</hi> 45 (1993):
+1-21.</p>
+            <p>Freud, Sigmund. <hi rend="i">The Standard Edition of the Complete Psychological Works.</hi>
+Trans. and ed. James Strachey, Anna Freud, Alix Strachey, and Alan Tyson. 24 vols. London: Hogarth, 1953-74.
+[<hi rend="i">SE</hi>].</p>
+            <p>Frye, Northrop. <hi rend="i">Fearful Symmetry.</hi> Princeton: Princeton UP, 1947.</p>
+            <p>Greene, Thomas. <hi rend="i">The Descent from Heaven.</hi> New Haven: Yale UP, 1963.</p>
+            <p>Harding, Davis P. <hi rend="i">The Club of Hercules: Studies in the Classical Background
+of</hi> Paradise Lost. Urbana: U of Illinois P, 1962.</p>
+            <p>Hölderlin, Friedrich. <hi rend="i">Sämtliche Werke: “Frankfurter Ausgabe.” Stuttgarter
+Foliobuch: Friedrich Hölderlin.</hi> Faksimile-Ed. Frankfurt: Verlag Roter Stern, 1975-.</p>
+            <p>Kermode, Frank. <hi rend="i">The Sense of An Ending: Studies in the Theory of Fiction.</hi> New
+York, Oxford UP, 1967.</p>
+            <p>Lincoln, Andrew. <hi rend="i">The Four Zoas:</hi> The Text of Pages 5, 6 &amp; 7, Night the
+First.” <hi rend="i">Blake</hi> 12 (1978): 91-95.</p>
+            <p>McGann, Jerome J. <hi rend="i">The Textual Condition.</hi> Princeton, Princeton P, 1991.</p>
+            <p>—. <hi rend="i">Towards a Literature of Knowledge.</hi> Chicago: U of Chicago P, 1989.</p>
+            <p>Mann, Paul. “The Final State of <hi rend="i">The Four Zoas.</hi>” <hi rend="i">Blake</hi>
+18 (1985) 204-15.</p>
+            <p>Mays, J. C. C. “Reflections on Having Edited Coleridge’s Poems.” <hi rend="i">Romantic
+Revisions.</hi> Ed. Robert Brinkley and Keith Hanley. Cambridge: Cambridge UP, 1992.</p>
+            <p>Melville, Herman. <hi rend="i">The Confidence-Man, His Masquerade.</hi> Evanston and Chicago:
+Northwestern UP and the Newberry Library, 1984.</p>
+            <p>Paley, Morton D. <hi rend="i">The Continuing City: William Blake’s</hi> Jerusalem. Oxford:
+Clarendon Press, 1983.</p>
+            <p>Ricoeur, Paul. <hi rend="i">Time and Narrative.</hi> Trans. Kathleen Blamey and David Pellauer.
+3 vols. Chicago: U of Chicago P, 1970.</p>
+            <p>Ruegg (F. William), Bill. “The Four Zoas Fetishized: An Experimental Hypertext.” Mar. 24,
+1999. &lt;http://www.unomaha.edu/~wwwengl/blakeweb/frlinks.html&gt;</p>
+            <p>Shelley, Percy Bysshe. <hi rend="i">The Bodleian Shelley Manuscripts: A Facsimile Edition, with
+Full Transcriptions and Scholarly Apparatus.</hi> Ed.-in-Chief Donald H. Reiman. New York: Garland, 1986-.</p>
+            <p>Smith, Martha Nell. “The Importance of a Hypermedia Archive of Dickinson’s Creative Work.
+<hi rend="i">The Emily Dickinson Journal</hi> 4 (1995): 75-85.</p>
+            <p>Stillinger, Jack. “The Multiple Versions of Coleridge’s Poems: How Many 
+<hi rend="i">Mariners</hi> Did Coleridge Write?” <hi rend="i">Studies in Romanticism</hi> 31 (1992): 127-46.</p>
+            <p>Tanselle, Thomas. <hi rend="i">A Rationale of Textual Criticism.</hi> Philadelphia: U of
+Pennsylvania P, 1989.</p>
+            <p>—. “Texts of Documents and Texts of Works.” <hi rend="i">Textual Criticism and Scholarly
+Editing.</hi> Charlottesville and London: UP of Virginia, 1990.</p>
+            <p>Terdiman, Richard. <hi rend="i">Present Past: Modernity and the Memory Crisis.</hi> Ithaca and
+London: Cornell UP, 1993.</p>
+            <p>Vogler, Thomas. “A Spirit, Yet a Woman Too!” <hi rend="i">Mothering the Mind.</hi> Ed. Ruth
+Perry and Martine Watson</p>
+            <p>Brownley. New York: Holmes and Meier, 1984, 238-59.</p>
+            <p>—. <hi rend="i">Preludes to Vision: The Epic Venture in Blake, Wordsworth, Keats and Hart
+Crane.</hi> Berkeley, Los Angeles, London: U of California P, 1971.</p>
+            <p>—. RE: Naming <hi rend="i">MIL/TON. Unnam’d Forms: Blake and Textuality.</hi> Ed. Nelson
+Hilton and Thomas A. Vogler. Berkeley, Los Angeles, London: U of California P, 1986, 141-76.</p>
+            <p>Wordsworth, William. <hi rend="i">Wordsworth: Poetical Works.</hi> Ed. Thomas Hutchinson. Rev.
+Ernest de Selincourt. Oxford: Oxford UP, 1936.</p>
+            <p>Youngquist, Paul. “Reading the Apocalypse: The Narrativity of Blake’s 
+<hi rend="i">Jerusalem.</hi>” <hi rend="i">Studies in Romanticism</hi> 32 (1993): 601-25.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

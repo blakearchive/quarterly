@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>33.1.hilton</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">www.english.uga.edu/wblake</title>
+        <author n="Hilton">Nelson Hilton</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1999</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">33.1</biblScope>
+            <biblScope unit="volume">33</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Claire Colebrook</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>David Perkins</name>
+              <name>Joe Riehl</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_33">
+    <body>
+      <div1 id="BQ-33-1-0006">
+		<pb id="p33-11" n="11"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">www.english.uga.edu/wblake</hi>
+            </title>
+          </head>
+          <byline>by <docAuthor>Nelson <name>Hilton</name></docAuthor></byline>
+          <p>The “Blake Digital Text Project” (http://www.english.uga.edu/wblake) originated in 1994 with
+the desire to create an electronic, online, interactive, enhanced version of the long out-of-print 1967 
+<hi rend="i">Concordance to the Writings of William Blake</hi>, edited by David V. Erdman. A simultaneously
+growing acquaintance with hypertext led to reconsideration of Blake’s best-known work in that light and
+prompted the “<hi rend="i">Songs</hi> Hypertext.” Both of these exercises, then, arise from possibilities
+opened by the manipulation of text in digital form, and so prompt the project’s rubric, which denominates an
+effort unrelated to any attempt at an “archive.”</p>
+          <p>The enabling circumstance for the concordance comes in a letter of 14 March 1995, which conveys
+the permission of the copyright holders David V. Erdman and Virginia Erdman to use freely David Erdman’s
+edition of <hi rend="i">The Complete Poetry and Prose of William Blake</hi> (1982, rev. 1988). Such generosity
+is characteristic of the vital political and intellectual commitment of a life devoted to making Blake more
+accessible and permits a fitting conclusion for a work which originated in Erdman’s preparation of a text
+for the 1967 <hi rend="i">Concordance</hi> (though the difficulty of that task resulted in Keynes’s edition
+being used).</p>
+          <p>The initial text file was created by unbinding a copy of the Erdman edition and scanning the text
+with <corr type="emend">optical-character</corr>
+          <corr type="emend" rend="plain">
+			  <figure n="blake-digital-text-project.033.01.bqscan" rend="file" width="400" height="461">
+				<figTranscr>Blake Digital Text Project - Netscape http://www.english.uga.edu/wblake/home1.html Continually
+Building, Continually Decaying Blake Digital Text Project Now available: eE on-line Blake Concordance eE: The
+Complete Poetry and Prose of William Blake, edited by David V. Erdman. Blake’s Songs of Innocence and of
+Experience, graphical hypertext Many graphics, separate images for each stanza, audio, annotations and
+bibliographies in progress. FRAME enabled browser required. Images have been edited for speedy transmission
+(single bit b+w), but whole plate images are about 20K. Songs index quick slide show site maintained and
+comments welcomed by Nelson Hilton@english.uga.edu (email; or homepage)</figTranscr>
+			  </figure>
+		  </corr>
+		  <pb id="p33-12" n="12"/>
+<figure n="blake-digital-text-project-portal.033.01.bqscan" rend="file" width="400" height="475">
+	<figTranscr>Portal to Blake Digital Text Project - Netscape into www.english.uga.edu</figTranscr>
+</figure>
+recognition software. The resulting file of just under 50,000 lines was as error prone as such output is wont
+to be and required several proofreadings to begin with. The file was then reorganized into a roughly
+chronological sequence so that any search output would follow in that order (also more or less the order of
+Erdman’s <hi rend="i">Concordance</hi>, if not his edition). As the file was to be processed using Perl,
+which in its simplest mode reads a file line by line, it was quickly evident that processing would be
+facilitated by each line’s having its own unique identifying information, so this was inserted in
+semi-automated fashion. In this file, then, one line appears like this:
+<q>
+J83.73; E242| Weaving the Web of life for Jerusalem. the Web of life
+</q></p>
+          <p>In order to effect a reduction of the text file size and, consequently, processing time of about
+20%, blank lines were then removed and replaced with “&lt;P&gt;” tags at the end of the line preceding the
+empty line.</p>
+          <p>The interesting case has recently been made that Unix is the operating system particularly
+congenial to literary folk and that the scripting language Perl is now one of its major attractions
+(Scoville); according to Larry Wall, its principal author, “Perl is above all a text processing language”
+(25). The heart of the initial Perl script employed to search the text file—the variable ($search) to search
+for having been assigned—looks as follows:
+<q>
+m/ (^ [^ \ |] +) \ | (.*) ($search) (.* (&lt;p&gt;$) ?)/
+</q>
+or, to summarize:
+<q>
+(—1—) (-2-) (—3—) (-4—(-5—))
+</q></p>
+          <p>This goes through each line of the text file and applies a template of regular expressions, and
+in every line in which it finds (or rather, “matches,” “m/”) an instance of $search (“$” is
+Perl’s way of indicating a scalar variable, here named “search”) is able to report that line broken into
+components of (1) the characters before the “|” (the line identifier-like “J83. 73; E242”); (2) the
+characters (if any) before the $search; (3) $search itself (the value assigned to the variable); (4) the
+characters (if any) after $search, and finally (5) the tag “&lt;P&gt;” if present just at the end of the
+line (the second “$”, not to be confused with the first, is Perl’s way in this location of denoting the
+end of a line). These components can then be arranged for printing in various ways—in creating HTML output,
+for instance, $search could be wrapped with emphasis or color tags, or the identifier could be displayed in a
+smaller font or indented on a following line.</p>
+          <p>The electronic concordance thus offers several improvements over the computer-generated printed
+concordance of over 30 years ago, an age when “big iron” COMMUNICATED IN TELETYPE. Erdman’s 
+<hi rend="i">Concordance</hi> prints only words, and not all of those, as it omits very high-frequency instances
+such as articles and pronouns. The electronic concordance distinguishes between upper and lower case letters
+and permits searches sensitive or insensitive to case—so it is possible to compare easily Blake’s more
+than 200 instances of “Eternity” with the 30-odd appearances of “eternity.” The computer is just as
+happy to search for single characters, like punctuation marks, or all instances of any character
+combination—“-ing,” for example—or combinations with “placeholders” (e.g., s.ng for “sing, sang,
+song, sung” [s.ng\. would capture only those instances where a period followed the “g”]).</p>
+          <p>Useful as such access may be, anyone familiar with more recent concordances will wish for the
+additional convenience of key-word-in-context (KWIC) format, not to mention the capability of Boolean
+searches. Processing the text file for KWIC output is more involved than merely identifying and printing lines
+which contain the search string. As the KWIC context can wrap from or around line breaks, these must be
+stripped from the file and the whole read into a single array. For processing the array, it has proved more
+feasible to separate the identifiers from the lines and associate them by identifying each with the
+appropriate unique line number. So, for instance, we in effect find in the array: “31000 Joy’d in the many
+weaving threads in bright Cathedrons Dome 31001 Weaving the Web of life for Jerusalem. the Web of life 31002
+Down flowing into Entuthons Vales glistens with soft affections.&lt;p&gt;” With this arrangement we can
+return a specified number of characters
+<pb id="p33-13" n="13"/>
+<figure n="blake-digital-text-project-concordance.033.01.bqscan" rend="file" width="500" height="493">
+	<figTranscr>Concordance to The Complete Poetry and Prose of William Blake—Dept of English, Univ of Georgia
+- Netscape http://virtual.park.uga.edu/Blake_Concordance/ Beta2 version for KWIC format—still a little buggy
+(15.iv.99), but a faster server! Word, phrase, letters: web &lt;==Search eE 1. grave dug for a child, with
+spiders webs wove, and with slime / Of anci FR40; E287 2. / The bird a nest, the spider a web, man friendship.
+/ The selfi MHH8; E36 3. epings all the day: To spin a web of age around him. grey and hoary! d VDA7.19; E5-
+4. w’d behind him / Like a spiders web, moist, cold, &amp; dim / Drawing o BU25.10; E82 5. ities in sorrow.
+/ 7. Till a Web dark &amp; cold, throughout all / T BU25.15; E82 6. rrows of Urizens soul / And the Web is a
+Female in embrio BU25.18; E82 7. t208&gt; / None could break the Web, no wings of fire. / 8. So t BU 25.19;
+E82 8. pe! / And each ran out from his Web; / From his ancient woven Den; SongLOS6.4; E68 9. / They cry O
+Spider spread thy web! Enlarge thy bones &amp; fill’d / W FZ1-15.3; E309 10. The Spider sits in his labourd
+Web, eager watching for the Fly / P FZ1-18.4; E310 11. d &amp; takes away the Spider / His Web is left all
+desolate, that his littl FZ1-18.6; E310 12. rkness &amp; whereever he traveld a dire Web / Followd behind him
+as the FZ6-73.31; E350 13. he / Follows behind him as the Web of a Spider dusky &amp; cold / Shiv FZ6-73.32;
+E350 14. wing from his Soul / And the Web of Urizen stre[t]ched direful shivrin FZ6-73.35; E350 15. Ran thro
+the abysses rending the web torment on torment / Thus Ur FZ6-74.8; E351 16. a mile / Retiring into his dire
+Web scattering fleecy snows / As he FZ6-75.26; E352 17. As he ascended howling loud the Web vibrated strong /
+From heaven t FZ6-75.27; E352 18. uadrons of Urthona. weaving the dire Web / In their progressions &amp; prepa
+FZ6-75.33; E352 FZ6-73.34; E350 A living Mantle adjoind to his life &amp; growing from his Soul FZ6-73.35;
+E350 And the Web of Urizen stre[t]chd direful shivring in clouds FZ6-73.36; E350 And uttering such woes such
+bursts such thunderings &lt;t751&gt;</figTranscr>
+</figure>
+or words on either side of $search (rather than having to stop at a line ending or beginning), mark line
+endings by replacing any five-digit number with a virgule (/), and identify the line by the number and its
+            <corr type="emend">occurrence</corr> before or after the search term in conjunction with a separate array which tells us in effect that
+“31000 J83.72 31001 J83.73 31002 J83.74”. It is the job of a 300 mH Sun Ultra working millions of
+operations per second to effect all these things almost instantly, and thanks to the “common gateway
+interface” (CGI) protocols, access and input to and output from the concordance scripts running on that
+server are available over the web.</p>
+          <p>It makes little difference for the computer whether the binary (“digital”) data which it
+processes are originally textual, graphic, aural, or video. What difference there is, more as issue today than
+in the foreseeable future, concerns time: large files can be processed less “almost instantaneously” than
+small ones, and in the digital realm a picture or sound (or their combination) “costs” considerably more
+bits than a word. The text of “The Lamb” in ASCII might run 800 bytes, while an 8-bit (256 colors) image
+of the plate might be 100 times that size and take correspondingly longer to process. Beginning with the axiom
+that Blake’s lettering is an important aspect of appreciation of his poetry, realizing that anything less
+than “almost instantaneous” is self-defeating in an electronic environment, and assuming that a simulacrum
+of shape and line are more important than color, the Project in 1995 began a digital “reading edition” of
+<hi rend="i">Songs of Innocence and of Experience.</hi> Photographs of an uncolored copy were digitized and
+reduced to a single-bit format (i.e., every pixel is either off or on—black or white) which could represent
+“The Lamb,” for instance, in an economical 14,000 bytes. As the full plate images are not exceedingly
+legible given the pixel size supported by existing monitor displays, enlargements of each stanza—usually
+less than 10,000 bytes in size—were also offered. These enlargements were occasionally edited pixel by pixel
+to enhance legibility (particularly with inked-over interior spaces in letters like e, d, A, etc.). The
+arrival of “frames” in HTML (Hyper Text Markup Language) saved the viewer from the “minesweeping”
+which would have
+<pb id="p33-14" n="14"/>
+<figure n="blake-digital-text-project-angel.033.01.bqscan" rend="file" width="500" height="494">
+	<figTranscr>The Angel - Netscape http://virtual.park.uga.edu/wblake/SONGS/41/41frall.html Greg Brown Finn
+Coren The Angel I Dreamt a Dream! what can it mean? And that I was a maiden Queen: Guarded by an Angel mild:
+Witless woe, was neer beguil’d! And I wept both night and day And he wip’d my tears away And I wept both
+day and night And hid from him my hearts delight So he took his wings and fled: Then the morn blush’d rosy
+red: I dried my tears &amp; armd my fears, With ten thousand shields and spears. Soon my Angel came again: I
+was arm’d, he came in vain: For the time of youth was fled And grey hairs were on my head THE Chimney
+Sweeper A The SICK ROSE CILMV NURSES Song DJ The Little Vagabond E A POISON TREE FQ LONDON K [three flowers] N
+HOLY THURSDAY (SE) O The GARDEN of LOVE P The Tyger RT@ INFANT SORROW S index</figTranscr>
+</figure>
+been required by the initial plan to offer annotations as invisible “hot-areas” on image-maps of the
+stanza enlargements—now the stanza sits in its own frame while another frame lists the available annotations
+which in turn are displayed in a third frame. HTML also opened the possibility of presenting 
+<hi rend="i">Songs</hi> as hypertext.</p>
+          <p>“By ‘hypertext,’” writes Ted Nelson, who invented the term over 30 years ago, “I mean
+nonsequential writing—text that branches and allows choice to the reader, best read at an interactive
+screen. As popularly conceived, this is a series of text chunks connected by links which offer the reader
+different pathways” (in Landow 3). Stuart Moulthrop must speak for many, however, in commenting that he’s
+“never really understood what Nelson meant when he called hypertext ‘non-sequential writing’” and then
+suggesting that “polysequential is a better way to describe hypertext” (Moulthrop). But whether one agrees
+with either of these definitions, or prefers instead to think of “text that is experienced as nonlinear, or,
+more properly, as multilinear or multisequential” (Landow 4), there seems little dispute that hypertext is
+“best read at an interactive screen.” From which it follows that such a reading best suits Blake’s 
+<hi rend="i">Songs of Innocence and of Experience</hi>, given a re-cognition of that work as hypertext.</p>
+          <p>Certain it is—excepting those select readers very deep into <hi rend="i">Songs</hi>—that few
+have ever read <hi rend="i">Songs of Innocence</hi> in any linear sequence published by Blake. It could hardly
+be otherwise given that the editions and facsimiles by Keynes, Erdman, Bentley, and Lincoln treat 
+<hi rend="i">Songs of Innocence</hi> (1789-1827) in terms of <hi rend="i">Songs of Innocence and of
+Experience</hi> (1794-1827), and treat that work itself in terms of its last seven instantiations. So the
+order of a work published some 50 times is determined by some 15% of its total. Even with regard to the entire
+<hi rend="i">Songs</hi> we find Blake in 1818 or later, some quarter-century after the first joint
+publication, specifying “[t]he Order in which Songs of Innocence &amp; of Experience ought to be paged &amp;
+placed” (E 772) as a sequence distinct from the received order. In fact, none of Blake’s separate editions
+of <hi rend="i">Songs of Innocence</hi> correspond with the usual sequence.</p>
+          <p>The different sequences of poems with their distinct juxtapositions can create very different
+readings. Before the advent of hypertext, appreciation of this intrinsic aspect of
+<pb id="p33-15" n="15"/>
+<figure n="blake-digital-text-project-london-stanza-three.033.01.bqscan" rend="file" width="500" height="432">
+	<figTranscr>London Stanza Three - Netscape http://virtual.park.uga.edu/wblake/SONGS/46/46st3framed.html 3rd
+stanza annotations What did Tom have to say about this stanza? The sighing soldiers The soldiers and the
+chimney-sweepers The Oppressed in general Appall HEAR, hear text typographically out to whole plate Stanza 1 2
+3 4 Detail 1 2 How the Chimney-sweepers cry Every blaknng Church appalls. And the hapless Soldiers sigh Runs
+in blood down Palace walls ‘He that hath ears to hear, let him hear.’ Mark 4:9 ‘If any man hath ears to
+hear, let him hear.’ Mark 4:23 ‘If any man hath ears to hear, let him hear.’ Mark 7:16 ‘He that hath
+ears to hear, let him hear.’ Luke 8:8 ‘He that hath ears to hear, let him hear.’ Luke 14:35 Mark mark
+mark mark hear H E A R</figTranscr>
+</figure><hi rend="i">Songs</hi> was hampered by the usual decision to follow the particular order mentioned
+above. To be sure, in <hi rend="i">The Illuminated Blake</hi> David Erdman offers <hi rend="i">en
+appendice</hi> the various orderings, referring to them by “number” of the normative pattern, and the
+information is accessible via G. E. Bentley, Jr.’s <hi rend="i">Blake Books</hi>, but these necessarily
+cryptic entries are too time-consuming for most readers to decode and apply.</p>
+          <p>The <hi rend="i">Songs</hi> hypertext obviates this difficulty by making the various
+sequence-links from a particular poem readily visible and instantly accessible. Arrows in the upper corners of
+the frames on either side of a particular poem toggle a list of links to the poems which precede or follow
+according to their respective copies. Clicking on the arrow [&gt;] in the upper right corner of “The Lamb”
+(www.english.uga.edu/wblake/SONGS/8) opens a list of all the different poems which follow on this in different
+copies. Copies of <hi rend="i">Songs of Innocence</hi> are identified using the lowercase letters a through
+<hi rend="b">u</hi>, copies of <hi rend="i">Songs of Innocence and of Experience</hi> are referenced in
+UPPERCASE A through AA, with the exception of the late, similarly sequenced copies (T<hi
+rend="s">2</hi>UWXYZAA) which are identified collectively as @. The specific information regarding these
+various copies to be found in G. E. Bentley, Jr.’s <hi rend="i">Blake Books</hi> and <hi rend="i">Blake
+Books Supplement</hi> is now, with the generous permission of Professor Bentley and Oxford University Press,
+to be incorporated into the hypertext.</p>
+          <p>In the case of “The Lamb,” one can see that while it is in fact followed most often by “The
+Little Black Boy” (in the conventionally accepted order), there are 15 other possibilities as well. In fact,
+in <hi rend="i">Songs of Innocence</hi>, it is followed more often by “The Blossom.” Clicking on the upper
+left arrow [&lt;] to see the list of poems which precede “The Lamb” in various copies, we can note that
+“The Lamb” and “The Blossom” are joined together in nearly two-thirds of the copies of 
+<hi rend="i">Songs of Innocence.</hi> One can then follow any of the respective links to that title, jumping from
+one copy’s sequence to another’s.</p>
+          <p>These considerations are not entirely pedantic. The “Introduction” to 
+<hi rend="i">Innocence</hi> lays out a concern with individual and cultural progression from unarticulated sound
+to words to writing which builds on the “scene of instruction” depicted on the preceding title page. The
+poem which most
+<pb id="p33-16" n="16"/>
+often follows the “Introduction,” “The Shepherd,” might also be thought of as part of the front matter
+or introductory sequence once it is seen to work as a new Milton’s <hi rend="i">Lycidas</hi>-like veiled
+condemnation (following “To the Muses” by less than six years) of the “lean and flashy songs” of the
+1780s—the saccherine “sweet lot” which delight the sheep herd of the public and their “straying”
+attendant but which the inspired guide dismisses with “How sweet”!</p>
+          <p>The argument, then, that <hi rend="i">Songs</hi> should be appreciated as depicting a series of
+stages or vignettes in the coming-to-consciousness of language/the symbolic order/art (etc.) (see
+www.english.uga.edu/wblake/SONGS/begin) becomes more credible with the realization that “Infant Joy,” a
+logical starting place for such considerations after the introductory plates, does in fact occupy that slot
+(fifth in <hi rend="i">SI</hi>, sixth in <hi rend="i">SIE</hi>) as often (11 times) as it does its usual
+position, third from the end of <hi rend="i">Innocence</hi> as plate 25. The point is not to argue that one
+sequence is better than another-but as a pedagogical tool an idealized progression might be useful.</p>
+          <p>The digital medium of the hypertext also makes possible the incorporation of audio into our
+experience of <hi rend="i">Songs</hi>, a capability appropriate for the work of an artist who composed his own
+melodies and whose work has frequently been set to music. From a pedagogical point of view, the musical
+interpretations are valuable for the ease with which they make obvious almost instantly the reality of
+different yet convincing interpretations. The musical interpretations also illustrate dramatically that
+reading itself is as much a matter of effective performance as the determination of some final truth. The
+presence of audio for a given poem is signaled by the image of the piper in the upper right; clicking here
+opens a list of versions available as streaming audio which can play while other links for that text are
+explored. The small “i-icons” open information concerning the source of the material (much of which has
+generously been made freely available by the artists Greg Brown, Finn Coran, and Gregory Forbes). The growing
+collection of audio interpretations seems promising both for use in comparisons to open the way to
+interpretation of a poem and as a prompt to new individual or group engagement with the text.</p>
+          <p>The principal use of the “Blake Digital Text Project” in my own classes thus far has been the
+creation and development of the <hi rend="i">Songs</hi> hypertext. Over the past three years, students in
+three small graduate classes have focused some of their energies on the preparation of bibliographies and
+annotations. This specialized use can now be expanded by providing a means to accept additional annotations
+from any scholar or class who may have something to add—moving finally, perhaps, toward a sort of commentary
+variorum. Contributions are identified by the creator’s initials which are in turn appropriately linked to
+the master list of names and contacts for all who have worked on the project.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>George P. Landow. <hi rend="i">Hypertext 2.0: The Convergence of Contemporary Critical Theory
+and Technology.</hi> Baltimore: Johns Hopkins, University Press, 1997.</p>
+            <p>Stuart Moulthrop. “The Shadow of an Informand.”
+http://raven.ubalt.edu/staff/moulthrop/hypertexts/hoptext/Non_Sequitur96299. html</p>
+            <p>Thomas Scoville. “The Elements of Style, UNIX as Literature.”
+http://ww.performancecomputing.com/features/9809of1.shtml</p>
+            <p>Larry Wall, Tom Christiansen, and Randal L. Schwartz. <hi rend="i">Programming Perl.</hi> 2nd
+              ed. <corr type="emend">Sebastopol</corr>: O’Reilly, 1996.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

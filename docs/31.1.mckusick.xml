@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.mckusick</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">George Coates, 20/20 Blake</title>
+        <author n="McKusick">James McKusick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+	<pb id="p31-38" n="38"/>
+      <div1 id="BQ-31-1-0006">
+        <div2>
+          <figure n="20-20-Blake.31.1.bqscan" rend="file" width="221" height="337"/>
+          <head>
+            <title type="main"><hi rend="i">20/20 Blake.</hi> Written and Directed by George Coates. North
+American Premiere: Civic Center Theater, San Francisco, 17 January 1997. World Premiere: Teatro Sérgio
+Cardoso, Sao Paulo, Brazil, 4 September 1996.</title>
+          </head>
+          <byline>Reviewed by <docAuthor>James <name>McKusick</name></docAuthor></byline>
+          <p><hi rend="i">20/20 Blake</hi>, a dramatic and musical performance based on the life and work of
+William Blake, recently concluded a production at the Civic Center Theater in San Francisco. Perhaps the most
+innovative feature of this lush scenic production, written and directed by George Coates, is its digital
+manipulation of Blake’s paintings and engravings to create the illusion of three dimensions when viewed by
+the audience through special 3-D glasses. Familiar images from Blake’s illuminated books are magnified to
+enormous size and projected onto the stage, thus enabling the performers to walk into, through, and behind the
+engravings. This technique, initially somewhat disorienting to the observer, is nevertheless effective in
+drawing the audience
+<pb id="p31-39" n="39"/>
+into and across the uncertain boundaries between Blake’s lived and imagined worlds.</p>
+          <p><hi rend="i">20/20 Blake</hi> does not attempt a linear narrative of Blake’s life story, but
+rather presents a series of climactic moments that are vividly realized in choral music performed by the San
+Francisco Chamber Singers and represented in dance and pantomimic gesture by the actors. The music is
+challenging and eclectic, weaving together traditional plainsong and orchestral music with elegantly
+embroidered lyrics from Blake’s poetry, and even at times incorporating a fourpiece rock-and-roll band with
+Urizen playing the bass guitar. There is very little spoken dialogue, although Robert G. Kennedy gives a
+fierce and compelling portrayal of William Blake as a strenuously embattled poet-artist at odds with the
+universe; he rattles off Proverbs of Hell and related apothegms in a pithy counterpoint to the lush visual and
+musical texture of each set-piece. The other characters portrayed on stage are his wife Catherine (who doubles
+as Enitharmon), Mr. Wedgwood (appearing mainly as a villainous enforcer of bourgeois artistic standards),
+Thel, and Los. The latter two characters provide a lavishly choreographed rendition of their eponymous books,
+allowing an escapist and frankly erotic fantasy to emerge briefly before it is beaten back into submission by
+the nay-saying likes of Wedgwood and Urizen.</p>
+          <p>This production is unlikely to appeal to those Blake scholars who insist on a faithful adherence
+to Blake’s subtlety of design and meaning, since the ethos of his life and work is painted here with rather
+broad strokes. But this production is both innovative and appealing in its own right, and it does comprise a
+sustained effort to represent the passionate intensity of Blake’s poetry in a dynamic contemporary medium.
+It certainly reaches out to new audiences who might otherwise never encounter the rich imagery of Blake’s
+illuminated books.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

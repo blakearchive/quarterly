@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.fitzwilliam</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Fitzwilliam Withdraws Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+	<pb id="p11-129" n="129"/>
+      <div1 id="BQ-11-2-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">FITZWILLIAM WITHDRAWS BLAKE</hi>
+            </title>
+          </head>
+          <p>P. Woudhuysen, Keeper, Department of Manuscripts &amp; Printed Books at the Fitzwilliam Museum,
+Cambridge, has written an appeal to <hi rend="i">Blake</hi> readers as follows:
+<figure n="Fitzwilliam.11.2.bqscan" rend="file" width="432" height="90">
+	<figTranscr>THE FITZWILLIAM<lb/>
+	MUSEUM<lb/>
+	CAMBRIDGE CB2 1RB ENGLAND</figTranscr>
+</figure>
+<q>
+I wonder whether I might address, through your Blake Quarterly, an appeal for financial help to all Blake
+scholars who may, or who may not as yet, have studied and enjoyed the large and important Blake collection in
+my Department in the Museum.<lb/>
+<lb/>
+All of our original Blake material, and many of the early facsimiles like Muir’s, are now, after many years
+of constant use, in an extremely fragile and sorry condition. The bindings are very worn, the gatherings are
+loose, the paper torn, dirty, and extremely acid. They are all in urgent need of repair and conservation.<lb/>
+<lb/>
+At present, however reluctant a decision this was to make, all the originals have been withdrawn from use and
+will remain so until we can find the funds to have them repaired.
+<pb id="p11-130" n="130"/>
+                            The estimated cost for rebinding, paper repair, deacidification, etc., is ca.
+£1500 ($2500), which is totally beyond the Museum’s means and resources in the present difficult financial
+climate.<lb/>
+<lb/>
+I should be grateful if you would consider publishing this letter . . . about our problem . . . in the hope
+that the combined generosity of all Blake scholars and lovers of his work will enable us to have our
+collection restored to its former glory, and once again available to scholars and the general public.
+</q>
+The address of the Fitzwilliam Museum is Cambridge CB2 1RB England.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

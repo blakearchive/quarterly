@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <idno>About</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="context">About this Digital Edition</title>
+      </titleStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">About</biblScope>
+            <respStmt>
+              <principal>
+				<resp>Editors:</resp>
+				<name><persName>Morris Eaves</persName>, <orgName>University of Rochester</orgName></name>
+                <name><persName>Robert Essick</persName>, <orgName>University of California, Riverside</orgName></name>
+                <name><persName>Joseph Viscomi</persName>, <orgName>University of North Carolina at Chapel Hill</orgName></name>
+              </principal>
+              <resp>Project Manager</resp>
+              <name>Joe Fletcher</name>
+              <resp>Technical Editor</resp>
+              <name>Michael Fox</name>
+              <resp>Previous Project Manager and Technical Editor</resp>
+              <name>William Shaw</name>
+              <resp>Project Director</resp>
+              <name>Adam McCune</name>
+              <resp>Project Coordinator, UNC:</resp>
+              <name>Natasha Smith, Carolina Digital Library and Archives</name>
+              <resp>Project Coordinator, University of Rochester:</resp>
+              <name>Sarah Jones</name>
+              <resp>Scanning: </resp>
+              <name>UNC Digital Production Center</name>
+              <resp>XML Encoding:</resp>
+              <name>Apex CoVantage</name>
+              <resp>Additional Transcription:</resp>
+              <name>Adam McCune</name>
+              <name>Jennifer Park</name>
+              <resp>Emendations:</resp>
+              <name>Rachael Isom</name>
+              <name>Mary Learner</name>
+              <name>Adam McCune</name>
+              <name>Ashley Reed</name>
+              <name>Jennifer Park</name>
+              <name>Scott Robinson</name>
+              <resp>XSLT Development:</resp>
+              <name>Adam McCune</name>
+              <name>Joseph Ryan</name>
+              <name>William Shaw</name>
+              <resp>PHP and Solr Development:</resp>
+              <name>Michael Fox</name>
+              <name>Adam McCune</name>
+              <resp>Project Assistants: </resp>
+              <name>Lauren Cameron, </name>
+              <name>Rachael Isom, </name>
+              <name>Mary Learner, </name>
+              <name>Jennifer Park, </name>
+              <name>Ashley Reed, </name>
+              <name>Adair Rispoli, </name>
+              <name>Scott Robinson</name>
+              <sponsor>The University of North Carolina at Chapel Hill
+                        and the University of Rochester</sponsor>
+              <funder>Blake/An Illustrated Quarterly</funder>
+              <funder>William Blake Archive</funder>
+              <funder>Carolina Digital Library and Archives</funder>
+            </respStmt>
+          </titleStmt>
+        </biblFull>
+      </sourceDesc>
+      <editionstmt>Blake Quarterly Description DTD Version 2013</editionstmt>
+      <publicationStmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+                <date>Fall 2013</date></publicationStmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <notesstmt/>
+    </fileDesc>
+    <userestrict>Copyright © <date>2015</date> Blake/An Illustrated Quarterly, all rights reserved.  Items in this digital edition may be
+            shared in accordance with the Fair Use provisions of U.S. copyright law.
+            Redistribution or republication on other terms, in any medium, requires
+            express written consent from the editors and advance notification of the
+            publisher.
+            Permission to reproduce the graphic images in this digital edition rests with the owning institutions.
+        </userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+  </teiHeader>
+  <text>
+    <p>This digital edition of <hi rend="i">Blake/An Illustrated Quarterly</hi> includes 
+searchable online issues of more than 40 years of <hi rend="i">BIQ</hi>’s back catalog as 
+well as downloadable PDFs of each issue. These digital issues are offered free of charge 
+as a service to students and scholars of Blake and his contemporaries. Digital editions 
+are provided for all issues with the exception of the most recent five volumes. Scholars 
+seeking access to current and very recent issues of the <hi rend="i">Quarterly</hi> should 
+<ref type="ext" target="http://blake.lib.rochester.edu/blakeojs/index.php/blake">purchase 
+a subscription at this site</ref>.</p>
+  </text>
+</TEI.2>

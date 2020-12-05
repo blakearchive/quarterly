@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1991</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.2</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Christopher Heppner</name>
+              <name>Walter S. Minot</name>
+              <name>Morton D. Paley</name>
+              <name>Dennis M. Read</name>
+              <name>Donald H. Reiman</name>
+              <name>Karen Shabetai</name>
+              <name>David Simpson</name>
+              <name>Michael J. Tolley</name>
+              <name>Jules Van Lieshout</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <front>
+      <pb id="p25-61-62" n="61-62"/>
+      <div1 id="cover">
+        <figure n="cover.025.02.bqscan" rend="file" width="258" height="337">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 25<lb/>
+            NUMBER 2<lb/>
+            FALL 1991</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-25-2-0001">
+        <table id="contents" rows="17" cols="2">
+          <row>
+          	<cell>
+       		  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">ARTICLE</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.heppner">The Good (In Spite of What You May Have Heard)
+Samaritan</ref><lb/>
+Christopher Heppner</cell>
+            <cell>64</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.essick">William Blake and John Marsh</ref><lb/>
+Robert N. Essick</cell>
+            <cell>70</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.paley">Blake and Thomas Burnet’s <hi rend="i">Sacred
+Theory of the Earth</hi></ref><lb/>
+Morton D. Paley</cell>
+            <cell>75</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.minot">Blake’s “Infant Joy”: An Explanation of
+Age</ref><lb/>
+Walter S. Minot</cell>
+            <cell>78</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.read">Helmut von Erffa and Allen Staley, <hi rend="i">The
+Paintings of Benjamin West</hi></ref>, reviewed by Dennis M. Read</cell>
+            <cell>79</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.erdman"><hi rend="i">William Blake and His Circle</hi>; G.
+E. Bentley, Jr., <hi rend="i">Blake Records Supplement</hi>; David Wells, <hi rend="i">A Study of William
+Blake’s Letters</hi></ref>, reviewed by David V. Erdman</cell>
+            <cell>81</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.behrendt">Vincent Carretta, <hi rend="i">George III and the
+Satirists from Hogarth to Byron</hi></ref>, reviewed by Stephen C. Behrendt</cell>
+            <cell>82</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.reiman">Warren Stevenson, <hi rend="i">Poetic Friends: A
+Study of Literary Relations During the English Romantic Period</hi></ref>, reviewed by Donald H. Reiman</cell>
+            <cell>87</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.tolley">K. D. Sethna, <hi rend="i">Blake’s Tyger: A
+Christological Interpretation</hi></ref>, reviewed by Michael J. Tolley</cell>
+            <cell>88</cell>
+          </row>
+          <row>
+            <cell><hi rend="i">Bethlehem Hospital: William Blake in
+Hell</hi>, reviewed by<lb/>
+<ref type="article" issue="25.2.vanderwaa">Frits van der Waa</ref> and <lb/>
+<ref type="article" issue="25.2.oskamp">Jacqueline Oskamp</ref>, trans. by Jules van Lieshout</cell>
+            <cell>90</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.shabetai">David Erdman, ed., <hi rend="i">Blake and His
+Bibles</hi></ref>, reviewed by Karen Shabetai</cell>
+            <cell>92</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.butlin">Martin Butlin and Ted Gott, <hi rend="i">William
+Blake in the Collection of the National Gallery of Victoria</hi></ref>, reviewed by Robert N. Essick</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.2.simpson">G. A. Rosso and Daniel P. Watkins, eds., 
+<hi rend="i">Spirits of Fire: English Romantic Writers and Contemporary Historical Methods</hi></ref>, reviewed by
+David Simpson</cell>
+            <cell>97</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-25-2-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">STEPHEN C. BEHRENDT</hi>, Professor of English at the University of Nebraska, has two
+books forthcoming in spring 1992: <hi rend="i">Reading William Blake</hi> (MacMillan, St. Martin’s Press)
+and a volume of poetry, <hi rend="i">Instruments of the Bones</hi> (MidList Press).</p>
+        <p><hi rend="b">DAVID V. ERDMAN</hi> is the editor of the <hi rend="i">Annual Romantic Movement
+Bibliography</hi> and <hi rend="i">Blake and His Bibles.</hi> With the assistance of David Worrall, he edited
+<hi rend="i">Childe Harold’s Pilgrimage: A Critical, Composite Edition</hi> (Garland, 1991).</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi> is Professor of English at the University of California,
+Riverside.</p>
+        <p><hi rend="b">CHRISTOPHER HEPPNER</hi> is writing a book on Blake’s art.</p>
+        <p><hi rend="b">WALTER S. MINOT</hi>, Director of Writing across the Curriculum at Gannon University,
+works in both rhetoric and literature. His current research is on puns in romantic poetry.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi>’s latest book is an annotated edition of copy E of 
+<hi rend="i">Jerusalem</hi>, published for the William Blake Trust by the Tate Gallery. He is currently working on
+the subject of apocalypse and millennium in English romantic poetry.</p>
+        <p>Cover: Anonymous, engraving for Thomas Burnet, <hi rend="i">The [Sacred] Theory of the Earth.</hi>
+Courtesy of the Royal Library, Stockholm. <note type="unreferenced" place="footer">© 1991 Copyright Morris
+Eaves and Morton D. Paley</note></p>
+        <pb id="p25-63" n="63"/>
+        <p><hi rend="b">DENNIS M. READ</hi> is Associate Professor of English and Director of the Learning
+Resources Center at Denison University. He is the biographer of Blake’s antagonist, R. H. Cromek.</p>
+        <p><hi rend="b">DONALD H. REIMAN</hi> works at the Pforzheimer Collection, the New York Public
+Library, editing <hi rend="i">Shelley and his Circle</hi> (Harvard). He is also General Editor of 
+<hi rend="i">The Bodleian Shelley Manuscripts</hi> and <hi rend="i">The Manuscripts of the Younger Romantics</hi>
+(Garland); some 30 volumes in these two series have appeared since 1985, of which Reiman’s sixth volume is
+<hi rend="i">The Harvard Shelley Poetic Manuscripts</hi> (1991).</p>
+        <p><hi rend="b">KAREN SHABETAI</hi> teaches English at the University of Washington and is at work on
+a book on ethics and the exemplar in romanticism.</p>
+        <p><hi rend="b">DAVID SIMPSON</hi> is Professor of English at the University of Colorado, Boulder. The
+author of various books and essays, he has just completed a manuscript titled <hi rend="i">Romanticism,
+Nationalism and the Revolt Against Theory.</hi></p>
+        <p><hi rend="b">MICHAEL J. TOLLEY</hi> has been pushing his own barrow on “The Tyger” since the
+second issue of the <hi rend="i">Blake Newsletter</hi>(1967). He has made a particular study of Blake’s use
+of the Bible.</p>
+        <p><hi rend="b">JULES VAN LIESHOUT</hi> (University of Iowa) is finishing a dissertation on Blake’s
+Eternity in the light of dialogism and chaos theory.</p>
+      </div1>
+      <div1 id="BQ-25-2-0003">
+        <head>
+          <title>
+            <hi rend="i">EDITORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627.</p>
+        <p><hi rend="b">Telephone:</hi> 716/275-3820.<lb/>
+<hi rend="b">Fax:</hi> 716/442-5769.</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.</p>
+        <p>Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX,
+England.</p>
+      </div1>
+      <div1 id="BQ-25-2-0004">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $40 for institutions, $20 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $6 per volume postal surcharge for surface mail, a $15 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Only one copy will be returned to authors.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0160-628x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">The Romantic Movement: A Selective and Critical Bibliography</hi> (ed. David V.
+Erdman et al.), American Humanities Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

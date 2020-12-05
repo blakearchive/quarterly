@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.2.wip</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Work in Progress and a Query</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.2</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Mary Baine</name>
+              <name>Rodney Baine</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas Minnick</name>
+              <name>Judith Ott</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <pb id="p10-44" n="44"/>
+      <div1 id="BQ-10-2-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Work in Progress and a Query</hi>
+            </title>
+          </head>
+          <p>Stephen Cobb: a dissertation at Sussex University on “The Role of the Genesis Ms. in Blake’s
+Last Works”—an indication of the importance we may attach to the didactic works within Blake’s overall
+artistic and intellectual development. Cobb has the following query for our readers:
+<q>I am looking for any published discussions, reproductions, or descriptions of the thirteen-page
+transcription of Genesis begun by Blake in manuscript with rough drawings and some coloring. I am writing a
+dissertation at Sussex on “The Role of the Genesis Ms. in Blake’s Last Works,” examining the imagery of the
+Genesis Ms. in order to shed light on the final years of Blake’s work, his final interests and statements.
+There is some evidence to suggest continuity between his first simple didactic statements in illuminated form
+and the last works, <hi rend="i">The Everlasting Gospel, The Ghost of Abel</hi>, the Laocoön engraving, and
+of course the Genesis Ms.<lb/>
+<lb/>
+Stephen Cobb<lb/>
+Norwich House<lb/>
+Sussex University<lb/>
+Falmer, Brighton BN1 9QS<lb/>
+England
+</q></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

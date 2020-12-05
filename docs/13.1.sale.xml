@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.1.sale</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Sale</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.1</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Cindy Lewiecki</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Susan Fox</name>
+              <name>Thomas R. Frosch</name>
+              <name>Robert F. Gleckner</name>
+              <name>Thomas V. Lange</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Morton D. Paley</name>
+              <name>Warren H. Stevenson</name>
+              <name>Robert H. Tener</name>
+              <name>Raymond E. Thompson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <div1 id="BQ-13-1-0012">
+        <pb id="p13-57" n="57"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE SALE</hi>
+            </title>
+          </head>
+          <p>On 14 June 1979 John F. Fleming Inc. paid $140,000. —a record price for any work of English
+literature, according to the auctioneers—for Arthur Houghton, Jr. ’s copy of the <hi rend="i">Songs of
+Innocence and of Experience.</hi> “Just fantastic,” said Christie’s spokesman of the unexpectedly high
+prices being paid for items in the Houghton collection.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

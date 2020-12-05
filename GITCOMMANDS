@@ -1,0 +1,8 @@
+git clone git@gitlab.lib.unc.edu:blake/blake-quarterly.git . 
+
+git pull git@gitlab.lib.unc.edu:blake/blake-quarterly.git master
+
+
+git add .
+git commit -m 'testing .gitignore'
+git push -u origin master

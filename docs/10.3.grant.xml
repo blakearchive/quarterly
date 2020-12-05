@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.grant</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="note">A Possible Source for a Blake Sketch and Drawing</title>
+        <author n="Grant">Philip B. Grant</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-3-0004">
+        <pb id="p10-85" n="85"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">A Possible Source for a Blake Sketch and Drawing</hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor>
+              <hi rend="b">Philip B.</hi>
+              <name>
+                <hi rend="b">Grant</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <figure n="BUT88.1.1v.PD" rend="file" width="806" height="1000">
+            <head>1 Blake, “Female figure with head of a horse”</head>
+          </figure>
+          <p>In “Some Blake Puzzles—Old and New” (<hi rend="i">Blake Studies</hi>, 3 [Spring 1971], pp.
+107-28), Michael J. Tolley told how his efforts resulted in the finding of some hidden Blake sketches in the
+British Museum. Among them was a pencil sketch of a nude figure with a dog-like head catalogued in the British
+Museum as 1874-12-12-119 verso. (See illus. 2, which is a reworking of the sketch for a cover of 
+<hi rend="i">Blake Studies.</hi>) In the article Tolley terms the sketch “singularly unpurposive” and states that
+“this figure may be confidently identified as Anubis, in view of its probable relation to the Fuseli design
+engraved by
+<figure n="BUT87.1.1v.PD" rend="file" width="762" height="1000">
+	<head>2 Blake, “Anubis”</head>
+</figure>
+Blake for Darwin’s <hi rend="i">Botanic Garden</hi><supplied type="emend">”</supplied> (pp. 107-08). (See
+illus. 4.) Tolley then goes on to attempt to fix the date of the sketch based on his identification of the
+figure as Anubis.</p>
+          <p>In a follow-up article in the same issue of <hi rend="i">Blake Studies</hi>, “Addenda and Some
+Solutions to Tolley’s Blake Puzzles” (pp. 129-35), John E. Grant called attention to a pencil drawing,
+“Female Figure with the Head of a Horse,” in Harvard’s Fogg Art Museum (Acc. No. 1967.45 verso, size 4
+13/16″ × 3 13/16″). (See illus. 1) He tentatively suggested that it
+<pb id="p10-86" n="86"/>
+might be related to the “Anubis” sketch that Tolley had caused to be uncovered at the British Museum.</p>
+          <p>I would like to suggest that the two sketches may indeed be related, not in that they might
+belong to “the conjectured series of animal-headed figures” to which John Grant refers, but rather that both
+may have a common source, plate XIII of Jacob Bryant’s <hi rend="i">A New System, or, an Analysis of Ancient
+Mythology</hi>, 3 vols. (London, 1774-76).</p>
+          <p>Plate XIII (illus. 3) depicts four figures: Juno, Hermes, Hippa Triceps, and Hippa Phigalensium.
+What I would like to suggest is that the Hermes of this plate may be the source for the sketch of the
+dog-headed figure whom Tolley has identified as Anubis. Comparing both Blake’s engraving for the 
+<hi rend="i">Botanic Garden</hi> and the engraving of Hermes for Bryant’s <hi rend="i">A New System</hi> with
+Blake’s sketch of the figure with a dog’s head, we see that perhaps the most important consideration is
+the fact that the engraving of Anubis for Darwin’s <hi rend="i">Botanic Garden</hi> shows only the back of
+the head, while the engraving of Hermes for <hi rend="i">A New System</hi> is a facial profile just as in the
+British Museum sketch. (Granted, in the Hermes engraving the head is a right profile and in the British Museum
+sketch it is a left one; nonetheless,
+<figure n="NewSystem.10.3.bqscan" rend="file" width="500" height="651">
+	<head>3 Plate XIII, Bryant’s <hi rend="i">New System</hi></head>
+</figure>
+the dog-like tapered snout and overall shape of the head in both profiles are remarkably similar.)</p>
+          <p>Directly <corr type="emend">beneath</corr> the Hermes on plate XIII is a female with a horse’s
+head, Hippa Phigalensium, the Horse of Poseidon, whom Bryant identifies as having sprung from Neptune after a
+dispute with Minerva. This engraved figure, Hippa Phigalensium, may have been the source for Blake’s pencil
+drawing now in the Fogg Art Museum, “Female Figure with a Horse’s Head” (illus. 1).</p>
+          <p>As with all of his sources, both verbal and pictorial, Blake transformed his material. If
+Blake’s pencil sketch of the nude man with a dog’s head is meant to be Hermes, then Blake’s sketch
+becomes a singularly wry version of a fertility god whose symbol was often a phallus. In Blake’s sketch of
+Hermes, the lines of the body and the figure’s posture convey lassitude and perhaps even immobility; the
+figure appears exhausted with its dangling arm and resting feet. Its potential as a fertilizer of the land has
+been spent long ago. If this figure is Hermes (as appears likely), it is a fertility god metamorphosed by
+Blake’s graphic irony.</p>
+          <pb id="p10-87" n="87"/>
+          <p>Blake may have intended a similar critique of Hippa Phigalensium in his pencil drawing, “Female
+Figure with a Horse’s Head.” In the engraving for <hi rend="i">A New System</hi>, Hippa holds a dove, a
+symbol of peace, and a dolphin, a symbol of hope; yet Blake would have associated peace and hope with the
+Elect, not the truly regenerated. In Blake’s pencil drawing, the horse has been sensualized by the use of
+line in general and the emphasis on the breast and buttocks. The figure’s expression seems to be one of
+agitated fear; certainly it is in some kind of excited state. Blake’s presentation of Hippa in his pencil
+drawing is a far cry from the stoical-looking figure portrayed in plate XIII of <hi rend="i">A New
+System</hi>, whose solidity is emphasized by the stone portal which forms its background in the engraving. In
+drawing Hippa as he did in “Female Figure with a Horse’s Head,” Blake executes an ironic deflation similar
+to the one he subjected Hermes to in his pencil sketch of him now in the British Museum (illus. 2). In both
+this sketch and in the drawing of Hippa, Blake has created wry yet pointed criticism aimed at these pagan
+deities, and, by implication, at the classical culture from which they sprang.</p>
+          <p>It is possible that Blake could have engraved part of plate XIII, since he was apprenticed to
+<figure n="FuseliEgypt.10.3.bqscan" rend="file" width="500" height="628">
+	<head>4 “Fertilization of Egypt,” Blake after Fuseli</head>
+</figure>
+James Basire, the engraver whose signature appears on the plate. There were 31 plates in the three volumes of
+the first edition of Jacob Bryant’s <hi rend="i">A New System</hi>; all but three have the signature of
+Basire. Bentley and Nurmi in <hi rend="i">A Blake Bibliography</hi> (Minneapolis, 1964) state that “with such
+a number of plates [in <hi rend="i">A New System</hi>] by Basire, it is virtually certain that Blake engraved
+at least part of a few” (p. 103).<supplied type="spacer"> </supplied><ref target="n12" type="note">1</ref>
+Blake certainly could have seen plate XIII. (He was apprenticed to Basire from 1770 to 1783.) If Blake did
+engrave part of this plate (and this is only a conjecture), in the sketch of Hermes and the drawing of Hippa
+we may have embryonic examples of Blake’s protest against the staid, traditional art of his time. 
+<note id="n12"><hi rend="s">1</hi> Roger R. Easson and Robert N. Essick in <hi rend="i">William Blake Book
+Illustrator</hi>, Vol. I (Normal, Ill.: American Blake Foundation, 1972) include in their volume “only those
+prints signed by Blake as designer and engraver or ascribed to him in the book in which his work appears” (p.
+x). Because of their cautious approach in attributing work to Blake, they exclude plates from Bryant’s 
+<hi rend="i">A New System</hi> from the first volume of their projected three-volume set. They do mention that the
+“Vignette of the Deluge” at the end of Vol. III of <hi rend="i">A New System</hi> has been attributed to
+Blake, but they remain unconvinced of the attribution because of the lack of solid evidence.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

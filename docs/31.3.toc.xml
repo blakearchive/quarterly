@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1997/98</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997/98</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.3</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Vincent Carretta</name>
+              <name>A. Harris Fairbanks</name>
+              <name>Sarah Joyce</name>
+              <name>Jennifer Davis Michael</name>
+              <name>Shelia A. Spector</name>
+              <name>Frank A. Vaughan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997/98"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <front>
+      <pb id="p31-73-74" n="73-74"/>
+      <div1 id="cover">
+        <figure n="cover.031.03.bqscan" rend="file" width="258" height="333">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 31<lb/>
+            NUMBER 3<lb/>
+            WINTER 1997/98</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-31-3-0001">
+        <table id="contents" rows="15" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.fairbanks">Blake, Burke, and the Clanrickard
+Monument</ref><lb/>
+<hi rend="i">by A. Harris Fairbanks</hi></cell>
+            <cell>
+              <hi rend="i">76</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.bentley">Blake’s First Arrest, at Upnor Castle</ref><lb/>
+<hi rend="i">by G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">82</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.carretta">Blake’s Meheux?</ref><lb/>
+<hi rend="i">by Vincent Carretta</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.hilton">Marvin D. L. Lansverk, <hi rend="i">The Wisdom of
+Many, The Vision of One: The Proverbs of William Blake</hi></ref><lb/>
+					<hi rend="i">Reviewed by Nelson Hilton</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.vaughan">Christopher Heppner, <hi rend="i">Reading Blake’s
+Designs</hi></ref><lb/>
+<hi rend="i">Reviewed by Frank A. Vaughan</hi></cell>
+            <cell>
+              <hi rend="i">88</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.michael">Mark L. Greenberg, ed., <hi rend="i">Speak Silence:
+Rhetoric and Culture in Blake’s</hi> Poetical Sketches</ref><lb/>
+<hi rend="i">Reviewed by Jennifer Davis Michael</hi></cell>
+            <cell>
+              <hi rend="i">92</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.isaac">Peter Isaac, <hi rend="i">William Bulmer: The Fine
+Printer in Context 1757-1830</hi></ref><lb/>
+<hi rend="i">Reviewed by G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">94</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.spector">Kathryn S. Freeman, <hi rend="i">Blake’s Nostos:
+Fragmentation and Nondualism in</hi> The Four Zoas</ref><lb/>
+<hi rend="i">Reviewed by Sheila A. Spector</hi></cell>
+            <cell>
+              <hi rend="i">97</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.3.joyce"><hi rend="i">South Bank Show Documentary on
+Blake</hi>, directed by David Thomas, ITV (U.K.)</ref><lb/>
+<hi rend="i">Reviewed by Sarah Joyce</hi></cell>
+            <cell>
+              <hi rend="i">102</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="31.3.papers"><hi rend="i">Twenty-First Century: Call for
+Papers</hi></ref>; 
+              <ref type="article" issue="31.3.book"><hi rend="i">Blake and the Book: The Materiality of Books
+in the Life and Times of William Blake: Call for Papers</hi></ref>
+            </cell>
+            <cell>
+              <hi rend="i">103</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p31-75" n="75"/>
+      <div1 id="BQ-31-3-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G. E. Bentley, Jr. is completing a biography of Blake.</p>
+        <p>Vincent Carretta, Professor of English at the University of Maryland, has published 
+<hi rend="i">“The Snarling Muse”: Verbal and Visual Satire from Pope to Churchill</hi> (1983), 
+<hi rend="i">George III and the Satirists from Hogarth to Byron</hi> (1990), The Interesting Narrative 
+<hi rend="i">and Other Writings of Olaudah Equiano</hi> (1995), <hi rend="i">Unchained Voices: An Anthology of
+Black Authors in the English-Speaking World of the Eighteenth Century</hi> (1996), and <hi rend="i">Letters of
+the Late Ignatius Sancho, an African</hi> (1998).</p>
+        <p>A. Harris Fairbanks, Associate Professor of English at the University of Connecticut, has published
+on the romantics in <hi rend="i">PMLA, The Wordsworth Circle</hi>, and elsewhere and is the author of a
+rhetoric textbook/anthology, <hi rend="i">Fact, Value, Policy</hi> (McGraw-Hill, 1994). He is currently
+writing a book about Euclid’s geogetry, the game of chess, and parliamentary procedure.</p>
+        <p>Sarah Joyce completed an MPhil study on Blake’s <hi rend="i">Milton A Poem</hi> in 1997 at
+University College, London, and has been involved in the London Blake Society for the last three or four
+years.</p>
+        <p>Jennifer Davis Michael, Assistant Professor of English at the University of the South, is
+completing a book manuscript entitled <hi rend="i">Cities Not Yet <corr type="emend">Embodied:</corr>
+Blake’s Urban Romanticism.</hi></p>
+        <p>Sheila A. Spector is completing a two-volume study, <hi rend="i">Blake as a Kabbalist</hi>,
+consisting of volume 1, <hi rend="i">The Development of Blake’s Language</hi>, and volume 2, 
+<hi rend="i">The Development of Blake’s Myth.</hi></p>
+        <p>Frank A. Vaughan, Chairman, Department of English at Campbell University, is author of 
+<hi rend="i">Again to the Life of Eternity: William Blake’s Illustrations to the Poems of Thomas Gray</hi>,
+Associated University Press, 1996.</p>
+      </div1>
+      <div1 id="BQ-31-3-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@uclink4.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-31-3-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: Thomas Stothard’s etching of his own design representing the occasion when
+he, Blake, and another friend were arrested while on a sketching expedition on the Medway. Collection of
+Robert N. Essick. <note type="unreferenced" place="footer">© 1998 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

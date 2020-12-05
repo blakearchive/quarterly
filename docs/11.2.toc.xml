@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <front>
+      <pb id="p11-69-71" n="69-71"/>
+      <div1 id="cover">
+        <figure n="cover.011.02.bqscan" rend="file" width="258" height="337">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 42<lb/>
+            VOLUME ELEVEN<lb/>
+            NUMBER TWO<lb/>
+            FALL NINETEEN SEVENTY-SEVEN</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-11-2-0001">
+      <corr type="emend" rend="plain">
+        <table id="contents" rows="18" cols="3">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.jackson">BLAKE &amp; ZOROASTRIANISM</ref></cell>
+            <cell>72</cell>
+            <cell>Mary V. Jackson</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.farwell">MORE THAN MUSIC COMPOSED AFTER BLAKE BY ARTHUR
+FARWELL</ref></cell>
+            <cell>86</cell>
+            <cell>Brice Farwell</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">CHECKLIST</hi>
+            </cell>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.minnick">RECENT BLAKE SCHOLARSHIP 1976-1977</ref></cell>
+            <cell>104</cell>
+            <cell>Thomas L. Minnick with Detlef W. <corr type="emend">Dörrbecker</corr></cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.fine">THE BLAKE EXHIBITION AT ADELPHI
+UNIVERSITY</ref></cell>
+            <cell>110</cell>
+            <cell>Ruth Fine</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.wittreich">SUSAN FOX’S <hi rend="i">POETIC FORM IN
+BLAKE’S MILTON</hi></ref></cell>
+            <cell>114</cell>
+            <cell>Joseph A. Wittreich, Jr.</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.ott">CLARK STEWART’S DRAWINGS FOR <hi rend="i">THE
+MARRIAGE</hi></ref></cell>
+            <cell>117</cell>
+            <cell>Judith L. Ott</cell>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="11.2.nouvelles"><hi rend="i">POUR LES SEXES: LES GRILLES DE
+PARADISE</hi></ref>
+            </cell>
+            <cell>119</cell>
+            <cell>From <hi rend="i">Les Nouvelles Littéraires</hi></cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.carey">BLAKE’S “WARRING ANGELS”</ref></cell>
+            <cell>120</cell>
+            <cell>Frances Carey</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.deck">MR. RUDALL THE FLAUTIST</ref></cell>
+            <cell>123</cell>
+            <cell>Raymond <corr type="emend">H.</corr> Deck, Jr.</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.doerrbecker">JEAN PAUL RICHTER &amp; BLAKE’S 
+<hi rend="i">NIGHT THOUGHTS</hi></ref></cell>
+            <cell>124</cell>
+            <cell>Detlef W. <corr type="emend">Dörrbecker</corr></cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.gleckner">BLAKE’S ILLUSTRATION OF THE 3RD TEMPTATION IN
+<hi rend="i">PARADISE REGAINED</hi></ref></cell>
+            <cell>126</cell>
+            <cell>Robert F. Gleckner</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.2.bentley"><hi rend="i">CUMBERLAND BIBLIOGRAPHY</hi>
+ADDENDA</ref></cell>
+            <cell>128</cell>
+            <cell>G. E. Bentley, Jr.</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="11.2.schorer">Mark Schorer 1908-1977</ref>, 
+              <ref type="article" issue="11.2.tate">Blake at Tate Gallery</ref>, 
+              <ref type="article" issue="11.2.angels">“Warring Angels,”</ref> 
+              <ref type="article" issue="11.2.faerie">Mrs. Blake &amp; <hi rend="i">Faerie Queene</hi></ref>, 
+              <ref type="article" issue="11.2.thames">Blake on Thames TV</ref>, 
+              <ref type="article" issue="11.2.correction">Correction</ref>, 
+              <ref type="article" issue="11.2.milos"><hi rend="i">The Song of Milos</hi></ref>, 
+              <ref type="article" issue="11.2.fitzwilliam">Fitzwilliam Withdraws Blake</ref>, 
+              <ref type="article" issue="11.2.works">Works by and about Blake</ref>, 
+              <ref type="article" issue="11.2.bestiary">Golgonooza Bestiary</ref>, 
+              <ref type="article" issue="11.2.prose"><hi rend="i">Prose Studies 1800-1900</hi></ref>, 
+              <ref type="article" issue="11.2.clq"><hi rend="i">CLQ</hi> Blake Issue</ref>, 
+              <ref type="article" issue="11.2.lavater">Lavater</ref>, 
+              <ref type="article" issue="11.2.taurus">Taurus Press <hi rend="i">America</hi></ref>
+            </cell>
+            <cell>129</cell>
+            <cell/>
+          </row>
+        </table>
+        <p>THE COVER &amp; INSIDE COVERS: xerox images by Michael Hays</p>
+        <note type="unreferenced" place="footer"><corr type="emend">Copyright © 1977 by Morris Eaves &amp; Morton D.
+Paley</corr></note>
+	</corr>
+        <note type="unreferenced" place="footer">
+          <hi rend="b">EDITORS MORRIS EAVES &amp; MORTON D. PALEY · BIBLIOGRAPHER THOMAS L. MINNICK ·
+ASSOCIATE EDITOR FRANCES A. CAREY Production Office Morris Eaves Department of English University of New
+Mexico Albuquerque New Mexico 87131 Telephone 505/277-3103 · Morton D. Paley Department of English University
+of California Berkeley California 94720 · Thomas L. Minnick University College Ohio State University 1050
+Carmack Road Columbus Ohio 43210 · Frances A. Carey Department of Prints &amp; Drawings British Museum Great
+Russell Street London WC1B 3DG England.</hi>
+        </note>
+        <p>G. E. Bentley, Jr., (University of Toronto) is also the author of books on Flaxman and Blake, of
+which the most current are <hi rend="i">William Blake: The Critical Heritage</hi> (1975), <hi rend="i">Blake
+Books</hi> (1977), and Blake’s <hi rend="i">Writings</hi> (2 vols., announced for 1977).</p>
+        <p>Frances A. Carey is our Associate Editor for Great Britain.</p>
+        <p>Raymond Deck is at Brandeis University finishing a dissertation and beginning to write a book about
+Blake and Swedenborg. His note will also appear in <hi rend="i">Rudall Newsletter</hi>, as “William Blake, the
+Poet: An Authentic Rudall Anecdote.”</p>
+        <p>Detlef W. Dörrbecker is a graduate student at the Johann Wolfgang Goethe University in Frankfurt.
+Originally he wanted to be a rock-and-roll hero but is now trying hard to become an art historian. He recently
+finished a study of Los’s Mathematic Power in the pencil drawing for <hi rend="i">Jerusalem</hi> 51.</p>
+        <p>Brice Farwell, the eldest of Arthur Farwell’s children, born 1918, has held administrative and
+editorial assignments at the research laboratory of IBM, in Yorktown Heights, New York. From 1951 to 1956 he
+was on the staff of <hi rend="i">McGall’s</hi> and <hi rend="i">Better Living</hi> magazines. Assembling,
+cataloguing, and microfilming his father’s work, which has become a full time hobby, began in the mid-1960s
+with the aid of most of his brothers and sisters.</p>
+        <p>Ruth E. Fine is National Gallery of Art Curator for Alverthorpe Gallery, which houses the Lessing
+J. Rosenwald Collection. In addition to the checklist of the Blake material in that collection 
+(<hi rend="i">Blake Newsletter</hi> 35), she has written about 19th and 20th century prints and drawings.</p>
+        <p>Katharyn R. Gabriella frequently calls our attention to items on Blake from Continental newspapers
+and journals. She is the author of <hi rend="i">The Imagination of the Resurrection: The Poetic Continuity of
+a Religious Motif in Donne, Blake, and Yeats.</hi></p>
+        <p>Robert F. Gleckner (Professor of English, University of California, Riverside) is the author of 
+<hi rend="i">The Piper and the Bard: A Study of William Blake</hi> and <hi rend="i">Byron and the Ruins of
+Paradise.</hi></p>
+        <p>Mary V. Jackson is an Assistant Professor of English at the City College of New York and author of
+several articles on Blake.</p>
+        <p>Thomas L. Minnick, of Ohio State University, is our Bibliographer. He is already at work on next
+year’s Annual Checklist of Blake Scholarship. He is also preparing a Norton Critical Edition on
+Coleridge.</p>
+        <p>Judith Ott is a doctoral candidate in the History of Art at Ohio State University. She is presently
+working on a dissertation concerning the iconographical sources of the illustrations to 
+<hi rend="i">Jerusalem</hi> and their meanings in Blake’s system.</p>
+        <p>Claude Marie Senninger, who translated the review from <hi rend="i">Les Nouvelles
+Littéraires</hi>, is Professor of Modern and Classical Languages at the University of New Mexico.</p>
+        <p>Joseph Anthony Wittreich, Jr. (Professor of English at the University of Maryland, College Park,
+and this year Visiting Professor at Brown University), is the author of <hi rend="i">Angel of Apocalypse:
+Blake’s Idea of Milton</hi> (1975) and of <hi rend="i">Visionary Poetics: Milton’s Tradition and His
+Legacy</hi> (forthcoming from Huntington Library, 1978).</p>
+        <note type="unreferenced" place="footer"><p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the
+sponsorship of the Department of English, University of New Mexico. SUBSCRIPTIONS are $7 for 1 year, 1 volume,
+4 issues. Special rate for individuals, $6, surface mail. $10 for subscribers overseas who prefer air mail.
+U.S. currency or international money order if possible. Make checks payable to Blake/An Illustrated Quarterly.
+Address all subscription orders &amp; related communications to the Circulation Mgr., Jane Welford, 
+<hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico, Albuquerque NM 87131 USA. Some BACK ISSUES are
+available. Address Jane Welford. Prices: whole numbers 1-8 (bound together), #9-13 (bound together), $5 each
+(individuals, $4). #22-present, $2 each, except #35 (Checklist of Blake Material in Rosenwald Collection, ed.
+Ruth Fine Lehrer), $3. #14-21 are out of print. MANUSCRIPTS are welcome. Send 2 typed copies to either of the
+editors. PHOTOGRAPHIC CREDITS usually appear in the captions. Others are: pp. 74-75, 82-83 (illus. 13-14),
+Raymond Jackson; pp. 86-99, the estate of Arthur Farwell; pp. 106-09, George H. Meyer, Westbury NY; pp.
+113-15, reprinted courtesy of Clark Stewart; pp. 116-19, Thos. Agnew &amp; Sons, Ltd.; p. 123, courtesy of the
+Fitzwilliam Museum, Cambridge.</p>
+<p><corr type="emend">The INTERNATIONAL STANDARD SERIAL NUMBER of Blake/An Illustrated Quarterly is 0006-453X.</corr> 
+Blake/An Illustrated Quarterly is INDEXED in the Modern Language Association’s International Bibliography, the Modern
+Humanities Research Association’s Annual Bibliography of English Language &amp; Literature, 
+<hi rend="i">English Language Notes</hi>’ annual Romantic bibliography, and ARTbibliographies MODERN, EDITORIAL
+ASSISTANTS, Marietta Barnes &amp; Michael Hays, Univ. of New Mexico. CIRCULATION MANAGER: Jane Welford, Univ.
+of New Mexico. DESIGN for this issue: Chris Merwin, Washington Univ., St. Louis.</p></note>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p11-132" n="132"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">MARK SCHORER<lb/>
+    			1908-1977</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

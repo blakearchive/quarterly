@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.1</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <front>
+      <pb id="p16-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.016.01.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake<lb/>
+ AN ILLUSTRATED QUARTERLY 61<lb/>
+ Volume 16<lb/>
+ Number 1<lb/>
+            Summer 1982</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-16-1-0001">
+        <table id="contents">
+          <row>
+            <cell>
+              <head>
+                <title>
+                  <hi rend="b">CONTENTS</hi>
+                </title>
+              </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.1.johnson">Observations on Blake’s Paintings and
+                Drawings (Based on Butlin’s Catalogue Raisonne)</ref><lb/>
+ By Mary Lynn Johnson </cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.1.grant">Some Drawings Related to Blake’s 
+                  <hi rend="i">Night Thoughts</hi> Designs: The Coda Sketch and Two Pictures not
+                Previously Connected with the Series</ref><lb/>
+ By John E. Grant </cell>
+            <cell>7</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.1.butlin">A Concordance Between William Rossetti’s
+                Annotated Lists, W. Graham Robertson’s Supplementary List, and Butlin’s Catalogue
+                Numbers</ref><lb/>
+ By Martin Butlin </cell>
+            <cell>12</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.1.essick">Martin Butlin, <hi rend="i">The Paintings
+                  and Drawings of William Blake</hi></ref><lb/>
+ Reviewed by Robert N. Essick </cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>66</cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><ref type="article" issue="16.1.exhibition">Essick Collection
+                  Exhibited</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><ref type="article" issue="16.1.yale">Yale Center
+                  Symposium</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+        </table>
+        <figure n="BierFeet.16.1.bqscan" rend="file" width="250" height="223"/>
+      </div1>
+      <div1 id="BQ-16-1-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>MARTIN BUTLIN is Keeper of the Historic British Collection at the Tate Gallery, London,
+          author of numerous works on Blake and Turner, and frequent contributor to 
+            <hi rend="i">Blake.</hi></p>
+        <p>ROBERT N. ESSICK is the Graduate Adviser in the Department of English, University of
+          California, Riverside. He would be delighted to receive inquiries about the graduate
+          program from bright undergraduates interested in studying Blake.</p>
+        <p>JOHN E. GRANT is Co-editor of <hi rend="i">William Blake’s Designs for Edward Young’s
+            Night Thoughts</hi> and of <hi rend="i">Blake’s Poetry and Designs.</hi></p>
+        <p>MARY LYNN JOHNSON (GRANT), co-author of <hi rend="i">Blake’s “Four Zoas”: The Design of a
+            Dream</hi> and co-editor of <hi rend="i">Blake’s Poetry and Designs</hi>, is a
+          free-lance professor in the Iowa City area. She is working on a study of Blake’s biblical
+          water colors and on a Blake chapter for <hi rend="i">The English Romantic Poets: A Review
+            of Research and Criticism.</hi>
+	<note type="unreferenced" place="footer">© 1982 by Morris
+            Eaves &amp; Morton D. Paley</note></p>
+        <figure n="DetailMan.16.1.bqscan" rend="file" width="250" height="411"/>
+      </div1>
+      <pb id="p16-3" n="3"/>
+      <div1 id="BQ-16-1-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California,
+          Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of
+          Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+          Albuquerque NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department of English,
+          University of California, Berkeley, CA 94720.<lb/>
+ Thomas L. Minnick, University College,
+          Ohio State University, 1050 Carmack Road, Columbus, Ohio 43210.<lb/>
+ Nelson Hilton,
+          Department of English, University of Georgia, Athens, GA 30602.<lb/>
+ Frances A. Carey,
+          Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+          England.</p>
+        <figure n="BierHead.16.1.bqscan" rend="file" width="250" height="395"></figure>
+      </div1>
+      <div1 id="BQ-16-1-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="WomenPraying.16.1.bqscan" rend="file" width="250" height="205"></figure>
+        <p>EDITORIAL ASSISTANTS IN CHARGE: Marcy Erickson, Susan Corban, Univ. of New Mexico.
+          EDITORIAL ASSISTANTS: Wayne Erickson, George Hartley, Univ. of New Mexico.</p>
+        <p>TYPIST: Denise Warren.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of
+          English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume (4 issues). Special rates for individuals,
+          $12.00 for 1 year surface mail subscriptions. Air mail subscriptions are $10.00 more than
+          surface mail subscriptions. U.S. currency or international money order if possible. Make
+          checks payable to Blake/An Illustrated Quarterly. Address all subscription orders and
+          related communications to Marcy Erickson, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+          of New Mexico, Albuquerque, N.M. 87131, USA.</p>
+        <p>Some BACK ISSUES are available. Address Marcy Erickson for a list of issues and
+          prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms
+          suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept.
+          of English, Univ. of New Mexico, Albuquerque, N.M. 87131; Morton D. Paley, Dept. of
+          English, Univ. of California, Berkeley, California 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is INDEXED in
+          the Modern Language Association’s International Bibliography, the Modern Humanities
+          Research Association’s Annual Bibliography of English Language and Literature, 
+            <hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, ARTbibliographies
+          MODERN, American Humanities Index, (Whitson Pub.), and the Arts and Humanities Citation
+          Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

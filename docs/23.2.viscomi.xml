@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.2.viscomi</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Myth of Commissioned Illuminated Books: George Romney, Isaac D’Israeli,
+and “ONE HUNDRED AND SIXTY designs . . . of Blake’s”</title>
+        <author n="Viscomi">Joseph Viscomi</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.2</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Manging Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Rodney M. Baine</name>
+              <name>Martin Bidney</name>
+              <name>Martin Butlin</name>
+              <name>V.A. De Luca</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Michael Grenfell</name>
+              <name>Desmond King-Hele</name>
+              <name>Paul Mann</name>
+              <name>Anne K. Mellor</name>
+              <name>Dena Bain Taylor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+    <pb id="p23-48" n="48"/>
+      <div1 id="BQ-23-2-0005">
+        <head>
+          <title type="main">
+            <hi rend="b">The Myth of Commissioned Illuminated Books: George Romney, Isaac D’Israeli, and
+“ONE HUNDRED AND SIXTY designs . . . of Blake’s”</hi>
+          </title>
+        </head>
+        <byline>
+          <hi rend="b">
+            <hi rend="i">BY</hi>
+          </hi>
+          <docAuthor>
+            <hi rend="b">
+              <hi rend="i">JOSEPH</hi>
+            </hi>
+            <name>
+              <hi rend="b">
+                <hi rend="i">VISCOMI</hi>
+              </hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">I</hi>
+            </title>
+          </head>
+          <p>On 24 July 1835, Isaac D’Israeli, author of the multi-volumed <hi rend="i">Curiosities of
+Literature</hi> (1791-1834), wrote T. F. Dibdin, the bibliographer, about his “ONE HUNDRED AND SIXTY designs
+. . . of Blake’s” (<hi rend="i">Reminiscences</hi> 788; Bentley, <hi rend="i">Blake Records</hi> 243,
+hereafter cited as <hi rend="i">BR</hi>). D’Israeli’s collection consisted of <hi rend="i">The Book of
+Thel</hi> copy A, <hi rend="i">The Marriage of Heaven and Hell</hi> copy D, <hi rend="i">Visions of the
+Daughters of Albion</hi> copy F, <hi rend="i">America a Prophecy</hi> copy A, <hi rend="i">Songs of Innocence
+and of Experience</hi> copy A, <hi rend="i">Europe a Prophecy</hi> copy A, <hi rend="i">The Book of
+Urizen</hi> copy B, and one separate plate, either “A Dream of Thiralatha” copy B, “The Accusers” copy
+H, or “Joseph Arimathea Preaching” copy H (Bentley, <hi rend="i">Blake Books</hi> 157, hereafter cited as
+<hi rend="i">BB</hi>; all references to plate numbers follow the order established in Bentley’s
+bibliography).<supplied type="spacer"> </supplied><ref target="n0" type="note">*</ref>
+	<note id="n0">I am grateful to Mark Reed, Robert Essick, and G. E. Bentley, Jr., for their close and critical
+reading of an early draft of this paper, for their corrections, and for their many helpful suggestions.</note>
+The seven books made D’Israeli’s illuminated book collection one of the most comprehensive of its
+day—and one of the most impressive, for they are all large folio copies printed on one side of the leaf. As
+we shall see, they share other bibliographical details that suggest they were printed at the same time,
+possibly in early 1795, which in turn suggests the possibility of their being commissioned as a set. None has
+a history before 1835, which means that theoretically each could have been purchased either directly from
+Blake, as Keynes and Bindman ascertain (<hi rend="i">Census</hi> xviii; <hi rend="i">Blake as Artist</hi> 96),
+or from other collectors. The ideas, however, that D’Israeli visited “Blake as early as 1794 [date of the
+paper used in these volumes], and bought a wide selection of Illuminated Books,” and even that he was “a
+member of the Joseph Johnson circle” in the early 1790s (Bindman, <hi rend="i">Blake as Artist</hi> 96), are
+based on nothing more substantial than his having been a contemporary of Blake’s and having owned
+illuminated books. Even Keynes found the association between Blake and D’Israeli “curious, for
+[D’Israeli] made no reference to Blake in his writings . . .” (<hi rend="i">Census</hi> xviii). One
+purpose of this essay is to question the assumption that D’Israeli was an early Blake patron and collector,
+and to suggest that he probably purchased all his books late and most of them from the collection of George
+Romney, whom a recent discovery shows to have been both a collector and a patron. Another and more significant
+purpose is to suggest that Romney purchased his books from stock, instead of specifically commissioning them,
+and that what was true of Romney was true of nearly all owners of illuminated books, which is to say that
+Romney’s and D’Israeli’s copies, and copies of illuminated books in general, were <hi rend="i">not</hi>,
+as is generally assumed, produced “one by one” (Grant 281) and “on demand” (Essick, “Materials”
+857), “as [Blake] got commissions” (Davids and Petrillo 154), or “with a particular customer in mind”
+(Erdman, <hi rend="i">Poetry and Prose</hi> 786).</p>
+          <p>At first sight, the relation between Romney and Blake is marked by a lack of documents similar to
+that marking the relation between Blake and D’Israeli; there are no letters, diary entries, and, until now,
+no known works by either artist in the collection of the other. The absence of a documented biographical
+connection, of course, does not preclude aesthetic influence, and may simply be because Romney stopped keeping
+his diary in 1795, and because from 1795 to the summer of 1799, when Romney left London mentally debilitated,
+there are only five Blake letters extant (three to Cumberland, two to Trusler), and no letter from the 1780s.
+Indeed, circumstantial evidence and aesthetic similarities suggest very strongly that they met, probably in
+the early 1780s through their mutual friend John Flaxman, who was ever “anxious to recommend [Blake] and his
+productions to the patrons of the Arts . . .” (Bentley, <hi rend="i">BR</hi> 26, Smith).<supplied
+type="spacer"> </supplied><ref target="n1" type="note">1</ref> Some of these productions Flaxman apparently
+showed “Mr/: Romney,” who thought Blake’s “historical drawings rank with those of MI/: Angelo” 
+(<hi rend="i">BR</hi> 27-28).
+<pb id="p23-49" n="49"/>
+Flaxman also “recommended more than one friend to take copies” of illuminated books (Gilchrist 1: 124). Of
+Flaxman’s friends, though, only “a Mr. Thomas,” who purchased <hi rend="i">Songs</hi> copy Q for 10
+pounds around 1805, has been identified conclusively.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> To this list of friends, however, we can now add Romney, for a previously unexamined
+auction catalogue from 1834 reveals that he had purchased at least four illuminated books (or five distinct
+volumes), all of which were described as folio. <note id="n1"><hi rend="s">1</hi> The eye tells us what
+documentary evidence does not, that Blake must have seen Romney’s paintings and pen and wash drawings in the
+1780s, probably before he invented illuminated printing, since motifs in his earliest relief etchings appear
+to echo specific Romney designs. The Urizenic figure in the clouds in <hi rend="i">All Religions are One</hi>
+plate 4, for example, is thought generally to have been influenced by the pen and wash drawing, “The Spirit
+of God Floating over Chaos,” though it is more likely indebted to a lost painting entitled “Providence
+Brooding over Chaos,” which was renamed “Jupiter Pluvius” by Romney’s son and described as
+representing “a venerable old man borne upon the clouds. He fronted the spectator, and had his arms
+outspread; his hair was parted on his forehead, and his beard flowing” (<hi rend="i">Memoirs</hi> 98-99).
+The drawing, on the other hand, is of a beardless youth or female and appears to have been the source for the
+female figure floating over the corpse in <hi rend="i">Marriage</hi> plate 14. Because of John Romney’s
+description, the drawing has often been confused with the painting (see Hagstrum 202). For Blake to have
+borrowed in these ways meant meeting the man himself, for these were paintings and drawings in Romney’s
+private collection.</note>
+	<note id="n2"><hi rend="s">2</hi> Gilchrist 1: 124. Charles Augustus Tulk, who owned <hi rend="i">Songs</hi>
+copy J, was also a close friend of the Flaxmans; see <hi rend="i">BR</hi> 241-42. Flaxman practiced what he
+preached, commissioning Blake in 1797 to illustrate Gray’s <hi rend="i">Poems</hi>, apparently as a birthday
+present for his wife, Nancy (Bindman, <hi rend="i">Blake as Artist</hi> 113), and presumably encouraged the
+publishers to commission Blake to engrave his designs for “A Letter to the Committee for Raising the Naval
+Pillar” (1799), Homer’s <hi rend="i">Iliad</hi> (1805), Hesiod’s <hi rend="i">Works, Days, and
+Theogony</hi> (1817), and his article on “Sculpture” in Ree’s <hi rend="i">Cyclopaedia</hi> (1820). He
+also purchased <hi rend="i">Innocence</hi> copy D and <hi rend="i">Songs</hi> copy O.</note></p>
+          <p>The books were <hi rend="i">Visions of the Daughters of Albion, The Book of Urizen, America a
+Prophecy</hi>, and “Blake’s two volumes,” which, as I will show, were probably <hi rend="i">Songs of
+Innocence</hi> and <hi rend="i">Songs of Experience.</hi> They were auctioned in 1834, two years after the
+death of his only son, Rev. John Romney, but would have had to have been produced by 1799, the date of
+Romney’s departure from London. Romney’s owning a set of illuminated books proves that his admiration was
+both genuine and not limited to the early drawings or to the 1780s, and that Flaxman, assuming he played
+agent, merits his reputation for being committed to Blake. More significant than Romney’s owning illuminated
+books, however, are the illuminated books he owned, for if I have correctly identified the copies, then his
+collection alters the history of other collections, specifically D’Israeli’s, and also reveals how tenuous
+and speculative our reasoning is when determining early provenance and identifying contemporary patrons. More
+important still is the meaning of the visual and technical coherence of these copies and the overt differences
+of each copy from nearly all those of its kind produced before or after. The existence of a uniform set of
+various titles raises important questions about how illuminated books were produced and why.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">II</hi>
+            </title>
+          </head>
+          <p>William Hayley met Romney in Eartham, Sussex, in 1777; he remained a close life-long friend and
+wrote the first biography, <hi rend="i">The Life of . . . Romney</hi> (1809). He employed Blake in 1803-04 to
+locate the painter’s works, many of which Blake examined in October of 1803 at Saunders’, Romney’s frame
+maker, “who has now in his possession all Mr. Romney’s pictures that remained after the sale at
+Hampstead” (Keynes, <hi rend="i">Blake, Complete Writings</hi> 831; hereafter cited as K). Held in 1801, a
+year before the painter’s death, the “Hampstead sale” was an auction of Romney’s furniture and large
+collection of antique busts.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> It was
+not until 1805 and 1807 that Romney’s extensive private art collection and his paintings and drawings were
+auctioned. On 22 and 23 May 1805, the “Intire and Genuine collection of Prints, Books of Prints, and
+Drawings of George Romney, Esq., Historical and Portrait Painter, deceased,” was auctioned by “Mr. T.
+Philipe, at his Rooms, Warwick Street, Golden Square, adjoining the Chapel” (YCBA Sales Cat. 649). This
+collection consisted of thousands of prints and drawings of the Italian, Dutch, Flemish, French, and other
+schools, but contained no original works of Romney’s.<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> Two years later, on 27 April 1807, at Christie’s, Romney’s own paintings and drawings
+were auctioned, but sold for ridiculously low prices, with the best of them being bought in by John
+Romney.<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref>
+	<note id="n3"><hi rend="s">3</hi> Mr. Read, a friend of Romney’s and of Romney’s earliest patron, Mr.
+Braithwaite, promised to show Blake a “Catalogue of [the] Hampstead sale” (K 836), though no paintings or
+drawings by Romney (or Blake) were then auctioned. It was “A Catalogue of the Capital Collection of Casts
+from the Antique: among which are the Apollo of Belvidere; Castor and Pollux, and the Laocoon; A Very Fine
+Skeleton; Various Basso Relievos, Busts, and Fragments, Being the entire Collection of that celebrated Artist,
+George Romney, Esq. At his late Residence, Holybush Hill, Hampstead. Also, His Genuine househould Furniture
+and other effects, which will be sold by Auction by Mr. Christie on the Premises, On Monday, May the 18th,
+1801, at twelve O’clock.” Some of the pictures which were auctioned six years later were then on view:
+“A Select Part of the finest Works of Mr. Romney, may in the mean Time be Viewed (with Tickets) on the
+Premises, where the same may be treated for by Private Contract” (Yale Center for British Art, Sales
+Catalogues 96).</note>
+	<note id="n4"><hi rend="s">4</hi> Lot 121 of the first day lists ‘’38 Varied [drawings],” which could
+conceivably have included a few of Blake’s drawings. Nearly all the prints and drawings in this sale were
+after or by masters, like Poussin, Titian, Rosa, Romano. Romney’s collection of art books, prints, plaster
+casts, paintings, and drawings must have been of enormous educational value to young artists like Blake and
+Flaxman. The instructional value was greatly increased by Romney’s drawings after Raphael and Michelangelo,
+whose works in the Vatican, including all the Sibyls and Prophets in the Sistine Chapel, he studied closely
+and copied, having erected scaffolding for the purpose (Chamberlain 71).</note>
+	<note id="n5"><hi rend="s">5</hi> The works were bought in for “£406.19s.6d.,” while the total amount
+realized by the works “actually sold was £307.ls., which when commissions and duty had been deducted, was
+reduced to £250.16s.” (Chamberlain 233). The copy of the lower half of Raphael’s “Transfiguration,”
+for example, which Romney painted in oil to size and for which he was once offered £100, realized £6
+(Chamberlain 231).</note></p>
+          <p>No Blake work was listed in either sale, but probably four illuminated books (or five separate
+volumes) were sold at Christie’s on 9-10 May 1834, when the “Collection of Pictures, Reserved after the
+Death of that Celebrated and elegant Painter Romney” were again put up for auction.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> This auction consisted of the original works bought back in
+1807 (listed as lots 72-92 of the second day of the 1834 sale), and works from Romney’s library and art
+collection which sold the first day of the 1834 sale and included “fine Heads by Rembrandt, Vandyke and
+Dobson; a pair of spirited sketches by Rubens, copies from Titian . . . the works of Montfaucon, Picart, The
+Galleries of Dusseldorf and Crozat, and other Books of Prints and Works of Art” (YCBA Sales Cat. 96). The
+art collection and library, which in addition to Picart, Montfaucon, and Crozat included the most important
+reference works of the day, such as Basan, Mengs, Webb, Shee, Strutt, Pilkington, Boydell, Richardson, Caylus,
+and DePiles, had been shipped in two parts to Whitestock Hall, the family home in Kendal, Westmoreland, in
+1799, when John Romney came to retrieve his father, and then in 1803, when Saunders packed up Romney’s works
+and “sent a great part of them to the North” (K 832). The illuminated books, it appears, were among the
+works “reserved” after the painter’s death and kept in the family library at Kendal, and probably not
+among the purchases of John Romney. Blake’s dealings with the son were on Hayley’s behalf and apparently
+through the mail.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref>
+	<note id="n6"><hi rend="s">6</hi> Auction catalogue of Messrs. Christie, Manson, and Christie, Friday and
+Saturday, 9-10 May 1834.</note>
+	<note id="n7"><hi rend="s">7</hi> A book with a Blake engraving that was published after the painter’s
+death was listed in the catalogue: lot 9 “Hoare on the Arts,” which may have been his 
+<hi rend="i">Academic Correspondence . . . on the Present Cultivation of the Arts of Painting</hi>, 1804, or his
+<hi rend="i">Inquiry into the Requisite Cultivation and Present State of the Arts of Design</hi>, 1806, both
+of which contain frontispieces engraved by Blake. The son continued to add to the library, but did not
+necessarily purchase this or any other work from Blake.</note></p>
+          <p>The illuminated books sold as lot 79, “Blake’s Visions of the Daughters of
+Albion—Coloured”; lot 83, “Blake’s America, and Blake’s Urizen—coloured”; and lot 86x,
+“Blake’s two volumes.” <hi rend="i">Visions</hi> sold for 11 shillings to “Evans,” probably the
+dealer R. H. Evans; <hi rend="i">America</hi> and <hi rend="i">Urizen</hi> sold for £1.4, also to Evans; and
+the “two volumes” sold for 18 shillings to Tiffin, possibly Walter E. Tiffin, “An Old-Established
+Printseller.”<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref> Lot 86x was
+handwritten in the same brown ink as the prices, suggesting, perhaps, that the two volumes were overlooked
+during cataloging. Like lots 79 and 83, lot 86x was listed among the “Folio” books, which is probably an
+accurate description of size, since the books could also have been listed as octavo or quarto, the other book
+categories. Folio, of course, indicates a printing format, but was hee used in its general sense of a book
+with page height of 30 cm or more. “Folio” does not help us to identify the specific copies of 
+<hi rend="i">Visions</hi> or <hi rend="i">America</hi>, since all copies of these
+<pb id="p23-50" n="50"/>
+books (as well as of <hi rend="i">Europe</hi>) were folio and were so listed in both Blake’s 1793 prospectus
+(K 207-08) and his 1818 list to Dawson Turner (K 867). But it may help us to identify the copy of 
+<hi rend="i">Urizen</hi>, which Blake had listed (along with <hi rend="i">Thel, Marriage</hi>, and 
+<hi rend="i">Milton</hi>) as quarto. <note id="n8"><hi rend="s">8</hi> Auction catalogue of Messrs. Christie,
+Manson, and Christie, Friday and Saturday, 9-10 May 1834. There are two copies of the catalogue in the Yale
+Center for British Art, one without prices, the other with prices and a handwritten “86x” added but with
+no owners cited (Sales cat. 96). The buyers are listed in Christie’s master copy in London, a reproduction
+of which G. E. Bentley, Jr. generously checked for me. The “Large Collection of Engravings &amp; Drawings”
+of Walter E. Tiffin, “An Old-Established Printseller, Relinquishing the General Business . . .” sold at
+Sotheby’s, 29 Feb.-9 Mar. 1860, and contained three water colors from Blake’s <hi rend="i">The Story of
+Joseph</hi> series, c. 1784-85 (lot 1826). See Butlin <hi rend="i">Paintings and Drawings</hi> 1: 59 (nos.
+155-57). This printseller’s retirement from the business in 1860 indicates he would have been in the
+business of attending auctions in the 1830s.</note></p>
+          <p>There are eight copies of <hi rend="i">Urizen</hi>, counting copy E, which is untraced, and copy
+J, which was recently rediscovered by Detlef Dörrbecker (Dörrbecker 60n1). Of these, only two copies (A and
+G) have known histories that preclude their consideration. Copy G was printed in 1815, after Romney’s death
+(1802), and copy A was probably “acquired by the 1st Baron Dimsdale (1712-1800)” and stayed in his family
+till 1956 (<hi rend="i">BB</hi> 180). These two copies are also precluded by size, as are 
+<hi rend="i">all</hi> but one of the other copies, for they are all less than 30 cm in height and probably would
+have been described by a cataloger as quarto. Only copy B, the copy owned by D’Israeli, is folio: 37.4 ×
+27.1 cm. This copy is different from copies A, C-F, and J, in another important respect. Though it is recorded
+as being color printed in brown and green inks like other copies of <hi rend="i">Urizen</hi> 
+(<hi rend="i">BB</hi> 168), it is neither color printed nor in brown ink. Except for plate 2, which was printed in
+green, the ink is light black; its brownish tint in the text is due primarily to the thin ink layer on
+off-white paper (see n. 12), something a magnifying glass and a comparison with the illustrations
+(particularly the solid relief areas) clearly reveal. It appears color printed at first glance because the
+black color on impressions is opaque and a few impressions have colors that are thick and slightly
+reticulated. But the colors were not printed from the shallows, as they were in the other copies of 
+<hi rend="i">Urizen</hi>, and the opaque colors that appear to have been printed from the relief areas were
+actually applied to the impressions, the technique used to produce deep blacks in <hi rend="i">America</hi>
+copy A and many other copies of illuminated books (Viscomi, “Recreating Blake” 10-11n16).<supplied
+type="spacer"> </supplied><ref target="n9" type="note">9</ref> The differences in size and printing style
+suggest that <hi rend="i">Urizen</hi> copy B was printed apart from and, as will be argued in part IV, 
+<hi rend="i">after</hi> copies A, C-F, and J. <note id="n9"><hi rend="s">9</hi> Some impressions in 
+<hi rend="i">Urizen</hi> copy B appear color printed because the black ink was gone over on the paper, possibly
+while wet, in green (pls. 18, 20, 23), grey, and black washes to produce a mottled effect. Part of Los’s
+right knee in plate 7, for example, appears color printed, but the capillary formation of the ink on the
+relief area that forms the knee is the same in the part not color printed as in that color printed. The
+difference was created by the latter being washed over in grey and black opaque paint. This is even more
+apparent in plate 8, where the blue opaque paint appears to be from the plate, but was actually applied to the
+impression over the black ink (a relief plateau), as a close look with a magnifying glass reveals: the blue
+does not always hold the relief line or area. Plate 19 also looks color printed, but the deep red color is
+painted over the ink on the impression; the relief area out of which the figures were hollowed was heavily
+inked, but that ink is black and was applied generously and not delicately because the area’s lack of detail
+made it easy and quick to ink.</note></p>
+          <p>The copy of <hi rend="i">Urizen</hi> in the Romney auction was sold with a copy of 
+<hi rend="i">America.</hi> No other collector at this time is known to have owned both <hi rend="i">Urizen</hi>
+and <hi rend="i">America</hi>—no collector other than D’Israeli, whose <hi rend="i">America</hi> copy A
+was one of four colored copies, a format which fits the rudimentary description of lot 83: “Blake’s
+America, and Blake’s Urizen—coloured.” The other three colored copies are copies K, M, and O.<supplied
+type="spacer"> </supplied><ref target="n10" type="note">10</ref> Copy O cannot be considered since it was
+printed for Linnell in 1819. To my eye the rich palette of copy M suggests a date of production later than its
+Hayes &amp; Wise 1799 watermark. But even if copy M were produced in 1799, it is unlikely to have been
+Romney’s copy, since by then he was by all accounts not much interested in art or anything else, having
+suffered a second stroke and “his increasing weakness of body,
+<figure n="america.b.p6" id="america.b.illbk.06" work-copy="america.b" rend="db" width="715" height="1000">
+	<figTranscr>Appear to the Americans upon the cloudy night.<lb/>
+	Solemn heave the Atlantic waves between the gloomy nations<lb/>
+	Swelling. belching from its deeps red clouds &amp; raging fires,<lb/>
+	Albion is sick. America faints! enrag’d the Zenith grew.<lb/>
+	As human blood shooting its veins all round the orbed heaven<lb/>
+	Red rose the clouds from the Atlantic in vast wheels of blood<lb/>
+	And in the red clouds rose a Wonder o’er the Atlantic sea;<lb/>
+	Intense! naked! a Human fire fierce glowing, as the wedge<lb/>
+	Of iron heated in the furnace; his terrible limbs were fire<lb/>
+	With myriads of cloudy terrors banners dark &amp; towers<lb/>
+	Surrounded; heat but not light went thro’ the murky atmosphere<lb/>
+	The King of England looking westward trembles at the vision</figTranscr>
+	<head>1. (in n. 12): <hi rend="i">America a Prophecy</hi> copy B, plate 6 Courtesy of the Pierpont Morgan
+Library, New York.</head>
+	<figDesc>PML 63938</figDesc>
+</figure>
+and mind, afford[ing] only a gloomy prospect for the residue of his life” (Hayley, in Chamberlain 223).
+<note id="n10"><hi rend="s">10</hi><hi rend="i"> America</hi> copies K and A are thought to have been
+“coloured some time after they were printed” (<hi rend="i">BB</hi> 91n3), probably “after 1805” 
+(<hi rend="i">BB</hi> 91) because a few of the texts were washed. The date of this stylistic feature is based on
+<hi rend="i">Songs</hi> copy E (which was purchased by Butts in 1806) having washed texts while those of 
+<hi rend="i">Innocence</hi> copy P (which was given away by Malkin in 1805) remained unwashed (Bentley, 
+<hi rend="i">William Blake’s Writings</hi> 1: liv). One of these two copies was in Romney’s collection,
+however, which shows that washed texts cannot be trusted as an absolute marker for dating. The few poems
+(“Infant Joy” for example) with washed texts in <hi rend="i">Innocence</hi> copies I and J, c. 1789-94,
+support this conclusion, as do the impressions in <hi rend="i">Experience</hi> of <hi rend="i">Songs</hi> copy
+O (c. 1795) whose texts are streaked. Indeed either washed texts occurred much earlier than we think, which
+seems likely on aesthetic and technical grounds, or, as Bentley implies, coloring and printing were stages
+regularly separated during the production of a book: <hi rend="i">Europe</hi> copy G “was color-printed
+about 1795, but the text was water-colored about 1805” (<hi rend="i">Europe</hi> 5n10); 
+<hi rend="i">Innocence</hi> copies K and L “seem to have been printed early but coloured late” 
+(<hi rend="i">BB</hi> 382n2). The idea that printing and coloring were often separated is very 
+<hi rend="i">curious</hi>, given the assumptions that illuminated books in general were commissioned and that 
+<hi rend="i">America</hi> copy A in particular was supposedly purchased by D’Israeli in the 1790s.
+                            <p><hi rend="i">America</hi> copy R is listed in <hi rend="i">BB</hi> as an
+untraced colored copy printed on one side of the leaf (89). It was recently auctioned at Christie’s,
+November 1987, and is essentially a monochrome copy, recto-verso, in blue ink. It was, according to Robert
+Essick and Thomas V. Lange, who examined the copy, the model for Muir’s uncolored facsimile. See Essick,
+“Resurrection.” The coloring of <hi rend="i">America</hi> copy K seems to have been loosely modeled on
+copy A, particularly in the way the text of some plates are colored as part of the illustration, though
+generally its palette is more restricted and its washes are thinner and flatter (see n. 34). 
+<hi rend="i">America</hi> copy Q, printed posthumously in black and presumably colored for Walter T. Spencer in
+1913 (<hi rend="i">BB</hi> 105), was unquestionably colored in imitation of <hi rend="i">America</hi> copy A,
+apparently when that copy was in the Pierpont Morgan Library (<hi rend="i">BB</hi> 100). A comparison of any
+two impressions from copies A and Q reveals that the latter’s colors, their placement, and the manner in
+which they were applied, were dictated by the former. Spencer was likewise responsible for the coloring of 
+<hi rend="i">Europe</hi> copy L, which was also printed posthumously in black ink (<hi rend="i">BB</hi>
+160).</p></note></p>
+          <p>Of the remaining two copies, A and K, it seems more likely that Romney would have purchased—or
+had produced specially for him—the former, since copy K seems certainly to have been printed in 1793-94
+along with copies C-I, L, and R, which, like copy K, were printed in the same style using the same materials:
+undated E &amp; P paper of similar size, printed on both sides of the leaf, in the same greenish- and
+bluish-black inks.<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref> Copy K’s
+recto-verso printing dates it no later than 1794, when Blake appears to have stopped printing in this style
+and began printing on rectos only (see part IV). <hi rend="i">America</hi> copy A, on the other hand, was
+produced in the later printing style, the same as <hi rend="i">Urizen</hi> copy B, and both were printed on
+the same size paper (approximately 38 × 27 cm) and, most significantly, in the same light black ink.<supplied
+type="spacer"> </supplied><ref target="n12" type="note">12</ref> Copy A is also different in a way that may
+suggest a special
+<pb id="p23-51" n="51"/>
+<figure n="america.a.p6" id="america.a.illbk.06" work-copy="america.a" rend="db" width="713" height="1000">
+	<figTranscr>4<lb/>
+	Appear to the Americans upon the cloudy night.<lb/>
+	Solemn heave the Atlantic waves between the gloomy nations<lb/>
+	Swelling. belching from its deeps red clouds &amp; raging fires,<lb/>
+	Albion is sick. America faints! enrag’d the Zenith grew,<lb/>
+	As human blood shooting its veins all round the orbed heaven<lb/>
+	Red rose the clouds from the Atlantic in vast wheels of blood<lb/>
+	And in the red clouds rose a Wonder o’er the Atlantic sea;<lb/>
+	Intense! naked! a Human fire fierce glowing, as the wedge<lb/>
+	Of iron heated in the furnace; his terrible limbs were fire<lb/>
+	With myriads of cloudy terrors banners dark &amp; towers<lb/>
+	Surrounded; heat but not light went thro’ the murky atmosphere<lb/>
+	<lb/>
+	The King of England looking westward trembles at the vision</figTranscr>
+	<head>2. <hi rend="i">America a Prophecy</hi> copy A, plate 6 Courtesy of the Pierpont Morgan Library, New
+York.</head>
+	<figDesc>PML 16134</figDesc>
+</figure>
+production: it is the only copy of <hi rend="i">America</hi> produced (besides copy O for Linnell in 1821)
+with the last four lines of plate 4 unmasked.<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref>
+	<note id="n11"><hi rend="s">11</hi> Like most illuminated prints, those making up <hi rend="i">America</hi>
+copies F and L do not have watermarks. Of the 100 leaves used to print the 10 copies of 
+<hi rend="i">America</hi> (C-I, K-L, and R), only 15 leaves are watermarked. The absence of a watermark in a leaf
+of fine paper like this probably indicates that it was cut from a larger watermarked sheet. On the other hand,
+the absence of a watermark on any sheet of wove paper may be due to the thickness of the paper or to the
+mark’s being at the edge of the sheet and not the middle of one-half; in the latter case, the mark may have
+been trimmed or hidden in the binding (Balston 160). The sheets used for <hi rend="i">America</hi> were
+probably either double crown (approximately 72 × 51 cm) or imperial (approximately 72 × 55 cm). Such sheets
+could be cut into quarters for folio books, like <hi rend="i">America</hi>, or into eights for quarto books,
+like <hi rend="i">Marriage</hi>, or into sixteenths for octavo books, like <hi rend="i">Songs.</hi> Blake’s
+choices were no more exact than small, medium, or large, for the exact size of the leaf was determined less by
+plate size (technically <hi rend="i">Songs</hi> could have been quarto) than by the sheet it was cut out of,
+that is, by such practicalities as using efficiently raw materials whose sizes were fixed. From one quite (25
+sheets) of imperial paper, Blake could print exactly 10 recto-verso copies of <hi rend="i">America</hi> (18
+plates on 10 sheets), or 23 rectoverso copies of <hi rend="i">Innocence.</hi> When, on the other hand, an
+octavo or quarto was reprinted as folio, it was assuredly for aesthetic reasons, following the general rule of
+thumb that the larger the size the more valuable—or prestigious—the artifact.</note>
+	<note id="n12"><hi rend="s">12</hi> The inks of <hi rend="i">America</hi> copies A and B are listed as
+brownish-black and dark brown (<hi rend="i">BB</hi> 88). They are, however, the same light black ink as 
+<hi rend="i">Urizen</hi> copy B, whose brownish tint was caused by the thinness of the ink layer, the warm tone of
+the off-white paper, a mixture of brown and black pigments, and the yellowing effect of linseed oil. All three
+copies are in the Pierpont Morgan Library, which allows for this kind of comparison. The ink’s true color,
+though, is also apparent when the ink is examined under a glass or in a solid area that printed heavily, such
+as the dragon, lower right corner, and space between the clouds in plate 6 (illus. 1). The ink will tend to
+look black under a glass because the ink particles are seen in isolation, counteracting the
+“color-addition” effect that is perceived by viewing the overall image with its off-white support and
+underlying brown hue in thinner areas. Various hues from a black ink are characteristic of intaglio plates,
+where the deeper lines print darkest and the shallow lines print light grey; in aquatint, the range of one ink
+can be so great that multiple inks appear to be used. Blue pigments are often used in combination with black
+to counteract the brown hue of natural black pigments.
+                            <p>That the ink in <hi rend="i">America</hi> copies A and B is the same ink, and
+not just the same color, is proven by their shared accidentals, a feature of production that cannot be
+duplicated except by sequential pulls. In plate 3, for example, the blemish next to the word “Dark” of
+line 11 is the same in copies A and B, though darker in A; the same is true of the blemish at the end of the
+tendril from the letter “A” in line 16, and the traces of ink in the shallows of the lower tree trunks and
+inside of the border. The repetition of ink traces is a sign that the dabber overinked or touched an area that
+was supposed to remain white and that the plate with the residue of ink was reinked and printed again,
+producing a second impression having the same accidentals regardless whether the second inking was more
+carefully done, since the pressure and paper were the same in both pulls. The sequentiality of copies A and B
+is even clearer in plate 5, where the bottom border is half wiped in the same manner (and with the same
+gesture) in both copies, and the same wove pattern of the paper or backing blanket—a very distinctive
+mark—is present, as it is in the left bottom corner of plate 6 (illus. 1 and 2), and in the lower left and
+right corner of the flames in plate 12. For the checkerboard effect to be repeated in two impressions from the
+same plate means that a combination of variables (the paper’s texture and dampness, ink, and pressure) was
+repeated, and that indicates sequentiality. This effect does not show up in the recto-verso copies, or in
+proofs, or in canceled plates a and b. It does, however, show up in <hi rend="i">America</hi> plate c, which
+was also printed in a black ink (with plate 15 on its verso printed in brown). Whereas plates a and b are
+variants of plates that were used (plates 5 and 6), plate c is a new text, most likely to have been inserted
+between plates 10 and 11. Unlike the other two canceled plates, it has lines added and deleted in pencil,
+which indicates that Blake would have had to execute another plate. Apparently he chose not to. It is possible
+that plate c was not “eliminated in [the] revisions” of <hi rend="i">America</hi> (Erdman, 
+<hi rend="i">Illuminated Blake</hi> 394), but was a new idea executed around 1795 and printed along with copies A
+and B. Its sharing ink color and texture suggests that it may at the very least have been 
+<hi rend="i">printed</hi> at that time.</p></note>
+	<note id="n13"><hi rend="s">13</hi><hi rend="i"> America</hi> copy B is listed in <hi rend="i">BB</hi> as
+having plate 4 masked (87), but plate 4 in copy B, along with plate 9, are fakes; see my “Forgery or
+Facsimile? An Examination of <hi rend="i">America</hi> plates 4 and 9,” copy B, <hi rend="i">Blake</hi> 16
+(1983): 219-23. I suspect that copy B’s original plate 4 was like copy A’s, because, as the shared ink,
+paper, and inking accidentals show, copies A and B were printed together (See n. 12).</note></p>
+          <p>The later printing style and paper size were also used for D’Israeli’s copies of 
+<hi rend="i">Thel</hi> (F), <hi rend="i">Visions</hi> (F), <hi rend="i">Marriage</hi> (D), <hi rend="i">Songs</hi>
+(A), and <hi rend="i">Europe</hi> (A).<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref> The sharing of such specific stylistic features as size, inks, and format—particularly
+since <hi rend="i">America</hi> was usually monochrome, <hi rend="i">Thel, Marriage</hi>, and 
+<hi rend="i">Urizen</hi> were always quarto, and <hi rend="i">Songs</hi>, with rare exceptions (copies R, V, and
+W), was always octavo—suggests that these copies were printed around the same time as a coherent set. With
+the exception of <hi rend="i">Visions</hi> and <hi rend="i">Thel</hi>, whose plate numbers were etched in
+relief and are part of the design, these volumes were numbered in pen by Blake, whereas early copies of 
+<hi rend="i">Songs, America</hi>, and <hi rend="i">Marriage</hi> were not, and this too suggests a coherent set.
+That one of the books from this set (<hi rend="i">Urizen</hi> copy B) appears to have been owned by Romney
+suggests that the copy of <hi rend="i">America</hi> with which it sold was copy A rather than the earlier and
+very differently formatted copy K, which was probably one of the copies of <hi rend="i">America</hi> that
+Blake advertised in the 1793 prospectus as constituting the “numerous great works now in hand” (K
+208).<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> Like <hi rend="i">Urizen</hi>
+copy B, <hi rend="i">America</hi> copy A appears to have been printed after the book’s initial printing run
+(C-I, K-L, and R), and to match the style of other books rather than other copies of 
+<hi rend="i">America.</hi>
+	<note id="n14"><hi rend="s">14</hi> The paper used in all these books is J. Whatman 1794 or I. Taylor. 
+<hi rend="i">America</hi> copy A is now 32.0 × 23.3 cm, apparently cut down from approximately 38 × 27 cm, along
+with plates 1-2, 4-6 of D’Israeli’s copy of <hi rend="i">Europe</hi> copy A, his <hi rend="i">Song of
+Los</hi> copy B, plate 1 of his <hi rend="i">Visions</hi> copy F, and the three separate plates, “A Dream of
+Thiralatha” copy B, “The Accusers” copy H, and “Joseph of Arimathea Preaching” copy F. These books
+and plates, which were bound “somewhat irregularly” by 1856 (<hi rend="i">BB</hi> 474n1), were probably
+trimmed after 1835, when <hi rend="i">Song of Los</hi> and two of the separate plates came into
+D’Israeli’s collection (<hi rend="i">BB</hi> 156n). (The leaves of the other five copies of 
+<hi rend="i">Song of Los</hi> are a quarter of royal crown paper, which was approximately 36 × 26 cm) 
+<hi rend="i">Urizen</hi> copy B and <hi rend="i">America</hi> copy A may have sold as one lot because they were
+stabbed together, but this is impossible to tell since <hi rend="i">America</hi> copy A has no stab holes,
+perhaps because it was trimmed.</note>
+	<note id="n15"><hi rend="s">15</hi> Bentley dates <hi rend="i">America</hi> copies C, D, and H c. 1796
+because they have only one serpent tail in plate 13, reduced from three (<hi rend="i">BB</hi> 87). An
+alteration of this kind, though, is technically very minor, requiring at most a few hours’ work with a
+scraper. The evidence is not firm enough to warrant dating these copies two and three years later than the
+other recto-verso copies with which they have more in common, stylistically and materially.
+                            <p>The frontispiece of <hi rend="i">America</hi> copy K sold anonymously in 1904
+“with property evidently once in the D’Israeli Collection” (<hi rend="i">BB</hi> 103). This suggests the
+possibility that <hi rend="i">America</hi> copy K was the copy that sold with <hi rend="i">Urizen</hi> copy B,
+but that its plates 2-18 were sold off and replaced by <hi rend="i">America</hi> copy A. The early provenances
+of plate 1 and plates 2-18 of <hi rend="i">America</hi> copy K are not known, but if D’Israeli’s and his
+son’s arithmetic can be trusted, then plate 1 probably entered the collection after 1862, when Lord
+Beaconsfield described having “170 Drawings etc By W. Blake” (<hi rend="i">BB</hi> 156n). The 10 plates
+added to the collection since 1835, when it was described as having 160 designs, can be accounted for by the
+eight plates of <hi rend="i">Song of Los</hi> copy B and two separate plates that were bound “somewhat
+irregularly” with <hi rend="i">America</hi> copy A and a few other designs by 1856 (see n. 14). Had 
+<hi rend="i">America</hi> copy A replaced <hi rend="i">America</hi> copy K, it would have been before or while
+copy A was bound with the other plates, and that would put the extra plate 1 in the collection by 1862 for a
+total of 171 designs.</p></note></p>
+          <p>Thus, it seems reasonable to propose that lot 79, “Blake’s Visions of the Daughters of
+Albion—coloured,” may have been copy F, the copy acquired by D’Israeli by 1835. All 18 known copies of
+<hi rend="i">Visions</hi>, counting untraced copy Q and the Munich copy recently rediscovered by Detlef
+Dörrbecker (Dörrbecker 61n8), were printed folio and hand colored. It appears that possibly 15 of these were
+printed by 1800 and that the early provenance of 10, including copy F, is unknown. But of these 10 copies,
+only F, G, and the Munich copy were printed on one side of the leaf, the format of <hi rend="i">Urizen</hi>
+copy B and <hi rend="i">America</hi> copy A. The other seven were printed rectoverso, like the early copies of
+<hi rend="i">America</hi>, on either undated Whatman paper in light brown or yellow ink, or undated E &amp; P
+paper in green ink. Like <hi rend="i">Urizen</hi> copy B and <hi rend="i">America</hi> copy A, and the other
+books in D’Israeli’s 1835 collection, <hi rend="i">Visions</hi> copy G was painted in water colors; it was
+also printed in the light brownish-black ink of <hi rend="i">America</hi> copies A and B and 
+<hi rend="i">Urizen</hi> copy B, whereas <hi rend="i">Visions</hi> copy F and the Munich copy were color printed.
+But while the early history of <hi rend="i">Visions</hi> copy G is not clear, the later history is; it
+belonged to D’Israeli’s friend Dibdin and was trimmed and bound with <hi rend="i">Thel</hi> copy J,
+possibly around 1816, the date of the third flyleaf (<hi rend="i">BB</hi> 128), though probably not by
+Dibdin.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> While this may seem to
+suggest the possibility of <hi rend="i">Visions</hi> copy G as Romney’s copy and Dibdin as its purchaser,
+the fact that it was professionally bound with <hi rend="i">Thel</hi> probably long before 1834 makes that
+very unlikely, since lot 79 clearly sold as one item; it is also unlikely since, as will become clear, Dibdin
+appears not to have acquired it or <hi rend="i">Thel</hi> till after 1836. <note id="n16"><hi rend="s">16</hi>
+Both <hi rend="i">Thel</hi> copy J and <hi rend="i">Visions</hi> copy G were produced early 
+(<hi rend="i">BB</hi> 118, 465n4); when and from whom Dibdin acquired them is not known. They are assumed to have
+been purchased directly from Blake because (using the same logic applied to D’Israeli) Dibdin was a
+contemporary and owned them sometime after 1816. They could have been purchased, though, after 1824, or even
+after 1836, since they were “not catalogued with Dibdin’s library, sold by Evans, 26 June, 1817” 
+(<hi rend="i">Census</hi> 23n), or mentioned in his <hi rend="i">Library Companion</hi> (1824) or 
+<hi rend="i">Reminiscences</hi> (1836), the latter mentioning <hi rend="i">Songs</hi> and <hi rend="i">Night
+Thoughts</hi> (<hi rend="i">BR</hi> 243). It is possible, then, that, as D’Israeli purchased books from
+Romney’s collection, so Dibdin purchased his bound volume of <hi rend="i">Thel</hi> and 
+<hi rend="i">Visions</hi> from another collector and later than we imagine.
+                            <p><hi rend="i">Thel</hi> copy J differs from other copies by having its two
+offending lines (19-20) in plate 8 deleted. These were scraped off the paper, which makes the deletion
+impossible to verify as Blake’s since it occurred after the plate was inked and printed. Thus possibly
+either Dibdin or the person from whom he acquired it had erased the lines. The kind of deletion that is
+verifiable, other than masking, was the wiping off of ink, which could only occur after inking and before
+printing. Copy I, though, has scrolls painted over these two lines, which appear to be in Blake’s
+hand.</p></note></p>
+          <p>The Munich copy of <hi rend="i">Visions</hi> is recorded as having entered the Royal collection
+by “1840/41” along with a copy of <hi rend="i">The Song of Los</hi> (Dörrbecker 61n8), and thus was not
+purchased directly from the 1834 auction. It cannot be ruled out, though, because there could have been an
+intermediate owner, one who also owned a copy of <hi rend="i">The Song of Los.</hi> It does, however, seem
+less likely than copy F, which the following section reveals was probably not in D’Israeli’s collection in
+1824, when the collection was first described, but entered it as part of a set of books (including copies of
+<hi rend="i">America</hi> and <hi rend="i">Urizen</hi>) by 1835. <hi rend="i">Visions</hi> copy F is
+beautifully color printed, which may explain
+<pb id="p23-52" n="52"/>
+<figure n="vda.f.p1" id="vda.f.illbk.01" work-copy="vda.f" rend="db" width="699" height="1000">
+	<figTranscr/>
+	<head>3. <hi rend="i">Visions of the Daughters of Albion</hi> copy F, frontispiece Courtesy of the Pierpont
+Morgan Library, New York.</head>
+	<figDesc>PML 63138</figDesc>
+</figure>
+why lot 79 sold for 11 shillings. At one shilling per plate, this volume cost a good deal more than the other
+books: 25 shillings for 46 impressions of <hi rend="i">America</hi> and <hi rend="i">Urizen</hi>, and 18
+shillings for “two volumes” that may represent 50 impressions. The higher price per impression may reflect
+more competition than the other volumes (<hi rend="i">Visions</hi> was the first of the books sold), which in
+turn may reflect a particularly splendid copy. Of all the copies of <hi rend="i">Visions</hi> produced in the
+1790s, and of all the illuminated books in the auction (assuming we’ve correctly identified the copies), the
+color-printed <hi rend="i">Visions</hi> copy F, especially with its stunning frontispiece, is far and away the
+most <hi rend="i">painterly</hi> and materially substantial (illus. 3). A few years before the Romney auction,
+Smith had noted the same about works printed in this technique: “Blake’s coloured plates have more effect
+than others where gum has been used,” for “they are coloured . . . with a degree of splendour and force,
+as almost to resemble sketches in oil colours” (<hi rend="i">BR</hi> 473, 472). Smith based his assertions
+“upon those beautiful specimens [the <hi rend="i">Large</hi> and <hi rend="i">Small Book of Designs</hi>] .
+. . coloured purposely for . . . Ozias Humphry” (<hi rend="i">BR</hi> 473). Smith’s opinion, that the
+opaque colors characteristic of color printing are more “beautiful” than the transparent tints
+characteristic of water color drawings, which he equates with their binder, gum arabic, reflects the then
+fashionable taste for water colors in “imitation of the effect of oil painting . . . the explicit 
+<hi rend="i">desirability</hi> of [which was] the bellwether of a new consciousness of the changing potential of
+watercolor art” (Cohn 11).<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> Given
+the circumstantial evidence regarding D’Israeli’s ownership of lot 83 and the higher price per print of
+lot 79, it seems probable that Romney’s <hi rend="i">Visions</hi> was copy F, the copy later owned by
+D’Israeli. <note id="n17"><hi rend="s">17</hi> Smith knew that Blake “preferred mixing his colours with
+carpenter’s glue, to gum, on account of the latter cracking in the sun, and becoming humid in moist
+weather” (<hi rend="i">BR</hi> 472). But he must have also known that the opacity of size-color or
+“body-color” was not due to the binder but to an inert pigment, like precipitated chalk, mixed with the
+colors, which gave them bulk and hiding power. Even with glue binders Blake was able to produce transparent
+stains. Giving water colors body was one of the ways watercolorists attempted to legitimize their medium as
+<hi rend="i">painting</hi> and to compete with oil painters. See Cohn for a discussion of this and other
+techniques that English water color artists used “to establish their medium’s credentials as high
+art—against painters in oils, who would admit them into the Royal Academy only in 1812 and then segregated
+them into a separate gallery” (11-16).</note></p>
+          <p>D’Israeli’s collection deserves a closer look. In addition to <hi rend="i">Urizen</hi> copy
+B, <hi rend="i">America</hi> copy A, and <hi rend="i">Visions</hi> copy F, it included <hi rend="i">Songs</hi>
+copy A, <hi rend="i">Europe</hi> copy A, <hi rend="i">Thel</hi> copy F, and <hi rend="i">Marriage</hi> copy D,
+all folio. Could any two, or combination, of the last four account for lot 86x, “Blake’s two volumes”?
+At first glance, it seems unlikely that the two unidentified volumes could refer to <hi rend="i">Songs of
+Innocence and of Experience</hi>, not only because <hi rend="i">Songs</hi> is a combined work with a unifying
+titlepage, but also because nearly all copies are octavo. But <hi rend="i">Songs</hi> copies A, R, V, and
+possibly W before trimming, were, in fact, printed on folio leaves, and the first two of these copies were
+printed during Romney’s lifetime. Both copies A and R were printed on “I TAYLOR 1794” paper, the former
+approximately 38 × 27 cm, and the latter 30 × 22 cm (which may represent trimming by Linnell’s binder),
+and were initially made up of <hi rend="i">Innocence</hi> and <hi rend="i">Experience</hi> plates stabbed as
+two separate but complementary volumes. Both copies lack plate 1, the combined titlepage.<supplied
+type="spacer"> </supplied><ref target="n18" type="note">18</ref> Copy R, though, remained in Blake’s
+possession until it was purchased in 1819 by Linnell. It seems fairly certain, then, that if the “two
+volumes” were <hi rend="i">Songs of Innocence</hi> and <hi rend="i">Songs of Experience</hi>, they were the
+volumes that now constitute <hi rend="i">Songs</hi> copy A, which is folio, initially bound and numbered as
+two volumes, and has no combined titlepage to suggest otherwise. That the largest number of impressions sold
+for the least money may be explained by the size of the images, which are only one quarter the size of the 18
+<hi rend="i">America</hi> plates and one half the size of the 28
+<pb id="p23-53" n="53"/>
+<figure n="songsie.a.p49-33" id="songsie.a.illbk.49" work-copy="songsie.a" rend="db" width="658" height="1000">
+	<figTranscr>19<lb/>
+	HOLY THURSDAY<lb/>
+	Is this a holy thing to see,<lb/>
+	In a rich and fruitful land<lb/>
+	Babes reducd to misery,<lb/>
+	Fed with cold and usurous hand?<lb/>
+	Is that trembling cry a song?<lb/>
+	Can it be a song of joy?<lb/>
+	And so many children poor?<lb/>
+	It is a land of poverty!<lb/>
+	And their sun does never shine.<lb/>
+	And their fields are bleak &amp; bare.<lb/>
+	And their ways are fill’d with thorns<lb/>
+	It is eternal winter there.<lb/>
+	For where-e’er the sun does shine,<lb/>
+	And where-e’er the rain does fall;<lb/>
+	Babe can never hunger there,<lb/>
+	Nor poverty the mind appall.</figTranscr>
+	<head>4. <hi rend="i">Songs of Innocence and of Experience</hi> copy A, “Holy Thursday” from 
+<hi rend="i">Experience</hi>, courtesy of the Trustees of the British Museum</head>
+</figure>
+<figure n="songsie.r.p35-33" id="songsie.r.illbk.35" work-copy="songsie.r" rend="db" width="728" height="1000">
+	<figTranscr>34<lb/>
+	6<lb/>
+	HOLY THURSDAY<lb/>
+	Is this a holy thing to see,<lb/>
+	In a rich and fruitful land,<lb/>
+	Babes reducd to misery,<lb/>
+	Fed with cold and usurous hand?<lb/>
+	Is that trembling cry a song?<lb/>
+	Can it be a song of joy?<lb/>
+	And so many children poor?<lb/>
+	It is a land of poverty!<lb/>
+	And their sun does never shine.<lb/>
+	And their fields are bleak &amp; bare.<lb/>
+	And their ways are fill’d with thorns<lb/>
+	It is eternal winter there.<lb/>
+	For where-e’er the sun does shine,<lb/>
+	And where-e’er the rain does fall;<lb/>
+	Babe can never hunger there,<lb/>
+	Nor poverty the mind appall.</figTranscr>
+	<head>5. (in n. 18): <hi rend="i">Songs of Innocence and of Experience</hi> copy R, “Holy Thursday” from
+<hi rend="i">Experience</hi>, reproduced by permission of the Syndics of the Fitzwilliam Museum,
+Cambridge</head>
+</figure><hi rend="i">Urizen</hi> plates, which together sold for a mere six shillings more. And, as
+mentioned, unlike <hi rend="i">Visions</hi> copy F, the images of <hi rend="i">Songs</hi> copy A, 
+<hi rend="i">Urizen</hi> copy B, and <hi rend="i">America</hi> copy A were not color printed. They look more like
+water color drawings than paintings. <note id="n18"><hi rend="s">18</hi><hi rend="i"> Songs</hi> copy R has
+plate 1 but it is unnumbered and seems to have been inserted late, perhaps with the copy’s impression of
+“Tyger,” which is watermarked 1808, whereas other sheets are I. Taylor 1794 (Bindman, 
+<hi rend="i">Fitzwilliam Catalogue</hi> 12). Both plate 1 and “Tyger” were printed in black ink, whereas the
+<hi rend="i">Innocence</hi> plates were printed in a dull brown and the <hi rend="i">Experience</hi> plates
+were printed in a dull green (or greyish-green)—the same two inks used in copy A. Copy R also has plates
+50-52, which are missing in copy A, but these too may have been inserted or added late, in that they are the
+last three plates of <hi rend="i">Experience</hi>, and thus could have been easily added without upsetting the
+initial pencil numbering. Plate 52 was printed in a blackish-green and plates 50 and 51 were printed in green.
+The three frame lines and some of the rich colors in copy R appear certainly to have been added late, perhaps
+in preparation to sell the copy to Linnell. Recoloring an illuminated book would not have been unprecedented;
+Blake recolored <hi rend="i">Songs</hi> copy E in 1806 for Butts, though its impressions were initially
+lightly washed c. 1789 and 1794.
+                            <p>What <hi rend="i">America</hi> copy B was to <hi rend="i">America</hi> copy A,
+<hi rend="i">Songs</hi> copy R may have been to <hi rend="i">Songs</hi> copy A, that is, the second set of
+impressions pulled from the plates, and not produced between 1802-08 as Keynes has suggested 
+(<hi rend="i">Census</hi> 55). The matching inks (as well as coloring) is particularly noticeable in “Holy
+Thursday” of <hi rend="i">Experience</hi>, where a “monk” (i.e., an accidental ink blot) mars the word
+“rain” in line 14 (illus. 4 and 5). Copy R is slightly smaller than copy A, probably because it was
+trimmed by Linnell’s binder to match his other volumes.</p></note></p>
+          <p>Perhaps <hi rend="i">Songs</hi> were designated so briefly (“Blake’s two volumes”) because
+Blake’s name alone suggested <hi rend="i">Innocence</hi> and <hi rend="i">Experience</hi>, his best known
+works, particularly to an audience familiar with Smith’s <hi rend="i">Nollekens and His Times</hi> (1828) or
+Cunningham’s <hi rend="i">Lives</hi> (1830). In 1830, a monochrome copy of <hi rend="i">Songs</hi> (copy BB)
+sold simply as “Blake’s Phantasies,” realizing two shillings more than lot 86x (<hi rend="i">Census</hi>
+66). Or, more likely, the auction description may be brief simply because the people in the hall would see and
+hear what the volumes were when the auctioneer held them up.<supplied type="spacer"> </supplied><ref
+target="n19" type="note">19</ref> In any event, the idea that Romney owned <hi rend="i">Songs</hi> copy A
+challenges Keynes’ assertion that it was acquired by D’Israeli directly from
+<pb id="p23-54" n="54"/>
+Blake (<hi rend="i">Census</hi> 56). Bentley is more circumspect, stating that <hi rend="i">Songs</hi> copy A
+was “Probably acquired” by D’Israeli, but certainly “Sold by [D’Israeli’s] son the Earl of
+Beaconsfield at Sotheby’s, 20 March 1882” (<hi rend="i">BB</hi> 412). <note id="n19"><hi rend="s">19</hi>
+This possibility was suggested to me by G. E. Bentley, Jr.</note></p>
+          <p>Though right to question the idea of a direct purchase from Blake, Bentley appears also to
+question the purchase itself, which seems unnecessary since without the 50 impressions of 
+<hi rend="i">Songs</hi> copy A (nearly a third of his collection), D’Israeli could not have referred in 1835 to
+his “ONE HUNDRED AND SIXTY DESIGNS . . . of Blake’s.” To make up this sum, D’Israeli had to have owned
+either a 50-plate copy of <hi rend="i">Songs</hi> (as opposed to the usual 54-plate copy) or 
+<hi rend="i">Milton</hi>, and he (or his son) is known to have owned the former but not the latter.<supplied
+type="spacer"> </supplied><ref target="n20" type="note">20</ref> The question, then, is not whether
+D’Israeli acquired <hi rend="i">Songs</hi> copy A, but from whom and when. The evidence here suggests that
+he purchased it from (W. E.?) Tiffin, who purchased it at the Romney auction in 9 May 1834, and not from
+Blake. He acquired it, in other words, from a dealer a year or less before he described his own collection on
+24 July 1835. 
+                        <note id="n20"><hi rend="s">20</hi> Because <hi rend="i">Songs</hi> copy A was
+numbered in ink by Blake, 1-26 and 1-20, with the frontispieces and titlepages of both sets unnumbered, it is
+unlikely that its 50 pages were the result of later extractions, though, as mentioned (see n. 18), the three
+missing <hi rend="i">Experience</hi> plates, 50-52, are the last three plates of <hi rend="i">Experience</hi>
+of <hi rend="i">Songs</hi> copy R—a grouping found in no other copy.</note></p>
+          <p>That “Blake’s two volumes” were <hi rend="i">Songs</hi> copy A, as initially bound, and not
+a compilation of the other three D’Israeli books, <hi rend="i">Thel</hi> copy F, <hi rend="i">Europe</hi>
+copy A, and <hi rend="i">Marriage</hi> copy D, is supported by two facts. First, these three works have
+different stab holes (<hi rend="i">BB</hi> 55-56), which means that they were never bound in two. Could any
+two of the above have constituted “two volumes”? Probably not <hi rend="i">any</hi> two, since 
+<hi rend="i">Marriage</hi> copy D, was stabbed six times, a style Blake used only one other time, for 
+<hi rend="i">Thel</hi> copy O and <hi rend="i">Milton</hi> copy D, which were stabbed together for Mrs. Vine
+between 1815, the date of the paper used in both books, and 1827 (<hi rend="i">BB</hi> 118). 
+<hi rend="i">Marriage</hi> copy D, in other words, may have remained in the studio in sheets long after it was
+produced, as did many other illuminated books (see n. 26), and bound only when sold. Were 
+<hi rend="i">Thel</hi> copy F and <hi rend="i">Europe</hi> copy A the “two volumes”? This too is unlikely for
+it would mean that the “Blakean portfeuille” that D’Israeli had already formed as early as 1824 would
+have consisted only of <hi rend="i">Songs</hi> and <hi rend="i">Marriage</hi>, which for reasons discussed
+below is very unlikely. This portfolio, whose size and contents are not known, is generally assumed to have
+contained the 160 designs of 1835 (<hi rend="i">BR</hi> 289n1). I think this is mistaken; the evidence
+regarding <hi rend="i">Urizen</hi> copy B and <hi rend="i">America</hi> copy A already suggests that the
+earlier portfolio was much smaller. Given Dibdin’s description of the 1824 portfolio, I suspect that it
+consisted of only three illuminated books: <hi rend="i">Thel, Europe</hi>, and <hi rend="i">Marriage.</hi></p>
+          <p>In <hi rend="i">The Library Companion</hi>, 1824, Dibdin states:
+<q>
+My friend Mr. D’Israeli possesses the largest collection of any individual of the very extraordinary
+drawings of Mr. Blake; and he loves his classical friends to disport with them, beneath the lighted Argand
+lamp of his drawing room, while soft music is heard upon the several corridors and recesses of his enchanted
+staircase. Meanwhile the visitor turns over the contents of the Blakean portefeuille. Angels, Devils, Giants,
+Dwarfs, Saints, Sinners, Senators, and Chimney Sweeps, cut equally conspicuous figures. . . . (734n; 
+<hi rend="i">BR</hi> 289)
+</q>
+Though referred to as “drawings,” the works are no doubt hand-colored prints, the term “drawing”
+revealing the transparency of Blake’s innovative medium, a point made by Smith. “The plates . . . were
+then printed in any tint that he wished, to enable him or Mrs. Blake to colour the marginal figures up by hand
+in imitation of drawings” (<hi rend="i">BR</hi> 460).<supplied type="spacer"> </supplied><ref target="n21"
+type="note">21</ref>
+	<note id="n21"><hi rend="s">21</hi> Linnell described <hi rend="i">Songs of Innocence and of Experience</hi>
+copy R as a “Book of Designs” (<hi rend="i">BR</hi> 585). Coleridge, in a letter to Tulk, Feb. 1818,
+referred to <hi rend="i">Songs</hi> as “Drawings” (<hi rend="i">BR</hi> 252). Dibdin (or an assistant who
+mistook Blake’s first name) also lists in a separately published <hi rend="i">Index to the . . .
+Reminiscences</hi> D’Israeli’s “letter respecting his collection of drawings by the late T. Blake”
+(20). They were still being called drawings by D’Israeli’s son, Lord Beaconsfield, who told W. M. Rossetti
+in 1862 that he had “170 Drawings etc By W. Blake” (<hi rend="i">BB</hi> 156n). <hi rend="i">The Large and
+Small Books of Designs</hi> copies A were described similarly, selling as “original drawings” in 1846 
+(<hi rend="i">BB</hi> 356-57). Even uncolored prints, prints not thought of as facsimiles or drawings, were often
+referred to as drawings. Edward Dayes, for example, states that “drawing . . . possess[es] a divine virtue
+in its creative power . . . as it preserves the images of distant objects, and the likeness of those we love.
+Without risking our lives on the boisterous ocean, we may enjoy at home, in a small book, representations of
+the finest productions of nature and art . . .” (252-53). Drawing as representation refers to “the exact
+imitation of all the forms and manners which present themselves to our sight” (253), and thus
+re-presentations in books, which are technically prints, are also “drawings.”
+                            <p>If, on the other hand, we assume that the works in the portfolio were real
+drawings, a possibility suggested to me by G. E. Bentley, Jr., then we must also assume that this collection
+was sold by 1835 and replaced by a new collection focused entirely on Blake’s books, since the “one
+hundred and sixty designs” can be accounted for in full by illuminated books. It is more reasonable to
+assume that D’Israeli had a rudimentary collection by 1824 which he later enlarged.</p></note></p>
+          <p>D’Israeli biographer James Ogden thinks the setting too imaginative, and says Dibdin “had
+apparently not actually seen the collection” (44). The description’s list of contraries, though, suggests
+otherwise. “Angels,” “Devils,” and “Giants” are accurate descriptions of the verbal and visual
+imagery of both <hi rend="i">Europe a Prophecy</hi>, especially plate 8, and <hi rend="i">The Marriage of
+Heaven and Hell.</hi> “Giant” could also refer to “A Dream of Thiralatha” (B) (aka 
+<hi rend="i">America</hi> pl. d), in which a giant sleeps under a bent tree. “Dwarfs” may also refer to 
+<hi rend="i">Europe</hi>, where on plate 15 a woman is caught in a spiderweb, to the small interlinear figures of
+<hi rend="i">Marriage</hi>, or, more likely, to the small and elf-like figures populating <hi rend="i">The
+Book of Thel.</hi> The reference to “Saints” and “Sinners” is puzzling, though it could conceivably be
+to the pilgrim equipped like Bunyan’s Christian and the waiting assassin of <hi rend="i">Europe</hi> plate
+4, or perhaps to “Joseph of Arimathea Preaching,” where the prophet chastises the flock, or simply to good
+and evil figures in general, a variation of angels and devils. “Senators,” which then referred to either a
+“counsellor, statesman; a leader in State or Church” (<hi rend="i">OED</hi>), describes well 
+<hi rend="i">Europe</hi> plate 14, where a batwinged papal figure lords it over the “Kings and Priests” on
+Earth who had “copied . . . his brazen Book” (<hi rend="i">Europe</hi> pl. 14). “Chimney Sweeps,”
+which admittedly calls to mind <hi rend="i">Songs</hi>, may have been generated by its opposite,
+“Senators,” and meant to refer to nothing more than the powerless underclass, as pictured in 
+<hi rend="i">Europe</hi> plates 9 and 10: in the former a mother mourns the death of a child in front of a huge
+chimney.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref>
+	<note id="n22"><hi rend="s">22</hi> According to the <hi rend="i">OED</hi>, “chimney” referred not only
+to a flue but also to “a fireplace or a hearth,” as well as to a “chimney piece,” the mantle over the
+fireplace. The former sense is pictured in <hi rend="i">Europe</hi> plate 9; the latter sense mentioned in
+plate 12: “Over the doors Thou shalt not: &amp; over the chimneys Fear is written.”</note></p>
+          <p>The works described seem to be <hi rend="i">Europe, Thel</hi>, and <hi rend="i">Marriage</hi>,
+and perhaps a separate plate, copies of which
+<pb id="p23-55" n="55"/>
+D’Israeli owned by 1835. Speculative as this is, it is probable that the “Blakean portfeuille” contained
+multiple titles, but not a copy of <hi rend="i">Songs</hi>, which Dibdin would have recognized and presumably
+expounded upon in more detail since he owned a copy of <hi rend="i">Innocence.</hi> The 1824 portfolio, then,
+may have contained 54 designs. Had D’Israeli purchased his copies of <hi rend="i">Urizen</hi> (B), 
+<hi rend="i">America</hi> (A), <hi rend="i">Visions</hi> (F), and <hi rend="i">Songs</hi> (A) from the Romney sale
+(through the print dealers Evans and Tiffin), he would have added 106 plates to the collection for a total of
+160 plates.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">III</hi>
+            </title>
+          </head>
+          <p>With 54 plates, D’Israeli’s “Blakean portefeuille” was certainly not “the largest
+collection of any individual of the very extraordinary drawings of Mr. Blake”—nor would it have been had
+it contained all “160 designs.” In 1824, Thomas Edwards, the brother of publisher Richard Edwards, owned
+the 537 large drawings of <hi rend="i">Night Thoughts</hi>, which he had offered for sale in 1821 for £300,
+and again in 1826 and 1828 for £50 (<hi rend="i">BB</hi> 646). Butts’ collection contained more illuminated
+prints and water color drawings than any other collector or patron (as opposed to publisher). Flaxman’s,
+with <hi rend="i">Songs</hi> copy O, <hi rend="i">Innocence</hi> copy D, and 116 designs for Gray’s 
+<hi rend="i">Poems</hi>, was larger, as were Linnell’s and Cumberland’s illuminated book collections.<supplied
+type="spacer"> </supplied><ref target="n23" type="note">23</ref> It was “curious” not only for D’Israeli
+not to have mentioned Blake in any of his writings (or for Blake, or any of Blake’s friends, not to have
+mentioned D’Israeli as a patron), but also for Dibdin not to have mentioned Linnell, Cumberland, Butts,
+Humphry, Edwards, Thomas, or Hanrott, Blake’s major patrons and collectors at that time, in either his 
+<hi rend="i">Library Companion</hi> (1824) or <hi rend="i">Reminiscences</hi> (1836). Dibdin’s comments
+regarding the size of D’Israeli’s collection of 1824 are clearly those of a man with very limited
+knowledge of Blake’s friends and collectors, and, as will become evident, of the size and diversity of
+Blake’s canon. This is not surprising; according to the <hi rend="i">DNB</hi>, Dibdin’s reader “will
+find a great deal of gossip about books and printers, about book collectors and sales by auction; but for
+accurate information of any kind he will seek in vain.”<supplied type="spacer"> </supplied><ref target="n24"
+type="note">24</ref>
+	<note id="n23"><hi rend="s">23</hi> In addition to <hi rend="i">The Book of Job</hi> and other drawings,
+Linnell owned <hi rend="i">Innocence</hi> copy I, <hi rend="i">America</hi> copy O, <hi rend="i">Europe</hi>
+copy K, <hi rend="i">Marriage</hi> copy H, <hi rend="i">Songs</hi> copy R, <hi rend="i">Jerusalem</hi> copy C,
+and <hi rend="i">On Homer’s Poetry</hi> copies B and C (250 designs on 224 leaves), and had three copies of
+<hi rend="i">For the Sexes.</hi> In 1824, Cumberland’s illuminated book collection probably consisted of 
+<hi rend="i">America</hi> copy F, <hi rend="i">Visions</hi> copy B, <hi rend="i">Europe</hi> copy C, 
+<hi rend="i">Song of Los</hi> copy D, <hi rend="i">Thel</hi> copy A, <hi rend="i">Songs</hi> copy F, and 
+<hi rend="i">For Children</hi> copy C (115 designs on 102 leaves), and possibly <hi rend="i">Marriage</hi> copy A
+and <hi rend="i">Urizen</hi> copy F, since they were once bound with <hi rend="i">Thel</hi> copy A 
+(<hi rend="i">Census</hi> 21). Bentley, though, believes they were bound by Beckford, who owned them by 1835, since
+they were not listed in the 1835 Cumberland auction catalogue. Lot 61 of that catalogue was “Blake’s Book
+of Job. Book of Thel, etc. coloured; and Gates of Paradise,” and sold for £3.13s.6d. (<hi rend="i">BB</hi>
+657). The “etc.,” though, is inconclusive; if only these three works sold, the price was high, especially
+compared to lot 60, which consisted of copies of <hi rend="i">America, Visions, Europe</hi>, and 
+<hi rend="i">Song of Los</hi> bound together, and <hi rend="i">The Grave</hi>, and sold for £3.18s. Keynes’s
+attribution of <hi rend="i">Marriage</hi> copy A and <hi rend="i">Urizen</hi> copy F to Cumberland should not
+be easily ruled out.
+                            <p>In 1835, Butts bought <hi rend="i">America, Visions, Europe</hi>, and 
+<hi rend="i">Los</hi> from the Cumberland auction and added them to the illuminated books he already owned: 
+<hi rend="i">Songs</hi> copy E, <hi rend="i">Thel</hi> copy E, <hi rend="i">Ghost of Abel</hi> copy A, 
+<hi rend="i">Jerusalem</hi> copy I (posthumous), <hi rend="i">Milton</hi> copy A or B, <hi rend="i">On Homer’s
+Poetry</hi> (?A), which by any counting made his the largest collection of illuminated books and prints at
+that time. It is interesting that Butts, who was a major collector of water colors and drawings and had
+purchased a few books, acquired most of his illuminated books from another collector and not directly from
+Blake.</p></note>
+	<note id="n24"><hi rend="s">24</hi> The <hi rend="i">DNB</hi> also quotes the even harsher critique of
+Alexander Dyce: Dibdin was “an ignorant pretender, without the learning of a schoolboy, who published a
+quantity of books swarming with errors. . . .” Even a defender of Dibdin’s like William Alexander Jackson
+was forced to admit that “the person who turns to Dibdin for information finds a . . . baffling kind of
+error—and sometimes it entails considerable search to ascertain whether or not Dibdin is confused or
+careless, or whether he really had seen such a book as he describes” (<hi rend="i">Records</hi>).</note></p>
+          <p>Dibdin may have compared D’Israeli’s collection to his own, which by the time of his death
+(1847) consisted of <hi rend="i">Thel</hi> copy J, <hi rend="i">Visions</hi> copy G, and unknown copies of 
+<hi rend="i">Night Thoughts</hi> and <hi rend="i">Innocence.</hi> The 43-plate <hi rend="i">Night Thoughts</hi>,
+which was one of Dibdin’s favorite books, was acquired by 1836, but not necessarily before 1824. Dibdin’s
+copy of <hi rend="i">Innocence</hi> was acquired by 1816, the year that Blake paid him a visit. Though the
+specific copy is unknown, I suspect that it was an early one, because it appears to have been purchased
+secondhand: “I told Mr. Blake that our common friend, Mr. Masquerier, had induced me to purchase his
+‘Songs of Innocence,’ and that I had no disposition to ‘repent my bargain’ ” 
+(<hi rend="i">Reminiscences</hi> 2: 787; <hi rend="i">BR</hi> 243).<supplied type="spacer"> </supplied><ref
+target="n25" type="note">25</ref> Dibdin telling Blake that he owned an illuminated book suggests that he did
+not purchase the book directly from Blake. But even if he had, and the “bargain” was the good price given
+to him by Blake, that too suggests an early copy, one that Blake did not specially print for Dibdin but was
+“in hand.”<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref> That it was an early
+copy, like G, J, or L, means it was printed octavo on both sides of the leaves, that is, 28 to 31 plates on 15
+to 17 leaves. As mentioned, Dibdin’s copies of <hi rend="i">Thel</hi> and <hi rend="i">Visions</hi> were
+bound together, possibly around 1816, but not necessarily for Dibdin; they could have been purchased after
+1824, or even after 1836 (see n. 16). Indeed, if D’Israeli’s collection was large relative to Dibdin’s,
+then it is likely that Dibdin’s copies of <hi rend="i">Thel</hi> and <hi rend="i">Visions</hi> were not yet
+in his collection in 1824, since they would have increased the size of his collection to 47 or 50 designs on
+34 or 36 octavo, quarto, and folio leaves—too many to exaggerate the size of his friend’s collection as
+the “largest.” On the other hand, a portfolio consisting of <hi rend="i">Marriage</hi> copy D, 
+<hi rend="i">Thel</hi> copy F, <hi rend="i">Europe</hi> copy A, and a separate plate, that is, 54 variously sized
+and colored images printed on one side of large folio leaves, would not only have appeared to consist of
+drawings instead of either prints or book pages, but, relative to Dibdin’s <hi rend="i">Innocence</hi>,
+would also have appeared particularly extensive and beautiful. <note id="n25"><hi rend="s">25</hi> Masquerier
+was a respected painter 20 years Blake’s junior. He was also a friend of Crabb Robinson’s, who speaks of
+him as having no feel for or appreciation of Blake (<hi rend="i">BR</hi> 331, 336, 549).</note>
+	<note id="n26"><hi rend="s">26</hi> Blake sold many books late in life that were printed early, that is, sold
+them from stock. Examples of this practice include <hi rend="i">Innocence</hi> copy I, which remained in the
+studio till Linnell purchased it (Essick, <hi rend="i">Huntington Catalogue</hi> 146); <hi rend="i">Songs</hi>
+copy J to Tulk; <hi rend="i">Songs</hi> copy R to Linnell; <hi rend="i">Songs</hi> copy E, which contained
+impressions from <hi rend="i">Innocence</hi> copy J, to Butts; <hi rend="i">Innocence</hi> of 
+<hi rend="i">Songs</hi> copy O to Flaxman; <hi rend="i">Marriage</hi> copy H to Linnell; and 
+<hi rend="i">America</hi> copy D to Crabb Robinson.
+                            <p>Dibdin may have owned <hi rend="i">Innocence</hi> copy S (<hi rend="i">BB</hi>
+410), but this is sheer speculation, apparently based on copy S being watermarked 1808 and thus appearing to
+be the copy printed closest in date to Blake and Dibdin’s 1816 interview (<hi rend="i">BR</hi> 242-43). But
+as Bentley also points out, Dibdin’s copy could have been G, J, L, N, O, Q, or T; in short, any of those
+whose early nineteenth-century history is unknown (<hi rend="i">BB</hi> 410).</p></note></p>
+          <p>Eleven years later, in 1835, Dibdin requested the loan of the portfolio because he intended to
+include Blake in a projected chapter on the fine arts in his <hi rend="i">Reminiscences.</hi> D’Israeli’s
+“reply,” however, “not only staggered me, but induced me to abandon nearly my whole intention in regard
+to Blake” (<hi rend="i">BR</hi> 243). Dibdin was “staggered” by the sheer <hi rend="i">number</hi> of
+designs in D’Israeli’s collection, which he (or D’Israeli) emphasized by printing it in small capitals:
+“ONE HUNDRED AND SIXTY.”<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> He was,
+no doubt, induced to abandon his intention by the unexpectedly large number of works to be examined, and by
+D’Israeli’s warning that “it was quite . . . impossible, if you had them, to convey a very precise idea
+of such an infinite variety of these wonderous
+<pb id="p23-56" n="56"/>
+deleriums of [Blake’s] fine and wild creative imagination” (243-44). Clearly, Blake’s canon was larger
+and more diverse than Dibdin realized, than his own collection at this time would have led him to believe, and
+D’Israeli’s collection had grown substantially since the last time they spoke—and certainly since the
+last time he had seen it. D’Israeli says as much, telling Dibdin in the same letter that there were
+“unimaginable chimeras, such as you have never viewed . . .” (<hi rend="i">BR</hi> 244). I suggest that
+D’Israeli’s collection grew by 106 prints, or four volumes: <hi rend="i">Urizen</hi> copy B, 
+<hi rend="i">Visions</hi> copy F, <hi rend="i">America</hi> copy A, and the two volumes D’Israeli was eventually
+to bind as one, <hi rend="i">Songs</hi> copy A. These are the books, and appear to be the copies, first owned
+by Romney. 
+                        <note id="n27"><hi rend="s">27</hi> I have not seen the original letter, and I suspect
+Ogden did not either. Though Ogden, observing that “Dibdin’s text of the letter is patently corrupt,”
+“emended its obvious errors,” such as “every” for “very,” a semicolon for a period, and “teribil
+via” for “terribilita,” he leaves “one hundred sixty” in small capitals (44n). This makes it unclear
+if the emphasis is in the original or in the transcript (which he uses), the former expressing the excitement
+of news, the latter expressing Dibdin’s own initial response. In either event, however, it seems clear that
+Dibdin was “staggered” by the <hi rend="i">size</hi> of a collection he thought he knew. Again, it appears
+that Dibdin acquired <hi rend="i">Visions</hi> copy G with <hi rend="i">Thel</hi> copy J, with which it was
+bound, not from the 1834 auction but from an unknown collector <hi rend="i">after</hi> writing the 
+<hi rend="i">Reminiscences</hi> (1836), for how with these two books in a collection consisting of 
+<hi rend="i">Innocence</hi> and <hi rend="i">Night Thoughts</hi> could he record having been staggered by the size
+and diversity of Blake’s canon? If anything, it seems that his interest in Blake was reawakened by
+D’Israeli’s enlarged portfolio.</note></p>
+          <p>D’Israeli’s interest in the illuminated books appears to have been primarily pictorial rather
+than literary. His bias reveals itself not only in his description, which carefully attends to the visual
+images and drawing and coloring styles, but also in his comment about the poetry: “the verses . . . are
+often remarkable for their sweetness and their depth of feeling” (<hi rend="i">BR</hi> 244). He seems to
+have read nothing other than the <hi rend="i">Songs</hi>—lending further credence to Gilchrist’s belief
+that Blake’s poems were “to the multitude . . . unintelligible” (Gilchrist 1: 303). What is not clear is
+the relation D’Israeli had with Blake. Ogden, echoing Keynes and Bindman, expresses the general consensus
+that “apart from Blake’s few close friends, D’Israeli seems to have been the earliest customer for the
+illuminated books” (43) and “one of the first to discern his Genius” (207).</p>
+          <p>Admittedly, collecting Blake’s illuminated books seems especially appropriate for a man of
+letters who wrote the very popular <hi rend="i">Curiosities of Literature</hi> (1791-1834) and whose most
+original work was <hi rend="i">An Essay on the Literary Character</hi> (1795), a discourse on original genius.
+But there is no documentary evidence I know of to prove that D’Israeli knew Blake personally, or was
+responsible for the commission, or even had purchased illuminated books in the mid 1790s, when the books in
+his collection were produced. Though in 1799 he was a member of the Society for the Encouragement of Arts,
+Manufactures, and Commerce, through which he met James Barry, D’Israeli and Blake moved in very different
+circles. Through Murray, his publisher, D’Israeli met many of the “leading contemporary men of letters”
+(Ogden 1), including Scott, Byron, and Southey, but “there is not enough evidence to connect him closely
+with any of the group that met at Joseph Johnson’s bookshop” (Ogden 43). The only reasons to suggest he
+may have known Johnson are his friendship with Godwin in the 1820s and, again, his collection of Blakes, for
+it would have been at Johnson’s “that he would be most likely to get to know the work of Blake, if not the
+artist himself” (Ogden 43). But Tyson’s biography of Johnson does not mention D’Israeli at all. And, had
+D’Israeli frequented the shop, he would probably have seen book illustrations, not illuminated books. It
+does, indeed, appear that the sole evidence for supposing that D’Israeli knew Blake is that he owned
+Blakes.<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref>
+	<note id="n28"><hi rend="s">28</hi> Their paths may have crossed very early, though without either of them
+being aware of it, and before the invention of illuminated books. D’Israeli had contributed “Letter from
+Nonsense with some account of himself and family,” and “Farther account of the family of Nonsense,” to
+Holcroft’s <hi rend="i">Wit’s Magazine</hi> for April (145-47) and May (177-79) 1784, which also contained
+plates engraved by Blake.</note></p>
+          <p>Given the absence of hard evidence to the contrary, it seems reasonable to suppose that
+D’Israeli may have purchased his illuminated books late and possibly through others. As mentioned, his copy
+of <hi rend="i">Marriage</hi> (D) was produced early but was stabbed by Blake in a peculiar style (six stab
+holes) that he used only one other time, and that after 1815. Like many other illuminated books, including
+Dibdin’s copy of <hi rend="i">Innocence, Marriage</hi> copy D appears to have been produced early but sold
+late. That Dibdin came to own illuminated books, purchased possibly from dealers or collectors and not from
+Blake, but certainly purchased many years after they were produced, that <hi rend="i">Songs</hi> copy D was
+sold at auction in 1813 (<hi rend="i">BB</hi> 413), that Rivington and Cochran offered <hi rend="i">Songs</hi>
+copy U in 1824 (<hi rend="i">BB</hi> 654), that Hanrott bought <hi rend="i">Songs</hi> copy P from an auction
+in 1826 (<hi rend="i">BB</hi> 419), and that Francis Douce, D’Israeli’s closest friend, purchased 
+<hi rend="i">Marriage</hi> copy B from Dyer in 1821, all suggest that illuminated books were beginning to change
+hands late in Blake’s life without his involvement.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref> Blake selling early books late, and other people selling Blakes during his lifetime,
+reinforce the possibility that D’Israeli acquired his 1824 “Blakean portefeuille” without having met
+Blake personally, or at least not early. <note id="n29"><hi rend="s">29</hi> Bentley has not identified Dyer,
+other than to suggest “(George?) Dyer,” by which he probably means the poet (1755-1841) 
+(<hi rend="i">BB</hi> 289, 298). Perhaps “Dyer” was the “honest, worthy, painstaking bookseller, the brother
+of the late Rev. Mr. Dwyer,” whom Dibdin mentions in <hi rend="i">Reminiscences</hi> (1: 194), or, as Essick
+has suggested, Charles George Dyer, a London printseller (<hi rend="i">Separate Plates</hi> 30).</note></p>
+          <p>Dibdin’s 1824 reference to D’Israeli’s collection as the largest cannot be taken seriously,
+nor should the idea that D’Israeli was an early purchaser and patron. D’Israeli was, along with
+Cumberland, Humphry, and Butts, a major Blake collector, but like Hanrott, Linnell, and Vine, he appears to
+have begun collecting Blake late. D’Israeli may have learned of Blake through Dibdin or Francis Douce,
+friends who owned illuminated books by 1821, or Prince Hoare, a friend who knew Blake well. Or, he may have
+learned of Romney’s specific copies of Blake’s books through his friendship with the dramatist
+<pb id="p23-57" n="57"/>
+Richard Cumberland, who was also a close friend of Romney’s. However he learned of Blake, by 1835
+D’Israeli’s collection of illuminated books, while not the largest, was one of the most comprehensive,
+coherent, and impressive “of any individual.” It appears, though, to have been formed in large part by a
+previously unrecognized Blake collector who was also a patron, George Romney.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">IV</hi>
+            </title>
+          </head>
+          <p>Did Romney form his collection the same way, purchasing a group of books, or one book at a time?
+More important, were the works he purchased commissioned by him or purchased from stock? These questions can
+be answered only by answering another: when were the books produced?</p>
+          <p>Romney’s and D’Israeli’s books constitute a set not merely by ownership but by sharing
+stylistic features rare or unique for most of the books. As noted, the usually monochrome 
+<hi rend="i">America</hi> is colored; the usually octavo <hi rend="i">Songs</hi> is folio and in two volumes; the
+normally colorprinted quarto <hi rend="i">Urizen</hi> is folio and not printed in colors; the usually quarto
+<hi rend="i">Thel</hi> and <hi rend="i">Marriage</hi> are folio and printed in two colors, and the usually
+color-printed <hi rend="i">Europe</hi> is not color printed. To this list of books can be added 
+<hi rend="i">Visions</hi> copy G, which is, as noted, closer stylistically and materially to these large paper
+copies than is colorprinted <hi rend="i">Visions</hi> copy F, the copy that appears to have sold as lot 79 in
+the Romney auction of 1834. <hi rend="i">Visions</hi> copy G was printed without borders on one side of the
+sheet and, like Romney’s and D’Israeli’s copies, was numbered in ink. It was also printed in a
+brownish-black ink similar to the one used in <hi rend="i">America</hi> copy A and <hi rend="i">Urizen</hi>
+copy B, and exactly that of <hi rend="i">Europe</hi> copy H, a monochrome copy which appears to have been
+printed along with <hi rend="i">Europe</hi> copy A, D’Israeli’s copy, as monochrome copy B of 
+<hi rend="i">America</hi> was printed with <hi rend="i">America</hi> copy A, and <hi rend="i">Songs</hi> copy R
+appears to have been printed with <hi rend="i">Songs</hi> copy A.<supplied type="spacer"> </supplied><ref
+target="n30" type="note">30</ref><hi rend="i">All Religions are One</hi> copy A and <hi rend="i">There is No
+Natural Religion</hi> copy L also appear to have been produced during this printing session. They are the only
+copies of these books printed on folio-size leaves, which given their one or so inch images strongly indicates
+that they were intended to match other copies of illuminated books. Several other features also support the
+idea that they were intended to be part of the set: they have the same ink as one another, the same printing
+style and paper as the other large paper copies, and the rudimentary color printing of <hi rend="i">Thel</hi>
+copy F and <hi rend="i">Marriage</hi> copy D.<supplied type="spacer"> </supplied><ref target="n31"
+type="note">31</ref>
+	<note id="n30"><hi rend="s">30</hi> The similarity between <hi rend="i">Europe</hi> copies A and H has been
+noted by Bentley: “Copy A, which is much like H, may have been printed early, but it seems to have been
+colored later, for both the designs and the text are colored, a practice Blake apparently began about 1805”
+(<hi rend="i">Europe</hi> 5). Bentley’s date for coloring is based on his theory that washed texts were
+characteristic of post-1805 coloring (see n. 10). Bindman, though, believes its coloring belongs “to the
+mid-1790s” (<hi rend="i">Art and Times</hi> 106), Which is technically more likely than its printing and
+coloring having been separated by years. <hi rend="i">Europe</hi> copy H is on smaller leaves than 
+<hi rend="i">Europe</hi> copy A and is not listed in <hi rend="i">Blake Books</hi> (142) as trimmed, but “the
+leaves were disbound, trimmed, and individually mounted, probably on the instructions of E. W. Hooper for the
+1891 Boston exhibition” (<hi rend="i">Europe</hi> 14). Initially, the paper for the two copies may have been
+the same size, though in copy H it was undated E &amp; P, the kind used in many of the recto-verso folio
+copies of <hi rend="i">America</hi> and <hi rend="i">Visions</hi> which appear to have been printed c.
+1793-94, and in <hi rend="i">Marriage</hi> copy F, which was color printed c. 1794-95. The paper, in other
+words, appears to have been from earlier stock than that used in <hi rend="i">Europe</hi> copy A and the other
+large paper copies. The brownish-black ink of <hi rend="i">Europe</hi> copy H is the same as in 
+<hi rend="i">Visions</hi> copy G and appears to be the same used in <hi rend="i">Europe</hi> copy A, which is not
+an olive brown (<hi rend="i">BB</hi> 142), but a brownish-black. <hi rend="i">Europe</hi> copy H may have been
+left monochrome to match <hi rend="i">America</hi> copy B, as <hi rend="i">Europe</hi> copy A appears to have
+been colored to match <hi rend="i">America</hi> copy A.
+                            <p>The proposal that at least a second set of impressions were printed from the
+plates is in keeping with standard printing practice. With materials made and equipment set up, it would have
+been extremely inefficient not to have done so (see n. 41). It is possible, then, that untraced 
+<hi rend="i">Visions</hi> copy Q, which was printed on one side of the leaf, may have been printed along with 
+<hi rend="i">Visions</hi> copy G, that is, the second set of <hi rend="i">Visions</hi> impressions pulled in this
+printing session.</p></note>
+	<note id="n31"><hi rend="s">31</hi> In all four copies, relief lines and areas were brushed over with a
+second ink, black in <hi rend="i">Marriage</hi> and <hi rend="i">Thel</hi>, and brown in <hi rend="i">All
+Religions</hi> and <hi rend="i">No Natural Religion.</hi> The second ink was used to create shading and
+texture, which is most apparent in the treatment of bark on the trees of <hi rend="i">Marriage</hi> plate 2,
+<hi rend="i">Thel</hi> plate 1, and <hi rend="i">No Natural Religion</hi> plates b10 and a5 of copies L and C,
+and the frontispiece of <hi rend="i">All Religions</hi> (see n. 32).
+                            <p>These copies of <hi rend="i">All Religions</hi> and <hi rend="i">No Natural
+Religion</hi> were printed on I. Taylor paper, the former dated 1794 and the size of the leaves used in the
+D’Israeli copies, the latter undated and trimmed to approximately 30 × 22 cm as part of a volume of
+miscellaneous Blake prints (<hi rend="i">BB</hi> 337-39). The leaf size, the four frame lines given each image
+(which may have been added late, as were those in <hi rend="i">Songs</hi> copy R), the absence of other
+copies, and its being kept in the studio until it was acquired by Linnell, suggest that <hi rend="i">All
+Religions are One</hi> copy A, the only complete copy extant, had a special importance to Blake. The same
+appears true of <hi rend="i">No Natural Religion</hi> copy L, which is on large leaves, with each image given
+four or more frame lines and finished in pen and ink. It is also the only complete copy of series b, and
+appears certainly to have been printed with 12 other green impressions now in copies C, D, and L2. All the
+other impressions of <hi rend="i">No Natural Religion</hi>, series a and b, were printed in brown,
+yellow-ochre, or olive, though most are listed simply as “brown” and on octavo-size leaves 
+(<hi rend="i">BB</hi> 80-81). Their “general uniformity suggests that they were printed at the same time” 
+(<hi rend="i">BB</hi> 82), while their distinct differences from the green impressions suggests that they were
+printed in a different session.</p></note></p>
+          <p>Blake, it appears, printed at least one copy of each illuminated book in this large paper,
+recto-only format, which is to say, during one session he printed his entire canon up to 1795 in a uniform
+style. The copies printed were <hi rend="i">All Religions</hi> copy A, <hi rend="i">No Natural Religion</hi>
+copy L, <hi rend="i">Thel</hi> copy F, <hi rend="i">Marriage</hi> copy D, <hi rend="i">Visions</hi> copy G,
+<hi rend="i">Urizen</hi> copy B, <hi rend="i">America</hi> copies A and B, <hi rend="i">Europe</hi> copies A
+and H, and <hi rend="i">Songs</hi> copies A and possibly R. The hypothesis that these 11 copies belong to the
+same printing session is suggested not only by their stylistic similarities, but also, and more importantly,
+by their material similarities. With the exception of <hi rend="i">Europe</hi> copy H, all were printed on I.
+Taylor or J. Whatman paper (either undated or dated 1794) approximately 37 × 26 cm, and in the same colors,
+which were possibly the same inks. As noted, <hi rend="i">America</hi> copies A and B and 
+<hi rend="i">Urizen</hi> copy B were printed in the same light brownish-black ink; <hi rend="i">Europe</hi> copies
+A and H and <hi rend="i">Visions</hi> copy G were printed in the same light brownish-black ink, possibly a
+lighter hue of the ink used in the copies of <hi rend="i">America</hi> and <hi rend="i">Urizen.</hi> A similar
+light black ink was used in illustrations of <hi rend="i">Marriage</hi> copy D and <hi rend="i">Thel</hi> copy
+F, making both books, technically speaking, color printed, since their texts were printed in green and
+yellow-ochre, respectively.<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref> The
+green of <hi rend="i">Marriage</hi> copy D varies from light to bluish to viridian lake, but the greener hue
+is very similar, if not the same, as the hue used in <hi rend="i">Songs</hi> copy A 
+(<hi rend="i">Experience</hi>), <hi rend="i">All Religions</hi> copy A, and <hi rend="i">No Natural Religion</hi>
+copy L. <note id="n32"><hi rend="s">32</hi><hi rend="i"> Marriage</hi> copy D is said to be in green and brown
+inks (<hi rend="i">BB</hi> 287n4); the brown is actually black, which is the same hue, and possibly the same
+ink, as that used in <hi rend="i">Thel</hi> copy F. In <hi rend="i">Marriage</hi> it was brushed over the
+green and used to create shadows in plates 1-5, 10-11, 14-16, 20, 21, 24, and in <hi rend="i">Thel</hi> it was
+brushed over the yellow-ochre in plates 1, 6-8. This brownish-black reticulates like an ink, and not like a
+tempera color. (The very dark and solid black that often passes for color printing is an opaque tempera that
+was applied to the impression.) It is possibly the black ink used to print <hi rend="i">America</hi> copies A
+and B and <hi rend="i">Urizen</hi> copy B. In any event, the color printing in <hi rend="i">Thel</hi> copy F
+and <hi rend="i">Marriage</hi> copy D is rudimentary, coming from the relief areas and not the shallows, as it
+did in <hi rend="i">Visions</hi> copy F and most other works color printed on one side of the leaf.</note></p>
+          <p>Light black, brown, and various greens, along with the yellow-ochre of <hi rend="i">Thel</hi>
+copy F, make for four distinct printing inks and may seem to invalidate my suggestion that the shared
+materials and stylistic features are signs of the same printing session. But Blake had used more inks than
+this in <hi rend="i">Marriage</hi> copy B, which was printed in yellow-ochre, olive-green, sage-green, dark
+grayishbrown, and reddish-brown (the last color used consistently for facing pages, which indicates that the
+27 plates were printed at the same time), and, of course, he had prepared as many colors and inks for the
+copies of books that he color printed from both the shallows and relief areas, like <hi rend="i">Visions</hi>
+copy F, or <hi rend="i">Urizen</hi> copies A and C, or <hi rend="i">Marriage</hi> copies E and F. In short,
+different inks (like different papers), especially among copies of the same book, do not mean different
+printing sessions.</p>
+          <p>Two other reasons to suppose that the books were produced together as a coherent set are the
+shared palettes and coloring styles. <hi rend="i">Marriage</hi> copy D and <hi rend="i">Thel</hi> copy F share
+a feature not present in any copy of either book printed before them: the top and/or bottom of
+<pb id="p23-58" n="58"/>
+<figure n="mhh.d.p10" id="mhh.d.illbk.10" work-copy="mhh.d" rend="db" width="704" height="1000">
+	<figTranscr>10<lb/>
+	Proverbs of Hell.<lb/>
+	The head Sublime, the heart Pathos, the genitals Beauty<lb/>
+	the hands &amp; feet Proportion.<lb/>
+	As the air to a bird or the sea to a fish, so is contempt<lb/>
+	to the contemptible.<lb/>
+	The crow wish’d every thing was black, the owl, that every<lb/>
+	thing was white.<lb/>
+	Exuberance is Beauty.<lb/>
+	If the lion was advised by the fox. he would be cunning.<lb/>
+	Improvent makes strait roads, but the crooked roads<lb/>
+	without Improvement, are roads of Genius.<lb/>
+	Sooner murder an infant in its cradle than nurse unacted<lb/>
+	desires<lb/>
+	Where man is not nature is barren.<lb/>
+	Truth can never be told so as to be understood, and<lb/>
+	not be believ’d.<lb/>
+	Enough! or Too much</figTranscr>
+	<head>6. <hi rend="i">The Marriage of Heaven and Hell</hi> copy D, plate 10 Courtesy of the Lessing J.
+Rosenwald Collection, Library of Congress, Washington D.C.</head>
+</figure>
+most of the designs were streaked or washed, which effectively called attention to the rectangular shape of
+the image; that is, the design was framed by the bands of colors (illus. 6, 7). A similar framing device was
+used in <hi rend="i">Visions</hi> copy G, where the right margin in plates 4, 7 (illus. 8), and 10 was painted
+in with flowers.<supplied type="spacer"> </supplied><ref target="n33" type="note">33</ref> Most of the 
+<hi rend="i">Marriage</hi> plates (and <hi rend="i">Thel</hi> plate 7) were also streaked between paragraphs or at
+line breaks in pink, yellow, or blue; the words themselves were not streaked or washed
+    <figure n="thel.f.p7" id="thel.f.illbk.07" work-copy="thel.f" rend="db" width="697" height="1000">
+	<figTranscr>5<lb/>
+	But he that loves the lowly, pours his oil upon my head,<lb/>
+	And kisses me, and binds his nuptial bands around my breast.<lb/>
+	And says; Thou mother of my children, I have loved thee.<lb/>
+	And I have given thee a crown that none can take away<lb/>
+	But how this is sweet maid, I know not, and I cannot know.<lb/>
+	I ponder, and I cannot ponder; yet I live and love.<lb/>
+	The daughter of beauty wip’d her pitying tears with her white veil,<lb/>
+	And said. Alas! I knew not this, and therefore did I weep:<lb/>
+	That God would love a Worm I knew, and punish the evil foot<lb/>
+	That wilful, bruis’d its helpless form; but that he cherish’d it<lb/>
+	With milk and oil, I never knew; and therefore did I weep,<lb/>
+	And I complaind in the mild air, because I fade away.<lb/>
+	And lay me down in thy cold bed, and leave my shining lot.<lb/>
+	Queen of the vales, the matron Clay answerd; I heard thy sighs.<lb/>
+	And all thy moans flew o’er my roof. but I have call’d them down:<lb/>
+	Wilt thou O Queen enter my house, ’tis given thee to enter.<lb/>
+	And to return; fear nothing. enter with thy virgin feet.<lb/>
+	IV</figTranscr>
+	<head>7. <hi rend="i">The Book of Thel</hi> copy F, plate 7 Courtesy of the Lessing J. Rosenwald Collection,
+Library of Congress, Washington D.C.</head>
+</figure>
+over. <hi rend="i">Marriage</hi> copy D, <hi rend="i">Thel</hi> copy F, and <hi rend="i">Songs</hi> copy A
+(illus. 4) are closer to one another in coloring than to others of their kind. Instead of a simple palette and
+colors laid on in thin, single, flat transparent washes, as in plate 7 of <hi rend="i">Thel</hi> copy H
+(illus. 9), the palette is more extensive and the coloring more translucent, even opaque and chalky in places,
+with the figures delicately modeled. The coloring of <hi rend="i">Thel</hi> copy F, for example, particularly
+in plates 1, 6, and 7, is more complicated than all other copies of <hi rend="i">Thel</hi> except copies N and
+O, the last two copies produced (c. 1815-27). In plate 7 (illus. 7), Thel and the
+<pb id="p23-59" n="59"/>
+<figure n="vda.g.p7" id="vda.g.illbk.07" work-copy="vda.g" rend="db" width="692" height="1000">
+	<figTranscr>7<lb/>
+	Wave shadows of discontent? and in what houses dwell the wretched<lb/>
+	Drunken with woe forgotten. and shut up from cold despair,<lb/>
+	Tell me where dwell the thoughts forgotten till thou call them forth<lb/>
+	Tell me where dwell the joys of old? &amp; where the ancient loves?<lb/>
+	And when will they renew again &amp; the night of oblivion past?<lb/>
+	That I might traverse times &amp; spaces far remote and bring<lb/>
+	Comforts into a prevent sorrow and a night of pain<lb/>
+	Where goest thou O thought! to what remote land is thy flight?<lb/>
+	If thou returnest to the present moment of affliction<lb/>
+	Wilt thou bring comforts on thy wings, and dews and honey and balm;<lb/>
+	Or poison from the desart wilds, from the eyes of the envier.<lb/>
+	Then Bromion said: and shook the cavern with his lamentation<lb/>
+	Thou knowest that the ancient trees seen by thine eyes have fruit;<lb/>
+	But knowest thou that trees and fruits flourish upon the earth<lb/>
+	To gratify senses unknown? trees beasts and birds unknown:<lb/>
+	Unknown, not unpercievd, spread in the infinite microscope,<lb/>
+	In places yet unvisited by the voyager. and in worlds<lb/>
+	Over another kind of seas, and in atmospheres unknown<lb/>
+	Ah! are there other wars, beside the wars of sword and fire!<lb/>
+	And are there other sorrows, beside the sorrows of poverty?<lb/>
+	And are there other joys, beside the joys of riches and ease?<lb/>
+	And is there not one law for both the lion and the ox?<lb/>
+	And is there not eternal fire, and eternal chains?<lb/>
+	To bind the phantoms of existence from eternal life?<lb/>
+	Then Oothoon waited silent all the day, and all the night,</figTranscr>
+	<head>8. <hi rend="i">Visions of the Daughters of Albion</hi> copy G, plate 7 By permission of the Houghton
+Library, Harvard University, bequest of Amy Lowell</head>
+</figure>
+baby are on the banks of a river, a sense of place that is missing in the earlier copies (except copy I) and
+represents a transformation of space that required extra time and attention, as did applying seven or eight
+different colors instead of the three or four broad washes that were used in copies B-E, G-I, K, M, and R. 
+<hi rend="i">Thel</hi> copy F and <hi rend="i">Marriage</hi> copy D also share a few colors specially mixed, like
+the pinkish-purple in plate 7 of the former and plate
+    <figure n="thel.h.p7" id="thel.h.illbk.07" work-copy="thel.h" rend="db" width="719" height="1000">
+	<figTranscr>5<lb/>
+	But he that loves the lowly, pours his oil upon my head,<lb/>
+	And kisses me, and binds his nuptial bands around my breast.<lb/>
+	And says; Thou mother of my children, I have loved thee.<lb/>
+	And I have given thee a crown that none can take away<lb/>
+	But how this is sweet maid, I know not, and I cannot know,<lb/>
+	I ponder, and I cannot ponder; yet I live and love.<lb/>
+	The daughter of beauty wip’d her pitying tears with her white veil,<lb/>
+	And said. Alas! I knew not this, and therefore did I weep:<lb/>
+	That God would love a Worm I knew, and punish the evil foot<lb/>
+	That wilful, bruis’d its helpless form; but that he cherish’d it<lb/>
+	With milk and oil, I never knew; and therefore did I weep.<lb/>
+	And I complaind in the mild air, because I fade away.<lb/>
+	And lay me down in thy cold bed, and leave my shining lot.<lb/>
+	Queen of the vales, the matron Clay answerd; I heard thy sighs.<lb/>
+	And all thy moans flew o’er my roof. but I have call’d them down:<lb/>
+	Wilt thou O Queen enter my house, ’tis given thee to enter.<lb/>
+	And to return; fear nothing. enter with thy virgin feet.<lb/>
+	IV</figTranscr>
+	<head>9. <hi rend="i">The Book of Thel</hi> copy H, plate 7 Courtesy of the Lessing J. Rosenwald Collection,
+Library of Congress, Washington D.C.</head>
+</figure>
+15 of the latter. Consistency in hue of a mixed color as opposed to a pure yellow, green, viridian lake, etc.,
+suggests the sharing of that color, which in turn suggests that the two books were colored near in time to one
+another. <note id="n33"><hi rend="s">33</hi> In plate 7 (illus. 8), a tree and bush stem out of a green cliff;
+their purpose is decorative as well as cosmetic, since they are actually covering ink blemishes. The last line
+and bottom of plate 7 was given a thin pink wash, which complements the bright orange in the sky, and moves
+the eye to a green wash at the left of the text that is the same color as the cliff at the right. The effect
+of these washes and additions is to frame or call attention to the design as an imposed shape, that is, as
+different from the paper.</note></p>
+          <p>The palette and coloring style of <hi rend="i">America</hi> copy A, <hi rend="i">Urizen</hi> copy
+B, <hi rend="i">Europe</hi> copy A, and <hi rend="i">Visions</hi> copy G are also similar to one another and
+not to other copies of their titles. <hi rend="i">America</hi> copy A is elaborately and sometimes heavily
+colored, but not at all like copy M, the copy reproduced by the Blake Trust. In copy M, only one text was
+washed over; in copy A, only three were not. The former copy was still treated as a text-centered artifact,
+though printed in or after 1799, the date of the paper, whereas in copy A the text was treated as part of the
+painting, colored in the same manner and intensity as the illustration (illus. 2 and 10), and not, as such
+texts usually were, in a light wash which integrated text and illustration while still clearly differentiating
+one from the other.<supplied type="spacer"> </supplied><ref target="n34" type="note">34</ref> The coloring of
+<hi rend="i">Europe</hi> copy A, in its deep, often somber tones, is similar to <hi rend="i">America</hi> copy
+A. Plate 5 of the former (illus. 11) and plate 6 of the latter (illus. 2), for example, were both painted in
+an ultramarine-like blue, much stronger and deeper than Blake’s usual
+<pb id="p23-60" n="60"/>
+<figure n="america.a.p7" id="america.a.illbk.07" work-copy="america.a" rend="db" width="710" height="1000">
+	<figTranscr>5<lb/>
+	Albions Angel stood beside the Stone<lb/>
+	of night, and saw<lb/>
+	The terror like a comet, or more like the<lb/>
+	planet red<lb/>
+	That once inclos’d the terrible wandering comets in its sphere.<lb/>
+	Then Mars thou wast our center, &amp; the planets three flew round<lb/>
+	Thy crimson disk; so e’er the Sun was rent from thy red sphere;<lb/>
+	The Spectre glowd his horrid length staining the temple long<lb/>
+	With beams of blood; &amp; thus a voice came forth, and shook the<lb/>
+	temple</figTranscr>
+	<head>10. <hi rend="i">America a Prophecy</hi> copy A, plate 7 Courtesy of the Pierpont Morgan Library, New
+York.</head>
+	<figDesc>PML 63134</figDesc>
+</figure>
+<figure n="europe.a.p4-5" id="europe.a.illbk.04" work-copy="europe.a" rend="db" width="740" height="1000">
+	<figTranscr>2<lb/>
+	Unwilling I look up to heaven! unwilling count the stars!<lb/>
+	Sitting in fathomless abyss of my immortal shrine.<lb/>
+	I eze their burning power<lb/>
+	And bring forth howling terrors, all devouring fiery kings.<lb/>
+	Devouring &amp; devoured roaming on dark and desolate mountains<lb/>
+	In forests of eternal death, shrieking in hollow trees.<lb/>
+	Ah mother Enitharmon!<lb/>
+	Stamp not with solid form this vig’rous progeny of fires.<lb/>
+	I bring forth from my teeming bosom myriads of flames.<lb/>
+	And thou dost stamp them with a signet, then they roam abroad<lb/>
+	And leave me void as death;<lb/>
+	Ah! I am drown’d in shady woe, and visionary joy.<lb/>
+	And who shall bind the infinite with an eternal band?<lb/>
+	To compass it with swaddling bands? and who shall cherish it<lb/>
+	With milk and honey?<lb/>
+	I see it smile &amp; I roll inward &amp; my voice is past.<lb/>
+	She ceast &amp; rolld her shady clouds<lb/>
+	Into the secret place.</figTranscr>
+	<head>11. <hi rend="i">Europe a Prophecy</hi> copy A, plate 5 Courtesy of Mr. and Mrs. Paul Mellon,
+Upperville, VA.</head>
+</figure>
+blue, a green that varies from yellow to olive in its modeling, and an opaquish-pink. More important, the
+manner in which the colors were applied is also similar: broad washes with many smaller washes laid over to
+deepen the colors, as opposed to single, even tints.<supplied type="spacer"> </supplied><ref target="n35"
+type="note">35</ref> This technique is also used in <hi rend="i">Visions</hi> copy G, extensively in plates 1
+(illus. 12), 2-3. The palette of <hi rend="i">Urizen</hi> copy B, though lighter, is similar to these other
+copies, even containing the deep pink-red and blue of <hi rend="i">America</hi> copy A and 
+<hi rend="i">Europe</hi> copy A. The flames in <hi rend="i">Urizen</hi> plate 11 (illus. 13), for example, are
+very like the flames in <hi rend="i">America</hi> plate 7 (illus. 10), with the same yellows, reds, and
+blacks; but more important, the flames are depicted in the same manner, again in multiple overlaid colors, in
+contrast with the earlier method of depicting flames in one or two flat colors, as in 
+<hi rend="i">Marriage</hi> copies A-C, for example.<supplied type="spacer"> </supplied><ref target="n36"
+type="note">36</ref> While <hi rend="i">Urizen</hi> copy B is closer stylistically to <hi rend="i">Europe</hi>
+copy A than to <hi rend="i">America</hi> copy A, its figures, especially the 10 full-plate illustrations,
+appear to have been painted more carefully than the larger works. 
+                        <note id="n34"><hi rend="s">34</hi><hi rend="i"> America</hi> copy A’s distinct and
+heavy coloring forces one to ask whether it was painted for (or by) another painter, especially since it was
+printed in a black ink like the uncolored copies. A comparison of copies A and K, the two colored copies,
+though, reveals that copy K was colored in loose imitation of copy A (especially apparent in plates 5, 6, 7,
+and 10, where the texts are washed and treated as part of the same painting surface as the illustrations),
+which suggests that copy A was not only colored by Blake but that the two may have been colored at the same
+time, despite copy K’s having most likely been printed earlier (probably in 1793 with copies C-I, L, and R).
+Plate 14, for example, is colored like copy A, though here the text is not washed: the tomb is yellow, the
+tree is green and grey, and the ground is green. In copy A, each of these colors is deepened with another thin
+layer of the same color or a grey; in copy K they remain flat and thin. In general, copy K was not colored as
+well, or not as consistently well, as copy A, and to my eye appears more likely the hand of Mrs. Blake, which
+I believe is characterized by the use of flat unmodeled washes and a predominance of pink, green, and purple.
+The unique shades of purple and blue in copy K, as well as the simplicity of the laying in of colors
+(particularly in those plates whose texts were not colored), make me suspect her hand.</note>
+	<note id="n35"><hi rend="s">35</hi> As noted by Bindman, the coloring of <hi rend="i">Europe</hi> seems “in
+fact . . . to belong to the mid-1790s” (<hi rend="i">Art and Times</hi> 106) and not “about 1805” as
+Bentley claims (<hi rend="i">BB</hi> 147). It is stylistically closer to <hi rend="i">Urizen</hi> copy B than
+<hi rend="i">America</hi> copy A; the texts of <hi rend="i">Europe</hi> copy A are not
+washed and the coloring is not as heavy. Many of the figures, though, were deepened with a second wash in the
+same hue or in another color; the wings of angels (plates 6 and 8) are multi-colored in the manner of the
+snake in <hi rend="i">Urizen</hi> copy B, plate 24: pink, blue, yellow, green. A few plates in these copies
+(most notably the frontispiece of <hi rend="i">Visions</hi> copy G [illus. 12]) were stippled with a dry
+brush, a technique more characteristic of color-printed copies of <hi rend="i">Urizen</hi>, like copies C and
+F.
+                            <p>Bindman has also commented on the peculiar coloring of <hi rend="i">Europe</hi>
+copy A: “bold additions in opaque watercolour that may have been touched up by another hand” 
+(<hi rend="i">Art and Times</hi> 106). This appears true only of plate 1. Bindman also describes 
+<hi rend="i">Europe</hi> copy A as color printed, though only plates 1 and 4 were printed in this style and even
+then only in a rudimentary manner.</p></note>
+	<note id="n36"><hi rend="s">36</hi> The similarity in palette is especially apparent between 
+<hi rend="i">Urizen</hi> (B) plate 10 and <hi rend="i">America</hi> (A) plate 8; <hi rend="i">Urizen</hi> plate 24
+and <hi rend="i">America</hi> plates 4 and 5; <hi rend="i">Urizen</hi> plate 18 and <hi rend="i">America</hi>
+plate 12; and <hi rend="i">Urizen</hi> plate 25 and <hi rend="i">America</hi> plate 7 in the coloring of the
+bodies.</note></p>
+          <p>Such uniformity in printing and coloring styles is characteristic of copies of the same title,
+like early copies of <hi rend="i">America</hi> (C-I, K, L, and R), <hi rend="i">Thel</hi> (A-E, H-M, and R),
+<hi rend="i">Visions</hi> (A-E, H-M), <hi rend="i">Innocence</hi> (A-G, K-M), <hi rend="i">Innocence</hi> of
+<hi rend="i">Songs</hi> (B-E), and <hi rend="i">Song of Los</hi> (A-E). The <hi rend="i">similarity</hi> among
+early copies of the same title has been much commented upon—indirectly. Editors and critics have long noted
+the variants in colors among impressions
+<pb id="p23-61" n="61"/>
+<figure n="vda.g.p2-1" id="vda.g.illbk.02" work-copy="vda.g" rend="db" width="707" height="1000">
+	<figTranscr>2</figTranscr>
+	<head>12. <hi rend="i">Visions of the Daughters of Albion</hi> copy G, plate 1 By permission of the Houghton
+Library, Harvard University, bequest of Amy Lowell</head>
+</figure>
+<figure n="urizen.b.p12-11" id="urizen.b.illbk.12" work-copy="urizen.b" rend="db" width="725" height="1000">
+	<figTranscr>12<lb/>
+	I Urizen. C:IV<lb/>
+	7. From the caverns of his jointed Spine,<lb/>
+	Down sunk with fright a red<lb/>
+	Round globe hot burning deep<lb/>
+	Deep down into the Abyss;<lb/>
+	Panting: Conglobing, Trembling<lb/>
+	Shooting out ten thousand branches<lb/>
+	Around his solid bones.<lb/>
+	And a second Age passed over,<lb/>
+	And a state of dismal woe.<lb/>
+	8. In harrowing fear rolling round;<lb/>
+	His nervous brain shot branches<lb/>
+	Round the branches of his heart<lb/>
+	On high into two little orbs<lb/>
+	And fixed in two little caves<lb/>
+	Hiding carefully from the wind.<lb/>
+	His Eyes beheld the deep.<lb/>
+	And a third Age passed over;<lb/>
+	And a state of dismal woe.<lb/>
+	9. The pangs of hope began.<lb/>
+	In heavy pain striving. struggling.<lb/>
+	Two Ears in close volutions.<lb/>
+	From beneath his orbs of vision<lb/>
+	Shot spiring out. and petrified<lb/>
+	As they grew. And a fourth Age passed<lb/>
+	And a state of dismal woe.<lb/>
+	10. In ghastly torment sick;<lb/>
+	Hanging upon the wind;</figTranscr>
+	<head>13. <hi rend="i">The Book of Urizen</hi> copy B, plate 11 Courtesy of the Pierpont Morgan Library, New
+York.</head>
+	<figDesc>PML 63139</figDesc>
+</figure>
+of the same plate (a green instead of a pink dress, a blue instead of a purple sky, etc.); what they fail to
+recognize and address, though, is how variants imply repeatable patterns, or similarity, and that the
+differences are in the <hi rend="i">placement</hi> of colors and not in the number or choice of colors, nor in
+the technique of applying them. Repetition of such specific stylistic features and techniques is a sign of
+edition printing and coloring. Here we need only to recognize that similarity or repetition 
+<hi rend="i">across</hi> titles suggests that the books were intentionally produced as a <hi rend="i">set</hi>,
+and not simply as large paper copies printed along with other copies of the title, or printed according to a
+new model for the books, since too many of the qualities, like ink color and printing format, are
+unique.<supplied type="spacer"> </supplied><ref target="n37" type="note">37</ref> The very existence of these
+copies, approached from a practical and commercial perspective, raises the question of motivation: why reprint
+<hi rend="i">Thel</hi> and <hi rend="i">Marriage</hi> folio size, or <hi rend="i">Visions</hi> on one side of
+the sheet, if not to match other large paper copies, since there appear to have been copies of all of them
+“in hand” between 1795-99? The obvious answer, that Blake produced them by commission and “with a
+particular customer in mind” (Erdman, <hi rend="i">Poetry and Prose</hi> 786), becomes less convincing when
+we raise the questions such an answer demands. If all 11 large paper copies were produced at the same time,
+and the seven copies Romney and D’Israeli owned were colored as a coherent set within a set, why then did
+Romney own only three (<hi rend="i">America</hi> copy
+<pb id="p23-62" n="62"/>
+A, <hi rend="i">Urizen</hi> copy B, and <hi rend="i">Songs</hi> copy A)? Why did he own 
+<hi rend="i">Visions</hi> copy F, the color-printed copy, and not <hi rend="i">Visions</hi> copy G? And how did
+D’Israeli acquire three books from the set by 1824? Perhaps we will discover an intermediate owner for the
+three books, or evidence to show that Romney did own them all but that he or his son sold three of them,
+either to D’Israeli directly, or to a mutual friend, like Richard Cumberland. Or perhaps Romney simply
+preferred the ones he bought over the ones he did not, which is to say, perhaps he had a choice in the matter
+and bought the works from stock. The set was undeniably a <hi rend="i">special</hi> production, but that does
+not necessarily mean that it was motivated by a commission (or even that it evolved out of the commission of
+one or more of its copies); it may have been motivated by Blake’s desire to make either impressive gifts for
+friends, or, more likely, a deluxe set of his illuminated canon up to that time. 
+                        <note id="n37"><hi rend="s">37</hi> If these were large paper copies printed with
+other copies of the title, then <hi rend="i">Innocence</hi> of <hi rend="i">Songs</hi> copy A would probably
+have been printed recto-verso or at the very least have included plates 34-36, which were, however, printed as
+<hi rend="i">Experience</hi> plates. This dates the printing of the plates after <hi rend="i">Experience</hi>
+of <hi rend="i">Songs</hi> copies B-E. See n. 43.</note></p>
+          <p>Whether these books were commissioned or merely purchased from stock can be determined only by
+ascertaining their dates of production. Those can be ascertained only by establishing through the historical
+and technical records a chronology of production in the 1790s.</p>
+          <p>Romney’s books must have been produced between 1794 and 1799, the date of the paper and of
+Romney’s departure from London. Circumstantial evidence suggests the even narrower parameters of 1794 and
+1796, when two close friends purchased illuminated books. Ozias Humphry commissioned the <hi rend="i">Large
+Book of Designs</hi> and the <hi rend="i">Small Book of Designs</hi> copies A probably in 1796, the date
+inscribed on a plate in the <hi rend="i">Small Book of Designs</hi> copy B, which consists of impressions from
+the same printing sessions as those in copies A (<hi rend="i">BB</hi> 356n1).<supplied type="spacer"> </supplied><ref target="n38" type="note">38</ref> Humphry owned <hi rend="i">Songs</hi> copy H, 
+<hi rend="i">Europe</hi> copy D, and <hi rend="i">America</hi> copy H, probably before the 1796 commission, since
+none of the plates in either <hi rend="i">Book</hi> duplicated what he already owned—despite the obvious
+suitability of <hi rend="i">America</hi> and <hi rend="i">Europe</hi> designs for such a project. 
+                        <note id="n38"><hi rend="s">38</hi> Bindman and Butlin date the <hi rend="i">Small
+Book of Designs</hi> copy A (and by association the <hi rend="i">Large Book</hi> copy A) 1794 because the date
+on <hi rend="i">Urizen</hi> plate 1 was left as printed, i.e., “1794.” They date copy B 1796 because the
+printed date was altered in pen to “1796” (Bindman, <hi rend="i">Graphic Works</hi> 476; Butlin, 
+<hi rend="i">Paintings and Drawings</hi> 2: 136). Given these dates, Bindman believes the two copies represent
+different projects and motives, the former serving as a “sampler of his best designs” to “demonstrate
+his colour-printing process,” the latter possibly “some kind of emblem book [compiled] out of a selection
+of his own designs” (476). A printed date, however, does not date a printing session, as is clear from
+nearly any <hi rend="i">reprinted</hi> illuminated book; <hi rend="i">America</hi> copies A and B, for
+example, retain their printed date of 1793 despite their having been assuredly printed later. The altered date
+is reliable for both sets because many of the impressions making up copies A and B were printed sequentially,
+as is self-evident in color reproductions in Butlin’s <hi rend="i">Paintings and Drawings</hi> and
+Essick’s <hi rend="i">Separate Plates.</hi> The two pulls of “Albion Rose” from the <hi rend="i">Large
+Book</hi> copies A and B, for example (Butlin, <hi rend="i">Paintings and Drawings</hi> illus. 331 and 332),
+have the same palette, color placement, and brushwork, which are material and stylistic features independent
+of the plate image and which could not have been duplicated months or years apart. The same is true of “The
+Accusers of Theft Adultery Murder,” “A Dream of Thiralatha,” and “Joseph of Arimathea Preaching to the
+Britons” (see Essick, <hi rend="i">Separate Plates</hi>, color plates 2-5, and 7-8). And the same is true of
+the impressions in the two copies of the <hi rend="i">Small Book of Designs.</hi> The three impressions of 
+<hi rend="i">Urizen</hi> plate 5 in copies A and B (Butlin, <hi rend="i">Paintings and Drawings</hi> illus. 329,
+357) and an independent pull (illus. 380) reveal the same kind of repetition (cf. 329, which is reproduced in
+color, with no. V in Bindman’s <hi rend="i">Art and Times</hi>, a color reproduction of Butlin, 
+<hi rend="i">Paintings and Drawings</hi> illus. 357). Color-printed impressions pulled from the same plate at 
+<hi rend="i">different</hi> times do not show this kind of exact repetition. Compare, for example, the two copies
+of <hi rend="i">Visions</hi> plate 1 from the <hi rend="i">Large Book of Designs</hi> copies A and B (Butlin,
+<hi rend="i">Paintings and Drawings</hi> illus. 362 and 337), where the highlights at the right corner and at
+the waves are exactly the same, with that of copy F (363), which was printed a year or so earlier. The same
+kinds of repetition and difference are apparent in color-printed drawings printed in 1795 and those printed in
+1805 (see n. 46 and Butlin, “Physicality”).
+                            <p>Color-printed impressions are easily misdated, because the sequentiality of
+color prints is not always self-evident. In color printing, a second pull is often weaker than the first and
+must be touched up more extensively in water colors and pen and ink, which in turn disguises the material and
+stylistic features it may have initially shared with another impression. This is especially apparent with the
+second copies of the <hi rend="i">Large</hi> and <hi rend="i">Small Book of Designs.</hi> Their impressions
+were more carefully outlined in pen and ink and attentively finished in water colors (see Butlin, 
+<hi rend="i">Paintings and Drawings</hi> illus. 337, 338, 353, and 360). They were also given multiple frame
+lines, a stylistic feature characteristic of late production and similar to those employed in 
+<hi rend="i">Songs</hi> copy R and <hi rend="i">All Religions are One</hi> copy A, both of which were printed
+early (c. 1795) but also refinished and sold late, both to Linnell. Like these other works, the impressions
+constituting the <hi rend="i">Large</hi> and <hi rend="i">Small Book of Designs</hi> copies B appear to have
+remained with Blake; three of the former were acquired by Linnell, and one of the latter given to Tatham.
+These impressions, in other words, appear to have been reassembled and freshened up late, and the “1796”
+date written in pen and ink may have occurred at that time, many years after the impressions were printed. For
+that reason, the altered date is probably the more trustworthy record of the initial production.</p>
+	<p>It is interesting to note that D’Israeli or his son acquired three separate impressions from the 
+<hi rend="i">Large Book of Designs</hi> copy B, and that Humphry’s impressions appear to be the first and finer
+pulls (see Essick, <hi rend="i">Separate Plates</hi> VIII, IX, and X). The impressions of copy B, which
+admittedly may exist as a <hi rend="i">book</hi> only by analogy with copy A, appear not to have been
+presented as part of a set or portfolio, but as autonomous paintings. Even the impressions making up copy A
+may not have been intended as a book, since they were never bound as a set but instead inserted and bound at
+the back of Humphry’s copy of <hi rend="i">Europe.</hi></p></note></p>
+          <p>Flaxman also purchased illuminated books before 1796. Within a few months of his return from
+Italy in the fall of 1794, he moved to No. 6, Buckingham Street, Fitzroy Square, which made him Romney’s
+neighbor (Chamberlain 196), and purchased one and possibly two illuminated books. “Early in 1795 Flaxman
+‘Pd for. . . Blakes Book. . . 10[s]6’ ” (<hi rend="i">BR</hi> 569), which was probably for 
+<hi rend="i">Innocence</hi> copy D, but conceivably for <hi rend="i">Experience</hi> of <hi rend="i">Songs</hi>
+copy O as well, since in the prospectus of just 15 or so months earlier the price for the two volumes was 10s.
+(K 209) and the latter work appears to have come with a combined titleplate (<hi rend="i">BB</hi>
+397).<supplied type="spacer"> </supplied><ref target="n39" type="note">39</ref> I understand “early in
+1795” to mean the first month or two of the year and, as will become clear, conclude that <hi rend="i">The
+Song of Los, Book of Ahania</hi>, and <hi rend="i">Book of Los</hi>, all dated 1795, were produced at that
+time as well, <hi rend="i">before</hi> Flaxman’s copy of <hi rend="i">Experience.</hi> But even if
+Flaxman’s <hi rend="i">Experience</hi> was produced as late as 1796 or 1797 instead of “early 1795,” and
+the 10s.6d. payment was charitable for one volume, or included a deposit for work to be done, this copy of 
+<hi rend="i">Experience</hi> can still be used as an end date, since it was printed in a style distinctly
+different from his <hi rend="i">Innocence</hi> and from Romney’s books, as well as from books that were
+color printed—including those in 1795. 
+                        <note id="n39"><hi rend="s">39</hi> Flaxman also paid Blake four shillings in Oct.
+1795 for “Blake’s Engravings” (<hi rend="i">BR</hi> 569), which may account for 
+<hi rend="i">Experience</hi>, but if so, then <hi rend="i">Innocence</hi> would have by itself cost 10s.6d., or
+six shillings more than <hi rend="i">Experience</hi>, which is very unlikely since it was printed on both
+sides of the paper and thus involved fewer leaves. Perhaps the 10s.6d. refers to <hi rend="i">Innocence</hi>
+copy D and an untraced drawing or print. If any other of Flaxman’s payments to Blake can account for 
+<hi rend="i">Experience</hi>, it is probably the £2.2s. of Oct. 1797 (<hi rend="i">BR</hi> 570); this, of course,
+does not necessarily mean that <hi rend="i">Experience</hi> was produced this late, particularly since by then
+Blake was busily at work with <hi rend="i">Night Thoughts</hi> and Gray’s <hi rend="i">Poems</hi> (Bindman,
+<hi rend="i">Blake as Artist</hi> 109). It does suggest, though, that the printing session responsible for
+this copy of <hi rend="i">Experience</hi> occurred between 1795 and 1797.</note></p>
+          <p>Like Humphry’s illuminated books, Flaxman’s <hi rend="i">Innocence</hi> and 
+<hi rend="i">Experience</hi> are too similar in printing and coloring styles to other copies of 
+<hi rend="i">Innocence</hi> and <hi rend="i">Songs</hi> to have been specially produced by commission; they were
+all probably purchased from the “numerous great works . . . in hand” (K 208). <hi rend="i">Innocence</hi>
+was printed on <hi rend="i">both sides</hi> of undated octavo-size paper in yellow-ochre ink, as were copies
+C, E, F, and G. Flaxman’s copy of <hi rend="i">Experience</hi> is nearly identical in printing to 
+<hi rend="i">Songs</hi> copies I, J, K, L, M, N, <hi rend="i">Innocence</hi> copies N and R, and 
+<hi rend="i">Experience</hi> of <hi rend="i">Songs</hi> copy S; all were printed on <hi rend="i">one side</hi> of
+unmarked paper, printed in dark brown ink, and, most telling, printed with <hi rend="i">plate
+borders.</hi><supplied type="spacer"> </supplied><ref target="n40" type="note">40</ref> Plate borders were
+wiped in all recto-verso copies of illuminated books, including Flaxman’s <hi rend="i">Innocence.</hi> They
+were also wiped in books color printed and in Romney’s and D’Israeli’s books, all of which were printed
+on one side of the leaf. These copies, whether printed on one or both sides of the leaf, were given more
+individual attention than copies where the borders were left intact. Conversely, plates not wiped of their
+borders were easier to ink and faster to print, making the book easier to produce. 
+                        <note id="n40"><hi rend="s">40</hi> It is not true that only “posthumous copies
+uniformly show this dark rim while copies printed by the Blakes do not” (Bentley, <hi rend="i">William
+Blake’s Writings</hi> 1: xlix). For plate borders, see the impressions from <hi rend="i">Songs</hi> copy I
+reproduced in <hi rend="i">The Illuminated Blake.</hi> The borders in a few impressions printed lightly, not
+because they were wiped of ink, as was Blake’s earlier practice, but because they were avoided (i.e.,
+incompletely inked) during inking. The ink varies in hue from lighter to darker brown, but it is the same ink.
+The variation is due to the thickness of the layer of ink as it is spread out and as it is applied to the
+plate, and even of slight differences in the thickness and dampness of paper, since the condition of the paper
+affects pressure and receptivity.
+                            <p><hi rend="i">Innocence</hi> copy W, which is untraced, was probably part of
+this edition. The rudimentary description in Sotheby’s auction catalogue for 30 April 1941 (lot 641)
+strongly suggests this possibility: “22 plates printed in brown on one side of the paper only, watermarked
+‘Whatman’ on plate 18, wrappers, loose in morocco binding (715/16 in × 49/16 in).” An otherwise
+irregular pattern of production (seven sets of <hi rend="i">Innocence</hi> and eight of 
+<hi rend="i">Experience</hi>) also suggests that <hi rend="i">Innocence</hi> copy W was part of the
+edition.</p></note></p>
+          <p>The copies of <hi rend="i">Songs</hi> and <hi rend="i">Innocence</hi> with which Flaxman’s copy
+of <hi rend="i">Experience</hi> appears to have been printed are dated 1800-1814 (<hi rend="i">BB</hi> 382);
+they are assumed to have been produced one at a time because the <hi rend="i">coloring</hi> is different from
+copy to copy and some copies were left uncolored (<hi rend="i">Songs</hi> copies K, M, and 
+<hi rend="i">Innocence</hi> of <hi rend="i">Songs</hi> copy O). But a comparative examination of these copies
+(particularly of the inking accidentals shared by impressions from the same plate) reveals that they were 
+<hi rend="i">printed</hi> at the same time, in a limited edition. Such an examination also shows that the coloring
+is not really very different, that the coloring of Flaxman’s <hi rend="i">Experience</hi> “strikingly
+complements <hi rend="i">Innocence</hi> copy N” (<hi rend="i">BB</hi> 419), as well as 
+<hi rend="i">Songs</hi> copies I and L. These copies have similar palettes and their texts were similarly streaked
+in multiple colors (pink, yellow, and blue), instead of washed
+<pb id="p23-63" n="63"/>
+solidly in one or two colors. Such similarity is not accidental nor the result of one copy being used as the
+model for others produced years later; it is the inevitable result of copies being produced at the same time
+and with the same materials.<supplied type="spacer"> </supplied><ref target="n41" type="note">41</ref>
+Printing the plate borders made it necessary to color the impressions more extensively, since text and
+illustration were now framed and would have looked unfinished if the washes did not meet the border/frame.
+This is why washing and streaking the text became common practice in books printed after 1795. Conversely,
+washed texts in copies without borders like Romney’s <hi rend="i">America</hi> copy A, or the streaking in
+<hi rend="i">Thel</hi> copy F, <hi rend="i">Marriage</hi> copy D, and <hi rend="i">Visions</hi> copy G, may
+have preceded and prompted the printing of the borders. <note id="n41"><hi rend="s">41</hi> Besides sharing
+stylistic features like format, size, and ink, these copies share accidentals in inking (filled counters,
+blemishes from shallows, missing letters, etc.). “The Lamb” of <hi rend="i">Innocence</hi> copy N, for
+example, shares inking patterns, such as the same words darker and lighter, with “The Lamb” of 
+<hi rend="i">Songs</hi> copy O. “On Another’s Sorrow” in <hi rend="i">Innocence</hi> copy N is the same as
+the impression in <hi rend="i">Innocence</hi> copy R, with the same letters missing and same letters
+strengthened. These are signs of edition printing and cannot be repeated by printing copies over a few years,
+matching them to an unstated but presumed archetype. An even more overt sign of edition printing is the exact
+repetition of recto-verso plate pairs in <hi rend="i">Innocence</hi> copies A-G, K-M, and 
+<hi rend="i">Innocence</hi> of <hi rend="i">Songs</hi> copies B-E, which are thought to have been produced between
+1789 and 1800 (<hi rend="i">BB</hi> 376-77, 382). Bentley says “there is no easy explanation for why” the
+same two plates would be “invariably paired” (<hi rend="i">BB</hi> 387). The difficulty dissolves once the
+unstated assumption that illuminated books were printed one at a time and by commission is dismissed. Indeed,
+if illuminated impressions were printed per book and not per plate as was standard practice, then the exact
+repetition among copies supposedly produced over an 11 year period necessarily implies a model, an idea
+especially difficult to accept for <hi rend="i">Innocence</hi> and <hi rend="i">Songs.</hi> It means that
+Blake would have intentionally repeated himself only to undermine the model’s pairing by ordering the pages
+differently in each copy, while within the same period producing copies of <hi rend="i">Innocence</hi> (copies
+I, J, X, and <hi rend="i">Innocence</hi> of <hi rend="i">Songs</hi> copy F) that do not repeat the model.
+                            <p>While traces of ink from the lower shallows may continue to print, their
+absence within a set of impressions is no more proof of discontinuous printing than are different inks or
+sizes of paper, but may be a sign of the cleaner impression having been pulled first, or of necessary
+adjustments in ink, dabber, pressure, etc., having been made to make the next print better. Indeed, the very
+existence of poorly printed or registered illuminated impressions is reason enough to believe that Blake
+printed multiple impressions per plate—and to have done otherwise would have been a terribly inefficient use
+of time, labor, and materials. He admits as much in the prospectus: “No Subscriptions for the numerous great
+works now in hand are asked, for none are wanted; but the Author will produce his works, and offer them to
+sale at a fair price” (K 208). Blake declares that multiple copies of each book had been and would continue
+to be produced independent of subscription, that he had, in other words, produced books on his own account and
+independent of advanced monies.</p>
+	<p>The idea that Blake printed most of the illuminated books in limited editions and not one at a time,
+printed the impressions per plate and not, as Essick (and others) argue, on “a per-copy basis” (Essick,
+“Materials” 856), alters the dates of most books and our understanding of what constitutes Blake’s
+“style,” as well as our idea of what motivated production. Perhaps more significant, it is a mode of
+production that reveals when Blake was and was not involved with poetry, which forces us to reexamine the role
+illuminated printing and poetry played in Blake’s creative life after 1795. The evidence for this mode of
+production is dealt with briefly in my <hi rend="i">Art of William Blake’s Illuminated Prints</hi> and more
+extensively in a forthcoming article.</p></note></p>
+          <p>It appears that Blake had decided to color most of these copies of <hi rend="i">Songs</hi> as
+part of the initial production process, as was his usual practice, but kept a few copies back to color on
+order. How many of these uncolored impressions were later colored is not known, but the decision to print
+plate borders and leave some impressions uncolored or to color them upon need increased the potential for
+variation among copies initially printed at the same time. It was also the most cost-effective way to produce
+illuminated books, being a compromise position between “produc[ing] . . . works” without
+“subscription” and producing by commission (K 208).<supplied type="spacer"> </supplied><ref target="n42"
+type="note">42</ref>
+	<note id="n42"><hi rend="s">42</hi> Separating coloring from printing also gave Blake the option of offering
+monochrome copies as “finished,” that is, illuminated prints as prints instead of hand colored drawings,
+should that be requested of him. In any event, monochrome copies of <hi rend="i">Innocence</hi> and 
+<hi rend="i">Songs</hi> are not “proof” copies, as <hi rend="i">Songs</hi> copy K is described by the Pierpont
+Morgan Library’s catalogue. There are no “proof” copies of these works, since the point of proofing a
+plate was to check its design or to test and adjust the press. Neither case requires the whole set of plates
+be printed.</note></p>
+          <p>The straightforward printing method represented by Flaxman’s copy of 
+<hi rend="i">Experience</hi> (one ink, full plate, no wiping) became standard practice, succeeding the most
+expensive and laborious method, color printing. Color printing required multiple colors as well as special
+inking tools, and the resulting impressions usually required extensive recoloring and outlining. Without
+confirmed sales, the technique may have cost Blake more in time and materials than he could afford. Or, he
+might have abandoned it, if not for financial reasons, because in 1795 the creation myth expressed in the last
+four illuminated books had run its course, and his time, energy, and coloring technique were taken up by new,
+completely pictorial projects, like the 12 large monotypes, creating paintings by color printing earlier
+engravings, like <hi rend="i">Albion Rose</hi>, and starting the <hi rend="i">Night Thoughts</hi> designs
+(Butlin, <hi rend="i">Paintings and Drawings</hi> 1: 178).</p>
+          <p>Color printing itself initiated printing on one side of the leaf, which replaced recto-verso
+printing, despite the four recto-verso color-printed copies of <hi rend="i">Europe</hi> copies D-G. These four
+copies, which were apparently printed together along with single-sided copies B and C, appear to have been
+intentionally printed to match recto-verso copies of <hi rend="i">America.</hi><supplied type="spacer"> </supplied><ref target="n43" type="note">43</ref> The color printing, though, is minimal, with colors printed
+only from relief areas, whereas in copies B and C it is from the shallows as well. Printing colors from both
+levels of the plate requires more pressure and creates a more elaborate and painterly image—as well as a
+more pronounced platemark, which in turn eliminates the use of the verso.<supplied type="spacer"> </supplied><ref target="n44" type="note">44</ref> Unlike <hi rend="i">Experience</hi>, and perhaps even 
+<hi rend="i">Europe, Urizen</hi> seems to have been executed specifically to be color printed. Not only were all
+copies of <hi rend="i">Urizen</hi> printed in this new style—except copy B and late copy G—but the plates
+were exceedingly shallow (Essick, <hi rend="i">Printmaker</hi> 92), and thus most suitable for printing colors
+from both levels. For these reasons, I suspect that copies A, C-F, and J were printed first and before copy B.
+They were probably produced in 1794, the year the plates were executed, after <hi rend="i">Europe</hi> and 
+<hi rend="i">Experience</hi> and possibly after a few copies of earlier books reprinted in the new technique,
+including <hi rend="i">Visions</hi> copies F and R and <hi rend="i">Marriage</hi> copies E and F. The
+following year Blake wrote and colorprinted copies of <hi rend="i">The Song of Los, Book of Los</hi>, and 
+<hi rend="i">Book of Ahania</hi>, all on one side of the leaf. <note id="n43"><hi rend="s">43</hi><hi rend="i">
+Europe</hi> copy F is not listed as being color printed (<hi rend="i">BB</hi> 142, 145), but all of its plates
+were color printed from the surface in the same manner and, more important, with the same colors and inks as
+copies D, E, and G, which suggests that the four copies were printed together. In plate 9, for example, the
+two women, child, and background are color printed in four different colors: green, reddish brown, yellow
+ochre, and black. In copies D-G, the same four colors are used, though their placement may alternate. The
+figure on the right is reddish brown in copies D, E, and G, and there are slight traces of that color in the
+hands of the figure in copy F, which is in yellow ochre. The very same inks and placement were used in plate 9
+of copies B and C, except that the reddish brown of the right-hand figure was also printed from the shallows.
+It appears that Blake painted the plate six times using the same palette and printed four impressions on two
+sides of the sheet and two impressions on one side only.
+                            <p>All six copies are on undated I. Taylor paper, with at least two sheets of 1794
+/ J. Whatman in copy C; the four recto-verso copies match recto-verso copies of <hi rend="i">America</hi>, or,
+rather, give buyers the opportunity to have matched copies, buyers such as Ozias Humphry who owned recto-verso
+copies of <hi rend="i">America</hi> (H) and <hi rend="i">Europe</hi> (D). At this time (c. 1794), though,
+there were only recto-verso copies of <hi rend="i">America</hi>; copies A and B, the single-sided colored and
+monochrome copies of <hi rend="i">America</hi> had not yet been printed. They were produced as part of the
+large paper set and appear to have had as their counterparts <hi rend="i">Europe</hi> copies A and H, which
+were similarly colored and uncolored. The <hi rend="i">Experience</hi> plates of <hi rend="i">Songs</hi>
+copies B-E, all on undated I. Taylor and J. Whatman papers, were probably printed recto-verso for the same
+reason as <hi rend="i">Europe</hi> copies D-G: to match copies of <hi rend="i">Innocence</hi> printed earlier.
+That the two parts were printed at different times is indicated by plates 34-36 having been printed with 
+<hi rend="i">Innocence</hi> but moved over to <hi rend="i">Experience</hi>, taking with them plate 26 (the recto
+of pl. 34), which belongs to <hi rend="i">Innocence.</hi></p></note>
+	<note id="n44"><hi rend="s">44</hi> Platemarks are most noticeable in <hi rend="i">Experience, Marriage</hi>,
+and <hi rend="i">Visions</hi> color-printed plates; given their embossments, these plates were apparently
+bitten deeper than <hi rend="i">Urizen</hi> and <hi rend="i">Song of Los.</hi> Todd’s assertion that color
+printing did not require a press is unfounded and ignores the fact that both levels are being printed and that
+the inks were burnt oil and not glue based like the colors. The former is the vehicle for intaglio ink and
+necessitates more pressure for its clean transference from plate to paper than can be gotten “by the hand”
+(Todd 37).</note></p>
+          <p>There is also an aesthetic reason for abandoning recto-verso printing. The increased labor
+required by color printing, both in the painting of the plates and subsequent coloring and outlining of the
+impressions, many of which would have otherwise looked like blots and blurs, resulted in more detailed and
+complicated images. Finishing of this kind, combined with the absence of a competitive facing page, creates an
+image that demands to be viewed and experienced more like a painting than a page in a book, more autonomously
+than as part of something larger than itself. The new printing format and coloring style reflect a new idea of
+the book and reader, or rather reading experience. Because the experience of an illuminated poem as physical
+<hi rend="i">book</hi> is as much an integral part of its meaning as the combination of word and picture,
+changes in the physical form alter how the poem is read and thus its meaning.</p>
+          <p>There are only 17 extant impressions pulled from the small intaglio plates that make up 
+<hi rend="i">The Book of Los</hi> and <hi rend="i">Book of Ahania</hi>; in terms of labor, these etchings and
+color-printed frontispieces and titlepages represent about a slow day’s worth of printing. The 48 or so
+colorprinted impressions pulled from the eight <hi rend="i">Songs of Los</hi> plates were printed in an
+edition, that is, the impressions were printed per plate and not per book.<supplied type="spacer"> </supplied><ref target="n45" type="note">45</ref> All six (eight-page) copies could have easily been produced
+in two or at most three days. This may strike the non-printmaker as a herculean effort, but in fact the work
+involved, particularly
+<pb id="p23-64" n="64"/>
+for a professional printmaker with a printing “devil” (Mrs. Blake) handling the paper and press, was
+modest. Once the studio was set up for printing, the press prepared, inks and colors made, paper cut and
+dampened, the actual printing of the plates could not have taken very long. In fact, Blake would not have had
+much time to play with the plates, since in color printing some of his colors were water soluble and would
+have dried on the plate had he dawdled.<supplied type="spacer"> </supplied><ref target="n46"
+type="note">46</ref>
+	<note id="n45"><hi rend="s">45</hi> For a description of copy F, which was recently rediscovered, and color
+reproductions, see Dörrbecker. A comparison of the ink color and inking peculiarities of plate 4, for
+example, reveals that the impressions from copies A-F were pulled sequentially; Essick notes the same with
+plates 1, of copies A-E, though finding a different printing order than myself (Essick, 
+<hi rend="i">Printmaker</hi> 129). Other colorprinted works, like the <hi rend="i">Large Book of Designs</hi>
+copies A and B, the <hi rend="i">Small Book of Designs</hi> copies A and B, and the monoprints of 1795,
+followed this practice (see n. 38).</note>
+	<note id="n46"><hi rend="s">46</hi> Color printing preceded and led to Blake’s great color print drawings
+of 1795, which are technically monotypes. Tatham described Blake’s monoprinting process to Gilchrist as
+making “prints in oil,” and although the medium appears not to have been oil paint but a mixture of ink
+and size color, and the support appears not to have been exclusively millboard (at least one print, “God
+Judging Adam,” was pulled from a relief-etched metal plate), and although Linnell dismissed the account as
+inaccurate (without saying how or why), Tatham’s description is essentially correct for both the monotypes
+and the color-printed illuminated impressions. According to Tatham, Blake painted his colors upon the support:
+<q><hi rend="i">roughly and quickly</hi>, so that no colour would have time to dry. He then took a print of
+that on paper, and this impression he coloured up in water-colours, repainting his outline on the millboard
+when he wanted to take another print. This plan he had recourse to, because he could vary slightly each
+impression; and each having a sort of accidental look, he could branch out so as to make each one different.
+The accidental look they had was very enticing.<lb/>
+(<hi rend="i">BR</hi> 33-34, my emphasis)
+</q>
+Tatham admits that impressions could be sequential and <hi rend="i">different</hi>, though, as noted (37), the
+overt differences were due more to finishing than to printing. He also admits that impressions could be
+produced whenever Blake “wanted to” repaint “the outline,” which implies that multiple color-printed
+drawings could have been printed during one session or years later, which is exactly what recent research of
+Martin Butlin, the leading expert on the color-printed drawings, has verified, that some impressions were
+printed sequentially in 1795 and others from the same plates in c. 1805 (Butlin, “Physicality” 12). The
+fact that Blake was producing color prints in c. 1805, with all their blots, blurs, and opacity, indicates
+that color printing’s use and abandonment were not tied to Blake’s changing theories about perception.
+                        </note></p>
+          <p>What Blake said of drawing was true of color printing: “That is not a line which doubts &amp;
+Hesitates in the Midst of its Course” (K 603). This was even more true of executing the designs, which
+essentially was drawing, which is to say, the designs were not labored but drawn freehand, the materials of
+pen, brush, and varnish making such an autographic process possible—and necessary. Any hesitation would clog
+the pen with varnish and prevent a uniform script. Such writing and drawing must have felt spontaneous, or, as
+Blake says in <hi rend="i">Europe</hi>, “dictated.” The time spent executing and printing illuminated
+plates was, in other words, far less than is often imagined. In fact, the most time-consuming aspect of
+production was biting the plates in acid and preparing the studio and materials. With that done, it would have
+been inefficient to print or paint only one impression per plate—or one copy of a book.<supplied
+type="spacer"> </supplied><ref target="n47" type="note">47</ref>
+	<note id="n47"><hi rend="s">47</hi> Blake’s comment in 1827 about needing six months to print a copy of 
+<hi rend="i">Songs</hi> was seriously qualified with “<hi rend="i">consistent with my other Work</hi>,” and
+cannot be taken to reflect his practice or abilities 30 years earlier, when he was not “shut up in a
+Corner” but had a “whole House to range in,” i.e., was set up to print, physically and mentally, in that
+the illuminated books in the early 1790s were his primary creative work (K 878). Equally important, in 1827 he
+was no longer just <hi rend="i">washing</hi> impressions, but rather <hi rend="i">painting</hi> them
+elaborately, which took more time and attention. The coloring of most books produced before 1795 and not color
+printed is simple, consisting of a few washes; for example, the five broad washes in “The Lamb” of 
+<hi rend="i">Innocence</hi> copy B probably represent no more time and labor than it took to ink and print this
+plate one time, since those acts involved applying ink to the plate with a dabber, which had to be handled
+carefully to keep it from touching the shallows, wiping the borders, registering the plate on the bed of the
+press and registering the paper to the plate, and pulling the bed through the rollers. For plates like
+“School Boy” and “Holy Thursday,” laying in simple washes would have taken far less labor than inking
+and printing. Nor do Blake’s late comments accurately describe his late practice, which may seem to have
+been to print and color books by order, “having none remaining of all that [he] had Printed” and little
+room to do otherwise, but actually conformed to his earliest practice of printing in editions, albeit smaller
+ones, as is evinced by the material and stylistic features shared by the last copies of 
+<hi rend="i">Songs</hi>, copies V, Z, and AA, <hi rend="i">Visions</hi>, copies N, O, P, and 
+<hi rend="i">Thel</hi>, copies N and O (see n. 51).</note></p>
+          <p>Given that the work involved in executing and printing <hi rend="i">The Song of Los, Book of
+Ahania</hi>, and <hi rend="i">Book of Los</hi> was minimal, and that Blake’s known outside commitments in
+1795 were the fewest in years, it is not unreasonable to suppose that these three books, which mark the end of
+color-printed illuminated books, were all executed and printed before Flaxman’s copy of 
+<hi rend="i">Experience</hi>—were executed, in other words, in “early 1795.”<supplied type="spacer"> </supplied><ref target="n48" type="note">48</ref> Romney’s and D’Israeli’s books, I believe, were
+produced together and part of a larger set (or project) in the same one- or two-month period, 
+<hi rend="i">after The Book of Ahania</hi> and <hi rend="i">Book of Los</hi> and <hi rend="i">before</hi> the new
+edition of <hi rend="i">Experience.</hi> The bibliographical evidence suggests that Blake did not print in the
+ordinary manner while also color printing. Even the <hi rend="i">Experience</hi> plates of 
+<hi rend="i">Songs</hi> copies B-E were lightly color printed, whereas <hi rend="i">Urizen</hi> copy B and 
+<hi rend="i">Europe</hi> copies A and H were not. The use of a second ink to create shade, as in 
+<hi rend="i">Thel</hi> copy F and <hi rend="i">Marriage</hi> copy D, appears to be a holdover from color printing
+and not an anticipation. Wiped borders, characteristic of books produced before and during color printing, but
+abandoned with the edition of <hi rend="i">Songs</hi> that Flaxman’s <hi rend="i">Experience</hi> belongs
+to, were another holdover. On the other hand, the subtle streaking that frames texts in <hi rend="i">Thel</hi>
+copy F, <hi rend="i">Marriage</hi> copy D, and <hi rend="i">Visions</hi> copy G appears to anticipate the more
+overt and stylized use of streaking and borders as frames characteristic of the copies of 
+<hi rend="i">Songs</hi> in that edition. <note id="n48"><hi rend="s">48</hi> What little information that exists
+about Blake’s activities for 1795 is nearly all in Stedman’s journal and does not reveal Blake’s work
+schedule (<hi rend="i">BR</hi> 49). It appears that Blake executed only three small frontispieces that winter
+and spring, finishing them by March and May (<hi rend="i">BR</hi> 614). The year before that he had no
+commissions other than six outlines for Cumberland’s <hi rend="i">Thoughts on Outline</hi> (1796);
+conversely (and understandably), Blake produced and printed more illuminated plates in 1794 than any other. It
+is important to understand that printmaking and printing were Blake’s life, that he was not a poet lucky
+enough to know how to etch or unlucky enough to have to leave off writing and make time to print. It is also
+important to recognize the fallacy of Cunningham’s popular depiction of Blake as a man working for the
+publishers by day and for himself at night (<hi rend="i">BR</hi> 484, 501). The truth is that Blake worked at
+home and structured his own time, worked on book illustrations, which were relatively small and syntactically
+uncomplicated compared to separate plates, i.e., reproductive engravings after paintings, like his
+“Beggar’s Opera” of 1788 after Hogarth. Indeed, with the possible exception of two etchings and an
+engraving after Fuseli (c. 1790? <hi rend="i">BR</hi> 612), Blake did not execute any separate commercial
+plates between 1789 and 1795, the period of illuminated printing, and, as mentioned, appears to have had a
+good deal of time on his hands in 1794 and 1795.
+                            <p>Had Blake started the <hi rend="i">Night Thoughts</hi> designs in 1795, as
+Butlin believes, he would most likely not have begun till after he printed his last books and the monoprints,
+since that enormous project would have necessitated rearranging his work-space as well as his time. That
+painting and printing made different practical demands Blake made clear in his refusal in 1808 to reprint
+illuminated books, fearing “that it is impossible for me to return to [them] without destroying my present
+course,” “which in future must alone be devoted to Designing &amp; Painting” (K 865-66).</p></note></p>
+          <p>I am assuming, in other words, that practice was consistent and mutually exclusive, which may
+appear an odd thing to assume about an artist as innovative as Blake, yet it is merely to admit the causal
+relation between printing style (ink, inking, printing format) and production—that the former is the natural
+result of practice, involves the repetition of form and/or materials characteristic of printing sessions
+and/or editions, as well as of artistic interests of the moment, by which I mean at most a few weeks’ work
+in the studio, and not the many years that are generally thought to constitute the historical period for these
+early productions. Indeed, my other assumption, which is, like the first, based on my experience as a
+printmaker, is that the uninterrupted work involved in <hi rend="i">printing</hi> 160 plates not requiring à
+la poupée coloring, incised lines to be filled with ink, or surfaces to be inked and then wiped clean, was
+about 7 to 10 days.<supplied type="spacer"> </supplied><ref target="n49" type="note">49</ref>
+	<note id="n49"><hi rend="s">49</hi> Though D’Israeli’s copy of <hi rend="i">Visions</hi>, copy F, was not
+printed with the set, <hi rend="i">Visions</hi> copy G was, which keeps the number at 160; in addition to
+these 160 plates there were the 23 small plates of <hi rend="i">All Religions</hi> copy A and <hi rend="i">No
+Natural Religion</hi> copy L, and with more than one impression printed from the <hi rend="i">America, No
+Natural Religion, Europe</hi>, and possibly <hi rend="i">Songs</hi> plates, there may have been about 275
+impressions. The estimate of 7 to 10 days to print these plates is based also on the experience of Paul
+Ritchie of the Manchester Etching Workshop, who printed the Workshop’s Blake facsimiles of 
+<hi rend="i">Songs</hi> copy B in 1983. According to Ritchie, if Mrs. Blake was the “clean-hand person,” then
+this estimate is very charitable. Working together, “100 uncolored relief prints of <hi rend="i">Songs</hi>
+could be done in a day and the 180 larger <hi rend="i">America</hi> prints [10 copies] could 
+<hi rend="i">easily</hi> be done in 3 days”—and this would include “a pint &amp; a pie at lunchtime”
+(private correspondence). Again, it must be remembered that once the shop was set up, printing small relief
+plates was relatively easy, that printing was what Blake and Mrs. Blake did for their material and spiritual
+livelihood, and that my estimate of 30 to 40 impressions a day supposes a mere three to five impressions an
+hour, an output easily reached even with intaglio plates and color printing. In preparation for this article,
+I printed two of the electrotypes we used in the Manchester Etching Facsimile of <hi rend="i">Songs.</hi>
+Working alone and with a linen dabber, I printed 30 impressions, 15 from each plate, in two hours.
+                            <p>The relation between practice and style is beyond the scope of this essay, but
+suffice it to say that Blake’s practice only seems inconsistent because his mode of production and its
+effect on dating are poorly understood, obscured by our focus on differences instead of similarities (by which
+style is defined and discernible) and our assumption that artifacts as unique (and valuable) as illuminated
+books must have been produced uniquely, that is, one at a time.</p></note></p>
+          <p>I also think that production of this set of books followed <hi rend="i">The Book of Los</hi> and
+<hi rend="i">Book of Ahania</hi> closely because, together with a copy of <hi rend="i">Song of Los</hi>
+(assuming one had been recently printed), they not so coincidentally represent Blake’s entire published
+canon in relief etching up to this time. With color printing, the creation myth as then formulated, and relief
+etching all having run their course with or before <hi rend="i">The Book of Ahania</hi> and <hi rend="i">Book
+of Los</hi>, it is not difficult to imagine Blake wanting to consolidate his own best works. He would have
+done so, forming a deluxe set of large paper copies of his illuminated books, by reprinting the plates of 
+<hi rend="i">All Religions</hi> (A), <hi rend="i">No Natural Religion</hi> (L), <hi rend="i">Thel</hi> (F), 
+<hi rend="i">Marriage</hi> (D), <hi rend="i">Visions</hi> (G), <hi rend="i">America</hi> (A), 
+<hi rend="i">Songs</hi> (A), <hi rend="i">Europe</hi> (A), and <hi rend="i">Urizen</hi> (B) in the same format,
+with the same inks, and on the same size paper.<supplied type="spacer"> </supplied><ref target="n50"
+type="note">50</ref> This appears to have been the first time he printed across titles, that is, various
+titles in the same printing session, but not the last.<supplied type="spacer"> </supplied><ref target="n51"
+type="note">51</ref>
+	<note id="n50"><hi rend="s">50</hi><hi rend="i"> America</hi> may have been reprinted because there were no
+copies in stock on one side of the sheet; <hi rend="i">Europe</hi>, on the other hand, may have been reprinted
+because copies B and C, which were color printed on one side of the leaf (though probably with recto-verso
+copies D-G, see n. 43), did not match the copies of <hi rend="i">America</hi> texturally or were already sold.
+Cumberland, one of Blake’s earliest collectors, owned <hi rend="i">Europe</hi> copy C; Hanrott owned 
+<hi rend="i">Europe</hi> copy B, which was not necessarily purchased early or directly from Blake. Hanrott bought
+<hi rend="i">Songs</hi> copy P in 1826 from another collector (<hi rend="i">BB</hi> 419), and his copies of
+<hi rend="i">America</hi> (G), <hi rend="i">Europe</hi> (B), and <hi rend="i">Jerusalem</hi> (B), which were
+bound possibly as early as 1821 (the date of a flyleaf; <hi rend="i">BB</hi> 102), may also have been
+purchased late. As with D’Israeli, there is no evidence other than the books themselves to suggest Hanrott
+knew or met Blake.</note>
+	<note id="n51"><hi rend="s">51</hi> Blake was to print the canon in this fashion, that is, print various
+books around the same time using the same paper, printing format, palette, and inks, in c. 1815 and 1825,
+apparently to replenish stock. For example, he printed copies of <hi rend="i">Marriage</hi> (G), 
+<hi rend="i">Visions</hi> (N, O, and P), <hi rend="i">Thel</hi> (N, O), <hi rend="i">Milton</hi> (D), 
+<hi rend="i">Urizen</hi> (G), and <hi rend="i">Songs</hi> (U, T2) all on the same Ruse &amp; Turners / 1815 paper
+and in the same shades of reddish brown and orange ink. All of these copies except <hi rend="i">Thel</hi> copy
+O and <hi rend="i">Milton</hi> copy D, which were stabbed together for Vine, have a similar single frame line
+outlining the plates. The technical, material, and stylistic similarities suggest that these copies were
+produced in the same printing sessions.</note></p>
+          <p>An early 1795 date of production for the entire set of books means that <hi rend="i">America</hi>
+copies A and B are not 1800 and 1799, <hi rend="i">Thel</hi> copy F is not c. 1806, <hi rend="i">Europe</hi>
+copies A and H are not 1805 and 1800, <hi rend="i">Marriage</hi> copy D is not
+<pb id="p23-65" n="65"/>
+1794 and before color-printed copies E and F, <hi rend="i">Songs</hi> copy A is not 1789-1800, and 
+<hi rend="i">Visions</hi> copy G is not 1796-1800 (<hi rend="i">BB</hi> 87, 118, 146, 288, 382, 465). The 1795
+date also implies that washed texts and page numbers do not automatically signify post-1800 production, that
+coloring was rarely separated from printing, and that illuminated books were color printed before the
+monoprints and <hi rend="i">Books of Designs.</hi> That the <hi rend="i">Books</hi> were color printed c. 1796
+does not mean that color printing had remained Blake’s standard printing technique through 1795 and 1796; it
+suggests, rather, that Blake used an earlier and special technique that was warranted (and financially
+guaranteed) by commission, a technique that may have been especially requested, since Humphry owned two
+color-printed works (<hi rend="i">Europe</hi> copy D and <hi rend="i">Songs</hi> copy H). They were probably
+color printed because they were conceived in the manner of the color-printed monotypes, i.e., as a portfolio
+of miniature paintings and not books (see n. 38).</p>
+          <p>The new documentary evidence regarding Romney’s ownership of illuminated books may simply
+support a long-held assumption, that Romney knew and patronized Blake. But it overturns the assumption that
+D’Israeli was an early patron and collector. Equally important, this new evidence reveals how tenuous our
+assumptions are regarding patronage and the earliest modes by which illuminated books were produced and
+disseminated. The idea that Blake “didn’t print editions; he printed only one copy at a time, as he got
+commissions” (Davids and Petrillo 154) is based on the idea that each illuminated book is unique and hence
+must have been produced as such. The individual letters given to copies of books to indicate the chronology of
+production express this assumption. Yet, the shared stylistic features and materials among copies of the same
+title prove just the opposite, that the books were produced in limited editions and, hence, that production
+could not have been motivated by commission. Unique coloring is no more synonymous with individual print
+production than purchase is synonymous with patronage or ownership with commission. Indeed, even Flaxman’s
+copies of <hi rend="i">Experience</hi> and <hi rend="i">Innocence</hi>, the latter of which was reported to
+have been “coloured by Blake for Flaxman,” were, like nearly all illuminated books except a few late
+copies, merely purchased from those “in hand.”<supplied type="spacer"> </supplied><ref target="n52"
+type="note">52</ref>
+	<note id="n52"><hi rend="s">52</hi> Christie’s catalogue of 1876 (<hi rend="i">BB</hi> 405). 
+<hi rend="i">Innocence</hi> copy D was probably produced in 1789, but no later than 1793, yet Flaxman returned
+from Italy late in 1794. <hi rend="i">Innocence</hi> copy C was said by R. H. Shepherd to have been
+“executed” for Samuel Rogers (<hi rend="i">BB</hi> 405n2). Both cataloguer and critic equate ownership
+with commission.</note></p>
+          <p>The illuminated books belonging to Romney and D’Israeli, which at first appear certainly to
+have been commissioned, presumably by Romney, if for no other reasons than their being different from others
+of their kind and like one another, were produced in the same printing sessions and also purchased from stock.
+If, on the other hand, they were “printed only one . . . at a time, as [Blake] got commissions,” then the
+history of and motivation for the copies stylistically matching Romney’s volumes but not in his collection
+are puzzling, as is the inclusion of <hi rend="i">Visions</hi> copy F, since it was printed before the others.
+That more books were produced than purchased suggests that they were not produced to meet a single commission;
+that <hi rend="i">Visions</hi> copy G was purchased by someone other than Romney suggests the same and that it
+either was sold before Romney examined Blake’s stock or simply did not appeal to him as much as 
+<hi rend="i">Visions</hi> copy F. In either case, it appears that Romney purchased not what he specifically
+commissioned but what Blake had already produced. This reading of the evidence is further supported if, as is
+likely, Flaxman played agent. For if Flaxman showed Romney his own illuminated books and “recommended . . .
+[his] friend to take copies,” then Romney would have purchased his books after Flaxman purchased his, that
+is, after “early 1795,” and thus from a set already produced.</p>
+          <p>When illuminated books such as these, which because of the similarities among themselves and
+their differences from other copies appear so obviously to have been commissioned, can be shown to have been
+produced for other reasons, then the assumption that production was “on demand” (Essick, “Materials”
+857) and “with a particular customer in mind” (Erdman, <hi rend="i">Poetry and Prose</hi> 786), is
+undermined: copies closely resembling one another in materials, printing, format, and coloring, like most
+copies of <hi rend="i">Thel, Innocence, Visions, America, Europe</hi>, and <hi rend="i">Song of Los</hi>, are
+even less likely to have been produced by commission. The less likely commission becomes, the more likely it
+becomes that illuminated books were printed in small editions.</p>
+          <p>Romney probably purchased his four books directly from Blake at one time, before any other
+“friend” came by; D’Israeli or, more likely, an unknown intermediary collector, may have done the same
+with <hi rend="i">Marriage</hi> copy D, <hi rend="i">Europe</hi> copy A, and <hi rend="i">Thel</hi> copy F. In
+both cases, books were purchased from a deluxe—or display—set, a set that helped to comprise and to sell
+the “numerous great works now in hand” which Blake offered to friends, patrons, and collectors “at a
+fair price” (K 208). 
+                    </p>
+          <pb id="p23-66" n="66"/>
+          <div3>
+            <head>
+              <title>WORKS CITED</title>
+            </head>
+            <p>Balston, Thomas. <hi rend="i">James Whatman Father &amp; Son.</hi> 1957. New York: Garland
+Publishing, 1979.</p>
+            <p>Bentley, G. E., Jr. <hi rend="i">Blake Records.</hi> Oxford: Clarendon, 1969.</p>
+            <p>—. <hi rend="i">Blake Books.</hi> Oxford: Clarendon, 1977.</p>
+            <p>—. <hi rend="i">William Blake’s Writings.</hi> Oxford: Clarendon, 1978.</p>
+            <p>—. Introduction. <hi rend="i">Europe: A Prophecy.</hi> By William Blake. The American Blake
+Foundation: Memphis State U, 1978.</p>
+            <p>Bindman, David. <hi rend="i">Blake as an Artist.</hi> London: Phaidon, 1977.</p>
+            <p>—, ed. <hi rend="i">Catalogue of the Collection in the Fitzwilliam Museum Cambridge.</hi>
+Cambridge: W. Heffer and Sons Ltd., 1970.</p>
+            <p>—. <hi rend="i">The Complete Graphic Works of William Blake.</hi> London: Thames and Hudson,
+1978.</p>
+            <p>—. <hi rend="i">William Blake: His Art and Times.</hi> Yale Center for British Art, London:
+Thames and Hudson Ltd., 1982.</p>
+            <p>Butlin, Martin. “The Physicality of William Blake: The Large Color Prints of ‘1795’ ”
+<hi rend="i">The Huntington Library Quarterly</hi> 52 (1989): 1-17.</p>
+            <p>—. <hi rend="i">The Paintings and Drawings of William Blake.</hi> New Haven: Yale UP,
+1981.</p>
+            <p>Chamberlain, Arthur B. <hi rend="i">George Romney.</hi> London: Methuen and Company, 1910.</p>
+            <p>Cohn, Marjorie B. <hi rend="i">Wash and Gouache: A Study of the Development of the Materials of
+Watercolor.</hi> Published by The Center for Conservation and Technical Studies, Fogg Art Museum, 1977.</p>
+            <p>Davids, B. and J. Petrillo: “The Artist as Book Printer: Four Short Courses,” 
+<hi rend="i">Artists’ Books: A Critical Anthology and Sourcebook.</hi> Ed. Joan Lyons. New York: Gibbs M. Smith
+in association with Visual Studies Workshop Press, 1985.</p>
+            <p>Dayes, Edward. <hi rend="i">The Works of the Late Edward Dayes.</hi> London, 1805.</p>
+            <p>Dibdin, T. F. <hi rend="i">The Library Companion.</hi> London, 1824.</p>
+            <p>—. <hi rend="i">Reminiscences of a Literary Life.</hi> London, 1836.</p>
+            <p>—. <hi rend="i">Index to the Rev. Dr. Dibdin’s Reminiscences of a Literary Life</hi> (44
+pages). nd. np. 1836?</p>
+            <p>Dörrbecker, D. W. “<hi rend="i">The Song of Los</hi>: The Munich Copy and a New Attempt to
+Understand Blake’s Images.” <hi rend="i">The Huntington Library Quarterly</hi> 52 (1898): 43-73.</p>
+            <p>Erdman, David V., annot. <hi rend="i">The Illuminated Blake.</hi> Garden City:
+Anchor-Doubleday, 1974.</p>
+            <p>—, ed. <hi rend="i">The Complete Poetry and Prose of William Blake.</hi> New Rev. Ed. Garden
+City: Anchor-Doubleday, 1982.</p>
+            <p>Essick, Robert. <hi rend="i">The Separate Plates of William Blake, A Catalogue.</hi> Princeton:
+Princeton UP, 1983.</p>
+            <p>—. <hi rend="i">William Blake, Printmaker.</hi> Princeton: Princeton UP, 1980.</p>
+            <p>—. “The Resurrection of <hi rend="i">America</hi> Copy R.” <hi rend="i">Blake / An
+Illustrated Quarterly</hi> 21 (1988): 138-42.</p>
+            <p>—. <hi rend="i">The Works of William Blake in the Huntington Collections.</hi> San Marino,
+CA: Huntington Library, 1985.</p>
+            <p>—. “William Blake, William Hamilton, and The Materials of Graphic Meaning.” 
+<hi rend="i">English Language Notes</hi> 52 (1985): 833-72.</p>
+            <p>Gilchrist, Alexander. <hi rend="i">The Life of Blake.</hi> 2 vols. London: MacMillan, 1863.</p>
+            <p>Grant, John. “Review Article: Who Shall bind the Infinite and Arrange It in Libraries? 
+<hi rend="i">William Blake’s Writings</hi> and <hi rend="i">Blake Books.</hi>” <hi rend="i">Philological
+Quarterly</hi> 61 (1982): 277-304.</p>
+            <p>Hagstrum, Jean. “Romney and Blake: Gifts of Grace and Terror.” <hi rend="i">Blake in His
+Time.</hi> Ed. Robert N. Essick and Donald Pearce. Bloomington: Indiana UP, 1978.</p>
+            <p>Jackson, William Alexander. <hi rend="i">Records of a Bibliographer.</hi> Cambridge: Harvard
+UP, 1967.</p>
+            <p>Keynes, Geoffrey. <hi rend="i">Blake, Complete Writings.</hi> Oxford: Oxford UP, 1966.</p>
+            <p>Keynes, Geoffrey and Edwin Wolf, 2nd. <hi rend="i">William Blake’s Illuminated Books: A
+Census.</hi> New York: Grolier, 1953.</p>
+            <p>Ogden, James. <hi rend="i">Isaac D’Israeli.</hi> Oxford: Oxford UP, 1969.</p>
+            <p>Romney, John. <hi rend="i">Memoirs of the Life and Works of George Romney.</hi> London: Baldwin
+and Cradock, 1830.</p>
+            <p>Shepard, Richard Herne. “Blake’s Songs of Innocence.” <hi rend="i">Academy</hi> 7 (1875):
+636.</p>
+            <p>Smith, J. T. <hi rend="i">Nollekens and his Times.</hi> 1828, in <hi rend="i">Blake
+Records.</hi></p>
+            <p>Todd, Ruthven. <hi rend="i">William Blake, the Artist.</hi> London: Studio Vista, 1971.</p>
+            <p>Tyson, Gerald P. <hi rend="i">Joseph Johnson: A Liberal Publisher.</hi> Iowa City: U of Iowa P,
+1979.</p>
+            <p>Viscomi, Joseph. <hi rend="i">Art of William Blake’s Illuminated Prints.</hi> Manchester:
+Manchester Etching Workshop, 1983.</p>
+            <p>—. “Recreating Blake’s Illuminated Prints: The Facsimiles of the Manchester Etching
+Workshop.” <hi rend="i">Blake / An Illustrated Quarterly</hi> 19 (1985): 4-23.</p>
+            <figure n="america.A.P6.detail" id="america.a.illbk.06" work-copy="america.a" rend="file" width="425" height="574"/>
+          </div3>
+          <pb id="p23-67-70" n="67-70" rend="hidden"/>
+          <pb id="p23-71" n="71"/>
+          <figure n="america.a.p7.detail" id="america.a.illbk.07" work-copy="america.a" rend="file" width="336" height="600">
+          	<figTranscr/>
+          </figure>
+          <pb id="p23-72-74" n="72-74" rend="hidden"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

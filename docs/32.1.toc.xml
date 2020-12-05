@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.1</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>David Groves</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <front>
+      <pb id="p32-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.032.01.bqscan" rend="file" width="258" height="334">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            A NEWLY DISCOVERED BLAKE LETTER<lb/>
+            VOLUME 32<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1998</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-32-1-0001">
+        <table id="contents" rows="10" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.1.essick">“Dear Generous Cumberland”: A Newly Discovered
+Letter and Poem by William Blake</ref><lb/>
+<hi rend="i">By Robert N. Essick and Morton D. Paley</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.1.groves">Blake, the <hi rend="i">Edinburgh Literary
+Journal</hi>, and James Hogg</ref><lb/>
+<hi rend="i">by David Groves</hi></cell>
+            <cell>
+              <hi rend="i">14</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.1.ferber">The Orthodoxy of Blake Footnotes</ref><lb/>
+<hi rend="i">by Michael Ferber</hi></cell>
+            <cell>
+              <hi rend="i">16</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.1.hilton">Helen P. Bruder, <hi rend="i">William Blake and the
+Daughters of Albion</hi></ref><lb/>
+<hi rend="i">Reviewed by Nelson Hilton</hi></cell>
+            <cell>
+              <hi rend="i">20</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.1.news">Books Being Reviewed for 
+<hi rend="i">Blake</hi></ref></cell>
+            <cell>
+              <hi rend="i">23</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p32-3" n="3"/>
+      <div1 id="BQ-32-1-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Robert N. Essick is Professor of English at the University of California, Riverside.</p>
+        <p>Michael Ferber is Professor of English at the University of New Hampshire. His most recent books
+are the Blake and Shelley volumes of the Penguin Critical Studies series.</p>
+        <p>David Groves is the editor of the <hi rend="i">James Hogg Journal</hi>, and is currently preparing
+an edition of De Quincey’s essays.</p>
+        <p>Nelson Hilton is striving to bring the on-line Blake Concordance
+(www.english.uga.edu/Blake_Concordance) through the Gate of Perl which will enable Key-Word-In-Context (KWIC)
+format (output aligned and centered on each search result, regardless of line breaks).</p>
+        <p>Morton D. Paley is completing his book <hi rend="i">Apocalypse and Millennium in English Romantic
+Poetry</hi> and <hi rend="i">Portraits of Coleridge</hi> is forthcoming from Oxford University Press in
+1999.</p>
+      </div1>
+      <div1 id="BQ-32-1-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-32-1-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: Address and page 1 of Blake’s letter to Cumberland, postmarked 1 September
+1800. Collection of Robert N. Essick. <note type="unreferenced" place="footer">© 1998 Copyright Morris Eaves
+and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

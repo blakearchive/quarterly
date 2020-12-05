@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.guardian</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Guardian on the transformation of no. 17 South Molton Street to a
+betting shop</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-3" n="3"/>
+            <div1 id="BQ-02-1-0002">
+                <p>As a postscript to his item in <hi rend="u">Newsletter</hi> 3 concerning the transformation
+of no. 17 South Molton Street to a betting shop, Robert P. Kolker notes that the <hi rend="u">Guardian</hi>
+editorialized on the subject in its issue of 25 January 1968. The editorial concludes: “Not that a decision on
+the licensing appeal one way or the other can diminish the words Blake wrote or the pictures he painted.
+Whether it can diminish us is another matter.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

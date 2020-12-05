@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.easson</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The American Blake Foundation</title>
+                <author n="Easson">Roger R. Easson</author>
+                <author n="Easson">Kay Easson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <div1 id="BQ-04-2-0003">
+                <head>
+                    <title type="main">
+                            <hi rend="i">THE AMERICAN BLAKE FOUNDATION</hi>
+                        </title>
+                    </head>
+                    <byline>From <docAuthor>Roger</docAuthor> and <docAuthor>Kay
+<name>Easson</name>:</docAuthor>
+                    </byline>
+                    <p>The American Blake Foundation, a non-profit educational trust devoted to encouraging
+<pb id="p04-35" n="35"/>
+interest in the works of William Blake and his circle, was established July 7, 1970. The Foundation is moving
+to create a trust fund which will be used to finance national and international symposia, to award research
+grants, to give scholarships, and to create a research library. Funds will accrue from a projected reprint
+series of Blake’s illuminated works. Negotiations are currently underway to produce moderately priced
+full-color and black-and-white facsimiles which will be generally available to the student and scholar.</p>
+                    <p>Executive Board:<lb/>
+                        <lb/>
+Roger R. Easson<lb/>
+Kay Parkhurst Easson<lb/>
+Dale J. Briggs, Attorney-at-law</p>
+                    <p>Advisory Board of Directors:<lb/>
+                        <lb/>
+Stuart Curran, The University of Wisconsin<lb/>
+David V. Erdman, The New York Public Library<lb/>
+Robert F. Gleckner, University of California at Riverside<lb/>
+John E. Grant, University of Iowa<lb/>
+Jean Hagstrum, Northwestern University<lb/>
+Joseph Holland, Los Angeles, California<lb/>
+Karl Kroeber, Columbia University<lb/>
+Paul Miner, Seattle, Washington<lb/>
+E. J. Rose, University of Alberta, Canada<lb/>
+Rodger L. Tarr, Illinois State University<lb/>
+Robert R. Wark, Huntington Art Gallery<lb/>
+Winston Weathers, The University of Tulsa<lb/>
+Joseph A. Wittreich, Jr., The University of Wisconsin</p>
+                    <p>Inquiries and suggestions should be directed to:<lb/>
+                        <lb/>
+The American Blake Foundation<lb/>
+c/o <hi rend="i">Blake Studies</hi>
+                        <lb/>
+Department of English<lb/>
+Illinois State University<lb/>
+Normal, Illinois 61761</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

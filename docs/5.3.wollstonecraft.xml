@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.wollstonecraft</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Mary Wollstonecraft Newsletter</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+	<pb id="p05-164" n="164"/>
+            <div1 id="BQ-05-3-0002">
+                    <head>
+                        <title type="main">
+                            <hi rend="i">MARY WOLLSTONECRAFT NEWSLETTER</hi>
+                        </title>
+                    </head>
+                    <p>The <hi rend="i">Mary Wollstonecraft Newsletter</hi> will be published twice a year
+beginning in May 1972. Its subject will be women writers of the late-eighteenth and early-nineteenth
+centuries, and women in the literature of the period. Short articles of fewer than 3000 words, notes, and
+reviews are welcomed from
+<pb id="p05-165" n="165"/>
+subscribers. Manuscripts—accompanied by a stamped and addressed envelope for return—and subscriptions ($4)
+may be addressed to Janet Todd / Department of English / University of Florida / Gainesville, Florida
+32601.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

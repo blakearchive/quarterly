@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.news</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Wordsworth Circle, intended Fitzwilliam Museum catalogue, Job ballet,
+Blake graffiti</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <div1 id="BQ-03-4-0004">
+                <div2>
+                    <pb id="p03-76" n="76"/>
+                    <p>A new newsletter, THE WORDSWORTH CIRCLE, is being edited by Marilyn Gaull and Charles
+Mauskopf (Dept. of English, Temple University, Philadelphia, Penn.) The subscription price is three dollars
+for one year (four issues).</p>
+                    <p>M. Cormack informs us that the Fitzwilliam Museum, Cambridge, intends to publish a
+catalogue of their extensive Blake collection, edited by David Bindman, sometime in the autumn, provisionally
+to be in early October. It is intended to mark the publication of the catalogue (which will have 72 plates)
+with an exhibition of their Blake collection, and a small subsidiary exhibition of portraits of Blake.</p>
+                    <p>The Royal Ballet (Touring Section) has revived the ballet <hi rend="u">Job</hi>, based
+on Blake’s designs, and will give six performances of it at Covent Garden this Spring.</p>
+                    <p>And the tabloid <hi rend="u">Express</hi> ran a picture article on London graffiti
+several months ago, with photographs and comments by passers-by. On a wall in Notting Hill Gate - THE ROAD OF
+EXCESS LEADS TO THE PALACE OF WISDOM. A “Warehouseman, about forty” says: “ . . . I’m sure it’s filth.
+It’s best to look the other way in this district. You’re not safe anywhere nowadays.” While someone
+identified as “Irishman who declined to give his name” comments: “If it’s true, I’m in the palace of
+wisdom all right.”</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

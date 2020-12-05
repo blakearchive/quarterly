@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.1</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Shelley M. Bennett</name>
+              <name>Martin Butlin</name>
+              <name>Aethelred Eldridge</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Janet Warner</name>
+              <name>Joseph Wittreich</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <front>
+      <pb id="p22-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.022.01.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 22<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1988</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-22-1-0001">
+        <table id="contents" rows="15" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.essick">Blake in the Marketplace, 1987</ref><lb/>
+by Robert N. Essick</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.hilton">“Under the Hill”</ref><lb/>
+by Nelson Hilton</cell>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.butlin">Footnotes on the Huntington Blakes</ref><lb/>
+by Martin Butlin</cell>
+            <cell>17</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.eldridge">Reply to Morris Eaves’ Review of 
+<hi rend="i">The Dick and Jane</hi></ref><lb/>
+by Aethelred Eldridge</cell>
+            <cell>19</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.bennett">Raymond Lister, <hi rend="i">Paintings of Samuel
+Palmer</hi> and <hi rend="i">Paintings of William Blake</hi></ref>, reviewed by Shelley Bennett</cell>
+            <cell>20</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.wittreich">Morton D. Paley, <hi rend="i">The Apocalyptic
+Sublime</hi></ref>, reviewed by Joseph Wittreich</cell>
+            <cell>21</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.warner">Bette Charlene Werner, <hi rend="i">Blake’s Vision
+of the Poetry of Milton</hi></ref>, reviewed by Janet Warner</cell>
+            <cell>25</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.ferber">David V. Erdman, <hi rend="i">Commerce des Lumieres:
+John Oswald and the British in Paris, 1790-1793</hi></ref>, reviewed by Michael Ferber</cell>
+            <cell>26</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.1.mellor">A Symposium on William Blake and His Circle</ref>,
+reported by Anne K. Mellor</cell>
+            <cell>29</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="22.1.birthday"><hi rend="i">Birthday Wishes to Marià
+Manent</hi></ref>, 
+              <ref type="article" issue="22.1.lecture"><hi rend="i">A Blake Bicentenary Lecture</hi></ref>, 
+              <ref type="article" issue="22.1.britain"><hi rend="i">Blake in Britain 1988</hi></ref>
+            </cell>
+            <cell>30</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-22-1-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">SHELLEY M. BENNETT</hi> is Associate Curator of British and Continental Art of the
+Henry E. Huntington Art Gallery.</p>
+        <p><hi rend="b">MARTIN BUTLIN</hi> is Keeper of the Historic British Collection at the Tate Gallery in
+London.</p>
+        <p><hi rend="b">AETHELRED ELDRIDGE</hi> lives at Golgonooza-on-the-Ohio, in Millfield, Ohio.</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi>, Professor of English, University of California, Riverside,
+collects and writes about Blake.</p>
+        <p><hi rend="b">MICHAEL FERBER</hi>, Associate Professor of English, University of New Hampshire,
+Durham, is the author of <hi rend="i">The Social Vision of William Blake</hi> (Princeton, 1985).</p>
+        <p><hi rend="b">NELSON HILTON</hi>, Review Editor for <hi rend="i">Blake</hi>, is still readjusting
+from his complete reading of Donald Ault’s <hi rend="i">Narrative Unbound.</hi></p>
+        <p><hi rend="b">ANNE K. MELLOR</hi>, Professor of English, University of California, Los Angeles, is
+the author of <hi rend="i">Mary Shelley: Her Life, Her Fiction, Her Monsters</hi> (Methuen Press) and 
+<hi rend="i">Romanticism and Feminism</hi> (Indiana UP), both appearing in 1988.</p>
+        <p><hi rend="b">JANET WARNER</hi>, Professor of English, teaches at Glendon College, York University,
+and is the author of <hi rend="i">Blake and the Language of Art.</hi> She is currently writing a book on Emily
+Carr (1871-1945), a Canadian painter and writer.</p>
+        <p><hi rend="b">JOSEPH WITTREICH</hi> is Distinguished Professor of English at The Graduate Center,
+City University of New York, and author of <hi rend="i">Feminist Milton</hi> (Cornell UP, 1987). 
+<note type="unreferenced" place="footer">© 1988 Morris Eaves and Morton D. Paley</note></p>
+        <figure n="landscape.22.1.bqscan" rend="file" width="250" height="147"></figure>
+      </div1>
+      <pb id="p22-3" n="3"/>
+      <div1 id="BQ-22-1-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <figure n="ThinkingWithAngel.22.1.bqscan" rend="file" width="250" height="421">
+        	<figTranscr>ΓΝΩΘΙ <lb/>
+			ΣΕΑΥΤΟΝ</figTranscr>
+        </figure>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627, <hi rend="b">Telephone</hi> 716/275-3820.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX, England.</p>
+      </div1>
+      <div1 id="BQ-22-1-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake / An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes’</hi> annual Romantic Bibliography, American Humanities
+Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.1.correction</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Correction to review of Äktenskapet mellan Himmel och Helvete</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.1</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>Alexander S. Gourlay</name>
+              <name>John E. Grant</name>
+              <name>David Groves</name>
+              <name>Colin Pedley</name>
+              <name>Marcus Wood</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <div1 id="BQ-24-1-0009">
+      	<pb id="p24-262" n="262"/>
+        <head>
+          <title type="section">
+            <hi rend="i">CORRECTION</hi>
+          </title>
+        </head>
+        <p>The original copy of <hi rend="i">The Marriage of Heaven and Hell</hi> used for the Swedish edition
+reviewed in <hi rend="i">Blake</hi> 23 (1990): 209-10, should have been identified as copy H, which was also
+used for the Oxford University Press edition of 1975.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

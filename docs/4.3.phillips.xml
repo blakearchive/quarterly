@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.phillips</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">British Blake News</title>
+                <author n="Phillips">Michael Phillips</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-3-0003">
+					<pb id="p04-67" n="67"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BRITISH BLAKE NEWS</hi>
+                        </title>
+                    </head>
+                    <byline>From <docAuthor>Michael <name>Phillips</name>
+                        </docAuthor>, our Associate Editor at the University of Edinburgh:</byline>
+                    <p>For students of Blake perhaps the most significant event of interest in some years will
+be the Blake Exhibition due to open shortly at the Fitzwilliam Museum, Cambridge. The Keeper of Paintings and
+Drawings, Mr. M. Cormack, has kindly written the following note with regard to the Exhibition and in
+particular the Exhibition Catalogue:
+<q>
+    The exhibition is provisionally due to open on January 9th, but this may be changed. The paperback edition
+of the catalogue will be on sale <hi rend="i">only</hi> at the Museum, price £1 and a hard cover edition will
+be published by W. Heffer &amp; Sons Ltd., Trinity Street, Cambridge and be available from all booksellers,
+price £3. The catalogue will comprise 96 pages of text including a supplement of the proposed bequest by Sir
+Geoffrey Keynes plus 74 illustrations on 44 pages of plates, and a coloured frontispiece. This should be
+available at the same time as the exhibition.
+</q>
+A review of the Fitzwilliam exhibition will appear in a forthcoming number of the 
+<hi rend="i">Newsletter.</hi>
+                    </p>
+                    <p>On Sunday, 15 November 1970, at 8:00 p.m. Jack Lindsay presented at the Mermaid
+Theatre, London, an evening entitled “William Blake And Our World.” Sir Bernard Miles and Josephine Wilson
+gave readings from Blake’s works to complement Mr. Lindsay’s discussion. The following note by Mr. Lindsay
+gives some suggestion of the evening’s presentation:
+<q>
+William Blake, born in 1757 to a London hosier, early turned to art, and made his living as artist and
+engraver. But he was opposed to the dominant art-forms of his world and sought to express an imaginative
+vision, which he carried over into his poetry. He matured in the later 1780’s as the French Revolution was
+breaking out, and found his inspiration in the conviction of vast changes going on which would culminate in a
+Last Judgement, or total reversal of things. He began a semi-allegoric epic on the French Revolution, of which
+a part got into proofs; but the extremely repressive situation of the 1790’s led him to print his own poems
+with his designs by an etching process. He was thus led into a “prophetic” method in which he felt he could
+express the human situation at multiple levels, in its full inter-connections. His work ranged from lyrics of
+unparalleled intensity and simplicity, to the highly complex Prophetic Books. Disregarded in his own age,
+taken up to some extent by Rossetti and Swinburne, he began to come into his own with the turn of the century;
+and now, because of his utterly uncompromising spirit, is one of the few “great poets” of the past who
+maintains a direct and powerful impact on the young people of today in their various revolts and in their
+attempts to create their own art and poetry.
+</q>
+                    </p>
+                    <p>The rapidly increasing interest in Blake in Britain is further suggested by a new play
+by David Hare, “What Happened to Blake,” recently performed at the Royal Court Theatre, London, and the poet
+Adrian Mitchell’s play, “Tyger, Tyger,” which has been announced for future production at the National
+Theatre.</p>
+                    <p>In the <hi rend="i">Times</hi>, Tuesday, 10 November 1970, was a pen and pencil drawing
+by Henry Fuseli which apparently was at one time in Blake’s possession. The drawing, which was to be sold at
+auction at Christie’s on Tuesday, 17 November, was described as follows:
+<pb id="p04-68" n="68"/>
+						<q>
+David and Goliath, by Henry Fuseli, R. A., bears Blake’s initials and date 1779, pencil, pen and grey ink,
+grey wash, on Whatman paper dated 1794, 10 3/4 in. by 6 1/2 in.
+</q>
+                    </p>
+                    <p>Kathleen Raine’s <hi rend="i">William Blake</hi> has been recently published by
+Thames and Hudson for their “World of Art Library” and contains 156 illustrations, 28 in colour.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

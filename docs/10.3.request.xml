@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.request</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Our Bibliographer’s Request</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-3-0003">
+      	<pb id="p10-68" n="68"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Our Bibliographer’s Request</hi>
+            </title>
+          </head>
+          <p>The <hi rend="i">Newsletter</hi> Bibliographer, Thomas Minnick, asks that you keep him and his
+Annual Checklist of Recent Blake Scholarship in mind when you write or run across Blakean items that might
+escape his notice. Duty calls: all the virtues of the Checklist involve its usefulness, and it can be most
+useful when most timely and most complete. Certain categories of information—reviews of books on Blake, for
+instance—are notoriously resistant to comprehensiveness, especially up-to-date comprehensiveness, and
+anything you can do to help will be appreciated.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

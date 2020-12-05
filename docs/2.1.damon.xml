@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.damon</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">S. Foster Damon honored</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-3" n="3"/>
+            <div1 id="BQ-02-1-0002">
+                <p>The Brown University <hi rend="u">Alumni Monthly</hi> for April 1968 has a delightful
+two-page article, “Damon’s 2-Day Do,” by Garrett D. Byrnes, reprinted from the Providence 
+<hi rend="u">Journal</hi>. <hi rend="u">Los</hi>, a magazine of verse published at Brown, has dedicated its April
+issue to Foster; the poems include two from the <hi rend="u">Birthday Garland</hi> and “For Mr. Nomad,”
+previously unpublished, by Alvin Rosenfeld.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

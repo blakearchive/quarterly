@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.3.ackland</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Embattled Sexes: Blake’s Debt to Wollstonecraft in The Four Zoas</title>
+        <author n="Ackland">Michael Ackland</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1982/1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982-83</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.3</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <name>Barbara Guth</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Michael Ackland</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Alicia Ostriker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982/1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-172" n="172"/>
+      <div1 id="BQ-16-3-0008">
+        <head>
+          <title type="main">The Embattled Sexes: Blake’s Debt to Wollstonecraft in <hi rend="i">The Four
+Zoas</hi></title>
+        </head>
+        <byline>
+          <hi rend="i">BY</hi>
+          <docAuthor>
+            <hi rend="i">MICHAEL</hi>
+            <name>
+              <hi rend="i">ACKLAND</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>Our knowledge of Blake’s acquaintance with the writings of Mary Wollstonecraft is at once precise
+and frustratingly incomplete. We know he illustrated, and presumably also read, her novel 
+<hi rend="i">Original Stories from Real Life.</hi><supplied type="spacer"> </supplied><ref target="n61"
+type="note">1</ref> We also have evidence in his earlier works, notably in <hi rend="i">Visions of the
+Daughters of Albion</hi>, that he was influenced by the doctrines she expressed in <hi rend="i">Vindication of
+the Rights of Men</hi> (1790) and <hi rend="i">Vindication of the Rights of Woman</hi> (1792).<supplied
+type="spacer"> </supplied><ref target="n62" type="note">2</ref> Moreover, both writers were frequent visitors
+at the bookseller and publisher Joseph Johnson in the early 1790s; and would, at the very least, have been
+known to each through word of mouth. But here the incidents of explicit contact cease.<supplied type="spacer"> </supplied><ref target="n63" type="note">3</ref> On 8 December 1792 Wollstonecraft left for France, where she
+was to witness the progress of revolution at first hand. Blake’s domicile remained England, and there is
+nothing to indicate that they met after her return to London in 1795. Yet Wollstonecraft’s ideas would
+continue to act as a catalyst in his protracted exploration of embattled sexuality, long after all personal
+ties between them had been severed. <note id="n61"><hi rend="s">1</hi> He also illustrated her translation of
+Salzmann’s <hi rend="i">Elements of Morality.</hi> For the details see David V. Erdman, <hi rend="i">Blake:
+Prophet against Empire</hi>, rev. ed. (Garden City, N.Y.: Doubleday, 1969), p. 156; Jacob Bronowski, 
+<hi rend="i">William Blake and the Age of Revolution</hi> (1965; rpt. London: Routledge &amp; Kegan Paul, 1972),
+p. 150; and Dennis M. Welch, “Blake’s Response to Wollstonecraft’s <hi rend="i">Original
+Stories</hi>,” <hi rend="i">Blake: An Illustrated Quarterly</hi> 13 (1979), 4-15.</note>
+	<note id="n62"><hi rend="s">2</hi> These parallels are noted by Mark Schorer, <hi rend="i">William Blake: The
+Politics of Vision</hi> (1946; rpt. New York: Knopf, 1959), pp. 187 and 251; and Erdman, <hi rend="i">Blake:
+Prophet against Empire</hi>, p. 243.</note>
+	<note id="n63"><hi rend="s">3</hi> Commentators, however, have offered a range of conflicting, speculative
+readings in an attempt to enlarge this meagre fund of biographical information. In “Notes on the 
+<hi rend="i">Visions of the Daughters of Albion</hi> by William Blake,” <hi rend="i">Modern Language
+Quarterly</hi> 9 (1948), 292-97, for instance, Henry H. Wasser argues that <hi rend="i">Visions</hi> is, on
+one level, “an expression of Blake’s knowledge of the love affair between Mary Wollstonecraft and Henry
+Fuseli” (p. 292). But Kathleen Raine, in <hi rend="i">Blake and Tradition</hi> (London: Routledge &amp;
+Kegan Paul, 1969), I, 166-68, proposes that elements of the work may reflect a passionate attachment between
+Blake and Wollstonecraft, while Morton D. Paley claims that “the story of Oothoon and Bromion reflects that
+of Mary Wollstonecraft and her American lover Gilbert Imlay, with at least a possibility that Blake cast
+himself as Theotormon” (<hi rend="i">William Blake</hi> [Oxford: Phaidon, 1978], p. 27).</note></p>
+        <p>The possibility of her continued influence on Blake’s work, however, has been partially obscured
+by the illuminated books printed between 1793 and 1795. In these, the emphasis is primarily sociopolitical;
+and personae often seem more suited to illuminating the larger historical forces at work in the poet’s time
+than the intricate relationship of the sexes.<supplied type="spacer"> </supplied><ref target="n64"
+type="note">4</ref> In particular, the female figure becomes the subject of vast and frequently negative
+metaphorical expansion, as in <hi rend="i">Europe a Prophecy.</hi> There Enitharmon and her daughters can
+variously represent the all-consuming Female Will, the vegetative world, and the benighted social, moral and
+religious constructs of man’s fallen consciousness. Hence discussions of Blake’s debt to Wollstonecraft
+tend to focus exclusively on <hi rend="i">Visions of the Daughters of Albion</hi>, where the basic situation,
+despite its wider sociohistorical implications, is that of a lovers’ triangle; and where the heroine Oothoon
+offers, in word and deed, a Blakean version of major dilemmas articulated in <hi rend="i">Vindication of the
+Rights of Woman.</hi> But, as I hope to demonstrate, Blake’s debt to Wollstonecraft’s 
+<hi rend="i">Vindication</hi> does not cease there. Instead, his complex treatment of women in the ensuing Lambeth
+books is closely related to Oothoon’s views, and with them to Wollstonecraft’s conception of female
+potential. Moreover, these ideas are further developed in <hi rend="i">The Four Zoas</hi>, where many crucial
+conceptual links between the works of Blake and Wollstonecraft testify to the enduring impact on him of her
+impassioned call for harmony, equality and true friendship between the sexes. 
+<note id="n64"><hi rend="s">4</hi> There are obviously exceptions to these broad generalizations. <hi rend="i">The Book of
+Urizen</hi>, for instance, presents a cosmic myth, and the Los-Enitharmon-Orc triad portrays recognizable
+human archetypes, although the overwhelming preoccupation of the Lambeth books is with the revolutionary
+forces manifested in Blake’s time. For the historical background informing these works see 
+<hi rend="i">Blake: Prophet against Empire</hi>, pp. 201-79; Morton D. Paley, <hi rend="i">Energy and the
+Imagination: A Study of the Development of Blake’s Thought</hi> (Oxford: Clarendon Press, 1970), pp. 61-88;
+and Michael J. Tolley, “<hi rend="i">Europe</hi>: ‘to those ychain’d in sleep,’ ” in 
+<hi rend="i">Blake’s Visionary Forms Dramatic</hi>, ed. David V. Erdman and John E. Grant (Princeton: Princeton
+Univ. Press, 1970), pp. 115-45.</note></p>
+        <p><hi rend="i">Visions of the Daughters of Albion</hi> offers evidence not only of Blake’s debt to
+Wollstonecraft but, more importantly, of his capacity to assimilate her ideas into his evolving cosmology. As
+commentators have noted, Oothoon’s description of the negative and positive roles open to her sex seems to
+draw heavily on the <hi rend="i">Vindication.</hi><supplied type="spacer"> </supplied><ref target="n65"
+type="note">5</ref> In essence, her speeches contrast the prevailing feminine mode of “hypocrite modesty,”
+which transforms love into a possession and the sexes into ravening beasts, with the female’s potential to
+redeem herself and her surroundings through freely given love:
+<q>
+Open to joy and to delight where ever beauty appears<lb/>
+If in the morning sun I find it: there my eyes are fix’d<lb/>
+In happy copulation; if in the evening mild, wearied with work;<lb/>
+Sit on a bank and draw the pleasures of this free born joy.<lb/>
+(<hi rend="i">VDA</hi> 6:22-23, 7:1-2, E49/K194)<supplied type="spacer"> </supplied><ref target="n66"
+type="note">6</ref></q>
+But while <hi rend="i">Visions</hi> and the <hi rend="i">Vindication</hi> are remarkably similar in their
+critique of debilitating sexual roles, a clear distinction needs to be made between their characterizations of
+liberated woman. Wollstonecraft’s ideal woman approximates, not Oothoon, but the chaste and disciplined Jane
+Eyre, whom Charlotte Bronte presents as the equal and devoted companion of her husband. In the 
+<hi rend="i">Vindication</hi> monogamy is commended; and the way to emancipation is sought in equal access to
+education, rather than in what, to Urizenic eyes, must seem Oothoon’s advocacy of universal promiscuity.
+<note id="n65"><hi rend="s">5</hi> Other issues, of course, inform her speeches, most notably the contemporary
+debate on slavery. For the details see David V. Erdman, “Blake’s Vision of Slavery,” 
+<hi rend="i">Journal of the Warburg and Courtauld Institutes</hi> 15 (1952), 242-52, or <hi rend="i">Blake:
+Prophet against Empire</hi>, pp. 226-42.</note>
+	<note id="n66"><hi rend="s">6</hi> All references to Blake are from E: <hi rend="i">The Poetry and Prose of
+William Blake</hi>, ed. David V. Erdman, 4th printing, rev. (Garden City, N.Y.: Doubleday, 1970), and K: 
+<hi rend="i">The Complete Writings of William Blake</hi>, ed. Geoffrey Keynes, 3rd printing, rev. (Oxford: Oxford
+Univ. Press, 1971), using the following abbreviations: <hi rend="i">VDA: Visions of the Daughters of Albion;
+L: The Book of Los; E: Europe a Prophecy; A: The Book of Ahania; FZ: The Four Zoas.</hi></note></p>
+        <p>These conservative views, which tend to separate and repress basic human needs, are ruthlessly
+exposed in <hi rend="i">Visions of the Daughters of Albion.</hi> There education is inherently
+sexual,<supplied type="spacer"> </supplied><ref target="n67" type="note">7</ref> and one measure of devoted
+and unselfish companionship is willing complicity in the total sexual freedom of one’s partner:
+<q>
+But silken nets and traps of adamant will Oothoon spread,<lb/>
+And catch for thee girls of mild silver, or of furious gold;<lb/>
+I’ll lie beside thee on a bank &amp; view their wanton play<lb/>
+<pb id="p16-173" n="173"/>
+<figure n="vda.a.p5-6" id="vda.a.illbk.05" work-copy="vda.a" rend="db" width="750" height="1000">
+	<figTranscr>3<lb/>
+	And none but Bromion can hear my lamentations.<lb/>
+	With what sense is it that the chicken shuns the ravenous hawk?<lb/>
+	With what sense does the tame pigeon measure out the expanse?<lb/>
+	With what sense does the bee form cells? have not the mouse &amp; frog<lb/>
+	Eyes and ears and sense of touch? yet are their habitations.<lb/>
+	And their pursuits, as different as their forms and as their joys;<lb/>
+	Ask the wild ass why he refuses burdens: and the meek camel<lb/>
+	Why he loves man: is it because of eye ear mouth or skin<lb/>
+	Or breathing nostrils? No, for these the wolf and tyger have.<lb/>
+	Ask the blind worm the secrets of the grave, and why her spires<lb/>
+	Love to curl round the bones of death! and ask the rav’nous snake<lb/>
+	Where she gets poison: &amp; the wing’d eagle why he loves the sun<lb/>
+	And then tell me the thoughts of man, that have been hid of old.<lb/>
+	Silent I hover all the night, and all day could be silent,<lb/>
+	If Theotormon once would turn his loved eyes upon me;<lb/>
+	How can I be defild when I reflect thy image pure?<lb/>
+	Sweetest the fruit that the worm feeds on. &amp; the soul prey’d on by woe<lb/>
+	The new wash’d lamb ting’d with the village smoke &amp; the bright swan<lb/>
+	By the red earth of our immortal river; I bathe my wings,<lb/>
+	And I am white and pure to hover round Theotormons breast.<lb/>
+	Then Theotormon broke his silence. and he answered.<lb/>
+	Tell me what is the night or day to one o’erflowd with woe?<lb/>
+	Tell me what is a thought? &amp; of what substance is it made?<lb/>
+	Tell me what is a joy? &amp; in what gardens do joys grow?<lb/>
+	And in what rivers swim the sorrows? and upon what mountains</figTranscr>
+	<head>1. <hi rend="i">Visions of the Daughters of Albion</hi>, copy A, pl. 3.</head>
+	<figDesc>Courtesy of the Trustees of the British Museum.</figDesc>
+</figure>
+In lovely copulation bliss on bliss with Theotormon:<lb/>
+Red as the rosy morning, lustful as the first born beam,<lb/>
+Oothoon shall view his dear delight, nor e’er with jealous cloud<lb/>
+Come in the heavens of generous love; nor selfish blightings bring.<lb/>
+(<hi rend="i">VDA</hi> 7:23-29, E49/K194-95)<supplied type="spacer"> </supplied><ref target="n68"
+type="note">8</ref></q>
+In the <hi rend="i">Vindication</hi>, Wollstonecraft’s apparent neglect of woman’s sexuality is, of
+course, in part a reaction against the enforced role of the female as a mere instrument for man’s sensual
+gratification.<supplied type="spacer"> </supplied><ref target="n69" type="note">9</ref> She thus attacks
+passionate, physical love as a force which must, and can be, mastered early in a relationship: “a master and
+mistress of a family ought not to continue to love each other with passion. . . . they ought not to indulge
+those emotions which disturb the order of society, and engross the thoughts that should be otherwise
+employed.”<supplied type="spacer"> </supplied><ref target="n70" type="note">10</ref> According to her,
+“love, perhaps, the most evanescent of all passions, gives place to jealousy or vanity” (p. 27); and its
+unreasonable deification is seen as a major cause of woman’s, and more generally mankind’s, wretched lot.
+Blake, characteristically, was able to acknowledge and transcend the partial truth embodied in this view. In
+<hi rend="i">Visions of the Daughters of Albion</hi> perversions do indeed result from such a limited notion
+of love, but libidinal energy is also presented
+<figure n="vda.a.p6-7" id="vda.a.illbk.06" work-copy="vda.a" rend="db" width="727" height="1000">
+	<figTranscr>Wave shadows of discontent? and in what houses dwell the wretched<lb/>
+	Drunken with woe forgotten. and shut up from cold despair,<lb/>
+	Tell me where dwell the thoughts forgotten till thou call them forth<lb/>
+	Tell me where dwell the joys of old? &amp; where the ancient loves?<lb/>
+	And when will they renew again &amp; the night of oblivion past?<lb/>
+	That I might traverse times &amp; spaces far remote and bring<lb/>
+	Comforts into a present sorrow and a night of pain<lb/>
+	Where goest thou O thought! to what remote land is thy flight?<lb/>
+	If thou returnest to the present moment of affliction<lb/>
+	Wilt thou bring comforts on thy wings, and dews and honey and balm;<lb/>
+	Or poison from the desart wilds, from the eyes of the envier.<lb/>
+	Then Bromion said; and shook the cavern with his lamentation<lb/>
+	Thou knowest that the ancient trees seen by thine eyes have fruit;<lb/>
+	But knowest thou that trees and fruits flourish upon the earth<lb/>
+	To gratify senses unknown? trees beasts and birds unknown:<lb/>
+	Unknown, not unpercievd, spread in the infinite microscope,<lb/>
+	In places yet unvisited by the voyager. and in worlds<lb/>
+	Over another kind of seas. and in atmospheres unknown.<lb/>
+	Ah! are there other wars, beside the wars of sword and fire!<lb/>
+	And are there other sorrows, beside the sorrows of poverty?<lb/>
+	And are there other joys, beside the joys of riches and ease?<lb/>
+	And is there not one law for both the lion and the ox?<lb/>
+	And is there not eternal fire, and eternal chains?<lb/>
+	To bind the phantoms of existence from eternal life?<lb/>
+	Then Oothoon waited silent all the day, and all the night,</figTranscr>
+	<head>2. <hi rend="i">Visions of the Daughters of Albion</hi>, copy A, pl. 4.</head>
+</figure>
+as a potentially regenerative force working within a rationally constrained world. Blake’s Oothoon may be
+bound and tortured, but her naked body is nonetheless pictured in sensual and aspiring positions on plates
+three and four. <note id="n67"><hi rend="s">7</hi> Or as Paley says of <hi rend="i">The Marriage of Heaven and
+Hell</hi>, “Blake envisions, not revolution <hi rend="i">and</hi> sexual freedom, but a revolution which is
+libidinal in nature” (<hi rend="i">Energy and the Imagination</hi>, p. 16).</note>
+	<note id="n68"><hi rend="s">8</hi> In their immediate context, the lines refer only to plural partners for
+the male, but Oothoon’s earlier comments on the crippling effects of enforced monogamy seem to project an
+ideal of equal freedom for both the male and the female. Similarly, Blake’s contemporary comments in the
+Notebook repeatedly recognize the equal and complementary needs of the sexes, as in the following lines, where
+the emphatic parallelism negates any possibility of sexist distinctions:
+<q>
+What is it men in women do require<lb/>
+The lineaments of Gratified Desire<lb/>
+What is it women do in men require<lb/>
+The lineaments of Gratified Desire<lb/>
+(E466/K180)
+</q>
+Failure to recognize this larger context, however, can almost transform the healthy Oothoon into a sexual
+deviant, as when Leopold Damrosch, Jr., speaks confidently of her “fantasies, with their sadomasochism and
+voyeurism” in <hi rend="i">Symbol and Truth in Blake’s Myth</hi> (Princeton: Princeton Univ. Press, 1980),
+p. 198.
+                    </note>
+	<note id="n69"><hi rend="s">9</hi> Alternatively, given the unusual degree of sexual liberation she was to
+enjoy in her own life, this omission may reflect a conscious concession to her audience, made in the hope of
+winning approval for other radical and, in some senses, more important aspects of her program for female
+emancipation.</note>
+	<note id="n70"><hi rend="s">10</hi> Mary Wollstonecraft, <hi rend="i">A Vindication of the Rights of Woman:
+With Strictures on Political and Moral Subjects</hi>, ed. Carol H. Poston (New York: Norton, 1975), pp. 30-31.
+Future page references to this edition will be cited parenthetically.</note></p>
+        <p>Throughout the Lambeth period, Blake’s appraisal of female capabilities remains constant,
+although their presentation varies according to the scope and aim of the specific work. In 
+<hi rend="i">Visions of the Daughters of Albion</hi> the influence of Wollstonecraft is most apparent, because
+this work, like her own <hi rend="i">Vindication of the Rights of Woman</hi>, focuses on the perverted
+relationships generated by restrictive social conditioning. The ensuing Lambeth books, however, are more
+concerned with developing a coherent cosmology and with exploring the negative effects of mankind’s fall.
+Consequently, the identification of woman with the memory or latent promise of visionary renewal is
+subordinate to her projection as an active participant in the “torments of love and
+<pb id="p16-174" n="174"/>
+<figure n="BB209.1.9.MS" rend="file" width="792" height="1000">
+	<figTranscr>5<lb/>
+							<lb/>
+							{7}<lb/>
+							<lb/>
+							{embracd for}<lb/>
+							{love}<lb/>
+							<lb/>
+							And then they wanderd far away she sought for them in vain<lb/>
+							In weeping blindness stumbling she followd them oer rocks &amp; mountains<lb/>
+							Rehumanizing from the Spectre in pangs of maternal love<lb/>
+							Ingrate they wanderd scorning her drawing her {life; ingrate} Spectrous Life<lb/>
+							Repelling her away &amp; away by a dread repulsive power     100<lb/>
+							Into Non Entity revolving round in dark despair.<lb/>
+							{Till they had drawn the Spectre quite away from Enion}<lb/>
+							And drawing in the Spectrous life in pride and haughty joy<lb/>
+							<lb/>
+							Thus Enion gave them all her spectrous life {in dark despair}<lb/>
+							Then {Ona} Eno a daughter of Beulah took a Moment of Time<lb/>
+							And drew it out to {twenty years} Seven thousand years with much care &amp; affliction<lb/>
+							And many tears &amp; in the {twenty} Every years {gave visions toward heaven} made windows into<lb/>
+Eden<lb/>
+							She also took an atom of space &amp; opend its center<lb/>
+							Into Infinitude &amp; ornamented it with wondrous art<lb/>
+							Astonishd sat her Sisters of Beulah to see her soft affections<lb/>
+							To Enion &amp; her children &amp; they ponderd these things wondring<lb/>
+							And they Alternate kept watch over the Youthful terrors<lb/>
+							They saw not yet the Hand Divine for it was not yet reveald<lb/>
+							But they went on in Silent Hope &amp; Feminine repose<lb/>
+							<lb/>
+							But Los &amp; Enitharmon delighted in the Moony spaces of {Ona} Eno<lb/>
+							Nine Times they livd among the forests, feeding on sweet fruits<lb/>
+							And nine bright Spaces wanderd weaving mazes of delight<lb/>
+							Snaring the wild Goats for their milk they eat the flesh of Lambs<lb/>
+							A male &amp; female naked &amp; ruddy as the pride of summer<lb/>
+							<lb/>
+							p. 8<lb/>
+							Ellis<lb/>
+							<lb/>
+							Alternate Love &amp; Hate his breast; hers Scorn &amp; Jealousy<lb/>
+							{They kissd not for shame they embracd not}<lb/>
+							In embryon passions. they kiss’d not nor embrac’d for shame &amp; fear     150<lb/>
+							{Nor kissd nor em[braced]}<lb/>
+							{hand in hand in a Sultry paradise}<lb/>
+							{these Lovers swum the deep}<lb/>
+							His head beamd light &amp; in his vigorous voice was prophecy<lb/>
+							He could controll the times &amp; seasons, &amp; the days &amp; years<lb/>
+							She could controll the spaces, regions, desart, flood &amp; forest<lb/>
+							<lb/>
+							But had no power to weave a Veil of covering for her Sins<lb/>
+							She drave the Females all away from Los<lb/>
+							And Los drave all the Males from her away<lb/>
+							<lb/>
+							They wanderd long, till they sat down upon the margind sea.<lb/>
+							Conversing with the visions of Beulah in dark slumberous bliss<lb/>
+							<lb/>
+							Night the Second<lb/>
+							<lb/>
+							{Nine years they view the turning spheres {of Beulah} reading the Visions of Beulah}<lb/>
+							But the two youthful wonders wanderd in the world of Tharmas<lb/>
+							Thy name is Enitharmon; said the {bright} fierce prophetic boy<lb/>
+							{While they} {Harmony}<lb/>
+							While thy mild voice fills all these Caverns with sweet harmony<lb/>
+							O how {thy} our Parents sit &amp; {weep} mourn in their silent secret bowers</figTranscr>
+	<head>3. <hi rend="i">The Four Zoas</hi>, p. 9.</head>
+</figure>
+<figure n="BB209.1.26.MS" rend="file" width="792" height="1000">
+	<figTranscr>6th page<lb/>
+							<lb/>
+							Vala incircle round the furnaces where Luvah was clos’d<lb/>
+							In joy she heard his howlings, &amp; forgot he was her Luvah<lb/>
+							With whom she walkd in bliss, in times of innocence &amp; youth<lb/>
+							<lb/>
+							Hear ye the voice of Luvah from the furnaces of Urizen<lb/>
+							<lb/>
+							20<lb/>
+							Ellis<lb/>
+							<lb/>
+							If I indeed am {Luvahs Lord} Valas King &amp; ye O sons of Men<lb/>
+							The workmanship of Luvahs hands; in times of Everlasting<lb/>
+							When I calld forth the Earth-worm from the cold &amp; dark obscure<lb/>
+							I nurturd her I fed her with my rains &amp; dews, she grew<lb/>
+							A scaled Serpent, yet I fed her tho’ she hated me<lb/>
+							Day after day she fed upon the mountains in Luvahs sight        50<lb/>
+							I brought her thro’ the Wilderness, a dry &amp; thirsty land<lb/>
+							And I commanded springs to rise for her in the black desart<lb/>
+							{But} Till she became a {de[mon]} Dragon winged bright &amp; poisonous<lb/>
+							I opend all the floodgates of the heavens to quench her thirst<lb/>
+							<lb/>
+							And<lb/>
+							<lb/>
+							BRITISH<lb/>
+							MUSEUM</figTranscr>
+	<head>4. <hi rend="i">The Four Zoas</hi>, p. 26.</head>
+</figure>
+jealousy.” In these works, she is associated overwhelmingly with dominion and selfish love or, more
+alarmingly, with the fall into generative division;<supplied type="spacer"> </supplied><ref target="n71"
+type="note">11</ref> and so with the last stage in that benighted state of consciousness which separates man
+from his original unity and divinity.<supplied type="spacer"> </supplied><ref target="n72"
+type="note">12</ref>
+	<note id="n71"><hi rend="s">11</hi> This is as true of <hi rend="i">America a Prophecy</hi> as it is of other
+works of the period, like <hi rend="i">Europe a Prophecy</hi> and <hi rend="i">The Book of Urizen.</hi> For as
+Minna Doskow has demonstrated in “William Blake’s <hi rend="i">America</hi>: The Story of a Revolution
+Betrayed,” <hi rend="i">Blake Studies</hi> 8 (1979), 167-86, the shadowy female of the preludium acts the
+part of “the obedient daughter of a tyrannical father” (p. 171). She is used as an instrument to enslave
+the dangerous energies of Orc; and when this strategy fails her long training ensures that the love she
+returns the fiery youth is selfish and possessive, and that revolutionary potential is thereby severely
+limited.</note>
+	<note id="n72"><hi rend="s">12</hi> In fact, the negative impression left by these works has been so strong
+that Susan Fox has felt compelled to argue against the received view of Oothoon. According to her reading,
+Blake’s choice of a woman as the main protagonist in <hi rend="i">Visions</hi> reflects, not even a
+relenting in his view of womankind, but rather his need for a figure who could be symbolically raped and
+readily enslaved (“The Female as Metaphor in William Blake’s Poetry,” <hi rend="i">Critical Inquiry</hi>
+3 [1977], 513). A more persuasive and illuminating commentary on this issue, however, is provided by Irene
+Taylor, “The Woman Scaly,” <hi rend="i">Bulletin of the Midwest Modern Language Association</hi> 6 (1973),
+rpt. in Mary Lynn Johnson and John E. Grant, eds., <hi rend="i">Blake’s Poetry and Designs</hi> (New York:
+Norton, 1979), pp. 539-53. There we are invited to see Blake’s critical treatment of womankind as
+“reflecting a view prominent in Western mythologies” (p. 542), rather than a personal animus.</note></p>
+        <p>Counterpointing these harsh associations, however, is the awareness that woman, no less than man,
+can maintain “the Divine Vision in time of trouble.” In <hi rend="i">The Book of Los</hi>, for instance,
+Blake foreshadows the regenerative role of Enion in <hi rend="i">The Four Zoas</hi>, when he attributes to
+“Eno aged Mother” the opening lament, which juxtaposes the world of Experience with “Times remote! /
+When Love &amp; Joy were adoration” (<hi rend="i">L</hi> 3:7-8, E89/K256). Even in <hi rend="i">Europe a
+Prophecy</hi>, the predatory Enitharmon, at the height of her power, is forced to acknowledge the existence of
+an antithetical code of female behavior:
+<q>
+I hear the soft Oothoon in Enitharmons tents:<lb/>
+Why wilt thou give up womans secrecy my melancholy child?<lb/>
+(<hi rend="i">E</hi> 14:21-22, E64/K244)
+</q>
+But the most striking evidence for the continuity of Blake’s conception of the female is provided by 
+<hi rend="i">The Book of Ahania.</hi> Printed two years after <hi rend="i">Visions</hi> and probably little more
+than a year before he began work on <hi rend="i">Vala</hi>,<supplied type="spacer"> </supplied><ref
+target="n73" type="note">13</ref> it portrays man as jealous and vengeful in the figures of Fuzon and Urizen;
+whereas Oothoon-like woman is made the advocate of genuine love and forgiveness. The frontispiece presents
+Ahania cowering and surrounded by a squatting male figure. Her rather phallic posture, between his spread
+legs, suggests both her birth from Urizen’s shattered loins and her relegation to a limited sexual role by
+the male. Yet although perverted man will call her Sin and establish her as a fetish for secret worship, the
+title-page illustration of solitary, flying Ahania implies the presence of a distinctive personage beyond the
+bounds of restricting, Urizenic perception.<supplied type="spacer"> </supplied><ref target="n74"
+type="note">14</ref> This promise she fulfills in her concluding lament over the fallen Urizen, which recalls
+Oothoon’s memories of fulfilling love and anticipates a similar plaint by Ahania in Night the Third of 
+<hi rend="i">The Four Zoas</hi>:
+<q>
+Then thou with thy lap full of seed<lb/>
+With thy hand full of generous fire<lb/>
+Walked forth from the clouds of morning<lb/>
+On the virgins of springing joy,<lb/>
+On the human soul to cast<lb/>
+The seed of eternal science.<lb/>
+. . . . . .<lb/>
+<lb/>
+But now alone over rocks, mountains<lb/>
+Cast out from thy lovely bosom:<lb/>
+Cruel jealousy! selfish fear!<lb/>
+<pb id="p16-175" n="175"/>
+Self-destroying: how can delight,<lb/>
+Renew in these chains of darkness<lb/>
+Where bones of beasts are strown<lb/>
+On the bleak and snowy mountains<lb/>
+Where bones from the birth are buried<lb/>
+Before they see the light.<lb/>
+(<hi rend="i">A</hi> 5:29-34, 39-47, E88-89/K255)<supplied type="spacer"> </supplied><ref target="n75"
+type="note">15</ref></q>
+In the works printed between <hi rend="i">Visions</hi> and <hi rend="i">Vala</hi>, then, Blake divided among
+separate personae elements of the Wollstonecraftian vision first attributed to Oothoon. This enabled a more
+flexible and clearly differentiated treatment of female potential, well suited to his wider examination of
+myth, history, and psychological motivation. The division also prepared the way for that dialectical interplay
+between positive and negative forces which, in <hi rend="i">The Four Zoas</hi>, is a prelude to apocalypse.
+<note id="n73"><hi rend="s">13</hi> The most comprehensive and informed discussions of putative composition
+dates and textual details are to be found in William Blake, <hi rend="i">Vala or The Four Zoas: A Facsimile of
+the Poem and A Study of Its Growth and Significance</hi>, ed. G. E. Bentley, Jr. (Oxford: Clarendon Press,
+1963); David V. Erdman, “The Binding (et cetera) of <hi rend="i">Vala</hi>,” <hi rend="i">The Library</hi>
+29 (1969), 112-29; <hi rend="i">The Poetry and Prose of William Blake</hi>, pp. 737-39; and in 
+<hi rend="i">Blake: An Illustrated Quarterly</hi> 12 (Fall 1978), an issue devoted to <hi rend="i">The Four
+Zoas.</hi></note>
+	<note id="n74"><hi rend="s">14</hi> Despite her somewhat ambiguous gestures and posture, I assume that she is
+flying because, as David V. Erdman notes, the depiction of her hair “indicates swift flight” 
+(<hi rend="i">The Illuminated Blake</hi> [London: Oxford Univ. Press, 1975], p. 211).</note>
+	<note id="n75"><hi rend="s">15</hi> Her concluding words also echo lines eleven to fifteen of “Earth’s
+Answer,”
+						<q>
+                                Selfish father of men<lb/>
+                                Cruel jealous selfish fear<lb/>
+                                Can delight<lb/>
+                                Chain’d in night<lb/>
+                                The virgins of youth and morning bear,
+                            </q>
+                            and thereby link her with the life-and love-giving attributes of the female Earth.
+For a full discussion of these implications, and of Blake’s association of the female figure with
+apocalyptic renewal in “The Little Girl Lost” and “The Little Girl Found,” see my essay “Blake’s
+Problematic Touchstones to Experience: ‘Introduction,’ ‘Earth’s Answer,’ and the Lyca Poems,” 
+<hi rend="i">Studies in Romanticism</hi> 19 (1980) 3-17.
+                    </note></p>
+        <p>By the time Blake began <hi rend="i">Vala</hi>, Wollstonecraft’s ideas had thus been thoroughly
+absorbed into his developing cosmology. Consequently, the full and lasting extent of her influence shows
+itself not in direct echoes or explicit allusions, but in broad and significant areas of conceptual agreement,
+such as the close resemblance of Blake’s characterization of the delusive emanation to the portrayal of
+woman’s severely circumscribed state in the <hi rend="i">Vindication.</hi><supplied type="spacer"> </supplied><ref target="n76" type="note">16</ref> Wollstonecraft, positing that woman has the same rational
+potential as man, claims that she receives a limiting education in accordance with the subordinate role
+attributed to her in a male-dominated world. She is taught to be pleasant and alluring; her single goal is to
+attract, capture, and then retain a male because, given her lack of any wider education, she is inevitably
+dependent on males for her sustenance. As a result women are encouraged, either implicitly or explicitly, to
+be charming, vain, proud, jealous, indolent and, above all, cunning: “that pitiful cunning which
+disgracefully characterizes the female mind—and I fear will ever characterize it whilst women remain the
+slaves of power!” (p. 164). Their social and physical weakness leaves them no option but to use their few
+native weapons, such as beauty, tears and smiles, to overcome their legal oppressors. The result is an
+undeclared but constant battle between the sexes for command, or as Wollstonecraft explains: “It is this
+separate interest—this insidious state of warfare, that undermines morality, and divides mankind!” (p.
+97). Similarly in <hi rend="i">The Four Zoas</hi>, as in earlier works, Blake uses the interaction of the
+sexes to demonstrate both the fallen, divided state of the original Divine Humanity, and the resulting
+distortion of all moral principles. Furthermore, his emanations correspond almost point by point with
+Wollstonecraft’s image of perverted
+          <figure n="BB209.1.37.MS" rend="file" width="778" height="1000">
+	<figTranscr>{1}<lb/>
+							19<lb/>
+							{18}<lb/>
+							<lb/>
+							VALA<lb/>
+							Night the {Fourth} Third<lb/>
+							<lb/>
+							Now sat the King of Light on high upon his starry throne<lb/>
+							And bright Ahania bow’d herself before his splendid feet<lb/>
+							<lb/>
+							O Urizen look on Me. {thy Wife, that} like a mournful stream<lb/>
+							I Embrace{s} round thy knees &amp; wet{s her} My bright hair with {her} my tears:<lb/>
+							Why sighs my Lord! are not the morning stars thy obedient Sons<lb/>
+							Do they not bow their bright heads at thy voice? at thy command<lb/>
+							Do they not fly into their stations &amp; return their light to thee<lb/>
+							The immortal Atmospheres are thine, there thou art seen in glory<lb/>
+							Surrounded by the ever changing Daughters of the Light<lb/>
+							{Thou sitst in harmony for God hath set thee over all}<lb/>
+							Why wilt thou look upon futurity darkning present joy<lb/>
+							She ceas’d the Prince his light obscurd &amp; the splendors of his crown<lb/>
+							<lb/>
+							Infolded</figTranscr>
+	<head>5. <hi rend="i">The Four Zoas</hi>, p. 37.</head>
+</figure>
+<figure n="BB209.1.44.MS" rend="file" width="782" height="1000">
+	<head>6. <hi rend="i">The Four Zoas</hi>, p. 44.</head>
+</figure>
+<pb id="p16-176" n="176"/>
+womanhood. They too are portrayed as cunning, alluring, unproductive, and involved in an ongoing struggle for
+and against domination, as in the following passage:
+<q>
+Thus sang the Lovely one in Rapturous delusive trance<lb/>
+Los heard reviving he siezd her in his arms delusive hopes<lb/>
+Kindling She led him into Shadows &amp; thence fled outstretchd<lb/>
+Upon the immense like a bright rainbow weeping &amp; smiling &amp; fading<lb/>
+(<hi rend="i">FZ</hi> 34:93-96, E318/K290)
+</q>
+And both writers are equally forthright in condemning those who provide instruction in these female arts.
+Wollstonecraft for instance, in a chapter entitled “Animadversions on Some of the Writers Who Have Rendered
+Women Objects of Pity, Bordering on Contempt,” pillories books that advise the alternate use of chastity and
+coquetry,<supplied type="spacer"> </supplied><ref target="n77" type="note">17</ref> much as Blake
+disapprovingly quotes Enitharmon’s advice on ways to manipulate parents:
+<q>
+To make us happy let them weary their immortal powers<lb/>
+While we draw in their sweet delights while we return them scorn<lb/>
+On scorn to feed our discontent; for if we grateful prove<lb/>
+They will withhold sweet love, whose food is thorns &amp; bitter roots.<lb/>
+(<hi rend="i">FZ</hi> 10:3-6, E301/K271)
+</q>
+Although addressed to Los, this speech provides a succinct recipe for female domination, as it is practiced by
+Vala and Enitharmon herself.<supplied type="spacer"> </supplied><ref target="n78" type="note">18</ref> Yet the
+immediate context of her remarks reminds us that these feminine wiles are not restricted to the emanations
+alone. Instead, they operate in the fallen world wherever “selfish loves increase”: a point underscored by
+the accompanying design on page 9 of exhausted Enion, hopelessly pursuing her taunting, ungrateful children.
+<note id="n76"><hi rend="s">16</hi> Some of these female traits had, of course, appeared in earlier works,
+such as <hi rend="i">Europe a Prophecy.</hi> But it is not until <hi rend="i">The Four Zoas</hi> that they
+receive detailed treatment; and only then does their close association with Wollstonecraft’s conceptions
+clearly emerge.</note>
+	<note id="n77"><hi rend="s">17</hi> Wollstonecraft attacks, for example, the following passage cited from
+Rousseau: “ ‘Would you have your husband constantly at your feet? keep him at some distance from your
+person. You will long maintain the authority in love, if you know but how to render your favours rare and
+valuable. It is thus you may employ even the arts of coquetry in the service of virtue, and those of love in
+that of reason.’ ” (p. 89).</note>
+	<note id="n78"><hi rend="s">18</hi> For a fuller account of this, and of other scenes mentioned briefly in
+this paper, consult Brian Wilkie and Mary Lynn Johnson, <hi rend="i">Blake’s Four Zoas: The Design of a
+Dream</hi> (Cambridge, Mass.: Harvard Univ. Press, 1978).</note></p>
+        <p>Common also to <hi rend="i">The Four Zoas</hi> and to the <hi rend="i">Vindication</hi> is their
+critique of conventional notions of love as a form of self-idolatry, and as a means by which woman obtains
+excessive sway. Like Blake, Wollstonecraft argues that man mistakes the shadow for the substance (p. 135), the
+ephemeral for the true goals of life: “I see the sons and daughters of men pursuing shadows, and anxiously
+wasting their powers to feed passions which have no adequate object” (p. 110). This erroneous condition is,
+for both, exemplified by love: “And love! What diverting scenes would it produce—Pantaloon’s tricks must
+yield to more egregious folly. To see a mortal adorn an object with imaginary charms, and then fall down and
+worship the idol which he had himself set up—how ridiculous!” (p. 111). According to Wollstonecraft,
+man’s cherished image of the female emanates from his own fallen consciousness. He then seeks to impose his
+projections on women through education (“Why must the female mind be tainted by coquetish arts to gratify
+the sensualist . . .?” [p. 31]), and finally falls “prostrate before their personal charms” (p. 92). The
+course of fallen love is similarly self-fulfilling in <hi rend="i">The Four Zoas</hi>, although here the
+critique of idol-worship encompasses perverted passion in its sexual and religious manifestations. Hence
+Albion succumbs to Vala and, even more abjectly, to his own projected divinity:
+<q>
+Then Man ascended mourning into the splendors of his palace<lb/>
+Above him rose a Shadow from his wearied intellect<lb/>
+Of living gold, pure, perfect, holy; in white linen pure he hover’d<lb/>
+A sweet entrancing self delusion, a watry vision of Man<lb/>
+Soft exulting in existence all the Man absorbing<lb/>
+<lb/>
+Man fell upon his face prostrate before the watry shadow<lb/>
+Saying O Lord whence is this change thou knowest I am nothing.<supplied type="spacer"> </supplied><ref
+target="n79" type="note">19</ref><lb/>
+(<hi rend="i">FZ</hi> 40:2-8, E320/K293) <note id="n79"><hi rend="s">19</hi> A parallel image of man’s
+idolatry to his female self-projection emerges from the combined accounts of the Spectre of Urthona and the
+Shadow of Enitharmon in Night the Seventh (a):
+<q>
+Listen O vision of Delight One dread morn of goary blood<lb/>
+The manhood was divided for the gentle passions making way<lb/>
+Thro the infinite labyrinths of the heart &amp; thro the nostrils issuing<lb/>
+In odorous stupefaction stood before the Eyes of Man<lb/>
+A female bright. . . .<lb/>
+(<hi rend="i">FZ</hi> 84:12-16, E352/K327)<lb/>
+Among the Flowers of Beulah walkd the Eternal Man &amp; Saw<lb/>
+Vala the lilly of the desart. melting in high noon<lb/>
+Upon her bosom in sweet bliss he fainted Wonder siezd<lb/>
+All heaven they saw him dark. . . .<lb/>
+(<hi rend="i">FZ</hi> 83:7-10, E351/K326)
+</q></note></q>
+That the <hi rend="i">Vindication</hi> fails to draw this parallel between debased love and worship is perhaps
+another reflection of Wollstonecraft’s conservatism. But it does not impede her radical vision of passion as
+an insidious form of self-gratification that leads the sexes further away from an ideal of mutually enhancing
+unity; and that produces a situation in which women, as Wollstonecraft contends, “indirectly . . . obtain
+too much power, and are debased by their exertions to obtain illicit sway” (p. 167).</p>
+        <p>Similarly Blake, throughout <hi rend="i">The Four Zoas</hi>, stresses the elements of narcissism
+and tyranny latent in sexual love. Ahania, for instance, in text and design, is shown in acts of abasement at
+the feet of the tyrant Urizen; while the interrelationship of sexual and religious idolatry is demonstrated
+with brutal frankness on page 44 by a sketch in which the female genitalia are pictured literally as an altar
+for secret worship.<supplied type="spacer"> </supplied><ref target="n80" type="note">20</ref> But where
+Wollstonecraft offers only a fragmentary account of the harmful ascendency of debased sexuality, Blake reveals
+it behind all humanity’s successive falls. Thus Ahania argues that man’s original error was the result of
+his being “Idolatrous to his own Shadow” (<hi rend="i">FZ</hi> 40:12, E321/K293), and the spectre of
+Urthona describes his own fall in terms of a division confirmed through self-copulation:
+<q>
+My loins begin to break forth into veiny pipes &amp; writhe<lb/>
+Before me in the wind englobing trembling with strong vibrations<lb/>
+The bloody mass began to animate. I bending over<lb/>
+Wept bitter tears incessant. Still beholding how the piteous form<lb/>
+Dividing &amp; dividing from my loins a weak &amp; piteous<lb/>
+Soft cloud of snow a female pale &amp; weak I soft embracd<lb/>
+My counter part &amp; calld it Love I named her Enitharmon.<lb/>
+(<hi rend="i">FZ</hi> 50:11-17, E327/K300)
+</q>
+Fallen love is associated here with an emanation projected from and designated by the male, while the
+expression “My counter part” emphasizes her dual function as a constituent of Urthona and as an inherent
+property which will hinder a return to his unfallen state. Moreover Wollstonecraft only asserts that these
+narcissistic relationships are mutually debilitating, whereas Blake continually demonstrates it, as in Night
+the Third. The opening design on page 37 shows
+<pb id="p16-177" n="177"/>
+Ahania playing the part of a submissive slave, while Urizen’s posture and countenance express
+revulsion.<supplied type="spacer"> </supplied><ref target="n81" type="note">21</ref> The implications of this
+scene are articulated later, when Urizen chastizes Ahania for the perfect obedience which he himself demanded,
+because he perceives his loathsome self-image in the undistorting mirror she affords:
+<q>
+Thou little diminutive portion that darst be a counterpart<lb/>
+They passivity thy laws of obedience &amp; insincerity<lb/>
+Are my abhorrence. Wherefore hast thou taken that fair form<lb/>
+Whence is this power given to thee! once thou wast in my breast<lb/>
+A sluggish current of dim waters. on whose verdant margin<lb/>
+A cavern shaggd with horrid shades. dark cool &amp; deadly. where<lb/>
+I laid my head in the hot noon after the broken clods<lb/>
+Had wearied me. there I laid my plow &amp; there my horses fed<lb/>
+And thou hast risen with thy moist locks into a watry image<lb/>
+Reflecting all my indolence my weakness &amp; my death<lb/>
+(<hi rend="i">FZ</hi> 43:9-18, E322/K295)
+</q>
+By trying to become more than man he too has become less or diminutive. Her “laws” are those he
+promulgates and, with the confusion typical of fallen reason, the former image of her that he lovingly invokes
+has the characteristics for which he now curses her. Furthermore, because these attributes are, as he
+recognizes, dominant in himself, any attempt to reject them in her can precipitate his own fall. So Blake,
+with fine dramatic irony, makes Urizen the judge and destroyer of his own realm. For at this stage the tyrant
+has only glimmerings of what will become redemptive self-consciousness in Night the Ninth, much as his
+precipitation to lower depths ironically foreshadows the lesson of self-abnegation he has yet to learn before
+true regeneration can begin. Here undeniably, as in other scenes, Blake’s attack on “selfish loves” is
+more specific and coherent than Wollstonecraft’s. But his basic views certainly accord with the details of
+her discussion, and with her summary conclusion that man must “willingly resign the privileges of rank and
+sex for the privileges of humanity” (p. 149). <note id="n80"><hi rend="s">20</hi> Interestingly, Blake and
+Wollstonecraft diverge in their views on the effects of solitary withdrawal and reflection. According to
+Wollstonecraft, both are necessary if women are to develop independent thought and genuine feeling, or as she
+puts it: “Besides, by living more with each other, and being seldom absolutely alone, they [women] are more
+under the influence of sentiments than passions. Solitude and reflection are necessary to give to wishes the
+force of passions, and to enable the imagination to enlarge the object, and make it the most desirable” (p.
+58). In Blake, such acts are often associated with Urizenic withdrawal from humanity, or with negative
+self-enjoyings, like those lamented by Oothoon:
+<q>
+The moment of desire! the moment of desire! The virgin<lb/>
+That pines for man; shall awaken her womb to enormous joys<lb/>
+In the secret shadows of her chamber, the youth shut up from<lb/>
+The lustful joy. shall forget to generate. &amp; create an amorous image<lb/>
+In the shadows of his curtains and in the folds of his silent pillow.<lb/>
+. . . . . . . . . . . . . . . . . . . .<lb/>
+Is it because acts are not lovely, that thou seekest solitude.<lb/>
+Where the horrible darkness is impressed with reflections of desire.<lb/>
+(<hi rend="i">VDA</hi> 7:3-7, 10-11, E49/K194)
+</q></note>
+	<note id="n81"><hi rend="s">21</hi> The heavily drawn claw on his foot is eloquent testimony both to
+Urizen’s status as tyrant and to <corr type="emend">its bestializing</corr> effects: a theme repeated in other Blake designs, such as
+those of Nebuchadnezzar.</note></p>
+        <p>Even more important, Blake and Wollstonecraft concur in their analysis of the wider implications of
+these fallen passions. Apart from transforming what should be “sports of Glory” into those of Cruelty,
+this debased concept of love destroys the possibility of a healthy parental bond, and is ultimately linked
+with deleterious social manifestations. In her brief chapter “Parental Affection,” Wollstonecraft remarks
+that the parent-child bond is often “a pretext to tyrannize where it can be done with impunity” (pp.
+150-51). As such, it becomes, “perhaps, the blindest modification of perverse self-love” (p. 150), and can
+serve as a
+          <figure n="BB209.1.72.MS" rend="file" width="780" height="1000">
+            <head>7. <hi rend="i">The Four Zoas</hi>, p. 72.</head>
+          </figure>
+          <figure n="BB209.1.86.MS" rend="file" width="783" height="1000">
+            <head>8. <hi rend="i">The Four Zoas</hi>, p. 86.</head>
+          </figure>
+          <pb id="p16-178" n="178"/>
+          <figure n="BB209.1.112.MS" rend="file" width="772" height="1000">
+            <head>9. <hi rend="i">The Four Zoas</hi>, p. 112.</head>
+          </figure>
+          <figure n="ahania.a.p1" id="ahania.a.illbk.01" work-copy="ahania.a" rend="db" width="731" height="1000">
+	<figTranscr/>
+            <head>10. <hi rend="i">The Book of Ahania</hi>, copy A, pl. i.</head>
+            <figDesc>Courtesy of the Lessing J. Rosenwald Collection, Library of Congress.</figDesc>
+          </figure>
+          <figure n="ahania.a.p2" id="ahania.a.illbk.02" work-copy="ahania.a" rend="db" width="735" height="1000">
+	<figTranscr>THE<lb/>
+	BOOK of<lb/>
+	AHANIA<lb/>
+	LAMBETH<lb/>
+	Printed by W Blake 1795</figTranscr>
+            <head>11. <hi rend="i">The Book of Ahania</hi>, copy A, pl. 1.</head>
+          </figure>
+model for all other forms of oppression: “Power, in fact, is ever true to its vital principle, for in every
+shape it would reign without controul or inquiry. . . . Obedience, unconditional obedience, is the catch-word
+of tyrants of every description, and to render ‘assurance doubly sure,’ one kind of despotism supports
+another” (p. 150). No less than Blake, Wollstonecraft is aware that the bondage of parenthood and marriage
+parallels and supports a constricting social structure which promotes priestcraft, war and mystery.<supplied
+type="spacer"> </supplied><ref target="n82" type="note">22</ref> Slavish obedience to parents is, she tells
+us, preparation “for the slavery of marriage” (p. 155); and both institutions, founded on their victims’
+“weakness and ignorance,” are protected by “mysterious sanctity” (p. 153). Yet if unselfish love can
+once prevail, not only may parents and children find natural ground for “mutual sympathy,” but the parents
+will be drawn together “when . . . mutual confidence takes place of overstrained admiration—a child then
+gently twists the relaxing cord, and a mutual care produces a new mutual sympathy”
+<pb id="p16-179" n="179"/>
+(p. 152). Without this abandonment of egotistical constraint, however, man remains essentially separate and
+disconsolate, like the three exhausted women pictured under a leafless, barren tree of Experience, on page 72
+of Night the Sixth. <note id="n82"><hi rend="s">22</hi> In “Of the Pernicious Effects which Arise from the
+Unnatural Distinctions Established in Society,” a chapter which closely parallels Blake’s analysis of
+fallen England, Wollstonecraft describes the world as “a den of sharpers or oppressors” (p. 140), in which
+“a true north-east blast . . . blights the tender blossoms of affection and virtue,” and the “silken
+wings” of innocent womanhood are “shrivelled up” (p. 141). British politics is dubbed “the present
+system of war” (p. 145), and is seen to consist “in multiplying dependents and contriving taxes which
+grind the poor to pamper the rich” (p. 143), while humanity, and in particular woman, is enchained “like
+the poor African slaves” (p. 144).</note></p>
+        <p>In <hi rend="i">The Four Zoas</hi>, Blake projects similar insights through the actions of Los and
+Enitharmon, who appear first as children and then as parents. In their role as parents, they illustrate the
+perverse self-love and tyrannical drive for unconditional obedience that Wollstonecraft castigates. But
+Blake’s analysis demonstrates more clearly than the <hi rend="i">Vindication</hi>’s that these egotistical
+acts recoil harmfully upon their instigators. Los, although he attempts to render “assurance doubly sure”
+by binding Orc with the chain of jealousy, is himself a victim of the same chain.<supplied type="spacer"> </supplied><ref target="n83" type="note">23</ref> It constricts his vital humanity, and even the removal of
+its physical presence is no guarantee of complete liberation:
+<q>
+But when returnd to Golgonooza Los &amp; Enitharmon<lb/>
+Felt all the sorrow Parents feel. they wept toward one another<lb/>
+And Los repented that he had chaind Orc upon the mountain<lb/>
+And Enitharmons tears prevaild parental love returnd<lb/>
+Tho terrible his dread of that infernal chain . . .<lb/>
+(<hi rend="i">FZ</hi> 62:9-13, E335/K309)
+</q>
+Blake is here contrasting the first glimmerings of genuine, self-sacrificing parental feeling with their
+destructive opposite: “Love of Parent Storgous Appetite Craving” (<hi rend="i">FZ</hi> 61:10, E334/K308).
+The dilemma faced by parents and child is <corr type="emend">analogous</corr> to that confronting fallen man
+and woman. They are doomed to feed selfishly on each other, as do Los and Enitharmon on their mother Enion in
+Night the First,<supplied type="spacer"> </supplied><ref target="n84" type="note">24</ref> or to live in
+mutual fear and antagonism, until suffering awakens their repressed sense of human sympathy. In a realm where
+hatred is dominant instead of love, “stern demands of Right &amp; Duty instead of Liberty” 
+(<hi rend="i">FZ</hi> 4: 18-19, E297/K265), the chain of jealousy is justifiably described as “living” and
+taking root in the earth’s center (<hi rend="i">FZ</hi> 63: 1-4, E336/K308). Los feels its pull. He
+“dreads” these forces at work within himself and throughout fallen nature. Furthermore, like Enion
+“Rehumanizing . . . in pangs of maternal love” (<hi rend="i">FZ</hi> 9:3, E300/K276), he must learn
+repentance and that parental “sorrow” which involves recognizing consanguinity with and responsibility for
+a world external to the self-centered “I.” This shift is already hinted at in the above passage when
+“they wept toward one another” and in a design on page 112, which apparently portrays Los attempting to
+assuage Enitharmon’s maternal bereavement.<supplied type="spacer"> </supplied><ref target="n85"
+type="note">25</ref> The binding of Orc occasions then, in Wollstonecraft’s words, “a mutual care [which]
+produces a new mutual sympathy”; and this, in the full context of Blake’s epic, marks a first step towards
+that greater self-annihilation which will be demanded of the scattered Zoas, if they are to regain the lost
+unity of Eternity. <note id="n83"><hi rend="s">23</hi> Diana Hume George in <hi rend="i">Blake and Freud</hi>
+(Ithaca: Cornell Univ. Press, 1980) offers a detailed account of Blake’s exploration of this reciprocal
+bondage, and of its psychological roots, in a subsection of her study entitled “Experience: The Family
+Romance” (pp. 98-124).</note>
+	<note id="n84"><hi rend="s">24</hi><q>
+Drawing forth drooping mothers pity drooping mothers sorrow<lb/>
+. . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+And then they wanderd far away she sought for them in vain<lb/>
+In weeping blindness stumbling she followd them oer rocks &amp; mountains<lb/>
+Rehumanizing from the Spectre in pangs of maternal love<lb/>
+Ingrate they wanderd scorning her drawing her Spectrous Life<lb/>
+Repelling her away &amp; away by a dread repulsive power<lb/>
+Into Non Entity revolving round in dark despair.<lb/>
+And drawing in the Spectrous life in pride and haughty joy<lb/>
+Thus Enion gave them all her spectrous life<lb/>
+(<hi rend="i">FZ</hi> 8:7, 9:1-8, E300/K269-70)
+</q></note>
+	<note id="n85"><hi rend="s">25</hi> W.H. Stevenson in <hi rend="i">The Poems of William Blake</hi> (London:
+Longman, 1971), p. 428, makes this identification, although Bentley suggests that the leaf on which the
+drawing occurs originally concluded Night the Fourth (<hi rend="i">Vala or The Four Zoas</hi>, p. 201). In
+this case the design would illustrate Enitharmon’s response to the binding of Urizen in Night the Fourth.
+Yet the depiction of Los as at once resolute and tender is closer to the visual description of Los in Night
+the Fifth than to that in Night the Fourth where
+<q>
+Spasms siezd his muscular fibres writhing to &amp; fro his pallid lips<lb/>
+Unwilling movd as Urizen howld his loins wavd like the sea<lb/>
+At Enitharmons shriek his knees each other smote &amp; then he lookd<lb/>
+With stony Eyes on Urizen &amp; then swift writhd his neck<lb/>
+(<hi rend="i">FZ</hi> 55:24-27, E331/K305)
+</q>
+By transposing the design to page 112 of Night the Eighth, Blake made possible, and even desirable,
+Stevenson’s reading. For a visual reference back to events in Night the Fifth is appropriate here, as it
+reminds us of the starting-point of Los and Enitharmon’s regeneration, which leads to their redemptive
+labors described on page 113 of Night the Eighth.
+                    </note></p>
+        <p>Although the events in <hi rend="i">The Four Zoas</hi> take place on a cosmological scale far
+removed from the diurnal world described in the <hi rend="i">Vindication</hi>, the redemptive role that Blake
+attributes to the emanation also appears to owe much to Wollstonecraft’s vision of liberated female
+potential. Her constant emphasis is on the need to emancipate woman from a constricting sexual role: to have
+her recognized as an intellectual and, in the widest sense, a human creature. As she explains, the female
+“was not created merely to be the solace of man, and the sexual should not destroy the human character”
+(p. 53). Accordingly, she stresses that “true beauty and grace must arise from the play of the mind” (p.
+118). Woman should be taught not to control others but herself (p. 62), to turn her “sensibility into the
+broad channel of humanity” (pp. 174-75); and so “to participate in the inherent rights of mankind” (p.
+175). For in Wollstonecraft’s own words, “the corrupting intercourse . . . between the sexes, is more
+universally injurious to morality than all the other vices of mankind collectively considered” (p. 192).
+Thus “mutual affection, supported by mutual respect,” must replace “selfish gratification” (p. 192);
+modesty becomes a “natural reflection of purity” rather than “only the artful veil of wantonness” (p.
+193); and compassion be extended “to every living creature (p. 172). Our choice is between “a REVOLUTION
+in female manners,” which will have “the most salutary effects tending to improve mankind” (p. 192), and
+a condition that encourages woman “by the serpentine wrigglings of cunning . . . [to] mount the tree of
+knowledge, and only acquire sufficient to lead men astray” (p. 173).</p>
+        <p>The final Nights of <hi rend="i">The Four Zoas</hi> dramatize the potential inherent in these
+alternate conceptions of woman. In Nights the Seventh and Eighth, Blake portrays the spiritual nadir of man,
+and takes as his central symbol of this enslavement the Tree of Mystery. Around and through this Tree his
+personae move in an elaborate series of actions which explicitly allude to Milton’s portrayal of the fall,
+and to the ensuing transformation of Satan and his hellish legions into serpents. But while 
+<hi rend="i">Paradise Lost</hi> is here the main source, it is possible that some of Blake’s rich reworkings of
+Milton’s motifs were inspired by Wollstonecraft’s comparison of fallen woman’s striving after
+fulfillment with a serpentine ascent into the Tree of Knowledge. In Night the Seventh, womankind in its lowest
+and most abstract state (the Shadow of Enitharmon) is pictured as descending “down the tree of Mystery”
+(<hi rend="i">FZ</hi> 82:16, E350/K327) to lead astray the spectrous form of Urthona. Following their sexual
+union, they are found “Conferring times on times among the branches of that Tree” (<hi rend="i">FZ</hi>
+85:4, E353/K327). In Night the Eighth, this same constellation of images is iterated almost obsessively on
+manuscript pages 101 and 103, as Vala exerts her sway:
+<q>
+Beginning at the tree of Mystery circling its root<lb/>
+She spread herself thro all the branches in the power of Orc.<lb/>
+(<hi rend="i">FZ</hi> 103:23-24, E361/K345)
+</q>
+For Blake, this repeated motif presents woman at her most dangerous and debased. In Wollstonecraft’s words,
+“the sexual” has been allowed to “destroy the human character.”<supplied type="spacer"> </supplied><ref target="n86" type="note">26</ref> Similarly, in drawings on pages 86 and 26, Vala is portrayed
+both as a sensuous, fecund figure, and as a hideous, hybrid dragon-form. The former captures her alluring
+presence,
+<pb id="p16-180" n="180"/>
+the latter constitutes a visionary judgment on her role in entrapping man in the toils of corporeality. Yet
+whether pictured as a gazer fixated on external existence or as an embodiment of pestilential evil, woman and
+her generative acts can be seen by Blake as potential images or means of regeneration.<supplied type="spacer"> </supplied><ref target="n87" type="note">27</ref> Her realm is nature, and nature remains part of the Divine
+Humanity. Hence even the triumph of Vala can serve paradoxically as a prelude to apocalypse, for any
+consolidation of error makes it more readily identifiable and remediable. Moreover, this dual character of
+female action, its potential for good and evil, is made explicit through the respective weaving of Enitharmon
+and Rahab-Tirzah:
+<q>
+Enitharmon wove in tears Singing Songs of Lamentations<lb/>
+And pitying comfort as she sighd forth on the wind the spectres<lb/>
+And wove them bodies calling them her belovd sons &amp; daughters<lb/>
+(<hi rend="i">FZ</hi> 103:32-34, E361/K345)<lb/>
+While Rahab &amp; Tirzah far different mantles prepare webs of torture<lb/>
+Mantles of despair girdles of bitter compunction shoes of indolence<lb/>
+Veils of ignorance covering from head to feet with a cold web.<lb/>
+(<hi rend="i">FZ</hi> 113:19-21, E362/K346)<supplied type="spacer"> </supplied><ref target="n88"
+type="note">28</ref></q>
+Here woman is no longer presented as a single and negative aspect of man. Instead she is used in these Nights
+to embody our complex capacity for creative and uncreative labor, for regeneration or self-damnation; and so
+she becomes at last the male’s true counterpart in the mental wars of Eternity, as well as in the cruel
+sports of the fallen realm. <note id="n86"><hi rend="s">26</hi> My comments here are complemented by Jean H.
+Hagstrum’s section on “the phallic woman” in “Babylon Revisited, or the Story of Luvah and Vala,” in
+<hi rend="i">Blake’s Sublime Allegory: Essays on The Four Zoas Milton Jerusalem</hi>, ed. Stuart Curran and
+Joseph Wittreich, Jr. (Madison: Wisconsin Univ. Press, 1973), pp. 108-12, and by John E. Grant’s account of
+the motif of “erotic degradation,” which appears in Blake’s designs to the poem, in “Visions in 
+<hi rend="i">Vala</hi>: A Consideration of Some Pictures in the Manuscript,” in <hi rend="i">Blake’s Sublime
+Allegory</hi>, pp. 141-202.</note>
+	<note id="n87"><hi rend="s">27</hi> The theme is a common one in the later prophecies. Book one of 
+<hi rend="i">Milton</hi>, for instance, concludes with a great hymn on the spiritual wonders of vegetative life,
+and Los sums up this vision on plate 7 of <hi rend="i">Jerusalem</hi> with the exclamation: “O holy
+Generation [Image] of regeneration!.” (E149/K626).</note>
+	<note id="n88"><hi rend="s">28</hi> The complex significance of this weaving motif is dealt with by Morton D.
+Paley in “The Figure of the Garment in <hi rend="i">The Four Zoas, Milton</hi>, and 
+<hi rend="i">Jerusalem</hi>,” in <hi rend="i">Blake’s Sublime Allegory</hi>, pp. 119-39.</note></p>
+        <p>In accordance with this expanded conception of woman, emanations assume the role of moral agents
+which Wollstonecraft had foreseen for her sex (p. 178). In Night the Second, for instance, Enion utters from
+the Void one of Blake’s greatest condemnatory songs of Experience; and her words suffuse with concern a
+fellow emanation, Ahania, who “never from that moment could . . . rest upon her pillow” 
+(<hi rend="i">FZ</hi> 36:19, E319/K291). A succession of suffering spokeswomen is thereby assured, and woman is
+singled out as a focal point of genuine moral vision. Hence Blake, at the end of Night the Eighth, employs
+chants by Ahania and Enion, rather than one by Los, to prepare the reader for the ensuing Vintage of the
+Nations. First Ahania, who “Saw not as yet the Divine vision her Eyes are Toward Urizen” 
+(<hi rend="i">FZ</hi> 108:7, E368/K353), catalogues the intricate mazes of Experience:
+<q>
+Will you seek pleasure from the festering wound or marry for a Wife<lb/>
+The ancient Leprosy that the King &amp; Priest may still feast on your decay<lb/>
+And the grave mock &amp; laugh at the plowd field saying<lb/>
+I am the nourisher thou the destroyer in my bosom is milk &amp; wine<lb/>
+And a fountain from my breasts to me come all multitudes<lb/>
+(<hi rend="i">FZ</hi> 108:13-17,E369/K354)
+</q>
+Here woman and earth assume metaphoric equivalence as referents for that vegetative existence which both
+nourishes and kills. But in the following chant of Enion, from beyond the limitations of fallen perception,
+the female earth is subsumed in the Eternal Man:
+<q>
+So Man looks out in tree &amp; herb &amp; fish &amp; bird &amp; beast<lb/>
+Collecting up the scatterd portions of his immortal body<lb/>
+Into the Elemental forms of every thing that grows<lb/>
+. . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+And in the cries of birth &amp; in the groans of death his voice<lb/>
+Is heard throughout the Universe whereever a grass grows<lb/>
+Or a leaf buds The Eternal Man is seen is heard is felt.<lb/>
+(<hi rend="i">FZ</hi> 110:6-8, 25-27, E370/K355-56)
+</q>
+As in the <hi rend="i">Vindication</hi>, so here lasting harmony is inseparable from the realization of
+compassion for all things, and from the merging of secondary distinctions in the redemptive vision of a single
+and indissoluble humanity. This vision becomes reality in Night the Ninth. But instead of Wollstonecraft’s
+notion of a bloodless revolution having “the most salutary effects tending to improve mankind,” Blake
+offers a picture of fierce and, at times, anguished transformation. Mankind is literally threshed and crushed
+free from fallen selfhood. Here the virtues of purity, modesty, and disinterested compassion, espoused by
+Wollstonecraft, are largely relegated to a “lower Paradise” (<hi rend="i">FZ</hi> 128:30, E382/K369),
+where the instinctual passions have to relearn their innocence under the guidance of a morally regenerated
+Vala.<supplied type="spacer"> </supplied><ref target="n89" type="note">29</ref> By implication, Blake suggests
+that these traditional virtues exist in their pure forms only “in Eternal Childhood,” and he is careful to
+stress that the protagonists are merely “the shadows of Tharmas &amp; of Enion in Valas world” 
+(<hi rend="i">FZ</hi> 131:19, E385/K371). A clear distinction is thus made between the redemptive role of the
+female and the role of her conventional attributes. These attributes, at best, are elements in a limited
+pastoral interlude; while the truly emancipated female plays a more active and vitally engaged role in the
+ongoing spiritual harvest. Characteristically, Blake’s enlarged concept of human potential allows him to
+appropriate, and then to develop, progressive ideas from the <hi rend="i">Vindication</hi>; although here, as
+in his other reworkings of Wollstonecraft, he shows himself capable of transcending the received assumptions
+that are also embodied in her work.<supplied type="spacer"> </supplied><ref target="n90" type="note">30</ref>
+	<note id="n89"><hi rend="s">29</hi> For a more complete account of this scene see <hi rend="i">Blake’s Four
+Zoas: The Design of a Dream</hi>, pp. 223-28.</note>
+	<note id="n90"><hi rend="s">30</hi> Blake’s capacity to select only what he needed from Wollstonecraft, and
+at the same time to criticize her conservative viewpoints, is well illustrated by Dennis M. Welch in
+“Blake’s Response to Wollstonecraft’s <hi rend="i">Original Stories.</hi>”</note></p>
+        <p>Thus Blake not only found inspiration in Wollstonecraft’s work, but he also succeeded in freeing
+her perceptions from many of their contemporary limitations. For <hi rend="i">Vindication of the Rights of
+Woman</hi>, despite its revolutionary fervor, remains partly ensnared by conventional notions of morality,
+education, and human capacity. Here man, at his noblest, is pictured as a rational creature; literature as
+peculiarly suited to increase the scope of his reason; and social stability as a necessity for fruitful human
+intercourse.<supplied type="spacer"> </supplied><ref target="n91" type="note">31</ref> But Blake, ignoring
+this conservatism, focused on the work’s incisive analysis of the conditions generated by debased sexuality,
+and on its concrete suggestions for their
+<pb id="p16-181" n="181"/>
+amelioration. These notions he had thoroughly assimilated by 1793 at the latest, with the publication of 
+<hi rend="i">Visions of the Daughters of Albion</hi>; and they were then expanded and emended in accordance with
+the cosmological vision developed in the Lambeth books. For the liberating views expounded in the 
+<hi rend="i">Vindication</hi> required a new conception of art, language and human creativity commensurate with
+their radical potential. This Blake provided in <hi rend="i">The Four Zoas</hi>, where woman becomes the
+fallen emanation, self-realization the prelude to apocalypse, mutual affection and forgiveness the Gates of
+Paradise. There at last Wollstonecraft’s precepts attain the fulfillment denied them in her work and in her
+tragically brief life; and there also they are saved from the usual fate of truth in this world, which she
+pictures as “lost in a mist of words, virtue, in forms” (p. 12), by an art form created specifically
+“for the day of Intellectual Battle” (<hi rend="i">FZ</hi> 3:3, E297/K264). 
+<note id="n91"><hi rend="s">31</hi> Wollstonecraft, of course, was not alone in her failure to transcend many of the reactionary
+values of her age. Even her husband, the anarchist philosopher William Godwin, was capable of attacking all
+the institutions of society, and yet of defending the need for material security, in his <hi rend="i">Enquiry
+Concerning Political Justice.</hi></note></p>
+      </div1>
+	<pb id="p16-182-183" n="182-183" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

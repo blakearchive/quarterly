@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.1.query</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Query</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.1</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Pam Blair</name>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Martin K. Nurmi</name>
+              <name>Judith Page</name>
+              <name>Morton D. Paley</name>
+              <name>Henry Summerfield</name>
+              <name>Joseph Wittreich</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <div1 id="BQ-15-1-0010">
+        <pb id="p15-59" n="59"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">QUERY</hi>
+            </title>
+          </head>
+          <p>Mary Lynn Johnson is writing the Blake chapter for the fourth edition of <hi rend="i">The English
+Romantic Poets: A Review of Research and
+                            Criticism</hi>, edited by Frank Jordan, Jr., to be published in 1983 by
+                        the Modern Language Association. She would like to hear from readers of 
+<hi rend="i">Blake</hi> who have suggestions as to content or
+                        emphasis—particularly in regard to neglected (or overrated)
+                        critical works on Blake. Write to M. L. Grant, 15 South Seventh Ave., Iowa
+                        City, IA 52240.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

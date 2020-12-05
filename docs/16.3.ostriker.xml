@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.3.ostriker</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Desire Gratified and Ungratified: William Blake and Sexuality</title>
+        <author n="Ostriker">Alicia Ostriker</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1982/1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982-83</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.3</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <name>Barbara Guth</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Michael Ackland</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Alicia Ostriker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982/1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-156" n="156"/>
+      <div1 id="BQ-16-3-0006">
+        <head>
+          <title type="main">
+            <hi rend="b">Desire Gratified and Ungratified: William Blake and Sexuality</hi>
+          </title>
+        </head>
+        <byline>
+          <hi rend="i">BY</hi>
+          <docAuthor>
+            <hi rend="i">ALICIA</hi>
+            <name>
+              <hi rend="i">OSTRIKER</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>To examine Blake on sexuality is to deal with a many-layered thing. Although we like to suppose
+that everything in the canon “not only belongs in a unified scheme but is in accord with a permanent
+structure of ideas,”<supplied type="spacer"> </supplied><ref target="n18" type="note">1</ref> some of
+Blake’s ideas clearly change during the course of his career, and some others may constitute internal
+inconsistencies powerfully at work in, and not resolved by, the poet and his poetry. What I will sketch here
+is four sets of Blakean attitudes toward sexual experience and gender relations, each of them coherent and
+persuasive if not ultimately “systematic;” for convenience, and in emulation of the poet’s own method of
+personifying ideas and feelings, I will call them four Blakes. First, the Blake who celebrates sexuality and
+attacks repression, whom we may associate with Freud and even more with Reich. Second, a corollary Blake whom
+we may associate with Jung, whose idea of the emanation—the feminine element within man—parallels Jung’s
+concept of the anima, and who depicts sexual life as a complex web of gender complementarities and
+interdependencies. Third, a Blake apparently inconsistent with Blake number one, who sees sexuality as a
+tender trap rather than a force of liberation. Fourth, and corollary to that, the Blake to whom it was
+necessary, as it was to his patriarchal precursor Milton, to see the female principle as subordinate to the
+male. <note id="n18"><hi rend="s">1</hi> Northrop Frye, <hi rend="i">Fearful Symmetry</hi> (Princeton:
+Princeton Univ. Press, 1947), p. 14.</note></p>
+        <p>Blake number one is perhaps the most familiar to the common reader, although professional Blakeans
+have paid little attention to him lately. He is the vigorous, self-confident, exuberant advocate of gratified
+desire, writing in his early and middle thirties (that is, between the fall of the Bastille and the execution
+of Louis and the declaration of war between England and France) the early <hi rend="i">Notebook</hi> poems,
+the <hi rend="i">Songs, The Marriage of Heaven and Hell</hi> and the <hi rend="i">Visions of the Daughters of
+Albion.</hi> A few texts will refresh the memory. Among the <hi rend="i">Notebook</hi> epigrams we are told
+that
+<q>
+Love to faults is always blind<lb/>
+Always is to joy inclind<lb/>
+Lawless wingd and unconfind<lb/>
+And breaks all chains from every mind (E 463)<supplied type="spacer"> </supplied><ref target="n19"
+type="note">2</ref><lb/>
+<lb/>
+Abstinence sows sand all over<lb/>
+The ruddy limbs &amp; flaming hair<lb/>
+But Desire Gratified<lb/>
+Plants fruits of life &amp; beauty there (E 465)<lb/>
+<lb/>
+What is it men in women do require?<lb/>
+The lineaments of Gratified Desire<lb/>
+What is it Women do in men require?<lb/>
+The lineaments of Gratified Desire (E 466) <note id="n19"><hi rend="s">2</hi> Quotations are from David V.
+Erdman, ed., <hi rend="i">The Poetry and Prose of William Blake</hi> (New York: Doubleday,
+1970).</note></q></p>
+        <p>It was probably these lines that converted me to Blake when I was twenty. They seemed obviously
+true, splendidly symmetrical, charmingly cheeky—and nothing else I had read approached them, although I
+thought Yeats must have picked up a brave tone or two here. Only later did I notice that the epigrams were
+tiny manifestoes announcing an identity of interest between sexuality and the human imagination.</p>
+        <p>During these years Blake wrote numerous minidramas illustrating how possessiveness and jealousy,
+prudery and hypocrisy poison the lives of lovers. He pities the chaste (“The Sunflower”) and depicts the
+pathos of chastity relinquished too late (“The Angel”), looks forward to a “future Age” when “Love!
+sweet Love!” will no longer be thought a crime, while protesting its repression by Church and State in his
+own time. One of his two major statements about sexual repression in <hi rend="i">Songs of Experience</hi> is
+the deceptively simple “The Garden of Love,” in which the speaker discovers a Chapel built where he
+“used to play on the green.” The garden has a long scriptural and literary ancestry. “A garden shut up,
+a fountain sealed, is my sister, my bride,” in <hi rend="i">The Song of Solomon.</hi> It is the site of the
+<hi rend="i">Roman de la Rose.</hi> It is where Dante meets Beatrice, it is Spenser’s garden of Adonis and
+Milton’s Paradise—“In narrow room, Nature’s whole wealth.” The garden is, in brief, at once the
+earthly paradise and the body of a woman. Probably Blake saw it so. Later he would draw the nude torso of a
+woman with a cathedral where her genitals should be. The briars at the poem’s close half-suggest that the
+speaker is being crowned with something like thorns, somewhere about the anatomy, and it anticipates Blake’s
+outraged demand, near the close of his life, in the <hi rend="i">Everlasting Gospel</hi>: “Was Jesus chaste?
+or did he / Give any lessons of chastity?” Since the design for “The Garden of Love” depicts a priest
+and two children kneeling at an open grave beside a church, the forbidden love may be a parent as well as a
+peer, and the speaker might be of either
+<pb id="p16-157" n="157"/>
+sex: all repression is one. It is important that the tone here is neither angry nor self-righteous, but
+pathetic and passive—indeed, pathetically passive, for after the opening “I went,” the governing verb is
+“saw.” That the speaker only “saw . . . my joys and desires” being bound with briars and did not
+“feel” anything, should shock us into realizing that this speaker, at least by the poem’s last line, has
+been effectively self-alienated. Repression has worked not merely from without, but from within.”<supplied
+type="spacer"> </supplied><ref target="n20" type="note">3</ref>
+	<note id="n20"><hi rend="s">3</hi> I am disagreeing at this point with Morris Dickstein’s otherwise
+excellent essay, “The Price of Experience: Blake’s Reading of Freud” in <hi rend="i">The Literary
+Freud</hi>, ed. Joseph Smith (New Haven: Yale Univ. Press, 1980), pp. 67-111. Dickstein (pp. 95-96) sees
+“The Garden of Love” as “angry polemical simplification,” arguing that the speaker “thinks of
+repression in terms of a very simple etiology: <hi rend="i">They</hi> have done it to him,” and that there
+is no question of “delusion or projection” here. A persuasive reading of the poem’s Oedipal dimension is
+in Diana George, <hi rend="i">Blake and Freud</hi> (Ithaca: Cornell Univ. Press, 1980), pp.
+104-106.</note></p>
+        <p>The other major statement is “London,” where Blake hears the clanking of the mind-forg’d
+manacles (chains such as “Love . . . breaks from every mind”) he will later associate with Urizen.
+Economic exploitation sanctioned by blackening churches and political exploitation sanctioned by bleeding
+palace walls are grievous, but “most” grievous is sexual exploitation, perhaps because it is a denial of
+humanity’s greatest virtue, charity, as sweep’s cry and soldier’s sigh are denials of faith and hope; or
+perhaps because, to Blake, sexual malaise precedes and produces all other ills:
+<q>
+But most thro’ midnight streets I hear<lb/>
+How the youthful Harlots curse<lb/>
+Blasts the newborn Infants tear<lb/>
+And blights with plagues the Marriage hearse (E27)
+</q>
+That final stanza is Blake’s most condensed indictment of the gender arrangements in a society where Love is
+ruled by Law and consequently dies; where virtuous females are pure, modest, and programmed for frigidity, so
+that healthy males require whores; where whores have ample cause to curse; and where their curses have the
+practical effect of infecting young families with venereal disease as well as with the more metaphoric plague
+of unacknowledged guilt.<supplied type="spacer"> </supplied><ref target="n21" type="note">4</ref> Through his
+hissing, spitting and explosive alliteration Blake creates an ejaculatory harlot who is (and there are
+analogues to her in Spenser, Shakespeare, Milton) not the garden but the snake. That a syntactic ambivalence
+common in Blake makes her one who is cursed by others as well as one who curses, does not diminish the point.
+<note id="n21"><hi rend="s">4</hi> For a harrowing account of the phenomenon of the youthful harlot in
+nineteenth-century England, see Florence Rush, <hi rend="i">The Best-Kept Secret: Sexual Abuse of
+Children</hi> (Englewood Cliffs, N.J.: Prentice-Hall, 1980), ch. 5.</note></p>
+        <p>The point recurs polemically in <hi rend="i">The Marriage of Heaven and Hell</hi>, where, according
+to Auden, “the whole of Freud’s teachings may be found.”<supplied type="spacer"> </supplied><ref
+target="n22" type="note">5</ref> Here “Prisons are built with stones of Law, brothels with bricks of
+Religion,” “Prudence is a rich ugly old maid courted by Incapacity,” and we are exhorted: “Sooner
+murder an infant in its cradle than nurse unacted desires” (E 36-37). Here too is the famous pre-Freudian
+précis of Freud’s theories on suppression: “Those who restrain desire, do so because theirs is weak
+enough to be restrained; and the restrainer or reason usurps its place and governs the unwilling. And being
+restrained it by degrees becomes passive till it is only the shadow of desire” (E 34). For Freud, this
+process was always in some degree necessary and irreversible, as <hi rend="i">Civilization and its
+Discontents</hi> and “Analysis Terminable and Interminable” ultimately confess. But Blake—and this is
+what makes him more Reichian than Freudian—joyfully foresees the end of discontent and civilization too:
+“For the cherub with his flaming brand is hereby commanded to leave his guard at tree of life, and when he
+does, the whole creation will be consumed, and appear infinite. and holy where it now appears finite &amp;
+corrupt. This will come to pass by an improvement of sensual enjoyment” (E 38).<supplied type="spacer"> </supplied><ref target="n23" type="note">6</ref>
+	<note id="n22"><hi rend="s">5</hi> W.H. Auden, “Psychoanalysis and Art To-day” (1935), in 
+<hi rend="i">The English Auden</hi>, ed. Edward Mendelson (New York: Random House, 1977), p. 339.</note>
+	<note id="n23"><hi rend="s">6</hi> Analysis of Freud’s rationalist and scientific pessimism, versus
+Blake’s imaginative and artistic optimism, is a primary theme in <hi rend="i">Blake and Freud</hi>, which
+argues that in other respects the two men’s diagnoses of western man’s psychosexual ills were close to
+identical. Politically of course Freud remained conservative; the close parallels between Blake and Reich as
+radical psycho-political thinkers are discussed in Eliot Katz, “Blake, Reich and <hi rend="i">Visions of the
+Daughters of Albion</hi>,” unpub.</note></p>
+        <p>In all such texts Blake is not only attacking the powers of repression, particularly institutional
+religion, which in the name of reason and holiness attempt to subdue desire. He is also asserting that
+gratified desire <hi rend="i">does</hi> what religion <hi rend="i">pretends</hi> to do: gives access to
+vision, the discovery of the infinite. Moreover—and this is a point to which I will return—Blake in these
+texts does not stress the distinction between male and female, or assign conspicuously different roles to the
+two sexes. Youth and virgin suffer alike under chastity, man and woman have identical desires, and the
+“ruddy limbs and flaming hair” of which an ardent imagination makes a garden, and an abstinent imagination
+makes a desert, may belong interchangeably to a lover or a beloved, a male or a female.</p>
+        <p>The poem in which Blake most extensively elaborates his celebration of love and his critique of
+repression is <hi rend="i">Visions of the Daughters of Albion</hi>, printed in 1793. <hi rend="i">Visions</hi>
+is also the poem most clearly delineating male sexual aggressiveness as a component of Urizenic patriarchy,
+and illustrating the kinds of damage it does to both males and females. First of all, Bromion is a number of
+things which to Blake are one thing. He is the slaveowner who converts humans into private property and
+confirms his possession by impregnating the females, the racist who rationalizes racism by insisting that the
+subordinate race is sexually promiscuous, the rapist who honestly believes that his victim was asking for it;
+and, withal, he does not actually experience “sensual enjoyment.” But if Bromion represents the social and
+psychological pathology of sexual violence, Theotormon represents its pitiable underside, sexual impotence.
+“Oerflowd with woe,” asking unanswerable questions, weeping incessantly, Theotormon does not respond to
+Bromion’s insult to his masculinity (“Now thou maist marry Bromions harlot,” (pl. 2.1). Playing the
+hesitant Hamlet to Bromion’s rough Claudius, intimidated slave to coarse slave-master, Theotormon has been
+victimized by an ideology that glorifies male aggressiveness, as much as by that ideology’s requirement of
+feminine purity. Dejected and self-flagellant (design, pl. 6), he cannot look Oothoon in her intellectual and
+erotic eye as she maintains her spiritual virginity and offers him her love, not only because she is damaged
+goods but because she is taking sexual initiative instead of being “modest.” Only with incredulity and
+grief does Oothoon realize this (pl. 6.4-20).</p>
+        <p>Most of <hi rend="i">Visions</hi> is Oothoon’s opera. Raped, enslaved, imprisoned, rejected, the
+heroine’s agonized rhapsody of self-offering rushes from insight to insight. Though she begins by focusing
+on her individual condition, her vision rapidly expands outward. She analyzes the enchainment of
+<pb id="p16-158" n="158"/>
+loveless marriage and the unhappy children it must produce, she praises the value of infant sexuality and
+attacks the ethos which brands joy whoredom and sublimates its sexuality in twisted religiosity. She also
+bewails other ramifications of the tyranny of reason over desire, such as the abuse of peasant by landlord, of
+worker by factory owner, of the faithful by their churches. For Oothoon life means being “open to joy and to
+delight where ever beauty appears,” and the perception of any beauty is an erotic activity in which eye and
+object join “in happy copulation.” Made desperate by her lover’s unresponsiveness, she cries out for
+“Love! Love! Love! happy happy Love! free as the mountain wind! / Can that be Love, that drinks another as a
+sponge drinks water?” Though remaining herself “bound” to Bromion, she nevertheless concludes with a
+vision of the vitality of all free things:
+<q>
+Arise you little glancing wings, and sing your infant joy!<lb/>
+Arise and drink your bliss, for every thing that lives is holy!<lb/>
+(<hi rend="i">VDA</hi> 8.9-10)
+</q></p>
+        <p>Blake in <hi rend="i">Visions</hi> has created a heroine unequalled in English poetry before or
+since. Oothoon not only defines and defends her own sexuality rather than waiting for Prince Charming to
+interrupt her nap, and not only attacks patriarchal ideology root and branch, but outflanks everyone in her
+poem for intellectuality and spirituality, and is intellectual and spiritual precisely because she is erotic.
+Shakespeare’s comic heroines, though witty and sexy, are of course not intellectuals, much less
+revolutionaries. The Wife of Bath strongly resembles Oothoon as a voice of “experience, though noon
+auctoritee” who “spekes of wo that is in marriage,” celebrates sexuality as such and female sexuality in
+particular, and lectures to the Apollyon of Judeo-Christian misogyny from his own texts. Yet she lacks
+Oothoon’s generosity, and has been locked by men’s contempt into a perpetuation of the war of the sexes.
+(If, though, we amend the portrait of the Wife as she appears in the Prologue by that “imaginative
+portion” of her which is her Tale, we have something different. Here perhaps is the Wife as she would
+be—neither offensively-defensively bawdy, nor angrily polemical, but lively and charming—telling the
+wish-fulfilling story of a rapist enlightened and reformed, of male violence, ignorance and pride transformed
+by the “sovereyntee” of feminine wisdom and love.) Hawthorne’s Hester Prynne comes close to being what
+Oothoon is, even to the point of foreseeing that “in Heaven’s own time, a new truth would . . . establish
+the whole relation between man and woman on a surer ground of mutual happiness.”<supplied type="spacer"> </supplied><ref target="n24" type="note">7</ref> But Hawthorne cannot sustain or elaborate the vision he
+glimpses, and sends Hester back in the end to her knitting, her works of charity, and a lifelong celibacy
+which—unlike Oothoon’s—is supposed to be voluntary. <note id="n24"><hi rend="s">7</hi><hi rend="i"> The
+Centenary Edition of the Works of Nathaniel Hawthorne</hi>, vol. 1 (Ohio State Univ. Press, 1962), p.
+263.</note></p>
+        <p>Blake number two appears later than Blake number one, and shifts his psychological principles from
+an essentially sociopolitical to an essentially mythic base. Beginning with <hi rend="i">The Book of
+Urizen</hi>, engraved in 1794, and throughout his major prophecies, the poet relies on an idea of humanity as
+originally and ultimately androgynous, <corr type="emend">attributing</corr> the fall of man and what John
+Milton called “all our woe” not to female narcissism but to specifically male pride, male competitiveness,
+or male refusal to surrender the self, and depicting a fallen state in which sexual division—lapse of unity
+between male and female as one being—is the prototype of every division within the self, between self and
+other, and between humanity and God.</p>
+        <p>The mythology of these poems posits a hero who is both Great Britain and all mankind, and who lives
+in Eternity or Eden as one of a family of Eternals who collectively compose One Man, Christ. Albion’s
+“Human Brain,” the equivalent of Jung’s collective unconscious, houses four energetic Jungian Zoas, each
+of whom has a feminine counterpart or emanation. At Man’s Fall, precipitated in <hi rend="i">Urizen</hi> by
+Urizen’s pride, in <hi rend="i">The Four Zoas</hi> and <hi rend="i">Milton</hi> by rivalry between Urizen
+and Luvah, and in <hi rend="i">Jerusalem</hi> by Albion’s selfish refusal to maintain erotic union with his
+saviour and his insistence on moral virtue, Albion lapses into what Blake variously calls sleep, death and
+disease, and what the rest of us call human history. The Zoas simultaneously lapse into lower forms and mutual
+conflict instead of harmony, and are disastrously divided from their emanations. As the late Blake
+formulaically puts it, “The Feminine separates from the Masculine &amp; both from Man.” Bodies grow around
+them, inimical “To the embrace of love”:
+<q>
+that no more the Masculine mingles<lb/>
+With the Feminine, but the Sublime is shut out from the Pathos<lb/>
+In howling torment, to build stone walls of separation, compelling<lb/>
+The Pathos, to weave curtains of hiding secresy from the torment.<lb/>
+(<hi rend="i">J</hi> 90.10-14)
+</q>
+At the close of his three longest poems Blake imagines an apocalypse in which selfhood is relinquished and
+male and female are reunified:
+<q>
+And the Bow is a Male &amp; Female &amp; the Quiver of the Arrows of Love<lb/>
+Are the Children of this Bow: a Bow of Mercy &amp; Loving-Kindness: laying<lb/>
+Open the hidden Heart in Wars of mutual Benevolence Wars of Love<lb/>
+And the Hand of Man grasps firm between the Male &amp; Female Loves.<lb/>
+(<hi rend="i">J</hi> 97.12-15)
+</q></p>
+        <p>To say that Blake’s emanations resemble what Jung calls the anima is to say that they represent a
+man’s interior “female part,” the “life-giving aspect of the psyche” and the “a priori element in
+his moods, reactions and impulses, and whatever else is spontaneous in psychic life.”<supplied
+type="spacer"> </supplied><ref target="n25" type="note">8</ref> As a positive figure the Blakean emanation
+like the Jungian anima is a benevolent guide to the unconscious life. As a negative figure she is seductive
+and destructive. She seems also to represent
+<pb id="p16-159" n="159"/>
+a man’s emotionality, sensuousness, sensitivity, receptivity—all that makes him potentially
+effeminate—which in a fallen state he rejects or believes to be separate from himself, and must recover if
+he is to gain psychic wholeness. According to Jung, of course, an individual man changes and develops during
+the course of his lifetime but “his” anima does not. She remains static, and his only problem is to accept
+her existence as a portion of himself. What is particularly fascinating about Blake, then, is that he invents
+not one but a set of female beings, each appropriate to the Zoa she belongs to, each with her own personality
+and history of transformations, not radically different from the personalities in highly symbolic fiction and
+drama, and able to shed light very often on characters we thought we knew as well as on larger issues of
+sexual complementarity. <note id="n25"><hi rend="s">8</hi> C.F. Jung, “Archetypes of the Collective
+Unconscious,” <hi rend="i">Collected Works</hi>, ed. Herbert Read, Michael Fordham, Gerhard Adler and W.
+McGuire, trans. R.F.C. Hull, Bollingen Series (Princeton: Princeton Univ. Press, Bollingen Series XX,
+1967-78), vol. 9, part 1, p. 27. Jung also discusses the anima and the anima-animus “sacred marriage” in
+“Two Essays on Analytical Psychology” (vol. 7) and “Aion: Researches into the Phenomenology of the
+Self” (vol. 9, part 2). Among his less predictable parallels to Blake is Jung’s idea that the anima-animus
+marriage is always accompanied and completed by the figure of a Wise Old Man—who I am ready to presume is
+“Old” in the same sense that Albion is an “Ancient” Man; i.e., he is Urmensch, not elderly. Among the
+critics who identify anima with emanation are June Singer, <hi rend="i">The Unholy Bible: A Psychological
+Interpretation of William Blake</hi> (New York: Putnam, 1970), p. 212, and W.P. Witcutt, <hi rend="i">Blake: A
+Psychological Study</hi> (Port Washington, N.Y.: Kennikat Press, 1946), pp. 43ff. Christine Gallant, in 
+<hi rend="i">Blake and the Assimilation of Chaos</hi> (Princeton: Princeton Univ. Press, 1978) disagrees, arguing
+that although “the anima in Jungian psychology is a personification in a symbol, or in an actual human
+being, of those aspects of his unconscious of which a man is most ignorant, usually his emotional, irrational
+qualities,” Blake’s emanations are not animae because “if they were . . . they would have
+characteristics as differentiated as those of their Zoas” (pp. 53-54). It is my contention that they do.
+Although Jung in general diverges from both Freud and Blake in uncoupling psychological issues from
+socio-historic ones, he departs from Freud and coincides with Blake in at least three major respects: his
+insistence on the validity of spirituality in human life, his belief in a collective unconscious, and his
+relatively non-phallocentric exploration of female identity.</note></p>
+        <p>The first figures we encounter in <hi rend="i">The Four Zoas</hi>, for example, are Tharmas and
+Enion—humanity’s Sensation—in the midst of a marital quarrel. Tharmas and Enion are bucolic characters
+of the sort that the wheels of history run over: good but not too bright, easily confused. We may recognize
+their like in mythic pairs like Baucis and Philemon, Deucalion and Pyrrha, and the Wakefield Noah with his
+farcically shrewish wife. Fictionally, and especially when a sentimental English novelist needs a pair of
+innocent parent-figures, they are legion: they are Sterne’s Shandies, Goldsmith’s Vicar and Mrs.
+Wakefield, and a troop of Dickensian folk like the Micawbers and Pockets, Casby (nicknamed “The
+Patriarch”) and Flora, and perhaps most interestingly, the Gargeries of <hi rend="i">Great
+Expectations.</hi><supplied type="spacer"> </supplied><ref target="n26" type="note">9</ref> Across the
+Atlantic, they stumble through the fiction of writers like W.D. Howells and John Steinbeck. What Tharmas lacks
+when he loses Enion is his own sense of coherence. Without her he is a frantic and suicidal “flood” of
+feelings. What she lacks without him is resistance to pain. In her fallen form she becomes a grieving
+Demeter-figure who laments the sufferings of all earthly creatures,<supplied type="spacer"> </supplied><ref
+target="n27" type="note">10</ref> and Blake gives her some of his best lines:
+<q>
+Why does the Raven cry aloud and no eye pities her?<lb/>
+Why fall the Sparrow &amp; the Robin in the foodless winter?<lb/>
+(<hi rend="i">FZ</hi> I. 17.2-3)<lb/>
+It is an easy thing to triumph in the summers sun<lb/>
+And in the vintage &amp; to sing on the waggon loaded with corn<lb/>
+It is an easy thing to talk of patience to the afflicted<lb/>
+To speak the laws of prudence to the houseless wanderer . . .<lb/>
+It is an easy thing to laugh at wrathful elements<lb/>
+To hear the dog howl at the wintry door, the ox in the slaughter house moan . . .<lb/>
+While our olive &amp; vine sing &amp; laugh round our door &amp; our children bring fruit &amp; flowers<lb/>
+Then the groan &amp; the dolor are quite forgotten &amp; the slave grinding at the mill<lb/>
+And the captive in chains &amp; the poor in the prison &amp; the soldier in the field<lb/>
+When the shattered bone hath laid him groaning among the happier dead.<lb/>
+It is an easy thing to rejoice in the tents of prosperity<lb/>
+Thus could I sing &amp; thus rejoice, but it is not so with me.<lb/>
+(<hi rend="i">FZ</hi> II. 35.16-36.13)
+</q>
+Enion gives birth to Los and Enitharmon, the Eternal Prophet and his Muse, who from the start are as arrogant
+and self-absorbed as their parents are humble and selfless. Enitharmon espouses parent-abuse:
+<q>
+To make us happy let them weary their immortal powers<lb/>
+While we draw in their sweet delights while we return them scorn<lb/>
+On scorn to feed our discontent; for if we grateful prove<lb/>
+They will withhold sweet love, whose food is thorns &amp; bitter roots.<lb/>
+(<hi rend="i">FZ</hi> I. 10.3-6)
+</q>
+Soon she turns these arts on her twin and consort, becoming a seductive and maddening tease. She is the muse
+who won’t come across, taunting the poet with failure and giving her alliance to Reason (Neoclassicism, let
+us say) instead of Prophecy, while forbidding the poet to love anyone but herself. As a couple, the Los and
+Enitharmon who are united “in discontent and scorn” uncannily resemble the self-destructive, sullen,
+jealous, incestuous or quasi-incestuous couples in novels like <hi rend="i">Wuthering Heights, Women in
+Love</hi>, and <hi rend="i">The Sound and the Fury</hi>: novels which in the light of Blake we can read as
+visions of a primitive creative energy thwarted by the impossibility of creativity in a culturally collapsed
+world they never made. Enitharmon is also La Belle Dame Sans Merci, she is Pip’s Estella, or Lady Brett, or
+Marlene Dietrich in <hi rend="i">The Blue Angel</hi>; which is to say that she is the feminine agent of male
+sexual humiliation, who is herself governed by <hi rend="i">ennui.</hi>
+	<note id="n26"><hi rend="s">9</hi> That Deucalion-Pyrrha and the Noahs are flood-survivors who renew the
+human race, and that the fallen Tharmas-Enion are identified with water and Tharmas in Night III struggles to
+take on Man’s form, is a coincidence I do not pretend to understand but feel obliged to notice. My 
+<hi rend="i">primary</hi> point here is that these couples are all parental, and all naive. The relation of
+Dickens’ Gargeries to Tharmas and Enion seems to me particularly charming in that Joe Gargery is rather a
+perfect Tharmas throughout, but is given two wives by Dickens—as it were to parallel the quarrelsome and the
+redeemed Enion.</note>
+	<note id="n27"><hi rend="s">10</hi> Gallant (p. 54) notes the Poseidon-Demeter/Tharmas-Enion parallel
+(another coincidence) and points out that the questing Demeter disguised herself as an old woman.</note></p>
+        <p>A third couple is Urizen and Ahania: Reason and the Faith or Idealism necessary to it. Early in 
+<hi rend="i">The Four Zoas</hi>, Urizen as cosmic architect places Ahania in a zodiacal shrine and burns incense
+to her. Here we have Blake’s version of the “pedestal,” and of that neo-Platonically inspired sexual
+reverence which prefers ladies pure, exalted and static rather than adjacent and active. When Ahania is
+uncomfortable in her shrine and tries to give her spouse some advice about returning to Eternity, he seizes
+her by the hair, calling her “Thou little diminutive portion that darst be a counterpart,” and throws her
+out of heaven, declaring “Am I not God? Who is equal to me?” (<hi rend="i">FZ</hi> III. 42.21-43.9).
+Without Ahania, Urizen is Doubt instead of Faith, and degenerates in the course of <hi rend="i">The Four
+Zoas</hi> from Prince of Light, to tyrannic parody of Milton’s God, to William Pitt opposing the Bread Bill
+of 1800, to the Dragon Form of Antichrist. Ahania falls from being a sky goddess who opened her mouth once too
+often to “the silent woman” about whom feminist critics are presently writing a good deal.<supplied
+type="spacer"> </supplied><ref target="n28" type="note">11</ref> Until just before the end of <hi rend="i">The
+Four Zoas</hi> Ahania has nothing further to say. As “the furrowed field” she is a figure of complete
+submission. We should compare her possibly to those other victims of exacerbated and anxious male intellect,
+Hamlet’s Ophelia and Faust’s Gretchen.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">12</ref>
+	<note id="n28"><hi rend="s">11</hi> See, for example, Mary Daly, <hi rend="i">Beyond God The Father</hi>
+(Boston: Beacon Press, 1973), Marcia Landy, “The Silent Woman,” in <hi rend="i">The Authority of
+Experience</hi>, ed. Arlyn Diamond and Lee Edwards (Amherst: Univ. of Massachusetts Press, 1977), Susan
+Griffin, <hi rend="i">Woman and Nature: The Roaring Inside Her</hi>(New York: Harper and Row, 1978), Sandra M.
+Gilbert and Susan Gubar, <hi rend="i">The Madwoman in the Attic</hi> (New Haven: Yale Univ. Press, 1980),
+chaps. 1 and 2. The contention of these and other feminist writers in America, England and France is that
+western religion and philosophy, by consistently associating power and authority with masculinity, have
+deprived women of access to authoritative speech and muted their ability to “voice” female experience
+authentically. The critique of rationalism in such works for the most part tallies very well with
+Blake’s.</note>
+	<note id="n29"><hi rend="s">12</hi> Ophelia’s selfless “O what a noble mind is here o’erthrown”
+speech nicely resembles Ahania’s memory of “those sweet fields of bliss / Where liberty was justice &amp;
+eternal science was mercy (<hi rend="i">FZ</hi> III.39.12-13). Later, when Hamlet has rejected her and slain
+her father (cf. Urizen’s rejection of Ahania and his defiance of Albion), Ophelia’s “speech is
+nothing.” Both Ophelia and Gretchen, of course, express profound admiration for their lovers’
+intellects.</note></p>
+        <pb id="p16-160" n="160"/>
+        <p>Luvah and Vala, last of the Zoas and Emanations, are in their unfallen form lover and beloved, the
+Eros and Psyche of Man. Fallen, Luvah is born into this world as the revolutionary babe and flaming youth who
+must become a sacrificed god in epoch after epoch, while Vala is the <hi rend="i">dolorosa</hi> who, believing
+she loves him, always sacrifices him.</p>
+        <p>As all Blake readers know, Vala is one of Blake’s most complicated characters. Her name means
+“vale” as in “valley,” and as Nature she is the valley of the shadow of death, the declivity of the
+female genitals, and the membranous “veil” which preserves virginity, as well as the “veil” covering
+the tabernacle of the Old Testament. Like the chapel in “The Garden of Love” and the “chapel all of
+gold,” she stands at the intersection between corrupt sexuality and institutional religion; thus she is also
+the veil of the temple which was rent when Jesus died, for Vala is the Nature we worship when we should
+worship Christ, she is Fortuna, Babylon, the Great Whore, enemy of Jerusalem. Where Enitharmon is a tease and
+a betrayer, Vala is the “Female Will” incarnate as killer. She is the chaste mistress who withholds favors
+so that her lovers will become warriors, and she is the blood-spattered priestess who with a knife of flint
+cuts the hearts out of men—all the while protesting that she craves nothing but Love. So powerful a figure
+is she that I expect we see at least as much of her in popular culture—where she is the voluptuous pinup on
+barracks walls, and she is the lady in black leather who will punish you—as in conventional fiction and
+drama. Pornography magazines offer us endless reproductions of Vala-Babylon, and, in the most high-chic phases
+of fashion design, the ideal fashion model is “cruel” Vala.</p>
+        <p>If we judge by Mario Praz’ exploration of the “tormented, contaminated beauty” and “femme
+fatale” in western literature, this type of female seems—at least prior to Swinburne—to have been more
+extensively treated by French than by English writers.<supplied type="spacer"> </supplied><ref target="n30"
+type="note">13</ref> Ste.-Beuve, Gautier, Baudelaire adore her. For Swinburne, she becomes the Venus of
+“Laus Veneris,” Faustine, and Mary Stuart. But if we look earlier, she certainly figures in Jacobean
+drama, and in at least one play of Shakespeare’s. <note id="n30"><hi rend="s">13</hi> Mario Praz, 
+<hi rend="i">The Romantic Agony</hi> (1933; rpt. Cleveland: World Publishing Co., 1956) pp. 28ff, 189 ff. Among
+Praz’ many valuable observations is a remark on Ste.-Beuve which is particularly relevant to the
+Vala-Jerusalem relationship: “Whenever it happens that a writer feels admiration for [female] passionate
+energy—particularly if this energy have fatal results . . . it is always the diabolical . . . who ends by
+occupying the whole stage and causing her angelic rival . . . to appear a mere shadow” (p. 191).</note></p>
+        <p>Late in <hi rend="i">Jerusalem</hi>, one of Vala’s avatars has a warrior-lover whom she craves to
+possess completely. “O that I could live in his sight,” she says; “O that I could bind him to my arm”
+(<hi rend="i">J</hi> 82.44). Concealing him under her veil, she wishes him to become “an infant love” at
+her breast. When she opens the veil, revealing “her own perfect beauty,” her lover has become “a winding
+worm.” Blake hopes at this moment to show that Female Will is ultimately self-defeating. The winding worm is
+a further degeneration of helpless infancy, so that her wish has come true beyond her intention, as in
+folktales. The worm is also the phallic worm (cf. Yeats’ “Chambermaid’s Song,” where “Pleasure has
+made him / Weak as a worm”) and the devouring worm of the grave. The parallel story is of course 
+<hi rend="i">Antony and Cleopatra.</hi> There, too, Woman reduces Warrior to absurd infantile dependency, out of
+pure erotic possessiveness. She then dies by the instrument of a worm that she describes as an infant—“the
+baby at my breast / That sucks the nurse asleep (V.ii.308-309) and that she croons to as lover. Without the
+aid of Blake, we might not think to identify the asp in <hi rend="i">Antony and Cleopatra</hi> as the last
+essence of Antony himself. With Blake, the identification seems compelling. At the same time, with the aid of
+Shakespeare, we may see Vala more clearly as the fallen form of female desire.</p>
+        <p>As the individual characters of Zoas and Emanations differ, so do the plots of their
+reconciliations. Los-Enitharmon’s begins earliest in <hi rend="i">The Four Zoas</hi>, and involves a
+channeling of their arrogant energy through suffering. Following the binding of Urizen they have sunk,
+exhausted, to their nadir, “shrunk into fixed space . . . Their senses unexpansive” (V. 57. 12-18).
+Redemption starts with the painful birth of Orc, and the grief that follows the Los-Enitharmon-Orc Family
+Romance. Though repentance and sorrow over their mutual failure to free Orc are apparently useless,
+Enitharmon’s heartbreak (V. 63. 10-14) triggers a process of imaginative re-expansion and re-unification
+that continues through the complex episodes of Spectre-Shadow and Spectre-Los reunions (VIIa.81.7-86.14) and
+the “six thousand years of self denial and of bitter contrition” during which Los builds Golgonooza and
+Los and Enitharmon finally labor together as partners in the Art which gives regenerate form to all of life
+(VIIa.90.2-57). At the opening of Night IX “Los and Enitharmon builded Jerusalem weeping” and at no point
+thereafter are separated. In the final two pages the regenerate “dark Urthona” has reclaimed them
+both.</p>
+        <p>Reunion of the other Zoas and Emanations completes the Eternal Man’s awakening and resumption of
+control over his warring “members.” Ahania revives at the moment of Urizen’s rejuvenation. She bursts
+with excess of joy, sleeps a winter and returns in spring as Kore, and finally takes her seat “by Urizen”
+(i.e., not enshrined) “in songs &amp; joy.” Next, when Orc’s passion burns itself out, Albion takes the
+somewhat-charred Luvah and Vala in hand and admonishes them: “Luvah &amp; Vala henceforth you are Servants
+obey &amp; live” (IX. 126.6). They enact their obedience first in the ensuing pastoral episode, with its
+idyllic evocation of a new Golden Age, and then in the Last Vintage, where human grapes are orgiastically
+crushed in the wine-presses of Luvah. The episode concludes with Luvah and Vala described as a couple linked
+to the seasons; together they sleep, wake, and are “cast . . .thro the air till winter is over &amp; gone”
+while the “Human Wine” they have made “stood wondering in all their delightful expanses” (IX.
+137.30-32). Finally Tharmas and Enion, first pair to be seen in collapse and last to be seen regenerate, also
+undergo a double transformation. They are initially reborn into Vala’s garden as naive and wayward children,
+as befits their innocent character. But a fully renewed and humanized Enion and Tharmas embrace and are
+welcomed by the Eternal Man (IX. 131.10-133.1) to the final feast.</p>
+        <p>For the Blake who conceived of humanity as androgynous,
+<pb id="p16-161" n="161"/>
+the division of Zoas from Emanations signified human disorder and disaster. His poetry describing sexual
+division is some of the most anguished in the language. By the same token, re-couplings precipitate and are
+accompanied by all the images for joy and order Blake knew: a seasonal cycle culminating in harvest, vintage
+and communal feast; a painful bread-making and wine-making which issues in happiness; music and “vocal
+harmony” concluding in human “conversing”; and a beaming morning sun.</p>
+        <p>To trace the lineaments of Blake number three, we must return to the very outset of the poet’s
+career, and the extraordinary lyric “How sweet I roamed from field to field,” where an unidentified winged
+speaker is lured and trapped by “the prince of love.” The poem is in a quasi-Elizabethan diction, but with
+the swoon of eroticism and ecstatic surrender we associate with Keats. Keatsian too are the lushness and
+fertility of the natural setting, and the painful close:
+<q>
+With sweet May dews my wings were wet,<lb/>
+And Phoebus fir’d my vocal rage;<lb/>
+He caught me in his silken net,<lb/>
+And shut me in his golden cage.<lb/>
+<lb/>
+He loves to sit and hear me sing,<lb/>
+Then laughing, sports and plays with me;<lb/>
+Then stretches out my golden wing,<lb/>
+And mocks my loss of liberty.
+</q>
+Un-Keatsian is the ambivalent gender of the speaker and the personification power of love as male not female.
+Although the theme of romantic enthrallment of a woman by a man is relatively unusual in English poetry, Irene
+H. Chayes argues convincingly that the speaker is Psyche and the manipulator of “silken net” and “golden
+cage” is Eros.<supplied type="spacer"> </supplied><ref target="n31" type="note">14</ref>
+	<note id="n31"><hi rend="s">14</hi> Irene H. Chayes, “The Presence of Cupid and Psyche,” in 
+<hi rend="i">Blake’s Visionary Forms Dramatic</hi>, ed. David V. Erdman and John E. Grant (Princeton: Princeton
+Univ. Press, 1970), pp. 214-43.</note></p>
+        <p>But in later versions of this scenario, the instruments of entrapment and enclosure—net, cage,
+locked box—will be the sexually symbolic props of females who imprison males. “The Crystal Cabinet,”
+“The Golden Net” and “The Mental Traveller” are all versions of this theme, and the “Woman Old” of
+the last of these is a brilliant portrayal of the <hi rend="i">vagina dentata</hi> in action, for she torments
+male vitality simultaneously by nailing and piercing, and by binding and catching. As if correcting his own
+earlier naiveté, one of Blake’s <hi rend="i">Notebook</hi> poems asks rhetorically “Why was Cupid a
+Boy?” and answers that the illusion of a male Cupid who inflicts sexual suffering “was the Cupid Girls
+mocking plan,” part of a scheme to keep real boys who “cant interpret the thing” unsuspecting while she
+shot them full of darts (E 470). Along similar lines, “My Spectre Around Me” envisages a war between the
+sexes dominated by female pride, scorn, jealousy and lust for “Victory” imaged as possession and
+enclosure: “Living thee alone Ill have / And when dead Ill be thy Grave.” The solution is a Spectral
+threat of rejection and retaliation:
+<q>
+Till I turn from Female Love<lb/>
+And root up the Infernal Grove<lb/>
+I shall never worthy be<lb/>
+To step into Eternity<lb/>
+And to end thy cruel mocks<lb/>
+Annihilate thee on the rocks<lb/>
+And another form create<lb/>
+To be subservient to my fate. (E 468)
+</q>
+This brings the Emanation round, for it is either she, or Emanation and Spectre in duet, who “agree to give
+up Love” for “the world of happy Eternity.”</p>
+        <p>Among the engraved poems, “To Tirzah” is a furious repudiation of female sexuality in its
+maternal aspect as that which encloses and divides man from Eternity. To appreciate the impact of “To
+Tirzah” in its original context we should probably see it as the contrary poem to “A Cradle Song” in 
+<hi rend="i">Innocence.</hi> Where in <hi rend="i">Innocence</hi> a mother sings lullingly to a sleeping infant of
+the “sweet” smiles and tears that Jesus as “an infant small” sheds and shares with herself and the
+child, in <hi rend="i">Experience</hi> the child responds, ironically using Jesus’ adolescent rejection of
+Mary (John 2.4) for his punch line:
+<q>
+Thou Mother of my mortal part<lb/>
+With cruelty didst mould my Heart,<lb/>
+and with false self-deceiving tears<lb/>
+Didst bind my Nostrils Eyes &amp; Ears.<lb/>
+<lb/>
+Didst close my Tongue in senseless clay<lb/>
+And me to Mortal Life betray.<lb/>
+The Death of Jesus set me free,<lb/>
+Then what have I to do with thee?
+</q>
+A second strong repudiation is <hi rend="i">Europe</hi>, where erotic entrapment both maternal and sexual, the
+former expressing itself as possessive, the latter as seductive manipulation of male desire, takes place so
+that “Woman, lovely Woman! may have dominion” during the corrupt centuries of Enitharmon’s reign. Here
+Enitharmon’s “crystal house” is analogous to the crystal cabinet, and within it there is a constant
+claustrophobic movement of nocturnal binding, circling, cycling, broken only by the dawn of European
+revolution.</p>
+        <p>How well do these poems fit the Blake who praises “gratified Desire” and insists that “Energy
+is the only life and is from the body”? Rather poorly, I think. However allegorically we interpret the
+thing, sexual love in these poems is neither gratifying nor capable of gratification, and the poet
+consistently associates “sensual enjoyment” with cruelty, imprisonment, illusion and mortality instead of
+liberation, vision and immortality. Morton Paley has pointed out that Blake’s Lambeth books involve “a
+sort of involuntary dualism, a myth with implications that in some ways conflicted with his own beliefs.
+Blake’s intuition of the goodness of the body in general and of sexual love in particular had not weakened .
+. . but . . . the Lambeth myth seems to imply that physical life is inherently evil.”<supplied
+type="spacer"> </supplied><ref target="n32" type="note">15</ref> If, in other words, we have one Blake for
+whom physical life is type and symbol of spiritual life and fulfilled joy in one leads us to the other, there
+is also a Blake for whom body and spirit are as irreconcilably opposed as they are for any Church Father. But
+the contradiction is exacerbated rather than resolved in the later books, where the anatomical image of the
+enclosure vastly expands to become a whole world, the realm of Beulah, a
+<pb id="p16-162" n="162"/>
+dreamy moony place presided over by tender females, which is both comfort and trap. 
+<note id="n32"><hi rend="s">15</hi> Morton D. Paley, <hi rend="i">Energy and the Imagination: A Study of the Development of
+Blake’s Thought</hi> (Oxford: Clarendon Press, 1970), p. 90.</note></p>
+        <p>To a fallen and depleted consciousness, Beulah is the source of poetry and our one hope of
+returning to Eden. The “Daughters of Beulah” are reliably compliant “Muses who inspire the Poets Song”
+or nurse-figures who comfort and protect the weary and distressed. That “Contrarieties are equally true”
+in Beulah makes it seem an obvious advance over single vision and Newton’s sleep. Yet as another Crystal
+Cabinet writ large, Beulah inevitably means confinement, limitation, illusion. It can never mean Infinity.
+Where Eden is fourfold and human, Beulah is merely threefold and sexual, the vacation spot for beings who
+cannot sustain the strenuous mental excitement of Eden and need “repose”:
+<q>
+Into this pleasant shadow all the weak &amp; weary<lb/>
+Like Women &amp; Children were taken away as on wings<lb/>
+Of dovelike softness, &amp; shadowy habitations prepared for them<lb/>
+But every Man returnd &amp; went still going forward thro’<lb/>
+The Bosom of the Father in Eternity on Eternity.<lb/>
+(<hi rend="i">M</hi> 31.1-5)
+</q>
+Of the double potentialities of Beulah, benign yields to malign in successive works. In <hi rend="i">The Four
+Zoas</hi>, Beulah is purely protective. <hi rend="i">Milton</hi> begins to emphasize not only its pleasantness
+but also its delusiveness. In <hi rend="i">Jerusalem</hi>, where the Daughters of Beulah have been replaced as
+muses by a single male muse and lover, “the Saviour . . . dictating the words of his mild song,” Blake
+firmly identifies “the lovely delusions of Beulah” (<hi rend="i">J</hi> 17.27) with the terrors of
+sexuality. Thus Vala, claiming precedence over the Savior, hypnotizes Albion with her concave allure and her
+usurped phallic power:
+<q>
+The Imaginative Human Form is but a breathing of Vala<lb/>
+I breathe him forth into the Heaven from my secret Cave<lb/>
+Born of the Woman to obey the Woman O Albion the mighty<lb/>
+For the Divine appearance is Brotherhood, but I am Love<lb/>
+Elevate into the Region of Brotherhood with my red fires<lb/>
+(<hi rend="i">J</hi> 29.48-30.1)
+</q>
+Responding to Vala’s triumph, Los laments:
+<q>
+What may Man be? Who can tell! But what may Woman be?<lb/>
+To have power over Man from Cradle to corruptible Grave.<lb/>
+There is a Throne in every Man, it is the Throne of God<lb/>
+This Woman has claim’d as her own &amp; Man is no more! . . .<lb/>
+O Albion why wilt thou Create a Female Will?<lb/>
+To hide the most evident God in a hidden covert, even<lb/>
+In the Shadows of a Woman &amp; a secluded Holy Place<lb/>
+(<hi rend="i">J</hi> 30.25-33)
+</q>
+Beulah itself seems at fault, in Los’s agonized cry:
+<q>
+Humanity knows not of Sex: wherefore are sexes in Beulah?<lb/>
+(<hi rend="i">J</hi> 44.3)
+</q>
+And again, anticipating Keats’s yearning description of a work of art “all breathing human passion far
+above:”
+<q>
+redeem’d Humanity is far above<lb/>
+Sexual organization; &amp; the Visions of the Night of Beulah<lb/>
+(<hi rend="i">J</hi> 79.73-4)
+</q>
+For, as Blake in his own persona tells us, however tender and pleasant and full of “ever varying delights”
+the “time of love” passed in Beulah may be, where “every Female delights to give her maiden to her
+husband” and
+<q>
+The Female searches sea &amp; land for gratification to the<lb/>
+Male Genius: who in return clothes her in gems &amp; gold<lb/>
+And feeds her with the food of Eden, hence all her beauty beams<lb/>
+(<hi rend="i">J</hi> 69.17-19)
+</q>
+Love in Beulah inevitably brings a depletion of energy and the advent of jealousies, murders, moral law,
+revenge, and the whole panoply of inhuman cruelties the poet has taught us to struggle against. In visionary
+contrast, Blake imagines a love that transcends sexuality because it is a mingling of male with male:
+<q>
+I am in you &amp; you in me, mutual in love divine:<lb/>
+Fibres of love from man to man thro Albions pleasant land . . .<lb/>
+I am not a God afar off, I am a brother and friend;<lb/>
+Within your bosoms I reside, and you reside in me.<lb/>
+(<hi rend="i">J</hi> 4.7-19)
+</q>
+Such is the opening promise of the Saviour, and if in Eternity “Embraces are Cominglings from the Head even
+to the Feet” (<hi rend="i">J</hi> 69.43), we well may wonder whether such embraces can ever occur between
+male and female. For if the Blake who celebrates desire sees it as equally distributed between genders, the
+Blake who fears desire sees sexuality in general and sexual threat in particular as a female phenomenon. This
+third Blake gives us an array, culminating in <hi rend="i">Jerusalem</hi>, of passive males subject to females
+who seduce, reject, betray, bind, lacerate, mock and deceive them. After <hi rend="i">Visions of the Daughters
+of Albion</hi>, though Blake continues strenuously to oppose the idea that woman’s love is 
+<hi rend="i">sin</hi>, he increasingly describes it as <hi rend="i">snare.</hi> There is no comparable depiction
+of males seducing and betraying females.</p>
+        <p>This brings me to Blake number four, who is perhaps not quite a classic misogynist—though he
+sometimes sounds like one—but someone who believes that the proper study of woman is the happiness of her
+man, and who cannot conceive of a true woman in any but a supportive, subordinate role. In the margin of his
+1789 edition of Lavater’s <hi rend="i">Aphorisms on Man</hi>, Blake wrote, “Let the men do their duty
+&amp; the women will be such wonders, the female life lives from the light of the male, see a mans female
+dependents, you know the man” (E 585). Females, in other words, may be wonders, but only if men are: and to
+be female is to be dependent.</p>
+        <p>Examining Blake from this point of view, and returning to <hi rend="i">Visions</hi>, we notice that
+Oothoon is good, and she is wise, but she is completely powerless. So long as her menfolk refuse
+enlightenment, she will be bound hand and foot, imprisoned in a passivity which she does not desire but to
+which she must submit. Looking at <hi rend="i">The Four Zoas</hi>, we see that Enion and Ahania are likewise
+good—indeed, they represent precisely the goodness of selfless love and compassion—but passive, while
+Enitharmon and Vala are active and evil. In <hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi> the story
+is the same: female figures
+<pb id="p16-163" n="163"/>
+are either powerful or good; never both. The late prophecies may even constitute a retreat from the point
+Blake arrived at in <hi rend="i">Visions</hi>, for the better the late females are, the more passive, the more
+submissive and obedient they also are.<supplied type="spacer"> </supplied><ref target="n33"
+type="note">16</ref> When Ololon finds Milton, she tearfully apologizes for being the cause of Natural
+Religion. And when Milton concludes his splendid final speech on “Self-annihilation and the grandeur of
+Inspiration” with a peroration against the “Sexual Garments, the Abomination of Desolation,” Ololon
+responds by dividing into the six-fold Virgin who dives “into the depths / Of Miltons Shadow as a Dove upon
+the stormy sea” and a “moony Ark” who enters into the fires of intellect
+<q>
+Around the Starry Eight: with one accord the Starry Eight became<lb/>
+One Man Jesus the Saviour. Wonderful! round his limbs<lb/>
+The Clouds of Ololon folded as a Garment dipped in blood<lb/>
+(<hi rend="i">M</hi> 42.9-11)
+</q>
+At the climax of <hi rend="i">Jerusalem</hi> there is a similar self-immolative plunge when “England”
+awakes on Albion’s bosom. Having blamed herself for being “the Jealous Wife” who has caused all the
+troubles of the poem:
+<q>
+England who is Brittania enterd Albions bosom rejoicing<lb/>
+Rejoicing in his indignation! adoring his wrathful rebuke.<lb/>
+She who adores not your frowns will only loathe your smiles<lb/>
+(<hi rend="i">J</hi> 95.22-4)
+</q>
+But this somewhat gratuitous-seeming passage lacks—since we have not met “England” until now—the
+systematic quality of Blake’s treatment of his chief heroine. <note id="n33"><hi rend="s">16</hi> A partial
+exception is the prophetic figure of Erin in <hi rend="i">Jerusalem</hi>, yet in a sense Erin is an exception
+that proves the rule; for though her voice is inspirational without passivity or subordination, she remains
+undeveloped as a character, lacking the internal struggles and self-transformations of the other major figures
+in the poem.</note></p>
+        <p>The poet’s final and most fully-idealized heroine “is named Liberty among the sons of Albion”
+(<hi rend="i">J</hi> 26.3-4) yet we seriously mistake Blake’s intention if we think Jerusalem is herself a
+free being, or even a being capable of volition. She is the City of God, bride of Christ, and man’s
+Christian Liberty, to be sure, but that is only in Eden, and even there she does not act; she simply is. What
+happens to Jerusalem within the body of the poem at no point involves her in action or in protest. At its
+outset she is withheld by Albion from “the vision &amp; fruition of the Holy-one” (<hi rend="i">J</hi>
+4.17) and is accused of sin by Albion and Vala. Unlike Oothoon she does not deny the accusation, nor does she
+defend her own vision with anything like Oothoon’s exuberance. Patiently, meekly, she explains and begs Love
+and Forgiveness from her enemies. That is her last initiative. Subsequently she is rejected as a whore, cast
+out, imprisoned, driven finally to insanity, and becomes wholly incapable even of remembering her original
+self without being reminded of her origins by the voice of her pitying and merciful God. Even this comfort
+does not help; for at the poem’s darkest moment, just before the advent of the Covering Cherub, Jerusalem
+passively receives a cup of poison from the conquering Vala (<hi rend="i">J</hi> 88.56).</p>
+        <p>The final movement of <hi rend="i">Jerusalem</hi> evokes its heroine twice, when “the Universal
+Father” speaking through “the vision of Albion” echoes the Song of Solomon:
+<q>
+Awake! Awake Jerusalem! O lovely Emanation of Albion<lb/>
+Awake and overspread all Nations as in Ancient Time<lb/>
+For lo! the Night of Death is past and the Eternal Day<lb/>
+Appears upon our hills: Awake Jerusalem, and come away<lb/>
+(<hi rend="i">J</hi> 97.1-4)
+</q>
+and when the poet’s vision of “All Human Forms” is complete:
+<q>
+And I heard the Name of their Emanations they are named Jerusalem<lb/>
+(<hi rend="i">J</hi> 99.5)
+</q>
+Yet however amorous, however reverential our attitude toward this “persecuted maiden”<supplied
+type="spacer"> </supplied><ref target="n34" type="note">17</ref> redeemed, we do not and cannot encounter the
+“awakened” Jerusalem directly. As <hi rend="i">A Vision of the Last Judgment</hi> explicitly tells us, and
+as the whole of <hi rend="i">Jerusalem</hi> implies, “In Eternity Woman is the Emanation of Man; she has no
+Will of her own. There is no such thing in Eternity as a Female Will” (E 552). If we wonder what the
+Emanative role in Eternity is, Blake has already told us:
+<q>
+When in Eternity Man converses with Man, they enter<lb/>
+Into each other’s Bosom (which are universes of delight)<lb/>
+In mutual interchange, and first their Emanations meet . . .<lb/>
+For Man cannot unite with Man but by their Emanations . . .<lb/>
+(<hi rend="i">J</hi> 88.3-9)
+</q>
+Is femaleness, then, ideally a kind of social glue? Susan Fox argues that although “in his prophetic poems
+Blake conceives of a perfection of humanity defined by the complete mutuality of its interdependent
+genders,” he nevertheless in these same poems “represents one of these equal genders as inferior and
+dependent . . . or as unnaturally and disastrously dominant,” so that females come to represent either
+“weakness” or “power-hunger.”<supplied type="spacer"> </supplied><ref target="n35"
+type="note">18</ref> Anne Mellor has observed that Blake’s ideal males throughout the major prophecies are
+creative and independent while his ideal females “at their best are nurturing . . . generous . . .
+compassionate . . . all welcoming and never-critical emotional supporters,” and that “in Blake’s
+metaphoric system, the masculine is both logically and physically prior to the feminine.”<supplied
+type="spacer"> </supplied><ref target="n36" type="note">19</ref> But at its most extreme, Blake’s vision
+goes beyond proposing an ideal of dominance-submission or priority-inferiority between the genders. As a
+counter-image to the intolerable idea of female power, female containment and “binding” of man to mortal
+life, Blake wishfully imagines that the female can be re-absorbed by the male, be contained within him, and
+exist Edenically not as a substantial being but as an attribute. Beyond the wildest dreams of Levi-Strauss,
+the ideal female functions as a medium of interchange among real, that is to say male, beings. 
+<note id="n34"><hi rend="s">17</hi> The term is from Praz, who suggests Clarissa and Sade’s Justine as two
+examples of the type.</note>
+	<note id="n35"><hi rend="s">18</hi> Susan Fox, “The Female as Metaphor in William Blake’s Poetry,” 
+<hi rend="i">Critical Inquiry</hi> 5 (Spring 1977), 507.</note>
+	<note id="n36"><hi rend="s">19</hi> Anne K. Mellor, “Blake’s Portrayal of Women,” in this
+issue.</note></p>
+        <p>And what are we as readers to make of Blake’s contradictions?<supplied type="spacer"> </supplied><ref target="n37" type="note">20</ref> Morris Dickstein, noting the shift from the “feminism”
+of <hi rend="i">Visions</hi> to his later stress on “female Will,” calls it “a stunning change that
+seems rooted less in politics than in the nearly unknown terrain of Blake’s personal life.”<supplied
+type="spacer"> </supplied><ref target="n38" type="note">21</ref> Diana George believes that Blake became
+entrapped in a culturally mandated sexual typology which he initially intended to “redeem.”<supplied
+type="spacer"> </supplied><ref target="n39" type="note">22</ref> Although all our anecdotal material about the
+Blakes indicates that Catherine adored her visionary husband
+<pb id="p16-164" n="164"/>
+even when he was not bringing home the bacon, much less adorning her in gems and gold, marital friction looks
+like a reasonable source for many <hi rend="i">Notebook</hi> and other poems. Perhaps, too, Blake had a model
+for Oothoon in Mary Wollstonecraft, whose vigorous equal may not have been encountered in his other female
+acquaintances after Wollstonecraft’s death.<supplied type="spacer"> </supplied><ref target="n40"
+type="note">23</ref> At the same time, we should recognize that the shift in Blake’s sexual views coincides
+with other ideological and doctrinal transformations: from a faith in political revolution perhaps assisted or
+exemplified by Art to a faith in Imagination as that which alone could prepare humanity for its harvest and
+vintage; from what looks like a love of nature that makes him one of the great pastoral poets in the English
+language and extends as far as <hi rend="i">Milton</hi>, to a growing and finally absolute rejection of nature
+and all fleshly things; and from an imminent to a transcendent God. <note id="n37"><hi rend="s">20</hi> For
+some readers, of course, no contradiction worth noticing exists. Consider, for example, the following: “Some
+modern women may have much to object to in Blake’s latest thought about the relations between the sexes. But
+it is hard to believe that <hi rend="i">l’homme moyen sensuel</hi> would reject the hearty bread and
+fullbodied wine the late Blake is offering him. Or his wife either, for that matter: ‘let men do their duty
+&amp; the women will be such wonders.’ ” Such is Jean Hagstrum’s pleasant conclusion in “Babylon
+Revisited, or the Story of Luvah and Vala,” in <hi rend="i">Blake’s Sublime Allegory: Essays on The Four
+Zoas, Milton and Jerusalem</hi>, ed. Stuart Curran and Joseph Anthony Wittreich, Jr. (Madison: Univ. of
+Wisconsin Press, 1973), p. 118. David Aers, in “William Blake and the Dialectic of Sex,” 
+<hi rend="i">ELH</hi> 44 (1977), 500-14, feels that in <hi rend="i">Visions</hi> Blake “may have slipped toward
+an optimistic, idealistic illusion in his handling of Oothoon’s consciousness. The illusion lies in assuming
+that revolutionary consciousness can ever be as uncontaminated by dominant structures and ideologies as
+Oothoon’s appears to be” (p. 505). By stressing female will in later poems, Blake “is casting out the
+vestiges of optimistic delusions,” having discovered that “it is utopian and undialectical to imagine a
+female consciousness like Oothoon’s” (p. 507). Since Aers does not seem to reflect that Oothoon’s
+inventor himself must have been as “uncontaminated” as his invention, and that Los in 
+<hi rend="i">Jerusalem</hi> seems likewise, I take Aers’ position to be that we can believe in a male
+uncontaminated consciousness but that it is undialectical to believe in a female one.</note>
+	<note id="n38"><hi rend="s">21</hi> Dickstein, pp. 77-78.</note>
+	<note id="n39"><hi rend="s">22</hi><hi rend="i"> Blake and Freud</hi>, chap. 6, includes this argument in a
+larger discussion of Blake’s treatment of “the feminine.”</note>
+	<note id="n40"><hi rend="s">23</hi> See Alicia Ostriker, “Todd, <hi rend="i">Wollstonecraft
+Anthology</hi>,” <hi rend="i">Blake / An Illustrated Quarterly</hi> 14 (1980-81), 129-31.</note></p>
+        <p>Yet to say that Blake’s views moved from X to Y would be an absurd oversimplification. It would
+be truer to say that X and Y were with him always—like his Saviour—in varying proportions, and that the
+antagonism between them is the life of his poetry. One of the idols of our tribe is System, a Blakean term
+signifying a set of ideas bounded by an adhesive inflexible consistency, cognate of the “bounded” which
+its possessor soon loathes, the “Circle” that any sensible God or Man should avoid, and the “mill with
+complicated wheels.” If “Unity is the cloke of Folly” in a work of art, we might make it our business as
+critics not only to discover, but also to admire, a large poet’s large inconsistencies—particularly in an
+area like the meaning of sex, where the entire culture, and probably each of us, in the shadows of our
+chambers, feel profound ambivalence.</p>
+        <p>If “without contraries is no progression,” I think we should be neither surprised nor dismayed
+to find in Blake both a richly developed anti-patriarchal and proto-feminist sensibility, in which love
+between the sexes serves as a metaphor for psychic wholeness, integrity, and more abundant life, and its
+opposite, a homocentric gynophobia in which heterosexual love means human destruction.<supplied type="spacer"> </supplied><ref target="n41" type="note">24</ref> If the doors of perception were cleansed everything would
+appear to man as it is, infinite.” What then if we concede that Blake’s vision, at least part of the time,
+was fogged to the degree that he could perceive Man as infinite but could not perceive Woman as equally so?
+Blake understood that it is impossible for any prophet finally to transcend historical time. He understood so
+of Isaiah and Ezekiel, he understood the same of John Milton. “To give a Body to Error” was, he believed,
+an essential service performed by mighty intellects for posterity. We might, with gratitude for this way of
+comprehending great poetry, see him as he saw his precursors. To paraphrase Emerson and the 
+<hi rend="i">Gita</hi>, when him we fly, he is our wings. <note id="n41"><hi rend="s">24</hi> The mirror image of
+this view appears in a number of contemporary lesbian feminist works. See, for example, Griffin, pp.
+207-27.</note></p>
+      </div1>
+	<pb id="p16-165" n="165" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

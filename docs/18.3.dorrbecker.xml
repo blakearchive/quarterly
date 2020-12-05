@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.3.dorrbecker</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">Grant’s “Problems in Understanding”: Some Marginalia</title>
+        <author n="Dörrbecker">Detlef W. Dörrbecker</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1984-85</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984-85</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.3</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>Shelley M. Bennett</name>
+              <name>James Bogan</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Michael Fischer</name>
+              <name>Christopher Fox</name>
+              <name>John E. Grant</name>
+              <name>W.J.T. Mitchell</name>
+              <name>Morton D. Paley</name>
+              <name>Donald H. Reiman</name>
+              <name>Nicholas O. Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984-85"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <body>
+      <div1 id="BQ-18-3-0008">
+        <pb id="p18-185" n="185"/>
+        <div2>
+          <head>
+            <title type="main">Grant’s “Problems in Understanding”: Some Marginalia</title>
+          </head>
+          <byline>
+            <docAuthor>D.W. <name>Dörrbecker</name></docAuthor>
+          </byline>
+		<q>
+He started the controversy,<lb/>
+he gave the challenge,<lb/>
+and has fled from it.<lb/>
+—Thomas Paine, <hi rend="i">Rights of Man</hi>, II
+</q>
+          <p>Under a slightly misleading title, John E. Grant has provided us (1) with a forceful and
+impressive attack on some of the reviewers of <hi rend="i">William Blake’s Designs to Edward Young’s
+“Night Thoughts”: A Complete Edition</hi>, as well as (2) with a—this time singlehanded—new and
+revised version of some of the chapters in the introduction to that <hi rend="i">magnum opus</hi> which, in
+collaboration with Edward J. Rose, Michael J. Tolley, and David V. Erdman, he had edited for the Clarendon
+Press at Oxford. Grant has divided the 57 pages of the typescript of his essay which were known to me when I
+was asked for some comments by the editors of this journal into three separate parts. Of these, one is
+concerned with the reproductions of Blake’s <hi rend="i">Night Thoughts</hi> watercolors 
+(<hi rend="i">NT</hi>), the other two mostly with problems of their interpretation and with revisions of the
+chalcographic reports in the “Introduction” to the Clarendon volumes. I do not share the editors’
+decision that <hi rend="i">all</hi> of this material warrants publication in its present state; if printed,
+however, Grant’s second and third sections will certainly be good for yet another extensive review.
+Nevertheless, I have tried to keep the following notes, if not to a minimum, then at least to a reasonable
+proportion, and they will therefore deal almost exclusively with the first section of Grant’s essay, which
+contains most of the criticisms of my own 1982 review of the Clarendon <hi rend="i">NT</hi> edition.</p>
+          <p>Reading this section, one is surprised to find that—though dissatisfied with many of the
+reviews of his publication—Grant seems rather to agree with than to contradict his reviewers: there is in
+his article much talk about the <hi rend="i">un</hi>reliability of the reproductions in the 
+<hi rend="i">Complete Edition</hi>, and there is relatively little (and perhaps even less than in a review such as
+that by Dennis M. Welch and Joseph S. Viscomi) which attempts to salvage those halftone and color offset
+plates from the often harsh criticisms they have been subjected to.</p>
+          <p>Grant begins by telling us about his own and his co-editors’ disappointment “with the overall
+quality of the 800 reproductions in [the] massive two-volume edition published in 1980,” and he goes on to
+say that “neither the color nor the black and white reproductions are, on average, commendable.” This
+might seem a bit startling when stated by one of the three editors who, after all, were responsible for the
+publication now under discussion, and yet up to this point this is indeed in complete harmony with all those
+of the scholarly reviews of the Clarendon volumes that were based on a firsthand experience and an examination
+of the original water-colors at the British Museum Print Room (see Bindman 1981; Hagstrum 1982; Lincoln 1981;
+Paley 1982; Welch &amp; Viscomi 1981; and Dörrbecker 1982<supplied type="spacer"> </supplied><ref
+target="n38" type="note">1</ref>). The same cannot be said of what immediately follows this concession: if the
+reproductions are not commendable, it must seem (at least for an art historian) a strange euphemism to go on
+with proclaiming that “their shortcomings <hi rend="i">should</hi> [<hi rend="i">not</hi>] be 
+<hi rend="i">seriously misleading</hi>” (italics mine). Yet this sort of reasoning, or rather, wishful thinking,
+is sadly characteristic of the whole of Grant’s response to his critics. <note id="n38"><hi rend="s">1</hi>
+These abbreviated references, which I shall use throughout, can easily be completed with the help of the
+Bibliography in Grant’s response, above.</note></p>
+          <p>The purpose of his article, Grant says, is to clarify “standards and deviations from them,”
+so that in the future we can “assess the edition in a way that will advance scholarship.” From Grant’s
+point of view, this is also what has not been achieved by any of the many reviews published between 1980 and
+early 1983. Where such a discussion of standards of reliability is advocated, however, one might expect some
+more general remarks concerning those criteria which are likely to help us with differentiating (at least a
+bit) between the varying degrees of what, in passing, Grant mentions as the usual unreliability of the plates
+in art books. His reviewers, no doubt, were all well “aware that in most [though obviously not all] art
+books the reproductions are untrustworthy.” Yet, unlike the editors of the <hi rend="i">NT</hi> edition,
+some of the reviewers actually took pains to establish the precise extent of deviation from the originals in
+the publication they had been asked to describe and evaluate by comparing the published plates with the
+watercolors in London. And, though the examples chosen by the various reviewers differed widely, all the
+resulting reviews agreed that there is <hi rend="i">considerable</hi> deviation between the watercolors and
+their photographic replicas as printed by the Clarendon Press.</p>
+          <p>Despite his promise that he will not “defend the Clarendon edition where it is indeed
+deficient,” Grant makes it clear right from the start that he will be discussing these criticisms and
+lamentations of his colleagues only in a very specific sense. Thus, he asserts that his reviewers have simply
+missed the point, and he does “not believe that they have succeeded in dealing either with many important
+aspects of the edition or of Blake’s pictures as they are reproduced therein.” This is a sentence which
+deserves to be looked at carefully because it seems to contain a clue to the governing principles of Grant’s
+longish paper. Being part of his introduction, it serves a fourfold purpose: (1) to discredit the intellectual
+integrity of his critics with the readers of his <hi rend="i">apologia</hi>; (2) to claim for himself (and,
+possibly,
+<pb id="p18-186" n="186"/>
+for his fellow-editors as well as the few truly favorable reviewers like Halsband or John Russell Taylor of
+<hi rend="i">The Times</hi>) exactly that “elevated” status of the ideal viewer of Blake’s designs
+which, as a concept of <hi rend="i">criticism</hi>, had been justly exposed as “an annoying tic” in Blake
+studies in W.J.T. Mitchell’s review (Mitchell 1982, p. 203); (3) to make it seem only natural then, that on
+the following pages he sidesteps many of the issues which had been brought forward in the reviews (see below
+for some examples); and (4) to establish a curious world-turned-upside-down view of the respective roles of
+author and reader-reviewer—according to John E. Grant, even in a scholarly publication it is the author who
+is to decide about the standards by which his work may, or may not be evaluated, not the audience, which
+either will have to be content to follow the author-editors, serving as their <hi rend="i">claqueurs</hi>
+(though paying, not being paid for serving this function as usual), or will be discarded as blockheads who
+cannot even discover all those “many important aspects” that have been kindly presented to them at a mere
+$365. Now, if I enter into a scholarly discourse with a set of false premises in mind, I shall of course be
+able to “prove” most anything. If Grant is unwilling to actually speak to the point—which in this case,
+alas!, had been made and dictated by the reviewers—he refuses to face up to a discussion in favor of mere
+polemics, and he is certainly not complying with the demands made on scholarly integrity with those “severe
+thoughts on scholarly procedures” of his which I had quoted in the final footnote to my review.</p>
+          <p>By way of a reply to Grant’s attack, this might seem all that really needs to be said, the rest
+being perfectly clear to anyone who has read not only the above essay, but also the reviews by Welch and
+Viscomi, Hagstrum, Mitchell, Paley, Bindman, and myself. Since I, too, had not read them all when Grant’s
+typescript arrived, I think it might still be worthwhile to reply in more detail to some of the statements in
+Grant’s response.</p>
+          <p>Concerning my own criticism of the quality of the color plates in the <hi rend="i">Complete
+Edition</hi> (and much the same might have been said of the criticisms by Bindman, Paley, and Welch and
+Viscomi, who all have made themselves guilty of similar “procedural errors”), Grant insists (1) that they
+are neither trustworthy nor generally useful, being “wrong from one-third to two-thirds of the time”
+(though in another instance Grant kindly concedes that at least “in about half the cases Dörrbecker
+complains about . . . there is something seriously amiss in the reproduction”), (2) that they pay no
+attention to the problems of “color averaging,” and (3) that I should have looked at the “difference”
+which an admitted mistake makes for the design as a whole rather than at the mistake in isolation. The first
+of these points is not argued, but merely asserted; I am fully aware of course, that whether my statements
+concerning the discrepancies between the color reproductions and the original watercolors are
+“trustworthy” or not, cannot really be decided in any other place than the Print Room. Grant’s quest for
+an evaluation of the exact amount of harm done to single designs by the specific mistakes in the
+reproductions—which he admits are present—to me seems quite absurd, especially since the quest is proposed
+by someone who should have minimized the very mistakes which he now proclaims a rewarding subject for further
+studies; moreover, the procedure recommended by Grant is sufficiently impractical even in a long review to
+allow this suggestion to be passed over in silence. It is true, however, that I ought to have developed my
+argument somewhat further where I had only drawn attention to the fact that “if just one color comes off
+wrong from a reproduction, this causes a distortion in the whole of the color composition which is
+unmendable” (Dörrbecker 1982, p. 132).</p>
+          <p>In his eagerness to vindicate the Oxford publication, Grant freely admits that he read “the
+1972 and 1976 [sic] theses by Hill and Mulhallen,” i.e., the only two full-length monographs which
+previously existed on the subject of his research, “only recently.”<supplied type="spacer"> </supplied><ref target="n39" type="note">2</ref> He now believe[s]” that they both “would have been much
+more effective if the authors had been able to benefit by the kinds of awareness now available in the 1980
+Clarendon edition.” None of his reviewers, however, did in the least attempt to dispute 
+<hi rend="i">this</hi> claim for the importance of the two <hi rend="i">NT</hi> volumes. On the contrary, what
+Grant presents as a new insight into the relevance of his own work had been granted—and welcomed, though in
+a somewhat lower key—in many of the reviews I have seen, which often mention that the <hi rend="i">NT</hi>
+designs have now become more easily accessible than ever before (see Bindman 1981, Lincoln 1981, Welch &amp;
+Viscomi 1981, Hagstrum 1982, and Dörrbecker 1982). <note id="n39"><hi rend="s">2</hi> Karen A.
+Gabbett-Mulhallen’s dissertation had—correctly—been listed for the year 1975 on p. 83, item 84, of the
+“Checklist of Studies and Reproductions” in vol. 1 of the Clarendon edition, while Gillian M. Hill’s
+1972 Exeter Ph.D. thesis was not even mentioned there. It had been included, however, in Bentley’s checklist
+of Blake dissertations which was printed in whole number 49 of this journal. Grant himself gives the correct
+date for Mulhallen’s thesis in a different paragraph of his rebuke; it has been generally “available for
+study” since at least 1979 through University Microfilms International, but probably would have been
+available to the editors much earlier if they had asked the author for permission to use her unpublished study
+in preparation for their own introduction and commentary on the <hi rend="i">NT</hi> series.</note></p>
+          <p>Next, Grant thought it necessary to devote a paragraph to the “standards” which I seemed
+“to have in mind” when putting to paper my “opinions about the adequacy of the reproductions.” The
+following two sentences of his rebuke certainly call for comment: “Unlike Paley, who declares that he
+checked the Clarendon reproductions against the originals, Dörrbecker admits that he is judging by other
+criteria. Naturally, comparing the reproductions with the originals should help in evaluating their quality,
+but (perhaps surprisingly) such checking is neither necessary nor sufficient for a reliable report.” This
+statement is just one example from Grant’s text which makes it hard to believe in the author’s capacity
+for fair play in dealing with criticisms of his work, though it may also and very simply be a sign of
+Grant’s suspension of all critical judgment when attacked. Had he chosen to read my review in a less
+prejudiced mood, the following corrections would have
+<pb id="p18-187" n="187"/>
+been superfluous, and all this space might have been used for the real thing: scholarship.</p>
+          <p>Grant here attempts to establish a difference in approach between Paley (who, however, is said to
+have been “not much more successful . . . in presenting a reliable analysis”), Viscomi, and myself.
+“Unlike Paley,” so his readers are being told, I had not compared the reproductions with the originals at
+the British Museum Print Room before writing my review for <hi rend="i">Blake</hi>, and, it is cunningly
+added, I was judging on the basis of some “other criteria.” According to Grant, this had been
+“admitted” by myself, yet he fails to provide the relevant quotation from my review. This omission seems
+wise, however, since no such references can possibly be supplied; on the contrary, one will be at a loss if
+trying to trace what exactly might have prompted this imputation.<supplied type="spacer"> </supplied><ref
+target="n40" type="note">3</ref> True enough, I did not explicitly <hi rend="i">declare</hi> that I had gone
+through the entire series of these watercolors at various times as well as in 1980-1981 when, in preparation
+for my review, I compared <hi rend="i">each</hi> of the originals at the Print Room with its reproduction in
+the Clarendon volumes, taking notes and (indeed!) annotating my review copy quite heavily. Yet from the
+character of my notes on the reproductions it should have been clear to any unprejudiced reader that the
+review could not possibly have been written without a stay in London.<supplied type="spacer"> </supplied><ref
+target="n41" type="note">4</ref> At the same time, I freely admit that this did not take me “months rather
+than weeks” (for which Grant argues justifiably in a different paragraph). And yet, what sort of reviewer is
+being demanded by this editor who, after having been engaged on this project during well over a decade still
+has to admit that he has been guilty of “sheer carelessness”? <note id="n40"><hi rend="s">3</hi> It just
+may be that Grant misunderstood what I had said concerning the criteria for “cautious value judgments”
+(Dörrbecker 1982, p. 130); the respective sentence, however, clearly applies to Blake’s original
+watercolors, <hi rend="i">not</hi> to the quality of the reproductions in Grant’s edition.</note>
+	<note id="n41"><hi rend="s">4</hi> See phrases such as “only when compared with the originals,” or “to
+list the major discrepancies between the original designs and their reproductions” (Dörrbecker 1982, pp.
+131 and 132), which certainly imply that recourse to the <hi rend="i">NT</hi> watercolors had supplied the
+reviewer with the decisive criteria for his evaluation of the reliability of the Clarendon halftones and color
+offset plates.</note></p>
+          <p>In reply to the statement quoted above, there is something else which seems to ask for
+contradiction: although “checking” the reproductions against the originals is in itself not sufficient
+(yet who had said so?), it is still and most certainly “necessary for a reliable report” as its factual
+basis. As long as we want reproductions to serve as an aid to research purposes, as a temporary substitute and
+a representation of the originals <hi rend="i">in effigie</hi>—and Grant seems to agree on that—all else
+is nonsense where an evaluation of their reliability is at stake. Tellingly, this need to compare the plates
+in the Clarendon edition with their London “prototypes” has been felt most strongly by one colleague who
+had been prevented from doing so when writing his review (see Hagstrum 1982, p. 340). With at least David
+Bindman, Andrew Lincoln, Dennis M. Welch and Joseph S. Viscomi, Morton D. Paley and Jean H. Hagstrum all
+agreeing on this point, one is left wondering about the purpose of that paragraph in Grant’s rebuke: was it
+meant to cast shadows of baseless doubt over the statement of Paley, who, in Grant’s phrasing, did not
+simply compare the reproductions with the originals, but only “declared” that he had done so? or was it
+meant to disqualify my own comments on the reproductions by cleverly pointing out that I had not even
+attempted such a declaration of the obvious and that in addition I had been judging by a set of alien,
+unknown, undescribed, and probably unspeakable criteria which are so freakish and uncanny that Grant just
+didn’t dare to unveil them?</p>
+          <p>Then Grant laments that “it is easy to set an impossibly high standard of expectation as
+Dörrbecker often does in complaining when the pictures are only a little off,” and I would readily agree
+with him, had not Grant himself admitted that these standards are <hi rend="i">not</hi> impossibly high (see
+below), and had he not overlooked most of what I as well as other reviewers had indeed said about the
+usefulness of the <hi rend="i">NT</hi> edition even as it is. Also, I am ready to apologize for not having
+mentioned that <hi rend="i">NT</hi> 264 comes off much better in the color reproduction than in the halftone
+plate; this omission, however, was due to the disposition of my review which had been subdivided into separate
+chapters on the monochrome and on the color plates.</p>
+          <p>Furthermore, it will have been evident to readers of my review that at no point did I intend to
+have their achievement weighed against genuine facsimiles or even monochrome collotype publications. Grant
+himself draws attention to my footnote 8, where I had tried to make clear exactly what takes him another page
+of his typescript to explain: that a collotype publication would have been enormously expensive to produce. It
+is not hard to imagine, however, why a similar reference to my note 43 is lacking from Grant’s text; there,
+much the same topic is dealt with and a few, admittedly arbitrary, examples are given of “how much closer
+one can get to the original colors with the ordinary offset process and at a moderate price” (Dörrbecker
+1982, p. 139). Though one will now want to ask the editorial team of the Clarendon volumes for a more detailed
+account of their own standards of reliability in art reproduction, the issue which has been raised by Grant
+only in his present response is quite different: why did the editors tolerate their publishers’ petty
+economies which allowed for nothing better than, e.g., what Grant terms “the best pidgin English for black
+achieved in much modern color reproduction,” and will they tolerate the respective results in future
+publications too (which they themselves might be asked to review)? Shall such inadequacies really and simply
+“be understood,” and shall silence follow this sort of apodictic statement?</p>
+          <p>In a different paragraph Grant attempts to whitewash the mediocre results in his edition by
+comparing them with other reproductions that are still more inaccurate; entering into this train of thought, I
+would nonetheless feel tempted to ask for a higher quality of color reproduction in a pseudo-facsimile of just
+one of Blake’s series of illustrations like the <hi rend="i">Complete Edition</hi>
+	<pb id="p18-188" n="188"/>
+(which offers 80 color plates at $365) than in a catalogue raisonné (which had been planned without any
+illustrations at all, and which was published at $300 with a total of 239 illustrations in color), or in a
+slim monograph like Paley’s which covers Blake’s entire career as an artist (containing 16 color plates
+and sold at $19.95). I guess that both Martin Butlin and Morton Paley would be ready to agree with much in
+Grant’s critique of the reliability of the color plates in their books. Methodologically, however, Grant’s
+procedure can only be understood as an attempt to establish a particularly <hi rend="i">low</hi> standard of
+reliability which will then enable him to set off the Clarendon plates more positively, and to feel content
+with their own humble achievement.</p>
+          <p>Personally, I would prefer different comparisons: if we really are to measure the relative
+success and/or failure of the color reproductions in the second volume of this edition against what it is
+possible to achieve with the ordinary processes that allow for mass production, I would recommend as a
+standard not a Blake book (old or new), but one of those mostly “untrustworthy” and accident-ridden art
+books that Grant is referring to. We all know that Titian and his Venetian followers daubed their canvases
+with “unorganized Blots &amp; Blurs.” The uncouth hodgepodge of colors on their palettes and the complete
+lack of outline and definition in their paintings guarantee that both the photographer and the printer will be
+faced with enormous problems when trying to create a reliable reproduction of one of their works, especially
+since hardly any of these abominable productions can possibly be printed at something like 70% of their
+original format. Now, let us have a look at the <hi rend="i">Genius of Venice 1500-1600</hi> exhibition
+catalogue. The sight of it may make us shudder, but treat it gingerly, and a careful and thorough examination
+will show that it was published in 1983 for the Royal Academy by Weidenfeld and Nicolson in a paperback quarto
+which sells at £8.95—that there are 95 color plates (i.e., more than in the <hi rend="i">NT</hi> edition,
+though all are much smaller of course)—that (at least according to my notoriously high standards) none of
+them is perfect, to be sure—yet that almost all of them are of superb and, it has to be admitted, often
+unprecedented quality in this particular field of art historical publications. The relatively modest price one
+has to pay for this volume, complete with more than three-hundred pages of text and hundreds of small
+black-and-white reproductions, is to be explained by the number of copies printed of this catalogue, no doubt
+far more than the one-thousand copies of the <hi rend="i">NT</hi> venture, as well as by the heavy subsidy for
+the exhibition project. Nevertheless, the comparison will prove that at a retail price of £150 technically
+much more than what has been achieved in the Clarendon edition would have been possible. It then seems to have
+been due to other factors that this technical achievement had to remain no more than a possibility.</p>
+          <p>In my review I said that “it is hard to believe that any serious and responsible attempt has
+been made to properly check the proofs of the reproductions against the originals while seeing these volumes
+through the press” (Dörrbecker 1982, p. 137). This conjecture has neither been refuted nor confirmed in
+Grant’s paper. In passing, however, we learn from him that at least in one case he (as well as the other
+members of the editorial board?) had been left “without benefit of monochrome proofs,” and, it is added,
+“as usual.” Even after reading Grant’s lengthy vindication one still does not know what precisely the
+editors <hi rend="i">did</hi> to ascertain the highest standards possible for their (professional and
+renowned) publishers, and what they did not even attempt to do.<supplied type="spacer"> </supplied><ref
+target="n42" type="note">5</ref>
+	<note id="n42"><hi rend="s">5</hi> I think there is no need here to outline the sort of editorial
+responsibility I had been speaking of; a perfect example for such responsible editorship and for the kind of
+editorial report which is lacking from the <hi rend="i">NT</hi> edition has been established by Morris Eaves
+when in whole number 31 of the <hi rend="i">Blake Newsletter</hi>, 8 (Winter 1974-1975), 86-88, he told us
+what it means to embark on “Reproducing ‘The Characters of Spenser’s <hi rend="i">Faerie
+Queene</hi>’.” This article—which rightly remarked that “an account of this sort is not the custom in
+fine-art reproduction, but . . . should be”—will be fairly well known to Grant since ironically it had
+been prompted by the printing of a color reproduction which accompanied as interpretative essay written by
+himself in collaboration with Robert E. Brown.</note></p>
+          <p>Instead of offering an explanation for just why all those compromises were necessary (be it in
+100% or just 50% of the cases listed in the various reviews), Grant leaves us with a moving (and almost
+disarming) account of what can only be understood as self-accusations: the editors, “like other scholars . .
+. were disappointed with the overall quality of the 800 reproductions,” there might be “something
+seriously amiss” or “woefully inadequate” in the reproductions, and, unfortunately, “most of the color
+reproductions in the Clarendon edition are dead, lacking the vibrancy that it <hi rend="i">is</hi> possible to
+convey in color reproduction,” yes, they even might be “atrociously bad, turning everything to mud”
+(italics mine). This is neither “unaccountable,” however, nor is there such an easy way out as Grant
+continually tries to suggest: someone who, in his own words, “had much responsibility in designing” this
+edition cannot simply blame the responsibility for its many and “freely acknowledge[d] . . . shortcomings”
+on the publishers alone—he will at least have to face up to the questions concerning <hi rend="i">his</hi>
+position in the production process.</p>
+          <p>Grant thinks it interesting that I have attributed that “lack of vitality . . . to the choice
+of cream-colored paper for printing” (the same observation has been made by Bindman 1981 and by Welch and
+Viscomi 1981). Though he now seems convinced that “quite possibly this was a contributing factor,” he
+still urges his readers to believe that this was—if not an “unaccountable” then at least—an almost
+unavoidable shortcoming, referring to “the Yale University Press choice of a much whiter paper for
+Butlin’s 1981 catalogue” which did indeed prove to be “not sufficient to have resulted in [more]
+satisfactory color reproductions.” Grant overlooked or intentionally concealed from his readers, however,
+that in one of my notes I had said: “It needs no stressing, I suppose, that the use of glossy coated paper
+[such as in Butlin’s 1981 catalogue, that is] would have produced even worse results” (Dörrbecker 1982,
+p. 137 n.7); what I had advocated was “a similar make of printing paper as, e.g., that used [by the same
+publishers] for the plates
+<pb id="p18-189" n="189"/>
+in Keynes’ <hi rend="i">Blake Studies</hi>” (Dörrbecker, p. 131).</p>
+          <p>Two paragraphs further on one encounters yet another misrepresentation of what is actually to be
+found in my review. There, Grant quotes me as simply “find[ing] ‘those beautiful wide margins’ (p. 136)
+one of the features of the Clarendon edition that he can whole-heartedly praise”; obviously speaking of the
+pages with the reproductions, Grant then goes on to tell his readers that he now “consider[s] the margins an
+aesthetic and scholarly nuisance, a barrier against free access to a major critical and artistic
+accomplishment . . . useful only for taking notes—for those who can afford to write in such an expensive
+edition.” The quotation and the page reference are both correct; they do not, however, give any sense of the
+context that these few words have been lifted from. When I happened to mention my taste for wide margins, I
+did so <hi rend="i">sub voce</hi> the introduction in a paragraph dealing with the physical aspects of the
+production of these volumes. I had made my meaning explicit by speaking of “the lavish layout 
+<hi rend="i">of the introduction</hi> [which] leaves those beautiful wide margins to which we are no longer
+accustomed” (Dörrbecker 1982, p. 136). Instead, the context of Grant’s misleading reference to my
+“praise” makes it look as if I had meant it to apply to the pages with the reproductions and had thus
+spoken out for the luxury of a happy few at the expense of “an aesthetic and scholarly nuisance.” In
+connection with W.J.T. Mitchell’s review of the <hi rend="i">NT</hi> edition, Grant chastises his critic for
+what he interprets as one “dubious move” amongst others, i.e., the “cutting [of] a rather lengthy
+quotation from our text.” With respect to my “praising” of the wide margins in the text section of the
+<hi rend="i">Complete Edition</hi>, Grant’s own procedure must be said to be fairly similar to that which he
+considers as lacking scholarly integrity in others.</p>
+          <p>In much the same vein, one might easily add more such corrections to Grant’s biased readings of
+his reviewers, as well as a list of all those questions which were brought forward by the latter but have not
+been honored with a reply in Grant’s article. Instead of offering new arguments to refute these criticisms,
+Grant has preferred rather to pose new problems. The subject of the inclusion of relief etchings among the
+“preliminary drawings” for the <hi rend="i">NT</hi> watercolors he has passed over in silence, and the
+same applies, e.g., to questions concerning the dating and the description of some of these drawings (see
+Paley 1982 and Dörrbecker 1982). The many parallels for designs in this series among Blake’s earlier (and
+later) works which had not been mentioned in the introduction to the Clarendon volumes, but have been pointed
+out by the reviewers (especially strong on this point are Welch and Viscomi) get almost no mention. The size
+of the reproductions is still spoken of as if it almost met with that of the originals, while in fact the
+reduction by approximately 30% is quite considerable. It can be effectively experienced in any library where
+there is a chance to place the present imperial quarto volumes side by side with copies of either Keynes’
+1927 portfolio or the imperial folio publication of the Gray illustrations (which, of course, are about the
+same size as the <hi rend="i">NT</hi> watercolors in the originals) edited by Herbert Grierson in 1922.</p>
+          <p>Then, in Grant’s final chapter, some strange theories about the chronological sequence in the
+production of the plates for the 1797 edition are brought forward which I find hard to reconcile with what I
+know about printmaking processes in general, and with what Robert Essick has taught us about Blake’s
+personal techniques in particular. I wish to conclude, however, with a few remarks not concerning the
+“indication of the capacities of the present Blake community to deal with Blake’s most extensive project
+in visionary criticism,” but rather its capacity for scholarly discourse and fair play.<supplied
+type="spacer"> </supplied><ref target="n43" type="note">6</ref>
+	<note id="n43"><hi rend="s">6</hi> First, however, I have to point out that of course my own review is not
+entirely free from fault. There remain a number of typographical errors which I had overlooked, and, in my
+note 14, I stupidly presented Joseph Farington as the Royal Academy’s “secretary,” a post which the
+diarist never held. Also, I now regret some rather polemical asides—in the review, not in the present reply
+to Grant’s above article—and I have to accept Grant’s justified chiding of one of my own paragraphs as
+being “ill-coordinated,” as well as of my all too hasty and careless rejection of the possibly meaningful
+connection between <hi rend="i">ARO</hi> 10 and <hi rend="i">NT</hi> 264 in my note 24.</note></p>
+          <p>While there has been much talk about the sister-arts tradition in Blake criticism ever since Jean
+Hagstrum discovered the topic for us some twenty years ago, the relation between <hi rend="i">some</hi> of the
+literary critics who have made the study of Blake’s multimedia productions the center of their scholarly
+activities and the (still too few) art historians who have ever dared to intrude into this field of study
+seems to be characterized by feelings of distrust and competition rather than by a desire for cooperation.
+Suspending their twentieth-century critical judgment and taking Blake’s artist’s ideology (which of course
+<hi rend="i">is</hi> fascinating) for their own, some literary critics like Grant allow themselves to see in
+Sebastiano Ricci just “one of the also-rans,” and a superb “Pollaiulo” [sic] painting to them is
+merely an orthographical problem and “a red herring”—figuratively at least. I shall not ask how many
+minutes or hours Grant has ever devoted to the study of Ricci’s masterpieces at Venice, and I shall not
+enlarge on the reasons which made me choose this artist of the late baroque as an adequate 
+<hi rend="i">contrary</hi> to Blake who yet was capable of executing a painting of the resurrection which would
+have had all the same iconographic ingredients that are listed by Grant and his fellow editors for Blake’s
+<hi rend="i">NT</hi> 264, but would have had a widely differing meaning because of artistic elements for which
+there seems to be no room in the mode of description that has been chosen for the introduction to the
+Clarendon edition. Also, and especially since Grant finds my view of <hi rend="i">NT</hi> 20 “conceivable”
+at least, I am not worried about the fact that he misinterpreted my reference in note 21 to the Pollaiuolos’
+London altarpiece as an attempt to supply “counterevidence,” where in fact it had been quoted as an
+example for a well-known pictorial technique for rendering three-dimensional, “statuesque” phenomena into
+the two-dimensional picture plane by showing the same type of figure or object in both front and back views, a
+device which has been
+<pb id="p18-190" n="190"/>
+described in Leonardo’s <hi rend="i">Trattato della pittura</hi> and many other Renaissance texts concerned
+with the <hi rend="i">paragone</hi> between the arts of sculpture and painting.</p>
+          <p>So what does worry me is (1) John Grant’s evident reluctance to even look at paintings which
+have no Blakean license and no <hi rend="i">immediate</hi> bearing on the interpretation of one of Blake’s
+own works, and (2) his tendency to prescribe such reluctance as a prerequisite for the well-attuned Blake
+scholar in general. I must protest against Grant’s implication that a <hi rend="i">credo</hi> has to be
+sworn before one attains the right to speak up in the round of the self-declared group of the initiated, the
+closed circle of the “properly attuned” readers and viewers of Blake, just as I have to protest when he
+equates my attempt “to distance [myself] from ‘Blake enthusiasts’ ” with an attempt to distance myself
+from an appreciation of Blake’s artistic achievements. The recognition of and esteem for the latter,
+however, by no means require us to actually see Blake as Michelangelo’s equal, or to despise the
+achievements of Rubens and all those other “also-rans,” or to level the existing differences between
+Blake’s masterpieces and his less successful works, or to believe for oneself in <hi rend="i">each</hi> of
+Blake’s aesthetic claims.</p>
+          <p>I was not the first, of course, and probably won’t be the last to find fault with the overall
+quality of the <hi rend="i">NT</hi> series as a whole. Hagstrum, for instance, whose review has been singled
+out by Grant as one of the two “favorable” ones he mentions, also agreed that “not all Blake’s designs
+for Young are masterpieces, though some most assuredly are” (Hagstrum 1982, p. 339). With this, both David
+Bindman’s and my own “common sense opinion” are in perfect conformity, and in no place did I ever
+question what Grant has to say about the presence of “some great pictures” in this series. I am glad to
+learn that Grant does not entertain any futile hopes “to improve [my art historian’s] taste for Blake,”
+which is neither needed nor asked for, but I wonder how in the future he is going to behave towards a less
+“exceptionally specific negative” reviewer like Jean Hagstrum, who has done so much for our knowledge of
+the <hi rend="i">NT</hi> designs.</p>
+          <p>Criticism, to be intelligible, will always have to be based on arguments that allow for their
+verification or falsification through others; therefore, it seems to be Grant’s dilemma that as a literary
+critic he must, if not accept, then at least take seriously those thoughts which he now tries to ridicule as
+“Grecian mocks,” while as a reader he deeply sympathizes with their condemnation by Blake. By means of a
+subjective and naive identification with the objects of his studies and their author, Grant may well imagine
+himself to be the “more properly attuned reader.” Yet the quality of his scholarship will still have to be
+submitted to an examination on the basis of rational criteria, and therefore may well be the object of more
+such “Grecian mocks.” In any case, the use of a few Blakean quotations in an attempt to accuse a colleague
+of heresy is not likely to advance our knowledge, and it seems particularly out of tune with an essay which
+itself complains about one reviewer’s “unscholarly way” of trying “to poke fun” at the editors of
+the <hi rend="i">NT</hi> edition. Therefore, and until Grant is willing to comply with his own earlier
+methodological standards, I shall feel rather happy in the company of such scholars and more open-minded
+friends as Paley, Bindman, Viscomi, Mitchell, and—“the connoisseurs in all ages.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

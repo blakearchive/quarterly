@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.4.conference</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Wordsworth Summer Conference at Dove Cottage</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1996</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.4</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <body>
+      <pb id="p29-108" n="108"/>
+      <div1 id="BQ-29-4-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Wordsworth Summer Conference at Dove Cottage</hi>
+            </title>
+          </head>
+          <p>The 26th annual Wordsworth Summer Conference will take place from 27 July to 10 August 1996 in
+Grasmere, Cumbria. The theme is romanticism, British and Continental, the literature, culture, lives and times
+of the writers, thinkers, and the tradition of literary studies that has grown up around them.</p>
+          <p>Twenty-minute research papers are invited on any aspect of romanticism. Papers should be no more
+than 10 pages of typescript. Send papers to Jonathan Wordsworth, care of Dove Cottage.</p>
+          <p>For information about the 1996 conference, the speakers, special events, accommodations, prices,
+write Sylvia Wordsworth at Dove Cottage, Grasmere, Cumbria LA22 9SH, UK (tel. 015394 35651) or Marilyn Gaull,
+Department of English, New York University, 19 University Place, Room 212, New York, NY 10003.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

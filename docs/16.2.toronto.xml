@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.2.toronto</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Toronto Symposium</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.2</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Krzysztof Z. Cieszkowski</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+              <name>Christina Shuttleworth Kraus</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith W. Page</name>
+              <name>Donald H. Reiman</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-140" n="140"/>
+      <div1 id="BQ-16-2-0011">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">TORONTO SYMPOSIUM</hi>
+            </title>
+          </head>
+          <p>In connection with the Blake exhibition at the Art Gallery of Ontario 4 December 1982-6
+      February 1983, there will be a symposium on “William Blake’s Visual
+      Languages.” On Friday, 4 February, at 8:00 pm, Northrop Frye (Univ. of Toronto) will
+      speak on “William Blake’s Bible Illustrations” in the Medical Sciences
+      Auditorium at the University of Toronto. The following day, from 9:30 am until 4:30 pm in the
+      Activity Centre of the Art Gallery of Ontario, David Bindman (Westfield College, Univ. of
+      London) will speak on “William Blake: Satire and Revelation”; Bo Ossian Lindberg
+      (Univ. of Lund), on “Blake and the Minutest Particulars: Binding Media and Pigments in
+      the Painting Technique of William Blake”; G.E. Bentley, Jr. (Univ. of Toronto), on
+      “Blake and the Book Illustrators of His Time”; Robert N. Essick (Univ. of
+      California, Riverside), on “Process and Meaning in Blake’s Illuminated
+      Books”; Morton D. Paley (Univ. of California, Berkeley), on “The Apocalyptic
+      Sublime”; and W.J.T. Mitchell (Univ. of Chicago), on “Blake’s
+      Wond’rous Art of Writing.” For further information and registrations forms please
+      contact the Scheduling Office, Education Services, Art Gallery of Ontario, 317 Dundas Street
+      West, Toronto, Ontario M5T 1G4; telephone 416/977-0414.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

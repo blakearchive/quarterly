@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.2.felpham</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">William Blake and Felpham</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1987</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1987</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.2</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Catherine Haigney</name>
+              <name>Andrew Lincoln</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <div1 id="BQ-21-2-0008">
+        <pb id="p21-79" n="79"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">WILLIAM BLAKE AND FELPHAM</hi>
+            </title>
+          </head>
+          <p>Visitors to Felpham and environs will be interested in the brief but attractive booklet by Norah
+Owens, <hi rend="i">William Blake and Felpham (1800-1803)</hi>, in which “whenever possible, the focus
+shifts from Blake to his neighborhood, the lively people among whom he lived and moved.” It is published by
+the Bognor Regis Local History Society (Park Lodge, High School, Bognor Regis, West Sussex PO21 1HW) and costs
+£1.60.</p>
+          <figure n="BlakeFelpham.bookletcover.bqscan" rend="file" width="400" height="560"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

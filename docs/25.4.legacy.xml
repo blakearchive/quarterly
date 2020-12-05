@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.4.legacy</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">International Conference at Victoria University</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.4</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Peter Otto</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <body>
+      <pb id="p25-174" n="174"/>
+      <div1 id="BQ-25-4-0007">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">INTERNATIONAL CONFERENCE AT VICTORIA UNIVERSITY IN THE UNIVERSITY OF TORONTO</hi>
+            </title>
+          </head>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">THE LEGACY OF NORTHROP FRYE</hi>
+              </title>
+            </head>
+            <p>29-31 OCTOBER 1992</p>
+            <p>Friday, 30 October — Afternoon Conference Session III: Northrop Frye and Imaginative
+Literature</p>
+            <p>Some papers on Blake and related subjects:</p>
+            <p>Gerald E. Bentley, Jr. (University of Toronto), “Blake on Frye and Frye on Blake”; Angela
+Esterhammer (University of Western Ontario), “The Constitution of Blake’s Innocence and Experience”;
+Michael Fischer (University of New Mexico), “Northrop Frye and the Politics of English Romanticism”;
+Monika Lee (University of Western Ontario), “Shelley’s <hi rend="i">Defence of Poetry</hi> and Northrop
+Frye: A Theory of Synchronicity.”</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

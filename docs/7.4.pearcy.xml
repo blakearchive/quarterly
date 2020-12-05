@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.4.pearcy</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Tyger &amp; Richard Crashaw’s Paraphrase of Thomas of
+Celano’s Dies Irae</title>
+                <author n="Pearcy">Roy J. Pearcy</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1974</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1974</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.4</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1974"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-4-0002">
+                <pb id="p07-80" n="80"/>
+                <div2>
+                    <byline>
+                        <docAuthor>Roy J. <name>Pearcy</name>
+                        </docAuthor>
+                    <ref target="n25" type="note">*</ref></byline>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">Blake’s Tyger &amp; Richard Crashaw’s Paraphrase of Thomas of
+Celano’s</hi> Dies Irae</hi>
+                        </title>
+                    </head>
+                    <p>Within the past several years, critics have become increasingly aware that Blake may
+have known and been influenced by the poetry of Crashaw, <ref target="n1" type="note">1</ref> whose works,
+available in partial anthologies published in 1648, 1652, and 1670,<supplied type="spacer"> </supplied><ref
+target="n2" type="note">2</ref> attracted a growing interest during the eighteenth century, and received
+frequent and favorable commentary.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> One
+particular poem often singled out for praise was his “Hymn of the Church in Meditation of the Day of
+Judgment,” a paraphrase of Thomas of Celano’s <hi rend="i">Dies Iras</hi>, originally composed in the
+thirteenth century as a <hi rend="i">pia meditatio</hi>, but popularized through its incorporation into the
+burial service of the Roman Church as a sequence in the requiem mass, and through its eventual adoption as an
+advent hymn by the Protestant churches. By Blake’s time the Latin poem had achieved fame as a
+nondenominational masterpiece, lauded by Anglicans and Catholics alike for the sublimity of its theme and the
+splendid “hammer strokes” of its triple rhymes.<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> Crashaw’s translation of 1646, the second in English,<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> takes great liberties with the Latin text,<supplied
+type="spacer"> </supplied><ref target="n6" type="note">6</ref> changing the form and paraphrasing the sense to
+achieve a distinctive sublimity of expression that reappears in Blake’s “The Tyger,” a poem generally
+supposed to be concerned with the same themes of divine wrath and the punishment of sins.<supplied
+type="spacer"> </supplied><ref target="n7" type="note">7</ref>
+                        <note id="n25">
+                            <hi rend="i">Roy J. Pearcy, an Associate Professor of English at the University of
+Oklahoma, has taught at UCLA and the University of Kent in Canterbury. He teaches Chaucer, Chaucer’s
+contemporaries, and History of the English Language, and does research on Chaucer, Old French fabliaux, and
+medieval popula narrative. Articles on these topics have appeared in each journals on these topics have
+appeared in such journals as</hi> The Chaucer Review, Revue belge de philologie et d’histoire, Fabula,
+Romance Notes, <hi rend="i">and</hi> Notes &amp; Queries.</note>
+                        <note id="n1">
+                            <hi rend="s">1</hi> For example, Josephine Miles, <hi rend="i">Eras and Modes in
+English Poetry</hi> (Berkeley: Univ. of California Press, 1957), pp. 48-49; and Morton d. Paley, 
+<hi rend="i">Energy and the Imagination: A Study of the Development of Blake’s Thought</hi> (Oxford: Clarendon,
+1970), p. 104.</note>
+                        <note id="n2">
+                            <hi rend="s">2</hi> Bibliographical details in <hi rend="i">The Poems of Richard
+Crashaw</hi>, ed. L.C. Martin (Oxford: Clarendon, 1957), pp. xliii-1xxxvi. Quotations of Crashaw’s poem are
+from this edition, pp. 298-301. The first allegedly complete edition of Crashaw, Robert Anderson’s 
+<hi rend="i">A Complete Edition of the Poets of Creat Britain</hi> (1793), IV, 707-54, appeared a year after “The
+Tyger” had essentially achieved its finished form.</note>
+                        <note id="n3">
+                            <hi rend="s">3</hi> See Austin Warren, “The Reputation of Crashaw in the
+Seventeenth and Eighteenth Centuries,” <hi rend="i">SP</hi>, 31 (1934), 385-407.</note>
+                        <note id="n4">
+                            <hi rend="s">4</hi> Text of the poem and a commentary on it are given by F. J. E.
+Raby, <hi rend="i">A History of Christian-Latin Poetry</hi> (Oxford: Clarendon, 1927), pp. 443-52. A writer in
+the <hi rend="i">Christan Magazine</hi> of 1760 made the claim that the <hi rend="i">Diee Irae</hi> “savoureth
+more of Protestantism than of Popery.”</note>
+                        <note id="n5">
+                            <hi rend="s">5</hi> The first was made by Joshua Sylvester in 1621.</note>
+                        <note id="n6">
+                            <hi rend="s">6</hi> A stanza by stanza comparison with the Latin original is given
+by Sister Margaret Claydon, <hi rend="i">Richard Crashaw’s Paraphrases of the Vexilla Regis . . . Dies Iras,
+O Gloriosa Domina</hi> (Washington: Catholic Univ. of America Press, 1960), pp. 78-99.</note>
+                        <note id="n7">
+                            <hi rend="s">7</hi> As, for example, in Paley, <hi rend="i">Energy and the
+Imagination</hi>; S. Foster Damon, <hi rend="i">William Blake: His Philosophy and Symbols</hi> (Boston:
+Houghton Mifflin, 1924); Jesse Bier, “A Study of Blake’s ‘The Tyger,’ ” <hi rend="i">Bucknell Univ.
+Studies</hi>, 1 (1949), 35-46; and Hazard Adams, <hi rend="i">William Blake: A Reading of the Shorter
+Poems</hi> (Seattle: Univ. of Washington Press, 1963).</note>
+                    </p>
+                    <p>Crashaw’s treatment of eschatological wrath is not only in verse, but in the same
+quatrains (rhymed <hi rend="i">aabb</hi>) as “The Tyger,” and close scrutiny reveals a still more detailed
+metrical correspondence between the two poems. Both alternate catalectic trochaic tetrameters with iambic
+tetrameters, although there is an 18:6 preponderance of the former in Blake’s poem, a 16:8 preponderance of
+the latter in the first six stanzas of Crashaw’s seventeen-stanza poem. In stanzas 1 and 5 of the “Hymn,”
+which most closely resemble Blake, are found exactly the same patterns of iambic and trochaic lines as in
+stanzas 1, 5, and 6 of “The Tyger”:
+<q>
+II<lb/>
+                            <lb/>
+O that fire! before whose face<lb/>
+Heaun &amp; earth shall find no place.<lb/>
+O those eyes! whose angry light<lb/>
+Must be the day of that dread Night.<lb/>
+                            <lb/>
+V<lb/>
+                            <lb/>
+O that Book! whose leaues so bright<lb/>
+Will sett the world in seuere light.<lb/>
+O that Iudge! whose hand, whose eye<lb/>
+None can indure; yet none can fly. 
+						</q>
+                        <pb id="p07-81" n="81"/>
+Both poets have strong caesural pauses in catalectic lines, although the caesura follows the fourth syllable
+in Blake, the third in Crashaw. Substituting “What the . . . ?” phrases from Blake for “O that . . . !”
+phrases in Crashaw conveniently illuminates the resemblances, and while final meaning is certainly affected by
+one poet’s preference for rhetorical questions over the other’s exclamations, the poems are nevertheless
+alike in their incantatory repetition of the respective figures chosen, and both employ the same cadences to
+evoke a similar sense of religious awe.</p>
+                    <p>This sense is intensified by both poets’ use of similar diction. The word 
+<hi rend="i">dread</hi> occurs three times in each poem, “dread hand,” “dread feet,” and “dread grasp” in Blake,
+“dread Night,” “dread Lord,” and “dread <hi rend="i">Ite</hi>” in Crashaw. Blake’s “deadly terrors” is
+matched by Crashaw’s “Horror of . . . Death,” and the word <hi rend="i">horrid</hi> itself appears as
+“horrid ribs” in an earlier draft of “The Tyger.”<supplied type="spacer"> </supplied><ref target="n8"
+type="note">8</ref>
+                        <note id="n8">
+                            <hi rend="s">8</hi> Texts of the various drafts and a detailed discussion of their
+significance for an understanding of the evolution of the poem may be found in Martin K. Nurmi, “Blake’s
+revisions of <hi rend="i">The Tyger</hi>,” <hi rend="i">PMLA</hi>, 71 (1956), 669-85.</note>
+                    </p>
+                    <p>Josephine Miles has discussed Blake’s use of the imagery of cosmic passion and sense
+impression, designed to evoke a sense of the sublime of terror, and Morton Paley has applied her observations
+specifically to “The Tyger.” Blake’s practice in this regard could be modelled on Crashaw’s in the “Hymn.”
+Blake’s cosmos of “Distant deeps or skies” and star-filled heaven is matched by the “Heaun &amp; earth,” the
+“round [of] the circling sun,” and the “hell . . . beneath” of Crashaw. As Blake’s cosmos is penetrated by
+an immortal hand or eye, and traversed on aspiring wing, so Crashaw’s world on the Day of Judgment, alerted
+by the trump of doom, responds with a universal groan before the inescapable hand and eye of its Judge.
+Crashaw’s depiction of divine wrath, while not achieving anything approaching Blake’s concreteness,
+confronts us with a figure of fire possessed of a “face” and eyes which burn with an “angry light,” closer to
+Blake’s tiger than other manifestations of divine wrath cited to explain this image.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> In Blake the tiger stalks the “forests of the night,” and the
+image of the forest sometimes appears in the Bible in conjunction with visions of divine retribution. In the
+<hi rend="i">Dies Irae</hi> the trump of doom resounds through the <hi rend="i">sepulchra regionem</hi>, which
+Crashaw renders as “the caues of night,” literally the graves of the dead, but perhaps like Blake’s image
+signifying more generally the fallen world. Finally, the most intriguing coincidence of images may be that
+between the reference in the “Hymn” to the moment “When starres themselues shall stagger,” and the reference
+in “The Tyger” to the moment “When the stars threw down their spears.” There is no source in Thomas of Celano
+for Crashaw’s image, an indication that Crashaw’s version is the most promising place to look for any
+possible influence of the <hi rend="i">Dies Irae</hi> on Blake, and if the influence is genuine it suggests
+that the image in Blake may be more conventionally apocalyptic than has generally been supposed. 
+                        <note id="n9">
+                            <hi rend="s">9</hi> Paley, pp. 41-42, cites Biblical examples of divine wrath
+conceived “in images of fire and beasts of prey.” In most instances, however (Mal. 3:2 and Amos 5:6 are
+exceptions), God is not identified with fire but uses it as His means to destroy the world. In Zephaniah
+1:14-18, the source of the opening stanzas of the <hi rend="i">Dies Irae</hi>, there is reference to the
+Lord’s wrath and “the fire of his jealousy.”</note>
+                    </p>
+                    <p>By the late 1700s the <hi rend="i">Dies Irae</hi> was established as the most famous
+short treatment of the subject matter of doomsday, and Crashaw’s English version of the Latin hymn was also
+well-known and much admired. It is therefore quite likely that the “Hymn” would have come to mind when Blake
+was composing “The Tyger,” and since, through its poetic rhythms, diction, and imagery much of the distinctive
+flavor of the “Hymn” is recaptured in “The Tyger,” Crashaw’s poem may indeed have been quite fresh in
+Blake’s memory.</p>
+                    <p>Whatever his literary indebtedness, Blake certainly wrote poetry of a kind to elude
+definitive explication by comparison with other poets’ similar treatments of similar themes. But for the
+purpose of understanding the material transubstantiated in the crucible of his imagination, some note of the
+inferences to be drawn from a recognition of the possible influence of Crashaw’s “Hymn” on “The Tyger” may
+legitimately be offered in conclusion. That Blake subscribed to Jakob Boehme’s doctrine of contraries is
+well known, and often cited to explain certain aspects of the tyger, in whose fearful symmetry are reconciled
+beauty and ferocity, Christ and Yahweh, divine mercy and divine justice. The most significant effect of seeing
+in “The Tyger” reminiscences of the “Hymn” is to focus attention on Blake’s poem as an apocalypse, to fasten
+certain of its activities in time, and to make it a manifestation of divine wrath <hi rend="i">in actu</hi>
+rather than <hi rend="i">in posse.</hi> By combining apocalyptic images with the act of creation conceived as
+the forging of the tiger, Blake has added to the sense of fearful symmetry a sense of fearful simultaneity. In
+God’s (or the visionary poet’s) eternal present, a world created to be destroyed is a world at once
+created <hi rend="i">and</hi> destroyed, the two activities blurring and fusin in the finely appropriate image
+of the smith at his forge. Blake’s poem suggests such a perspective by seeming to speculate on the future
+possibility of creation/destruction (what hand <hi rend="i">could</hi> frame, what hand <hi rend="i">dare</hi>
+seize, what art <hi rend="i">could</hi> twist),<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref> when the stars have already capitulated to chaos and destruction of the not-yet-created
+is complete. This view of time accords with what is elsewhere known of Blake’s imagination. In 
+<hi rend="i">Jerusalem</hi> he says: “I see the Past, Present &amp; Future existing all at once Before me.”
+Crashaw’s “Hymn” helps us, I think, to recognize that imaginative power to fuse time functioning in “The
+Tyger.” 
+                        <note id="n10">
+                            <hi rend="s">10</hi> The tense and mood of <hi rend="i">dare</hi> is already a
+vexed question. See Fred C. Robinson, “Verb Tense in Blake’s ‘The Tyger,’ ” <hi rend="i">PMLA</hi>, 79
+(1964), 666-69; and John E. Grant and Fred C. Robinson, “Tense and the Sense of Blake’s ‘The Tyger,’ ”
+<hi rend="i">PMLA</hi>, 81 (1966), 596-603.</note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

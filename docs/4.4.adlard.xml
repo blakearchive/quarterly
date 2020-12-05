@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.adlard</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">The Garden of Love</title>
+                <author n="Adlard">John Adlard</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+	<pb id="p04-147" n="147"/>
+            <div1 id="BQ-04-4-0006">
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">JOHN</hi>
+                            <name>
+                                <hi rend="i">ADLARD</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">HIGHBRIDGE, SOMERSET</hi>
+                    </byline>
+                    <head>
+                        <title type="main">“The Garden of Love”</title>
+                    </head>
+					<q>
+And I saw it was filled with graves,<lb/>
+And tomb-stones where flowers should be;<lb/>
+And Priests in black gowns were walking their rounds,<lb/>
+And binding with briars my joys and desires.
+</q>
+                    <p>Most writers on Blake appear to find the stanza too simple to need much comment, but R.
+B. Kennedy, editing for Collins’ Annotated Student Texts, remarks: “The joys and desires seem almost
+personified as children.”</p>
+                    <p>This suggests that few, if any, readers know that binding with briars was to be seen in
+graveyards in Blake’s day and up till Victorian times. A writer in <hi rend="i">Notes and</hi>
+                        <pb id="p04-148" n="148"/>
+                        <hi rend="i">Queries</hi>, 20 August 1932, mentioned “the binding of briers round and
+over the turfs (or turves) of graves to keep them in position . . . .” He had noticed them on Charles Lamb’s
+grave. On August 6 of that year another correspondent had quoted Chatterton’s “Song from AElla”:
+<q>
+With my hands I’ll dent the briers<lb/>
+Round his holy corse to gre.
+</q>
+Thus the buried “joys and desires” were <hi rend="i">literally</hi> bound with briars. Indeed, at the foot of
+the plate a grave is shown briar-bound, but this seems to have been taken as purely symbolical.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

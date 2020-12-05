@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.1.davies</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake in the Times Digital Archive</title>
+        <author n="Davies">Keri Davies</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.1</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Magnus Ankarsjö</name>
+              <name>Keri Davies</name>
+              <name>Angus Whitehead</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+	<pb id="p41-45" n="45"/>
+      <div1 id="BQ-41-1-0008">
+        <head>
+          <title type="section">MINUTE PARTICULARS</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake in the <hi rend="i">Times Digital Archive</hi></title>
+          </head>
+          <byline>By <docAuthor>Keri <name>Davies</name></docAuthor></byline>
+          <p>According to G. E. Bentley, Jr., relying, one presumes, on the printed volumes of Palmer’s 
+<hi rend="i">Index to the Times</hi>, “no account of Blake in <hi rend="i">The Times</hi> [London] is known
+before 1901.”<supplied type="spacer"> </supplied><ref target="n50" type="note">1</ref> However, since late
+2003, the online <hi rend="i">Times Digital Archive, 1785-1985</hi> has not only incorporated every page of
+every issue of the <hi rend="i">Times</hi> newspaper from 1785 to 1985, but has made available the means to
+search its full text.<supplied type="spacer"> </supplied><ref target="n51" type="note">2</ref> The 
+<hi rend="i">Times Digital Archive</hi> uses character recognition software to read a sequence of digitized images
+of the actual pages of the newspaper (including graphics and pictures). <note id="n50">1. G. E. Bentley, Jr.,
+<hi rend="i">Blake Records</hi>, 2nd ed. (New Haven: Yale University Press, 2004) 717fn. Palmer’s 
+<hi rend="i">Index</hi> is now conveniently available as <hi rend="i">Palmer’s Index to the Times, 1790-1905, on
+CD-ROM</hi>, 2nd ed. (Cambridge: Chadwyck-Healey, 1995) or as an online resource
+&lt;http://historynews.chadwyck.com&gt;.</note>
+	<note id="n51">2. For further information, go to &lt;http://www.galegroup.com/Times/index.htm&gt;.</note></p>
+          <p>For the first time, users of the <hi rend="i">Times Digital Archive</hi> are able to search not
+just for home and international news, but can scan City pages, court pages, law reports, letters to the
+editor, book and theatre reviews, display and classified advertising, obituaries, and much material ignored by
+Palmer’s <hi rend="i">Index.</hi> (There is one small caveat. As users of similar online sources such as 
+<hi rend="i">EEBO</hi> and <hi rend="i">ECCO</hi> will be aware, the search software does generate a small
+percentage of misreadings and failed readings.)<supplied type="spacer"> </supplied><ref target="n52"
+type="note">3</ref>
+	<note id="n52">3. <hi rend="i">EEBO: Early English Books Online</hi> &lt;http://eebo.chadwyck.com&gt;; 
+<hi rend="i">ECCO: Eighteenth Century Collections Online</hi>
+&lt;http://www.gale.com/EighteenthCentury&gt;.</note></p>
+          <p>The <hi rend="i">Times Digital Archive</hi> makes newly possible an extensive search for
+references to William Blake (and his friends and acquaintances), whether these references appear in news
+items, advertisements, book reviews, or in any other apparently irrelevant pages of the newspaper. I leave it
+to others to explore all 56,317 references to “blake” in the full <hi rend="i">Archive</hi>, but by
+restricting one’s search by date (for example, to the years before the publication of Gilchrist’s 
+<hi rend="i">Life of William Blake</hi> in 1863), and by utilizing Boolean combinations of keywords such as
+“blake AND engraver,” it becomes possible to reduce the number of references to be checked to manageable
+proportions.</p>
+          <p>It was, in fact, use of the search string “blake the engraver” that led me to a 
+<hi rend="i">Times</hi> article that showed early knowledge of Blake’s spiritualist drawings—the Visionary
+Heads—and that, remarkably for the time, rejected the view that these were evidence of Blake’s
+madness.<supplied type="spacer"> </supplied><ref target="n53" type="note">4</ref> The <hi rend="i">Times</hi>
+for 3 January 1829, I found, included a lengthy review, spread over two columns, of “<hi rend="i">LODGE’S
+PORTRAITS AND MEMOIRS.</hi> | FURTHER NOTICE.”, of no obvious connection to Blake, but incorporating a Blake
+reference that a twenty-first-century researcher could only have located with the aid of the 
+<hi rend="i">Times Digital Archive.</hi><supplied type="spacer"> </supplied><ref target="n54" type="note">5</ref>
+	<note id="n53">4. G. E. Bentley, Jr., <hi rend="i">The Stranger from Paradise: A Biography of William
+Blake</hi> (New Haven: Yale University Press, 2001): “After 1820, most accounts of Blake refer to his
+Visionary Heads either as evidence of his madness or as something to be explained away” (379).</note>
+	<note id="n54">5. <hi rend="i">Times</hi> 3 January 1829 (issue 13793): 4, col. A.</note></p>
+          <p>Edmund Lodge (1756-1839), Clarenceux King of Arms, began issuing his <hi rend="i">Portraits of
+Illustrious Personages of Great Britain</hi> in 1814. It was completed in 1834 in 40 folio parts.<supplied
+type="spacer"> </supplied><ref target="n55" type="note">6</ref> The parts already completed were reissued in
+12 volumes, quarto, in 1823. The <hi rend="i">Times</hi> reviewer, however, is concerned with the “Cabinet
+edition,” published by William Smith in 6 volumes, octavo, in 1828. The review opens conventionally enough:
+<pb id="p41-46" n="46"/>
+	<q>
+This magnificent work, which has hitherto been confined, owing to its size and costliness, to the libraries of
+persons of opulence, has just made its appearance in a form and at a price which place it within the reach of
+the most moderate means.
+</q>
+The reviewer goes on to commend the value of biography:
+<q>
+We are desirous of knowing the particulars of the domestic lives, the personal habits, and daily customs of
+men whose names are as familiar in our mouths as household words, and of whom, although they had become dust
+before we drew breath, we have as distinct and individual a notion as if we had personally talked with them.
+Biographical history satisfies this natural craving; separates the man from the events which he controlled or
+was controlled by, and holds his character up to an exclusive consideration. The lesson which his life teaches
+is then felt in its full force; it comes home to the business and bosoms of men, because every human being
+perceives that the same impulses that have governed the actions of the object of his contemplation, throb in
+his own heart, and influence his own conduct; and he learns, by a practical example, whether their issues are
+of good or of evil.
+</q>
+He adds:
+<q>
+Closely associated with the desire of knowing the exclusive history of such personages, is the wish to be
+acquainted with their external appearance, and the fashion of the human form they wore. Nothing is more
+natural than to covet the power of calling them up<lb/>
+“In their shapes and state majestical,<lb/>
+“That we may wonder at their excellence,”<lb/>
+and verify or correct the images which fancy has formed by the true copy which the art that confers
+immortality has preserved of them.
+</q>
+The quotation is from Christopher Marlowe, <hi rend="i">Doctor Faustus</hi>, act 4, scene 2, in which Faustus
+and Mephistophilis conjure up the shade of Alexander the Great for the German emperor. <note id="n55">6. Lucy
+Peltz, “Lodge, Edmund (1756-1839),” <hi rend="i">Oxford Dictionary of National Biography</hi> (Oxford:
+Oxford University Press, 2004).</note></p>
+          <p>We then get the following comment on Blake:
+<q>
+The late Mr. Blake, the engraver, whose genius was subject to a kind of morbid excitement, was so possessed
+with this notion, that he had contracted a belief that he could, almost at will, bring before his actual
+physical eyesight the forms of the great men of this and other countries, whose existence he could only know
+by means of history. Under this delusion, which, however, was of no kin to madness, and could not have
+happened to any but a person of exalted imagination, he had frequent interviews with his distinguished buried
+acquaintance, and used to relate his imaginary conversations with them in perfect conviction of their truth
+and reality.
+</q></p>
+          <p>This review appeared during the editorship of Thomas Barnes (1785-1841), whose view was that
+anonymous journalism, subordinating the personality of the journalist, “was the only kind that would be read
+seriously.”<supplied type="spacer"> </supplied><ref target="n56" type="note">7</ref> The anonymous reviewer
+(and, of course one would still like to know his identity) gives us a much more sober account than Dibdin’s
+nonsense about Blake “shaking hands with Homer.”<supplied type="spacer"> </supplied><ref target="n57"
+type="note">8</ref> The <hi rend="i">Times</hi> persisted with anonymous reporting as late as January 1967,
+when the first staff bylines appeared. In this review, it is the <hi rend="i">Times</hi> that, corporately, is
+expressing a view of Blake that is surprisingly friendly and well disposed. It is assumed that the 
+<hi rend="i">Times</hi> readership will know, at least vaguely, of “Mr. Blake, the engraver,” and perhaps of
+the imputation of madness, which is then denied, admitting no more than that his “genius was subject to a
+kind of morbid excitement.” By way of comparison, the search string “keats the poet” calls up a death
+notice in 1821, but nothing equivalent to the Blake comment until a concert review in 1868.<supplied
+type="spacer"> </supplied><ref target="n58" type="note">9</ref> What the article thus suggests is that Blake
+was part of what the average reader of the <hi rend="i">Times</hi> was expected to know about without
+explanation, that he was by no means <hi rend="i">pictor ignotus</hi>, at least for the reviewer and his
+editor. Moreover, all this precedes Allan Cunningham’s account of Blake in the second volume of his 
+<hi rend="i">Lives of the Most Eminent British Painters, Sculptors, and Architects</hi> in 1830.<supplied
+type="spacer"> </supplied><ref target="n59" type="note">10</ref> It raises some interesting questions about
+public acquaintanceship with Blake’s work in the years immediately following his death in 1827. 
+<note id="n56">7. Gordon Phillips, “Barnes, Thomas (1785-1841),” <hi rend="i">Oxford Dictionary of National
+Biography</hi> (Oxford: Oxford University Press, 2004).</note>
+	<note id="n57">8. Thomas Frognall Dibdin, <hi rend="i">The Library Companion, or, The Young Man’s Guide and
+the Old Man’s Comfort in the Choice of a Library</hi>, 2 vols. (London: Printed for Harding, Triphook and
+Lepard, 1824) 2: 334.</note>
+	<note id="n58">
+                            9. <hi rend="i">Times</hi> 23 March 1821 (issue 11201): 3, col. F “Deaths”; 5
+October 1868 (issue 26247): 10, col. E “Crystal Palace Concert.”
+                            <p>Sarah Jones tells me that the search string “john keats” retrieves an 1848
+<hi rend="i">Times</hi> reference to Monckton Milnes’s biography of Keats. I would suggest that this further
+bears out my argument; the Blake reference is both early (within a few months of his death) and is in a
+casual, almost irrelevant context. Knowledge of “Blake the engraver” is part of the common currency of the
+well-educated <hi rend="i">Times</hi> reader.</p></note>
+	<note id="n59">10. Allan Cunningham, <hi rend="i">Lives of the Most Eminent British Painters, Sculptors, and
+Architects</hi>, vol. 2 (London: John Murray, 1830) 140-79.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

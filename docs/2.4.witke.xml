@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.witke</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Suggested textual emendation to Jerusalem, 43:28</title>
+				<author n="Witke">Joanne Witke</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0004">
+                <pb id="p02-68" n="68"/>
+                <div2>
+                    <div3>
+                        <p>Suggested textual emendation to <hi rend="i">Jerusalem</hi>, 43:28, Erdman (29
+Keynes): “locks” to read “rocks”, on grounds both of consistency and of meaning. The text has established
+previously that Albion personifies a land, and the physical characteristics with which he is associated are
+fundamentally architectural and geographical, e.g., “the ancient porches of Albion are/ Darken’d! . . .
+Albions mountains run with blood . . . every Human perfection/Of mountain &amp; river &amp; city, are small
+&amp; wither’d &amp; darken’d” (5: 1-8). Moreover, 43:2 sets the scene amidst “Albions dark rocks,” and a
+sudden shift to “locks” seems not only improbable but also Inappropriate in that context.</p>
+                        <byline>
+                            <docAuthor>Joanne <name>Witke</name>
+                            </docAuthor>, Graduate Student University of California Berkeley</byline>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

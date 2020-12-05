@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-31" n="31"/>
+            <div1 id="cover">
+                <figure n="cover.004.02.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>BLAKE NEWSLETTER<lb/>
+                        Volume 4<lb/>
+                    Number 2<lb/>
+                    Whole Number 14<lb/>
+                    Fall 1970<lb/>
+                    NEWS AND WORKS IN PROGRESS<lb/>
+                    The Newsletter and the University of New Mexico, Recent<lb/>
+                    Publications, The American Blake Foundation, Teaching<lb/>
+                    Blake, Works in Progress, The de Young Museum and<lb/>
+                    <hi rend="i">The Complaint of Job</hi><lb/>
+                        33<lb/>
+                        NOTES<lb/>
+                        David Bindman, An Unpublished Blake Pencil Drawing<lb/>
+                        of the Lambeth Period<lb/>
+                        39<lb/>
+                        Michael Phillips, Blake’s Corrections in <hi rend="i">Poetical Sketches</hi><lb/>
+                        40<lb/>
+                        REVIEW<lb/>
+                        E. J. Rose, on the second edition of David Erdman’s<lb/>
+                        <hi rend="i">Blake: Prophet Against Empire</hi><lb/>
+                        48<lb/>
+                        QUERIES<lb/>
+                        W. H. Stevenson, Death’s Door<lb/>
+                        49<lb/>
+                        Ruthven Todd, Blake’s Copy of Dante<lb/>
+                        49<lb/>
+                        A CHECKLIST OF BLAKE SCHOLARSHIP/JUNE<lb/>
+                        1969-SEPTEMBER 1970<lb/>
+                        51<lb/>
+                        Copyright © 1970 by Morton D. Paley and Morris Eaves</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-04-2-0001">
+                <table id="contents" rows="12" cols="2">
+                    <row>
+                    	<cell colspan="2">
+			                <head>
+			                    <title>
+			                        <hi rend="u">CONTENTS</hi>
+			                    </title>
+			                </head>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NEWS AND WORKS IN PROGRESS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.2.news">The Newsletter and the University of New
+Mexico</ref>
+                        </cell>
+                        <cell>33</cell>
+                    </row>    
+                    <row>
+                        <cell><supplied type="emend">Arnold Fawcus,</supplied> 
+<ref type="article" issue="4.2.fawcus">Recent Publications</ref> 
+                        </cell>
+                       <cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">Roger and Kay Easson,</supplied> 
+<ref type="article" issue="4.2.easson">The American Blake Foundation</ref>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">David Erdman,</supplied> 
+<ref type="article" issue="4.2.erdman">Teaching Blake</ref> 
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.2.progress">Works in Progress</ref>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend"><ref type="article" issue="4.2.correction">A Correction</ref></supplied>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.2.complaint">The de Young Museum and 
+<hi rend="i">The Complaint of Job</hi></ref>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NOTES</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>David Bindman, <ref type="article" issue="4.2.bindman">An Unpublished Blake
+Pencil Drawing of the Lambeth Period</ref></cell>
+                        <cell>39</cell>
+                    </row>
+                    <row>
+                        <cell>Michael Phillips, <ref type="article" issue="4.2.phillips">Blake’s Corrections
+in <hi rend="i">Poetical Sketches</hi></ref>
+                        </cell>
+                        <cell>40</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">REVIEW</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>E. J. Rose, <ref type="article" issue="4.2.rose">on the second edition of David
+Erdman’s <hi rend="i">Blake: Prophet Against Empire</hi></ref>
+                        </cell>
+                        <cell>48</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">QUERIES</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>W. H. Stevenson, <ref type="article" issue="4.2.stevenson">Death’s
+Door</ref></cell>
+                        <cell>49</cell>
+                    </row>
+                    <row>
+                        <cell>Ruthven Todd, <ref type="article" issue="4.2.todd">Blake’s Copy of
+Dante</ref></cell>
+                        <cell>49</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.2.checklist"><hi rend="b">A CHECKLIST OF BLAKE
+SCHOLARSHIP/JUNE 1969-SEPTEMBER 1970</hi></ref>
+                        </cell>
+                        <cell>51</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright © 1970 by Morton D. Paley and Morris
+Eaves</note>
+            </div1>
+            <pb id="p04-32" n="32"/>
+            <div1 id="BQ-04-2-0002">
+                <head>
+                    <title>The <hi rend="i">BLAKE NEWSLETTER</hi> is published quarterly under the sponsorship
+of the Department of English of the University of New Mexico.</title>
+                </head>
+                <p>Morton D. Paley, Executive Editor<lb/>
+				<hi rend="i">University of California, Berkeley</hi>
+                </p>
+                <p>Morris Eaves, Managing Editor<lb/>
+				<hi rend="i">University of New Mexico</hi>
+                </p>
+                <p>Donald D. Ault, Associate Editor<lb/>
+				<hi rend="i">University of California, Berkeley</hi>
+                </p>
+                <p>Michael Phillips, Associate Editor<lb/>
+				<hi rend="i">University of Edinburgh</hi>
+                </p>
+                <p>
+                    <hi rend="i">MANUSCRIPTS</hi> are welcome. They should be typed and documented according
+to the forms recommended in the <hi rend="i">MLA Style Sheet</hi>, 2nd ed., rev. (1970). Send two copies with
+a stamped, self-addressed envelope either to Morton D. Paley, Executive Editor, <hi rend="i">Blake
+Newsletter</hi>, Department of English, University of California, Berkeley, California 94720, or to Morris
+Eaves, Managing Editor, <hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico,
+Albuquerque, New Mexico 87106.</p>
+                <p>
+                    <hi rend="i">SUBSCRIPTIONS</hi> are $3.00 for one year; invoiced, $4.00; overseas by air,
+$4.00 (U. S. currency if possible). Make checks or open, uncrossed money orders payable to the 
+<hi rend="i">Blake Newsletter.</hi> Address all subscription orders and related communications to Morris Eaves,
+Managing Editor, <hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico,
+Albuquerque, New Mexico 87106. <note type="unreferenced" place="footer">
+                        <hi rend="i">The cover reproduces number 256 in Blake’s series of water-colors for
+Edward Young’s <hi rend="u">Night Thoughts.</hi> Reproduced by permission of the Trustees of the British
+Museum.</hi>
+                    </note>
+                </p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

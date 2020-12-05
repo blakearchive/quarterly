@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <front>
+            <pb id="p03-73" n="73-74"/>
+            <div1 id="cover">
+                <figure n="cover.003.04.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>Blake Newsletter<lb/>
+                        <hi rend="u">EDITOR</hi><lb/>
+                        <hi rend="u">ASSOCIATE EDITORS</hi><lb/>
+                        <hi rend="u">EDITORIAL ASSISTANT</hi><lb/>
+                        Morton D. Paley<lb/>
+                        Donald D. Ault<lb/>
+                        Patricia Pelfrey<lb/>
+                        Andrew Griffin<lb/>
+                        Volume III, No. 4<lb/>
+                        Whole #12<lb/>
+                        May, 1970<lb/>
+                        <hi rend="u">NEWSLETTER BUSINESS</hi><lb/>
+                        Morton D. Paley will be at his London address (24, West Heath<lb/>
+                        Drive/ N.W. 11) until June 1.  From June 29 until August 5, his address<lb/>
+                        will be: c/o Dept. of English/ SUNY/ Buffalo, New York.  Readers wish-<lb/>
+                        ing to write to him might note these two addresses.  As of September 1,<lb/>
+                        his address will again be c/o the English Dept., University of<lb/>
+                        California, Berkeley, California 94720.<lb/>
+                        This issue contains the first list of “Works in Progress” on<lb/>
+                        Blake, as well as a substantial supplement consisting of the remaining<lb/>
+                        entries of Robert Essick’s “Finding List.”  We hope that readers will<lb/>
+                        find both of these useful in guiding their own and their students’<lb/>
+                        research.  In honor of the Wordsworth Centennial, we are including<lb/>
+                        articles on Blake and Wordsworth in this issue.<lb/>
+                        Our thanks again to all our contributors and subscribers, whose<lb/>
+                        support makes the continued existence of the <hi rend="u">Blake Newsletter</hi>
+possible.<lb/>
+                        <hi rend="u">CONTENTS</hi><lb/>
+                        News<lb/>
+                        74<lb/>
+                        Notes<lb/>
+                        “Blake, Wordsworth, Lamb, Etc.: Further Information<lb/>
+                        from Henry Crabb Robinson” by Mark Reed;  “Wordsworth’s<lb/>
+                        76-89<lb/>
+                        First Acquaintance with Blake’s Poetry” by Paul Betz.<lb/>
+                        Minute Particulars<lb/>
+                        “Blake Items in the Library of Isaac Reed” by Thomas<lb/>
+                        89-90<lb/>
+                        L. Minnick; “Blake and Tradition” by Kathleen Raine.<lb/>
+                        Reviews<lb/>
+                        G. E. Bentley Jr.’s <hi rend="u">Blake Records</hi> by Morton Paley;<lb/>
+                        90<lb/>
+                        Deborah Dorfman’s <hi rend="u">Blake and Tradition</hi> by Irene Chayes<lb/>
+                        The BLAKE NEWSLETTER, Department of English, University of California,<lb/>
+                        Berkeley, California, 94720. Subscription price:  $2.00 for one year;<lb/>
+                        overseas subscribers who wish air delivery, please add one dollar.<lb/>
+                        Please make checks or money orders payable to the Blake Newsletter and<lb/>
+                        send to the Associate Editors in Berkeley.  Residents of Britain may pay<lb/>
+                        by Postal Money Order for 16/9 (1 10s by air) if the money order is 
+<hi rend="u">open</hi><lb/>
+                        and <hi rend="u">uncrossed</hi>.<lb/>
+                        Copyright © 1970 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-03-4-0003">
+                <table id="contents" rows="8" cols="4">
+                    <row>
+                        <cell colspan="3">
+							<head>
+								<title>
+									<hi rend="u">CONTENTS</hi>
+								</title>
+							</head>
+						</cell>
+                    </row>
+                    <row>
+                        <cell>News</cell>
+                        <cell><supplied type="emend">“<ref type="article" issue="3.4.publications">Recent
+Publications</ref>”</supplied></cell>
+                        <cell>74</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend">“<ref type="article" issue="3.4.catalogues">Three
+Catalogues</ref>”</supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend">“<ref type="article" issue="3.4.periodicals">Blake and
+Calvert’s illustrations sold, Newsom on Blake and Shaw, Bentley publishes unknown Blake
+engravings</ref>”</supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend">“<ref type="article" issue="3.4.news"><hi rend="u">The
+Wordsworth Circle</hi>, intended Fitzwilliam Museum catalogue, <hi rend="u">Job</hi> ballet, Blake
+graffiti</ref>”</supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Notes</cell>
+                        <cell>“<ref type="article" issue="3.4.reed">Blake, Wordsworth, Lamb, Etc.: Further
+Information from Henry Crabb Robinson</ref>”<lb/>
+						by Mark Reed</cell>
+                        <cell>76-89</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>“<ref type="article" issue="3.4.betz">Wordsworth’s First Acquaintance with
+Blake’s Poetry</ref>”<lb/>
+						by Paul Betz.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Minute Particulars</cell>
+                        <cell>“<ref type="article" issue="3.4.minnick">Blake Items in the Library of Isaac
+Reed</ref>”<lb/>
+						by Thomas L. Minnick</cell>
+                        <cell>89-90</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>“<ref type="article" issue="3.4.raine">Blake and Tradition</ref>”<lb/>
+						by Kathleen Raine.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Reviews</cell>
+                        <cell><ref type="article" issue="3.4.paley">G. E. Bentley Jr.’s <hi rend="u">Blake
+Records</hi></ref><lb/>
+						by Morton Paley</cell>
+                        <cell>90</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><corr type="emend"><ref type="article" issue="3.4.chayes">Deborah Dorfman’s
+<hi rend="u">Blake in the Nineteenth Century</hi></ref></corr><lb/>
+						by Irene Chayes<gap type="emend"/></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Discussion</cell>
+                        <cell>“<ref type="article" issue="3.4.johnson">The Devil’s Syntax and the
+O.E.D.</ref>”<lb/>
+						by Mary Lynn Johnson</cell>
+                        <cell>94-105</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>“<ref type="article" issue="3.4.grant">Discussing the Arlington Court Picture:
+Part I</ref>”<lb/>
+						by John E. Grant.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Queries</cell>
+                        <cell><supplied type="emend">1. “<ref type="article" issue="3.4.erdman">Flaxman and
+Blake on Wordsworth’s ‘Jehovah... I pass... unalarmed’</ref>”<lb/>
+						by David V. Erdman</supplied></cell>
+                        <cell>105</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend">2. “<ref type="article" issue="3.4.preston">Pronouncing
+Blake’s invented names</ref>”<lb/>
+						by Kerrison Preston</supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="3.4.works">Works in Progress</ref></cell>
+                        <cell/>
+                        <cell>106-110</cell>
+                    </row>
+                </table>
+			</div1>
+            <div1 id="BQ-03-4-0001">
+				<corr type="emend" rend="plain">
+					<table rows="3" cols="3">
+						<row>
+							<cell>
+								<hi rend="u">EDITOR</hi>
+							</cell>
+							<cell>
+								<hi rend="u">ASSOCIATE EDITORS</hi>
+							</cell>
+							<cell>
+								<hi rend="u">EDITORIAL ASSISTANT</hi>
+							</cell>
+						</row>
+						<row>
+							<cell>Morton D. Paley</cell>
+							<cell>Donald D. Ault</cell>
+							<cell>Patricia Pelfrey</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>Andrew Griffin</cell>
+							<cell/>
+						</row>
+					</table>
+				</corr>
+            </div1>
+            <div1 id="BQ-03-4-0002">
+				<corr type="emend" rend="plain">
+					<head>
+						<title>
+							<hi rend="u">NEWSLETTER BUSINESS</hi>
+						</title>
+					</head>
+					<p>Morton D. Paley will be at his London address (24, West Heath Drive/ N.W. 11) until June 1. From June
+29 until August 5, his address will be: c/o Dept. of English/ SUNY/ Buffalo, New York. Readers wishing to
+write to him might note these two addresses. As of September 1, his address will again be c/o the English
+Dept., University of California, Berkeley, California 94720.</p>
+					<p>This issue contains the first list of “Works in Progress” on Blake, as well as a substantial
+supplement consisting of the remaining entries of Robert Essick’s “Finding List.” We hope that readers will
+find both of these useful in guiding their own and their students’ research. In honor of the Wordsworth
+Centennial, we are including articles on Blake and Wordsworth in this issue.</p>
+					<p><corr type="emend">Our thanks again to all our contributors and subscribers, whose support makes the
+continued existence of the <hi rend="u">Blake Newsletter</hi> possible.</corr></p>
+				</corr>
+            </div1>
+			<div1>
+				<corr type="emend" rend="plain">
+					<note type="unreferenced" place="footer">The BLAKE NEWSLETTER, Department of English, University of
+California, Berkeley, California, 94720. Subscription price: $2.00 for one year; overseas subscribers who wish
+air delivery, please add one dollar. Please make checks or money orders payable to the Blake Newsletter and
+send to the Associate Editors in Berkeley. Residents of Britain may pay by Postal Money Order for 16/9 (1 10s
+by air) if the money order is <hi rend="u">open</hi> and <hi rend="u">uncrossed.</hi>
+					</note>
+					<note type="unreferenced" place="footer"><corr type="emend">Copyright © 1970 by Morton D.
+Paley</corr></note>
+				</corr>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

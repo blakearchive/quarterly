@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.4.subscription</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Subscription Rates Going Up</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.4</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants in charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Robin Tawney</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>V.A. De Luca</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Gu Jing-Yu</name>
+              <name>Anne Maheux</name>
+              <name>Paul Mann</name>
+              <name>Judith Ott</name>
+              <name>Joan Koster Stemmler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <pb id="p17-175" n="175"/>
+      <div1 id="BQ-17-4-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">BLAKE <hi rend="i">SUBSCRIPTION RATES GOING UP!!</hi></title>
+          </head>
+          <p>Starting with Vol. 18, subscription rates for <hi rend="i">Blake / An Illustrated Quarterly</hi>
+will be as follows:
+<q>
+individuals: $15.00 / year<lb/>
+institutions: $18.00 / year
+</q>
+In addition we will be adding a $3.00 postal surcharge to all foreign addresses (not including Canada).
+Foreign subscribers requesting airmail delivery will be required to pay a $10.00 postal surcharge.</p>
+          <p>The new rates will be reflected on the invoices for renewal which we espect to mail around May
+1.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

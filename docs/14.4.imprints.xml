@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.4.imprints</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Joseph Johnson’s Imprints</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.4</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Pam Blair</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Rodney M. Baine</name>
+              <name>David Bindman</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Fischer</name>
+              <name>Thomas R. Frosch</name>
+              <name>Erik Frykman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>William Vaughan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <div1 id="BQ-14-4-0011">
+		<pb id="p14-231" n="231"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">JOSEPH JOHNSON’S IMPRINTS</hi>
+            </title>
+          </head>
+          <p>In his review of G. P. Tyson’s book on Joseph Johnson G. E. Bentley
+                        noted that the publication of a list of Johnson’s imprints would be
+                        of value to Blake Scholars.</p>
+          <p>Readers may be interested in knowing that such a list has been completed by
+                        Leslie F. Chard, Professor of English at the University of Cincinnati.
+                        Professor Chard describes the list as follows. The list contains over 2800
+                        imprints (4800 separate entries when counting multiple editions) by some
+                        1100 authors. Many of these imprints and authors probably influenced Blake;
+                        many of course are already known to have done so. More broadly, the list
+                        will help us understand more clearly the intellectual climate in which Blake
+                        worked.</p>
+          <p>The list has also been computer analyzed, so that students of the book trade
+                        in Blake’s time can learn a good deal of firm information about the
+                        intricacies of publishing. This, too, should shed some light on Blake,
+                        notably in his dealings with publishers as an engraver.</p>
+          <p>If any of the readers of <hi rend="i">Blake</hi> would like to make
+                        preliminary inquiries about the contents of the list before it is published,
+                        Professor Chard would be happy to assist them.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

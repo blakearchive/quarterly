@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.rosenfeld</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">A Yiddish Poem on Blake</title>
+				<author n="Rosenfeld">Alvin Rosenfeld</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-9" n="9"/>
+            <div1 id="BQ-02-1-0004">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NOTES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. A Yiddish Poem on Blake</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Alvin <name>Rosenfeld</name>
+                        </docAuthor> University of Indiana</byline>
+                    <p>The frequency with which one encounters references to Blake in the poetry and prose
+fiction of the twentieth century attests to the popularity and influence that Blake has enjoyed not only among
+contemporary readers but contemporary writers as well. D. H. Lawrence, T.S. Eliot, Hart Crane, Joyce Cary,
+Saul Bellow, Theodore Roethke, Allen Ginsberg, Henry Miller, Irving Layton—these are only a few in a much
+larger circle of writers who have invoked Blake in their own works. I should like to broaden that circle here,
+if only a bit, by calling attention to a generally unknown poem on Blake by an American Yiddish poet, Reuben
+Iceland (Eisland, 1884-1953).</p>
+                    <p>Iceland was one of “Di Yunge,” a loose organization of poets, playwrights, and
+novelists that flourished in America in the years between 1907 and 1925 or so. The group has been
+characterized by Ruth Whitman, who recently translated into English a number of their poems (see her Anthology
+of Modern Yiddish Poetry, 1966), as being “young in years, wildly energetic, fearlessly imaginative.<supplied
+type="emend">”</supplied> One can imagine the appeal to such writers of someone like Blake, and it is not
+surprising to find him taken up enthusiastically by at least one of them, namely Reuben Iceland.</p>
+                    <p>Iceland’s poem, a brief but high-spirited apostrophe entitled simply “William 
+<corr type="emend">Blake,”</corr> was included in <hi rend="u">Fun Mein Zumer</hi> (“From My Summer”), a collection
+of the poet’s work that appeared in 1922. The poem is offered below, in transliteration and English
+translation.</p>
+                    <div3>
+                        <head>
+                            <title>William Blake</title>
+                        </head>
+						<q>
+Teyriel! teyriel! beyzer krieger un farachter.<lb/>
+Du, farehrter un farlachter,<lb/>
+Nichterer in shikrus, heyliger in zind,<lb/>
+Du, eybig kind,<lb/>
+Mit oigen fun a zeher,<lb/>
+Negel fun a kats un fligel fun an adler.<lb/>
+                            <lb/>
+—<lb/>
+                            <lb/>
+Dear one! dear one! mad fighter and renegade.<lb/>
+You, honored and ridiculed,<lb/>
+Sober in drunkenness, a saint in sin,<lb/>
+You, eternal child,<lb/>
+With the eyes of a seer,<lb/>
+Nails of a cat and wings of an eagle.
+</q>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

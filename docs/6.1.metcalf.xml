@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.metcalf</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Reason and Urizen: The Pronunciation of Blakean Names</title>
+                <author n="Metcalf">Francis Wood Metcalf</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+	<pb id="p06-17" n="17"/>
+            <div1 id="BQ-06-1-0003">
+                    <head>
+                        <title type="main">REASON AND “URIZEN”: THE PRONUNCIATION OF BLAKEAN NAMES</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Francis Wood <name>Metcalf</name>
+                        </docAuthor>
+                    <ref target="n58" type="note">*</ref></byline>
+                    <p>The suggestions put forward by Kerrison Preston concerning the pronunciation of
+Blake’s invented names (<hi rend="i">Blake Newsletter</hi>, 3 [May 1970], 106) are useful for spurring
+discussion of this vexing subject, but are in some cases difficult to assess. There probably is no way to 
+<hi rend="i">test</hi> the pronunciation of “Los,” “Luvah,” and “Vala,” and a number of other names, because the
+question is one of vowel-quality, not placement of accent. Where stressing is the issue, as in “Urizen” and
+“Ololon,” the name can be checked against the metrical contexts in which it occurs (see below). But since no
+such technique exists for testing vowels, we may eternally muddle along with hunches based on word-echoes,
+philosophical associations, and phonological probability. There surely is substance for debate on these
+grounds, but nothing like the hard evidence provided by metrics in the matter of accent.</p>
+                    <p>The great bone of accentual contention, more often stubbornly mouthed at both ends than
+fought for with intellectual spears, is the name “Urizen.” At either end are <hi rend="i">YUR</hi> / I / ZEN
+and YU / <hi rend="i">REE</hi> / ZEN (or, alternatively, UR / <hi rend="i">AYE</hi> / ZEN). Doubtless there
+are other variants, but these seem to be the main ones. The question may be put: is “Urizen” correctly
+pronounced with the primary stress on the first or the second syllable? The aim of the following is to settle
+this question by means of a method which will, I hope, also be helpful with regard to other names. The
+conclusion—that Blake pronounced “Urizen” with a primary stress on the first syllable—is not intended to
+inflict One Law, but only to demonstrate Blake’s practice.</p>
+                    <p>Fortunately for our purpose, Blake adhered to a rather strict iambic heptameter scheme
+in <hi rend="i">Visions of the Daughters of Albion, America</hi>, and <hi rend="i">Europe.</hi> These poems
+not only provide a common, and firm, metrical context (as <hi rend="i">The Book of Urizen</hi> does not) they
+also contain the first ten appearances of “Urizen,” fresh as it were from Blake’s forehead:</p>
+<p>
+<q>
+<corr type="emend">
+1. O<metSym value="-"/> U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n! Cr<metSym
+value="-"/>ea<metSym value="+"/>to<metSym value="-"/>r o<metSym value="-"/>f me<metSym value="+"/>n! mi<metSym
+value="-"/>st<metSym value="+"/>ake<metSym value="-"/>n D<metSym value="+"/>emo<metSym value="-"/>n o<metSym
+value="-"/>f he<metSym value="+"/>ave<metSym value="-"/>n (<hi rend="i">VDA</hi> 5:3)<lb/>
+                            <lb/>
+2. Th<metSym value="-"/>e f<metSym value="+"/>ie<metSym value="-"/>ry<metSym value="-"/> 
+<corr type="emend" rend="plain">jo<metSym value="+"/>y, tha<metSym value="-"/>t</corr> U<metSym value="+"/>ri<metSym
+value="-"/>ze<metSym value="+"/>n pe<metSym value="-"/>rve<metSym value="+"/>rte<metSym value="-"/>d 
+<corr type="emend" rend="plain">to<metSym value="-"/></corr> te<metSym value="+"/>n co<metSym value="-"/>mma<metSym
+value="+"/>nds (<hi rend="i">A</hi> 8:3) <note id="n58">
+                                <hi rend="i">Francis Wood Metcalf is writing a Ph.D. dissertation at New York
+University on rhetoric and style in the Prophetic Books and has contributed previously to the</hi>
+Newsletter.</note>
+                            <pb id="p06-18" n="18"/>
+3. Th<metSym value="-"/>e He<metSym value="+"/>ave<metSym value="-"/>ns me<metSym value="+"/>lte<metSym
+value="-"/>d <corr type="emend" rend="plain">fro<metSym value="-"/>m</corr> nor<metSym value="+"/>th t<metSym
+value="-"/>o sou<metSym value="+"/>th; an<metSym value="-"/>d U<metSym value="+"/>ri<metSym
+value="-"/>ze<metSym value="+"/>n wh<metSym value="-"/>o sa<metSym value="+"/>t (<hi rend="i">A</hi>
+16:2)<lb/>
+                            <lb/>
+4. I<metSym value="-"/>n th<metSym value="+"/>at dre<metSym value="+"/>ad nig<metSym value="+"/>ht wh<metSym
+value="-"/>en U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n ca<metSym value="+"/>ll’d
+th<metSym value="-"/>e sta<metSym value="+"/>rs rou<metSym value="+"/>nd hi<metSym value="-"/>s fe<metSym
+value="+"/>et (<hi rend="i">A</hi> canc. b:5)<lb/>
+                            <lb/>
+5. A<metSym value="-"/>nd U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n u<metSym
+value="-"/>nlo<metSym value="+"/>os’d <corr type="emend" rend="plain">fro<metSym value="-"/>m</corr>
+cha<metSym value="+"/>ins (<hi rend="i">E</hi> 3:11)<lb/>
+                            <lb/>
+6. Ti<metSym value="-"/>ll al<metSym value="+"/>l th<metSym value="-"/>e so<metSym value="+"/>ns o<metSym
+value="-"/>f U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n lo<metSym value="-"/>ok ou<metSym
+value="+"/>t an<metSym value="-"/>d e<metSym value="+"/>nv<metSym value="-"/>y Lo<metSym value="+"/>s 
+(<hi rend="i">E</hi> 4:2)<lb/>
+                            <lb/>
+7. H<metSym value="-"/>e sa<metSym value="+"/>w U<metSym value="+"/>ri<metSym value="-"/>ze<metSym
+value="+"/>n o<metSym value="+"/>n th<metSym value="-"/>e A<metSym value="-"/>tla<metSym value="+"/>nti<metSym
+value="-"/>c (<hi rend="i">E</hi> 11:2)<lb/>
+                            <lb/>
+8. Fo<metSym value="-"/>r U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n u<metSym
+value="-"/>ncla<metSym value="+"/>spd hi<metSym value="-"/>s Bo<metSym value="+"/>ok; fe<metSym
+value="+"/>edin<metSym value="-"/>g hi<metSym value="-"/>s so<metSym value="+"/>ul wi<metSym value="-"/>th
+p<metSym value="+"/>ity<metSym value="-"/> (<hi rend="i">E</hi> 12:4)<lb/>
+                            <lb/>
+9. B<metSym value="-"/>etwe<metSym value="+"/>en th<metSym value="-"/>e clo<metSym value="+"/>uds o<metSym
+value="-"/>f U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n th<metSym value="-"/>e fla<metSym
+value="+"/>mes o<metSym value="-"/>f Or<metSym value="+"/>c ro<metSym value="-"/>ll he<metSym
+value="+"/>avy<metSym value="-"/> (<hi rend="i">E</hi> 12:32)<lb/>
+                            <lb/>
+10. Wa<metSym value="+"/>kin<metSym value="-"/>g th<metSym value="-"/>e sta<metSym value="+"/>rs o<metSym
+value="-"/>f U<metSym value="+"/>ri<metSym value="-"/>ze<metSym value="+"/>n wi<metSym value="-"/>th
+the<metSym value="+"/>ir im<metSym value="-"/>mo<metSym value="+"/>rta<metSym value="-"/>l son<metSym
+value="+"/>gs (<hi rend="i">E</hi> 14:33)
+</corr>
+</q>
+</p>
+                    <p>Notice that in every context except the seventh, “Urizen” begins on an even-numbered,
+stressed syllable unless preceded by an anapest (as in two an three), in which case the syllable is stressed
+and odd-numbered. The apparent exception of context seven is equivocal since it occurs in a group of short and
+metrically irregular lines. Context five is also short, but sturdily iambic. To remove the primary stress from
+the first syllable of “Urizen” and the secondary stress from the last, and to accent arbitrarily the name’s
+middle syllable, would be to commit unjustifiable violence on each line. We then would have an unbroken series
+of pyrrhic feet followed by medial inversions, or else no heptameters at all. Later on in Blake’s poetry,
+when the metrical scheme is less clearly defined, the mid-stress could in isolated cases perhaps be reasonably
+suggested; but these very rhythmic lines allow no alternative to a front-stressed “Urizen.”</p>
+                    <p>A contrast with “Urthona” is instructive. In each of its first ten occurrences,
+“Urthona”—to the contrary of “Urizen”—begins on an <hi rend="i">odd</hi>-numbered, 
+<hi rend="i">un</hi>stressed syllable unless preceded by an anapest. This positioning would prevail in the case of
+“Urizen” were it mid-stressed like “Urthona,” but since it is not, it begins on the contrary syllable.</p>
+                    <p>Further evidence for a front-stressed “Urizen” may also be seen in contrast to an
+“Urthona” paradigm. In its ninety-four occurrences in Blake’s poetry (counting possessives), “Urthona”
+begins nine times in a line’s first syllable but only once in its second: “Of Urthona. Los embracd” 
+(<hi rend="i">FZ</hi> VII: 85:29). Blake deliberately avoided the latter placement because it gives the effect of
+anacrusis—an extra unstressed syllable before the proper beginning of an iambic line. But “Urizen” begins in
+a line’s second syllable about sixty times—almost characteristically. The initial syllable is usually a
+conjunction—cf. “And . . . ” and “For Urizen,” above—which forms, with front-stressed “Urizen,” a normal
+iambic opening. That “Urizen” should also by itself begin many lines is not surprising in view of the Miltonic
+and even Augustan precedents for initial inversion. In such cases, the name’s third syllable becomes the
+unstressed first half of the succeeding iamb: “Urizen knew them not” (<hi rend="i">FZ</hi> VI:67:7).</p>
+                    <p>Whether Blake usually spoke “Urizen” as a pure dactyl or with a secondary final
+stress—as “Benjamin” or as “Benjamite”—is not finally deducible from the metrics, and raises the
+forbidding problem of vowel-quality. On this subject our only assurance is that the middle vowel is neither EE
+or AYE, but a swallowed short “i” or a schwa.<supplied type="spacer"> </supplied><ref target="n37"
+type="note">1</ref> One is tempted to speculate that the doubly-emphasized “-zen!”-“men!” pairing of the first
+appearance of “Urizen,” quoted above, is an internal rhyme designed to aid pronunciation, and that the
+attachment of an off-glided “y” to the first vowel is probable since it eliminates hiatus, but Blake’s
+practice remains obscure—excepting, of course, the initial stress. In this connection, it would seem that
+despite Mr. Preston’s suggestion that “Ololon” be accented on the second syllable, Blake stressed it on the
+first. It begins in a line’s second syllable proportionately even more often than “Urizen” does. All
+students of Blake will be pleased to know, however, that on the basis of the method outlined above, “Bromion”
+and “Enion” have been pronounced by them correctly all along. 
+                        <note id="n37">
+                            <hi rend="s">
+                                1
+                            </hi> Mona Wilson, in Keynes’s new edition of <hi rend="i">The Life of William
+Blake</hi> (Oxford, 1971), p. 106, states in a footnote about “Urizen” that “ . . . the i scans short.” Her
+judgment agrees with mine, but its bearing upon the stressing of the whole name is not entirely clear. Does
+she advocate <hi rend="i">YUR</hi> / I / ZEN or YU / <hi rend="i">RIZZ</hi> / EN?</note>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.2</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>F.R. Duplantier</name>
+              <name>David V. Erdman</name>
+              <name>James King</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+              <name>Shawn Thompson</name>
+              <name>Kazumitsu Watarai</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <front>
+      <pb id="p13-61-62" n="61-62"/>
+      <div1 id="cover">
+        <figure n="cover.013.02.bqscan" rend="file" width="258" height="336">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 50<lb/>
+            Volume 13<lb/>
+            Number 2<lb/>
+            Fall 1979</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-13-2-0001">
+        <table id="contents" rows="14" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.paley">“A New Heaven is Begun”: William Blake and
+Swedenborgianism</ref><lb/>
+                            by Morton D. Paley</cell>
+            <cell>64</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.minnick">Blake &amp; His Circle: A Checklist of Recent
+Scholarship</ref><lb/>
+                            by Thomas L. Minnick with the assistance of Detlef W. 
+<corr type="emend">Dörrbecker</corr> and Kazumitsu Watarai</cell>
+            <cell>91</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.king">Charlotte Smith, William Cowper, and William Blake:
+Some New Documents</ref><lb/>
+                            by James King</cell>
+            <cell>100</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.duplantier">Method in Blake’s “Mad Song”</ref><lb/>
+                            by F. R. Duplantier</cell>
+            <cell>102</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">POETRY</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.thompson">Thanks Newton</ref><lb/>
+                            by Shawn Thompson</cell>
+            <cell>105</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.erdman">South Bounding!</ref><lb/>
+                            by David V. Erdman</cell>
+            <cell>106</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.shroyer">Blake’s Copy of Lavater’s 
+<hi rend="i">Aphorisms on Man</hi>: A Correction of G. E. Bentley, Jr., <hi rend="i">Blake Books</hi></ref><lb/>
+                            by R. J. Shroyer</cell>
+            <cell>108</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.bentley">Almost Blake</ref><lb/>
+                            by G. E. Bentley, Jr.</cell>
+            <cell>109</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.2.malmqvist">The Dean of Morocco=George Cumberland?</ref><lb/>
+                            by Goran Malmqvist</cell>
+            <cell>109</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>110</cell>
+          </row>
+          <row>
+          	<cell>
+    		  <supplied type="emend">
+    		  <ref type="article" issue="13.2.keynes">Arnold Fawcus</ref>, 
+    		  <ref type="article" issue="13.2.mla">MLA on Blake</ref>, 
+    		  <ref type="article" issue="13.2.correction">Correction</ref>, 
+    		  <ref type="article" issue="13.2.rome">The English in Rome</ref>
+    		  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-13-2-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>G. E. BENTLEY, JR., of the University of Toronto, has edited <hi rend="i">William Blake’s
+Writings</hi>, in two volumes, Oxford, 1978.</p>
+        <p>DETLEF W. <corr type="emend">DÖRRBECKER</corr> is a doctoral candidate at Frankfurt University. He
+has been assisting Thomas L. Minnick with the annual checklists of Blake scholarship during the last three
+years.</p>
+        <p>F. R. DUPLANTIER (BA, Tulane) has edited <hi rend="i">La Gazette des Acadiens</hi>, invented the
+boardgame <hi rend="i">Hike</hi> and written the two-act play <hi rend="i">Dead Issues.</hi> He currently
+writes advertising copy for a New Orleans ad agency.</p>
+        <p>DAVID V. ERDMAN of Stony Brook and The New York Public Library, is busy revising the Doubleday 
+<hi rend="i">Poetry and Prose</hi> of Blake into a complete edition.</p>
+        <p>JAMES KING is Associate Professor of English, McMaster University. He is the co-editor of the five
+volume Clarendon Press edition of <hi rend="i">The Letters and Prose Writings of William Cowper</hi>, the
+first volume of which has just been published. He is now working on a biography of Cowper.</p>
+        <p>N. G. D. MALMQVIST is Chairman of the Department of Chinese, Stockholm University.</p>
+        <p>THOMAS L. MINNICK, Assistant Dean of University College at Ohio State, has recently returned from a
+year’s leave of absence as research associate and editorial consultant to Mr. Alex Haley.</p>
+        <p>MORTON D. PALEY’S most recent book is an introduction to Blake’s art: <hi rend="i">William
+Blake</hi>, published by Phaidon. He continues to work on his booklength study of 
+<hi rend="i">Jerusalem.</hi></p>
+        <p>R. J. SHROYER is an Associate Professor of English at the University of Western Ontario. His
+edition of Blake’s copy of Lavater’s <hi rend="i">Aphorisms on Man</hi> (1788) will appear shortly.</p>
+        <p>SHAWN THOMPSON is a doctoral candidate at the University of Western Ontario.</p>
+        <p>KAZUMITSU WATARAI is Head Librarian of Japan’s Reitaku University Library. 
+<note type="unreferenced" place="footer">© 1979 by Morris Eaves &amp; Morton D. Paley</note></p>
+        <figure n="ContributorsTOC.13.2.bqscan" rend="file" width="500" height="296"/>
+      </div1>
+      <pb id="p13-63" n="63"/>
+      <div1 id="BQ-13-2-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="EditorsTOC.13.2.bqscan" rend="file" width="500" height="845"/>
+      </div1>
+      <div1 id="BQ-13-2-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="InformationTOC.13.2.bqscan" rend="file" width="500" height="468"/>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL ASSISTANTS: David
+Anderson, Peter Chase, Wayne Erickson, Wendy Jones Kris Lackey, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12.00 for 1 year, 1 volume, 4 issues. Special rate for individuals, $10.00,
+surface mail. $15.00 for subscribers overseas who prefer air mail. U.S. currency or international money order
+if possible. Make checks payable to Blake/An Illustrated Quarterly. Address all subscription orders &amp;
+related communications to the Circulation Mgr., Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+of New Mexico, Albuquerque NM 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes’</hi> annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitston Pub.).</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p13-112" n="112"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">ARNOLD FAWCUS<lb/>
+    			1918-1979</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

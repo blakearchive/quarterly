@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>19.2.clifford</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">ASECS Clifford Prize</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1985</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1985</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">19.2</biblScope>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>David Bindman</name>
+              <name>V.A. De Luca</name>
+              <name>Karl Kroeber</name>
+              <name>Jenijoy La Belle</name>
+              <name>Raymond Lister</name>
+              <name>Josephine McQuail</name>
+              <name>Karen Mulhallen</name>
+              <name>Joseph Viscomi</name>
+              <name>Margaret LaFrance</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1985"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_19">
+    <body>
+      <pb id="p19-89" n="89"/>
+      <div1 id="BQ-19-2-0009">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">ASECS CLIFFORD PRIZE</title>
+          </head>
+          <figure n="VoxLitterata.19.2.bqscan" rend="file" width="400" height="540"></figure>
+          <p>The American Society for Eighteenth-Century Studies is currently soliciting
+                        nominations for its 1984-85 James L. Clifford Prize. The Prize carries an
+                        award of $300 and goes to the best nominated article, an outstanding study
+                        of some aspect of eighteenth-century culture, interesting to any
+                        eighteenth-century specialist, regardless of discipline. The following rules
+                        also apply: (1) The article should not be longer than 7500 words. (2) The
+                        article must have appeared in print in a journal, festschrift, or other
+                        serial publication between July 1984 and June 1985. (3) The article may be
+                        nominated by a member of the Society or by its author. (4) Nominations must
+                        be accompanied by an offprint or copy of the article and must be postmarked
+                        by February 1, 1986 and sent to the ASECS office. (5) The winning author
+                        must be a member of the Society at the time of the award. Nominations or
+                        inquiries should be sent to the following address: ASECS, R.G. Peterson,
+                        Executive Secretary, St. Olaf College, Northfield, MN 55057, (505)
+                        663-3488.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

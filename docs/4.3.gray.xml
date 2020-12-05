@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.gray</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake at the Thomas Gray Conference</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-3-0003">
+				<pb id="p04-66" n="66"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE AT THE THOMAS GRAY CONFERENCE</hi>
+                        </title>
+                    </head>
+                    <p>A conference on “Thomas Gray and the Humanist Tradition” will be convened by James
+Downey at Carleton University in Ottawa, 18-20 May 1971. The brochure announcing the conference displays a
+detail from Blake’s fifth illustration to Gray’s “Elegy Written in a Country Churchyard” (illustrating the
+line “Oft did the harvest to their sickle yield”), and the conference program includes at least one paper on
+Blake and Gray: “Gray and Blake and the Human Design” by Ben Jones, Chairman of the Department of Englist at
+Carleton. Others scheduled to participate in the conference are Jean Hagstrum, Eli Mandel, Roger Lonsdale,
+Donald Greene, Donald Davie, Kenneth MacLean, Arthur Johnston, George Whalley, Alastair Macdonald, Ian Jack,
+and Louis Kampf.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

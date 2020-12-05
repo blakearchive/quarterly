@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>36.3.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake exhibition at the Huntington Library</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2002/2003</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2002/2003</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">36.3</biblScope>
+            <biblScope unit="volume">36</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Christopher Heppner</name>
+              <name>Nelson Hilton</name>
+              <name>David Minckler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2002/2003"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_36">
+    <body>
+	  <pb id="p36-91" n="91"/>
+      <div1 id="BQ-36-3-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <p>The Huntington Library, Art Collections, and Botanical Gardens in San Marino, California, will
+present a major William Blake exhibition, 19 January 2003 to 25 May 2003. The show, entitled “Vision and
+Verse: William Blake at The Huntington,” will be curated by Robert N. Essick. The Huntington has mounted a
+number of small Blake exhibitions over the years, but space limitations meant that only a few dozen works
+could be displayed at any one time. The recent development of the former carriage house on the Huntington
+grounds into the MaryLou and George Boone Gallery will permit a generous selection of the Blake collection to
+be shown. All the watercolors, including the three series illustrating John Milton’s poetry, will be
+included, along with many plates from Blake’s illuminated books, the Job and Dante engravings, drawings,
+manuscripts, separate plates, and commercial book illustrations. The exhibit will honor the institution’s
+founder, Henry E. Huntington, for his prescience in collecting outstanding works by Blake at a time when the
+artist/poet was still little known. There will be no catalogue, but an illustrated brochure will be available
+free of charge to all those who visit the exhibition. Further information about the Huntington and its
+exhibition program is available online at www.huntington.org.</p>
+        <p>For other newsletter items, see our web site at www.blakequarterly.org.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

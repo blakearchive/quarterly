@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.wittreich</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">A Bibliographical Note</title>
+				<author n="Wittreich">Joseph Anthony Wittreich, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-1-0004">
+                <pb id="p02-13" n="13"/>
+                <div2>
+                    <head>
+                        <title type="main">4. A Bibliographical Note</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Joseph Anthony <name>Wittreich</name>, Jr.</docAuthor> The University of
+Wisconsin</byline>
+                    <p>References to Blake in the first half of the nineteenth century are astonishingly few.
+Those listed in the Nurmi-Bentley <hi rend="u">Blake Bibliography</hi> typically portray Blake as a “madman”
+who excelled as an artist but faltered as a poet. A reference, hitherto unnoticed — “The Poetry of Sacred
+and Legendary Art”<supplied type="spacer"> </supplied><ref target="p13u1" type="note">*</ref>—anon. rev.,
+<hi rend="u">Blackwood’s Edinburgh Magazine</hi>, LXV (Feb. 1849), 183 — at once reveals the reigning
+attitude of the early nineteenth century toward Blake and suggests the direction that subsequent criticism was
+to take. The reviewer comments, “There is greatness in the simplicity of Blake’s angels: ‘The morning
+stars sang together, and all the sons of God shouted for joy.’<supplied type="emend">”</supplied> 
+Apparently this remark was inspired by Mrs.
+Jameson’s statement: “The most original, and, in truth, the only new and original version of the Scripture
+idea of angels which I met with, is that of William Blake, a poet painter, somewhat mad as we are told, if
+indeed his manners were not rather ‘the telescope of truth,’ a sort of poetical 
+<hi rend="u">clairvoyance</hi>, bringing the unearthly nearer to him than to others. His adoring angels float
+rather than fly, and, with their half-liquid draperies, seem to dissolve into light and love: and his
+rejoicing angels — behold them — sending up their voices with the morning stars, that ‘singing in their
+glory move’” (I, 80; the quotation is from <hi rend="u">Lycidas</hi>, 1. 180). <note id="p13u1">*Reviewing a
+book of the same title by Mrs. [Anna Brownell Murphy] Jameson (1848). Immensely popular, this book went
+through many editions until it was edited and enlarged by Estelle M. Hurll, <hi rend="u">Sacred and Legendary
+Art by Anna Jameson</hi>, 2 vols. (Boston: Houghton Mifflin Company, 1895).</note>
+                    </p>
+                    <p>The context in which the reviewer’s remark appears is perhaps of special
+significance. Blake is mentioned among those artists who skillfully combine poetry with painting, using the
+former to enliven and
+<pb id="p02-14" n="14"/>
+illumine the latter; among those artists who, working with the sublimest materials, prove that Christian art
+may rival, indeed surpass, that of the ancients. Still more important is the fact that the reviewer points to
+Blake in a passage discussing the emergence of a new Christian art imbued with an iconoclastic spirit.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

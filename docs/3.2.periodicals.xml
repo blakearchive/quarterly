@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.2.periodicals</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Exhibitions, periodicals, and the MLA seminar</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>September 26, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.2</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <div1 id="BQ-03-2-0003">
+                <pb id="p03-23" n="23"/>
+                <p>The Blake Trust sponsored an exhibition at Edinburgh this past summer; we hope to have a
+report in the next <hi rend="i">Newsletter.</hi>
+                </p>
+                <p>Gleanings from periodicals: Kathleen Nott reviewed <hi rend="i">Blake and Tradition</hi> by
+Kathleen Raine in the Aug. 17, 1969 issue of the <hi rend="i">Observer</hi> (“Symbols and Sources,” p. 21). In
+the <hi rend="i">Guardian</hi> for June 27, 1968, there is a news item and photograph with the caption “Homage
+to William Blake” (p. 6). The subject is the unveiling of a memorial relief sculpture of Blake—a triptych
+measuring 13 ft. by 9 ft.—at William Blake House, Marshall Street, London, W. 1. The sculptor is John W.
+Mills; two panels are in cast aluminum, one in bronze; the head is based on the life mask in the National
+Portrait Gallery.</p>
+                <p>The August 1969 number of <hi rend="i">Art and Artists</hi> magazine is devoted to “Art and
+Revolution”; it includes “William Blake: Revolutionary or Rebel?” by John Christopher Battye (pp. 24-25).<gap
+type="emend"/></p>
+                <pb id="p03-41" n="41"/>
+                <p>
+                    <gap type="emend" rend="plain"/><hi rend="i">The Nation</hi> for April 28, 1969 published
+“William Blake and Nonviolence” by John Sutherland (pp. 542-544).</p>
+                <p>Two of the new pulls from Blake’s Dante plates produced for Mr. Lessing J. Rosenwald are
+on display among recent acquisitions at the Victoria and Albert Museum.</p>
+                <p>There is to be another “Seminar” on Methods of Interpreting Blake’s Illuminations (last
+year it was called “Seminar 55” but we don’t yet know number or exact time and place) at the Denver meeting
+of <hi rend="i">MLA.</hi> It will be announced in <hi rend="i">PMLA.</hi> Persons wishing to attend should
+write to John E. Grant, English Department, State University of Iowa, Iowa City, Iowa, 52240, Topic suggested:
+The Arlington Court picture.</p>
+                <p>A two-part article on “An Island in the Moon” begins in the September <hi rend="i">Bulletin
+of The New York Public Library</hi> (vol. 73, pp. 440-65), Illustrated by Blake’s drawings on the last page
+of the manuscript. It is “The satiric Blake: Apprenticeship at the Haymarket?” by Martha W. England. Part 2 in
+October.</p>
+                <p>Some of the Berg Collection Blakes will be in the forthcoming NYPL Berg Collection
+exhibition, “Pen and Brush: The Author as Artist.” Catalogue on sale Opening Day, October 2 (and by mail: 53
+prepaid).</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

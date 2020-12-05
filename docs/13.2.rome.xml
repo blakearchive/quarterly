@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.2.rome</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The English in Rome</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.2</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>F.R. Duplantier</name>
+              <name>David V. Erdman</name>
+              <name>James King</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+              <name>Shawn Thompson</name>
+              <name>Kazumitsu Watarai</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-110" n="110"/>
+      <div1 id="BQ-13-2-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">THE ENGLISH IN ROME</hi>
+            </title>
+          </head>
+          <p>On 29 September a public symposium entitled <hi rend="i">The English in Rome</hi> was held at the
+Yale Center for British Art. The program was designed to examine the cultural milieu of Rome at the end of the
+eighteenth century from the perspectives of various disciplines. The papers read focused not only on the
+artistic and physical environment encountered by the expatriates of this period but also on the environment of
+ideas. Concurrent with the symposium was an exhibit at the British Art Center, <hi rend="i">The Fuseli Circle
+in Rome.</hi> The exhibit was designed to assess and define the stylistic and thematic innovations of an
+international group of artists associated with Fuseli in Rome in the 1770s.</p>
+          <p>A theoretical introduction to the subject of the symposium was presented by Frederick J.
+Cummings, Director, The Detroit Institute of Arts, who spoke on <hi rend="i">The Beginnings of
+Romanticism.</hi> Presented to enlarge the disciplinary scope of the program were <hi rend="i">Gibbon, Burke
+and the Sublime</hi> by Martin Price, Thomas E. Donnelly Professor of English, Yale University, and 
+<hi rend="i">Roman Impressions: Some Personal Views</hi> by Patricia Meyer Spacks, Professor of English, Yale
+University. Following these papers was a public tour conducted by Nancy Pressly, Guest Curator for the
+exhibition.</p>
+          <p>In the afternoon Jules David Prown, Professor of Art History, Yale University, discussed the
+ramifications of Rome and the antique in <hi rend="i">Benjamin West, Antiquity, and the American Indian.
+Fuseli’s Use of the Antique</hi> was presented by Gert Schiff, Professor of Fine Arts, Institute of Fine
+Arts, New York University. The Center’s Curator of Prints and Drawings, Andrew Wilton, ended the papers with
+<hi rend="i">William Pars in Rome.</hi></p>
+          <figure n="HenryFuseli.13.2.bqscan" rend="file" width="958" height="710"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

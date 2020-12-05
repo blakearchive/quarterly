@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.2.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">“To Defend the Bible in This Year 1798 Would Cost a Man His Life”</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.2</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Thomas Dillingham</name>
+              <name>Morton D. Paley</name>
+              <name>Sheila A. Spector</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <pb id="p32-32" n="32"/>
+      <div1 id="BQ-32-2-0005">
+        <head>
+          <title type="section">ARTICLE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">“To Defend the Bible in This Year 1798 Would Cost a Man His Life”</title>
+          </head>
+          <byline>by <docAuthor>Morton D. <name>Paley</name></docAuthor></byline>
+          <p>[A plenary lecture at the joint meeting (“1798 and Its Implications”) of the British
+Association for the Study of Romanticism and the North American Society for the Study of Romanticism at St.
+Mary’s College, Strawberry Hill, on 6 July 1998.]</p>
+          <p>For most of us here 1798 was above all the year of the <hi rend="i">Lyrical Ballads.</hi> But it
+was also, as we all know, the year of Napoleon in Egypt, the uprising of the United Irishmen and its bloody
+aftermath, of Malthus’s first <hi rend="i">Essay on Population</hi>, and the year of (as Ian McCalmon puts
+it) “the most draconian, anti-radical crackdown of the entire Pittite ‘Terror’” (“New Jerusalems”
+26) For William Blake, it was a seemingly unexceptional year, a year for which there are no known letters and
+no known published works other than some commerical engravings. But it was also the year in which he wrote on
+the verso of the title page of Bishop Richard Watson’s <hi rend="i">An Apology for the Bible</hi>: “To
+defend the Bible in this year 1798 would cost a man his life” and then “The Beast and the Whore rule
+without controls.”<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> The Bishop’s
+<hi rend="i">Apology</hi> was an attack upon <hi rend="i">The Age of Reason</hi> by Thomas Paine, and
+Blake’s notes were a vehement counter-attack upon Bishop Watson. Why should Blake want to defend Thomas
+Paine, with whom he had some important points of disagreement, so unequivocally? That is my subject today,
+along with the place these annotations have in the development of Blake’s thought, including just what he
+meant by the two sentences quoted. Say first! what mov’d Blake? <note id="n1"><hi rend="s">1</hi><hi
+rend="i"> The Complete Poetry and Prose of William Blake</hi>, ed. David V. Erdman (Berkeley and Los Angeles:
+University of California Press, rev. ed., 1982) 611. This edition will hereafter be cited as E, with page
+number(s) following. G. E. Bentley, Jr., in <hi rend="i">William Blake’s Writings</hi>, reads the last word
+of the second line as “control.” In his excellent edition of the <hi rend="i">Annotations</hi>, G.
+Ingli-James reads it as “control” with a deleted last letter, as do I.</note></p>
+          <p>History has not been kind to Richard Watson, D.D., Bishop of Landaff, sometime Regius Professor
+of Divinity at the University of Cambridge. His <hi rend="i">Apology for the Bible</hi> was celebrated in its
+day. It had first appeared in 1796, and the 1797 edition that Blake owned was its eighth at the time. It had
+also been published widely in America. Every Harvard student was given a copy! In the <hi rend="i">Anecdotes
+of the Life of Richard Watson</hi>, published by his son in 1817, Watson included fan letters from a society
+for discountenancing vice in Dublin and from the Convention of the Episcopal Church in Connecticut. He also
+asserted that an employer had printed off 3000 copies for distribution to his workers, and declared that many
+thousands more were sold in Scotland and in England at a small price “without any profit or wish of profit
+to myself.” (It was still going strong in 1817—a new edition is advertised in the end papers to the 
+<hi rend="i">Anecdotes.</hi>)</p>
+          <p>Yet the only reason that Richard Watson is remembered today is he that he was attacked by two
+great poets, neither of whom even published his remarks. In 1793, William Wordsworth wrote but did not publish
+“A Letter to the Bishop of Landaff . . . By a Republican” (<hi rend="i">Prose Works</hi> 1: 32-49) in
+reply to Watson’s defense of the British constitution in an appendix to an earlier sermon. Wordsworth wrote:
+“It is feared that you have at last fallen, through one of the numerous trap-doors, into the tide of
+contempt to be swept down to the ocean of oblivion” (<hi rend="i">Prose Works</hi> 1: 31); however,
+Wordsworth is decorum itself compared to Blake, who calls the Bishop “a State trickster” (E 612) and
+refers to his “cloven foot” (616). It isn’t fair. Bishop Watson, as Florence Sandler has pointed out in
+an excellent essay, had opposed the American War, advocated the abolition of the slave trade, favored the
+enlargement of the franchise, and spoken for the repeal of the Test and Corporation Acts. He was a proponent
+of Roman Catholic emancipation, and was long known as “the dissenters’ bishop.” The 
+<hi rend="i">Anecdotes</hi> documents his broadmindedness. When the University of Cambridge proposed an address to
+the King in 1775 exhorting him to continue the American War, Bishop Watson actively engaged himself in
+opposition, but had to report “The Tories beat us by eight votes . . . they owe their victory to the
+ministerial troops, which were poured in from the Admiralty, Treasury, &amp;c. beyond expectation” (57).
+Bishop Watson originally had high hopes for the French Revolution. “In 1792,” he writes, “I published a
+Charge in which I had touched upon unpopular subjects—the advantages which would probably result to human
+society from the French Revolution. . .and the injustice and impolicy of our Test and Corporation Acts”
+(257). William Pitt, he tells us, rejected his arguments. He also prints a speech he made in the House of
+Lords on 15 January 1795, supporting the Duke of Bedford’s motion for negotiations for peace with France
+(Burke’s “Regicide Peace”). “Suppose, then,” Bishop Watson asks, “the unfortunate Louis to be
+placed, by our efforts, on the throne of his ancestors, surrounded by his nobles in the plenitude of their
+ancient privilege; the bastile re-erected, and the people of France,—Heaven avert that part of the event!)
+once more crouching under the rod of despotic power, what advantage will Great Britain derive from this
+change?” (283). Asserting “I consider it as a Christian
+			<pb id="p32-33" n="33"/>
+			<figure n="BB749.1.titlepg-v+preface.MS.left" rend="file" width="578" height="1000">
+				<figTranscr>Notes on the Bishop’s Apology for the Bible by William Blake To defend the Bible in the year
+1798 would cost a man his life  The Beast + the Whore rule without controlx It is an easy matter for a Bishop
+to triumph over Paines attack but it is not so easy for one who loves the Bible The Perversions of Christs
+words + acts are attackd by Paine + also the perversions of the Bible; Who dare defend either the Acts of
+Christ or the Bible Unperverted? But to him to sees this mortal pilgrimage in the light that I see it. Duty to
+his country is the first consideration + safety the last Read patiently take not up this Book in an idle hour
+the consideration of these things is the whole duty of man + the affairs of life + death trifles sports of
+time But these considerations business of Eternity I have been commanded from Hell not to print this as it is
+what our Enemies wish</figTranscr>
+				<head>1 Back of title page.</head>
+				<figDesc>“The Beast &amp; the Whore rule without controlx” has been lightly lined through. At the end
+of the last word in that sentence a letter has been heavily inked out. Note that the sense of “Read
+patiently” and what follows is that Blake has finished reading Watson’s book and is advising an implied
+reader of these annotations as to how to approach it. Courtesy of the Huntington Library and Art
+Gallery.</figDesc>
+			</figure>
+effort of a humane people to put a stop to the effusion of blood” (281), he was the only Bishop to vote for
+the Duke of Bedford’s motion. Could Bishop Watson appear to us today, hovering in the darksome air like a
+Blakean apparition, he might cry out the words W. H. Auden gives to Herod in the “Christmas Oratorio” 
+<hi rend="i">For the Time Being</hi>: “I’m a liberal. I want everyone to be happy. I wish I had never been
+born.” (125).</p>
+          <p>Perhaps there just is no justice for a man who in 1793 could publish sermons under the title 
+<hi rend="i">The Wisdom and Goodness of God in Having Made Both Rich and Poor.</hi> (Incidentally, Blake’s note
+next to the title of this book—“God
+			<pb id="p32-34" n="34"/>
+			<figure n="BB749.1.titlepg-v+preface.MS.right" rend="file" width="576" height="1000">
+				<figTranscr>Paine has not attacked Christianity Watson has defended Antichrist.</figTranscr>
+				<head>2 Untitled preface facing the verso of the title page.</head>
+				<figDesc>Blake’s note in the top margin is written in pencil. Courtesy of the Huntington Library and Art
+Gallery.</figDesc>
+			</figure>
+made Man happy &amp; rich but the Subtil made the innocent Poor” (E 612)—is in line with Paine’s own
+reply to Watson, <hi rend="i">Agrarian Justice.</hi> “It is wrong to say God made <hi rend="i">Rich</hi> and
+<hi rend="i">Poor</hi>,” Paine wrote, alluding to Watson’s title; “he only made <hi rend="i">Male</hi>
+and <hi rend="i">Female</hi>; and he gave them the earth for their inheritance.”<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> In any event, my purpose here is not to do justice to Bishop
+Watson, which I must leave to some other realm. It is, rather, to consider Blake’s annotations to Watson’s
+book. And we should note that Blake didn’t annotate his copy of Watson’s <hi rend="i">Apology</hi> all at
+once or with equal attention to every part. An examination of the original in the Huntington Library shows
+that, although most of Blake’s notes are in ink, the notes on at least four pages were written in pencil;
+and on page 1, two of the notes were written with a much finer nib than the rest. Furthermore, as E. B.
+<pb id="p32-35" n="35"/>
+Murray (146) points out, Blake wrote some of his comments, such as the two paragraphs about public records, in
+a hasty scrawl. All this suggests more than one attack upon Watson’s text, though they could been made at
+short intervals. Furthermore, Blake’s attention was not sustained. The pages of front matter and the first
+17 numbered pages all bear notes, then Blake’s interest begins to lag and only four of the next 12 are
+annotated. From page 37 through 47 and again from 50 through 94, from 96 through 107, and from 110-16 there
+are no notes at all, suggesting that Blake skimmed through or over what adds up to about half the book. At
+page 117 he returned to the fray, writing notes on the last four pages of the book, concluding that “Tom
+Paine is a better Christian than the Bishop” and that “the Bishop has only hurt Paines heel, while Paine
+has broken his head” (E 620). I begin, then, with Thomas Paine. <note id="n2"><hi rend="s">2</hi> Page 5.
+Paine says he wrote the pamphlet in 1795-96 and decided to publish it after seeing the pamphlet listed (as did
+Blake) in Watson’s <hi rend="i">Apology.</hi></note></p>
+          <p>That Blake knew Thomas Paine is not in doubt, although the myth that Blake saved Paine’s life,
+transmitted from Frederick Tatham to Alexander Gilchrist for Gilchrist’s life of Blake, has long been
+exploded. Tatham was also the source of the claim that “in their conversations, Paine said that religion was
+a law and a tye to all able minds,” while “Blake . . . said what he was always asserting, that the
+religion of Jesus, was a perfect law of Liberty . . .” (<hi rend="i">Blake Records</hi> 41n). This doesn’t
+sound right. Paine typically used “law” not for restraint—that is the “Blakean” meaning—but for
+<hi rend="i">freedom</hi>; time and again he contrasts the government of law in a republic with the government
+of kings. Similarly unconvincing is Samuel Palmer’s statement to Gilchrist that “Blake rebuked the
+profanity of Paine” (<hi rend="i">Blake Records</hi> 41n); in an age when language was ridden with
+profanity, no one else has remarked that Blake objected to it. Of course this doesn’t mean that no
+conversations with Paine took place. Blake had probably spoken of them to his two much younger friends, but
+some thirty years later they recollected them according to the current state of their own memories and
+beliefs—Tatham had become a member of Irving’s Catholic Apostolic Church, Palmer a conservative Anglican.
+(John Linnell, a reliable reporter, wrote “Paine” in a list of subjects he prepared for discussion with
+Gilchrist [<hi rend="i">Blake Records</hi> 319n]). Blake probably met Paine at one or more of the publisher
+Joseph Johnson’s weekly gatherings. Paine of course was already famous for his <hi rend="i">Common
+Sense</hi> when he returned to England, and he became even more celebrated for <hi rend="i">The Rights of
+Man</hi>, published in 1791, said to have sold approximately 200,000 copies in a population of about six
+million.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> The publication of its second
+part in 1792 caused Paine to be charged with seditious libel. More must be said in a moment about these books,
+which caused Blake to write Paine into his <hi rend="i">America</hi> and to give him an especially prominent
+place among the “fierce Americans” who rise to defend their continent against Albions Angel. 
+<note id="n3"><hi rend="s">3</hi> See Michael Phillips, “Blake and the Terror,” <hi rend="i">The Library</hi>,
+6th ser., 6 (1994): 276, citing an anonymous <hi rend="i">Impartial Memoirs of the Life of Thomas Paine</hi>
+(London, 1973).</note></p>
+          <p>Paine first appears in <hi rend="i">America</hi> as one of a carefully selected group of seven:
+“Washington, Franklin, Paine &amp; Warren, Gates, Hancock, &amp; Green” (3: 4, E 52). The list is balanced
+between men known primarily as soldiers and as civilians, although some were of course both. In a second list
+of seven, there are two substitutions, but Paine remains; and in two other contexts the seven are distilled to
+three: “Washington / And Paine and Warren with their foreheads toward the east” (9: 10-11; see also 12:
+7). Washington’s presence is of course inevitable. Warren’s importance lies in his being a heroic martyr.
+(A doctor by profession, he was killed at Bunker Hill and portrayed in John Trumbull’s <hi rend="i">Death of
+General Warren</hi> as a dying Christ being bayoneted by an English soldier.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref>) Paine’s special prominence lies of course in his being a
+writer, specifically, as far as <hi rend="i">America</hi> is concerned, the author of <hi rend="i">Common
+Sense</hi>, in which Paine wrote “The cause of America is in a great measure the cause of all mankind.”
+Some of his other statements there would have struck a particular resonance in Blake. “Government, like
+dress, is the badge of lost innocence; the palaces of kings are built on the ruins of the bowers of
+paradise” (67). Paine appeals to scripture to prove that “the will of the Almighty, as declared by Gideon
+and the prophet Samuel, expressly disapproves of the government of kings” (72). Like Blake, Paine uses
+biblical typology to convey some of his meanings. The rights of kings are made parallel in <hi rend="i">Common
+Sense</hi> to the doctrine of original sin, which of course Paine rejects:
+<q>
+For as in Adam all sinned, and as in the first electors all men obeyed; as in the one all mankind were
+subjected to Satan, and in the other to Sovereignty; as our innocence was lost in the first, and our authority
+in the last; and as both disable us from re-assuming some former state and privilege, it unanswerably follows
+that original sin and hereditary succession are parallels. (77)
+</q>
+	<note id="n4"><hi rend="s">4</hi> D. W. Dörrbecker observes that Warren wrote for the Boston 
+<hi rend="i">Gazette</hi> under the name “True Patriot” (<hi rend="i">Continental Prophecies</hi> 129). The
+Trumble <hi rend="i">Death of Warren</hi> was part of a series of eight paintings begun in 1784. See Ronald
+Paulson, “John Trumbull and the Representation of the American Revolution,” <hi rend="i">Studies in
+Romanticism</hi> 21 (1982): 341-56.</note></p>
+          <p>George III is “the hardened, sullen, Pharaoh of —,” and he sounds a lot like Blake’s
+Noboddaddy when Paine calls him “the wretch, that with the pretended title of FATHER OF HIS PEOPLE can
+unfeelingly hear of their slaughter, and composedly sleep with their blood on his soul” (87).</p>
+		<q>
+I love hanging &amp; drawing &amp; quartering [says Nobodaddy]<lb/>
+Every bit as well as war &amp; slaughtering<lb/>
+            . . .<lb/>
+            <pb id="p32-36" n="36"/>
+            <figure n="BB749.1.publeaf+1.MS.left" rend="file" width="562" height="1000">
+            	<figTranscr>Read the XXIII Chap of Matthew + then condemn Paines hatred of Priests if you dare
+God made Man happy + Rich but the Subtil made the innocent Poor This must be a most wicked + blasphemous
+book</figTranscr>
+            	<head>3 Verso of preface, facing page 1.</head>
+            	<figDesc>Blake carefully links his marginal note to three words of text. Courtesy of the
+Huntington Library and Art Gallery.</figDesc>
+            </figure>
+. . . If they rebel they must go to hell<lb/>
+They shall have a Priest &amp; a passing bell<lb/>
+(E 499)
+</q>
+          <p>In a population of a little over three million, <hi rend="i">Common Sense</hi> sold over 100,000
+copies. Blake’s comment appears in the Annotations to Watson, in which Paine is daringly paralleled with
+Jesus: “Is it a greater miracle to feed five thousand men with five loaves than to overthrow all the armies
+of Europe with a small pamphlet” (E 617).</p>
+          <p>But wasn’t Paine a deist and wasn’t Blake opposed to everything that deism represented? The
+answer to the first question is certainly yes. “Adam, if there ever was such a man, was created a deist,”
+Paine asserts in <hi rend="i">The Age of Reason</hi> (55). But the answer to the second must give us pause. A
+glance at the <hi rend="i">Concordance</hi> shows that Blake did not even use the word “deist” or its
+cognates before writing the Annotations to Watson.</p>
+          <p>The first instance is, in fact, in those annotations, but it was revised out by Blake as follows:
+“The Deists say that
+			<pb id="p32-37" n="37"/>
+			<figure n="BB749.1.publeaf+1.MS.right" rend="file" width="582" height="1000">
+				<figTranscr>If this first letter is written without Railing + Illiberality I have never read one that is.
+To me it is all Daggers of Poison, the sting of the serpent is in every Sentence as well as the glittering
+Dissimulation Achilles’ wrath is blunt abuse Thersites’ sly insinuation such is the Bishops If such is the
+characteristic of a modern polite gentleman we may hope to see Christs discourses Expung’d I have not the
+Charity for the Bishop that he pretends to have for Paine. I believe him to be a State trickster Dishonest
+Misrepresentation Priestly Impudence Contemptible Falsehood + Detraction Presumptuous Murderer dost thou O
+Priest wish thy brothers death when God has preserved him Mr Paine has not extinguished + cannot Extinguish
+Moral rectitude. he has Extinguishd Superstition which too the Place of Moral Rectitude what has Moral
+Rectitude to do with Opinion concerning historical fact</figTranscr>
+				<head>4 Page 1.</head>
+				<figDesc>The annotations around the title “Letter I” and those to the right of it were written with a
+finer nib than the rest. Courtesy of the Huntington Library and Art Gallery.</figDesc>
+			</figure>
+Christianity put a stop to improvement &amp; the Bishop has not shewn the contrary” (E 615). For “The
+Deists say” Blake substituted “Paine says.” So “Paine” is here interchangeable with “the Deists”
+but in both instances, Blake appears to be indicating either neutrality or outright agreement. This is a far
+cry from Blake’s later vehement denunciations of “Deism” as expressed in the last three lines of Night
+VIII of <hi rend="i">The Four Zoas</hi>:
+<q>
+The Ashes of Mystery began to animate they calld it Deism<lb/>
+And Natural Religion as of old so now anew began<lb/>
+Babylon again in Infancy Calld Natural Religion.<lb/>
+(111: 22-24, E 386)
+</q></p>
+          <p>“Natural Religion” may, of course, be equated with deism and Blake had indeed entitled a
+tractate etched in 1788 <hi rend="i">THERE is NO Natural Religion.</hi> However, there his attitude is
+benignly ironical and gently corrective: he attempts to show that Natural Religion is self-undermining and
+that the very perception of nature takes us into a realm of imagination—or as Blake puts it at this time,
+Poetic Genius—that
+<pb id="p32-38" n="38"/>
+is beyond nature. With one exception, the words “Natural Religion” do not appear again in Blake’s
+writings until the <hi rend="i">Vala</hi> passage just quoted (or in <hi rend="i">Milton</hi>, whichever was
+earlier). That exception is in the Annotations to Watson, where in a riposte to the Bishop Blake writes:
+“Natural Religion is the voice of God &amp; not the result of reasoning on the powers of Satan” (E
+614).<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> In the case of Paine, Blake at
+this time could well take the attitude expressed by the Unitarian minister Gilbert Wakefield, whose 
+<hi rend="i">The Spirit of Christianity, Compared with the Spirit of the Times in Great Britain</hi>, with its
+denunciation of “the Moloch Priest” and “worshippers of Baal” in the Anglican Church, was a strong
+influence on Coleridge’s <hi rend="i">Religious Musings.</hi> Writing of the Master and fellows of Queens
+College, Wakefield said “I would give with rapture to a French <hi rend="i">Deist</hi>, as purity and
+perfection, compared with such apostates to the liberty and sanctity of the gospel . . .” (16). The truth is
+that many of the attitudes that we think of as characteristic of Blake were not yet his in 1798. In Blake’s
+account of the founders of religions in <hi rend="i">The Song of Los</hi> (1795), Jesus is treated no better
+than the rest: “(a man of sorrows) he recievd / A Gospel from wretched Theotormon” (3: 23-24, E
+67)—Theotormon being, of course, the God-tormented and self-tormented man of <hi rend="i">Visions of the
+Daughters of Albion.</hi> Note that this negative reference is not merely to the Christian 
+<hi rend="i">church</hi> but to Christianity itself. Of course there are also positive references—the Jesus of
+<hi rend="i">The Marriage of Heaven and Hell</hi> who “was all virtue, and acted from impulse: not from
+rules” (E 43). But how far is this from Paine’s view of Jesus as “a virtuous reformer and
+revolutionist” in <hi rend="i">The Age of Reason</hi>? <note id="n5"><hi rend="s">5</hi> As pointed out by
+Essick 210.</note></p>
+          <p>Why Blake should with to defend Paine requires little explanation. There is a considerable
+overlap between Blakean discourse in the 1790s and Paine’s in <hi rend="i">Rights of Man.</hi> One aspect of
+this, on the subject of charters, was remarked by the late E. P. Thompson, in his excellent essay on Blake’s
+“London,” and on this subject I will only point further to the proximity in Blake’s poem of two key
+words that occur in one of Paine’s discussions of “chartered monopolies” (75) “Every chartered
+town,” writes Paine, “is an aristocratical monopoly in itself, and the qualification of electors proceeds
+out of these chartered monopolies.” Shortly after this, Paine says: “Conquest and tyranny transplanted
+themselves with William the Conqueror from Normandy into England, and the country is yet disfigured with the
+marks.” Are these disfiguring “marks” not the “marks of weakness, marks of woe,” Blake discerned in
+every face he met in the “charterd streets” of “London”? Both can use figures from Bunyan similarly,
+as when Paine writes that the “compounded image” of the downfall(s) of the Bastille and Despotism become
+“as figuratively united as Bunyan’s Doubting Castle and Giant Despair” (52). Blake and Paine share with
+other radicals of the 1790s the association of revolution with fire, but a sentence from part 2 of 
+<hi rend="i">The Rights of Man</hi> comes particularly close to Blake’s statement that “France reciev’d the
+Demons light” (E 57) from America. “From a small spark kindled in America,” wrote Paine, “a flame has
+arisen, not to be extinguished. Without consuming, like the <hi rend="i">ultima Ratio Regum</hi>, it winds its
+progress from nation to nation and conquers by a silent operation “(210). When we come to <hi rend="i">The
+Age of Reason</hi>, we find that this overlap continues. Paine refers to the establishment as “the
+adulterous connection of church and state” (87), bringing to mind passages in Blake like the one in 
+<hi rend="i">Vala</hi> in which Rahab is “the deluded harlot of the kings of the earth” (E 363). When Paine
+characterizes the biblical account of the creation, it sounds much like much like a summary of the early
+chapters of <hi rend="i">The [First] Book of Urizen</hi>: “It is nobody that speaks. It is nobody that
+hears. It is addressed to nobody. It has neither first, second, not third person” (12). Paine can also apply
+biblical typology after his own fashion, casting himself as the doubting Thomas of scripture. Observing that
+this apostle did not believe in the resurrection, Paine remarks “<hi rend="i">So</hi> neither will I; and
+the reason is equally as good for me and for every other person as for Thomas” (6).<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> Paine denies that biblical prophets predicted the future,
+condemns “humility,” and attacks “Mystery.” I don’t want to exaggerate the convergence: the
+differences, too are important. Paine’s universe is an “immense machine,” which is compared to a mill,
+to which Blake could well have replied in the words of <hi rend="i">THERE is NO Natural Religion</hi>: “The
+same dull round even of a univer[s]e would soon become a mill with complicated wheels” (E 2). Blake
+acknowledges a difference with Paine as well as with Watson when he writes “The Bishop never saw the
+Everlasting Gospel any more than Tom Paine” (E 619). What Blake concentrates on in these annotations,
+however, is the common ground he shares with Paine, not the differences between them. 
+<note id="n6"><hi rend="s">6</hi> It’s true that Blake makes even larger claims for Paine, seeing in him “the Holy Ghost who
+in Paine strives with Christendom as in Christ he strove with the Jews” (E 614).</note></p>
+          <p>Blake’s note on the back of Watson’s title page continues: “The Beast &amp; the Whore rule
+without control[x]” (E 611)—a sentence lightly crossed out, probably by the timorous hand of Samuel
+Palmer, who later owned the book. As we see, Blake was at this point beginning to develop his symbolism of the
+conjunction of the state with its established church. Blake could have said as did Coleridge, in a note to the
+edition of his <hi rend="i">Religious Musings</hi> in 1797: “I am convinced that the Babylon of the
+Apocalypse does not apply to Rome exclusively; but to the union of Religion with Power and Wealth, wherever it
+is found” (<hi rend="i">Poems</hi> 89n). Blake’s most striking visual conceptualization of this to date
+was the astonishing title page for Night the Eighth of Young’s <hi rend="i">Night Thoughts</hi>, showing the
+scarlet woman with her cup
+<pb id="p32-39" n="39"/>
+of abominations mounted on a great red dragon whose seven grotesque heads embody the institutions of church
+and state. Blake would later go on to elaborate this conception in pictures like <hi rend="i">The Whore of
+Babylon</hi> and the Dante illustrations of Philip the Fair embracing Beatrice, and he would introduce it near
+the end of Night the Eighth of <hi rend="i">The Four Zoas</hi>, where John of Patmos “saw the Harlot of the
+Kings of Earth &amp; saw her Cup / Of fornication food of Orc &amp; Satan pressd from the fruit of Mystery”
+(111:6-7, E 386). But when Blake annotated Watson’s <hi rend="i">Apology</hi>, this symbolism was relatively
+fresh; as in so many other areas, we see it crystallizing in the later 1790s. At the same time, Blake was
+expressing in his art some of the positive religious feeling that we do not find in the Lambeth books. Once
+more we see this especially in the illustrations to <hi rend="i">Night Thoughts</hi>, with its images of Jesus
+crucified, Jesus resurrected, and Jesus the True Vine. These are far from the more spiritually charged images
+of Jesus Blake later produced—for example plate 76 of <hi rend="i">Jerusalem</hi>—but they do suggest the
+direction in which he was tending more than anything he wrote at the time.</p>
+          <p>The argument between the Bishop and Paine is, as Blake perceives, deeply political, having to do
+with “the English Crusade against France,” but it is cast in a theological form. Blake had probably
+learned enough about what would come to be known as the Higher Criticism of the Bible, both from the writings
+of Alexander Geddes, as Jerome McGann has argued,<supplied type="spacer"> </supplied><ref target="n7"
+type="note">7</ref> and from the presence of Geddes in the Johnson circle, to see that the Regius Professor of
+Divinity’s historical arguments were hopelessly out of touch. Paine attacks the evidence for the authorship
+of the Pentateuch by Moses and for the witnessing of miracles by Jesus in the Gospels as a means of denying
+the truth of the events that are recounted. Bishop Watson, as one would expect, defends the received accounts,
+but he says that even if Moses, Joshua, and Samuel did not write the books attributed to them, they could
+still be true, as they would have been assembled from “public records.” Blake at this point rejoins
+“Nothing can be more contemptible than to suppose Public RECORDS to be true” (E 617), anticipating
+Byron’s satire on the Gazettes in <hi rend="i">Don Juan.</hi> Blake refers to Deuteronomy 31:24, which
+begins “And it came to pass, when Moses had made an end of writing the words of this law in a book . . .
+.” If Moses didn’t write it, whoever did was a liar. This confutes the Bishop, but it actually isn’t
+very important to Blake, for he adds “it ceases to be history &amp; becomes a Poem of probable
+impossibilities fabricated for pleasure as moderns say but I say by Inspiration” (E 616). It sounds as if
+Blake were about to claim a different source for the authenticity of these books, especially when he writes
+shortly afterwards “If historical facts can be written by inspiration Miltons Paradise Lost is as true as
+Genesis. or Exodus” (E 617). We appear to be nearing the position of <hi rend="i">The Marriage of Heaven and
+Hell</hi>, in which Isaiah and Ezekiel say they derive their prophecies from the Poetic Genius and Isaiah
+speaks of “all poets” as if they were members of one fraternity. Yet Blake is not actually prepared to
+give this authority to the five books of Moses, because he objects to them on ethical grounds. “The
+Wickedness of the Israelites in murdering so many thousands under pretence of a command from God is altogether
+Abominable &amp; Blasphemous” (E 614). So the divinity of the Bible depends as little on “inspiration”
+as it does on historical facts. Blake goes on to say that it consists “in the Sentiments &amp; Examples
+which whether true or Parabolic are Equally useful as Examples given to us of the perverseness of some &amp;
+its consequent evil &amp; the honesty of others &amp; its consequent good” (E 618). What it comes down to is
+a matter of conscience. When the Bishop rhetorically asks of conscience “Or is it merely our own judgment of
+the moral rectitude and turpitude of our actions?” Blake underlined “Or is it merely” and wrote:
+“Conscience in those that have it is unequivocal, it is the voice of God Our judgment of right and wrong is
+reason” (E 613). <note id="n7"><hi rend="s">7</hi> McGann, “The Idea of an Indeterminate
+Text.”</note></p>
+          <p>On the subject of miracles: the Bishop believed in them, Paine did not. Did Blake? Yes and no.
+Blake points out that the Gospels were written after the fact, and he asserts “Jesus could not do miracles
+where unbelief hinderd” (E 616). We seem to be back in the territory of <hi rend="i">The Marriage</hi> once
+again, and of Ezekiel’s statement that all poets believe that a firm persuasion that a thing is so makes it
+so, and that “in ages of imagination this firm persuasion removed mountains.” Indeed, after comparing the
+miracle of the loaves and fishes with the effects of Paine’s <hi rend="i">Common Sense</hi>, Blake writes:
+<q>
+. . . look over the events of your own life &amp; if you do not find that you have done such miracles and
+lived by such you do not see as I do True I cannot do a miracle thro experiment &amp; to domineer over &amp;
+prove to others my superior power as neither could Christ But I can &amp; do work such as both astonish &amp;
+comfort me &amp; mine. How can Paine the worker of miracles ever doubt Christs in the above sense of the word
+miracle[.]<lb/>
+(E 617)
+</q></p>
+          <p>But what is “the above sense”? In the comparison with <hi rend="i">Common Sense</hi> the 
+<hi rend="i">miracle</hi> is a metaphor. In Blake’s reference to himself as a miracle worker, it is another kind
+of metaphor, much the same as he used in a letter to George Cumberland on 26 August 1799: “As to Myself
+about whom you are so kindly Interested. I live by Miracle” (E 704). That doesn’t tell us whether Blake
+thought Jesus fed a multitude with loaves and fishes. Of course I am not trying to subject Blake (or even
+Bishop Watson) to a theological cross-examination here. I just want to point out that when Blake asks how
+Paine can ever doubt Christ’s miracles he is practicing
+<pb id="p32-40" n="40"/>
+a beautiful form of equivocation, and that this indicates something further about Blake’s position in
+1798.</p>
+          <p>In response to Bishop Watson’s comparison of Moses to “the judge of the land in [carrying out
+the law] condemning criminals to death,” Blake wrote: “All Penal Laws court Transgression &amp; therefore
+are cruelty &amp; Murder” (E 618). This is not a Paineite position; it is a Godwinian one, and it is at the
+same time profoundly antinomian in spirit. In his excellent discussion of antinomianism and Blake, 
+<hi rend="i">Dangerous Enthusiasm</hi>, John Mee has rightly stressed how important a component of Blake’s
+beliefs antinomianism was in the 1790s, and the Annotations to Watson certainly bear him out. Seeing 
+<hi rend="i">all</hi> civil (and religious) institutions as evil is the negative pole of antinomianism; the
+positive pole is seeing the divine within. We see a strong emphasis on this element in Blake’s writings of
+the earlier 1790s, like <hi rend="i">The Marriage</hi> and <hi rend="i">Visions of the Daughters of
+Albion.</hi>—“Life delights in life,” “every thing that lives is holy.”—In the Annotations we see
+very little of that positive pole. Thomas Paine is an “Inspired Man” who gives himself to his “Energetic
+Genius,” but nevertheless “the Best &amp; the Whore rule without control[s].” There is a sense of
+desperation in this vision of things; as Sandler puts it, “the last years of the 1790s apparently
+constituted for Blake a crisis of faith and interpretation” (“Defending the Bible,” 44). After moving to
+Felpham, of course, Blake would have a series of visionary experiences that profoundly affected the content of
+his poetry and art. His later attitude is exemplified by the only written reference he would ever make to
+Paine after these Annotations, written in the Notebook essay known under the editorial title “A Vision of
+the Last Judgment”: “Many persons such as Paine &amp; Voltaire, with some of the Ancient Greeks, say:
+‘We will not converse concerning Good &amp; Evil we will live in Paradise &amp; Liberty You may do so in
+Spirit but not in the &lt;Mortal&gt; Body as you pretend till after the Last Judgment . . . .’” (E 564).
+The ground Blake had shared with Thomas Paine had disappeared, or to be more precise, had become irrelevant to
+him.</p>
+          <p>I wish to close with a suggestion as to why Blake so stressed “this year 1798.” It brings us
+back to Bishop Watson, who at the end of 1797 or very early in 1798, published an <hi rend="i">Address to the
+British People</hi> in which, in addition to defending war taxes, he asserted that political reformers and
+dissenters were loyal subjects and that they would resist a French invasion. This was an old theme of
+Watson’s. The book became another bestseller thanks to government sponsorship, although Watson claimed in
+the <hi rend="i">Anecdotes</hi> that he was not consulted on the government’s decision to print and give it
+away gratis. Fourteen editions appeared in London alone. Not all reformers and dissenters were grateful to the
+Bishop for his defense of their loyalty, however. In January 1798 Watson wrote: “On this and on other
+occasions some violent men, whose views of political and ecclesiastical reform extended far beyond mine, were
+filled with resentment against me, reproaching me with having changed my principles, and deserted the cause.
+This accusation was wholly without foundation; for my principles were not republican principles, nor was my
+cause their cause.” One of these dissenting dissenters was Gilbert Wakefield. In Watson’s words, “These
+publications of mine had excited the displeasure of Mr. Gilbert Wakefield (one of the first scholars of the
+age), and, unfortunately for himself, he published a pamphlet against them. The administration prosecuted him
+for some of the expressions in his pamphlet, which they thought were seditious, and he was fined and
+imprisoned. I took some pains to prevent this prosecution, thinking the liberty of the press to be the
+palladium of the constitution; but I did not succeed in my endeavours” (<hi rend="i">Anecdotes</hi> 305). On
+29 January 1799 Wakefield wrote to Watson asking the Bishop to be a character witness for him, but Watson
+replied that as he had never met Wakefield, he could not be a witness as to his character, although he admired
+Wakefield’s talents and would rejoice “at your being extricated from your present difficulty” (306).
+Wakefield was not extricated—he was sentenced to two years’ imprisonment in May 1799—but I want to
+return to the beginning of 1798, and Wakefield’s <hi rend="i">A Reply to the Bishop of Landaff’s Address
+to the People of England.</hi></p>
+          <p>Joseph Johnson had previously published at least one of Wakefield’s pamphlets, 
+<hi rend="i">Thoughts on Public Worship</hi> in 1792, but <hi rend="i">A Reply</hi> was published by J. Cuthell.
+In it Wakefield asserted of “our corrupt and guilty ministries”:
+<q>
+They have occasioned a destruction of the human species infinitely tremendous beyond the most merciless
+tyrants of ancient and modern times. . . .Land and sea is covered with the carcasses of their slain:—they
+have engendered sham plots, false alarms, and visionary assassinations, for the purpose of deluding the
+unwary, and to establish their own power by a military despotism, in due time, over England, like that, which
+now tramples bleeding Ireland to the earth. (21-23)
+</q></p>
+          <p>In contradiction to the Bishop’s view, Wakefield argued that the poor had nothing to lose by a
+French victory, and that if the French landed sixty or seventy thousand men in England, the kingdom would fall
+to them. He also projected a millennial vision of the sort more frequently encountered at the beginning of the
+decade than in 1798: “We, <hi rend="i">sons of peace</hi>, or see, or think we see, a gleam of glory through
+the mist, which now envelopes our horizon. Great revolutions are accomplishing: a general fermentation is
+working for the purpose of general refinement throughout the universe.” Cuthell was arrested immediately
+after publication. Copies of the pamphlet were found in Johnson’s shop, and he was indicted on 11 January
+1798. The charge was that “Joseph Johnson . . . being a malicious seditious and ill disposed person and
+being greatly disaffected to our said sovereign
+<pb id="p32-41" n="41"/>
+Lord the King . . . wickedly and seditiously did publish and cause to be published a certain scandalous
+malicious and seditious libel . . .”<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref>
+Although Johnson would not be tried until July and his sentence was put off even further, the seriousness of
+his position must have been evident from the start. Johnson had ever been a risk-taker, but never an imprudent
+one. He had been the original publisher of part 1 of Paine’s <hi rend="i">Rights of Man</hi> but after only
+a few copies had been sold, he transferred the book to J. S. Jordan. (Jordan was not prosecuted for this but
+he too was arrested for selling Wakefield’s <hi rend="i">Reply.</hi>) Johnson certainly realized his danger.
+He engaged as his lawyer the celebrated Thomas Erskine, the successful counsel for the defense in the State
+Trials of 1794; and it has been suggested by Paul Magnusson (“The Politics of ‘Frost At Midnight’”)
+that he published Coleridge’s <hi rend="i">Fears in Solitude</hi> volume in April 1798 as his part of a
+joint effort to show that neither poet nor publisher was pro-French. Probably in the political atmosphere of
+1798 nothing would have helped. He was eventually sentenced to six months’ in the King’s Bench Prison,
+although as it turned out he served his sentence under the milder regimen of the Marshalsea, where he was
+already incarcerated. Sometimes much is made of the comparative lightness of the sentence—to which one might
+rejoin with Gulliver’s comment on the <hi rend="i">lenity</hi> of the King of Lilliput: “I could not
+discover the lenity and favour of this sentence, but conceived it (perhaps erroneously) rather to be rigorous
+than gentle.” It is true that, like other economically privileged prisoners, Johnson was able to entertain
+while in jail and that he continued to hold his weekly dinners there. But the loss of personal freedom is in
+itself an acute punishment—why else would it be inflicted?—and Johnson was well known to be physically
+frail and suffering from asthma. Although he continued to be a publisher and bookseller after his release, his
+activities were much reduced. It would have required no prophetic powers on Blake’s part to sense that this
+(or worse) would be the outcome of Johnson’s arrest and prosecution. <note id="n8"><hi rend="s">8</hi> See
+Gerald Tyson, <hi rend="i">Joseph Johnson: A Liberal Publisher</hi> (Iowa City: University of Iowa Press,
+1979) 159. I am indebted to Tyson’s excellent book for the account of Johnson’s arrest and
+trial.</note></p>
+          <p>The practical implications cannot, of course, be ignored—Blake could not ignore them. The year
+1798 is a case in point. In that year only eight engravings by William Blake, all executed (probably after
+Fuseli) in 1797, are known to have been published. All were in books published by Joseph Johnson: four
+engravings for Charles Allen’s <hi rend="i">New and Improved History of England</hi> and four more for
+Allen’s <hi rend="i">New and Improved Roman History.</hi> At some point such practical considerations merge
+with Blake’s highest aspirations as artist and poet. Although Johnson and Blake were not close friends,
+Johnson had nevertheless played a considerable role in Blake’s life. As I’ve mentioned, it must be through
+Johnson that Blake met Paine, and it is likely that Blake at least occasionally attended Johnson’s Tuesday
+dinners, giving him entree to a group of writers and other intellectuals with whom Blake had at least some
+common interests. Johnson evidently encouraged Blake not only as an engraver but also as a poet and as an
+artist. The first book of Blake’s poem <hi rend="i">The French Revolution</hi> was printed for Johnson in
+1791, although the existence of this work is limited to a single set of proofs. (The reason for its
+nonpublication remains unexplained.) Blake’s <hi rend="i">The Gates of Paradise</hi> when originally offered
+in 1793 bore Johnson’s name as well as Blake’s as publisher. As Keri Davies has shown in a paper at a
+previous Strawberry Hill conference, Johnson exhibited books by Blake, which must surely mean illuminated
+books, at his place of business. And in the 1790s Johnson was, of course, Blake’s major employer. Blake’s
+professional life as an engraver had become intertwined with Johnson as early as 1779. In 1783 Blake
+contributed at least nine plates after other artists (including Thomas Stothard) to Johnson’s publication of
+Joseph Ritson’s important <hi rend="i">Select Collection of English Songs.</hi> Blake’s work for Johnson
+in the 1790s includes some of his most important engravings. Blake engraved six plates after his own designs
+for Mary Wollstonecraft’s <hi rend="i">Original Stories from Real Life</hi> (1791), and Johnson was also the
+publisher of John Gabriel Stedman’s <hi rend="i">Narrative of a Five Years’ Expedition against the
+Revolted Negroes of Surinam</hi>, to which Blake contributed approximately 16 engravings executed between 1791
+and 1794. Johnson ran against fashionable opinion in preferring Blake’s engraving to that of the more
+fashionable Bartolozzi’s. Writing to Erasmus Darwin in connection with a projected engraving of the Portland
+Vase in 1791, Johnson said: “Blake is certainly capable of making an exact copy of the vase, I believe more
+so than Mr. B[artolozzi]” (<hi rend="i">Blake Records</hi> 43). This would have cheered Blake, who despised
+what he called the “soft” quality of his rival’s work. <hi rend="i">The Botanic Garden</hi>, in which
+Blake’s engravings of the Portland Vase appeared in 1791, also featured his powerful engraving after
+Fuseli’s <hi rend="i">Fertilization of Egypt</hi>, and Blake later added an engraving, after Fuseli’s 
+<hi rend="i">Tornado</hi>, published in the third edition of 1795. Johnson also employed Blake on some purely
+commercial tasks, but it is clear that he was one of the very few publishers in London who had a true
+appreciation of Blake’s abilities as a designer and engraver of book illustrations. It’s possible to
+regret that Johnson did not make Blake a protégé as he had Mary Wollstonecraft or that (as far as we know)
+he did not value Blake’s painting as he did Henry Fuseli’s. It remains that no other employer played even
+a remotely similar role in Blake’s life.</p>
+          <p>In addition to his employment of Blake, Johnson had published some of the most important liberal
+and radical works of the 1790s. To take but one of many examples, Unitarian literature was one of Johnson’s
+specialties, and
+<pb id="p32-42" n="42"/>
+Johnson remained Joseph Priestley’s publisher to the end of Priestley’s life. Rational dissent was no
+doubt too rational for Blake, but Blake need not have completely agreed with the Unitarians to see that theirs
+was one way of defending the Bible. (Johnson’s business would go on, but Priestley’s later letters are
+full of complaints about his publisher’s dilatoriness.) And in addition to the public effect of Johnson’s
+arrest, Blake may well have seen a more specific application to himself. I suggested a long time ago that the
+arrest of Richard Brothers in 1795 and his consequent confinement in an insane asylum had a cautionary effect
+on Blake. Brothers was charged with “unlawfully, maliciously, and wickedly writing, publishing, and printing
+various fantastical prophecies, with intent to cause dissension and other disturbances within the
+realm.”<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> Blake must have realized how
+easily this law could have been applied to him, and the case of Brothers is likely to explain at least in part
+why Blake stopped issuing illuminated books for over a decade after 1795. (The information provided in John
+Barrell’s important essay “Imagining the King’s Death” could provide further material for this
+argument.) Johnson was no prophet in the modern or any other sense of the word—he had ever tried to keep to
+the windy side of the law—but his arrest for selling a book demonstrated the dangers of opposition all the
+more. It could cost a man his life, or part of it. “I have been commanded from Hell not to print this,”
+wrote Blake in his copy of Watson’s book, “as it is what our Enemies wish.” The poem 
+<hi rend="i">Vala</hi>, on which Blake was already working, was written out in a format that would have made it
+virtually impossible to publish. In 1798 Blake had printed no poetry or prose of his own for over three years
+(and with some very minor exceptions it would be at least a decade more until he did so). 
+<note id="n9"><hi rend="s">9</hi> See Paley, “William Blake, the Prince of the Hebrews, and the Woman Clothed with the Sun,”
+in <hi rend="i">William Blake: Essays in Honour of Sir Geoffrey Keynes</hi> (Oxford: Clarendon Press, year?)
+260-93.</note></p>
+          <p>In 1798 Blake realized that one period of his life had ended. It had been a period of enormous
+activity during which Blake produced some of the works by which he is still best known. It had been a period
+of exciting personal associations. And it had been a period of shared revolutionary hope, hope typified by the
+author whom Blake defended in his Annotations. The optimism, expectation, and joy of that period are typified
+in part of a letter that I would like to make the final words of this lecture. Upon getting news of the
+publication of <hi rend="i">The Rights of Man</hi> in the spring of 1791, Thomas Holcroft wrote jubilantly to
+William Godwin: “Hey for the New Jerusalem! The millennium! And peace and beatitude be unto the soul of
+Thomas Paine.”<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref>
+	<note id="n10"><hi rend="s">10</hi> C. Kegan Paul, <hi rend="i">William Godwin, His Friends and
+Contemporaries</hi> 1: 69.</note></p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>Auden, W. H. <hi rend="i">For the Time Being.</hi> New York: Random House, 1944.</p>
+            <p>Barrell, John. “Imagining the King’s Death: The Arrest of Richard Brothers.” 
+<hi rend="i">History Workshop</hi> no. 37 (1994): 1-32.</p>
+            <p>Bentley, G. E., Jr., <hi rend="i">Blake Records.</hi> Oxford: Clarendon Press, 1969.</p>
+            <p>Blake, William. <hi rend="i">Annotations to Richard Watson, An Apology for the Bible, in a
+Series of Letters Addressed to Thomas Paine.</hi> Ed. with an introduction by G. Ingli James. Cardiff:
+University College Cardiff Press, 1984.</p>
+            <p>—. <hi rend="i">The Complete Poetry and Prose of William Blake.</hi> Ed. David V. Erdman.
+Berkeley and Los Angeles: University of California Press, 1982.</p>
+            <p>—. <hi rend="i">The Continental Prophecies.</hi> Ed. Detlef W. Dörrbecker. London: The Tate
+Gallery for the William Blake Trust, 1994.</p>
+            <p>Coleridge, Samuel Taylor. <hi rend="i">Poems.</hi> Ed. John Beer. Rev. ed. London: J. M. Dent,
+1993.</p>
+            <p>Erdman, David V. <hi rend="i">et al., A Concordance to the Writings of William Blake.</hi> 2
+vols. Ithaca, NY: Cornell University Press, 1967.</p>
+            <p>Essick, Robert N. “William Blake, Thomas Paine, and Biblical Revolution.” 
+<hi rend="i">Studies in Romanticism</hi> 30 (1991): 189-212.</p>
+            <p>McCalmon, Ian. “New Jerusalems: Prophecy, Dissent and Radical Culture in England,
+1786-1830.” <hi rend="i">Enlightenment and Religion: Rational Dissent in Eighteenth-Century Britain.</hi>
+Ed. Knut Haakonssen. Cambridge: Cambridge University Press, 1996.</p>
+            <p>McGann, Jerome. “The Idea of an Indeterminate Text: Blake’s Bible of Hell and Dr. Alexander
+Geddes.” <hi rend="i">Studies in Romanticism</hi> 25 (1986): 303-24.</p>
+            <p>Magnusson, Paul. “The Politics of ‘Frost at Midnight.’” <hi rend="i">The Wordsworth
+Circle</hi> 22 (1991): 3-11.</p>
+            <p>Mee, Jon. <hi rend="i">Dangerous Enthusiasm: William Blake and the Culture of Radicalism in the
+1790s.</hi> Oxford: Clarendon Press, 1992.</p>
+            <p>Murray, E. B. Review of <hi rend="i">William Blake’s Writings</hi>, ed. G. E. Bentley, Jr.
+<hi rend="i">Blake</hi> 14 (1980-81): 148-61.</p>
+            <p>Paine, Thomas. <hi rend="i">Agrarian Justice, Opposed to Agrarian Law, and to Agrarian
+Monopoly.</hi> Paris: W. Adlard; London: J. Adlard, n.d.</p>
+            <p>—. <hi rend="i">Rights of Man.</hi> Introduction by Eric Foner, notes by Henry Collis.
+Harmondsworth: Penguin, 1985.</p>
+            <p>—. <hi rend="i">The Thomas Paine Reader.</hi> Ed. Michael Foot and Isaac Kramnick.
+Harmondsworth: Penguin, 1987.</p>
+            <p>Paley, Morton D. “William Blake, the Prince of the Hebrews, and the Woman Clothed with the
+Sun.” In <hi rend="i">William Blake: Essays in Honour of Sir Geoffrey Keynes.</hi> Ed. Morton D. Paley and
+Michael Phillips. Oxford: Clarendon Press, 1973. 260-93.</p>
+            <p>Paul, C. Kegan. <hi rend="i">William Godwin: His Friends and Contemporaries.</hi> 2 vols.
+London: Henry King, 1876.</p>
+            <pb id="p32-43" n="43"/>
+            <p>Paulson, Ronald. “John Trumbull and the Representation of the American Revolution.” 
+<hi rend="i">Studies in Romanticism</hi> 21 (1982): 341-56.</p>
+            <p>Phillips, Michael. “Blake and the Terror 1792-1793.” <hi rend="i">The Library</hi>, 6th
+ser. 16 (1994): 263-97.</p>
+            <p>Sandler, Florence. “‘Defending the Bible’: Blake, Paine, and the Bishop on the
+Atonement.” In <hi rend="i">Blake and His Bibles.</hi> Ed. David V. Erdman. West Cornwall, CT: Locust Hill
+Literary Studies, 1990.</p>
+            <p>Thompson, E. P. “London.” In <hi rend="i">Interpreting Blake.</hi> Ed. Michael Phillips.
+Cambridge: Cambridge University Press, 1978.</p>
+            <p>Tyson, Gerald P. <hi rend="i">Joseph Johnson: A Liberal Publisher.</hi> Iowa City: University
+of Iowa Press, 1979.</p>
+            <p>Wakefield, Gilbert. <hi rend="i">A Reply to Some Parts of the Bishop of Landaff’s Address to
+the People of Great Britain.</hi> 2nd ed. London: J. Cuthell, 1798.</p>
+            <p>—. <hi rend="i">The Spirit of Christianity, Compared with the Spirit of the Times in Great
+Britain.</hi> “New edition,” Dublin, 1794.</p>
+            <p>Wordsworth, William. <hi rend="i">The Prose Works of William Wordsworth.</hi> Ed. W. J. B. Owen
+and Jane Worthington Smyser. 3 vols. Oxford: Clarendon Press, 1974.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

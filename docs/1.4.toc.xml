@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <front id="issue_04">
+                <pb id="p01-1" n="1"/>
+                <div1 id="cover">
+                    <figure n="cover.001.04.bqscan" rend="file" width="258" height="334">
+                        <figTranscr>Blake Newsletter<lb/>
+                            Number 4<lb/>
+                            March 15, 1968<lb/>
+                            With this issue, the <hi rend="u">Blake</hi> <hi rend="u">Newsletter</hi>
+concludes its first year<lb/>
+                            of publication.  The response from Blake scholars has been generous and<lb/>
+                            enthusiastic, and we thank our many contributors and correspondents for<lb/>
+                            their support, something it has been impossible to do adequately in<lb/>
+                            individual correspondence.<lb/>
+                            Our only serious problem at the moment is, paradoxically, the success<lb/>
+                            of the <hi rend="u">Newsletter</hi>.  We produced 120 copies of #3 and found that
+this was<lb/>
+                            about the limit that our resources of time, energy and assistance will allow.<lb/>
+                            If most of our original subscribers re-subscribe, and if new subscriptions<lb/>
+                            continue to come in at the present rate, we will soon reach a point where<lb/>
+                            we can no longer fill new orders.  The alternative to this would be to find<lb/>
+                            some institutional support which would allow us to have the physical pro-<lb/>
+                            duction of the <hi rend="u">Newsletter</hi> done professionally, along with
+perhaps the mailing<lb/>
+                            and addressing of copies.  The point to be emphasized is that we 
+<hi rend="u">can</hi> continue<lb/>
+                            as at present for an indefinite time, but we cannot continue to grow without<lb/>
+                            changing our present arrangements for publication and distribution.  We do<lb/>
+                            not in any event plan to alter the informal nature of the 
+<hi rend="u">Newsletter</hi>.
+                            Most subscriptions to the <hi rend="u">Newsletter</hi> expire with this issue.  If
+you<lb/>
+                            have received Numbers 1-4 and wish to receive Numbers 5-8, please remember<lb/>
+                            to resubscribe.  Extensive tally-keeping and reminder-sending would<lb/>
+                            seriously interfere with work on our June issue, which is scheduled for<lb/>
+                            June 15.  We once more welcome contributions of news, notes, queries, and<lb/>
+                            discussion items.  The deadline for submissions is June 1.<lb/>
+                            The June issue will include a checklist of recent articles on Blake,<lb/>
+                            including reviews.  If you know of any that are likely to escape us, please<lb/>
+                            let us know.<lb/>
+                            The BLAKE NEWSLETTER is edited by Morton D. Paley, Dept. of English, Univer-<lb/>
+                            sity of California, Berkeley Calif. 94720.  Subscription price: two dollars<lb/>
+                            for one year (four issues.  Please make checks payable to Morton D. Paley.<lb/>
+                            British subscribers may remit Postal Money Orders for 16/8.  Such money<lb/>
+                            orders must be <hi rend="u">open</hi> and 
+<hi rend="u">uncrossed</hi>.</figTranscr>
+                    </figure>
+                </div1>
+				<div1 id="BQ-01-4-0000">
+					<supplied type="emend" rend="plain">
+						<table id="contents" rows="13" cols="2">
+						  <row>
+							<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><hi rend="b">News</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.damoniana">Further Damoniana</ref><lb/>
+							<hi rend="i">Alvin Rosenfeld, Foster Damon</hi></cell>
+							<cell>2</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.news">Miscellaneous News</ref></cell>
+							<cell>3</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Notes</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.stevenson">1. Two Problems in <hi rend="i">The Four Zoas</hi>
+(continued)</ref><lb/>
+							<hi rend="i">W. H. Stevenson</hi></cell>
+							<cell>6</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.erdman">2. Blake’s Terrible Ease!</ref><lb/>
+							<hi rend="i">David V. Erdman</hi></cell>
+							<cell>8</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.tolley">3. Some Analogues or Sources</ref><lb/>
+							<hi rend="i">Michael J. Tolley</hi></cell>
+							<cell>9</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Queries</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.howell">1. An Early, Hand-made Facsimile of the <hi rend="i">Songs
+of Innocence and of Experience</hi></ref><lb/>
+							<hi rend="i">John Howell</hi></cell>
+							<cell>10</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.todd">2. A Projected New Edition of the Gilchrist-Todd 
+<hi rend="i">Life of Blake</hi></ref><lb/>
+							<hi rend="i">Ruthven Todd</hi></cell>
+							<cell>11</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Discussion</hi><lb/>
+							<hi rend="b">“With intellectual spears, &amp; long winged arrows of thought”</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="1.4.letter">On the Newly Rediscovered Blake Letter</ref><lb/>
+							<hi rend="i">David V. Erdman</hi></cell>
+							<cell>12</cell>
+						  </row>
+						</table>
+					</supplied>
+				</div1>
+                <div1 id="BQ-01-4-0001">
+                    <p>With this issue, the <hi rend="u">Blake Newsletter</hi> concludes its first year of
+publication. The response from Blake scholars has been generous and enthusiastic, and we thank our many
+contributors and correspondents for their support, something it has been impossible to do adequately in
+individual correspondence.</p>
+                    <p>Our only serious problem at the moment is, paradoxically, the success of the 
+<hi rend="u">Newsletter.</hi> We produced 120 copies of #3 and found that this was about the limit that our
+resources of time, energy and assistance will allow. If most of our original subscribers re-subscribe, and if
+new subscriptions continue to come in at the present rate, we will soon reach a point where we can no longer
+fill new orders. The alternative to this would be to find some institutional support which would allow us to
+have the physical production of the <hi rend="u">Newsletter</hi> done professionally, along with perhaps the
+mailing and addressing of copies. The point to be emphasized is that we <hi rend="u">can</hi> continue as at
+present for an indefinite time, but we cannot continue to grow without changing our present arrangements for
+publication and distribution. We do not in any event plan to alter the informal nature of the 
+<hi rend="u">Newsletter.</hi>
+                    </p>
+                    <p>Most subscriptions to the <hi rend="u">Newsletter</hi> expire with this issue. If you
+have received Numbers 1-4 and wish to receive Numbers 5-8, please remember to resubscribe. Extensive
+tally-keeping and reminder-sending would seriously interfere with work on our June issue, which is scheduled
+for June 15. We once more welcome contributions of news, notes, queries, and discussion items. The deadline
+for submissions is June 1.</p>
+                    <p>The June issue will include a checklist of recent articles on Blake, including reviews.
+If you know of any that are likely to escape us, please let us know. 
+<note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by Morton D. Paley, Dept. of English, University of California,
+Berkeley Calif. 94720. Subscription price: two dollars for one year (four issues. Please make checks payable
+to Morton D. Paley. British subscribers may remit Postal Money Orders for 16/8. Such money orders must be 
+<hi rend="u">open</hi> and <hi rend="u">uncrossed.</hi>
+                        </note>
+                    </p>
+                </div1>
+        </front>
+        <body>
+                <pb id="p01-12" n="12"/>
+                <div1 id="BQ-01-4-0005">
+                    <p>The BLAKE NEWSLETTER is copyright 1968 by Morton D. Paley and its contents may not be
+reproduced without written permission. This is in order to protect our contributors, who are of course welcome
+to reprint their own material.</p>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

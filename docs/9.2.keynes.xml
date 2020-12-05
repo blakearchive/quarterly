@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.keynes</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake in the Provinces</title>
+        <author n="Keynes">Geoffrey Keynes</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0004">
+      <pb id="p09-41" n="41"/>
+        <div2>
+          <head>
+            <title type="main">Blake in the Provinces</title>
+          </head>
+          <byline>By <docAuthor>Geoffrey <name>Keynes</name></docAuthor></byline>
+          <p>A correspondent has drawn my attention to a reference to Blake in <hi rend="i">A Century of
+Birmingham Life</hi>, Birmingham, 1868, vol. II, pp. 246-7. This recorded a paragraph on Blake published in
+Arris’s <hi rend="i">Birmingham Gazette</hi> for Monday, 28 July 1806. Mr. W. A. Taylor, City Librarian, has
+kindly sent me xerox copies of the relevant parts of the issue of the newspaper for this date, which shows
+that the following advertisement was published:</p>
+          <figure n="Prospectus.9.2.bqscan" rend="file" width="386" height="317">
+          	<figTranscr>PROSPECTUS OF<lb/>
+          	<lb/>
+			A NEW and elegant Edition of BLAIR’s GRAVE,<lb/>
+			illustrated with twelve very spirited Engravings by LOUIS<lb/>
+			SCHIAVONETTI, from Designs invented by WILLIAM BLAKE.<lb/>
+			<lb/>
+			The Work will be printed by T. Bentley, Fleet-street, London,<lb/>
+			in Imperial Quarto.<lb/>
+			<lb/>
+			The Price to Subscribers will be two Guineas; one Guinea<lb/>
+			to be paid at the Time of subscribing, and the Remainder on<lb/>
+			Delivery of the Work. The Price will be considerably advanced<lb/>
+			to Non-subscribers.<lb/>
+			<lb/>
+			Messrs. Knott and Lloyd, Birmingham, will give the Address<lb/>
+			of the Proprietor of the Work, who will show the original Drawings<lb/>
+			and Specimens of the Style of Engraving.<lb/>
+			<lb/>
+			The Work has been honoured with the Subscriptions and Patronage<lb/>
+			of the following Gentlemen:<lb/>
+			<lb/>
+			BENJAMIN WEST, Esq. President of the Royal Academy.<lb/>
+			<lb/>
+			Sir William Beechey, R.A.<lb/>
+			Richard Cosway, Esq. R.A.<lb/>
+			Henry Fuseli, Esq. R.A.<lb/>
+			John Flaxman, Esq. R.A.<lb/>
+			Thomas Lawrence, Esq. R.A.<lb/>
+			Joseph Nollekens, Esq. R.A.<lb/>
+			<lb/>
+			James Northcote, Esq. R.A.<lb/>
+			J[ohn] Opie, Esq. Pr[ofessor] in Painting.<lb/>
+			Thomas Stothard, Esq. R.A.<lb/>
+			Martin Archer Shee, Esq. R.A.<lb/>
+			Henry Thomson, Esq. R.A.<lb/>
+			Henry Tresham, Esq. R.A.<lb/>
+			<lb/>
+			Thomas Hope, Esq. and William Locke, Jun[ior,] Esq.</figTranscr>
+          </figure>
+          <pb id="p09-42" n="42"/>
+          <p>On another part of the same sheet was a paragraph of criticism:
+<q>
+FINE ARTS—We have never experienced greater satisfaction than is announced to our readers, that there are
+now in this town, for the inspection of the lovers of the fine arts, some most beautiful designs intended to
+illustrate a new and elegant edition of Blair’s Grave. At a period when the labours of the pencil are almost
+wholly directed to the production of portraits, they who dare soar in the sublime regions of fancy surely
+claim the patronage of men of taste and discernment; and the specimens here alluded to may, with the strictest
+adherence to truth, be ranked among the most vigorous and classical productions of the present age.
+</q></p>
+          <p>I do not know of any other exhibition of Blake’s work having taken place anywhere outside
+London at this early date. The list of subscribers printed in the book gives the names of sixty-six
+subscribers in Birmingham and the vicinity. The list suggests that the exhibition may have been circulated to
+other large centres such as Liverpool, Leeds, Wakefield, Manchester, Newcastle-upon-Tyne, Bristol and
+Edinburgh.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

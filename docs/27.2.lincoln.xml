@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>27.2.lincoln</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">To the Editors</title>
+        <author n="Lincoln">Andrew Lincoln</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">27.2</biblScope>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Interns</resp>
+              <name>Lauren Raimondi</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Andrew Lincoln</name>
+              <name>Laura Mandell</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_27">
+    <body>
+      <div1 id="BQ-27-2-0006">
+      	<pb id="p27-45" n="45"/>
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+      </div1>
+      <div1 id="BQ-27-2-0007">
+        <head>
+          <title type="main">
+            <hi rend="i">To the Editors</hi>
+          </title>
+        </head>
+        <p>Since the publication of the Blake Trust/Tate Gallery edition of <hi rend="i">Songs of Innocence
+and of Experience</hi>, my attention has been drawn to a sentence in the introduction that needs to be
+corrected. I’d be grateful for the chance to set the record straight in the pages of 
+<hi rend="i">Blake.</hi></p>
+        <p>The sentence appears on page 14. It reads:
+<q>
+Early in his professional career he [Blake] was commissioned to engrave designs for <hi rend="i">The
+Speaker</hi> (c1780), an anthology designed to ‘facilitate the improvement of Youth in reading and
+Writing’, and for Mrs Barbauld’s <hi rend="i">Hymns in Prose for Children</hi> (1781).
+</q>
+As it stands this sentence might imply a commission for more than one illustration in each volume. I’d like
+to make it clear that I know of no evidence that Blake was ever commissioned to engrave plates for the
+Barbauld book, or that he was ever commissioned to engrave more than one plate for <hi rend="i">The
+Speaker.</hi> (I can only account for this error by assuming that <hi rend="i">Hymns in Prose</hi> traveled
+from my list of books Blake seems to have read to my list of books for which he produced illustrations.
+Unfortunately I didn’t pick this up in the proof-reading state—or notice that the quotation from 
+<hi rend="i">The Speaker</hi> was transcribed incorrectly.) The sentence should read as follows:
+<q>
+Early in his professional career he was commissioned to engrave a design for <hi rend="i">The Speaker</hi>
+(c1780), an anthology designed to ‘facilitate the Improvement of Youth in Reading and Speaking.’
+</q>
+I’d also like to take this opportunity to apologize to Mark Bracher, whose name was twice mangled in the
+edition.</p>
+        <p>I’m grateful to G. E. Bentley, Jr., Robert Essick and David Fuller for pointing out these errors
+to me.</p>
+		<q>
+Andrew Lincoln<lb/>
+English Department Queen Mary and Westfield Collge<lb/>
+University of London
+</q>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">05.4</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <front>
+            <pb id="p05-221" n="221"/>
+            <div1 id="cover">
+                <figure n="cover.005.04.bqscan" rend="file" width="258" height="336">
+                    <figTranscr>A HANDLIST<lb/>
+                    OF<lb/>
+                    WORKS BY<lb/>
+                    WILLIAM BLAKE<lb/>
+                    IN THE<lb/>
+                    DEPARTMENT OF<lb/>
+                    PRINTS &amp; DRAWINGS<lb/>
+                    OF<lb/>
+                    THE BRITISH MUSEUM<lb/>
+                        WITH<lb/>
+                        SUPPLEMENTARY<lb/>
+                        NOTES BY<lb/>
+                        G. E. BENTLEY, JR.<lb/>
+                    BLAKE<lb/>
+                    NEWSLETTER<lb/>
+                    TWENTY<lb/>
+                    SPRING 1972<lb/>
+                    TABLE OF CONTENTS<lb/>
+                    PREFACE 223<LB/>
+                    TABLE OF ABBREVIATIONS 224<lb/>
+                    LIST OF ILLUSTRATIONS 224<lb/>
+                    PART 1: MISCELLANEOUS<lb/>
+                    DRAWINGS AND SKETCHES 225<lb/>
+                    PART 2: DESIGNS FOR YOUNG’S<lb/>
+                    NIGHT THOUGHTS 229<lb/>
+                    PART 3: MISCELLANEOUS<lb/>
+                    ENGRAVINGS 234<lb/>
+                    PART 4: ILLUMINATED BOOKS 244<lb/>
+                    PART 5: REPRODUCTIONS 251<lb/>
+                    PART 6: APPENDICES 254<lb/>
+                    INDEX 257<lb/>
+                        Copyright © 1972 by Morton D. Paley<lb/>
+                    and Morris Eaves</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-05-4-0001">
+                <table id="contents" rows="9" cols="2">
+                  	<row>
+                        <cell colspan="3">
+							<head>
+								<title>
+									<supplied type="emend">CONTENTS</supplied>
+								</title>
+							</head>
+						</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="5.4.handlist">A HANDLIST OF WORKS BY WILLIAM BLAKE IN
+THE DEPARTMENT OF PRINTS &amp; DRAWINGS OF THE BRITISH MUSEUM</ref><lb/>
+                        WITH SUPPLEMENTARY NOTES BY G. E. BENTLEY, JR.</cell>
+                        <cell>223</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright © 1972 by Morton D. Paley and Morris
+Eaves</note>
+            </div1>
+            <pb id="p05-222" n="222"/>
+            <div1 id="BQ-05-4-0002">
+                <head>
+                    <title>
+                        <hi rend="b">BLAKE NEWSLETTER<lb/>
+                        AN ILLUSTRATED QUARTERLY</hi>
+                    </title>
+                </head>
+                <p>Volume 5, Number 4, Whole Number 20, Spring 1972. Published quarterly under the sponsorship
+of the Department of English of the University of New Mexico. Support for bibliographical assistance is
+provided by the University of California, Berkeley.</p>
+                <p>Morton D. Paley, <hi rend="i">Executive Editor</hi>, University of California, Berkeley;
+Morris Eaves, <hi rend="i">Managing Editor</hi>, University of New Mexico; Michael Phillips, 
+<hi rend="i">Associate Editor</hi>, University of Edinburgh; Jo Ann Kottke, <hi rend="i">Editorial Assistant</hi>,
+University of New Mexico; Foster Foreman, <hi rend="i">Bibliographer</hi>, University of California,
+Berkeley.</p>
+                <p>Manuscripts are welcome. They should be typed and documented according to the forms
+recommended in <hi rend="i">The MLA Style Sheet</hi>, 2nd ed., rev. (1970). Send two copies with a stamped,
+self-addressed envelope either to Morton D. Paley, Executive Editor, <hi rend="i">Blake Newsletter</hi>,
+Department of English, University of California, Berkeley, California 94720, or to Morris Eaves, Managing
+Editor, <hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico, Albuquerque, New
+Mexico 87106.</p>
+                <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4 for one
+year; overseas by air, $8 (U.S. currency if possible). Make checks payable to the <hi rend="i">Blake
+Newsletter.</hi> Address all subscription orders and related communications to Morris Eaves, Managing Editor,
+<hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico, Albuquerque, New Mexico
+87106.</p>
+                <p>Some back issues are available. Prices: Whole Numbers 14, 15, and 16, $2 each; Whole
+Numbers 17-18 (combined issue containing Robert Essick’s <hi rend="i">Finding List of Reproductions of
+Blake’s Art</hi>, 160 pages), $5; Whole Number 19, $3. Address Morris Eaves, Managing Editor. 
+                </p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

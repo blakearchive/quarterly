@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.2.princeton</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Cruikshank at Princeton</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.2</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Thomas Dillingham</name>
+              <name>Morton D. Paley</name>
+              <name>Sheila A. Spector</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <pb id="p32-51" n="51"/>
+      <div1 id="BQ-32-2-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Cruikshank at Princeton</hi>
+            </title>
+          </head>
+          <p>The Princeton University Library has just completed a website displaying prints and book
+illustrations of George Cruikshank (1792-1878): http://www.princeton.edu/~vismat/cruikshank/. Princeton has
+one of the largest collections of Cruikshank manuscripts, books, prints, and artwork, including more than a
+hundred drawings. The website contains links to the manuscripts finding aid, a catalogue of drawings, and an
+experimental interactive gallery showing preliminary drawings next to the finished prints, along with
+commentary and cataloguing records. The gallery can be browsed chronologically, thus serving as an overview of
+Cruikshank’s career. Any suggestions, comments, or corrections gratefully appreciated.</p>
+          <p>John Bidwell</p>
+          <p>Curator of Graphic Arts</p>
+          <p>Princeton University Library</p>
+          <p>graphics@pucc.princeton.edu</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

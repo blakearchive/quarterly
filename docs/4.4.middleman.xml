@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.middleman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">“Bring out number, weight &amp; measure in a year of dearth”</title>
+                <author n="Middleman">Louis Middleman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-4-0006">
+            	<pb id="p04-147" n="147"/>
+                <head>
+                    <title type="section">
+                        <hi rend="b">MINUTE PARTICULARS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">LOUIS</hi>
+                            <name>
+                                <hi rend="i">MIDDLEMAN</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">CARNEGIE-MELLON UNIVERSITY</hi>
+                    </byline>
+                    <head>
+                        <title type="main">“Bring out number, weight &amp; measure in a year of
+dearth”</title>
+                    </head>
+                    <p>William Blake’s use of the Bible is copiously documented, but it has as yet gone
+unnoticed that one of the Proverbs of Hell, “Bring out number, weight &amp; measure in a year of dearth,” is
+built on a close translation of the Aramaic writing on the wall (Daniel 5.25-28), “mene, mene, tekel,
+upharsin,” or “numbered, numbered, weighed, divided.”</p>
+                    <p>Blake announces in <hi rend="i">The Marriage of Heaven and Hell</hi> the advent of a
+new heaven consequent upon the destruction of a rationalistic epistemology based on a reductive materialism.
+The writing on the wall appeared at the feast of Belshazzar, last king of Babylon, prophesying the fall of his
+kingdom, the biblical analogue of Blake’s prophecies against the Babylon of Newton, Bacon, Locke, and other
+despicable “Angels.”</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1985</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1985</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.4</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Wayne Glausser</name>
+              <name>Jean H. Hagstrum</name>
+              <name>Nelson Hilton</name>
+              <name>Paul Mann</name>
+              <name>Alicia Ostriker</name>
+              <name>Morton D. Paley</name>
+              <name>David Simpson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1985"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <front>
+      <pb id="p18-193-194" n="193-194"/>
+      <div1 id="cover">
+        <figure n="cover.018.04.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 18<lb/>
+            NUMBER 4<lb/>
+            SPRING 1985</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-18-4-0001">
+        <table id="contents" rows="15" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>196</cell>
+            <cell><ref type="article" issue="18.4.glausser">The Gates of Memory in Night VIIa of 
+<hi rend="i">The Four Zoas</hi></ref> by Wayne Glausser</cell>
+          </row>
+          <row>
+            <cell>204</cell>
+            <cell><ref type="article" issue="18.4.mann">The Final State of <hi rend="i">The Four
+Zoas</hi></ref> by Paul Mann</cell>
+          </row>
+          <row>
+            <cell>216</cell>
+            <cell><ref type="article" issue="18.4.essick"><hi rend="i">The Four Zoas:</hi> Intention and
+Production</ref> by Robert N. Essick</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>221</cell>
+            <cell><ref type="article" issue="18.4.hilton">Ronald Paulson, <hi rend="i">Representations of
+Revolution (1789-1820)</hi></ref>, reviewed by Nelson Hilton</cell>
+          </row>
+          <row>
+            <cell>224</cell>
+            <cell><corr type="emend"><ref type="article" issue="18.4.paley">Ronald Paulson, <hi rend="i">Book and Painting:
+Shakespeare, Milton, and the Bible: Literary Texts and the Emergence of English Painting</hi> and 
+<hi rend="i">Literary Landscape: Turner and Constable</hi></ref>,</corr> reviewed by Morton D. Paley</cell>
+          </row>
+          <row>
+            <cell>227</cell>
+            <cell><ref type="article" issue="18.4.simpson">Heather Glen, <hi rend="i">Vision and
+Disenchantment: Blake’s Songs and Wordsworth’s Lyrical Ballads</hi></ref>, reviewed by David
+Simpson</cell>
+          </row>
+          <row>
+            <cell>231</cell>
+            <cell><ref type="article" issue="18.4.bentley">David H. Weinglass, ed., <hi rend="i">The Collected
+Letters of Henry Fuseli</hi></ref>, reviewed by G.E. Bentley, Jr.</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>235</cell>
+            <cell><ref type="article" issue="18.4.nhilton">Pudendaddendum</ref> by Nelson Hilton</cell>
+          </row>
+          <row>
+            <cell>236</cell>
+            <cell><ref type="article" issue="18.4.hagstrum">Richardson and Blake</ref> by Jean H.
+Hagstrum</cell>
+          </row>
+          <row>
+            <cell>238</cell>
+            <cell><ref type="article" issue="18.4.ostriker">Reply to Hagstrum</ref> by Alicia Ostriker</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>238</cell>
+            <cell>
+              <ref type="article" issue="18.4.song"><hi rend="i">Songs</hi> Sung and Recorded</ref>, 
+              <ref type="article" issue="18.4.trianon">Trianon Press Facsimiles</ref>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-18-4-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p>G.E. BENTLEY, JR., of the University of Toronto is preparing a Supplement to <hi rend="i">Blake
+Records</hi> (1969) for the Clarendon Press and completing books on F.J. Du Roveray, the Edwardes of Halifax,
+Thomas Macklin, and other illustrated-book publishers of the 1790s.</p>
+        <p>ROBERT N. ESSICK, Professor of English, University of California, Riverside, is the author of 
+<hi rend="i">William Blake, Printmaker</hi> and <hi rend="i">The Separate Plates of William Blake: A
+Catalogue.</hi> He is now writing a study of Blake and the language of Adam.</p>
+        <p>WAYNE GLAUSSER, Assistant Professor of English, DePauw University, has written about Blake,
+Wordsworth, and contemporary American fiction. He has most recently written an essay interpreting Blake’s
+letters in and around the Felpham period.</p>
+        <p>JEAN H. HAGSTRUM is currently a Senior Mellon Fellow at the National Humanities Center, Research
+Triangle Park, North Carolina.</p>
+        <p>NELSON HILTON, <hi rend="i">Blake’s</hi> review editor, is also co-editor (with Thomas A. Vogler)
+of <hi rend="i">Unnam’d Forms: Blake and Textuality</hi>, which will be published later this year by the
+University of California Press.</p>
+        <p>PAUL MANN, currently living in San Francisco, is a member of the Santa Cruz Blake Study Group.</p>
+        <p>ALICIA OSTRIKER is the editor of Blake’s <hi rend="i">Complete Poems</hi> (Penguin). Two of her
+recent works include a book of poems, <hi rend="i">A Woman Under the Surface</hi> (Princeton, 1982), and a
+collection of her critical essays, <hi rend="i">Writing Like a Woman</hi> (Michigan, 1983).</p>
+        <p>MORTON D. PALEY’s most recent book is <hi rend="i">The Continuing City: William Blake’s</hi>
+Jerusalem (Oxford, 1983). His study of apocalyptic art in Britain, <hi rend="i">The Apocalyptic Sublime</hi>,
+will be published by Yale next year.</p>
+        <p>DAVID SIMPSON is Professor of English at Northwestern University, and the author of various books
+and articles on Romanticism. His <hi rend="i">The Politics of American English, 1776-1850</hi> will appear in
+early 1986. <note type="unreferenced" place="footer">© 1985 Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+      <pb id="p18-195" n="195"/>
+      <div1 id="BQ-18-4-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+      </div1>
+      <div1 id="BQ-18-4-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Chapel Petty Schmitt, University of New
+Mexico.</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the modern Language Associations International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes’</hi> annual Romantic Bibliography, ART bibliographies
+MODERN, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

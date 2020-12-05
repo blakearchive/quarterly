@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Seminar: Laocoön</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-3-0003">
+      <pb id="p10-68" n="68"/>
+        <head>
+          <title type="section">
+            <hi rend="b">News</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <figure n="MLALaocoon.10.3.bqscan" rend="file" width="400" height="195"/>
+            <title type="main">
+              <hi rend="b">MLA Seminar: Laocoön</hi>
+            </title>
+          </head>
+          <p>In the opening paragraph of Irene Tayler’s article on Blake’s Laocoön, interested readers
+will find further information on the 1976 MLA Blake seminar, announced originally in 
+<hi rend="i">Newsletter</hi> 38.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

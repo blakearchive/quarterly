@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.2</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Donald Fitch</name>
+              <name>Andrew M. Stauffer</name>
+              <name>Mei-Ying Sung</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <front>
+      <pb id="p35-33-34" n="33-34"/>
+      <div1 id="cover">
+        <figure n="cover.035.02.bqscan" rend="file" width="258" height="332">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            ANDREW STAUFFER ON BLAKE’S POISON TREES<lb/>
+            DONALD FITCH’S SUPPLEMENT TO <hi rend="i">BLAKE SET TO MUSIC</hi><lb/>
+            VOLUME 35<lb/>
+            NUMBER 2<lb/>
+            FALL 2001</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-35-2-0001">
+        <table id="contents" rows="8" cols="2">
+          <row>
+            <cell>
+        	<head>
+          	  <title>CONTENTS</title>
+        	</head>
+        	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.2.stauffer">Blake’s Poison Trees</ref><lb/>
+<hi rend="i">By Andrew M. Stauffer</hi></cell>
+            <cell>
+              <hi rend="i">36</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.2.fitch"><hi rend="i">Blake Set to Music</hi>: Supplement
+2001</ref><lb/>
+<hi rend="i">By Donald Fitch</hi></cell>
+            <cell>
+              <hi rend="i">40</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.2.sung">Frances Carey, ed. <hi rend="i">The Apocalypse and the
+Shape of Things to Come.</hi> Catalogue of the British Museum exhibition, 17 December 1999-24 April
+2000</ref><lb/>
+<hi rend="i">Reviewed by Mei-Ying Sung</hi></cell>
+            <cell>
+              <hi rend="i">61</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.2.news">
+              <hi rend="i">www.rochester.edu/college/eng/blake;</hi></ref><lb/>
+			<ref type="article" issue="35.2.winter"><hi rend="i">Winter Issue</hi>
+            </ref></cell>
+            <cell>
+              <hi rend="i">63</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-35-2-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p35-35" n="35"/>
+      <div1 id="BQ-35-2-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Donald Fitch, author of <hi rend="i">Blake Set to Music</hi> (U of California P, 1990), is a
+retired reference librarian from UC Santa Barbara. He devotes a good part of his time to composing and
+arranging choral music.</p>
+        <p>Andrew M. Stauffer is an assistant professor of English at Boston University. He has published
+articles on Byron, Blake, Shelley, and Godwin, and is currently working on a larger project entitled “Fits
+of Rage: Anger, Revolution, and Romanticism.”</p>
+        <p>Mei-Ying Sung is a Ph.D. student at St. Mary’s College, Strawberry Hill, Twickenham, England. She
+is researching the techniques of Blake’s <hi rend="i">Illustrations of the Book of Job.</hi></p>
+      </div1>
+      <div1 id="BQ-35-2-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey Hall 410, University of Rochester, Rochester NY
+14627</p>
+        <p>MANAGING EDITOR: Sarah Jones<lb/>
+TELEPHONE 716/275-3820 FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: sjns@mail.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada. The University of
+Toronto declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-35-2-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the 4 issues of the current volume. Addresses outside the
+U.S., Canada, and Mexico require a $10 per volume postal surcharge for surface, and $25 per volume surcharge
+for air mail delivery. Credit card payment available for non-U.S. subscribers. Make checks payable to 
+<hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and related communications to
+Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester NY 14627. Back
+issues are available; address Sarah Jones for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors:
+Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627; Morton D. Paley, Dept. of
+English, University of California, Berkeley CA 94720-1030. No articles will be returned unless accompanied by
+a stamped self-addressed envelope. For electronic submissions, you may send a diskette, or you may send your
+article as an attachment to an email message. The preferred file format is RTF. Other formats are usually
+acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: “The Upas Tree,” illustration by George Cruikshank, for <hi rend="i">The Blessings of
+Temperance</hi> (London, 1840) facing page 49. Reproduced by permission of the Huntington Library, San Marino,
+California. <note type="unreferenced" place="footer">© 2001 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p35-64" n="64"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">Robert F. Gleckner<lb/>
+    			1925-2001</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

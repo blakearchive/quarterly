@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.1.yale</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Yale Center Symposium</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.1</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-66" n="66"/>
+      <div1 id="BQ-16-1-0009">
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Yale Center Symposium</hi>
+            </title>
+          </head>
+          <p>In conjunction with <hi rend="i">William Blake: His Art and Times</hi>, the exhibition of
+Blake’s work scheduled to open at the Yale Center for British Art on 15 September 1982, the Center will
+offer some special programs. On Saturday, 11 September, from 10:30 a.m. to 4:30 p.m., there will be a
+symposium featuring the following talks: “Thoughts on ‘William Blake: His Art and Times’” (David
+Bindman); “‘What immortal hand and eye’: Seeing through Blake’s Media” (Robert Essick); “Blake’s
+Lamb-Tiger” (Ronald Paulson); “Canterbury Revisited: The Blake-Cromek Controversy” (Aileen Ward);
+“Reading the Designs of <hi rend="i">Jerusalem</hi>” (Morton Paley); “‘Conversing with the Man’”
+(Geoffrey Hartman); and “Blake and Fuseli” (Gert Schiff).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

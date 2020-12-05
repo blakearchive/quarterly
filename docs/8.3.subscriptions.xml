@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.subscriptions</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Our New Subscription System</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+            <biblScope unit="volIss">08.3</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <pb id="p08-48" n="48"/>
+      <div1 id="BQ-08-3-0002">
+        <head>
+          <title type="section">
+            <hi rend="b">News</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Our New Subscription System</hi>
+            </title>
+          </head>
+          <p>Some subscribers have had good reason to wonder why The <hi rend="i">Newsletter</hi> can’t
+handle its affairs with the business like efficiency of <hi rend="i">PMLA</hi> and <hi rend="i">Playboy.</hi>
+The main reason is a chronic shortage of money and clerical help. Another reason is a primitive addressing and
+mailing operation in the University of New Mexico post office. We have tried for years to keep our dealings
+with individuals, libraries, and subscription agencies clean and efficient, and our occasional failures have
+made us more and more unhappy with things as they are.</p>
+          <p>So we have decided to get rid of at least one large trouble spot, our revolving subscription
+system. We publish four issues a year, and you have been able to begin subscribing with any one of the four
+issues. That is, your subscription may expire with the summer issue, while someone else’s may expire with
+spring, winter, or fall. This system is easy for a computer to handle, and convenient for subscribers, and
+thus it is the standard system for commerical magazines.</p>
+          <p>But the system is very difficult to manage efficiently with limited money and clerical help, and
+a system that might ideally be convenient to the subscriber becomes inconvenient. Everyone knows that there is
+no better analogy to the Gordian knot than a fouled-up magazine subscription, and we have decided to go with
+Alexander the Great.</p>
+          <p>Our new system of handling subscriptions will be the one used by <hi rend="i">PMLA</hi> and some
+other large scholarly journals—subscription <hi rend="i">by the volume.</hi> Every subscription will begin
+with the summer issue (the issue with which <hi rend="i">Newsletter</hi> volumes begin) and end with spring.
+All renewal notices will be sent out at the same time every year. New subscribers will be sent the current
+issue, plus all the previous issues in the current volume.</p>
+          <p>The new system is much simpler than the old for us, and we are certain it will mean fewer
+problems for you. But shifting from the old system to the new will be a lot of trouble for all of us, and we
+are asking you in advance to help us—mainly to bear with us—when the change-over begins this spring.</p>
+          <p>The procedure will not be complicated. The aim is to move each subscription from its present
+expiration date to expire with the spring issue. Every subscription will then begin with the summer issue. Of
+course, subscriptions that now expire with the spring issue will not be changed. All others will be. You will
+receive a bill for an amount large enough to bring your subscriptions into the new subscription cycle. You
+will not be paying extra money, of course—just paying on a slightly different schedule.</p>
+          <p>The procedure and the reasons for it will be explained again when you receive your bill.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

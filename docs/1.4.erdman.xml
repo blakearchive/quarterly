@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.erdman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Terrible Ease!</title>
+				<author n="Erdman">David V. Erdman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <div1 id="BQ-01-4-0003">
+                	<pb id="p01-8" n="8"/>
+                    <div2>
+                        <head>
+                            <title type="main">2. Blake’s Terrible Ease!</title>
+                        </head>
+                        <byline>
+                            <docAuthor>David V. <name>Erdman</name>
+                            </docAuthor>
+                        </byline>
+                        <p>Through an accident of photographic ordering, a second infra-red print of Notebook
+page 5 has come from the B.M. (in connection with preparations for a new facsimile edition, still some years
+off); and on this page the bottom lines are surprisingly darker and more legible than had seemed possible from
+earlier infra and other photographs. One can, in fact, <hi rend="u">see</hi> everything, i.e. complete lines
+of squiggle for words; the writing is Blake at his unsteadiest (he was probably writing on one knee); and it
+is now possible to be well nigh definitive in the reading of these deathless lines. (Doubleday pp. 491-2;
+781)</p>
+                        <p>I can see now that the apparently random pair of scratches at the bottom of the
+page are intended to cancel lines 31-32, to be replaced by lines 33-34—with what can be now read as the same
+rhyme words. Page 492 in a new printing will thus be emended to conclude:
+<q>From pity then he redend round<lb/>
+And the Spell removed unwound<lb/>
+If Blake could do this when he rose up from shite<lb/>
+What might he not do if he sat down to write
+</q>
+The textual notes on p. 781 will read:</p>
+                        <p>29 From pity then] Then after <hi rend="u">1st rdg del</hi> “Then” was mended to
+“From”, “after” was <corr type="emend">canceled,</corr> “pity then” was written above the line; in a faint
+photograph of this very rubbed pencil page, at one time the outside page of the Notebook, the “pi” looks like
+a “B”, and “then” combining with the ascending stroke of “he” looks like “thing” or “shing” (thus “Blushing”
+in my earlier reading). In a better photograph this and the following lines are distinctly legible.</p>
+                        <p>30 removed] <hi rend="u">inserted above the line</hi>
+                        </p>
+                        <p>31 rose up from] sat down to <hi rend="u">1st rdg del</hi>
+                        </p>
+                        <p>31-32 written in margin to replace the following two lines, cancelled with two
+slanting strokes:
+<q>
+If thus Blake could Shite<lb/>
+What Klopstock did write
+</q>
+                        </p>
+                    </div2>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

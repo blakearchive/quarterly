@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.4.job</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Job in Frankfurt Schauspielhaus</title>
+        <author n="Dörrbecker">Detlef W. Dörrbecker</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.4</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Marietta Barnes</name>
+              <name>Lynn Goldstein</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Susan Fox</name>
+              <name>Laurence Goldstein</name>
+              <name>Janice Lyle</name>
+              <name>Morton D. Paley</name>
+              <name>Ronald Paulson</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <pb id="p11-298" n="298"/>
+      <div1 id="BQ-11-4-0009">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">JOB IN FRANKFURT SCHAUSPIELHAUS</hi>
+            </title>
+          </head>
+          <p>In Gilchrist’s <hi rend="i">Life</hi> we find the record of a conversation between Samuel
+Palmer and William Blake concerning the <hi rend="i">Job</hi> illustrations. Palmer recollects that he “asked
+him [Blake] how he would like to paint on glass, for the great west window [of Westminster Abbey], his ‘Sons
+of God shouting for Joy,’ from his designs in the <hi rend="i">Job.</hi> He said, after a pause, ‘I could
+do it’ kindling at the thought.” (Gilchrist, 1863, I, 303). Almost 150 years after Blake’s death this
+idea—mutatis mutandis—was finally put into practice, not in Westminster Abbey and not by Blake himself, of
+course, but on stage at the Frankfurt Schauspielhaus by the scenic designer Erich Wonder. On 5 June 1977 I
+went to see the first performance of Tankred Dorst and Horst Laube’s new play, <hi rend="i">Goncourt oder:
+Die Abschaffung des Todes</hi>—itself, I thought, rather disappointing. The stage directions for scene 16,
+however, demanded the interior of a small Gothic chapel where members of the 1871 Paris Commune were to be
+seen during one of their last meetings prior to their final defeat, which was inflicted upon them by the
+<corr type="emend">troops</corr> of the reactionary Thiers. The design for the one “stained glass window” shown in the scenery was taken
+from Blake’s <hi rend="i">Job</hi> watercolors. A giant transparency enlargement of the Butts version of
+“When the Morning Stars Sang Together” had been cut into the shape of a slightly pointed twelfth-century
+Gothic window, thus spreading some spiritual comfort and hope on the representation of that otherwise 
+<corr type="emend">desperate</corr> moment in history. Whether Erich Wonder in his stage design did so with or
+without knowledge of the Blakean context I cannot say. For me—and I hope some others in the audience
+too—the appearance of that reproduction both meant that the sufferings of the Commune members were related
+to the sufferings of the Biblical patriarch, and that at the same time there was a promise for their final
+redemption (which will be ours too). <byline><docAuthor>DETLEF W. 
+<corr type="emend"><name>DÖRRBECKER</name>,</corr></docAuthor> FRANKFURT.</byline></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

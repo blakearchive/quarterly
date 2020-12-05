@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.works</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Works in Progress</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-3-0003">
+					<pb id="p04-73" n="73"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">WORKS IN PROGRESS</hi>
+                        </title>
+                    </head>
+                    <p>Kremen, Kathryn R.: a book, “The Imagination of the Resurrection: The Poetic Continuity
+and Conversion of a Religious Motif in Donne, Blake, and Yeats,” which will be the revision of a dissertation
+(Brandeis, May 1970) that “studies how the resurrection motif begins as a religious doctrine—a revelation of
+God’s mercy—and becomes a possession of the romantic poets (especially Blake)—a recreation of the
+imagination.” Article on two of Blake’s illustrations to the Bible, “Ezekiel’s Vision” and “The Woman
+Taken in Adultery”—how they “portray Blake’s religious vision and how they illuminate Blake’s reading of
+the Biblical text and our reading of Blake.”</p>
+                    <p>Paananen, Victor N. (Michigan State Univ.): the <hi rend="i">William Blake</hi> volume
+for the Twayne Series.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

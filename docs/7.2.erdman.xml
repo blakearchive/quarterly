@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.erdman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Erdman Lectures</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+	<pb id="p07-29" n="29"/>
+            <div1 id="BQ-07-2-0002">
+                    <head>
+                        <title type="main">
+                            <hi rend="b">ERDMAN LECTURES</hi>
+                        </title>
+                    </head>
+                    <p>Several people have written to tell us of visits paid to their campuses in recent
+months by
+<pb id="p07-30" n="30"/>
+David Erdman (State University of New York, Stony Brook), so in turn we wrote to him for a complete inventory.
+From December 1973 through March 1974 he tells us that he visited eleven campuses and gave sixteen talks. The
+talks were “Blake’s <hi rend="i">Milton</hi>,” “Blake’s <hi rend="i">Song of Los</hi>,” “Blake and the
+Burden of the Present,” “Blake in and out of His Perishing Body,” and “Coleridge as Concerned Spectator [i.e.,
+as news commentator],” and “Wordsworth’s <hi rend="i">Prelude</hi> as Ark.” The talks were given in various
+combinations at the following places and times: Brown University (13 December), University of Minnesota and
+University of Alberta (16 January), University of Iowa (23-24 January), University of Chicago (28 January),
+University of Puget Sound (26 February), University of Oregon (27 February), University of California,
+Berkeley (1 March, 4 March), University of California, La Jolla (11 March), University of Southern California
+(13 March), Claremont Graduate School (14 March).</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

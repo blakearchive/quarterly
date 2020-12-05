@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.4.gabriella</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="poem">Los’s Visit</title>
+        <author n="Gabriella">Katharyn R. Gabriella</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.4</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Cindy Lewiecki</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Marietta Barnes</name>
+              <name>Lynn Goldtein</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Jenijoy La Belle</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Christopher Heppner</name>
+              <name>G. Ingli James</name>
+              <name>John Kilgore</name>
+              <name>Andrew Lincoln</name>
+              <name>Anne Mellor</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <body>
+      <div1 id="BQ-12-4-0009">
+      	<pb id="p12-266" n="266"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">LOS’S VISIT</hi>
+            </title>
+          </head>
+		<q>
+Your increasing energy<lb/>
+amazes me. While I slept,<lb/>
+you worked through the night,<lb/>
+single-handedly, in bright,<lb/>
+black letters, writing,<lb/>
+and making dawn come again.<lb/>
+<lb/>
+I wept when you left,<lb/>
+but the vision of your delight makes you beautiful,<lb/>
+beyond my words or yours.<lb/>
+As you leave, with the new day,<lb/>
+in your arms, you carry the sun.
+</q>
+          <byline>
+            <docAuthor>
+              <hi rend="b">Katharyn R.</hi>
+              <name>
+                <hi rend="b">Gabriella</hi>
+              </name>
+            </docAuthor>
+          </byline>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

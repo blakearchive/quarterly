@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.3.wobble</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Jah Wobble and Band Honor William Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2000/01</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000/01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.3</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editors</resp>
+              <name>Sarah Jones</name>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Agnes Peter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+    <body>
+      <pb id="p34-95" n="95"/>
+      <div1 id="BQ-34-3-0007">
+        <div2>
+          <head>
+            <title type="main"><hi rend="b">Jah Wobble and Band Honor William Blake</hi> 29 August 2000,
+British Library Auditorium</title>
+          </head>
+          <p>“Born in 1757 the son of an Irish hosier, Blake was an astonishingly talented man, who became a
+poet, painter, engraver and mystic, championing the freedom of the imagination and expressing a hatred of
+materialism and rationalism.</p>
+          <p>Jah Wobble’s musical CV includes playing with the likes of Peter Gabriel, Brian Eno, Björk,
+Dodgy and Sinead O’Connor. In a rare, one-off London show, the former member of Public Image LTD pays homage
+to one of England’s most famous Romantic Poets in an evening of dub-driven soundscapes and cinematic
+projections.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

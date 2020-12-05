@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.3.faerie</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Reproductions of Blake’s Faerie Queene</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1990/1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990/91</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.3</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stuart Atkins</name>
+              <name>Lisa Plummer Crafton</name>
+              <name>Robert N. Essick</name>
+              <name>Bruce E. Graver</name>
+              <name>David Groves</name>
+              <name>Michael Fischer</name>
+              <name>Edward Larrissy</name>
+              <name>John Mee</name>
+              <name>Brian Wilkie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990/1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <pb id="p24-109" n="109"/>
+      <div1 id="BQ-24-3-0008">
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">REPRODUCTIONS OF BLAKE’S</hi> FAERIE QUEENE</title>
+          </head>
+          <p>In <hi rend="i">Blake’s</hi> small office, we still have quite a few copies of the large color
+reproduction of Blake’s Spenser painting, which was originally published in the <hi rend="i">Blake
+Newsletter</hi> in 1975. The price is $5 including shipping and postage. It will be sent to you by first class
+mail, in a cardboard tube. Make checks out to <hi rend="i">Blake/An Illustrated Quarterly</hi> and mail to
+Patricia Neill, Managing Editor, <hi rend="i">Blake</hi>, Department of English, University of Rochester,
+Rochester NY 14627.</p>
+          <figure n="BUT811.1.detail" rend="file" width="800" height="732"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

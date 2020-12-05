@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.2.news</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Publications, periodicals, and exhibitions</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>September 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.2</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                            <name>W.E. Moss</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-16" n="16"/>
+            <div1 id="BQ-02-2-0002">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NEWS</hi>
+                    </title>
+                </head>
+                <p>The 1964 volume of <hi rend="u">The Library</hi>, with David V. Erdman’s article “The
+Binding (et cetera) of <hi rend="u">Vala</hi>,” has at last been published.</p>
+                <p>Sir Geoffrey Keynes’ new edition of <hi rend="u">Blake’s Letters</hi> will be published
+by Rupert Hart-Davis Ltd. on September 16.</p>
+                <p>
+                    <hi rend="u">Energy and the Imagination: a Study of the Development of Blake’s
+Thought</hi> by Morton D. Paley is scheduled for publication by The Clarendon Press in 1969.</p>
+                <p>The <hi rend="u">Burke Newsletter</hi> has become <hi rend="u">Studies in Burke and His
+Time</hi>, published three times yearly by Alfred University, Alfred, N.Y. 14802.</p>
+                <p>We expect to run a report on the English Institute (Sept. 3-5) in the winter 
+<hi rend="u">Newsletter.</hi> Scheduled Blake papers are: “Apprenticeship in the Haymarket?” by Martha Winburn
+England; “Metamorphoses of a Favorite Cat” by Irene Tayler; and “<hi rend="u">America</hi>: New Expanses” by
+David V. Erdman. The winner of the essay prize has not yet been announced.</p>
+                <p>The Blake holdings of the British Museum Print Room are at present in the Museum Bindery
+for mounting and new binding. They will be available for visitors by November 1968.</p>
+                <p>
+                    <hi rend="u">Blake Studies</hi> (University of Tulsa, Tulsa, Okla. 74104) announces that
+its first issue, scheduled for this coming fall, contains articles by E.J. Rose, Karl Kiralis, and Clyde
+Taylor; notes by Ruthven Todd and Joseph Wittreich; a short story by Winston Weathers; book reviews by Desiree
+Hirst, and abstracts of two new dissertations.</p>
+                <p>The <hi rend="u">Johnsonian News Letter</hi> is sponsoring a listing of 18th-century work
+in progress. A survey form is included in the March 1968 issue; the list will be published in fall 1968. (610
+Philosophy Hall, Columbia University, New York, N.Y. 10027).</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

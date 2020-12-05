@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2007-08</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007-08</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.3</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>C.S. Matheson</name>
+              <name>Jennifer Davis Michael</name>
+              <name>Morton D. Paley</name>
+              <name>Wayne C. Ripley</name>
+              <name>G.A. Rosso</name>
+              <name>Justin Van Kleeck</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007/2008"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <front>
+      <pb id="p41-97-98" n="97-98"/>
+      <div1 id="cover">
+        <figure n="cover.041.03.bqscan" rend="file" width="258" height="332">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            A Bibliography for the Study of<lb/>
+            <hi rend="i">VALA/The Four Zoas</hi><lb/>
+            Book and<lb/>
+            Exhibition<lb/>
+            Reviews<lb/>
+            VOLUME 41<lb/>
+            NUMBER 3<lb/>
+            WINTER 2007-08</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-41-3-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.vankleeck">A Bibliography for the Study of 
+<hi rend="i">VALA/The Four Zoas</hi></ref><lb/>
+<hi rend="i">By Justin Van Kleeck</hi></cell>
+            <cell>
+              <hi rend="i">100</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.ferber">Jennifer Davis Michael, <hi rend="i">Blake and the
+City</hi></ref><lb/>
+<hi rend="i">Reviewed by Michael Ferber</hi></cell>
+            <cell>
+              <hi rend="i">125</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.ripley">Jeremy Tambling, <hi rend="i">Blake’s Night
+Thoughts</hi></ref><lb/>
+<hi rend="i">Reviewed by Wayne C. Ripley</hi></cell>
+            <cell>
+              <hi rend="i">127</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.michael">Jason Allen Snart, <hi rend="i">The Torn Book:
+UnReading William Blake’s Marginalia</hi></ref><lb/>
+<hi rend="i">Reviewed by Jennifer Davis Michael</hi></cell>
+            <cell>
+              <hi rend="i">129</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.matheson">[Robert C. Brandeis,] <hi rend="i">William Blake
+and His Contemporaries</hi>: An Exhibition Selected from the Bentley Collection at Victoria University,
+Victoria University Library, Toronto</ref><lb/>
+<hi rend="i">Reviewed by C. S. Matheson</hi></cell>
+            <cell>
+              <hi rend="i">131</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.rosso">Magnus Ankarsjö, <hi rend="i">William Blake and
+Gender</hi></ref><lb/>
+<hi rend="i">Reviewed by G. A. Rosso</hi></cell>
+            <cell>
+              <hi rend="i">133</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.paley"><hi rend="i">The Last Judgment</hi> by “B.
+Blake”</ref><lb/>
+<hi rend="i">By Morton D. Paley</hi></cell>
+            <cell>
+              <hi rend="i">135</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Corrigendum</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="41.3.viscomi">To “Blake’s ‘Annus Mirabilis’: The
+Productions of 1795,” <hi rend="i">Blake</hi> 41.2 (fall 2007)</ref><lb/>
+<hi rend="i">By Joseph Viscomi</hi></cell>
+            <cell>
+              <hi rend="i">135</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-41-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p41-99" n="99"/>
+      <div1 id="BQ-41-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Michael Ferber is professor of English and Humanities at the University of New Hampshire. He has
+recently edited (and partly translated) the anthology <hi rend="i">European Romantic Poetry</hi> (New York:
+Pearson Longman, 2005) and completed the second edition of <hi rend="i">A Dictionary of Literary Symbols</hi>
+(Cambridge: Cambridge UP, 2007). He may be reached at mferber@cisunix.unh.edu.</p>
+        <p>C. S. Matheson teaches romantic literature and visual culture at the University of Windsor,
+Ontario. Her current projects on romantic spectatorship include a book on the invention of public art
+exhibition in the period (which does feature Blake) and a collaborative investigation, with Alex McKay, of the
+Claude mirror and constructions of landscape called “The Transient Glance”
+&lt;http://www.claudemirror.com&gt;.</p>
+        <p>Jennifer Davis Michael (jmichael@sewanee.edu), professor of English at the University of the South
+in Sewanee, Tennessee, is the author of <hi rend="i">Blake and the City</hi> (Bucknell UP, 2006).</p>
+        <p>Morton D. Paley recently completed <hi rend="i">Samuel Taylor Coleridge and the Fine Arts</hi>,
+which will be published by Oxford in 2008.</p>
+        <p>Wayne C. Ripley is an assistant professor at Winona State University. He is working on a project
+involving Blake, Young, and the tradition of devotional radicalism in the long eighteenth century.</p>
+        <p>G. A. Rosso (rossog1@southernct.edu) has authored and co-edited a number of books and essays on
+Blake’s epic prophecies and their relation to the Bible, Milton, and British social history. He teaches
+English at Connecticut State University in New Haven.</p>
+        <p>Justin Van Kleeck (jsvk13@vt.edu) is an adjunct assistant professor of English at Piedmont Virginia
+Community College in Charlottesville, Virginia.</p>
+      </div1>
+      <div1 id="BQ-41-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu TELEPHONE: 585/275-3820 FAX:
+585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College Street,
+Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-41-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+        <p>Manuscripts are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors. No articles will be returned unless accompanied by a stamped self-addressed envelope.
+For electronic submissions, you may send a disk, or send your article as an attachment to an email message;
+please number the pages of electronic submissions. The preferred file format is RTF; other formats are usually
+acceptable.</p>
+        <p>International Standard Serial Number: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, Humanities International Complete,
+Arts and Humanities Citation Index, Current Contents and the Bibliography of the History of Art. 
+<note type="unreferenced" place="footer">© 2008 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

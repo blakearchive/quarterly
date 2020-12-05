@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.grant</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s Vision of Spenser’s Faerie Queene: A Report and Anatomy</title>
+        <author n="Grant">John E. Grant</author>
+        <author n="Brown">Robert E. Brown</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+            <biblScope unit="volIss">08.3</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <pb id="p08-56" n="56"/>
+      <div1 id="BQ-08-3-0003">
+        <head>
+          <title type="main">
+            <hi rend="b">Blake’s Vision of Spenser’s <hi rend="i">Faerie Queene:</hi> A Report and an
+Anatomy</hi>
+          </title>
+        </head>
+        <figure n="BUT811.1.1.PT" rend="file" width="1000" height="330"/>
+        <byline>
+          <hi rend="b">by</hi>
+          <docAuthor>
+            <hi rend="b">John E.</hi>
+            <name>
+              <hi rend="b">Grant</hi>
+            </name>
+          </docAuthor>
+          <docAuthor>
+            <hi rend="b">Robert E.</hi>
+            <name>
+              <hi rend="b">Brown</hi>
+            </name>
+          </docAuthor>
+          <ref target="n7">*</ref>
+        </byline>
+        <p>Blake’s tempera called <hi rend="i">The Characters in Spenser’s Faerie Queene</hi> has
+attracted less attention than it deserves due in part to its somewhat remote location, its rather poor
+condition, and its not having been adequately reproduced, though its size, complexity, and finish establish it
+as one of Blake’s major surviving works. With the kind assistance of Martin Butlin, whose forthcoming
+catalogue raisonné is eagerly awaited, we are able to provide a summary of basic data concerning the
+painting. We shall also attempt to describe and identify all the figures in the picture.
+	<note id="n7"><hi rend="i">John E. Grant (University of Iowa) has published many articles on Blake, most
+recently in</hi> Blake Newsletter 26. <hi rend="i">He wishes to express his gratitude to the American Council
+of Learned Societies for a fellowship in 1968-69 that enabled him to study</hi> The Characters in Spenser’s
+<hi rend="i">Faerie Queene. Robert E. Brown is a doctoral candidate in English at the University of
+Iowa.</hi></note></p>
+        <p>It is now the property of the National Trust, and is regularly on display at Petworth House,
+Sussex, about fifty miles from London. The specific media are watercolor with ink on muslin. It has been
+varnished, mounted on a panel, and closely framed, which causes the edges of the picture to be shadowed;
+vertical lines at the right and left edges indicate that they were formerly occulted by a frame. Reports that
+it has been recently cleaned refer only to repairs following a minor accident. The painting measures 18 ×
+53-½ inches (45.7 × 135.8 cm.)—practically the same size as Blake’s better known tempera of 
+<hi rend="i">Chaucer’s Canterbury Pilgrims.</hi> In 1951 Keynes reported that the picture is signed WB, but the
+signature is not visible in 1974 photographs. The date of execution was conjectured by Keynes to have been ca.
+1815, but Butlin and Grant have independently concluded that a date of ca. 1825 is more probable.</p>
+        <p>The first report of the painting is that it was sold by Mrs. Blake to Lord Egremont for 80 guineas
+in 1828. It passed by descent to Lord Leconfield and thence to John Wyndham, later Lord Egremont, who gave it
+to H. M. Treasury in 1957. It was exhibited in London by the Burlington Fine Arts Society in 1876 and the Arts
+Council in 1951, and in Washington in 1957.</p>
+        <p>The literature on the picture is sketchy. A few suggestive facts may be gleaned from the Gilchrist
+<hi rend="i">Life of William Blake</hi>, I, 365 (1863; rpt., ed. Todd, 1945, p. 356) and the Rossetti list in
+Gilchrist, II, 235, no. 208 (1863; rev. ed. 1880, II, 249, no. 235). Additional references are Collins Baker,
+<hi rend="i">Petworth Catalogue</hi> (1920), p. 5, no. 408; Keynes, <hi rend="i">The Tempera Paintings</hi>
+(1951), p. 17, item 6; Bentley, <hi rend="i">Blake Records</hi> (1969), p. 363. The only previous color
+reproduction, that issued by the Blake Society in the 1920’s, was quite small and is now rare. The
+monochrome reproductions in Figgis (1925) and Todd (1971) are too small for detailed study. The reproduction
+in Damon’s <hi rend="i">Dictionary</hi> (1965, 1967, pl. 8), however, is somewhat larger, and Damon’s
+discussion is the only attempt at a systematic exposition. Though we disagree (sometimes silently) with Damon
+in a number of particulars, we have been considerably assisted by his observations.</p>
+        <p>In a full-scale study of the painting one would wish to consider the relation between Blake and
+Spenser generally. There are brilliant remarks on this subject in Frye’s <hi rend="i">Fearful Symmetry</hi>
+(1947), passim, but no comments on the paintings. A penetrating interpretation of <hi rend="i">Gray</hi> 64:
+<hi rend="i">Bard</hi> 12, entitled “Spenser Creating His Faeries,” is to be found in Tayler, 
+<hi rend="i">Blake’s Illustrations to the Poems of Gray</hi> (1971), pp. 103-07; see Keynes, 
+                    <pb id="p08-57" n="57"/>
+ed., <hi rend="i">William Blake’s Water-Colour Designs for the Poems of Thomas Gray</hi> (1971), p. 59.
+Apart from what can be inferred from Blake’s “Imitation of Spencer” in <hi rend="i">Poetical Sketches</hi>
+and the inscription from <hi rend="i">The Faerie Queene</hi> II, ii, 2 on p. 19 of the 
+<hi rend="i">Notebook</hi>—see Erdman and Moore, <hi rend="i">The Notebook of William Blake: A Photographic and
+Typographic Facsimile</hi> (1973), pp. 16-17—there is no verbal evidence of what Blake thought of his great
+predecessor. More substantial inferences can be gathered from the “Head of Spenser” which Blake painted about
+1800: see the catalogue of William Wells, <hi rend="i">William Blake’s “Heads of the Poets” for Turret
+House, The Residence of William Hayley, Felpham</hi> (1969), pp. 21-22.</p>
+        <p>Another important basis for inference is Blake’s tempera <hi rend="i">Sir Geoffrey Chaucer and
+the Nine and Twenty Pilgrims on their Journey to Canterbury</hi> (1808), for which Blake wrote expositions,
+particularly in the <hi rend="i">Descriptive Catalogue</hi> (1809). Blake also issued as many as five engraved
+states of this picture, and the later states are accompanied by identifying and interpretational inscriptions;
+see Keynes, <hi rend="i">The Engraved Designs of William Blake: The Separate Plates</hi>, no. 17, pp. 45-49.
+For expositions of the <hi rend="i">Chaucer</hi> see Damon’s <hi rend="i">Dictionary</hi> and especially
+Karl Kiralis, “William Blake as an Intellectual and Spiritual Guide to Chaucer’s Canterbury Pilgrims,” 
+<hi rend="i">Blake Studies</hi>, I (1969), 139-90. The fact that the Spenser cavalcade is almost exactly the same
+size as the tempera Chaucer cavalcade and the similarity of arrangements of the figures in both paintings
+imply that Blake intended them to be companion pictures. Since Butts owned the <hi rend="i">Chaucer</hi> until
+his death in 1845 while Lord Egremont purchased the <hi rend="i">Spenser</hi> in 1828, however, it is not
+evident how the two pictures could have been displayed together.</p>
+        <p>The color reproduction of <hi rend="i">The Characters in Spenser’s Faerie Queene</hi> which
+accompanies this exposition is practically the first of clarity adequate for study without reference to the
+original. It is based on photographs of A. C. Cooper, Ltd., London, taken by Gordon H. Roberton at Petworth in
+Spring, 1974. Though the reproduction is about two-thirds as <hi rend="i">long</hi> as the painting, the
+picture <hi rend="i">area</hi> is less than half that of the painting. Thus the viewer should be cautioned
+against expecting that the reproduction will have the same impact as the original. The edges of the color
+reproduction have been cropped to eliminate shadows and color printing has produced a general reddish cast
+that is not true to the painting. The blowups and sketches that illustrate our exposition should enable the
+viewer to attain a more secure grasp of the picture than could have been gotten from a brief look at the
+original which has seriously decayed, particularly in the upper corners. We have also provided a coded key of
+all figures in the picture and for convenience will refer to it even before it is systematically
+explained.</p>
+        <p>Our detailed exposition is based on two periods of study: in the spring of 1969 Grant spent several
+hours intensively looking at the picture as it was displayed at Petworth, without benefit of special lighting.
+Later Grant and Brown studied various projections of a black and white photograph of the picture that was
+procured from the Courtauld Institute at the suggestion of the National Trust. Black and white and color
+photographs from Cooper were not available until the last stages of the preparation of the manuscript.</p>
+        <p>These studies have been rewarded by discoveries comparable to those made in excavating various
+levels of an archaeological site. Repeatedly, additional study of areas in the picture that seem to contain
+nothing has revealed details of undoubted if uncertain significance. Some of these, such as the Spread-winged
+Presence, “Nature” (B 11),
+<pb id="p08-58" n="58"/>
+are unquestionably present, and can be recognized by anyone once they have been pointed out. Other details are
+more dubious, such as a transparent architectural feature just above the figure we identify as Florimell (A
+16). In other areas, such as B 14 and 15, the shapes per se are almost imperceptible but the light patterns
+indicate there must have been figures. Clouds, frame-shading, deterioration, and, perhaps, pentimenti, all
+contribute to producing indefinite areas, particularly at the upper right edge of the picture. The validity of
+assertions about such areas can only be confirmed or rejected as a result of study of the original freed from
+the frame and under special lighting conditions.</p>
+        <p>In this analysis a thorough report of all perceptible details has been our primary concern, even
+when the details seem peculiar or unaccountable. We have provided enlargements or adapted tracings of details
+that are too small or faint for clear viewing: there are blowups of A 26, A 27, A 28, A 29, A I, A II, A IV, B
+1, B 5, B 6, B 7, B 19, B 20; there are adapted tracings of A VIII, A IX, A XII, B 5, B 6, B 7, B 11, B 12, B
+14, B 15, B 19, B 20, B 21. In both our visual and verbal renditions of the painting, it has seemed better to
+risk supererogation than incompleteness.</p>
+        <p>Our fundamental aim of descriptive accuracy shades over into the problem of illustrative
+correspondence with figures and topographic features in Spenser’s <hi rend="i">Faerie Queene.</hi> One is
+able to see more clearly when one understands what may be seen. The vast, intricate design of Spenser’s epic
+poses a formidable challenge to the expositor who wishes to give a thorough account of the correspondences
+between the poem and Blake’s very detailed picture for it. Brown has particularly addressed himself to this
+problem. The best basis for identification of details is specific reference in <hi rend="i">The Faerie
+Queene</hi> to the appearance, features or clothing of any figure in the painting. When such references do not
+occur, we have worked from other suppositions. One is that the figures Blake presents are likely to be among
+the most important in <hi rend="i">The Faerie Queene</hi>; another is that many of the evil human figures are
+not represented except for those few relegated to the rear of the procession. It seems likely that Blake
+presents the figures more or less in the order that they appear in the poem, so that figures around the
+Redcrosse Knight, for example, probably appear in or near Book I. Variations from this arrangement are duly
+noted. The elaborate eye- and hand-framings in the picture tend to set off some groups of figures from others
+and also to form a system of pairings of figures (see Analysis I). Spenserian narrative affinities often seem
+reliable guidance for identifying the problematic member of a pair: for example, it would seem likely that a
+haloed female companion to the Redcrosse Knight (A 3) would certainly be Una (A 4), even if she were not
+identifiable by specific textual descriptions, Finally, it was noticed that the same number of women appear in
+the procession as are really important in <hi rend="i">The Faerie Queene</hi> itself (see Analysis II). These
+clues have aided in identification of all female figures, and have
+<figure n="ProfileDetail.8.3.bqscan" rend="file" width="250" height="208"/>
+led to some speculation as to the meaning of their arrangement.</p>
+        <p>A number of the figures, particularly those in the supernal region above the clouds, however, seem
+less to illustrate texts in <hi rend="i">The Faerie Queene</hi> than to function as Blakean criticisms of the
+quality of Spenserian vision. Damon was correct in identifying the central figure of the divinity as “The God
+of this World”; a deity who superintends the bellicose moral virtues must be “my vision’s greatest enemy.”
+Yet Blake was certainly prompted by Spenser’s “Jove” (<hi rend="i">Mut.</hi> VI. 15 ff.) in delineating this
+figure. To recognize and evaluate the proportions of illustration and criticism in a Blake picture is a
+challenging task. In his pictorial comments on other writers from Young and Gray to Milton, Bunyan, and Dante,
+Blake the artist sought to reveal the strengths as well as limitations perceptible to his prophetic criticism.
+Though all were susceptible to error, all possessed redemptive imagination. Probably not all of Blake’s
+thoughts about Chaucer are contained in his rather extensive verbal comments on his picture. Other dimensions
+of consideration are implied in Blake’s picture of the <hi rend="i">Pilgrims</hi>, but Chaucer is a
+this-worldly author and gives his illustrator little explicit guidance as to how his supernal regions should
+be conceived. Thus Blake was free to provide only birds and a few other pictorial details as auguries of
+supernal design in Chaucer. Of course, Spenser differs from Chaucer in that he gives a more explicit account
+of his divine machinery and Blake could follow his author in rendering the heavenly regions visually.</p>
+        <p>Comparison with the Chaucer <hi rend="i">Pilgrims</hi> cannot but suggest other ways in which the
+Spenser may be interpreted. The similarities in the depictions of the Prioress and Una (A 4) and the Wife of
+Bath and the figure we identify as Britomart (A 14) are striking, and the further similarity between the
+gestures and positions of Harry Bailey and Britomart (A 14) must be meaningful. More extended comparative
+study will lead the viewer to consider
+<pb id="p08-59" n="59"/>
+that Chaucer’s <hi rend="i">Pilgrims</hi> are, for the most part, making progress. It is possible to
+question whether they are going in exactly the right direction, but, with a few exceptions, they are certainly
+moving ahead. Not so with Spenser’s <hi rend="i">Characters.</hi> The Lion (A 2) and Una’s Ass are
+stepping forward and Guyon’s horse is probably strutting ahead, but of the other chief mounts, three are
+rearing and two are shying. If their destination really is the Gothic Jerusalem at the upper left as,
+following Damon, we suppose to be the case, Spenser’s Characters are going to have to get moving, overcome
+external and internal impediments, and, circuitously, redirect their route. Whether they can be imagined able
+to accomplish this exploit, either as a group or individually, depends on what the viewer is able to gather
+about the proportions of Good and Evil revealed in the heavens of Spenser.</p>
+        <p>What we offer in this detailed analysis of the <hi rend="i">Characters in Spenser’s Faerie
+Queene</hi> is not primarily interpretive. Our chief concerns are accurate description and identification of
+the Spenserian characters and scenes in the picture. If we have generally succeeded, we will have tended to
+obviate a number of interpretive possibilities, but in general we have only tried to touch on these matters in
+an allusive or suggestive manner. For purposes of clarity, we have presented a numbered schematic version of
+the Spenser picture somewhat like that of Blake’s drawing of <hi rend="i">A Vision of the Last Judgment</hi>
+employed by Damon in his <hi rend="i">Dictionary.</hi> When this and the other pictorial aids are compared
+with the color reproduction of the picture, the viewer can easily locate the area being referred to. The
+Spenser procession differs from <hi rend="i">The Last Judgment</hi>, however, in that the figures in the
+foreground seldom interact with those in the background, and both are sharply separated from those in the
+supernal regions. Thus, we have not employed a consecutive numbering system, such as is suitable for 
+<hi rend="i">The Last Judgment</hi>, but have preferred to label characters and places on the Earth as figures of
+Row A, either in arabic or roman numerals, depending upon whether they are near or far, and those in the
+supernal region above the clouds as figures of Row B, always in arabic numerals. Cross-referenced figures
+within each row are usually identified by code key identification whenever they are mentioned in the
+exposition; when the row is not explicitly designated, it will be understood that the figure in question is in
+the same row as is being discussed at that point. We have first provided lists in which all the numbered
+figures are identified either with characters in <hi rend="i">The Faerie Queene</hi> or other details from
+that poem, or else briefly described when there seems to be no Spenserian text that elucidates them.</p>
+        <p>In the expository commentary are more detailed, though hardly exhaustive, discussions of the
+pictures: some aspects are not at all thoroughly considered. Much the most important of these is color: when
+seen by Grant in 1969, much color was visible and was noted, but many of the blues in particular had faded
+badly and there were many disfiguring white spots, particularly in the supernal regions. How much these spots
+were due to the white ground paint showing through in an unintended way was not determined. Because we have
+been unable to compare our notes with the present condition of the painting, it did not seem helpful to
+include a full report on the colors as they appeared in 1969. The reader will probably prefer not to be
+flooded with a mass of uncoordinated data. The other class of information deliberately omitted from this
+commentary is the flowers and plants that are seen at the feet of many figures in the foreground procession.
+It is quite possible that these florae had particular significance for Blake but, despite work on this aspect
+of Blake’s symbolism begun by Kauver and Erdman, we are not at present able to identify the species of the
+plants in this picture. Moreover, since we have eschewed most color notes, we could at best provide tedious
+verbal descriptions of the florae that would not be more informative than what the reader could make out for
+himself, particularly with the use of a magnifying glass.</p>
+        <p>Our commentary does attempt to provide a quite thorough account of such factors as distinguishable
+topographic details, and the postures, gestures, sightlines, clothing, and mounts (where there are any) of all
+the human figures, together with a certain number of cross-references to some other Blake works which contain
+figures that seem to have resemblances to those in the Spenser procession. On the whole, the analogies that
+seem most suggestively similar to those in this picture occur in Blake’s late works, such as the series for
+<hi rend="i">L’Allegro</hi> and <hi rend="i">I1 Penseroso</hi> and <hi rend="i">Paradise Regained,
+Jerusalem</hi>, the <hi rend="i">Book of Job</hi>, and the <hi rend="i">Divine Comedy.</hi> We are grateful to
+Mary Lynn Johnson for pointing out a number of the most interesting analogies, as well as for making an acute
+critique of our manuscript. Without her help we would have overlooked many important details. It is hoped that
+such lacunae as remain will stimulate other scholars to make necessary corrections and amplifications. Anyone
+who studies this picture for an evening will find himself drawn into further reflections on how Blake read
+Spenser.</p>
+        <figure n="SittingDetail.8.3.bqscan" rend="file" width="250" height="211"/>
+        <pb id="p08-60-61" n="60-61"/>
+        <figure n="BlakeFaerieQueeneNumbered.8.3.bqscan" rend="file" width="958" height="318">
+          <figTranscr>1 2 3 4 5a 5b 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21<lb/>
+          I II III IV V VI VII VIII IXa IXb X XI XII<lb/>
+          1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 28b 28c 29 29a 30 30a</figTranscr>
+          <head><corr type="emend">Row B (top); Row A (bottom).</corr></head>
+        </figure>
+        <div2>
+          <head>
+            <title>KEY</title>
+          </head>
+          <table rows="30" cols="2">
+            <head>
+              <hi rend="b">Row A: Arabic Numerals: The Procession</hi>
+            </head>
+            <row>
+              <cell>A1</cell>
+              <cell>The Dwarf</cell>
+            </row>
+            <row>
+              <cell>A2</cell>
+              <cell>Una’s Lion</cell>
+            </row>
+            <row>
+              <cell>A3</cell>
+              <cell>The Redcrosse Knight</cell>
+            </row>
+            <row>
+              <cell>A4</cell>
+              <cell>Una</cell>
+            </row>
+            <row>
+              <cell>A5</cell>
+              <cell>The Dragon</cell>
+            </row>
+            <row>
+              <cell>A6</cell>
+              <cell>Ruddymane</cell>
+            </row>
+            <row>
+              <cell>A7</cell>
+              <cell>The Palmer</cell>
+            </row>
+            <row>
+              <cell>A8</cell>
+              <cell>Belphoebe</cell>
+            </row>
+            <row>
+              <cell>A9</cell>
+              <cell>Timias</cell>
+            </row>
+            <row>
+              <cell>A10</cell>
+              <cell>Sylvanus</cell>
+            </row>
+            <row>
+              <cell>A11</cell>
+              <cell>Guyon</cell>
+            </row>
+            <row>
+              <cell>A12</cell>
+              <cell>Satyrane</cell>
+            </row>
+            <row>
+              <cell>A13</cell>
+              <cell>Glauce</cell>
+            </row>
+            <row>
+              <cell>A14</cell>
+              <cell>Britomart</cell>
+            </row>
+            <row>
+              <cell>A15</cell>
+              <cell>Marinell(?)</cell>
+            </row>
+            <row>
+              <cell>A16</cell>
+              <cell>Florimell</cell>
+            </row>
+            <row>
+              <cell>A17</cell>
+              <cell>Arthegall</cell>
+            </row>
+            <row>
+              <cell>A18</cell>
+              <cell>Amoretta</cell>
+            </row>
+            <row>
+              <cell>A19</cell>
+              <cell>Scudamore</cell>
+            </row>
+            <row>
+              <cell>A20</cell>
+              <cell>Talus</cell>
+            </row>
+            <row>
+              <cell>A21</cell>
+              <cell>Arthur</cell>
+            </row>
+            <row>
+              <cell>A22</cell>
+              <cell>The Salvage Man</cell>
+            </row>
+            <row>
+              <cell>A23</cell>
+              <cell>Pastorella</cell>
+            </row>
+            <row>
+              <cell>A24</cell>
+              <cell>Calidore</cell>
+            </row>
+            <row>
+              <cell>A25</cell>
+              <cell>The Captain of the Brigants, or Braggadocchio</cell>
+            </row>
+            <row>
+              <cell>A26</cell>
+              <cell>Flying figures with leading strings to 29</cell>
+            </row>
+            <row>
+              <cell>A27</cell>
+              <cell>Flying figures with leading strings to 30</cell>
+            </row>
+            <row>
+              <cell>A28</cell>
+              <cell>The Blatant Beast, led by a small figure, 28a, with another on its muzzle, 28b, and a
+third, 28c, on its collar</cell>
+            </row>
+            <row>
+              <cell>A29</cell>
+              <cell>Duessa, with a figure standing on her head</cell>
+            </row>
+            <row>
+              <cell>A30</cell>
+              <cell>Archimago bound, with a figure, 30a, seated on his shoulder</cell>
+            </row>
+          </table>
+          <table rows="12" cols="2">
+            <head>
+              <hi rend="b">Row A: Roman Numerals: The Background</hi>
+            </head>
+            <row>
+              <cell>AI</cell>
+              <cell>Despaire’s Cave, with the figures of Despaire and Trevisan</cell>
+            </row>
+            <row>
+              <cell>AII</cell>
+              <cell>Idle Lake, or the Gulfe of Greedinesse</cell>
+            </row>
+            <row>
+              <cell>AIII</cell>
+              <cell>A domed building, perhaps Celia’s castle</cell>
+            </row>
+            <row>
+              <cell>AIV</cell>
+              <cell>A haloed building with a Gothic portal. perhaps Eden</cell>
+            </row>
+            <row>
+              <cell>AV</cell>
+              <cell>Mammon’s Cave, with the figure of Mammon kneeling</cell>
+            </row>
+            <row>
+              <cell>AVI</cell>
+              <cell>An architectural feature, perhaps Alma’s castle</cell>
+            </row>
+            <row>
+              <cell>AVII</cell>
+              <cell>Busyrane’s palace, with a prolonged flame before it</cell>
+            </row>
+            <row>
+              <cell>AVIII</cell>
+              <cell>Colin Clout with a pipe, and nude figures</cell>
+            </row>
+            <row>
+              <cell>AIX</cell>
+              <cell>Tree on the horizon, IXa, next to a large, indistinct structure, IXb</cell>
+            </row>
+            <row>
+              <cell>AX</cell>
+              <cell>A small house, perhaps that of the Hermit</cell>
+            </row>
+            <row>
+              <cell>AXI</cell>
+              <cell>A range of trees</cell>
+            </row>
+            <row>
+              <cell>AXII</cell>
+              <cell>Hills and mountains, with various indistinct figures</cell>
+            </row>
+          </table>
+          <pb id="p08-62-63" n="62-63"/>
+          <figure n="BlakeFaerieQueeneNumbered.8.3.bqscan" rend="file" width="958" height="318">
+            <figTranscr>1 2 3 4 5a 5b 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21<lb/>
+            I II III IV V VI VII VIII IXa IXb X XI XII<lb/>
+            1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 28b 28c 29 29a 30 30a</figTranscr>
+            <head><corr type="emend">Row B (top); Row A (bottom).</corr></head>
+          </figure>
+          <table rows="22" cols="2">
+            <head>
+              <hi rend="b">Row B: Arabic Numerals: The Supernal Regions</hi>
+            </head>
+            <row>
+              <cell>B1</cell>
+              <cell>A Gothic arched bridge, with vines, and trees above</cell>
+            </row>
+            <row>
+              <cell>B2</cell>
+              <cell>A Gothic cathedral</cell>
+            </row>
+            <row>
+              <cell>B3</cell>
+              <cell>“Cynthia,” haloed, with her toe on the crescent beaming Moon, accompanied by an entourage
+of spirits</cell>
+            </row>
+            <row>
+              <cell>B4</cell>
+              <cell>Airy spirits</cell>
+            </row>
+            <row>
+              <cell>B5</cell>
+              <cell>A dome with spire, 5a, probably St. Paul’s; riders fly by it.</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>A Gothic portal, 5b</cell>
+            </row>
+            <row>
+              <cell>B6</cell>
+              <cell>Seated figures, embracing; others agitated or in repose</cell>
+            </row>
+            <row>
+              <cell>B7</cell>
+              <cell>Spirits ascend above a portal</cell>
+            </row>
+            <row>
+              <cell>B8</cell>
+              <cell>“Jove” as “The God of This World,” with complex halos and a sceptre</cell>
+            </row>
+            <row>
+              <cell>B9</cell>
+              <cell>The Globe of “This World,” supported by three angels</cell>
+            </row>
+            <row>
+              <cell>B10</cell>
+              <cell>Angel ascending above a stand; smaller figures above</cell>
+            </row>
+            <row>
+              <cell>B11</cell>
+              <cell>The Artist seated by a stand, perhaps with another figure in his lap, flanked by a book;
+smaller figures streaming from them</cell>
+            </row>
+            <row>
+              <cell>B12</cell>
+              <cell>“Nature,” as a Spread-winged Presence, whose over-arching wings cover the areas of 11 and
+13</cell>
+            </row>
+            <row>
+              <cell>B13</cell>
+              <cell>“Astroea” or Justice as a haloed woman, upholding scales in a starry sky</cell>
+            </row>
+            <row>
+              <cell>B14</cell>
+              <cell>Four or more figures descending a cloud</cell>
+            </row>
+            <row>
+              <cell>B15</cell>
+              <cell>Possible seated figure</cell>
+            </row>
+            <row>
+              <cell>B16</cell>
+              <cell>Two figures between two burning altars; others to the left</cell>
+            </row>
+            <row>
+              <cell>B17</cell>
+              <cell>An Archer within the Sun, discharging his teaming bow</cell>
+            </row>
+            <row>
+              <cell>B18</cell>
+              <cell>Buildings and trees</cell>
+            </row>
+            <row>
+              <cell>B19</cell>
+              <cell>A tower, probably the Tower of Babel</cell>
+            </row>
+            <row>
+              <cell>B20</cell>
+              <cell>An obelisk, possibly connected with another to the right</cell>
+            </row>
+            <row>
+              <cell>B21</cell>
+              <cell>A tower, possibly with a figure on top</cell>
+            </row>
+          </table>
+          <table rows="14" cols="2">
+            <head>
+              <hi rend="b">Analysis I: The System of Pairings in Row A, Arabic Numerals</hi>
+            </head>
+            <row>
+              <cell>1+2</cell>
+              <cell>The Dwarf and the Lion</cell>
+            </row>
+            <row>
+              <cell>3+4</cell>
+              <cell>The Redcrosse Knight and Una</cell>
+            </row>
+            <row>
+              <cell>6+(7)+11</cell>
+              <cell>The Palmer, (Ruddymane) and Guyon</cell>
+            </row>
+            <row>
+              <cell>8+9</cell>
+              <cell>Belphoebe and Timias</cell>
+            </row>
+            <row>
+              <cell>10+12</cell>
+              <cell>Sylvanus and Satyrane</cell>
+            </row>
+            <row>
+              <cell>13+14</cell>
+              <cell>Glauce and Britomart<ref target="p63u1">*</ref></cell>
+            </row>
+            <row>
+              <cell>15+16</cell>
+              <cell>Marinell and Florimell</cell>
+            </row>
+            <row>
+              <cell>17+20</cell>
+              <cell>Arthegall and Talus<ref target="p63u1" n="b">*</ref></cell>
+            </row>
+            <row>
+              <cell>18+19</cell>
+              <cell>Amoretta and Scudamore</cell>
+            </row>
+            <row>
+              <cell>21+22</cell>
+              <cell>Arthur and the Salvage Man</cell>
+            </row>
+            <row>
+              <cell>23+24</cell>
+              <cell>Pastorella and Calidore</cell>
+            </row>
+            <row>
+              <cell>5+28</cell>
+              <cell>The Dragon and the Blatant Beast</cell>
+            </row>
+            <row>
+              <cell>(7+25)</cell>
+              <cell>Possible connection: Ruddymane and Braggadocchio</cell>
+            </row>
+            <row>
+              <cell>29+30</cell>
+              <cell>Duessa and Archimago</cell>
+            </row>
+          </table>
+          <note id="p63u1">14+17 Britomart and Arthegall</note>
+          <table rows="8" cols="3">
+            <head>
+              <hi rend="b">Analysis II: Components of The Female Character</hi>
+            </head>
+            <row>
+              <cell rowspan="3"><multiheight multiple="3">{</multiheight></cell>
+              <cell>4</cell>
+              <cell>Una (holiness)</cell>
+            </row>
+            <row>
+              <cell>8</cell>
+              <cell>Belphoebe (prowess)<ref target="p63u2">**</ref></cell>
+            </row>
+            <row>
+              <cell>13</cell>
+              <cell>Glauce (experience; necromancy)</cell>
+            </row>
+            <row>
+              <cell>14</cell>
+              <cell colspan="2">Britomart (central; synthesis)</cell>
+            </row>
+            <row>
+              <cell rowspan="3"><multiheight multiple="3">{</multiheight></cell>
+              <cell>16</cell>
+              <cell>Florimell (meekness)</cell>
+            </row>
+            <row>
+              <cell>18</cell>
+              <cell>Amoretta (beauty; chastity)<ref target="p63u2" n="b">**</ref></cell>
+            </row>
+            <row>
+              <cell>23</cell>
+              <cell>Pastorella (innocence)</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>30</cell>
+              <cell>Duessa (the negation of all the others)</cell>
+            </row>
+          </table>
+          <note id="p63u2">Belphoebe and Amoretta, the twin sisters: the opposite aspects of the
+Diana-Venus dichotomy</note>
+        </div2>
+        <pb id="p08-64" n="64"/>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Row A: Arabic Numerals: The Procession</hi>
+            </title>
+          </head>
+          <list type="ordered">
+            <item>
+              <p><label>1.</label> The Dwarf: he is first described as lagging behind in I, i, 6, but later he
+leads Una (4) and Arthur (21) to the place of imprisonment of the Redcrosse Knight (3) in Orgoglio’s castle
+(see I, viii, 1-2). In Blake’s representation, the Dwarf, who leads the procession, is given a plate halo
+and knotted loincloth; he holds a leading string attached to Una’s Ass.</p>
+            </item>
+            <item>
+              <p><label>2.</label> Una’s Lion makes his appearance at I, iii, 5-6, when he rushes out to eat
+her, but is tamed by her virtue. By the end of the same canto (see I, iii, 42) he is dead, slain by Sansloy.
+In Blake’s picture he is shaggy as a bison as he matches steps with Una’s Ass and the Dragon (5).</p>
+            </item>
+            <item>
+              <p><label>3.</label> The Redcrosse Knight is described in the first lines: I, i, 1-2. Blake’s
+figure is long-haired and short-bearded, wears a conical helmet with a crest, and gazes at Una (4). The
+interlined flared red cross on his shield is rather dim. On his short-sleeved shirt the right arm and bottom
+of another red cross is visible. His spear points up toward the left wing of the Gothic Cathedral, B2. He
+holds his own reins (extensions of which account for marks on his belly) as his horse rears at the sight of
+the Dragon (5). In I, x, 61ff., it is prophesied that Redcrosse will be recognized as St. George of England.
+The famous coin design by Benedetto Pistrucci represents St. George’s horse rearing above the Dragon while
+trampling it with one hind foot (as Calidore’s [24] horse does on figure 25).</p>
+            </item>
+            <item>
+              <p><label>4.</label> Una’s costume is notably lacking the veil described by Spenser, but is
+otherwise similar (see I, i, 4) with a simple dress, long dark wimple, and long hair. In <hi rend="i">The
+Faerie Queene</hi> she is said to lead a “milke white lambe,” but no book is mentioned. Her mount is a “lowly
+asse more white than snow” and she rides sidesaddle with both toes resting on a broad stirrup. Her halo shows
+eleven main beams; she seems to be speaking as she looks forward and indicates a text with her right hand in
+her large open book, which has a red decoration in the upper left recto page and a red letter in the upper
+left verso, as well as two ties hanging from the front cover. With her left she gestures, probably up towards
+A IV, the castle of Eden, rather than to the indistinct vegetation in the middle distance. Blake would have
+been wryly amused to learn that in 1839 a gold £5 coin was designed (actually issued in 1887) in which Queen
+Victoria appears in the character of Una, in company with her tame British lion. Blake’s Una must be
+searching the Book of Life for better things in the Spenserian legacy.</p>
+            </item>
+            <item>
+              <p><label>5.</label> The Dragon is described in detail by Spenser: I, xi, 8-15. Blake’s
+delineation presents a problem with respect to size: see I, xii, 11: “how many acres.” His variegated shape
+appears in three places: his head leads the procession as he bites the dust; his left foot and scaled shoulder
+are just in advance of that of the Lion (2) and the Ass and his hooked wings are beneath the Lion’s muzzle;
+his scaled rump and looped tail are visible between the legs of the Ass and the Lion. The significance of the
+Dragon in the total design is appreciated when the uncropped left edge of the picture is studied: this
+creature is almost certainly the source of the clouds that rise up the left edge of the picture and then
+extend horizontally across the picture to delimit the Supernal Regions (see the headnote to Row B below). In
+this way Blake’s representation accounts for the vastness of Spenser’s Dragon: among the many Blakean
+analogies to this Dragon are those that pull the cars of Cotytto-Hecate in <hi rend="i">Comus</hi> 4, Cynthia
+in <hi rend="i">I1 Penseroso</hi>, and Diana in <hi rend="i">Job</hi> 14, as well as the energetic serpents in
+<hi rend="i">Thel</hi> 6 and <hi rend="i">America</hi> 11 who transport infants to joy. Instead of acting as
+vehicular power, however, Spenser’s Dragon is killed, and with the smoke of his dying breath covers the
+earth, leaving only dim evidences of heaven to those who hope to move to realms of day. This is one of many
+signs of Blake’s reservations as to the clarity of Spenserian vision.</p>
+            </item>
+            <item>
+              <p><label>6.</label> Ruddymane, the child of Amavia and Mordant, is introduced in II, i, 40,
+playing in his mother’s blood. The Palmer carries him (see II, ii, 11) to the castle of Medina, where the
+child is eventually left (see II, iii, 2) to receive instruction. It seems Ruddymane should have red hands,
+because all attempts to wash his mother’s blood from them (see II, ii, 2 ff.) fail; Blake’s small nude
+figure holds out his hands, but they are not reddened. Though he lacks a halo, he closely resembles the figure
+of the infant Christ in Blake’s <hi rend="i">Black Madonna,</hi> while Una (4) closely resembles Mary in
+that picture. The position of the child in the arms of an elderly man recalls the child and St. Simeon
+depicted on the first page of Night the Ninth of Blake’s illustrations to Young’s <hi rend="i">Night
+Thoughts</hi> (<hi rend="i">NT</hi> 417); there is also a watercolor of this subject in the Fogg Art
+Museum.</p>
+            </item>
+            <item>
+              <p><label>7.</label> Guyon’s attendant, the Palmer, is described in II, i, 7. Blake’s
+figure, in a cowled robe, is bald and barefoot; instead of carrying “a staffe,” he holds a strap wound on his
+left hand, with which he leads the horse of Guyon (11). He gazes intensely, and perhaps with a frown, toward
+Guyon, but the child in his right hand looks at the viewer.</p>
+            </item>
+            <item>
+              <p><label>8.</label> Belphoebe is introduced in II, iii, and described at length, 21-30. She is
+dressed in “lylly white,” and has long blond hair. Blake’s figure evidently has short curly yellow hair and
+looks rather masculine; the plain white top of her gown only is visible. Belphoebe is a huntress: the Diana
+product of a Diana-Venus uprearing with
+<pb id="p08-65" n="65"/>
+her twin sister, Amoretta (18). These two sisters, as female counterparts, are almost equidistant in Blake’s
+picture from the integral figure of Britomart (14). Belphoebe is located directly beneath the moon of B 3 (as
+befits her upbringing by Diana), and appears to exchange looks with Timias (9). Only the eye and muzzle of her
+horse is visible, to the left of the Palmer’s (7) right elbow and beneath Una’s (4) left.</p>
+            </item>
+            <item>
+              <p><label>9.</label> Timias, Arthur’s squire, might be expected to be located back with Arthur
+(21), but he also appears in Book II, in cantos 8-11, and must have been advanced in the procession because of
+his later love for Belphoebe (see III, v, and IV, vii-viii). The first description of Timias by Spenser (I,
+vii, 37) is not helpful for identification. He is most clearly described when Belphoebe finds him wounded by
+the Foster and his brothers after having pursued the Foster for an offense he had given to Florimell. Timias
+wears a hooded “mayled haberieon” with a jerkin over it, but has no “heavy burganet” (III, 5, 31) on his head;
+this helmet was removed by Belphoebe. He looks intently at Belphoebe (8). The head of his horse is visible by
+the Palmer’s (7) right shoulder near Una’s (4) left forearm.</p>
+            </item>
+            <item>
+              <p><label>10.</label> Sylvanus is also out of his Spenserian location, which is in Book I. But,
+since the back-to-back attitude of figures 9 and 10 indicates that these two are not together, and since the
+intersecting eye-lines between figures 10 and 12 could well imply a connection, and, furthermore, since the
+only other elderly figures likely to be near Guyon would be the Palmer, or possibly Archimago (7 and 31), this
+identification is proposed. While Spenser does not describe Sylvanus as being mounted, neither are the other
+possible characters equestrians. Sylvanus is not distinctly described by Spenser, and none of the details
+pertain to the head; Blake’s figure 10 is distinguished only by a white gown with raised collar, a sober
+demeanor, and a white beard. These features are appropriate for Sylvanus, who is described by Spenser merely
+as “aged” and “old” (see I, vi, 14-16). The shaggy mane of the horse of figure 10 is visible beneath the head
+of the horse of Guyon (11) and above the left forearm of the Palmer (7).</p>
+            </item>
+            <item>
+              <p><label>11.</label> Guyon, the central character to Book II, is seen covered from head to foot
+in his “harnesse” (see II, i, 5) and wearing a black helmet with yellowish flowery decorations; his clinging
+pale blue cloak does not cover his right arm or left calf. Like all the equestrians whose feet are visible in
+the Spenser (but unlike some in the Chaucer), he wears no spurs. He is the only equestrian in the front line
+who has no visible saddle. Guyon’s shield is curiously flattened concave; it has a distinct rib and rim and
+it may have been decorated. His facial expression might be described as “demure” and “temperate,” not to
+mention “sterne” and “terrible” (see II, i, 6). He looks resolutely backward, presumably at Britomart (14),
+and his spear is pointed diagonally up toward the group at B 5. Guyon’s high-stepping
+<figure n="PalmerAndRuddymane.8.3.bqscan" rend="file" width="250" height="633">
+	<head>A 6 &amp; A 7 Palmer and Ruddymane</head>
+</figure>
+<pb id="p08-66" n="66"/>
+<figure n="Satyrane.8.3.bqscan" rend="file" width="250" height="640">
+	<head>A 12 Satyrane</head>
+</figure>
+horse (with uplifted eyes), Brigadore, which is led by the Palmer (7), has a docked tail. Guyon is also
+depicted, in one of the two episodes from <hi rend="i">The Faerie Queene</hi> in <hi rend="i">Gray</hi> 64:
+<hi rend="i">Bard</hi> 12, within the cloudy Cave of Mammon. The fact that the shaft of Guyon’s spear
+crosses the cave at A V is thus probably not accidental.</p>
+            </item>
+            <item>
+              <p><label>12.</label> Damon refers to this figure as Guyon’s “own animal nature”; on one level
+this interpretation may be sustained. The framing of Guyon between the eye-beams of Sylvanus and figure 12,
+undoubtedly Sir Satyrane, has the effect of undercutting Guyon’s “temperance” with suggestions of animality.
+This seems more persuasive because Satyrane is depicted without armor, and scantily clothed in trunks only.
+His origin and training to emulate wild animals is described at length by Spenser (see I, vi, 20-30). The
+animality of Blake’s figure is expressed in his powerful physique, his exceedingly hairy shoulders and
+thighs, and his uncouth short-bearded face and open mouth (all the other human figures, with the possible
+exception of 15, are close-mouthed) as he leers at Guyon. There seems to be a cloud over his things; perhaps
+it is dust stirred up by Britomart’s (14) horse. Satyrane holds the red lead of her horse wrapped around his
+left hand, and is probably causing the horse to shy by the gesture he makes with his raised right hand:
+perhaps he is pointing up toward the embracing figures at B 6. Satyrane’s only visible accoutrement of
+knighthood is a sword, the handle of which is seen on his right hip. That Satyrane should be holding
+Britomart’s horse is explained by the episode in which they are companions on the road (see III, x, 1; III,
+xi, 1-20). Despite his lineage from a lusty Satyr, on his first appearance in <hi rend="i">The Faerie
+Queene</hi> he assists Una and fights the Paynim, Sansloy (see I, vi, 21 ff.). Coleridge’s alter-ego
+“Satyrane” was a Poet and Philosopher, albeit an iconoclast: see “A Tombless Epitaph,” ca. 1809.</p>
+            </item>
+            <item>
+              <p><label>13.</label> This figure must be Britomart’s “squire,” Glauce. Glauce is described by
+Spenser only as an “aged nurse” (see III, ii, 30). When Britomart dons armor, so does Glauce, and thus she
+serves her function as travelling companion to Britomart, and, later, to Sir Scudamore. Glauce’s right hand,
+upraised at Britomart’s right side, seems to express reverence, as does her gaze, which is apparently
+directed above the hat of Britomart into the supernal realm. Glauce’s left hand, outstretched at
+Britomart’s left side, indicates support of Britomart, rather than reverence. Glauce wears a blue gown,
+apparently over an armored coat, the collar of which is visible. Her wimple resembles both those of Una (4)
+and Britomart (14).</p>
+            </item>
+            <item>
+              <p><label>14.</label> This figure is identified by Damon as Amoretta, but several considerations
+make such an identification highly unlikely. First, on a story level, Blake clearly intends figure 14 to be
+connected with figure 17, who is identified by Damon as Arthegall. All eye-framings (especially those of
+figures 13 and 19) and arm-framings
+<pb id="p08-67" n="67"/>
+(especially those of figures 11 and 21, as well as of figures 14 and 17 themselves, and also of figure B 8)
+imply this connection. There is no important relationship in <hi rend="i">The Faerie Queene</hi> between
+Amoretta and Arthegall, whereas Arthegall’s love is Britomart. Secondly, as a character, Amoretta is too
+skittish and timid to assume the wide-open and easily confident posture of figure 14, a posture well suiting
+the courageous Britomart. Thirdly, Damon’s justification of his identification by arguing that Britomart is
+replaced by her more pacific “twin” is factually erroneous: Amoretta’s twin sister is Belphoebe, not
+Britomart. Fourthly, Damon’s justification of his view by reference to the “lodestarre” passage (III, vi,
+52) does not prove Amoretta’s centrality, for it is matched and topped in this panegyric of Britomart: “That
+peerelesse paterne of Dame natures pride,/ And heuenly image of perfection . . . ” (IV, vi, 24). It must,
+however, be admitted that the elaborate costume Blake gives to Britomart is not described by Spenser; but she
+does appear without armor in episodes dealing with both present and past events. There is the episode with
+Malecasta, in which Britomart undresses (III, i, 58-67), and her “locks unbound” (stanza 63) must indicate
+that she has long hair; this is later confirmed (see IV, i, 13). This passage also describes her as blond
+(also see IV, vi, 20). Blake’s figure has yellow hair so long it flows down onto the back of her horse. In
+flashback manner, Britomart is described before she took up arms (see III, ii, 17 to iii, 58). She is said to
+be “tall, and large of limbe” (III, iii, 53). Though a metaphorical reference, Spenser’s mention of “the
+feather in her loftie crest” (III, ii, 27) may be the inspiration for the elaborate headdress of figure 14: it
+has three chief white leaves or feathers on top and the white wimple blows to the right. There is, by the way,
+no text that describes Amoretta as wearing such a curious headdress. The probability that this figure is
+Britomart is further strengthened by her position as the third frontline mounted figure in the procession,
+where we would expect to find the central character of Book III. Thus Blake is revealing Britomart either as
+she was before she took up arms, or as she appears when unarmed, or even possibly as she may appear at some
+future time when her questing is over. It must be admitted that the points of the collar of her pale pink
+dress, together with her elaborate girdle and pointed-toed shoes may well imply ethical reservations. One
+observes that though she is riding sidesaddle, her stirrup, like those of the knights (and unlike that of Una,
+4), is for riding astraddle. Blake is not usually fond of high-style people, as evidenced by the Wife of Bath
+in the <hi rend="i">Canterbury Pilgrims.</hi> Indeed, a close look at her costume reveals that Blake’s
+Britomart is not as committed to the arts of peace as she at first appears. What seems to be a garter above
+her right knee may be taken with another below the knee and other lines on her heavy calf to indicate that she
+is actually wearing armor beneath her light dress. The lines on her upper arms and midriff similarly imply
+that armor is the undergarment. Britomart seems to be vaguely smiling and the object of her backward glance is
+somewhat uncertain; she must be looking either at Arthegall (17) or at Talus (20). With her cuffed right hand,
+she gestures in the particular direction of Sylvanus (10). With her uncuffed left hand she seems to be
+reaching for a thong dangling from Arthegall’s (17) right hand.</p>
+            </item>
+            <item>
+              <p><label>15.</label> This is one of the most problematic identifications: the best guess is
+that it is Marinell. When he is introduced, Marinell is armed and on horseback (see III, iv, 12 ff.), but he
+is soon unhorsed by Britomart (III, iv, 16) and is then disarmed by his mother, Cymoent, and her sister nymphs
+(III, iv, 40). He later appears, healthy and afoot, when he comes upon Florimell making her lament (see IV,
+xii, 4 ff.), In Blake’s picture Marinell is on foot among the three figures to whom he is subjected:
+Britomart (14), for unseating him and humbling his pride; Florimell (16), for purifying him through her love;
+and Arthegall (17), for helping to restore him to a position as a respected, competent and victorious knight
+(see V, iii, 10 ff.). He could be holding the lead (a detail variously drawn and never neatly finished by
+Blake) to Arthegall’s rearing horse as a sign of favor owed, for the help given him by Arthegall at the
+tournament. On his naked chest he wears a small cross attached to a string around his neck. He wears white
+tight knickers or shorts, is bare-footed, and has a rather effeminate appearance. Though afoot, his position
+at the very center of the procession makes him a significant figure. Marinell is looking up reverently,
+possibly at Arthegall (17), but more probably at the figure of Justice, B 13, in the supernal realm. Facially
+Marinell closely resembles the nude man who looks up as he is being healed by Christ in <hi rend="i">Night
+Thoughts</hi> 148 (IV, 39), i.e. 40 E, p. 90. In Blakean symbolism, Marinell’s central position among the
+grooms indicates that he is the Beautiful Man, balanced by Satyrane (12), the Ugly Man, and Talus (20), the
+Strong Man.</p>
+            </item>
+            <item>
+              <p><label>16.</label> The principal characteristic of Florimell seems to be her whiteness—her
+fairness (see III, i, 15; III, v, 5; etc.). These passages describe her horse as being very white: “more white
+than snow” (III, v, 5). From the construction of the False Florimell, it is learned that Florimell’s eyes
+are very bright, like “burning lampes,” and that her hair is three times as yellow as gold wire (see III, vii,
+7). The figure in the procession has a pretty face and braided yellowish hair. She gazes steadfastly at
+Britomart (14), and is chiefly distinguished by what appears to be a peculiar conical hat on the left side of
+her head. The bottom of the transparent structure A IX is just above her head, but it has no connection with
+her peculiar hat.</p>
+            </item>
+            <item>
+              <p><label>17.</label> This identification constitutes one of the most serious displacement
+problems in Blake’s <hi rend="i">Faerie Queene</hi> procession. Though Arthegall is present, even important,
+in Book IV, he is really more central to Book V. Of the trappings given Arthegall by Blake, the one actually
+described by Spenser is the prophesied crown (see III, iii, 29);
+<pb id="p08-68" n="68"/>
+<figure n="Arthegall.8.3.bqscan" rend="file" width="500" height="660">
+	<head>A 17 Arthegall</head>
+</figure>
+<pb id="p08-69" n="69"/>
+otherwise, Spenser never really describes Arthegall’s person, only his armor, shield and helmet with the
+“couchant hound” (III, ii, 25). He is first introduced as the vision in Britomart’s father’s mirror in
+Book III. It is said that he is “portly” (III, ii, 24) and that he has a “lovely face,” “tempered with
+sternesse and stout maiestie” (IV, vi, 26). These characteristics appear sufficiently evident in Blake’s
+figure to identify him as Arthegall; moreover, such an identification is practically a necessity. Arthur,
+never a titular character, and present in all Books, establishes his most vivid presence, perhaps, in Book V.
+Thus, it is he who takes the fifth prominent position (21) in the painting, thereby displacing Arthegall from
+the Book that bears his name. Consequently, Arthegall is advanced to the fourth position of prominence, where
+he can be joined with Britomart and also hailed by Arthur. It is also unlikely that Arthegall’s “squire,”
+Talus (20), would be present without his master. Arthegall’s positioning, however, completely displaces the
+titular firgures of Book IV, Cambell and Triamond. Perhaps Blake felt that although these characters are
+emblematic of friendship, their actual roles in <hi rend="i">The Faerie Queene</hi> are too insignificant
+(they are only really important to IV, ii and IV, iii) to justify giving them such a prominent position.</p>
+              <p>Arthegall gestures up toward the supernal projection of this world (B 9) with his right hand,
+while with his left he points to the supernal scales of Justice (B 13). He looks at Talus (20) as his horse,
+which has a braided mane, rears and lashes its tail; presumably his horse rears to signify regal gallantry and
+its braided mane alludes to the weavings of statecraft. Arthegall’s saddle is very bright with varied areas
+of red and yellow and has gems studding the blue cinch. The muslin of the picture in the area of the saddle
+and the horse’s haunch was mended before paint was applied. Behind the rider the handle and hilt of his
+sword (“Chrysaor,” V, i, 9) is visible, presumably on the right side of the horse. With his long orangered
+cloak and such characteristics as orange hair, a short curly beard, and yellow leotards, as well as what is
+either the hemline of a transparent overskirt or a garter above the knee on his left leg (see Britomart’s
+[14] right leg “garter”), he is the most ornate and kingly figure in the procession. In Blakean symbolism
+Arthegall closely resembles the figure of the King or Beautiful Man in design viii for Blair’s 
+<hi rend="i">Grave.</hi> In the Blair picture this figure is accompanied by the Warrior, a Strong Man much like
+Calidore (24), and the Counsellor, an Ugly Man much like the God of this World (B 8).</p>
+            </item>
+            <item>
+              <p><label>18.</label> Though Amoretta is “Of grace and beautie noble Paragon,” and “Lodestarre
+of all chaste affectione” (III, vi, 52), she is not necessarily central to the picture, as Damon implied. She
+would be correctly positioned as figure 18 because her story, particularly as it forms a unit with
+Scudamore’s, is important to Book IV, though her primary appearances are in Book III. Except for mentions of
+her exceeding radiance and beauty, particulars concerning her are rare. In III, xii, 19-21, however, Amoretta,
+in the Masque of Cupid, appears bare-breasted, and the apparent decolleté of figure 18 is very distinctive;
+nevertheless, there is a slight suggestion of a higher v-neckline on her garment. She seems to be looking
+above Scudamore (19); in this respect she is comparable to Glauce (13) and Marinell (15), whose attentions are
+also directed on high. Amoretta seems to wear two curious antennae on her forehead. Figures 18 and 19 are to
+be identified as Amoretta and Scudamore for these additional reasons: this pair would be in proper
+chronological and physical location; they form the most prominent couple not otherwise accounted for; the
+presence of Amoretta is necessary to complete the “female character”; here Amoretta would be about as far, on
+one side, from the central figure of Britomart as her sister, Belphoebe, is on the other side.</p>
+            </item>
+            <item>
+              <p><label>19.</label> The identification of this figure as Scudamore is likewise problematic.
+Scudamore is described by Spenser (III, xi, 7), but Blake shows only a few features of a knightly personage.
+Spenser rarely describes facial characteristics, so the dark eyes and lightly bearded chin of figure 19 offer
+no clue. He has a resolutely frontal point of attention and his right hand is raised to his waist and held in
+a position of rejection toward Talus (20), or possibly Arthur (21). Scudamore’s shield is described by
+Spenser as having on it the “winged boy,” Cupid, but the rounded triangular shield held by 19 is obscured and
+no device is discernible. He wears a slightly crested cap, and his resolute attention forward balances that of
+Guyon (11) backward.</p>
+            </item>
+            <item>
+              <p><label>20.</label> Talus is easy to identify, though his strong pink-touched blue body is
+humanly iron-like, being fully muscular, rather than a construct of sheet metal. He is left with Arthegall by
+Astroea (V, i, 12); in the picture he is holding his characteristic “yron flale” in his left hand. In his
+right hand he holds, in addition to the leash of Arthur’s (21) horse, a long lance that has a broad point
+held up, a tapered shaft, and a smaller point (or end handle) that is grounded. His iron-ness may be expressed
+by his black spiked hair and short beard. He appears to be looking at Arthegall’s waist with a troubled
+expression. He bears some resemblance to the foreground figure in <hi rend="i">Milton</hi> 8 (especially the
+bearded one in copy D, pl. 10), and his flail recalls that of the Goblin in the fifth design for 
+<hi rend="i">L’Allegro.</hi></p>
+            </item>
+            <item>
+              <p><label>21.</label> Prince Arthur is also easy to identify, not only because his most
+distinctive exploits occur in Book V, but also because his helmet is described in detail by Spenser (I, vii,
+31-32): both the “haires” and the “Dragon” (with a long tongue—which perhaps supports a crouching figure on
+its tip—and distended lower jaw) mentioned by Spenser are represented. Missing, however, is his “shield” of
+diamond. He wears a form-fitting garment with a rounded neckline and perhaps a decoration on his chest. There
+are suggestions of armor here and there, and the fact that his loins are covered
+<pb id="p08-70" n="70"/>
+with a skirt of scaly mail implies a criticism. Like Arthegall (17), he has what appears to be a garter above
+his left knee. His saddle is bright red with a yellowish seat, and his large sword is prominently attached to
+his saddle. With his right hand he gestures toward Arthegall (17), and with his left in the direction of the
+supernal figure B 15. His grey eyes are reverently upcast. His horse is much the darkest in the procession; it
+is led by a tether held in the right hand of Talus, and it seems to be curiously reluctant to move as it drags
+its right forefoot. The clump of two or more tree trunks visible beneath the horse’s belly must have been
+designed as a further clue to meaning since it is the largest vegetable detail related to the cavalcade.</p>
+            </item>
+            <item>
+              <p><label>22.</label> The Salvage Man is more properly a personage of Book VI than Book V, and
+this may be one reason that Blake’s figure looks back over his shoulder towards Calidore (24); his
+apparently disapproving expression might, however, be directed at the captives (29 and 30). Being somewhat
+advanced in the procession he is in the position of Arthur’s companion (a role which he fulfills in 
+<hi rend="i">The Faerie Queene</hi>: see VI, vi and vii) which was vacated by the advance of Timias (9) to
+accompany Belphoebe (8). This broad-faced, short-bearded figure not only has a savage or uncouth look, but is
+also “naked without needful vestiments” (VI, iv, 4). Since he is on foot one might expect him to be leading
+Calidore’s horse, but there is no evidence of any reins.</p>
+            </item>
+            <item>
+              <p><label>23.</label> This must be Pastorella, although Spenser provides only a vague
+description of her exceeding beauty (see VI, ix, 9). She has an important role in Book VI, and represents a
+final positive component of the “female character.” She is also the only likely female companion for Sir
+Calidore. The other possible candidate for figure 23 might be Serena, but her presence would almost
+necessitate that of Calepine, who is not depicted. Blake’s Pastorella is mounted, has short hair and a round
+face; she looks back at Calidore (24) or the captives (28-30) and has her right hand raised in an attitude of
+prayer or consternation. She wears an orange hat and has curly hair.</p>
+            </item>
+            <item>
+              <p><label>24.</label> Calidore is not precisely described by Spenser, but must be represented as
+the central figure in Book VI, and the binder of the Blatant Beast (28). Calidore is said to be “stout and
+tall” (VI, i, 2) and to have armor that is “bright” (VI, ix, 36) and to carry a “steelehead speare” (VI, ix,
+36). Blake represents the shaft of his spear as extending down behind the neck on the right side of his horse,
+while its tip is directed up toward the supernal figures B 16 or B 15. The muscular Calidore, in a complete
+suit of grey armor, which shows only his face, is the most complete soldier in the procession. Blake can
+hardly have been attempting to represent in him a beneficent “courtesie”; he would have expected courtiers to
+be either exploiters or militarists. Calidore is twisted backwards to direct the captives (28-30) with his
+outstretched right
+<figure n="Talus.8.3.bqscan" rend="file" width="250" height="639">
+	<head>A 20 Talus</head>
+</figure>
+<pb id="p08-71" n="71"/>
+<figure n="SalvageMan.8.3.bqscan" rend="file" width="250" height="256">
+	<head>A 22 &amp; A 23 Salvage Man and Pastorella</head>
+</figure>
+hand and perhaps particularly to signal the small figure who stands on the head of Duessa (29). His unusual
+curved “Saracen” sword may be that of the “meanest sort” (VI, xi, 42) which he adopted for his fight with the
+Brigants. His beautiful reddish, apparently unbridled, “Greek” horse is rearing and stirring up clouds of dust
+as with its right rear foot it tramples figure 25. The Calidore Blake delineates enacts the ambitions of
+classical militarism to trample down the proud: however noble the purposes of this warrior, his success looks
+like a Roman triumph.</p>
+            </item>
+            <item>
+              <p><label>25.</label> This figure resists certain identification. No character in 
+<hi rend="i">The Faerie Queene</hi> is said to occupy a pit or to be stepped on by a horse. The leading candidates
+for figure 25 are the Brigant chief and Braggadocchio; a third possibility is Malbecco, “Gealousee,” (III, x,
+55 ff.), which we shall not here discuss. If seen as a Book VI personage, this figure must be the Brigant
+chief. After claiming the captive Pastorella (23), he is slain by his own men and “buried” under the pile of
+bodies that fall about him (see VI, xi, 19 ff.). In Blake’s picture, the figure might be clutching pieces of
+booty. If, however, he is understood to be one of the “evil” figures relegated to the rear of the procession,
+he can be identified as Braggadocchio, being trampled for being a false knight. He is introduced in Book II
+(II, iii, 4) when he steals Guyon’s horse, Brigadore, and makes his last appearance in Book V (V, iii, 29
+ff.) when Guyon reclaims Brigadore, and Braggadocchio is stripped of his knightly trappings and affectations
+and is dishonored. It might be suggestive that Braggadocchio, a horse thief, should be trampled in clouds of
+dust by a horse. Figure 25 wears a curious redrawn hat with brim curved up; it is perhaps attached to two
+diagonal tethers. He has a long white moustache and short jowl beard and he looks up while back-handedly
+holding what can perhaps most satisfactorily be construed as an open book. Damon conjectured that this figure
+was among stones but the position of the figure’s hands makes this seem unlikely. Bearing in mind that his
+left shoulder is being trampled by the right foot of the horse, it is evident that figure 25 is able to look
+up as far as the Supernal Regions, either at the God of this World (B 9) or, perhaps, at the Artist (B 11).
+Ill-favored as he is, figure 25 is a kind of Thersites, perhaps, though possibly one given to reading the Book
+of Life, like Una (A 4), rather than the Book of Death, like Despaire (A I). Being trampled down is, to be
+sure, the ultimate fate of Hypocrisy in <hi rend="i">The Everlasting Gospel</hi>, but it was also the fortune
+of Jerusalem (<hi rend="i">J</hi> 62:3) when she could hardly tell herself from Babylon (<hi rend="i">J</hi>
+61:35).</p>
+            </item>
+            <item>
+              <p><label>26.</label> Beneath Calidore’s right arm fly three or more small figures. They hold
+leading strings, one attached possibly to Archimago’s (30) loins, the other probably to his right hand.</p>
+            </item>
+            <item>
+              <p><label>27.</label> Above Calidore’s right arm, also, fly two or more small figures, the
+clearest of whom looks back. They hold two leading strings, with which they lead Duessa (29). The motif of a
+flying creature in leading strings is memorably depicted in <hi rend="i">Vala</hi>, p. 42.</p>
+            </item>
+            <item>
+              <p><label>28.</label> The Blatant Beast is represented as having human hands, instead of animal
+feet, and possibly a pair of eyes within its mouth, characteristics not mentioned by Spenser. The most
+striking characteristic attributed to it by Spenser is its multiplicity of tongues (see V, xii, 41, “hundred”;
+<figure n="Braggadochio.8.3.bqscan" rend="file" width="250" height="220">
+	<head>A 25 Capt. of the Brigants, or Braggadochio</head>
+</figure>
+<pb id="p08-72" n="72"/>
+<figure n="28A.8.3.bqscan" rend="file" width="500" height="640">
+	<head>A 28, A 28a, A 28b, A 28c, A 29, A 29a, A 30, A 30a</head>
+</figure>
+<pb id="p08-73" n="73"/>
+VI, i, 9, “did seeme a thousand”; VI, xii, 33, “hundred”). In Blake’s picture, three or more red flame-like
+tongues are shown. The Beast is represented after its mouth has been bound by Calidore (VI, xii, 34-35). The
+human hands of this monster recall both those of Blake’s Nebuchadnezzar who crawls through the forests of
+night on all fours and the fantastic crocodile with human hands and gaping mouth in <hi rend="i">Vala</hi> 70.
+Behind Archimago (30) four webbed points are visible: these must be the ends of wings or spines on the Beast.
+One small human figure, 28a (which is related to figure #44, “The Inquisition,” in Damon’s Key to 
+<hi rend="i">The Last Judgment</hi>), that is kneeling on the Beast’s snout strains to draw its mouth shut with
+the cords of a net. Another, 28 b, with blowing yellow hair, leads the beast by a chain, probably attached to
+his collar behind its left foreleg. A third small spirit, 28 c, leaning on the Beast’s shoulders, is
+tightening its collar.</p>
+            </item>
+            <item>
+              <p><label>29.</label> The two prime evil-doers are relegated to the rear of the procession.
+Duessa’s perhaps doubled figure sags strangely: her appearance corresponds to her duplicitous nature. In
+Spenser she is stripped nude by the Redcrosse Knight and Arthur (see I, viii, 46 ff.). In Blake she is clothed
+in a white dress, recalling her trial by Mercilla, Arthur, and Arthegall (see V, ix, 38 ff.). Blake’s Duessa
+has a curiously curled lower lip, probably because of her toothlessness mentioned in I, viii, 47. She has a
+receding hairline and short white hair. Spenser describes Duessa as having “wrizled” and “scabby” skin. Her
+left hand, possibly crippled, seems oddly connected with her body; it is crossed over her gnarled right hand
+as she perhaps tries to cover over an aperture on her
+<figure n="FlyingFigures.8.3.bqscan" rend="file" width="250" height="247">
+	<head>A 26 &amp; A 27 Flying figures (photographed without a halftone screen for high contrast)</head>
+</figure>
+front. Blake shows her being led by two strings attached to two or more flying figures (27). Another small
+figure (29 a), who wears a long gown, stands on Duessa’s bent head. Many details connected with this figure
+cannot be clearly distinguished: a diagonal jagged line, which might represent stairs or lightning, connects
+this figure to what may be a portal visible above figures 27. The standing figure may hold something in its
+left hand.</p>
+            </item>
+            <item>
+              <p><label>30.</label> Archimago, like Duessa, has the power to change forms. In his first
+appearance he is an “aged sire,” “his beard all hoarie gray” (I, i, 29). In his “proper” form, he is
+recognized by Atin (see II, vi, 47), and there too he has “hoarie locks.” The image of Archimago bound occurs
+where he intrudes as a messenger into the court of Una’s parents (see I, xii, 35). In Blake’s picture this
+hunchbacked white-bearded figure in a pinkish gown has his forearms bound behind him, probably by one of the
+leading strings from figures 26, and his gown is gathered into folds at the lower back. The curved and
+horizontal lines visible behind Archimago are, as said, the wing edges of his companion, the Blatant Beast
+(28). Archimago’s head is much bent over, despite his misshapen but powerful back. A small nude figure, 30
+a, seated on his right shoulder seems to point to the rear as it looks back over its left shoulder at the
+figure standing on Duessa’s head. The first of three exactly drawn curved lines crosses the outstretched
+right arm of this figure and then continues to the left of the figure’s head into the background to join
+with yet a third curve; together these lines may delineate the culverts of a bridge only coincidentally
+connected with Archimago’s rider.</p>
+            </item>
+          </list>
+          <pb id="p08-74-77" n="74-77"/>
+          <figure n="Halftone.8.3.bqscan" rend="file" width="1000" height="324">
+            <head>On pp. 74-77: halftone reproductions of the painting, quarter by quarter from left to right,
+made from large black and white negatives.</head>
+            <figDesc>See p. 86, col. 2, para. 2 for 
+details.<supplied type="emend" rend="plain"><ref target="nE">*</ref></supplied>
+The photographs have been cropped only enough to eliminate the picture frame; thus shadows remain at the edges 
+of the picture.</figDesc>
+          </figure>
+          <note id="nE"><supplied type="emend">* From Morris Eaves, 
+“<ref type="article" issue="8.3.eaves">Reproducing <hi rend="i">The Characters of Spenser’s Faerie Queene</hi></ref>,” 
+page 86: G. H. Roberton... also shot for us four black-and-white views 
+of the painting, one of each quarter from left to right. The negatives, from Ilford FP4 film, are large, each 
+6″ × 8″. Two sets of prints were made from these. Contact prints—directly from the negatives, using no 
+enlarger—were made in London by Cooper. An industrial photographer in Albuquerque, New Mexico, made a set of 
+16″ × 20″ prints with an 8″ × 10″ enlarger (one that will accept negatives as large as 8″ × 10″). The contact 
+prints are the basis of the black-and-white reproductions of the Spenser painting quarter by quarter (following 
+the introduction of Grant and Brown’s essay). The 16″ × 20″ prints are the basis of the other black-and-white 
+details reproduced in the essay. They are all reproduced with 150-line halftone screens—screens of medium 
+fineness, coarse enough to be easily and economically handled by the printer, and yet fine enough to reproduce 
+detail acceptably well.</supplied></note>
+          <pb id="p08-78" n="78"/>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Row A: Roman Numerals: The Background</hi>
+            </title>
+          </head>
+          <list type="ordered">
+            <item>
+              <p><label>I.</label> This is Despaire’s Cave, as described by Spenser in I, ix. The
+long-haired and bearded figure is Despaire (see I, ix, 35-36), who kneels at the left with his right arm at
+his back and his left pointing upward as he consults a large open book. This book is probably the “Booke of
+fate,” I, ix, 42, that Despaire claims he possesses. Possibly Blake depicted Despaire as reading because he
+interpreted Spenser’s word “areedes,” I, ix, 28, as “reads,” rather than “advises.” To the right of the book
+are three objects, perhaps stones, and a horizontal dark object that might be the dagger reserved for
+Redcrosse (see I, ix, 51). Above the bearded Despaire is a dark figure, bent over and with arms raised in what
+may be a despairing gesture. There is a suggestion of a collar or rope around his neck. This is probably
+Trevisan (see I, ix, 22) dismayed both by the council of Despaire and the vision of his dead comrade, Sir
+Terwin, a suicide. The figure of Terwin (see I, ix, 36) seems partly beneath Despaire’s book; it is
+evidenced only by a vertical “knife” at the upper right corner of the book and the top of the head of the
+victim visible just to the right of it and to the left of the muzzle of Redcrosse’s horse (A 3). The cloudy
+Cave of Despaire, complete with stabbed victim, is one of the two main episodes from <hi rend="i">The Faerie
+Queene</hi> depicted in <hi rend="i">Gray</hi> 64: <hi rend="i">Bard</hi> 12. There is no likelihood that any
+of the figures in this cave represents Spenser, as Damon suggests.</p>
+            </item>
+            <item>
+              <p><label>II.</label> A body of water. This could be either the Idle Lake (II, vi) or the Gulfe
+of Greedinesse (II, xii). The object near Redcrosse’s gloved right hand (A 3) is a small sailboat; it might
+<figure n="DespairesCave.8.3.bqscan" rend="file" width="250" height="234">
+	<head>A I Despaire’s Cave</head>
+</figure>
+be either Phaedria’s boat or the one that takes Guyon to the Bowre of Bliss. It resembles the boat of
+Phlegyas in <hi rend="i">Donte</hi> 17 for <hi rend="i">Hell</hi> 7. There are objects in the background on
+either side of Redcrosse’s spear: at the left is an island, which is likely to contain Acrasia’s Bowre of
+Bliss; at the right are distant mountains, perhaps fronted by structures and even a causeway near the head of
+Redcrosse. A swirl of smoke covers most of the visible left side of the lake.</p>
+            </item>
+            <item>
+              <p><label>III.</label> This domed doorless building, with a wing at the left and vegetation on
+both sides, is perhaps the castle of Celia (I, ix). Here Redcrosse is restored after his experience in
+Despaire’s Cave. The cave-problem, castle-resolution formula also pertains in Guyon’s story. If
+Despaire’s Cave is a sign of affliction, it is possible that Celia’s castle appears as a sign of healing
+resolution. The fact that the foremost tree at the right has a peculiar spot of shade makes it look somewhat
+like the head of an animal—perhaps accidentally. As many as three figures may be seated beside the building
+and another may be on the dome.</p>
+            </item>
+            <item>
+              <p><label>IV.</label> This haloed building has a flat central tower with set back upper section
+and Gothic portal. There is a slight suggestion of decoration on the wings on either side. There are trees on
+both sides, outside the beams of light from the halo. The two dark spots in the right wing, above the head of
+the Palmer (A 7), may be accidental. Because Una (A 4) gestures toward the building and because both she and
+it are haloed, the building is probably to be identified as the castle of her parents, “Eden” (I, xii, 26).
+Part of the halo effect can be accounted for as reflection from Eden’s brazen tower and gate (I, xi, 3 and
+I, xii, 3). As mentioned, some
+<figure n="IdleLake.8.3.bqscan" rend="file" width="250" height="113">
+	<head>A II Idle Lake, or Gulfe of Greedinesse</head>
+</figure>
+<pb id="p08-79" n="79"/>
+indistinct objects are visible in front of the building and above the gesturing left hand of Una (A 4).</p>
+            </item>
+            <item>
+              <p><label>V.</label> A cave, with a dark kneeling figure at the right. Three dark pointed
+objects of uncertain significance are in evidence on the upper back wall of this cave. Another dark area is at
+the left edge and indistinct objects are indicated within. While there is no close resemblance between this
+cave and the Mammon episode as depicted at the lower left of <hi rend="i">Gray</hi> 64: <hi rend="i">Bard</hi>
+12, “Spenser Creating his Fairies,” the crouching figure at the right is probably identifiable as Mammon, who
+hoards “in his lap a masse of coyne” (II, vii, 4). In posture he closely resembles a miser in 
+<hi rend="i">NT</hi> 115 (IV, 6), who is twisted to protect his money bag. Clouds or vegetation and three boulders
+separate Mammon from the path to the flame in front of VII. The object behind Mammon may be taken to be
+Guyon’s sword, for Guyon swoons upon leaving Mammon’s cave, and his shield is subsequently taken by
+Pyrocles, although his sword is held back by the Palmer, and is later used by Arthur (see II, viii, 23 ff.).
+The fact that the shaft of Guyon’s spear crosses the cave is suggestive in this context. The object at the
+left of the cave may be a robed figure, seen from behind and carrying a burden on its right shoulder; the dark
+spot would be the shadow it cast. As such the figure would resemble the undraped victim of Oppression who
+labors at the lower right in the mines of “Oppression” in <hi rend="i">NT</hi> 22 (I, 17). To the right of the
+shadowed figure in Mammon’s cave a tongue of red flame indicates a small bonfire, which is being tended by
+this figure. For a fire and a figure resembling these in the cave see “A Little Boy Lost,” 
+<hi rend="i">Songs</hi> 50.</p>
+            </item>
+            <item>
+              <p><label>VI.</label> A vague architectural feature with trees, on a distant hillside. This is
+perhaps the antidote to Mammon’s Cave—the place where Guyon is restored—the castle of Alma. Spenser says
+it is a “goodly castle, plast / Foreby a river in a pleasaunt dale” (II, ix, 10). This feature is also crossed
+by Guyon’s spear shaft.</p>
+            </item>
+            <item>
+              <p><label>VII.</label> A large building set on a plinth, with four columns in the front, a
+pitched roof and pediment on the portico, and a lower wing at the left. Vegetation grows up behind and on both
+sides of it. This is Busyrane’s palace, where Britomart (A 14) achieves her crowning glory, which is guarded
+by a protective flame (see III, xi, 21). The cleavage at the top of the flame is indicative that it “did it
+selfe divide” (III, xi, 25) at the stroke of Britomart’s sword.</p>
+            </item>
+            <item>
+              <p><label>VIII.</label> A haloed or hatted piper leaning against a tree in a sort of bower,
+plays for four or more nude dancers. Another cluster of nude figures may be to the left of these. Though Colin
+Clout is properly a personage of Book IV where his encounter with a company of nude “maidens” and the Graces
+takes place (see VI, x, 10 ff.), two considerations might explain his advancement. It would put a “poet” in
+the center of the A-line, not far from the figure of the artist, B 11. Or, possibly, Colin is advanced to help
+celebrate the conjunction of Britomart and Arthegall. This figure of the piper, in less enchanting company, is
+familiar from the title page of <hi rend="i">Songs of Innocence</hi> and “On Another’s Sorrow,” 
+<hi rend="i">Songs</hi> 3 and 27.</p>
+            </item>
+            <item>
+              <p><label>IX a.</label> An indistinct object, either a tree or a small building, is on the
+horizon above Arthegall’s (A 17) left hand.</p>
+            </item>
+            <figure n="Buildings.8.3.bqscan" rend="file" width="400" height="178">
+              <head>A III &amp; A IV Domed building and haloed building</head>
+            </figure>
+            <pb id="p08-80" n="80"/>
+            <figure n="Tracings.8.3.bqscan" rend="file" width="350" height="235">
+              <head>A VIII, A IXa, A IXb (plus A 16, B 9): adapted tracings</head>
+            </figure>
+            <item>
+              <p><label>IX b.</label> What may be a large very faint architectural structure looms above the
+head of Florimell (A 16) and extends up into the bottom of the cloud beneath the figure of the Deity (B 8). It
+has several tiers at the right edge; the ends of two tiers look like the eyes, noses, and mouths of faces. The
+structure has a resemblance to the somewhat more arched tiers on B 19, which is probably the Tower of Babel.
+What this detail is supposed to signify, is perplexing. It is hardly visible in recent photographs, possibly
+due to further deterioration of the picture in this area. Since IX a may be seen through the right edge of
+this structure, perhaps this structure is a pentimento. Or perhaps it is an evanescent ideal, “Cleopolis.”</p>
+            </item>
+            <item>
+              <p><label>X.</label> Visible above Arthur’s (A 21) right hand, at the left edge of a copse, is
+a cottage with a chimney emitting smoke that blows to the left. Trees stand on both sides and behind it. A
+range of larger trees (the beginning of detail XI) start over the hill to the right, above Arthur’s right
+arm. This small house may not be too humble to function as a “little Chappell,” another place of restoration
+and healing: the Hermit’s Hermitage (see VI, v, 35 ff.). Here Arthur found a refuge for victims of the
+Blatant Beast.</p>
+            </item>
+            <item>
+              <p><label>XI.</label> A range of trees extending from the top of the hill above Arthur’s (A
+21) wrist and perhaps continuing as far as Calidore’s (A 24) left forearm.</p>
+            </item>
+            <item>
+              <p><label>XII.</label> Various indistinct figures may be discerned among the mountains and
+clouds at the right. A further range of high reddish mountains rises behind the duller horizon range. If there
+were originally no other important features in the much-deteriorated area beneath, it would be remarkable in
+such a detailed picture. Among details still discernible in this area seem to be trees or a building and a
+crude staircase or lightning above A 27 and a large bird or kite above the nearer horizon beneath B 20. In
+connection with the small nude figure (30 a) seated on the shoulder of Archimago (30), we have already
+mentioned three distinct curves extending to the left: conceivably these could be triple culverts of a bridge.
+If this feature were indeed delineated, it would balance the large bridge (B 1) at the opposite end of the
+picture, in the Supernal Regions. These “culvert lines” also cross two much less distinct vertical lines
+extending upward from Archimago’s bent-over head almost to the nearer horizon of hills. The two or more
+entwining bands on this dimly-suggested column recall the entwining vines or snakes that twist about tree
+trunks elsewhere in Blake: it would not be surprising, considering the source, if the lines were to adumbrate
+the Tree of Mystery described in “The Human Abstract,” <hi rend="i">Songs</hi> 47. But this “tree” is far too
+shadowy to be recommended to faith. A further complication is that where its foliage would be, above the
+second horizon, is a curved-edged triangular object that must be flying. Since it seems too triangular to be
+any bird, it might conceivably be a kite, such as Blake sometimes depicts (e.g., “The Ecchoing Green,” 2, 
+<hi rend="i">Songs</hi> 7). It might be flown by the small spirit standing on the head of Duessa (29). In 
+<hi rend="i">Night Thoughts</hi> 11 (I, 6) Blake showed how kite flying need not detract from the dignity of
+questing.</p>
+            </item>
+          </list>
+          <figure n="MoreTracings.8.3.bqscan" rend="file" width="350" height="313">
+            <head>A XII (plus A 24, 27, 29, 29a, 30, 30a): adapted tracings</head>
+          </figure>
+        </div2>
+        <pb id="p08-81" n="81"/>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Row B: Arabic Numerals: The Supernal Regions</hi>
+            </title>
+          </head>
+          <p>The cloud barrier that delineates the boundary of these regions originates from the open mouth of
+the Dragon (A 5), billows over the Lake (A II) in such a way as to leave part of the lake visible to the left
+of this barrier, and, after a diagonal patch, continues horizontally (and perhaps also above some figures) to
+the right edge of the picture. It is pierced by a few objects above it, notably the Moon (B 3), the right hand
+of God (B 8), and the left hand of Justice (B 13). Blake appears to be generalizing the dying puff of the
+Dragon, “that vanisht into smoke and cloudes swift” (I, xi, 54), into a barrier between mundane and
+supra-mundane levels. Conceivably, this smoke cloud might serve to arrest the progress of Spenser’s
+characters. As was observed in our discussion of the Dragon, such an effect would be proportionate to
+Spenser’s dragon of many acres, though Blake depicts the beast itself as much smaller. This important
+feature of the pictorial symbolism is not visible in our large color reproduction because the left edge of the
+painting has been cropped to eliminate the shadow caused by the frame.</p>
+          <list type="ordered">
+            <item>
+              <p><label>1.</label> A distinct “Gothic” arch of undoubted import. The abutments at the right
+indicate that the structure must be a bridge; perhaps a path leads from it back to the portal of B 2.
+Conceivably, it is also a culvert related to the lake (A II), but since it is above the clouds that delineate
+the supernal realm, such a connection would require an explanation. Some water is in evidence at the very edge
+of the picture. Vines with green leaves are visible on both sides of the arch, especially at the right, and
+above it are two delicate trees in front of a distant hill.</p>
+            </item>
+            <item>
+              <p><label>2.</label> A radiant Gothic cathedral, doubtless Jerusalem, as seen in I, x, 56-57,
+where it is compared by Redcrosse to Cleopolis, the brightest place on earth. The major tower has three
+steeples, the minor one at the left has seven, and at least eight others are also visible. Vide 
+<hi rend="i">J</hi> 46 [32] and <hi rend="i">J</hi> 84, where Westminster Abbey is a sign of redemption; also the
+building in the background of <hi rend="i">The Soldiers Casting Lots for Christ’s Garments</hi> (Bindman,
+<hi rend="i">Fitzwilliam</hi>, no. 22). The rays above the building are suggestive of the dawn in the East in
+Blake’s <hi rend="i">Canterbury Pilgrimage.</hi> Possibly Blake intends to imply that Spenser’s characters
+are going south of West during a sunset. Eventually, at least some of them may return to the open Gothic
+door.</p>
+            </item>
+            <item>
+              <p><label>3.</label> Cynthia (<hi rend="i">Mut.</hi>, VI, 8), the moon spirit, wearing a pale
+yellow skirt, is in an exultant posture as she leaps from the sharply beaming crescent moon with outspread
+arms. She is honored with a plate halo which is surrounded by clouds and perhaps by multitudes; possibly a
+large globe was depicted above her left hand and at least one small head is still visible near her
+cloud-covered left arm.
+<figure n="GothicArch.8.3.bqscan" rend="file" width="250" height="147">
+	<head>B 1 Gothic arch</head>
+</figure>
+In the train of her outspread arms many indistinct figures are indicated; three winged spirits under her left
+arm and three under her right are tolerably distinguishable. Her line of sight extends down to Britomart (A
+14), at whom she seems to look disapprovingly, conceivably because of some connection between the warrior maid
+and Mutability in Spenser. This figure must be related to the figure of Queen Elizabeth as Diana seated in the
+crescent moon in the Portrait of Spenser in Blake’s <hi rend="i">Heads of the Poets</hi> (Wells, p. 35). The
+exuberance of Cynthia with outspread arms, however, bears a more functional resemblance to Ololon on the last
+page of <hi rend="i">Milton</hi>, and to such redemptive figures as the Attendant Spirit in the last design
+for <hi rend="i">Comus</hi> (<hi rend="i">Huntington</hi> version, pl. XXVII), the Lark in 
+<hi rend="i">L’Allegro</hi>, illus. 2 (Van Sinderen, p. 63), or Jesus in <hi rend="i">The Spiritual Condition of
+Man</hi> (Bindman, <hi rend="i">Fitzwilliam</hi>, no. 22). Damon calls this woman “Mercy,” but this is an
+inference derived from the assumption that she is primarily a contrary to Justice (B 13), rather than, as
+seems more probable, the Archer Sun God (B 17).</p>
+            </item>
+            <item>
+              <p><label>4.</label> Many figures not clearly in Cynthia’s entourage are variously positioned
+in the sky. Only a few are distinctly discernible now, but the presence of others is possible in every
+brightened area. Two spirits above and to the right of the moon embrace. Two figures kneel above and to the
+right of them, etc.</p>
+            </item>
+            <item>
+              <p><label>5a.</label> A crossed steeple above a dome, certainly intended to recall St. Paul’s
+(see again, <hi rend="i">J</hi> 46 [32] and <hi rend="i">J</hi> 84). Two or more elongated horses with riders
+blowing horns fly by the steeple to the left. Above them are six distinct nearly vertical lines, presumably of
+radiance. In the foreground from the clouds beside the right shoulder of Jove (B 8) to the area above the left
+edge of the Cave of Mammon (A V), ten or more nudes (B 6) in various postures of abandon disport themselves
+or, agitated, attempt to flee. Some analogies to these may be observed <corr type="emend">among</corr> the
+Sons and Daughters in <hi rend="i">Job</hi> 2 and 3; others in <hi rend="i">Paradise Regained</hi> 6 (Bindman,
+<hi rend="i">Fitzwilliam</hi>, no. 28). Damon observes that Guyon’s (A 11) spear is pointed toward this
+supernal grouping and identifies it as
+<pb id="p08-82" n="82"/>
+<figure n="BGroup.8.3.bqscan" rend="file" width="400" height="224">
+	<head>B 5a, B 5b, B 6, B 7, half of B 8 and B 9</head>
+</figure>
+the Bowre of Bliss (see II, xii), which Guyon destroys. The transposition of the Bowre (which is, as was
+suggested, perhaps more simply located on the island at A II) to the supernal region would not bode well for
+the purity of Spenser’s heaven. But there is also a modified Gothic portal (5 b) well to the right of St.
+Paul’s, which is indicative of the better way.</p>
+            </item>
+            <item>
+              <p><label>6.</label> The group of ten or more figures described in connection with detail 5 a,
+above, as being in front of St. Paul’s and the Gothic portal (5 b). The most distinct are three nudes, a
+male embracing two females, in the center. The female to the left seems constrained, while another female to
+her left flees in consternation. To the right of the compliant female another female reclines, perhaps beside
+water, or a patch of blue sky.</p>
+            </item>
+            <item>
+              <p><label>7.</label> A spiritual procession of six or more figures rises through the sky from
+the vicinity of St. Paul’s (5 a), exempted from the sharp beams issuing from the cloud of Jove, the God of
+this World (B 8), and perhaps aided by the good influence of the dim Gothic portal (5 b) beneath them.
+Comparable streams of spirits occur in Blake, e.g., <hi rend="i">L’Allegro</hi> 4 (Van Sinderen, p. 71), 
+<hi rend="i">J</hi> 4, and <hi rend="i">Job</hi> 12 (border).</p>
+            </item>
+            <item>
+              <p><label>8.</label> Jove (<hi rend="i">Mut.</hi>, VI, 15 ff.), the God of this World, in a
+yellowish and pink gown, looks down to his left toward Arthur (A 21). His eyes are not shut (pace Damon), but
+distinctly open, and he holds a blunt sceptre (not a sword, pace Damon) in his left hand which seems to
+emanate a pointed beam that passes just above the upraised forefinger of Arthegall (A 17) toward Arthur. Only
+his right foot shows clearly, but a v-shape on his instep and another on his ankle are indicative of
+character: in two of his most important analogies, the nightmare god of <hi rend="i">Job</hi> 11 and Dante’s
+tyrant god, <hi rend="i">Dante</hi> 3, God’s left foot clearly is revealed to be a cloven hoof. Spenser’s
+God dangles his right open-handed benediction through the clouds over Britomart (A 14). His elaborately
+compounded headdress is remarkable: his red plate inner halo emanates six major points, four shadow-tipped,
+two internally rayed, through his shadowed sky blue halo, which is bounded by an irregular wreath of cloud;
+this, in turn, emits eight dark smaller beams. Those at the viewer’s left are broken again by the stream of
+figures, B 7, but as many as ten thinner dark beams are seen to the left of them. A bright spot at the left of
+the lowermost of these may have contained still other figures. At the viewer’s left of the God’s right
+elbow, in the cloud halo, is a distinct object that at first seems to be a flower or possibly a bird; however,
+this is probably the second subgroup of the figures centered at B 6 rather than a special attendant of God per
+se. Above this group, next to God’s right shoulder, is the first group of two or more figures, indistinctly
+blended into the clouds. The fact that this God is <hi rend="i">within</hi> a cloudy cavern, though his
+influence extends both above and beneath it, indicates that
+<pb id="p08-83" n="83"/>
+<figure n="AdaptedTracing.8.3.bqscan" rend="file" width="500" height="314">
+	<head>Adapted tracing of detail reproduced on p. 82</head>
+</figure>
+he is more in the condition of Job and his companions than of the central regnant God in <hi rend="i">Job</hi>
+14.</p>
+            </item>
+            <item>
+              <p><label>9.</label> This World (see <hi rend="i">J</hi> 54 and <hi rend="i">J</hi> 57) is
+supported by three angels, the one at the right wearing a crown or hat and having a short beard. 
+<hi rend="i">Mut.</hi>, VI, 3, indicates that the two at the left are Hecate and Bellona, the one at the right
+(<hi rend="i">Mut.</hi>, VI, 14) Mercury.</p>
+            </item>
+            <item>
+              <p><label>10.</label> An angel (perhaps in company with other spirits) departs from the drawing
+board of the Artist (11); these figures are within a rainbow-roofed enclave made up of a cloud streamer from
+the cloud halo of Jove, the God of this World (8) and the right wing of Nat’ the Spread-winged Presence
+(12). The angel’s left wing cuts the rainbow-enclave and the angel looks back at the curly-headed Artist
+(11).</p>
+            </item>
+            <item>
+              <p><label>11.</label> The Artist, a “symbol of the beginning of art,” says Damon. He seems to be
+wearing only a pair of shorts (visible next to the book) as he draws or writes without looking at his work.
+Perhaps he is looking at the viewer of the picture. He is seated on a plinth with his ankles crossed and he
+rests his left elbow on an almost vertical book. On his left thigh a slightly smaller “double” figure appears
+to be seated. The double probably does look at the work. An emanative stream of two or more figures seems to
+issue from the double and then go up the cloud-steps, which are on a wall above the scales of Justice (13), to
+the bent right leg of the Spread-winged Presence (12). It would appear that the Artist does not need a book
+open before him to do his work; Blake’s license with Spenser’s text is consistent with this principle. But
+the appearance of a double (Spectre of Los) in the lap of the Artist, together with the evident stream of
+figures to figure 12, would imply that the Artist is less liberal than he would like to think. Whether this is
+Blake’s assessment of Spenser’s limitation or whether it is Blake’s confession of his own shortcomings
+is hard to decide. (See <hi rend="i">Il Penseroso</hi> 11, “Milton’s Dream,” and <hi rend="i">Jerusalem</hi>
+37 [41], the small figure at the lower left.) Both contain related symbols that help to clarify details of
+this enigmatic area of the Spenser picture.</p>
+            </item>
+            <item>
+              <p><label>12.</label> This sinister figure, “Nature” (<hi rend="i">Mut.</hi>, VII, 5) the
+Spread-winged Presence, is now difficult to see due to the decay of the picture, but may even originally have
+been indistinct. Its right wing, together with the cloud trail from the cloudy halo of Jove, the God of this
+World (8), forms the rainbow-enclave of the Artist (11). Its left wing may also over-arch figures not now
+distinguishable. The earlier photograph made it appear that a line of arabic numerals extended from the top of
+its right wing to the top of its left. There was either an architectural detail or a bird flying straight up
+above the Presence’s head. In the color photograph this line of details looks most like a row
+<pb id="p08-84" n="84"/>
+<figure n="AdaptedTracingsB.8.3.bqscan" rend="file" width="350" height="183">
+	<head>B 10, B 11, B 12, B 13 Adapted tracings</head>
+</figure>
+of Druidic trilithons. The Presence looks to its right and has its right arm extended but bent. Its bent left
+leg supports it. All these details were more distinct in earlier than in more recent photographs. The
+influence of this figure is certainly malevolent, and its position makes it comparable to Satan in the
+Destroyer in <hi rend="i">Job</hi> 3. Probably it is one of Blake’s few depictions of the Covering Cherub,
+most fully described in a text in <hi rend="i">J</hi> 89 and elsewhere depicted in more heroic and serviceable
+form in <hi rend="i">The Fall of Man</hi> (<hi rend="i">Blake Newsletter</hi> 19, p. 194, pl. 3). The
+Spread-winged Presence is an amalgamation of the two figures in <hi rend="i">J</hi> 6: the head and wings are
+like those of the Spectre, while the torso and legs are like those of Los (reversed). The same formula, with
+the Spectre reversed, is used in “The Flight of Moloch,” particularly the Whitworth version. The
+superintendency of Spenser’s vision by such a creature as “Nature” in the Mutability Cantos must have been
+abhorrent to Blake. His late works particularly are filled with denunciations of Nature and her
+worshippers.</p>
+            </item>
+            <item>
+              <p><label>13.</label> Astroea (V, i, 5), or Justice, who holds up her yellow scales, is cut off
+by clouds from the left wing of the Presence (12), but her enclave is within its influence. It is, indeed, a
+star chamber, since some thirteen stars are distinctly visible in the blue sky. Justice wears a white wimple
+and a pinked blue gown; she has a great white plate halo and white bird wings. Her delicate left hand is
+visible just above the head of Arthur (A 21). One of her chief analogies is the figure of the female Comforter
+at the bottom right of the border to <hi rend="i">Job</hi> 17, though that woman holds a pen. A more critical
+vision of a woman with scales attended by a scribal figure is presented in <hi rend="i">Night Thoughts</hi>
+151 (IV, 42), i.e. 41E, p. 92: there “Reason” dictates to “Faith.” It may be that the eyes of Spenser’s
+Justice are shut, but they seem to be open; if she is looking down (with the suggestion of a smile), it is
+toward Talus (A 20), who used to be her groom (V, i, 12). Possibly a human figure issues from the leftmost pan
+of her scales and drifts to the staircase that is surmounted by the Spread-winged Presence (12). The fact that
+there is no cloud beneath her from her left breast to the end of her left wing is surely significant. Even the
+cloud above her is parted to provide space for her upraised right hand.</p>
+            </item>
+            <item>
+              <p><label>14.</label> An area containing four or more figures who stand on the descending cloud
+column. There are at least three more standing figures where the cloud levels off.</p>
+            </item>
+            <item>
+              <p><label>15.</label> Within the area of the three leftmost radiation beams of the Archer God
+(17) are one or more figures; close to the tip of the beam at 8:30 o’clock is a dual structure which seems
+to serve as the pedestal for a seated figure. Suggestions of smaller figures down as far as the 7:30 beam may
+be illusions caused by cracking of the paint.</p>
+            </item>
+            <item>
+              <p><label>16.</label> Two gowned figures meet before two burning altars; the figure at the left
+may wear a hat and appears to be departing from the figure at the right (see “Night” 2: 
+<hi rend="i">Songs</hi> 21, for two similar figures and <hi rend="i">Job</hi> 18 for a burning altar) toward a
+second, broader altar with a horizontal flame that is now uncolored. Perhaps these figures are Cain and Abel
+(Genesis 4:3), a subject that Blake repeatedly depicted in <hi rend="i">Milton.</hi> The problem of two altars
+in relation to the favor of the true god is also described in I Kings 18, with respect to the powers of Baal.
+Dual altars, seen in relation to rows of flames and a tower, are to be seen in <hi rend="i">Dante</hi> 22 for
+<hi rend="i">Hell</hi> 12, the Minotaur. Three or more other figures stand to the viewer’s left of these
+figures and may interact with the group B 14.</p>
+            </item>
+            <item>
+              <p><label>17.</label> The Archer God, nude, discharges his bow, perhaps primarily at the people
+by the altar (16). There are eleven large red beams and at least seven smaller ones issuing from this figure.
+What may be a bird is visible between the bolts at 5 and 5:30 o’clock. His beams are interrupted at the left
+by the indistinct figure 15, but then resume, as a fusillade of cruder black bolts, toward the area of 14.
+Among the many analogies to figure 17 is “Hyperion,” the archer god in
+<figure n="MoreAdaptedTracingsB.8.3.bqscan" rend="file" width="350" height="194">
+	<head>B 14, B 15, B 16, B 17 Adapted tracings</head>
+</figure>
+<pb id="p08-85" n="85"/>
+<figure n="B19.8.3.bqscan" rend="file" width="350" height="271">
+	<head>B 19, B 20, B 21 Adapted tracings</head>
+</figure>
+the sun in <hi rend="i">Gray</hi> 46: <hi rend="i">Poesy</hi> 6. Another is the threefold aged equestrian
+archer god of <hi rend="i">J</hi> 35 [39]. One may also recall the vengeful Christ in <hi rend="i">The Casting
+of the Rebel Angels Out of Heaven, Paradise Lost</hi> 6 (Huntington and Boston) and Christ the ardent bowman
+in <hi rend="i">Night Thoughts</hi> 325 (VII, 53). Apollo in <hi rend="i">Job</hi> 14 is crowned with the sun
+but is no archer, whereas the bowmen in <hi rend="i">Vala</hi>, such as the mischievous Cupid in 
+<hi rend="i">Vala</hi> 19 are not radiant. Damon refers to the Archer God as “Moloch,” but he is probably a
+counterpart of Cynthia, the Moon Goddess (3), and thus an avatar of Apollo. Spenser usually refers to
+“Phoebus” as the god of poets. Blake has a notable representation of Apollo as archer in the Huntington
+version of <hi rend="i">The Overthrow of Apollo.</hi></p>
+            </item>
+            <item>
+              <p><label>18.</label> A range of seven or more buildings with domes, arches and columns. No
+distinct people are
+<figure n="Tower.8.3.bqscan" rend="file" width="500" height="226">
+	<head>B 14, B 15, B 16, B 17, B 18, B 19, B 20</head>
+</figure>
+visible among them but hills are visible above them.</p>
+            </item>
+            <item>
+              <p><label>19.</label> The Tower of Babel or Nimrod’s Tower. It has two setbacks and the lower
+of the nine levels have flat arches (see A VIII b below). It is erected on a base perhaps located on the
+nearer side of a stream than B 18. It is closely related to the larger tower in <hi rend="i">Dante</hi> 17 for
+<hi rend="i">Hell</hi> 7, except that the tower in Dante has attached buttresses and few portals. This tower
+is evidence that the procession covers the spiritual range from Jerusalem to Babylon.</p>
+            </item>
+            <item>
+              <p><label>20.</label> A thin obelisk, whose base is on the farther side of the stream than the
+Tower of Babel. See <hi rend="i">Dante</hi> 17 and 18 for <hi rend="i">Hell</hi> 7 for two similarly related
+towers. This obelisk is perhaps attached, about two-thirds of the way up, by arches to a less distinct tower
+to its right.</p>
+            </item>
+            <item>
+              <p><label>21.</label> A large indistinct tower in the foreground on this side of the water, next
+to the Tower of Babel; it is without perceptible columns and retains only the suggestions of arches. It has
+separate levels and tapers at the top. It is possible that a cross can be found at the top. The much
+deteriorated upper right corner of the picture may originally have had a stream of figures that curved
+diagonally to form a kind of wake for the Archer Sun God, Apollo (17). This area of the picture has suffered
+further deterioration and the tower is hardly visible in recent photographs.</p>
+            </item>
+          </list>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

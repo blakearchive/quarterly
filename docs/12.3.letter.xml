@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.3.letter</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Letter to the Editor</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1978-79</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978-79</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.3</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Thomas L. Minnick</name>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Marietta Barnes</name>
+                            <name>Lynn Goldstein</name>
+                            <name>Kris Lackey</name>
+                            <resp>Contributors</resp>
+                            <name>E. B. Bentley</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>David Bindman</name>
+                            <name>Izak Bouwer</name>
+                            <name>Martin Butlin</name>
+                            <name>Arnold Cheskin</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Martha Winburn England</name>
+                            <name>J. Karl Franson</name>
+                            <name>Christopher Heppner</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Irwin</name>
+                            <name>Paul McNally</name>
+                            <name>Marta Slowikova</name>
+                            <name>Robert R. Wark</name>
+                            <name>Kazumitsu Watarai</name>
+                            <name>Dwight Weber</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1979"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <div1 id="BQ-12-3-0012">
+				<pb id="p12-219" n="219"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">LETTER TO THE EDITOR</hi>
+                        </title>
+                    </head>
+                    <p>Dear Editors:</p>
+                    <p>Without wishing to seem ungracious to Mr. Andrew Wilton for his generous
+                        review of my <hi rend="i">Samuel Palmer a Biography</hi> and <hi rend="i">The Letters
+of Samuel Palmer</hi>, may I make one observation?</p>
+                    <p>In the latter Mr. Wilton takes me to task for my transcription of a phrase
+                        from a letter of 1839, viz., “inveighed Hannah into the
+                        conspiracy,” and he says the word “must be
+                        ‘inveigled’.” Has Mr. Wilton examined the
+                        MSS? If not, I can assure him that “inveighed” is what is
+                        written in the originals. If Mr. Wilton consults <hi rend="i">The Shorter
+                            Oxford English Dictionary</hi> he will see that one meaning of inveigh
+                        is “to entice, inveigle.”</p>
+                    <p>Raymond Lister</p>
+                    <p>Wolfson College</p>
+                    <p>Cambridge</p>
+                    <p>15 December 1978</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

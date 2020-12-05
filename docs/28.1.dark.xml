@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.1.dark</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Dark Visions: Blake’s Night Thoughts</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.1</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Chris Orr</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-39" n="39"/>
+      <div1 id="BQ-28-1-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">
+                <hi rend="i">Dark Visions: Blake’s Night Thoughts</hi>
+              </hi>
+            </title>
+          </head>
+          <p>Saturday, 1 October 1994</p>
+          <p>The Centre for British Studies, Department of English, University of Adelaide, Adelaide 5005,
+Australia, tel. 08-303-5625</p>
+          <p>John E. Grant, “Who’s Who in Night Thoughts,” together with Michael J. Tolley, “Dark
+Visions of Morality,” and Peter Otto, “Night Thoughts in Blake’s <hi rend="i">Four Zoas</hi>,” Mark
+Davies, “Milton, Young and Blake,” Jon Mee, “Politics and Society in <hi rend="i">Night
+Thoughts</hi>,” will present a workshop on Blake’s illustrations to Young’s poem. The venue will be the
+University of Adelaide and the sponsor is the Centre for British Studies.</p>
+          <p>Contact Margaret Hood, Box 1372, Aldinga Beach, South Australia 5173.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

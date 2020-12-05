@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.4.ryan</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Poisonous Blue</title>
+                <author n="Ryan">Robert M. Ryan</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1974</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1974</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.4</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1974"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <pb id="p07-87" n="87"/>
+            <div1 id="BQ-07-4-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="b">MINUTE PARTICULARS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>
+                        <docAuthor>Robert M. <name>Ryan</name>
+                        </docAuthor>
+                    <ref target="n27" type="note">*</ref></byline>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">“Poisonous Blue”</hi>
+                            </hi>
+                        </title>
+                    </head>
+                    <p>I would like to suggest an interpretation of a curious phrase which appears on Plate 65
+of <hi rend="i">Jerusalem.</hi>
+	<note id="n27">
+                        <hi rend="i">Robert M. Ryan teaches Romantic literature at Rutgers University in
+Camden.</hi>
+                    </note>
+						<q>
+They vote the death of Luvah &amp; they nail’d him to Albion’s Tree in Bath,<lb/>
+They stain’d him with poisonous blue, they inwove him in cruel roots<lb/>
+To die a death of Six thousand years bound round with vegetation. (<hi rend="i">J</hi> 65:8-10, K 699)
+</q>
+Damon identifies “poisonous blue” as woad.<supplied type="spacer"> </supplied><ref target="n16"
+type="note">1</ref> And given the general context, a Druid sacrificial rite, it does seem likely that Blake
+was thinking of the dye with which ancient Britons colored their skin. Yet there is nothing particularly
+poisonous in the chemical makeup of woad. Therefore I suspect that Blake may also have had in mind another
+coloring substance—the pigment known as Prussian blue. 
+                        <note id="n16">
+                            <hi rend="s">1</hi> S. Foster Damon, <hi rend="i">William Blake: His Philosophy
+and Symbols</hi> (1924; rpt. New York: Peter Smith, 1947), p. 459.</note>
+                    </p>
+                    <p>Prussian blue was first produced in Berlin in 1704 and by the end of the century had
+come into wide use among artists—Blake included.<supplied type="spacer"> </supplied><ref target="n17"
+type="note">2</ref> In 1782, the new pigment aroused the curiosity of the Swedish<gap type="emend"/>
+<pb id="p07-89" n="89"/>
+<gap type="emend" rend="plain"/>
+chemist, Karl Wilhelm
+Scheele, and he performed a series of experiments attempting to analyze the “coloring principle” in Prussian
+blue.<supplied type="spacer"> </supplied><ref target="n18" type="note">3</ref> Scheele was successful in
+isolating the chemical, and four years later the French <hi rend="i">Encyclopédie</hi> gave it the name 
+“<hi rend="i">l’acide prussique.</hi>”<supplied type="spacer"> </supplied><ref target="n19" type="note">4</ref>
+Prussic acid is today more generally known as hydrocyanic acid or hydrogen cyanide, and it is recognized as
+one of the most poisonous substances in existence. Scheele himself was apparently not aware of the dangerous
+qualities of the acid he had discovered: it was not until 1803 that its highly poisonous character was fully
+understood.<supplied type="spacer"> </supplied><ref target="n20" type="note">5</ref> Since then the chemical
+has had an inglorious history: the Zyklon-B used at Auschwitz and the gas released in execution chambers in
+this country were both forms of hydrocyanic acid. 
+                        <note id="n17">
+                            <hi rend="s">2</hi> Sir Geoffrey Keynes and Edwin Wolf 2nd, <hi rend="i">William
+Blake’s Illuminated Books: A Census</hi> (New York: Grolier Club, 1953), pp. 44. One instance of Blake’s
+use of the color is mentioned.</note>
+                        <note id="n18">
+                            <hi rend="s">3</hi> His account of the experiments is included in <hi rend="i">The
+Chemical Essays of Charles-William Scheele</hi>, trans. Thomas Beddoes (London: John Murray, 1786).</note>
+                        <note id="n19">
+                            <hi rend="s">4</hi> J. R. Partington, <hi rend="i">A History of Chemistry</hi>,
+III (London: Macmillan, 1962), 527.</note>
+                        <note id="n20">
+                            <hi rend="s">5</hi> Partington, III, 234. In 1803, the poison derived from laurel
+leaves was identified as prussic acid. Was it coincidental that in this year (probably) Blake wrote: “The
+Strongest Poison ever known / Came from Caesar’s Laurel Crown”? (K 433) Or had he read somewhere an account
+of the discovery?</note>
+                    </p>
+                    <p>What was Blake’s point in alluding to Prussian blue in this passage? David Erdman
+suggests that Plate 65 was revised at about the time of Napoleon’s Hundred Days.<supplied type="spacer"> </supplied><ref target="n21" type="note">6</ref> In the Belgian campaign—that final assault by the sons of
+Albion against Luvah—England’s chief ally was Prussia. It was the arrival of Prussian troops under
+Blücher that determined the outcome of the battle at Waterloo. In describing the sacrificial death of Luvah,
+Blake saw the appropriateness of identifying the blue dye of the Druids with the poison-based color named for
+Prussia. 
+                        <note id="n21">
+                            <hi rend="s">6</hi>
+                            <hi rend="i"> Blake, Prophet Against Empire</hi>, 2nd ed., rev. (Princeton:
+Princeton Univ. Press, 1969), p. 466n.</note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

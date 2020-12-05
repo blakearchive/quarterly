@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.3.albion</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Albion Awake!</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1977-1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977-1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.3</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Michael Hays</name>
+              <name>Lynn Goldstein</name>
+              <name>Marietta Barnes</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>W. J. T. Mitchell</name>
+              <name>Edward J. Rose</name>
+              <name>Corlette Walker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-3-0007">
+        <pb id="p11-208" n="208"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">ALBION AWAKE!</hi>
+            </title>
+          </head>
+          <p>The latest publication from Golgonooza on the Ohio is <hi rend="i">Albion
+                            Awake!</hi>, 108 pages, a book of poems by Æthelred Eldridge,
+                        $3 from the Eldridges at Golgonooza, R. R. #1, Millfield, Ohio 45761. The
+                        book is illustrated with photos and line drawings.</p>
+          <figure n="Albion.11.3.bqscan" rend="file" width="500" height="685">
+          	<figTranscr>ALBION<lb/>
+          	AWAKE!<lb/>
+          	by<lb/>
+          	Æthelred<lb/>
+          	<lb/>
+          	“Every scatter’d Atom of Human Intellect now is flocking<lb/>
+          	to the sound of the Trumpet. The Awakener is come — — —<lb/>
+          	the Ancient Man upon the Rock of Albion Awakes.”<lb/>
+          	Wm. Blake</figTranscr>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.temple</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Temple University Blake Days</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+        <pb id="p07-28" n="28"/>
+            <div1 id="BQ-07-2-0002">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">TEMPLE UNIVERSITY BLAKE DAYS</hi>
+                        </title>
+                    </head>
+                    <p>The Samuel Paley Library at Temple, in cooperation with the Department of English,
+College of Music, and School of Communications and Theater held a Blake Celebration from 18 February to 1
+March 1974. An exhibit of Blake materials was arranged by the Library’s Department of Special Collections.
+On 20 February Michael Horovitz, editor and publisher of <hi rend="i">New Departures</hi>, read from his
+poetry. On 22 February James G. Smith of the English Department at Temple gave an illustrated talk on
+“Blake’s <hi rend="i">Job</hi>—the Art and the System.” On 26 February Sheldon Brivic, Annette Levitt, and
+James G. Smith of the English Department gave readings from Blake’s works, and on 27 February the same group
+joined by Richard Beckman and Jim Blackaby gave papers and led discussions on Blake. On 28 February students
+from the College of Music and the School of Communications and Theater performed Blake-inspired music and
+dance. And throughout the days of the Celebration Blake films and videotapes were shown.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

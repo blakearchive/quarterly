@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.preston</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Pronouncing Blake’s invented names</title>
+				<author n="Preston">Kerrison Preston</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-106" n="106"/>
+            <div1 id="BQ-03-4-0009">
+                <div2>
+                    <p>2. Nobody knows how Blake spoke and so every Blake student is free to pronounce
+Blake’s invented names as he or she chooses. The following instances are put forward tentatively for
+discussion:-
+<table rows="7" cols="3">
+                            <row>
+                                <cell>URIZEN</cell>
+                                <cell>pronounced URĪ´ ZEN (near HORIZON)</cell>
+                                <cell>not UR´ ĬZEN</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>UR like ERR ...........</cell>
+                                <cell>not YUR</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>URĪ ....................</cell>
+                                <cell>not UREE</cell>
+                            </row>
+                            <row>
+                                <cell>LOS</cell>
+                                <cell>pronounced LŎSS ...................</cell>
+                                <cell>not LŌCE</cell>
+                            </row>
+                            <row>
+                                <cell>LUVAH</cell>
+                                <cell>pronounced LOVER ..................</cell>
+                                <cell>not LOOV</cell>
+                            </row>
+                            <row>
+                                <cell>VALA</cell>
+                                <cell>pronounced VEILER (VĀ´ LER) ........</cell>
+                                <cell>not VAR</cell>
+                            </row>
+                            <row>
+                                <cell>OLOLON</cell>
+                                <cell>pronounced OLŌ´ LŎN ................</cell>
+                                <cell>not OL´ ŎLON</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <byline>
+                        <docAuthor>Kerrison <name>Preston</name>
+                        </docAuthor> The Georgian House Rockshaw Road Merstham, Surrey</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

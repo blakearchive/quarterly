@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.nouvelles</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Pour Les Sexes: Les Grilles de Paradise</title>
+        <author n="Les Nouvelles Littéraires">Les Nouvelles Littéraires</author>
+        <author n="Senninger">Claude-Marie Senninger</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-2-0005">
+		<pb id="p11-119" n="119"/>
+        <div2>
+          <head>
+            <title type="main">Raw Material [Matière Première] by Denis Roche, and For the Sexes: The Gates
+of Paradise [Pour les Sexes: Les Grilles de Paradise] by William Blake. Paris: L’Energumène (31, Rue
+Victor-Duruy, 75015).</title>
+          </head>
+          <p><hi rend="i">L’Energumène</hi>, a collection linked to the journal of the same name, presents
+a combined volume, unless it be only one book of mirrors and reflections. Denis Roche provides the reader with
+his translation of <hi rend="i">For the Sexes: The Gates of Paradise</hi> by William Blake. These are short
+poems which either frame a series of prints (run off by the poet on 17 May 1793), or provide them with a
+title.</p>
+          <p>Denis Roche does not utilize the traditional preface or introduction. Instead, he makes use of an
+ensemble of poetry, narrative, and criticism which might be characterized as poetic fiction or creative
+reading. It should be noted that there is often little more than a slight phonetic slippage separating poetics
+from politics. This is made apparent to the reader by the appearance of Fourier, Herbért, Restif and Sade in
+the black romantic and red revolutionary landscape of William Blake’s time, or of Denis Roche’s inner
+realm.</p>
+          <p>Denis Roche rereads Blake, follows him in his garden (where he and his wife played Adam and Eve),
+or into his studio in front of his plates, where he engraves his illuminations in the form of words and
+drawings. Denis Roche seeks out, brings to light, makes audible and visible that which constitutes for Blake
+(but also for himself, as author of <hi rend="i">Louve Basse</hi>) the raw material of writing—the bursting
+forth of words, images, and phantasms.</p>
+          <p>Reprinted by permission from <hi rend="i">Les Nouvelles Littéraires</hi>, 26 May 1976, no. 2534,
+p. 32. Contributed by Katharyn R. Gabriella and translated by Claude-Marie Senninger of the University of New
+Mexico.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

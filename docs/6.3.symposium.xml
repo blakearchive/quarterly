@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.symposium</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">1974 Blake Symposium—Edinburgh</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0002">
+      	<pb id="p06-60" n="60"/>
+          <head>
+            <title type="main">
+              <hi rend="b">1974 Blake Symposium—Edinburgh</hi>
+            </title>
+          </head>
+          <p>A symposium on the writings of William Blake is to be held at the Institute For Advanced Studies
+at the University of Edinburgh on 1, 2, and 3 May 1974. The symposium will comprise six to eight discussion
+seminars for which papers are invited. The seminars will be complemented by a public lecture and a dramatic
+presentation—of either one of Blake’s prophetic books or an aspect of his biography—given in the
+University Theatre, George Square. Scottish collections of Blake originals will be available on exhibition for
+members of the symposium.</p>
+          <p>The emphasis of the symposium will be on close analysis of individual poems and works informed by
+historical, literary historical, textual, or linguistic findings. Papers which conform to this approach should
+be submitted for consideration not later than 1 March 1974. A selection of the papers will be published in
+book form and manuscripts should be prepared with this end in view.</p>
+          <p>Papers should be submitted to Michael Phillips, Department of English Literature, David Hume
+Tower, George Square, Edinburgh, from whom further particulars are available.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

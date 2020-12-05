@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.howell</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">An Early, Hand-made Facsimile of the Songs of Innocence and of
+Experience</title>
+				<author n="Howell">John Howell</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <pb id="p01-10" n="10"/>
+                <div1 id="BQ-01-4-0004">
+                    <head>
+                        <title type="section">
+                            <hi rend="u">QUERIES</hi>
+                        </title>
+                    </head>
+                    <head>
+                        <title type="main">1. AN EARLY, HAND-MADE FACSIMILE OF THE <hi rend="u">SONGS OF
+INNOCENCE AND OF EXPERIENCE</hi></title>
+                    </head>
+					<p>(The following description and query comes to us from a leading rare book dealer, Mr. John Howell [434
+Post Street, San Francisco].</p>
+                    <p>An album containing 54 water-colour drawings of very high quality (each about 122 by 78
+mm). These drawings tally exactly with those reproduced in William Muir’s two volumes of facsimiles; i.e.
+<hi rend="u">Songs of Innocence</hi> 28 drawings; <hi rend="u">Songs of Experience</hi> 22 from the
+Beaconsfield copy in the B.M., plus 4 more from the other B.M. copy. There are separate title-pages to each
+work and another title-page for the joint volume. The additional plate reproduced by Muir in his Appendix - “A
+Divine Image” - not included in either book, nor known in any coloured copy, is not present here.</p>
+                    <p>The drawings are lightly mounted onto large sheets of Whatman paper watermarked 1821;
+the front end-paper is watermarked 1813. The album (13 ⅜ by <corr type="emend"><supplied type="emend"
+rend="plain">9</supplied> ¼</corr> ins.) is bound in early 19th century red straight-grained morocco, the
+sides filled with gilt and blind tooling surrounding a central panel; the spine is divided into compartments
+by five raised bands and decorated with gilt and blind tooling. Two panels of the spine are lettered in gilt:
+SONGS OF INNOCENCE AND EXPERIENCE—BY W. BLAKE. Edges gilt. The style of this binding is contemporary with
+the date in the watermarks; 1821.</p>
+                    <p>The text varies in minute details from the printed version: e.g. a happy song - my
+happy song, ‘&amp;’ in place of ‘and’, cheer for chear, etc. But the differences in the drawing and
+colouring are considerable. In ‘Piping Down the Valleys Wild’ the piper wears a pink coat, in the printed
+version this is brown. In other pages some figures are depicted in a far more finished style; while border
+patterns sometimes differ considerably in both layout and colour from the printed version.</p>
+                    <p>Mr. Martin Butlin, who specialises in Blake at the Tate Gallery examined the album
+containing contemporary copies of Blake’s Songs of Innocence and Experience. He did not think that the
+drawings are by Blake himself. For one thing, Blake was little interested in drawing his figures in the round,
+his characters having an <corr type="emend">almost</corr> flat surface; while the artist who made these
+drawings endeavoured to give them both roundness and depth. The drawing is by some person who, although not
+academy trained, had very considerable <corr type="emend">ability</corr> and technique. The colouring, on the
+other hand, is <corr type="emend">extraordinarily</corr> Blakean, and this makes it certain not only that
+these drawings <corr type="emend">were</corr> made early in the nineteenth century, but that they are by
+someone in the circle of Blake himself. It is known, for example, that Linnell himself made copies of
+Blake’s drawings and set his family to do the same. Thomas Butts, the other of Blake’s major patrons, did
+a certain amount of amateur engraving, while Blake gave drawing lessons to Butts’ son.</p>
+                    <pb id="p01-11" n="11"/>
+                    <p>It is probable that the person who did the drawings also mounted them in the album, or
+at least that this was done at much the same time. Evidence for this lies in the second drawing for 
+<hi rend="u">The Little Black Boy</hi> which has been cut rather close (bottom left) and extended in matching
+water-colour on the mount itself. Incidentally Thomas Butts commissioned Blake to make water-colour Biblical
+illustrations and someone in the Butts family mounted these, wrote appropriate texts underneath, drew frames
+around the pictures, and in some cases extended the painted surface to touch the frames.</p>
+                    <p>Mr. Butlin gave it as his opinion that this album is ‘absolutely fascinating’ and
+calls for a considerable amount of research. He suggested, as a line to follow, that the various copies of the
+twin edition of <hi rend="u">Songs of Innocence and Experience</hi> are bound up in different orders and the
+colouring varies. Is it possible to locate an original copy which interlocks with the order and colouring of
+the drawings in this album, and if so, does it, perhaps, stem from the Linnell or Butts families?</p>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

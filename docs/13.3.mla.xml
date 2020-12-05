@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.3.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA on Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1979-1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979-80</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.3</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Morris Eaves</name>
+              <name>E.B. Murray</name>
+              <name>David Simpson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979-1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <div1 id="BQ-13-3-0009">
+        <pb id="p13-156" n="156"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA ON BLAKE</hi>
+            </title>
+          </head>
+          <p>Anyone wishing to participate in a tentative MLA Special Session (1980) on “Blake and the later
+Eighteenth Century” is invited to send a copy of the
+proposed contribution to Nelson Hilton, Dept. of English, Park Hall, University of Georgia, Athens, GA. 30602,
+no later than March 10. Topics of interest would include Blake’s relation to the contemporary science,
+philosophy, and literature: that is, aspects of Blake as a poet of his time, a time which enacts (à la
+Foucault) the break with classical representation.</p>
+<figure type="ad"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.3.trianon</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Trianon Press Archive Exhibition</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1990/1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990/91</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.3</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stuart Atkins</name>
+              <name>Lisa Plummer Crafton</name>
+              <name>Robert N. Essick</name>
+              <name>Bruce E. Graver</name>
+              <name>David Groves</name>
+              <name>Michael Fischer</name>
+              <name>Edward Larrissy</name>
+              <name>John Mee</name>
+              <name>Brian Wilkie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990/1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <div1 id="BQ-24-3-0008">
+		<pb id="p24-110" n="110"/>
+        <div2>
+          <div3>
+		    <head>
+              <title type="main">TRIANON PRESS ARCHIVE EXHIBITION</title>
+            </head>
+			<p>NOVEMBER 5 - DECEMBER 14, 1990<lb/>
+			UNIVERSITY LIBRARY<lb/>
+			UNIVERSITY OF CALIFORNIA, SANTA CRUZ</p>
+			<figure n="gates-child.d.p8" id="gates-child.d.illbk.08" work-copy="gates-child.d" rend="db" width="654" height="781">
+				<figTranscr>At length for hatching ripe<lb/>
+				he breaks the shell<lb/>
+				Publishd by WBlake 17 May 1793</figTranscr>
+			</figure>
+			<p>Foyer &amp; Bridge portions of the exhibit open all Library hours.</p>
+			<p>Special Collections Exhibit Hours: Mon. - Fri. 10am - 12, 1 - 4pm.<lb/>
+			Open Saturday, November 10 &amp; December 8. Closed November 22 &amp; 23.</p>
+			<p>McHenry Library Exhibition Locations: Foyer, Bridge and Special Collections.</p>
+			<head>
+				<title>ARCHIVE EXHIBITION SCHEDULE OF EVENTS</title>
+			</head>
+			<p><hi rend="i">The</hi> UNIVERSITY LIBRARIAN <hi rend="i">and</hi> THE FRIENDS OF THE UCSC LIBRARY
+			<hi rend="i">cordially invite you to view the exhibit and attend the following events:</hi></p>
+			<head>
+				<title rend="h4">THURSDAY, NOVEMBER 8 <hi rend="i">at 2:00 pm</hi></title>
+			</head>
+			<p>Special Collections, McHenry Library</p>
+			<p>JULIE FAWCUS will speak on<lb/>
+			“The Trianon Press: A Triumph of Enthusiasm over Reason”</p>
+			<p><hi rend="i">A reception in her honor, hosted by The Friends of the UCSC Library, will follow.</hi></p>
+			<head>
+				<title rend="h4">FRIDAY, NOVEMBER 9 <hi rend="i">at 2:00 pm</hi></title>
+			</head>
+			<p>Special Collections, McHenry Library</p>
+			<p>A SERIES OF FOUR TALKS:</p>
+			<p><hi rend="i">The Art of Printing and Publishing</hi><lb/>
+			JACK STAUFFACHER, Greenwood Press</p>
+			<p><hi rend="i">Gislebertus, Sculptor of Autun</hi><lb/>
+			VIRGINIA JANSEN, Associate Professor of Art, UC Santa Cruz</p>
+			<p><hi rend="i">Marcel Duchamp</hi><lb/>
+			SHELDON NODELMAN, Associate Professor of Visual Arts,
+			UC San Diego</p>
+			<p><hi rend="i">William Blake</hi><lb/>
+			MARY HOLMES, Professor Emerita of Art, UC Santa Cruz</p>
+			<p><hi rend="i">Please park on Hagar Drive. There will be a shuttlebus available on both
+afternoons.</hi></p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

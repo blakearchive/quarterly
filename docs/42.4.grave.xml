@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>42.4.grave</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake’s Grave</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 2009</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">42.4</biblScope>
+            <biblScope unit="volume">42</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Mark Crosby</name>
+              <name>Morton D. Paley</name>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2009"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_42">
+    <body>
+	  <pb id="p42-158" n="158"/>
+      <div1 id="BQ-42-4-0008">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake’s Grave</hi>
+            </title>
+          </head>
+          <p>Luis and Carol Garrido have rediscovered the exact site of Blake’s grave at Bunhill Fields
+(some yards from the current marker) and have published their research at their Friends of Blake web site
+&lt;http://www.friendsofblake.org&gt;. They and the Blake Society are working with the City of London to
+design and raise funds for a new, correctly situated memorial stone.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.2.romantic</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Romantic Self</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.2</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Krzysztof Z. Cieszkowski</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+              <name>Christina Shuttleworth Kraus</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith W. Page</name>
+              <name>Donald H. Reiman</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-140" n="140"/>
+      <div1 id="BQ-16-2-0011">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">THE ROMANTIC SELF</hi>
+            </title>
+          </head>
+          <p>Morris Eaves and Michael Fischer are team-teaching a year-long course on “The Romantic
+      Self” at the University of New Mexico during 1982-83. The course is about the
+      relationships between romanticism and contemporary critical theory. The first semester, which
+      focuses on the historical contest between neoclassical and romantic theories of art, lays the
+      groundwork for the second semester, which focuses on recent movements in critical theory.
+      Throughout the year, visitors will come to campus to discuss their own work with the class.
+      The visitors include, among others, W.J.T. Mitchell (Univ. of Chicago) in October, Stanley
+      Cavell (Harvard) in November, Northrop Frye (Univ. of Toronto) in February, J. Hillis Miller
+      (Yale) and M.H. Abrams (Cornell) in March. Each visitor will attend two class sessions and
+      deliver a public lecture.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

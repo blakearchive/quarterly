@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.2.butlinnews</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Another Blake Watercolor Cleaned at Tate Gallery</title>
+                <author n="Butlin">Martin Butlin</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.2</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Marta Field</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-2-0002">
+            	<pb id="p06-43" n="43"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">ANOTHER BLAKE WATERCOLOR CLEANED AT THE TATE GALLERY</hi>
+                        </title>
+                    </head>
+                    <p>
+                        <byline><hi rend="i">Report by <docAuthor>Martin <name>Butlin</name>,</docAuthor> 
+Keeper of the British Collection, The Tate Gallery, London.</hi></byline>
+The Tate Gallery, continuing its policy of cleaning and, where necessary, remounting and
+re-framing its Blakes, has just treated the large early watercolor of “Oberon, Titania and Puck with Fairies
+Dancing,” c. 1785-90. As can be seen from the reproduction in the second, 1971, edition of the Tate Gallery
+Blake catalogue, it was badly discolored with, in addition, several localized stains. The main discoloration
+was in the paper itself and this has been successfully bleached out and practically all of the stains removed,
+revealing the original delicacy and translucency of Blake’s watercolor washes. In particular, the reds are
+now much cooler and accord better with the exceptionally delicate blue of Titania’s dress; Oberon’s robe
+is now white. Also more evident is the pentimento by which Blake changed the position of Titania’s head;
+this was originally higher on the paper, making her tower over her consort. The first pair of eyes drawn by
+Blake can now be seen in the middle of her forehead and the original chaplet round her hair retains its blue
+coloring, whereas that in the revised position was left uncolored.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

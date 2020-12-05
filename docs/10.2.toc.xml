@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.2</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Mary Baine</name>
+              <name>Rodney Baine</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas Minnick</name>
+              <name>Judith Ott</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <front>
+      <pb id="p10-41-42" n="41-42"/>
+      <div1 id="cover">
+        <figure n="cover.010.02.bqscan" rend="file" width="258" height="330">
+          <figTranscr>Blake<lb/>
+            NEWSLETTER 38<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            FALL 1976, VOLUME 10, NUMBER 2</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-10-2-0001">
+        <table id="contents" rows="8" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">News</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="10.2.muggeridge">The Muggeridge Blake</ref>, 
+              <ref type="article" issue="10.2.colby">Colby Blake Issue</ref>, 
+              <ref type="article" issue="10.2.wip">Works in Progress and a Query</ref>, 
+              <ref type="article" issue="10.2.barbara">Santa Barbara Conference</ref><supplied type="emend">,
+              <ref type="article" issue="10.2.golgonooza">Golgonooza</ref></supplied>
+            </cell>
+            <cell>44</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Notes</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.2.ott">The Bird-Man of William Blake’s Jerusalem</ref> by
+Judith Ott</cell>
+            <cell>49</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.2.baine">Blake’s Inflammable Gass</ref> by Rodney M. and
+Mary R. Baine</cell>
+            <cell>51</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.2.essick">Blake in the Marketplace, 1974-75</ref> by Robert
+Essick</cell>
+            <cell>53</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.2.minnick">A Checklist of Recent Blake Scholarship</ref> by
+Thomas Minnick</cell>
+            <cell>59</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-10-2-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>Mary and Rodney Baine both teach English at the University of Georgia. They are currently working
+on a book about Blake’s animal symbolism.</p>
+        <p>Robert N. Essick, Pasadena, California, is a frequent contributor to the Blake Newsletter.</p>
+        <p>Thomas Minnick, Ohio State University, is our Bibliographer. He wishes to acknowledge the
+assistance of Susan A. Hoyt in searching the art-historical bibliography for the Checklist.</p>
+        <p>Judith Ott is a University Fellow working toward a Ph.D. in Art History at Ohio State University.
+“The Illuminations of William Blake’s Jerusalem” is her dissertation topic.</p>
+        <p>Photographic credits: p. 47, Aethelred and Alexandra Eldridge (Golgonooza); p. 48, 49 (col. 1),
+Harvard College Library, Dept. of Printing and the Graphic Arts; p. 49, (col. 2), National Gallery of Art,
+Washington, Rosenwald Collection; p. 50, Bibliotheque Publique de Dijon; p. 53, Robert N. Essick collection;
+p. 54, Colin Franklin collection. Cover and inside cover: detail from pl. 78 of Blake’s Jerusalem, Harvard
+College Library, Dept. of Printing and the Graphic Arts. 
+                </p>
+        <pb id="p10-43" n="43"/>
+        <p>The Blake Newsletter, An Illustrated Quarterly, is published four times a year under the
+sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, Boston University.</p>
+        <p>Bibliographer: Thomas Minnick, Ohio State University.</p>
+        <p>Associate Editor for Great Britain: Francis A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Editorial Assistant: Michael Hays, University of New Mexico.</p>
+        <p>Circulation Manager: Jane Welford, University of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque NM 87131; Morton D. Paley, Dept. of English, Boston Univ., Boston Mass. 02215.</p>
+        <p>Subscriptions are $5 for one year, one volume, four issues. Special rate for individuals, $4 for
+one year, surface mail. For subscribers overseas who want to receive their issues by air mail, $8. U.S.
+currency or international money order if possible. Make checks payable to the Blake Newsletter. Address all
+subscription orders and related communications to Jane Welford, Blake Newsletter, Univ. of New Mexico,
+Albuquerque NM 87131.</p>
+        <p>Some back issues are available. Address Jane Welford. Prices: whole numbers 1-8, bound together,
+whole numbers 9-13, bound together, $5 each (special rate for individuals, $4). Whole numbers 22, 23, 24, 25,
+26, 27, 28, 32, 33, 34, 36, 37, $2 each. Whole number 20 (A Handlist of Works by William Blake in the
+Department of Prints &amp; Drawings of the British Museum, ed. G. E. Bentley, Jr.) and whole number 35 (A
+Checklist of the Blake Material in the Lessing J. Rosenwald Collection, Alverthorpe Gallery, ed. Ruth Lehrer),
+$3 each. Whole numbers 14-19, 21 are out of print. The International Standard Serial Number of the Blake
+Newsletter is 0006-453X.</p>
+        <p>Design and layout for this issue: Jean Stalker and Michael Hays, University of New Mexico.
+	<note type="unreferenced" place="footer">Copyright © 1976 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

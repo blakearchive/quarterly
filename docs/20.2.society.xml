@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.2.society</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Blake Society</title>
+        <author n="Worrall">David Worrall</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.2</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>David V. Erdman</name>
+              <name>Nelson Hilton</name>
+              <name>Tim Hoyer</name>
+              <name>Wallace Jackson</name>
+              <name>Edward Larrissy</name>
+              <name>Raymond Lister</name>
+              <name>Morton D. Paley</name>
+              <name>David Punter</name>
+              <name>David Scrase</name>
+              <name>David Simpson</name>
+              <name>Dena Bain Taylor</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-71" n="71"/>
+      <div1 id="BQ-20-2-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+			  <figure n="blakesociety.20.2.bqscan" rend="file" width="569" height="367">
+				<figTranscr>The Blake Society<lb/>
+				AT ST JAMES’, PICCADILLY</figTranscr>
+			  </figure>
+            </title>
+          </head>
+          <p>As one of the speakers remarked on the evening of the inauguration of the Blake Society, poor
+William Blake’s shade must be contemplating rather ruefully the formation of a Society to his honor within
+the portals of a church of the authorized Church of England (and the Society’s future plans include a
+“Blake” stained-glass window). He need not fear, however, since the place of his baptism is now opened up
+to reveal the infinite which was hid. Under the enthusiastic arts management of Peter Pelz, St. James’
+church has become home for a wide variety of activities and interests extending far beyond Blake to cover
+current theology, sociology, and politics (Norman Tebbitt, the British Cabinet’s Dracula lookalike /
+thinkalike, was a recent speaker). St. James’ is looking to its heritage, and it is natural that it should
+recognize Blake as one of its most celebrated alumni.</p>
+          <p>At the Inaugural Event held in May 1986 there were two main lectures held over the three days,
+one by Bishop John Taylor on “Blake’s God” and one by Professor David Erdman on “Blake the
+Satirist,” but other activities included two plays by Oliver Parker in addition to readings, musical
+settings, and films. The inaugural evening itself was something of a revelation with the whole of the ground
+floor of the church being packed out with enthusiasts of all ages and showing, once again, that interest in
+Blake extends far beyond the world of scholarship and the academy.</p>
+          <p>The Blake Society hopes to commission and promote new art, music, and drama inspired by Blake as
+well as to publish, in conjunction with Essex University, an annual lecture. The Society is already busy
+planning events for the autumn of 1986 and has Northrop Frye, Stanley Gardner, and Morton Paley lined up to
+lecture in 1987.</p>
+          <p>Naturally the Blake Society would welcome financial contributions to support its various programs
+and £15 has been suggested as an annual subscription (British taxpayers should write to request a deed of
+covenant form to increase the sum that this Registered Charity actually receives). The Society stresses,
+however, that payment of the subscription is purely for those who can afford it and should not bar anyone from
+attending and contributing to the Society’s events.</p>
+          <p>If the opening events are anything to go by, the Blake Society at St. James’ should be a lively
+umbrella organization for both the scholarly and the popular interest in Blake, and it is the latter which
+might prove more significant in the long run.</p>
+          <p>The address from which to obtain further details and a deed of covenant form is: The Blake
+Society at St. James’, 197 Piccadilly, London, W1V 9LF, tel. 01 734 4511.
+<byline><docAuthor>[David <name>Worrall</name>,</docAuthor> St. Mary’s College, England].</byline></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

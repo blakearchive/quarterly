@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>39.3.groves</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and the Sheffield Iris</title>
+        <author n="Groves">David Groves</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2005/2006</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2005-06</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">39.3</biblScope>
+            <biblScope unit="volume">39</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Harry White</name>
+              <name>David Groves</name>
+              <name>Robert N. Essick</name>
+              <name>David Fuller</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2005/2006"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_39">
+    <body>
+	  <pb id="p39-125" n="125"/>
+      <div1 id="BQ-39-3-0007">
+        <head>
+          <title type="section">MINUTE PARTICULAR</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake and the <hi rend="i">Sheffield Iris</hi></title>
+          </head>
+          <byline>By <docAuthor>David <name>Groves</name></docAuthor></byline>
+          <p>The <hi rend="i">Sheffield Iris</hi> was a weekly eight-page newspaper, founded in 1794 by the
+poet and reformer James Montgomery (1771-1854). Its enlightened political views gave the 
+<hi rend="i">Iris</hi> an influence far beyond the English manufacturing city of Sheffield. Although
+Montgomery’s role as editor ended in 1825, he continued to take an interest in the paper, and to contribute
+occasional pieces to it.<supplied type="spacer"> </supplied><ref target="n88" type="note">1</ref>
+	<note id="n88">1. See John Holland and James Everett, <hi rend="i">Memoirs of the Life and Writings of James
+Montgomery, Including Selections from His Correspondence</hi>, 7 vols. (London: Longman, 1856) 1: 175 and 7:
+95. Montgomery had some interest in Blake, and in the 1808 edition of Blair’s <hi rend="i">Grave</hi>, with
+designs by Blake (see Holland and Everett 1: 38 and G. E. Bentley, Jr., <hi rend="i">Blake Records</hi>
+[Oxford: Clarendon P, 1969] 194). In the review that follows, however, there seems to be no evidence of
+Montgomery’s pen. See also the valuable discussion of the Cromek-Montgomery-Blake nexus in Robert N. Essick
+and Morton D. Paley, <hi rend="i">Robert Blair’s</hi> The Grave <hi rend="i">Illustrated by William Blake: A
+Study with Facsimile</hi> (London: Scolar P, 1982) 23-25.</note></p>
+          <p>When the second volume of Allan Cunningham’s <hi rend="i">Lives of the Most Eminent British
+Painters, Sculptors, and Architects</hi> appeared in 1830, it was reviewed in the <hi rend="i">Iris</hi>, with
+special attention to Cunningham’s chapter on Blake. The anonymous review has never been reprinted or
+mentioned in print, until now:
+<q>
+FAMILY LIBRARY.—PAINTERS.<supplied type="spacer"> </supplied><ref target="n89" type="note">2</ref>
+	<note id="n89">2. Anon., <hi rend="i">Sheffield Iris</hi> 9 February 1830: 4. The opening words, “NUMBER X.
+of this interesting work,” refer to the “Family Library” series, of which number ten was the second of
+Cunningham’s six-volume <hi rend="i">Lives.</hi> “Albemarle-street” was the location of Cunningham’s
+London publisher, John Murray. “Swedenberg” was of course the mystic Emanuel Swedenborg.</note>
+	<lb/>
+<lb/>
+NUMBER X. of this interesting work, which we have on a previous occasion introduced to our readers, is just
+published, and comprises the lives of seven painters—West, Barry, Blake, Opie, Morland, Bird, and Fuseli,
+with likenesses, more or less highly finished, of each. To say, that the memoirs contained in this neat
+volume—the second of “British Painters, Sculptures [sic], and Architects,” are from the fascinating pen
+of Allan Cunningham, and the far-famed depot of Albemarle-street, leaves nothing else to be added in the way
+of praise. What a singular being was William Blake! A painter, an engraver, a poet, and a visionary,—in the
+last character perhaps little less singular than Swedenberg [sic] himself. “To describe” says the
+biographer “the conversations which Blake held in prose with demons, and in verse with angels, would fill
+volumes, and an ordinary gallery could not contain all the heads which he drew of his visionary visitants.
+That all this was real, he himself most sincerely believed; nay, so infectious was his enthusiasm, that some
+acute and sensible persons who heard him expatiate, shook their heads, and hinted that he was an extraordinary
+man, and that there might be something in the matter.” The spirits, however, who thus obeyed the artist’s
+bidding, came not to reveal any secrets, save the secrets of their own countenances—in short they came as
+might be expected at the call of a painter—to have their portraits taken! and many of the likenesses of
+these spiritual sitters did poor Blake delineate, from the heroic Wallace to the “ghost of a flea!”
+Instead of transcribing the narrative of these unearthly vagaries, we shall copy the brief account of the
+enthusiast’s procedure and luck in a transaction incident to the greater part of mankind: but in which few
+engage so inconsiderately, and fewer still, when that is the case, with such exemplary good fortune:—
+</q>
+(The two paragraphs that follow are the ninth and tenth paragraphs of Cunningham’s chapter on Blake, from
+the first edition of the <hi rend="i">Lives.</hi><supplied type="spacer"> </supplied><ref target="n90"
+type="note">3</ref> The only substantive change is the spelling of the names of Blake’s wife as
+[alternatively] “Katharine Boucher” and “Catharine Boucher.” Blake was in fact 24, not 26, when he
+married.) <note id="n90">3. The second edition of Cunningham’s life of Blake is reprinted in Bentley
+476-507.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

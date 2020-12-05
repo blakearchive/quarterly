@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.4.prints</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Books and Prints for Sale</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.4</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Brad Hayden</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Tom Dargan</name>
+              <name>Raymond H. Deck, Jr.</name>
+              <name>George Goyder</name>
+              <name>Mary Lynn Johnson-Grant</name>
+              <name>Christopher Heppner</name>
+              <name>Edward Terry Jones</name>
+              <name>Martin K. Nurmi</name>
+              <name>Mary Ellen Reisner</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Harry White</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-4-0007">
+		<pb id="p10-136" n="136"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BOOKS AND PRINTS FOR SALE</hi>
+            </title>
+          </head>
+          <p>Edwin C. Epps, Box 6444, Columbia, South Carolina 29260, is selling, by mail and appointment
+only, books and prints by and about Blake, as well as a variety of other eighteenth-century and Pre-Raphaelite
+material. His most recent “mini-catalogue” has a page or so on Blake, the Pre-Raphaelites, and Ossian, among
+others.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

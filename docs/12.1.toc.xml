@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1978</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.1</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Lynn Goldstein</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Shelley Grieve</name>
+                            <name>Kris Lackey</name>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Mary Clarke</name>
+                            <name>Raymond H. Deck, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Ruth E. Fine</name>
+                            <name>Frank Graziano</name>
+                            <name>Jean H. Hagstrum</name>
+                            <name>Gunnar Harding</name>
+                            <name>Christopher Heppner</name>
+                            <name>Joe Napora</name>
+                            <name>Martin K. Numri</name>
+                            <name>Morton D. Paley</name>
+                            <name>R. W. Peattie</name>
+                            <name>Marcia Tillotson</name>
+                            <name>Gunnel Tottie</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date value="1978"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <front>
+            <pb id="p12-1-2" n="1-2"/>
+            <div1 id="cover">
+                <figure n="cover.012.01.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>Blake<lb/>
+                        AN ILLUSTRATED QUARTERLY 45<lb/>
+                        Volume Twelve<lb/>
+                        Number One<lb/>
+                        Summer 1978</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-12-1-0001">
+                <table id="contents" rows="23" cols="2">
+                	<row>
+                		<cell>
+                			<head>
+                    			<title>
+                        			<hi rend="b">CONTENTS</hi>
+                    			</title>
+                			</head>
+                		</cell>
+                	</row>
+                    <row>
+                        <cell><corr type="emend"><ref type="article" issue="12.1.peattie">William 
+<corr type="emend" rend="plain">Rossetti’s</corr> Aldine Edition of Blake</ref></corr><lb/>
+ by R. W. Peattie</cell>
+                        <cell>4</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.essick">The Figure in the Carpet</ref><lb/>
+ by Robert N. Essick</cell>
+                        <cell>10</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.heppner">Blake &amp; the Seaman’s
+Recorder</ref><lb/>
+ by Christopher Heppner</cell>
+                        <cell>15</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.clarke">The Job Ballet</ref><lb/>
+ by Mary Clarke</cell>
+                        <cell>18</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.rnessick">Blake in the Marketplace
+1976-77</ref><lb/>
+ by Robert N. Essick</cell>
+                        <cell>26</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">POETRY</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.napora">by Joe Napora</ref></cell>
+                        <cell>39</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.paley">by Morton D. Paley</ref></cell>
+                        <cell>39</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.harding">by Gunnar Harding</ref></cell>
+                        <cell>39</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.graziano">by Frank Graziano</ref></cell>
+                        <cell>40</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">REVIEWS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.fine">Blake Exhibition at the Tate
+Gallery</ref><lb/>
+ reviewed by Ruth E. Fine</cell>
+                        <cell>42</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.nurmi">John Howard’s <hi rend="i">Blake’s
+“Milton”</hi> and <hi rend="i">Milton Reconsidered</hi> edited by Karl Franson</ref><lb/>
+ reviewed by Martin K. Nurmi</cell>
+                        <cell>56</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.tillotson">Recent work on Mary
+Wollstonecraft</ref><lb/>
+ reviewed by Marcia Tillotson</cell>
+                        <cell>58</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.hagstrum">David Bindman’s <hi rend="i">Blake
+as an Artist</hi></ref>
+                            <lb/>
+ reviewed by Jean H. Hagstrum</cell>
+                        <cell>64</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">MINUTE PARTICULARS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.deck">“Blake, William” in the <hi rend="i">New
+American Cyclopedia</hi></ref>
+                            <lb/>
+ by Raymond H. Deck, Jr., </cell>
+                        <cell>68</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.rhdeck">Another Early Printing of Blake’s
+“Night”</ref><lb/>
+ by Raymond H.
+                            Deck, Jr.</cell>
+                        <cell>69</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.bentley">The First Printed Reference to the
+Publication of <hi rend="i">Job</hi>: Disraeli(?) in <hi rend="i">The Star Chamber</hi> (1826)</ref><lb/>
+ by G. E. Bentley, Jr.</cell>
+                        <cell>69</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.1.gebentley">The Selling of Blake’s 
+<hi rend="i">Night Thoughts</hi> Drawings in
+                            the 1870s</ref><lb/>
+ by G. E. Bentley, Jr.</cell>
+                        <cell>70</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NEWSLETTER</hi>
+                        </cell>
+                        <cell>72</cell>
+                    </row>
+                    <row>
+                    	<cell>
+                    		<supplied type="emend">
+                    		<ref type="article" issue="12.1.levine">Levine’s Blake Caricature</ref>, 
+                    		<ref type="article" issue="12.1.contributor">A Contributor Identified</ref>, 
+                    		<ref type="article" issue="12.1.prices">Higher Prices</ref>, 
+                    		<ref type="article" issue="12.1.zoas">Four Zoas for Fall</ref>, 
+                    		<ref type="article" issue="12.1.discussion">Discussion</ref>, 
+                    		<ref type="article" issue="12.1.arthur">Arthur Farwell</ref>
+                    		</supplied>
+                    	</cell>
+                    </row>
+                </table>
+            </div1>
+            <div1 id="BQ-12-1-0002">
+                <head>
+                    <title>
+                        <hi rend="b">CONTRIBUTORS</hi>
+                    </title>
+                </head>
+                <p>G. E. BENTLEY, JR. (University of Toronto) is concerned primarily with Blake,
+                    Flaxman, Cumberland, and illustrated books of the 1790s.</p>
+                <p>MARY CLARKE is editor of Britain’s leading dance magazine, <hi rend="i">Dancing
+Times</hi> (3 Hand Court, Holborn). Among her books are <hi rend="i">Making a Ballet</hi> and 
+<hi rend="i">Understanding a Ballet</hi>,
+                    both written in collaboration with Clement Crisp.</p>
+                <p>RAYMOND H. DECK, JR.’s articles on Blake have appeared in recent issues of
+                        <hi rend="i">Blake</hi> and <hi rend="i">Studies in Romanticism.</hi> He
+                    recently received his Ph.D. from Brandeis University and will be looking for a
+                    job.</p>
+                <p>ROBERT N. ESSICK is co-editor, with Donald Pearce, of <hi rend="i">Blake in His
+                        Time</hi>, a collection of essays on Blake’s art forthcoming from
+                    Indiana Univ. Press.</p>
+                <p>RUTH E. FINE is National Gallery of Art Curator for Alverthorpe Gallery
+                    (Jenkintown, Pa.), which houses the Lessing J. Rosenwald Collection. She
+                    compiled the checklist of Blake material in that collection (<hi rend="i">Blake
+                        Newsletter 35</hi>).</p>
+                <p>FRANK GRAZIANO is working toward an MFA at the Writer’s Workshop,
+                    University of Iowa. He is the author of four chapbooks of poetry. “The Last
+                    Judgement” is from his manuscript <hi rend="i">The First Book of Og, King
+                        of Bashan</hi>, written after Blake’s illustrations for
+                    Blair’s <hi rend="i">The Grave.</hi>
+                </p>
+                <p>JEAN H. HAGSTRUM (Northwestern University) is completing a book tentatively
+                    entitled <hi rend="i">Eros and Sensibility: Sexual and Ideal Love from Milton to
+                        Mozart.</hi> His <hi rend="i">Blake Poet &amp; Painter</hi> will be
+                    reissued in the fall of 1978 by the University of Chicago Press as a Phoenix
+                    paperback.</p>
+                <p>GUNNAR HARDING is a Swedish poet.</p>
+                <p>CHRISTOPHER HEPPNER is an Assistant Professor of English at McGill, and has
+                    published essays on Blake in <hi rend="i">Blake</hi> and <hi rend="i">Colby
+                        Library Quarterly.</hi>
+                </p>
+                <p>JOE NAPORA is a poet and filmmaker, with recent poems scheduled for publication
+                    in <hi rend="i">Kuksu</hi> and <hi rend="i">etc.</hi>
+                </p>
+                <p>MARTIN K. NURMI’S most recent book is <hi rend="i">William Blake</hi>
+                    (1975), an introduction to the poetry.</p>
+                <p>MORTON D. PALEY is Co-Editor of <hi rend="i">Blake.</hi> His most recent book is
+                    a study of Blake’s art (1978).</p>
+                <p>R. W. PEATTIE (Univ. of Calgary) has published articles on the Rossettis and on
+                    Swinburne and is preparing a biography of W. M. Rossetti.</p>
+                <p>MARCIA TILLOTSON (University of New Mexico) is editing the Byron apocrypha, a
+                    checklist of which is forthcoming shortly.</p>
+                <p>GUNNEL TOTTIE teaches English at Stockholm University. 
+<note type="unreferenced" place="footer">© 1978 by Morris Eaves &amp; Morton D.
+                    Paley</note>
+                </p>
+            </div1>
+            <pb id="p12-3" n="3"/>
+            <div1 id="BQ-12-1-0003">
+                <head>
+                    <title>
+                        <hi rend="b">EDITORS</hi>
+                    </title>
+                </head>
+                <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of
+                    California, Berkeley.</p>
+                <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+                <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator,
+                    Department of Prints and Drawings, British Museum.</p>
+                <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+                    Albuquerque, NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department
+                    of English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L.
+                    Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus,
+                    Ohio, 43210.<lb/>
+ Frances A. Carey, Department of Prints and Drawings, British
+                    Museum, Great Russell Street, London WC1B 3DG, England.</p>
+                <figure n="EditorsTOC.12.1.bqscan" rend="file" width="250" height="417"/>
+            </div1>
+            <div1 id="BQ-12-1-0004">
+                <head>
+                    <title>
+                        <hi rend="b">INFORMATION</hi>
+                    </title>
+                </head>
+                <figure n="InformationTOC.12.1.bqscan" rend="file" width="400" height="346"/>
+                <p>EDITORIAL ASSISTANT IN CHARGE: Lynn Goldstein, Univ. of New Mexico.</p>
+                <p>EDITORIAL ASSISTANTS: David Anderson, Shelley Grieve, Kris Lackey, &amp; Cynthia
+                    Lewiecki, all Univ. of New Mexico.</p>
+                <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the
+                    Department of English, University of New Mexico.</p>
+                <p>SUBSCRIPTIONS are $12 for 1 year, 1 volume, 4 issues. Special rate for
+                    individuals, $10, surface mail. $15 for subscribers overseas who prefer air
+                    mail. U.S. currency or international money order if possible. Make checks
+                    payable to Blake/An Illustrated Quarterly. Address all subscription orders
+                    &amp; related communications to the Circulation Mgr., LuAnn Baca, <hi rend="i">Blake</hi>,
+Dept. of English, Univ. of New Mexico, Albuquerque NM 87131
+                    USA.</p>
+                <p>Some BACK ISSUES are available. Address LuAnn Baca for a list of issues and
+                    prices.</p>
+                <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131;
+                    Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+                <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is
+                    INDEXED in the Modern Language Association’s International Bibliography,
+                    the Modern Humanities Research Association’s Annual Bibliography of
+                    English Language and Literature, <hi rend="i">English Language
+                    Notes</hi>’ annual Romantic bibliography, ARTbibliographies MODERN, and
+                    the American Humanities Index (Whitston Pub.).</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.4.bentley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="note">The Vicissitudes of Vision, The First Account of William Blake in Russian
+(1834)</title>
+        <author n="Bentley">G. E. Bentley, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.4</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Brad Hayden</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Tom Dargan</name>
+              <name>Raymond H. Deck, Jr.</name>
+              <name>George Goyder</name>
+              <name>Mary Lynn Johnson-Grant</name>
+              <name>Christopher Heppner</name>
+              <name>Edward Terry Jones</name>
+              <name>Martin K. Nurmi</name>
+              <name>Mary Ellen Reisner</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Harry White</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-4-0003">
+        <pb id="p10-112" n="112"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">THE VICISSITUDES OF VISION<lb/>
+			  THE FIRST ACCOUNT OF WILLIAM BLAKE IN RUSSIAN</hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor><hi rend="b">G. E. </hi><name><hi rend="b">BENTLEY</hi></name>, 
+<hi rend="b">JR.</hi></docAuthor>
+          </byline>
+          <p>William Blake is essentially an English phenomenon, strange and bewildering to his
+contemporaries, barely of interest beyond the English-speaking world until more than a century after his birth
+in 1757. Even today, no contemporary copy of Blake’s writings is known to be outside the Anglophone world of
+Britain, the United States, New Zealand, Australia, and Canada, and, though there are hundreds of articles and
+books on Blake in other languages, chiefly Japanese, they are mostly derivative and introductory. The poet
+called himself “English Blake,”<supplied type="spacer"> </supplied><ref target="n44" type="note">1</ref> and
+so he is. <note id="n44"><hi rend="s">1</hi><hi rend="i"> Notebook</hi> p. 5.</note></p>
+          <p>Interest in and information about Blake spread beyond the English Channel only very slowly. Aside
+from incidental references in bibliographies and directories,<supplied type="spacer"> </supplied><ref
+target="n45" type="note">2</ref> the first account of Blake in German was in 1811, the first in the United
+States in 1830, the first in French in 1833, and even these were essentially English. Anon., “William Blake,
+Künstler, Dichter, und religiöser Schwärmer” in <hi rend="i">Vaterländisches Museum</hi>, 1 (January
+1811), 107-31, was written by an Englishman, Henry Crabb Robinson,<supplied type="spacer"> </supplied><ref
+target="n46" type="note">3</ref> and Anon., “Hôpital des fous à Londres” in <hi rend="i">Revue
+Britannique</hi>, 3<hi rend="s">e</hi> Série, 4 (July 1833), 179-87, is manifestly based on, and confused
+from, Anon., “Bits of Biography. No. I. Blake, the Vision Seer, and Martin the York Minster Incendiary,” 
+<hi rend="i">Monthly Magazine</hi>, 15 (March 1833), 244-49.<supplied type="spacer"> </supplied><ref target="n47"
+type="note">4</ref> The early accounts of Blake in the United States are all simply extracts from or reprints
+of Allan Cunningham’s life of Blake (1830).<supplied type="spacer"> </supplied><ref target="n48"
+type="note">5</ref> And there are apparently no accounts of Blake at all, not even incidental references to
+him, in Italy, Spain, or Holland or in other Romance or Germanic languages until well after 1863, when 
+<corr type="emend">Alexander</corr> Gilchrist’s <hi rend="i">Life of William Blake, “Pictor 
+<corr type="emend">Ignotus”</corr></hi> made him sensationally well known. <note id="n45"><hi rend="s">2</hi> e.g.,
+F. A. Ebert, <hi rend="i">Allegemeines Bibliographisches Lexikon</hi>, Vol. I (1821), Vol. II (1830), and P.
+F. &amp; A. L. Basan, <hi rend="i">Dictionnaire des Graveurs Anciens et Modernes</hi> (1809), I, 70—see 
+<hi rend="i">Blake Records</hi> (1969), 270, 375-76, 623.</note>
+	<note id="n46"><hi rend="s">3</hi> See <hi rend="i">Blake Records</hi> (1969), 432-55. Robinson’s essay was
+translated into German by Dr. N. K. Julius. The account of Blake in <hi rend="i">Zeitgenossen</hi>, 3 (1830),
+170-78, is a translation from Cunningham’s biography of Blake—see <hi rend="i">Blake Records</hi>, 377, n.
+2.</note>
+	<note id="n47"><hi rend="s">4</hi> The <hi rend="i">Revue Britannique</hi> piece was also the basis for the
+account of Blake in Brierre de Boismont, <hi rend="i">Des Hallucinations</hi> (1845 ff).</note>
+	<note id="n48"><hi rend="s">5</hi> Anon., “Visions of Blake the Artist,” <hi rend="i">The Casket</hi>, 5
+([Philadelphia] May 1830), 231-32 (reprinting Cunningham Paragraphs 36-39, 41), partly reprinted in 
+<hi rend="i">The New-England Weekly Review</hi> [Hartford], 3 May 1830, p. 1; Anon., “Model of a Painter’s
+Wife,” <hi rend="i">Literary Port Folio</hi>, 1 ([Philadelphia] 13 May 1830), 150 (reprinting the London 
+<hi rend="i">Athenaeum</hi> review of Cunningham, 6 February 1830, pp. 66-68); <hi rend="i">American Monthly
+Magazine</hi>, 3 (June 1831), 164-71 (a review of Cunningham consisting largely of extracts)—see 
+<hi rend="i">Blake Records</hi>, 377-78, 398, 400, 410. The first edition of Cunningham (but not the second, 1830)
+was reprinted in the U. S. in 1831, 1837, 1842, 1844, and 1846.</note></p>
+          <p>In these circumstances, it is astonishing to find an article on Blake in Russian as early as
+1834, an article, moreover, which does not appear in any Blake bibliography and which is quite unknown to
+Blake scholars. What it says and how it got there are mysteries well worth pursuing.<supplied type="spacer"> </supplied><ref target="n85" type="note">*</ref>
+	<note id="n85">* The translation of the Russian account itself will appear in the journal of The University
+of Poona [India].</note></p>
+          <p>When I was in Leningrad in 1973, I visited the great Saltykov-Shchedrin Library where Lenin had
+worked, to discover what they have on Blake, and found in due time that their surprisingly extensive Blake
+holdings included an article on the poet in <hi rend="i">Teleskop</hi> for 1834.<supplied type="spacer"> </supplied><ref target="n49" type="note">6</ref> When I first saw the <hi rend="i">Teleskop</hi> entry in the
+Saltykov-Shchedrin Blake list, I assumed that it must be misdated; indeed, I was 
+                        <pb id="p10-113" n="113"/>
+moderately confident that this must be the case until many months later, when I saw a microfilm copy of the
+journal itself. Then, persuaded of the importance of the article, I of course had to secure a translation, for
+I have no Russian at all. I was fortunate in securing the assistance of Mrs. Christine Moisan, a graduate
+student in Russian at The University of Toronto, who made a careful translation of the article and gave me
+information about <hi rend="i">Teleskop</hi> itself. <note id="n49"><hi rend="s">6</hi> See “Blake Among the
+Slavs: A Checklist,” <hi rend="i">Blake Newsletter</hi> (1977).</note></p>
+          <p>The anonymous article is entitled “Artist-Poet-Sumassheshii: zhizn Vil’yama Bleka
+[Artist-Poet-Madman: Life of William Blake],” <hi rend="i">Teleskop</hi> [<hi rend="i">Telescope</hi>: A
+Journal of Contemporary Enlightenment], Vol.22 (Moscow: Printed by P. Stepanov, Published by <corr type="emend">Nikolai
+Nadezhdin,</corr> 1834), 69-97. <hi rend="i">Teleskop</hi> was evidently an energetic though short-lived attempt to
+give Russian intellectuals a window on the European cultural world, and it regularly printed articles on the
+literature of France and England. The Russian writer of the 1834 essay had not known Blake but was depending
+on second-hand information. The substance of the <hi rend="i">Teleskop</hi> Blake essay is an adaptation of
+Cunningham’s life of Blake which appeared in his <hi rend="i">The Lives of the Most Eminent British
+Painters, Sculptors, and Architects</hi> (1830), Vol. II, pp. 143-88, in a series published by John Murray
+called The Family Library. Indeed, references in the essay make it clear that it was the second edition of
+Cunningham (also of 1830) which was used, for the letter from Charles Lamb and “Holy Thursday” from 
+<corr type="emend"><hi rend="i">Songs of Innocence</hi></corr> given in <hi rend="i">Teleskop</hi> were first
+printed in Cunningham’s second edition.</p>
+          <p>The adaptor gives no indication that he has sources of biographical information beyond
+Cunningham’s account. The reference to “Biographers,” plural, in Paragraph 11, seems to refer to Cunningham
+and to J. T. Smith’s account of Blake in <hi rend="i">Nollekens and his Times</hi> (1828) which is
+explicitly quoted by Cunningham. He says that he has seen “a few” of Blake’s <hi rend="i">Job</hi> prints
+(Para. 47), and he may be naming those he has seen in his abbreviated list of them, but such knowledge is not
+improbable, since we know that the <hi rend="i">Job</hi> designs were circulating in France and Germany in the
+early 1830s.<supplied type="spacer"> </supplied><ref target="n50" type="note">7</ref> When the adaptor says
+that he “could present them [the readers] with a full catalogue” of Blake’s literary “works” (Para. 49), we
+may be confident that he could have done no better than make a further digest of Cunningham’s information;
+certainly he gives no facts about Blake which are not also in Cunningham’s life of Blake. 
+<note id="n50"><hi rend="s">7</hi> See <hi rend="i">Blake Records</hi> (1969), 602, n. 3, and <hi rend="i">William Blake:</hi>
+The Critical Heritage (1975), 229-30.</note></p>
+          <p>Though the adaptor has derived all his Blake information from Cunningham, he does not go through
+Cunningham’s account systematically at all. This is just as well, as a matter of fact, for Cunningham’s
+story is highly anecdotal and chronologically racketty. For example, Cunningham discusses “The Chimney
+Sweeper” and “Holy Thursday” from <hi rend="i">Songs of Innocence</hi> in his Paragraphs 13 and 53,<supplied
+type="spacer"> </supplied><ref target="n51" type="note">8</ref> while the adaptation much more satisfactorily
+discusses the two poems sequentially, in Paragraphs 20-27. <note id="n51"><hi rend="s">8</hi> All information
+about Cunningham here derives from <hi rend="i">Blake Records</hi> (1969), 476-507, where his life is
+reprinted and annotated.</note></p>
+          <p>Of course, the adaptor has added a great deal to Cunningham’s account, both in new material
+(usually opinions and comparisons) and in new emphases and interpretations. While Paragraphs 2-9, 11-12,
+20-25, 27, 29-30, 35-36, 38, 41-43, 44 (mostly), and 46 are little more than translations of Cunningham, the
+Russian Paragraphs 1, 10, 15, 31, 33 (the first half), 47 (the first three sentences), 48 (the first two
+sentences), 49, and 52 (the last sentence), for example, are entirely new. In general, where Cunningham was
+usually faithful to Blake in his fashion, the adaptor is merely often faithful to Cunningham. Normally, the
+adaptor takes Cunningham’s materials and goes beyond them, as when he says that “The Chimney Sweeper” “can
+give some idea of Blake’s lack of sophistication, and perhaps even of his too child-like spiritualism”
+(Paragraph 19), when Cunningham had only said that it is “rude enough, truly, but yet not without pathos”
+(Paragraph 13). Even the biographical “facts” are altered at the whim of the adaptor, particularly with
+dialogue. A good deal of the dialogue is simply invented by the adaptor, turning into dramatic form what
+Cunningham had left as mere expository narrative. For instance, the dialogue in Paragraphs 2, 3, 16 (most of
+it), 37 (the last quotation), and 44 (at the end) does not appear in Cunningham at all. There is, however,
+some poetic justice in this dramatization of Cunningham’s prose, for Cunningham had been similarly
+high-handed with <hi rend="i">his</hi> source, J. T. Smith, in making dialogue out of mere narration.</p>
+          <p>Occasionally, the changes the adaptor makes are so remarkable that one wonders at his grasp of
+English (or of his own language). For example, where Blake and Cunningham wrote of “books and pictures of old,
+which I wrote in ages of eternity, before my mortal life” (Paragraph 22), the adaptor gives “books and
+pictures of old, which I will revive in eternity when I have finished my mortal life” (Paragraph 36). (A yet
+more striking example is in Paragraph 16.) Either the adaptor’s English was pretty poor, or his belief that
+Blake was deranged made him feel it to be unnecessary to give Blake’s words with even approximate accuracy.
+The differences of past, present, and future, confused here by the adaptor, are substantial.</p>
+          <p>One effect of the adaptation is to put Blake in a much wider cultural and literary context than
+Cunningham provides. The adaptor compares Blake with Wordsworth and the Lake School (Paragraph 19), wishes
+Blake had illustrated Bunyan (Paragraph 33), and discusses him in connection with the great young French
+Romantics Victor Hugo (1802-85), Alexandre Guiraud (1788-1847), and Lamartine (1790-1869) (Paragraphs 26, 31).
+Another change is the emphasis upon Blake’s madness. Cunningham usually speaks of Blake as “wild . . .
+overflowing with . . . oddities and dreams” (Paragraph 30), and where he does call him in some respects
+“utterly wild and mad” he says he “was at the same time perfectly sensible” in other respects (Paragraph 32);
+he sees Blake as a kind of schizophrenic, a sane <corr type="emend">artisan</corr> by day and a mad visionary
+by night. His adaptor, however, will scarcely allow the daytime sanity and stresses insistently Blake’s
+“derangement,” often with evidence that is virtually invented (e.g., Paragraphs 14-16).</p>
+          <p>In fact, there can be no doubt that the adaptor was unscrupulously making journalistic capital
+out of the sensational aspects of Blake’s life, and the whole performance is somewhat disreputable. Blake
+<pb id="p10-114" n="114"/>
+really did have visions, and the anonymous adaptor seems to have felt that this eccentricity absolved his
+critics of responsibility to precise truth. It is unfortunate that it was through articles such as this one
+that Blake’s reputation, or notoriety, was spread on the Continent.</p>
+          <p>It is striking that there are no references to Russian authors in the <hi rend="i">Teleskop</hi>
+article, while the comparisons with Blake added to Cunningham’s account are chiefly either French or
+English. As a matter of fact, the author of the <hi rend="i">Teleskop</hi> article is identifiable, and he is
+not Russian but French. The same article was originally published anonymously as “Artiste, Poete et Fou. (La
+Vie de Blake)” in <hi rend="i">Revue de Paris</hi>, 56 (November 1833), 164-82, and <hi rend="i">Teleskop</hi>
+apparently merely translated it entire, and without acknowledgement. (Indeed, the reference at the end of the
+<hi rend="i">Teleskop</hi> version to “Lives of British Artists” is disingenuous, for the Russian translator
+apparently never saw Cunningham’s <hi rend="i">Lives.</hi>) The French adaptor of Cunningham was Amédée
+Pichot, who reprinted his 1833 article in “Le Visionnaire Blake” in <hi rend="i">Revue Britannique</hi>, 5
+(1862), 25-47, where he acknowledged that Cunningham’s life “m’avait presque seul fourni les documents
+anecdotique.”<supplied type="spacer"> </supplied><ref target="n52" type="note">9</ref>
+	<note id="n52"><hi rend="s">9</hi> C. H. Moore, “Amedee Pichot’s Discovery of Blake,” <hi rend="i">Etudes
+Anglaises</hi>, 16 (1963), 54-58, cites L. A. Bisson, <hi rend="i">Amédée Pichot:</hi> A Romantic Prometheus
+(n.d.), who described Pichot as the chief liaison officer between French and English literature.</note></p>
+          <p>The <hi rend="i">Teleskop</hi> essay is, then, a translation into Russian (1834) of a rough
+adaptation into French (1833) of Cunningham’s biography in English (1830) which was in turn largely derived
+from J. T. Smith’s biography of Blake (1828). It is a process which makes for lively reading and a
+degeneration of truth.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

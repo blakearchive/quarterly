@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.3.groves</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and the Edinburgh Literary Gazette—with a Note on Thomas De
+Quincey</title>
+        <author n="Groves">David Groves</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1991/1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1991/92</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.3</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Eugenie R. Freed</name>
+              <name>Alexander S. Gourlay</name>
+              <name>David Groves</name>
+              <name>Christopher Heppner</name>
+              <name>Jenijoy La Belle</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <body>
+      <pb id="p25-133" n="133"/>
+      <div1 id="BQ-25-3-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake and the <hi rend="i">Edinburgh Literary Gazette</hi>—with a Note on
+Thomas De Quincey</title>
+          </head>
+          <byline>
+            <docAuthor>David <name>Groves</name></docAuthor>
+          </byline>
+          <p>The <hi rend="i">Edinburgh Literary Gazette</hi> of 1829-30 was “edited by the Rev. Andrew
+Crichton: and the literary department . . . principally entrusted to Mr [Thomas] De Quincey and myself,”
+wrote the poet David Moir in 1838.<supplied type="spacer"> </supplied><ref target="n112"
+type="note">*</ref><supplied type="spacer"> </supplied><ref target="n81" type="note">1</ref> This weekly
+periodical has received virtually no attention from scholars. One cause of its neglect is probably the 
+<hi rend="i">Gazette</hi>’s policy of withholding the names of the authors of its articles. Some of its
+better-known contributors, including De Quincey (the “English Opium-Eater”), the Scottish novelist John
+Galt, and the poets Thomas Hood and Allan Cunningham, probably feared that they might jeopardize their
+positions with more lucrative journals such as <hi rend="i">Blackwood’s Magazine</hi>, if their pieces in
+the fledgling <hi rend="i">Gazette</hi> appeared with their names attached.<supplied type="spacer"> </supplied><ref target="n82" type="note">2</ref> Many of the <hi rend="i">Gazette</hi>’s regular
+contributors may have read the remarks about William Blake in that journal in 1830. Although the authorship of
+this review remains a mystery, some evidence seems to suggest that Thomas De Quincey may have played a role in
+its publication. In any event, the article is interesting for its discussion of Blake as both poet and
+painter, and for bringing Blake’s work to the attention of readers outside England. 
+                        <note id="n112">A grant from the Social Sciences and Humanities Research Council of
+Canada, for the purpose of researching Scottish periodicals, allowed me to live in Scotland while writing the
+present article.</note>
+	<note id="n81"><hi rend="s">1</hi> David M. Moir, “Life of Dr Macnish,” in his edition of 
+<hi rend="i">The Modern Pythagorean: a Series of Tales, Essays and Sketches, by the late Robert Macnish,
+LL.D.</hi>, 2 vols. (Edinburgh: Blackwood, 1838) 1: 153. Moir (1798-1851) was a popular Scottish poet, known
+to readers of <hi rend="i">Blackwood’s Edinburgh Magazine</hi> through his pseudonym “Delta” (or,
+“Δ”); he is mainly remembered today as the friend and biographer of John Galt.</note>
+	<note id="n82"><hi rend="s">2</hi> The <hi rend="i">Gazette</hi> promised to identify the contributors of its
+various articles, but was prevented from doing so by the sudden bankruptcy of its owner David Blackie in 1830,
+followed by his sudden death from cholera in 1832 (see Moir, “Life of Dr Macnish,” [153n]). The 
+<hi rend="i">Gazette</hi>’s four “valued correspondents” in London were “Miss Landon” (known to readers
+as the poetess “L. E. L.”), and “Messrs. T. Hood, Alaric Watts, and Allan Cunningham” (anon., “To
+Correspondents,” <hi rend="i">Edinburgh Literary Gazette</hi>, 1 [1829]: 192). By 1830, contributors
+included the poets Maria Jewsbury, William Howitt, and Thomas Pringle, and miscellaneous Scottish writers
+Andrew Laing, William MacGillivray, John Malcolm, Andrew Picken, Leitch Ritchie, and David Vedder (all of whom
+are named in the two special Anniversary Numbers of 15 May and 22 May 1830). Others who were said to
+contribute included William Jerdan and James Fraser (the editors, respectively, of London’s 
+<hi rend="i">Literary Gazette</hi> and <hi rend="i">Fraser’s Magazine</hi>). John Parker Lawson, and the
+Edinburgh drama critic Christopher Torrop (see anon., “Literature: <hi rend="i">The Edinburgh Literary
+Gazette</hi>,” <hi rend="i">Glasgow Courier</hi> [newspaper] 5 Nov 1829 [21]). Robert Macnish (known to
+readers of <hi rend="i">Blackwood’s Magazine</hi> as “The Modern Pythagorean”) was also advertised as a
+contributor (see <hi rend="i">Edinburgh Evening Post</hi> [newspaper] 16 Jan. 1830 [23]). For further
+information on the <hi rend="i">Gazette</hi>, please see my articles “Thomas Hood, London, and the 
+<hi rend="i">Edinburgh Literary Gazette</hi>” in <hi rend="i">English Language Notes</hi>, 27 (March 1990):
+34-39, and “John Galt, the <hi rend="i">Edinburgh Literary Gazette</hi>, and ‘The Black Ferry’” in 
+<hi rend="i">Scotia: American-Canadian Journal of Scottish Studies</hi> 12 (1988): 44-54.</note></p>
+          <p>The occasion of these remarks about William Blake was the publication of the second volume of
+Allan Cunningham’s <hi rend="i">Lives of the Most Eminent British Painters</hi>, in London. Cunningham’s
+work attracted much interest in Edinburgh, partly as a result of Cunningham’s fame as a Scottish poet and
+essayist. The first volume of the <hi rend="i">Lives</hi> had received an anonymous critique (almost certainly
+written by Reverend Crichton) in the <hi rend="i">Gazette</hi> of July 1829.<supplied type="spacer"> </supplied><ref target="n83" type="note">3</ref> Crichton quit the <hi rend="i">Gazette</hi> in anger in early
+December: he cannot have written the two succeeding reviews of Cunningham’s <hi rend="i">Lives</hi>, which
+appeared in the <hi rend="i">Gazette</hi> in the following year.<supplied type="spacer"> </supplied><ref
+target="n84" type="note">4</ref> Unlike the first notice of Cunningham’s <hi rend="i">Lives</hi> (which had
+contained Scottish words, phrases, and place-names), the second review is almost entirely English (rather than
+Scottish), with its references to William Hazlitt, Henry Fuseli, and several other literary or artistic
+figures in contemporary London. The second review has never been reprinted, or mentioned in print, since it
+first appeared on 13 February 1830:
+<q>
+FAMILY LIBRARY, NO. X—CUNNINGHAM’S LIVES OF BRITISH PAINTERS.<supplied type="spacer"> </supplied><ref
+target="n85" type="note">5</ref><lb/>
+<lb/>
+<hi rend="i">The Family Library, No. X. The Lives of the most eminent British Painters, Sculptors, and
+Architects.</hi> By Allan Cunningham. Vol. II. London: J. Murray. 1830. 
+						</q>
+	<note id="n83"><hi rend="s">3</hi> Anon. rev., “Cunningham’s Lives of British Painters,” 
+<hi rend="i">Edinburgh Literary Gazette: Devoted Exclusively to Literature, Criticism, Science, and the Arts.</hi>
+1 (1829): 169-70. This initial review of Cunningham’s work may reasonably be attributed to Andrew Crichton.
+(Crichton was born in Kirkmahoe, Scotland, where he knew Cunningham slightly as a youth: the reviewer claims
+Cunningham as “an early acquaintance,” and refers fondly to “Kirkmahoe” [169]. For information on
+Crichton, see the <hi rend="i">Dictionary of National Biography.</hi>)</note>
+	<note id="n84"><hi rend="s">4</hi> Crichton “resigned the editorship” on 12 December 1829, and
+subsequently had “no further connexion” with the <hi rend="i">Gazette</hi> (see anon., “Literary
+Chit-Chat and Varieties,” <hi rend="i">Edinburgh Literary Journal</hi> 3 [1830]: 28).</note>
+	<note id="n85"><hi rend="s">5</hi> Anon. rev. in <hi rend="i">Edinburgh Literary Gazette</hi> 2 (1830):
+103-04. The only other mention of Blake was a brief announcement, in the “Literary Intelligence” column of
+28 Nov. 1829, that “The next number of the Family Library” would be “the second volume of the Lives of
+British Painters, including West, Fuseli, Barry, Blake, Opie, and Morland” (<hi rend="i">Gazette</hi> 1
+[1829]: 463).</note></p>
+          <p>ALTHOUGH sufficiently alive to the merits of Lockhart’s Napoleon, and Milman’s Jewish
+History,<supplied type="spacer"> </supplied><ref target="n86" type="note">6</ref> we are free to confess that
+none of the volumes of the Family Library have hitherto delighted us more than the Lives of the Painters and
+Sculptors by Allan Cunningham. <note id="n86"><hi rend="s">6</hi> John Gibson Lockhart’s 
+<hi rend="i">History of Napoleon Buonaparte</hi>, and Henry H. Milman’s <hi rend="i">History of the Jews</hi>,
+were both published in 1829, in the same “Family Library” series (published by the firm of John Murray) in
+which Cunningham’s <hi rend="i">Lives</hi> appeared.</note></p>
+          <p>At first we had doubts as to whether Allan was exactly the best calculated person for the task,
+and we thought that a formidable competitor might be found in Hazlitt,<supplied type="spacer"> </supplied><ref
+target="n87" type="note">7</ref> by any other periodical caterer, in monthly volumes, to the public taste. We
+have, however, been most agreeably disappointed. In the collection of facts and materials, the imagination of
+the poet has been kept in subjection. His biographies are well digested, and are written with that feeling
+which never fails to raise a corresponding interest in the heart of the reader. 
+<note id="n87"><hi rend="s">7</hi> The reference is perhaps to William Hazlitt’s conversational portrait of the painter James
+Northcote, entitled <hi rend="i">Boswell Redivivus</hi> (1827).</note></p>
+          <p>In the former volume we were particularly pleased with the life of Gainsborough: although in
+Hogarth he had an ampler fund of materials to draw from. The volume before us takes in West, Opie, Bird,
+Morland, Fuseli, and Blake.<supplied type="spacer"> </supplied><ref target="n88" type="note">8</ref> Of the
+latter, we confess, we were comparatively ignorant: but from Mr. Cunningham’s account it is evident that his
+mind was characterised as much by singularity as originality. It is a dangerous thing for a man in this
+matter-of-fact age of the world, “to see visions and dream dreams:”<supplied type="spacer"> </supplied><ref target="n89" type="note">9</ref> especially as (if we take the case of Haydon for an instance)
+the public taste seems scarcely yet to have arisen from portrait to historical painting.<supplied
+type="spacer"> </supplied><ref target="n90" type="note">10</ref>
+	<note id="n88"><hi rend="s">8</hi> The quotation is from the New Testament: “Your sons and your daughters
+shall prophesy, and your young men shall see visions and your old men shall dream dreams” (Acts
+2.17).</note>
+	<note id="n89"><hi rend="s">9</hi> The artists mentioned by the reviewer are Thomas Gainsborough (1727-88),
+William Hogarth (1697-1764), Benjamin West (1738-1820), John Opie (1761-1807), Edward Bird (1772-1819), George
+Morland (1763-1804), Henry Fuseli (1741-1825), and Blake. The reviewer has neglected to mention James Barry
+(1741-1806), who also merits a chapter in Cunningham’s second volume.</note>
+	<note id="n90"><hi rend="s">10</hi> The historical painter Benjamin Robert Haydon (1786-1846) was imprisoned
+for debt during 1822-23.</note></p>
+          <p>We are thus induced to make a few extracts from the biography of Blake, not only as we regard it
+as the most singular in the volume, but as it is likely to be the newest to our readers. He appears to have
+been a poet as well as a painter.</p>
+		<q>
+Though Blake lost himself a little in the enchanted region of song, he seems not to have neglected to make
+himself master of the graver, or to have forgotten his love of designs and sketches . . . .<supplied
+type="spacer"> </supplied><ref target="n91" type="note">11</ref>
+	<note id="n91"><hi rend="s">11</hi> The review quotes three paragraphs (beginning with this sentence),
+dealing with Blake’s “intertwin[ing] of poetry and painting,” and his relationship with his wife
+Catherine, from Cunningham’s volume (147-49). The three paragraphs are printed as a single paragraph, and
+contain numerous other minor alterations, in the review.</note></q>
+          <p>The account of his drawing portraits from imagination, under the impression that they stood
+meantime visibly revealed, is very strange, and somewhat unaccountable: as also of his holding converse with
+the spirits of the departed great on the sea-shore at twilight.<supplied type="spacer"> </supplied><ref
+target="n92" type="note">12</ref> There is something wildly impressive in this enthusiasm, awakening at once
+our pity and our admiration. As was to have been expected, this waywardness of disposition led to an old age
+of poverty and neglect, sweetened alone by the companionship of his admirable wife. We have given their
+courtship: let us conclude with Blake’s death-bed:—
+<q>
+He had now reached his seventy-first year, and the strength of nature was fast yielding. . . .<supplied
+type="spacer"> </supplied><ref target="n93" type="note">13</ref>
+	<note id="n92"><hi rend="s">12</hi> Cunningham describes Blake’s “friendships with Homer and Moses: with
+Pindar and Virgil: with Dante and Milton,” during his three years at Felpham, beginning in 1800: “These
+great men, [Blake] asserted, appeared to him in visions, and even entered into conversation” 
+(<hi rend="i">Lives</hi> 2: 159).</note>
+	<note id="n93"><hi rend="s">13</hi> The review quotes three paragraphs (beginning with this sentence),
+dealing with Blake’s last days and death, from Cunningham’s volume (179-80). As with the preceding
+quotation, the three paragraphs appear as one, and contain several minor alterations, in the
+review.</note></q></p>
+          <p>It is delightful to trace to progress of a man of true genius. No earthly impediments can resist
+his progress: on he goes, conquering and to conquer:<supplied type="spacer"> </supplied><ref target="n94"
+type="note">14</ref> soaring and ascending over the clouds that at first hid him from sight, or obstructed his
+early aspirations. Such is Allan Cunningham, to whom we shortly intend dedicating a leading article.<supplied
+type="spacer"> </supplied><ref target="n95" type="note">15</ref> He has written a multitude of good things:
+but, excepting his inimitable imitations of the old ballad,<supplied type="spacer"> </supplied><ref
+target="n96" type="note">16</ref> his “Lives of the Painters, Sculptors, and Architects,” is his best.
+<note id="n94"><hi rend="s">14</hi> The reviewer alludes to the New Testament: “And I saw, and behold a
+white horse: and he that sat on him had a bow: and a crown was given unto him: and he went forth conquering,
+and to conquer” (Revelation 6.2).</note>
+	<note id="n95"><hi rend="s">15</hi> Although the <hi rend="i">Gazette</hi> carried many notices and reviews
+concerning Cunningham, the promised “leading article” never materialized.</note>
+	<note id="n96"><hi rend="s">16</hi> Cunningham wrote many “imitations of the old ballad” for R. H.
+Cromek’s <hi rend="i">Remains of Nithsdale and Galloway Song</hi> (1810). Cromek (who also published the
+1808 edition of Blair’s <hi rend="i">Grave</hi>, with designs by Blake) would perhaps have been the
+best-known link between Cunningham and Blake, in Scotland in 1830, where Cromek was still renowned for his 
+<hi rend="i">Reliques of Burns</hi> (1808). For further information on Cunningham’s association with Cromek, see
+David Hogg, <hi rend="i">The Life of Allan Cunningham</hi> (London: Hodder and Stoughton, 1875), and De
+Quincey, “London Reminiscences” (1840: rpt. <hi rend="i">Collected Writtings of Thomas De Quincey</hi>,
+ed. D. Masson, 14 vols. [Edinburgh: Black, 1889-90] 3: 146).</note></p>
+          <p>The reference to Cunningham by his first name alone, in the second sentence of this review, is
+very striking. Of all the known regular contributors to
+<pb id="p25-134" n="134"/>
+the <hi rend="i">Edinburgh Literary Gazette</hi> in 1830, only Thomas De Quincey and Thomas Hood knew Allan
+Cunningham: all three men had worked extensively for the <hi rend="i">London Magazine</hi> during 1821-23. On
+the surface, an article in the 1830 <hi rend="i">Gazette</hi> which refers to Cunningham simply as “Allan”
+might be suspected as having been written by either De Quincey or Hood. Yet the statements about Blake seem
+too matter-of-fact to be plausibly attributed to either of those authors. The article also contains more
+biblical allusions than would perhaps be expected in a short piece by Hood or De Quincey. Since the same
+review also refers to “Mr. Cunningham,” it may have been the product of more than one pen. David Moir, who
+was the most frequent reviewer for the 1830 <hi rend="i">Gazette</hi>, makes no mention of the three notices
+of Cunningham’s <hi rend="i">Lives</hi>, in his voluminous surviving papers.<supplied type="spacer"> </supplied><ref target="n97" type="note">17</ref>
+	<note id="n97"><hi rend="s">17</hi> None of the three reviews was mentioned by Moir, either in the formal
+list of his own contributions to the <hi rend="i">Gazette</hi> (which he left at the time of his death in his
+private papers), or in his almost weekly letters to William Blackwood (in which he regularly informed
+Blackwood of his latest publications). Moir’s correspondence and private papers survive at the National
+Library of Scotland (see the Blackwood collection, and Accession 9856) and the Thomas Fisher Rare Book Room
+(University of Toronto Library).</note></p>
+          <p>A third review, concerning the third volume of Cunningham’s <hi rend="i">Lives</hi>, appeared
+in the <hi rend="i">Gazette</hi> of 12 June 1830. Although this final piece does not mention Blake, it seems
+to have been written by the same critic who wrote the second review.<supplied type="spacer"> </supplied><ref
+target="n98" type="note">18</ref> The third review refers to Cunningham by his first name, and even as “our
+friend Allan.” The evidence of a possible connection with De Quincey comes in the form of a private letter,
+from the owner of the <hi rend="i">Gazette</hi> to David Moir, dated five days before the publication of the
+third review: the letter simply states enigmatically (after discussing Moir’s own work for the 
+<hi rend="i">Gazette</hi>), “De Quincey is in town &amp; at Wilson’s as you will see from the
+inclosed.”<supplied type="spacer"> </supplied><ref target="n99" type="note">19</ref> Whether “the
+inclosed” was an article of De Quincey’s, an article by someone else which De Quincey was merely conveying
+to the <hi rend="i">Gazette</hi>, a book intended for review, or something quite different, is unclear. Since
+De Quincey undoubtedly knew about William Blake,<supplied type="spacer"> </supplied><ref target="n100"
+type="note">20</ref> and had a high opinion of Allan Cunningham,<supplied type="spacer"> </supplied><ref
+target="n101" type="note">21</ref> it is conceivable that the two reviews of Cunningham’s 
+<hi rend="i">Lives</hi> in the 1830 <hi rend="i">Gazette</hi> might have been among the rapid pieces of journalism
+which De Quincey was obliged to produce, for economic reasons, at about that time.<supplied type="spacer"> </supplied><ref target="n102" type="note">22</ref> But in the absence of external evidence, the most that can
+safely be claimed is that De Quincey probably saw the article about Blake in the <hi rend="i">Gazette.</hi>
+	<note id="n98"><hi rend="s">18</hi> The reviewer displays a familiarity with the previous volumes, and
+recalls “[h]aving in our former notices had occasion to dwell on our friend Allan’s qualifications for the
+office of an historian” (anon. rev., “Family Library,” <hi rend="i">Edinburgh Literary Gazette</hi> 2
+[1830]: 374-76). The second and third reviews are similar in style and in their “English” perspective: but
+both are extremely unlike the initial review of the <hi rend="i">Lives</hi>, in spite of this reference to
+“our former notices,” the second and third reviews were almost certainly written by someone other than the
+author of the first review.</note>
+	<note id="n99"><hi rend="s">19</hi> David Blackie, letter to Moir, 7 June 1830 (National Library of Scotland
+MS Acc. 9856, no. 37). By “Wilson’s, Blackie refers to John Wilson, the editor of 
+<hi rend="i">Blackwood’s Edinburgh Magazine</hi>, who was a close friend of De Quincey. Manuscripts in the
+National Library of Scotland are quoted with the permission of its Trustees.</note>
+	<note id="n100"><hi rend="s">20</hi> De Quincey mentions “that fine mystic, Blake the artist,” before
+quoting from Blake’s poetic dedication to the 1808 edition of <hi rend="i">The Grave</hi>, in his “Society
+of the Lakes” (1840; rpt. <hi rend="i">Collected Writtings</hi> 2: 400). Although this is the sole reference
+to Blake in De Quincey’s known writings, it suggests a fair degree of interest and familiarity with some of
+Blake’s work.</note>
+	<note id="n101"><hi rend="s">21</hi> De Quincey describes Cunningham as “a man of so much original
+genius” in his “London Reminiscences” (1840; rpt. <hi rend="i">Collected Writings</hi> 3: 146). It is
+perhaps significant that, in a letter of 7 July 1829, Cunningham wrote to an unknown correspondent, concerning
+De Quincey and the <hi rend="i">Edinburgh Literary Gazette.</hi> “I see you are united with my friend Mr De
+Quincey in this Critical undertaking of yours. . . . I beg you will name my name to him” (National Library
+of Scotland MS Acc. 15973, f. 32).</note>
+	<note id="n102"><hi rend="s">22</hi> For a listing of many of De Quincey’s anonymous articles, “written
+with the left hand” from 1829 to 1846, see R. H. Byrns, “Some Unrepublished Articles of De Quincey in 
+<hi rend="i">Blackwood’s Magazine</hi>” (<hi rend="i">Bulletin of Research in the Humanities</hi> 85 [1982]:
+344-51).</note></p>
+          <p>Whoever wrote the remarks on Blake in the <hi rend="i">Edinburgh Literary Gazette</hi>, it seems
+likely that the piece attracted some interest, not only among readers in Scotland, but more especially among
+those contributors to the <hi rend="i">Gazette</hi> who had been acquainted with Allan Cunningham. The 
+<hi rend="i">Gazette</hi> enjoyed a relatively high reputation during its fourteen months of existence, with an
+appeal that was mainly “confined to the sound reasoner, and philosophical enquirer.”<supplied
+type="spacer"> </supplied><ref target="n103" type="note">23</ref> Although the <hi rend="i">Gazette</hi>
+seemed “eminently fitted to succeed,”<supplied type="spacer"> </supplied><ref target="n104"
+type="note">24</ref> its circulation unfortunately never exceeded 300.<supplied type="spacer"> </supplied><ref
+target="n105" type="note">25</ref>
+	<note id="n103"><hi rend="s">23</hi> H., “Edinburgh Chit-Chat,” <hi rend="i">Kelso Mail</hi> (newspaper),
+15 Oct. 1829 (1).</note>
+	<note id="n104"><hi rend="s">24</hi> “Literature: <hi rend="i">The Edinburgh Literary Gazette</hi>,” 
+<hi rend="i">Glasgow Courier</hi> (cited in n2, above).</note>
+	<note id="n105"><hi rend="s">25</hi> David Blackie, letter to Moir, 14 July 1830 (NLS MS Acc 9856, no.
+37).</note></p>
+        </div2>
+      </div1>
+	<pb id="p25-135" n="135" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

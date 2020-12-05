@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.2.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>September 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.2</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                            <name>W.E. Moss</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <front>
+            <pb id="p02-15" n="15"/>
+            <div1 id="cover">
+                <figure n="cover.002.02.bqscan" rend="file" width="258" height="332">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Volume II, Number 2<lb/>
+                        Whole #6<lb/>
+                        September 15, 1968<lb/>
+                        <hi rend="u">BUSINESS</hi><lb/>
+                        Many subscriptions expired with <hi rend="u">Newsletter</hi> 4, and we have had to
+bill quite<lb/>
+                        a few readers who, as contributors of material or colleagues to whom we owe<lb/>
+                        scholarly favors, we’d much rather send complimentary copies.  The response to<lb/>
+                        our dunning notice has been gratifying, indicating that our readers understand<lb/>
+                        the need for their support.  It was not necessary to raise the price of sub-<lb/>
+                        scriptions, except for overseas subscribers who wish air delivery.<lb/>
+                        The supply of back copies is just about exhausted. We are now investigating<lb/>
+                        the possibility of producing an offset edition of volume 1 for those newer sub-<lb/>
+                        scribers who did not receive it.  There is also a chance that increasing demand<lb/>
+                        for the <hi rend="u">Newsletter</hi> will mean going offset in the future.<lb/>
+                        For volume II, we have received some support from the University of Cali-<lb/>
+                        fornia, providing eidotiral assistance; and the English Department office staff<lb/>
+                        has taken over the task of production.  Our existence for the present academic<lb/>
+                        year is therefore assured, but after the University grant expires in June we<lb/>
+                        will probably have to find some other source of aid.  This will almost certainly<lb/>
+                        be true if we begin offset production.  Suggestions from readers are welcome.<lb/>
+                        With this issue, you will receive an index to volume I, which Mr. Ruthven<lb/>
+                        Todd has kindly prepared.  Volume II, in response to requests from readers, is<lb/>
+                        being paginated continuously rather than by separate numbers.  For the informa-<lb/>
+                        tion of those who want to keep their BNL’s in binders, we have found the kind<lb/>
+                        called “Accogrip” useful.<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English,<lb/>
+                        University of California, Berkeley California  94720.  Subscription price:<lb/>
+                        $2.00 for one year; overseas subscribers who wish delivery by air, please add<lb/>
+                        one dollar.  Please make checks or money orders payable to Morton D. Paley.<lb/>
+                        Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by air)<lb/>
+                        if the money order is <hi rend="u">open</hi> and <hi rend="u">uncrossed</hi>.<lb/>
+                        Copyright 1968 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+			<div1 id="BQ-02-2-0000">
+					<supplied type="emend" rend="plain">
+						<table id="contents" rows="17" cols="2">
+						  <row>
+							<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><hi rend="b">News</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.news">Publications, periodicals, and exhibitions</ref></cell>
+							<cell>16</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.checklist">Additions to the Checklist of Blake
+Publications</ref><lb/>
+							<hi rend="i">with thanks to David V. Erdman, Charles Ryskamp, Roger R. Easson</hi></cell>
+							<cell>16</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Notes</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.wittreich">1. A Note on Blake and Milton</ref><lb/>
+							<hi rend="i">Joseph Anthony Wittreich, Jr.</hi></cell>
+							<cell>17</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.moss">2. The Coloured Copies of Blake’s “Night
+Thoughts”</ref><lb/>
+							<hi rend="i">W.E. Moss</hi></cell>
+							<cell>19</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Queries</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.erdman">1. Revising <hi rend="i">Blake: Prophet</hi> for a new
+edition</ref><lb/>
+							<hi rend="i">David V. Erdman</hi></cell>
+							<cell>24</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.todd">2. Revising edition of Gilchrist’s 
+<hi rend="i">Life</hi></ref><lb/>
+							<hi rend="i">Ruthven Todd</hi></cell>
+							<cell>25</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Discussion</hi><lb/>
+							<hi rend="b">“With Intellectual spears, &amp; long winged arrows of thought”</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.grant">Mother of Invention, Father In Drag</ref><lb/>
+							<hi rend="i">John E. Grant</hi></cell>
+							<cell>29</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Review</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.paley"><hi rend="i">A Concordance to the Writings of William
+Blake</hi>, ed. David V. Erdman et al.</ref><lb/>
+							<hi rend="i">reviewed by Morton D. Paley</hi></cell>
+							<cell>33</cell>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.butlin">Note regarding the review of <hi rend="i">Romantic Art in
+Britain</hi></ref><lb/>
+							<hi rend="i">Martin Butlin</hi></cell>
+							<cell>34</cell>
+						  </row>
+						  <row>
+							<cell><hi rend="b">Poem</hi></cell>
+							<cell/>
+						  </row>
+						  <row>
+							<cell><ref type="article" issue="2.2.stevenson">Are there fairies still in London?</ref><lb/>
+							<hi rend="i">Warren Stevenson</hi></cell>
+							<cell>34</cell>
+						  </row>
+						</table>
+					</supplied>
+			</div1>
+            <div1 id="BQ-02-2-0001">
+                <head>
+                    <title>
+                        <hi rend="u">BUSINESS</hi>
+                    </title>
+                </head>
+                <p>Many subscriptions expired with <hi rend="u">Newsletter</hi> 4, and we have had to bill
+quite a few readers who, as contributors of material or colleagues to whom we owe scholarly favors, we’d
+much rather send complimentary copies. The response to our dunning notice has been gratifying, indicating that
+our readers understand the need for their support. It was not necessary to raise the price of subscriptions,
+except for overseas subscribers who wish air delivery.</p>
+                <p>The supply of back copies is just about exhausted. We are now investigating the possibility
+of producing an offset edition of volume I for those newer subscribers who did not receive it. There is also a
+chance that increasing demand for the <hi rend="u">Newsletter</hi> will mean going offset in the future.</p>
+                <p>For volume II, we have received some support from the University of California, providing
+editorial assistance; and the English Department office staff has taken over the task of production. Our
+existence for the present academic year is therefore assured, but after the University grant expires in June
+we will probably have to find some other source of aid. This will almost certainly be true if we begin offset
+production. Suggestions from readers are welcome.</p>
+                <p>With this issue, you will receive an index to volume I, which Mr. Ruthven Todd has kindly
+prepared. Volume II, in response to requests from readers, is being paginated continuously rather than by
+separate numbers. For the information of those who want to keep their BNL’s in binders, we have found the
+kind called “Accogrip” useful. <note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by
+Morton D. Paley, Department of English, University of California, Berkeley California 94720. Subscription
+price: $2.00 for one year; overseas subscribers who wish delivery by air, please add one dollar. Please make
+checks or money orders payable to Morton D. Paley. Residents of Britain may pay by Postal Money Order for 16/9
+(£1 10s by air) if the money order is <hi rend="u">open</hi> and <hi rend="u">uncrossed.</hi>
+                    </note>
+                    <note type="unreferenced" place="footer">Copyright 1968 by Morton D. Paley</note>
+                </p>
+            </div1>
+		</front>
+		<body>
+            <pb id="p02-34" n="34"/>
+            <div1 id="BQ-02-2-0007">
+                <p>The winter <hi rend="u">Newsletter</hi> will be published on December 15, 1968. Deadline
+for news copy is December 1.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

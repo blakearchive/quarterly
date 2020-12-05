@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.2</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Krzysztof Z. Cieszkowski</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+              <name>Christina Shuttleworth Kraus</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith W. Page</name>
+              <name>Donald H. Reiman</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <front>
+      <pb id="p16-69-70" n="69-70"/>
+      <div1 id="cover">
+        <figure n="cover.016.02.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 62<lb/>
+            Volume 16<lb/>
+            Number 2<lb/>
+            Fall 1982</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-16-2-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.bentley">Ruthven Todd’s Blake Papers at Leeds</ref>,<lb/>
+ by G. E. Bentley, Jr.</cell>
+            <cell>72</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.reiman">The Derivation and Meaning of
+“Ololon,”</ref><lb/>
+ by Donald H. Reiman and Christina
+                            Shuttleworth Kraus</cell>
+            <cell>82</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.essick">Blake in the Marketplace 1980-1981</ref>,<lb/>
+ by Robert N. Essick</cell>
+            <cell>86</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.johnson">The Norton Critical Edition of Blake: Addenda and
+Corrigenda</ref>,<lb/>
+ by Mary Lynn Johnson and
+                            John E. Grant</cell>
+            <cell>107</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.minnick">Blake and His Circle: A Checklist of Recent
+Publications</ref>,<lb/>
+ by Thomas L. Minnick and
+                            Detlef W. Dörrbecker</cell>
+            <cell>111</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.vogler">Diana Hume George, <hi rend="i">Blake and
+Freud</hi></ref><lb/>
+ Reviewed by Thomas A. Vogler</cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.page">T.V.F. Brogan, <hi rend="i">English Versification,
+1570-1980: A Reference Guide with a
+                            Global Appendix</hi></ref><lb/>
+ Reviewed by Judith W. Page</cell>
+            <cell>125</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.labelle">Johann Caspar Lavater, <hi rend="i">Aphorisms on Man
+(1788)</hi></ref><lb/>
+ Reviewed by Jenijoy La
+                            Belle</cell>
+            <cell>126</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="16.2.cieszkowski">William Blake, 
+<hi rend="i">The Everlasting Gospel/L’évangile 
+<corr type="emend" rend="plain">éternel</corr></hi></ref></corr><lb/>
+			Reviewed by Krzysztof Z. Cieszkowski</cell>
+            <cell>128</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="16.2.dorrbecker">Grant, Rose, Tolley, Erdman, eds., 
+<hi rend="i">William Blake’s Designs for Edward
+                            Young’s ‘Night Thoughts’: A Complete Edition</hi></ref><lb/>
+ Reviewed by
+                            Detlef W. Dörrbecker</cell>
+            <cell>130</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>140</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="16.2.toronto">Toronto Symposium</ref>, 
+          	  <ref type="article" issue="16.2.albion">Albion Awake!</ref>, 
+          	  <ref type="article" issue="16.2.error">Error</ref>, 
+          	  <ref type="article" issue="16.2.mmla">Blake at the MMLA</ref>, 
+          	  <ref type="article" issue="16.2.barry">James Barry at the Tate</ref>, 
+          	  <ref type="article" issue="16.2.ballet">London: Blake Ballet for Lunch</ref>, 
+          	  <ref type="article" issue="16.2.romantic">The Romantic Self</ref>
+          	  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-16-2-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>G.E. BENTLEY, JR. of the University of Toronto is working on the Great Illustrated Book
+     Pollidecs of the 1750s.</p>
+        <p>KRZYSZTOF Z. CIESZKOWSKI is a librarian at the Tate Gallery.</p>
+        <p>DETLEF W. DÖRRBECKER, who teaches art history at the University of Trier in West
+     Germany, has published several articles, reviews, and bibliographical contributions on Blake,
+     Flaxman, and Fuseli, many of which appeared in earlier volumes of this journal.</p>
+        <p>ROBERT N. ESSICK is the Graduate Adviser in the Department of English, University of
+     California, Riverside. He would be delighted to receive inquiries about the graduate program
+     from bright undergraduates interested in studying Blake.</p>
+        <p>MARY LYNN JOHNSON AND JOHN E. GRANT are the co-editors of the Norton Critical Edition of 
+<hi rend="i">Blake’s Poetry and Designs.</hi></p>
+        <p>CHRISTINA SHUTTLEWORTH KRAUS, a 1980 graduate of Princeton in classics, has served on the
+     staff of the Carl H. Pforzheimer Library and now holds a graduate fellowship in classics at
+     Harvard.</p>
+        <p>JENI JOY LA BELLE is an Associate Professor of Literature at the California Institute of
+     Technology.</p>
+        <p>THOMAS L. MINNICK is Assistant Dean and Director of Honors for University College at the Ohio
+     State University.</p>
+        <p>JUDITH W. PAGE, an Assistant Professor of English at Millsaps College, has published in 
+<hi rend="i">Blake</hi> and <hi rend="i">Modern Philology</hi> and has an article on Wordsworth
+     forthcoming in <hi rend="i">Philological Quarterly.</hi></p>
+        <p>DONALD H. REIMAN, Editor of <hi rend="i">Shelley and his Circle</hi> at the Carl H.
+     Pforzheimer Library, New York, has lectured during the past year on the Yale critics; on
+     contemporary American poetry; on the symbolic uses that Wordsworth, Coleridge, Lamb, and De
+     Quincey made of Mary Robinson, “the Beauty of Buttermere”; and on Shakespearean
+     tragedy and Shelley’s <hi rend="i">The Cenci.</hi></p>
+        <p>THOMAS A. VOGLER is Chair of the Board of Studies in Literature at the University of
+     California, Santa Cruz, and author of <hi rend="i">Preludes to Vision: The Epic Venture in
+      Blake, Wordsworth, Keats and Hart Crane.</hi> He was director of the “Blake and
+     Criticism” Conference at Santa Cruz in May, 1982, and is currently working on a book on
+     Blake’s <hi rend="i">Songs.</hi>
+	<note type="unreferenced" place="footer">© 1982 by Morris Eaves &amp; Morton D.
+      Paley</note></p>
+      </div1>
+      <pb id="p16-71" n="71"/>
+      <div1 id="BQ-16-2-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California,
+     Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints
+     and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque
+     NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department of English, University of
+     California, Berkeley, CA 94720.<lb/>
+ Thomas L. Minnick, University College, Ohio State
+     University, 1050 Carmack Road, Columbus, Ohio 43210.<lb/>
+ Nelson Hilton, Department of English,
+     University of Georgia, Athens, GA 30602.<lb/>
+ Frances A. Carey, Department of Prints and
+     Drawings British Museum, Great Russell Street, London WC1B 3DG, England.</p>
+        <figure n="BotanicalDrawings.illus5.16.2.bqscan" rend="file" width="250" height="357"></figure>
+      </div1>
+      <div1 id="BQ-16-2-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="DetailMushroom.16.2.bqscan" rend="file" width="250" height="183"></figure>
+        <p>EDITORIAL ASSISTANTS IN CHARGE: Marcy Erickson, Susan Corban, Univ. of New Mexico. EDITORIAL
+     ASSISTANTS: Peter Chase, Leslie Donovan, Univ. of New Mexico</p>
+        <p>TYPIST: Denise Warren.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of
+     English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume (4 issues). Special rates for individuals,
+     $12.00 for 1 year surface mail subscriptions. Air mail subscriptions are $10.00 more than
+     surface mail subscriptions. U.S. currency or international money order if possible. Make checks
+     payable to Blake/An Illustrated Quarterly. Address all subscription orders and related
+     communications to Marcy Erickson, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New
+     Mexico, Albuquerque, N.M. 87131, USA.</p>
+        <p>Some BACK ISSUES are available. Address Marcy Erickson for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms
+     suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of
+     English, Univ. of New Mexico, Albuquerque, N.M. 87131; Morton D. Paley, Dept. of English, Univ.
+     of California, Berkeley, California 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is INDEXED in the
+     Modern Language Association’s International Bibliography, the Modern Humanities Research
+     Association’s Annual Bibliography of English Language and Literature, <hi rend="i">English Language
+Notes</hi>’ annual Romantic Bibliography, ARTbibliographies MODERN,
+     American Humanities Index, (Whitson Pub.), and the Arts and Humanities Citation Index.</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p16-144" n="144"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">GEOFFREY KEYNES<lb/>
+    			1887-1982</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+            <biblScope unit="volIss">08.3</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <front>
+      <pb id="p08-45-47" n="45-47"/>
+      <div1 id="cover">
+        <figure n="cover.008.03.bqscan" rend="file" width="258" height="331">
+          <figTranscr>Blake<lb/>
+          NEWSLETTER 31</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-08-3-0001">
+        <table id="contents" rows="25" cols="2">
+        <row>
+            <cell colspan="3">
+                <head>
+                    <title>
+                        <supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    </title>
+               	</head>
+            </cell>
+        </row>
+          <row>
+            <cell>News</cell>
+            <cell>48</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="8.3.subscriptions">Newsletter Subscriptions</ref></cell>
+          </row>
+          <row>
+        	<cell><ref type="article" issue="8.3.reprints">Newsletter Reprints</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.bronowski">Bronowski Dead at 66</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.symposium">Blake Symposium—Edinburgh</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.conference">Conference on British Romantic Art and
+Europe</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.exhibitions">1975 Hamburg and Frankfurt Exhibitions</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.glasgow">Blakes in Glasgow</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.druid">Druid Celebration</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.music">New Music for Four Zoas</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.taurus">Taurus Press Blakes</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.wedding">Wedding and Baptism</ref></cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="8.3.work">Work in Progress</ref></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Feature Essay</cell>
+            <cell>56</cell>
+          </row>
+          <row>
+            <cell>John E. Grant and Robert E. Brown, <ref type="article" issue="8.3.grant">Blake’s Vision of
+Spenser’s <hi rend="i">Faerie Queene</hi>: A Report and Anatomy</ref></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Comment</cell>
+            <cell>86</cell>
+          </row>
+          <row>
+            <cell>Morris Eaves, <ref type="article" issue="8.3.eaves">Reproducing <hi rend="i">The Characters
+of Spenser’s Faerie Queene</hi></ref></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Discussion</cell>
+            <cell>88</cell>
+          </row>
+          <row>
+            <cell>G. E. Bentley, Jr., <ref type="article" issue="8.3.bentley">The Accuracy of the Blake Trust
+Reproductions,</ref></cell>
+            <cell>88</cell>
+          </row>
+          <row>
+            <cell>Robert N. Essick, <ref type="article" issue="8.3.essick">Corrections to the BMPR
+Handlist,</ref></cell>
+            <cell>90</cell>
+          </row>
+          <row>
+            <cell><hi rend="i">Visions of the Daughters of Albion</hi>: The Frontispiece and a Crucial
+Line</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><label>1.</label> Mary V. Jackson, <ref type="article" issue="8.3.jackson">Additional Lines
+in <hi rend="i">Visions of the Daughters of Albion</hi></ref></cell>
+            <cell>91</cell>
+          </row>
+          <row>
+            <cell><label>2.</label> E. B. Murray, <ref type="article" issue="8.3.murray">Bound Back to Back in
+Bromion’s Cave</ref></cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><label>3.</label> Roland A. Duerksen, <ref type="article" issue="8.3.duerksen">Bromion’s
+Usurped Power—Its Source, Essence, and Effect: A Replication</ref></cell>
+            <cell>95</cell>
+          </row>
+        </table>
+        <p>The color reproduction of <hi rend="i">The Characters of Spenser’s Faerie Queene</hi> that folds
+out from the center of this issue, and the black-and-white reproductions on accompanying pages are reproduced
+by permission of the National Trust, Egremont Collection, Petworth (Sussex). 
+<note type="unreferenced" place="footer">Copyright © 1975 by Morris Eaves and Morton D. Paley</note></p>
+		<corr type="emend" rend="plain">
+        <p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published four times a year
+under the sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, University of California,
+Berkeley.</p>
+        <p>Associate Editor for Great Britain: Frances A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Bibliographer: Ron Taylor, University of California, Berkeley.</p>
+        <p>Editorial Assistants: for production, Judith Wallick Page and Donna Rix (in charge), Sharon Stell,
+and David Schnur, University of New Mexico; for subscriptions, Graham Conley, University of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the <hi rend="i">MLA Style Sheet</hi>, to either of the editors: Morris Eaves, Dept. of English, Univ. of New
+Mexico, Albuquerque, N.M. 87131; Morton Paley, Dept. of English, Univ. of California, Berkeley, Ca. 94720.</p>
+        <p>Subscriptions are $5 for one year, four issues. Special rate for individuals, $4 for one year,
+surface mail. For subscribers overseas who want to receive their issues by air mail, $8. U.S. currency or
+international money order if possible. Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address
+all subscription orders and related communications to Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, N.M. 87131.</p>
+        <p>Some back issues are available. Address Morris Eaves. Prices: Whole numbers 1-8, bound together, $5
+(special rate for individuals, $4). Whole numbers 9-13, bound together, $5 (special rate for individuals, $4).
+Whole numbers 22, 23, 24, 25, 26, 27, 28, $2 each. Whole number 20 (<hi rend="i">A Handlist of Works by
+William Blake in the Department of Prints &amp; Drawings of the British Museum</hi>, edited by G. E. Bentley,
+Jr.), $3. Whole numbers 29-30, double issue on Blake Among Victorians, $3. Whole numbers 14-19 are out of
+print.</p>
+        <p><corr type="emend">The International Standard Serial Number of the <hi rend="i">Blake
+Newsletter</hi> is 0006-453X.</corr></p>
+		</corr>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

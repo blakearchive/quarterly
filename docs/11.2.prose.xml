@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.prose</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Prose Studies 1800-1900</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-2-0007">
+      	<pb iod="11-130" n="130"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">
+                <hi rend="i">PROSE STUDIES 1800-1900</hi>
+              </hi>
+            </title>
+          </head>
+          <p>Under the auspices of the Victorian Studies Centre at the University of Leicester, Philip Dodd
+and J. C. Hilson will soon be editing a new journal devoted to the study of non-fictional prose between 1800
+and 1900, under the title <hi rend="i">Prose Studies</hi> (<hi rend="i">PS</hi>). According to the editors,
+their journal will “provide a much-needed forum for genuinely interdisciplinary discourse,” with one major aim
+being “to evolve,
+<figure n="ProseStudies.11.2.bqscan" rend="file" width="400" height="115"/>
+through the elucidation and discussion of individual works . . . a distinctive critical vocabulary for the
+analysis of non-fictional prose . . . .” There will also be a yearly annotated bibliography and reviews of
+current work in the field. There are forthcoming articles by David DeLaura on Matthew Arnold; Elizabeth Strode
+on William Morris’ lectures; and A. W. Bellringer on Pater.</p>
+          <p>The journal will appear three times a year, with the first number to be published probably in
+September 1977 in conjunction with a Ruskin conference in Leicester. Subscription rates are as follows:
+individuals, £2.50 or $4.50 per year; institutions, £3.50 or $6.50. Address the editors, Department of
+English, University of Leicester, Leicester LE1 7RH England.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

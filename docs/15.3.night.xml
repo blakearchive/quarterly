@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.3.night</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Help Me Make It Through the Night</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1981/1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981·82</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.3</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <name>Wendy Jones</name>
+              <resp>Typist</resp>
+              <name>Denise Warren</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Greg Crossan</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Michael Ferber</name>
+              <name>Thomas V. Lange</name>
+              <name>Bo Ossian Lindberg</name>
+              <name>Donald H. Reiman</name>
+              <name>Joseph S. Salemi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1981/1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <div1 id="BQ-15-3-0009">
+        <pb id="p15-151" n="151"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">HELP ME MAKE IT THROUGH THE NIGHT</hi>
+            </title>
+          </head>
+          <p>According to a notice in <hi rend="u">Girl About Town</hi> magazine, St. James’s Church in
+Piccadilly was to stage “the first ever continuous reading of the complete works of William Blake” on
+10-11 November. The reading, called “A Day and a Night in the Life of William Blake,” was part of the
+Piccadilly Festival. Admission was 75p, and food and drink were available.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

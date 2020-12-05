@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.2.bentley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake Apocrypha</title>
+				<author n="Bentley">G. E. Bentley, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>October 1, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.2</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-4" n="4"/>
+            <div1 id="BQ-01-2-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NOTES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">Blake Apocrypha</title>
+                    </head>
+                    <p>So ill-known was Blake among his contemporaries that few had even heard that he was a
+poet. Of those who had heard of his poetry, most probably agreed with <hi rend="u">The Antijacobin
+Review</hi>, which wrote in 1808:
+<q>
+Should he again essay to climb the Parnassian heights, his friends would do well to restrain his wanderings by
+the strait waistcoat. Whatever license we may allow him as a painter, to tolerate him as a poet would be
+insufferable.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref>
+                            <note id="n1">
+                                <hi rend="s">1</hi> Anon., “<hi rend="u">The Grave</hi> . . . illustrated . .
+. [by] William Blake,” <hi rend="u">The Antijacobin Review and Magazine</hi>, XXXI (1808), 225-234; see 
+<hi rend="u">Blake Records</hi>, 1967, p. 206.</note>
+						</q>
+As a consequence of this antipathy and obscurity, there is rarely any question of Blake’s authorship of a
+given work, since almost all that survive are either in his own hand or printed by his own unique method of
+Illuminated Printing. Blake’s works have often been suppressed, distorted, “improved,” and misunderstood,
+but heretofore we have not been troubled with the problem which arises among more popular authors, of having
+the works of other men attributed to him. His obscurity has had at least this advantage from the scholar’s
+point of view.</p>
+                    <p>However, an apocryphal Blake poem has recently been noticed in a review published just
+over a century ago. In his 1863 biography of Blake, Alexander Gilchrist had quoted a number of Blake’s
+doggerel poems from his Notebook expressing his resentment against his erstwhile patron William Hayley:
+<q>
+ON H[AYLEY] THE PICK THANK<lb/>
+                            <lb/>
+I write the Rascal Thanks till he &amp; I<lb/>
+With Thanks &amp; Compliments are quite drawn dry.<lb/>
+. . . . .<lb/>
+Thy Friendship oft has made my heart to ake:<lb/>
+Do be my Enemy for Friendship’s sake.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref>
+                            <note id="n2">
+                                <hi rend="s">2</hi> A. Gilchrist, <hi rend="u">Life of William Blake</hi>, ed.
+R. Todd, London &amp; New York, 1942, pp. 196, 197.</note>
+						</q>
+                    </p>
+                    <p>One of Gilchrist’s anonymous reviewers was W. M. Tartt, who claimed that he had “met
+Cromek in 1808, as the guest of [<hi rend="u">Fuseli’s patron</hi>] Mr. Roscoe at Allerton, and knew him
+afterwards.”<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> Tartt is generally highly
+unsympathetic—“To enter upon a minute criticism of his [Blake’s] poetry would be a mere waste of
+time”—but he does present one point of interest. In reference to “the trashy doggerel” which Gilchrist
+printed, such as that about Hayley quoted above, Tartt said:
+<q>
+The best specimen, in this way, was circulated (and attributed to Blake) in the first decade of the present
+century; but it is not republished by Mr. Gilchrist.<lb/>
+                            <pb id="p01-5" n="5"/>
+“‘Tickle me,’ said Mr. Hayley,<lb/>
+‘Tickle me, Miss Seward, do;<lb/>
+And be sure I will not fail ye,<lb/>
+But in my turn will tickle you.’<lb/>
+So to it they fell a-tickling.<lb/>
+                            <lb/>
+‘Britain’s honour! Britain’s glory!<lb/>
+Mr. Hayley that is you.’<lb/>
+‘The nine muses bow before ye!<lb/>
+Trust me, Lichfield’s swan, they do.’<lb/>
+                            <lb/>
+Thus these feeble bardlings squand’ring<lb/>
+Each on each their lavish rhymes,<lb/>
+Set the foolish reader wond’ring<lb/>
+                            <hi rend="u">At the genius of the times</hi>!”<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref>
+						</q>
+Though the reciprocated admiration between Hayley, the hermit of Felpham, and Anna Seward, the Swan of
+Lichfield, must have been known and amusing to Blake, no verses remotely like these have been attributed to
+him by anyone else, and the verse style seems quite alien to him. 
+                        <note id="n3">
+                            <hi rend="s">3</hi> Anon., “‘Pictor Ignotus,’ A Biography,” <hi rend="u">New
+Monthly Magazine</hi>, CXXX (1864), 309-319, revised in Tartt’s <hi rend="u">Essays on some Modern
+Works</hi>, London, 1876, Vol. II, pp. 192-215.</note>
+                        <note id="n4">
+                            <hi rend="s">4</hi> When the article was collected in book form, the introductory
+paragraph was retained but the verse itself was omitted.</note>
+                    </p>
+                    <p>Fortunately, however, we have something more to go on in defending Blake from the
+allegation of authorship of these verses than mere stylistic disparities. The central quatrain of the poem has
+also been attributed to William Lort Mansel (1753-1820), the epigrammatical Bishop of Bristol. Mansel’s poem
+is a series of couplets:
+<q>
+“Prince of poets, England’s glory,<lb/>
+Mr. Hayley, that is you.”<lb/>
+                            <lb/>
+“Ma’am, you carry all before you,<lb/>
+Lichfield Swan, indeed you do.”<lb/>
+                            <lb/>
+“In epic, elegy, or sonnet,<lb/>
+Mr. Hayley, you’re divine.”<lb/>
+                            <lb/>
+“Madam, take my word upon it,<lb/>
+You yourself are all the Nine.”<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref>
+                            <note id="n5">
+                                <hi rend="s">5</hi>
+                                <hi rend="u"> The Private Letter-Books of Sir Walter Scott</hi>, ed. Wilfred
+Partington, London, 1930, p. 215; in deference to the necessities of scansion and rhyme, I have taken the
+liberty of altering the penultimate line from “word for it.”</note>
+						</q>
+Unfortunately the scholar who quoted these lines did not indicate their date or derivation, and I have been
+unable to discover a contemporary source for them. Probably they were current before Miss Seward died in
+1809.</p>
+                    <p>The light-hearted merit of the lines, combined with contemporary topicality, explains
+easily enough their currency about 1808. Their misattribution to William Blake may perhaps have occurred
+during his lifetime, but it seems more likely that it is a trick of an old man’s memory writing fifty-six
+years after the events he recalls. Whether the lines are most interesting for what they tell us of William
+Blake, William Hayley, William Mansel, W. M. Tartt, or the Swan of Lichfield, Tartt was surely right in
+thinking that they deserved no more than a footnote. Their interest for Blake lies not so much in the
+plausibility with which they may be attributed to him as in the fact that a contemporary thought it worth
+fathering such by-blows upon him.</p>
+                    <byline>
+                        <docAuthor>Gerald E. <name>Bentley</name>, Jr.</docAuthor>, University of
+Toronto</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

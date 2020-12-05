@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.2.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+				<author n="Ault">Donald D. Ault</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>September 26, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.2</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <front>
+            <pb id="p03-22" n="22"/>
+            <div1 id="cover">
+                <figure n="cover.003.02.bqscan" rend="file" width="258" height="361">
+                    <figTranscr>Blake Newsletter<lb/>
+                        <hi rend="u"><hi rend="i">EDITOR</hi></hi><lb/>
+                        <hi rend="u"><hi rend="i">ASSOCIATE EDITORS</hi></hi><lb/>
+                            <hi rend="u"><hi rend="i">EDITORIAL ASSISTANT</hi></hi><lb/>
+                        Morton D. Paley<lb/>
+                        Donald D. Ault<lb/>
+                        Patricia Pelfrey<lb/>
+                        Andrew Griffin<lb/>
+                        Volume III, Number 2<lb/>
+                        Whole #10<lb/>
+                        September 26, 1969<lb/>
+                        <hi rend="u"><hi rend="i">NEWSLETTER BUSINESS</hi></hi><lb/>
+                        Although the <hi rend="i">Newsletter</hi> is a bit late this time it is indeed
+still<lb/>
+                        in good running order. We have secured an editorial assistant, at least<lb/>
+                        for part of the year, to help out with paper work, and our task in getting<lb/>
+                        the <hi rend="i">Newsletter</hi> out has been considerably simplified.  After this
+issue<lb/>
+                        things should settle down so that the next <hi rend="i">Newsletter</hi> can appear at
+the<lb/>
+                        normal time.<lb/>
+                        Articles should be sent to Morton Paley for consideration at his London<lb/>
+                        address:<lb/>
+                        Morton D. Paley<lb/>
+                        24, West Heath Drive<lb/>
+                        London, N.W. 11,<lb/>
+                        England.<lb/>
+                        The next issue of the <hi rend="i">Newsletter</hi> will carry an index to Volume II
+by<lb/>
+                        Robert Kolker.<lb/>
+                        —DDA<lb/>
+                       <hi rend="u"><hi rend="i">NEWS</hi></hi><lb/>
+                        In the first issue of the <hi rend="i">Newsletter</hi> (p. 2), we reported on the
+discovery<lb/>
+                        of the Blake-Varley sketchbook.  A selection of pages from the sketchbook<lb/>
+                        is now on view at the Tate Gallery.  Among the drawings are “The Ghost of<lb/>
+                        a Flea,” King Harold transfixed by the arrow, Milton’s first wife, and two<lb/>
+                        interiors with the Empress Maud.  A facsimile edition of the sketchbook<lb/>
+                        with notes by Martin Butlin has been published for the Blake Trust.<lb/>
+                        The Tate is also showing, in its handsomely redecorated Blake gallery,<lb/>
+                        a new acquisition bequeathed by Miss R.M. Dyer.  It is an early water-<lb/>
+                        color, “An Allegory of the Bible” (referred to in W.M. Rossetti’s list<lb/>
+                        of 1880 as “The Pilgrimage of Christiana”).<lb/>
+                        The BLAKE NEWSLETTER, Department of English, University of California,<lb/>
+                        Berkeley, Calif. 94720. Subscription price:  $2.00 for one year;  invoiced<lb/>
+                        subscriptions $3.00; overseas subscriptions by air $3.00, by surface mail<lb/>
+                        $2.00.  Please send checks or money orders* payable to “Blake Newsletter.”<lb/>
+                        Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by air)<lb/>
+                        if money order is open and uncrossed, but these must be sent to Morton Paley,<lb/>
+                        24, West Heath Drive, London, N.W. 11, England. Please do not send checks<lb/>
+                        on foreign banks either to Morton Paley or to the Associate Editors in<lb/>
+                        Berkeley.  American currency is preferable if possible.<lb/>
+                        *to the Associate Editors in Berkeley<lb/>
+                        Copyright © 1969 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+			<div1 id="BQ-03-2-0000">
+				<supplied type="emend" rend="plain">
+					<table id="contents" rows="9" cols="2">
+					  <row>
+						<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><hi rend="b">News</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.tate">Blake-Varley sketchbook and “An Allegory of the Bible” at the
+Tate Gallery</ref></cell>
+						<cell>22</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.dramatic"><hi rend="i">Blake’s Visionary Forms Dramatic</hi>,
+edited by David V. Erdman and John E. Grant</ref></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.festival">Marriage of Heaven and Hell at the Lancaster University
+Arts Festival</ref></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.periodicals">Exhibitions, periodicals, and the MLA
+seminar</ref></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Article</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.essick">A Finding List of Reproductions of Blake’s Art</ref><lb/>
+						<hi rend="i">compiled by Robert N. Essick</hi></cell>
+						<cell>24</cell>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Notes</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.erdman">Dating Blake’s Script: a postscript</ref><lb/>
+						<hi rend="i">David V. Erdman</hi></cell>
+						<cell>42</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="3.2.bentley">Blake’s Sinister “g”, from 1789-93 to ?1803</ref><lb/>
+						<hi rend="i">G.E. Bentley, Jr.</hi></cell>
+						<cell>43</cell>
+					  </row>
+					</table>
+				</supplied>
+			</div1>
+            <div1 id="BQ-03-2-0001">
+                <table rows="3" cols="3">
+                    <row>
+                        <cell>
+                            <hi rend="i">
+                                <hi rend="u">EDITOR</hi>
+                            </hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">
+                                <hi rend="u">ASSOCIATE EDITORS</hi>
+                            </hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">
+                                <hi rend="u">EDITORIAL ASSISTANT</hi>
+                            </hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>Morton D. Paley</cell>
+                        <cell>Donald D. Ault</cell>
+                        <cell>Patricia Pelfrey</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew Griffin</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div1>
+        </front>
+        <body>
+            <div1 id="BQ-03-2-0002">
+                <head>
+                    <title>
+                        <hi rend="i">
+                            <hi rend="u">NEWSLETTER BUSINESS</hi>
+                        </hi>
+                    </title>
+                </head>
+                <p>Although the <hi rend="i">Newsletter</hi> is a bit late this time it is indeed still in
+good running order. We have secured an editorial assistant, at least for part of the year, to help out with
+paper work, and our task in getting the <hi rend="i">Newsletter</hi> out has been considerably simplified.
+After this issue things should settle down so that the next <hi rend="i">Newsletter</hi> can appear at the
+normal time.</p>
+                <p>Articles should be sent to Morton Paley for consideration at his London address:<lb/>
+                    <lb/>
+Morton D. Paley<lb/>
+24, West Heath Drive<lb/>
+London, N.W. 11,<lb/>
+England.</p>
+                <p>The next issue of the <hi rend="i">Newsletter</hi> will carry an index to Volume 11 by
+Robert Kolker.</p>
+                <byline>
+                    <docAuthor>DDA</docAuthor>
+                </byline>
+				<note type="unreferenced" place="footer">The BLAKE NEWSLETTER, Department of English, University of
+California, Berkeley, Calif. 94720. Subscription price: $2.00 for one year; invoiced subscriptions $3.00;
+overseas subscriptions by air $3.00, by surface mail $2.00. Please send checks or money orders<supplied
+type="spacer"> </supplied><ref target="p22u1" type="note">*</ref> payable to “Blake Newsletter.” Residents of
+Britain may pay by Postal Money Order for 16/9 (£1 10s by air) if money order is open and uncrossed, but
+these must be sent to Morton Paley, 24, West Heath Drive, London, N.W. 11, England. Please do not send checks
+on foreign banks either to Morton Paley or to the Associate Editors in Berkeley. American currency is
+preferable if possible. <note id="p22u1">* to the Associate Editors in Berkeley</note>
+                    </note>
+                    <note type="unreferenced" place="footer">Copyright © 1969 Morton D. Paley</note>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.1.picadilly</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Blake Society at St. James’s Picadilly: Events in 1995</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1995</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1995</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.1</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Alexander Gourlay</name>
+              <name>Lauren G. Henry</name>
+              <name>J.E.M. Latham</name>
+              <name>David Punter</name>
+              <name>Warren Stevenson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1995"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <body>
+      <div1 id="BQ-29-1-0009">
+      	<pb id="p29-35" n="35"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">The Blake Society at St. James’s Picadilly: Events in 1995</hi>
+            </title>
+          </head>
+          <p>Sunday, 13 August, 12 noon:</p>
+          <p>Visit to Bunhill Fields (site of Blake’s grave)</p>
+          <p>Wednesday, 27 September, 7:30 pm:</p>
+          <p>Peter Ackroyd, “Blake the Londoner”</p>
+          <p>Wednesday, 11 October, 7:30 pm:</p>
+          <p>David Worrall, “Recent Trends in Blake Criticism”</p>
+          <p>Tuesday, 7 November, 7:30 pm:</p>
+          <p>David Punter, “‘His shadowy Animals’: The Idea of Living Creatures in Blake”</p>
+          <p>Tuesday, 5 December, 7:30 pm:</p>
+          <p>A general meeting of the Blake Society</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

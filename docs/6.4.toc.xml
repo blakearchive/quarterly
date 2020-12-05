@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.4</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <front>
+            <pb id="p06-81-83" n="81-83"/>
+            <div1 id="cover">
+                <figure n="cover.006.04.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>Blake<lb/>
+                        Newsletter 24<lb/>
+                    An<lb/>
+                    Illustrated<lb/>
+                    Quarterly<lb/>
+                    Spring 73</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-06-4-0001">
+                <table id="contents" rows="14" cols="2">
+                    <row>
+            			<cell colspan="3">
+                			<head>
+                    			<title>
+                        			<supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    			</title>
+               				</head>
+            			</cell>
+        			</row>
+                    <row>
+                        <cell>
+                            <hi rend="b">
+                                <hi rend="i">Notes</hi>
+                            </hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Janet Warner, <ref type="article" issue="6.4.warner">Blake and English Printed
+Textiles</ref></cell>
+                        <cell>84</cell>
+                    </row>
+                    <row>
+                        <cell>Joel Morkan, <ref type="article" issue="6.4.morkan">Blake’s “Ancient Forests
+of Europe”</ref></cell>
+                        <cell>93</cell>
+                    </row>
+                    <row>
+                        <cell>F. B. Curtis, <ref type="article" issue="6.4.curtis">The Geddes Bible and the
+Tent of the Eternals in <hi rend="i">The Book of Urizen</hi></ref>
+                        </cell>
+                        <cell>93</cell>
+                    </row>
+                    <row>
+                        <cell>Donald H. Reiman, <ref type="article" issue="6.4.reiman">A Significant Early
+Review of Blake</ref></cell>
+                        <cell>94</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">
+                                <hi rend="i">Discussion</hi>
+                            </hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>G. E. Bentley, Jr., <ref type="article" issue="6.4.bentley">The Accuracy of the
+Blake Trust Gray Catalogue</ref></cell>
+                        <cell>95</cell>
+                    </row>
+                    <row>
+                        <cell>Mary Ellen Reisner, <ref type="article" issue="6.4.reisner"><hi rend="i">Songs
+of Innocence</hi> Copy U</ref></cell>
+                        <cell>96</cell>
+                    </row>
+                    <row>
+                        <cell>Thomas E. Connolly, <ref type="article" issue="6.4.connolly"><hi rend="i">Songs
+of Innocence</hi> Copy U</ref></cell>
+                        <cell>96</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">
+                                <hi rend="i">Reviews</hi>
+                            </hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Joseph Anthony Wittreich, Jr. on 
+<ref type="article" issue="6.4.wittreich"><hi rend="i">The Imagination of the Resurrection: The Poetic Continuity of a Religious Motif in Donne, Blake, and
+Yeats</hi> by Kathryn R. Kremen</ref></cell>
+                        <cell>97</cell>
+                    </row>
+                    <row>
+                        <cell>Robert F. Gleckner on 
+<ref type="article" issue="6.4.gleckner"><hi rend="i">Miracles of Rare Device: The Poet’s Sense of Self in Nineteenth-Century Poetry</hi>
+                            <lb/>
+ by Fred Kaplan</ref></cell>
+                        <cell>99</cell>
+                    </row>
+                    <row>
+                        <cell>Margret Shaefer on <ref type="article" issue="6.4.shaefer"><hi rend="i">The
+Unholy Bible: A Psychological Interpretation of William Blake</hi> by June K. Singer</ref></cell>
+                        <cell>100</cell>
+                    </row>
+                </table>
+                <p>Design and layout by Michael Davies and Judith Page 
+<note type="unreferenced" place="footer">Copyright ©1974 by Morton D. Paley and Morris Eaves</note>
+                </p>
+				<corr type="emend" rend="plain">
+                <p>Published quarterly under the sponsorship of the Department of English of the University of
+New Mexico. Support for bibliographical assistance provided by the University of California, Berkeley.</p>
+                <p>Morton D. Paley, <hi rend="i">Executive Editor</hi>, University of California,
+Berkeley.</p>
+                <p>Morris Eaves, <hi rend="i">Managing Editor</hi>, University of New Mexico.</p>
+                <p>Michael Phillips, <hi rend="i">Associate Editor</hi>, University of Edinburgh.</p>
+                <p>Michael Davies and Judith Wallick Page, <hi rend="i">Editorial Assistants for
+Production</hi>, University of New Mexico.</p>
+                <p>Graham Conley, <hi rend="i">Editorial Assistant for Subscriptions</hi>, University of New
+Mexico.</p>
+                <p>Foster Foreman, <hi rend="i">Bibliographer</hi>, University of California, Berkeley.</p>
+                <p>Manuscripts are welcome. Send two copies either to Morton Paley, Dept. of English, Univ. of
+California, Berkeley, Ca. 94720, or to Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, N.M.
+87131.</p>
+                <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4 for one
+year, surface mail; for those overseas who want to receive their issues by air mail, $8. U.S. currency if
+possible. Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address all subscription orders and
+related communications to Morris Eaves, Managing Editor.</p>
+                <p>Some back issues are available. Address Morris Eaves, Managing Editor. Prices: whole
+numbers 14, 15, and 21, $2 each. Whole numbers 17-18 (combined issue containing Robert Essick’s 
+<hi rend="i">Finding List of Reproductions of Blake’s Art</hi>, 160 pages), $5. Whole number 20 (<hi rend="i">A
+Handlist of Works by William Blake in the Department of Prints &amp; Drawings of the British Museum</hi>,
+edited by G. E. Bentley, Jr.), $3.</p>
+                <p><corr type="emend">The ISSN (International Standard Serial Number) of the 
+<hi rend="i">Blake Newsletter</hi> is 0006-453X.</corr></p>
+				</corr>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

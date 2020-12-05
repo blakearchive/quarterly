@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.1.schuchard</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s Healing Trio: Magnetism, Medicine, and Mania</title>
+        <author n="Schuchard">Marsha Keith Schuchard</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.1</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert Essick</name>
+              <name>Michael Fischer</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>Marsha Keith Schuchard</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <pb id="p23-20" n="20"/>
+      <div1 id="BQ-23-1-0006">
+        <head>
+          <title type="main">Blake’s Healing Trio: Magnetism, Medicine, and Mania</title>
+        </head>
+        <byline>BY <docAuthor>MARSHA KEITH <name>SCHUCHARD</name></docAuthor></byline>
+        <p>When William Blake returned to London from his “three years Slumber” at Felpham, he initially
+found sympathetic friends as he pursued his “visionary studies.”<supplied type="spacer"> </supplied><ref
+target="n1" type="note">1</ref> Blake participated throughout the 1780s and 90s in an eclectic network of 
+<hi rend="i">illuminés</hi>, which included Swedenborgians, Freemasons, and Cabalists who shared his interest in
+animal magnetism spirit-communication, and erotic trances.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> In 1804 he apparently renewed his acquaintance with several theosophers, who continued
+their secret meetings and occult studies over the next decade. Unfortunately, the fragmentary evidence for
+this collaboration comes from an embittered notebook poem (c. 1808-11), when Blake accuses his friends of
+cowardly withdrawal from their mutual studies. Compressed into eight hostile lines, Blake’s mental distress
+and spiritual commitment reveal the radical daring of his visionary enterprise:
+<q>
+Cosway, Frazer &amp; Baldwin of Egypts Lake<lb/>
+Fear to Associate with Blake<lb/>
+This Life is a Warfare against Evils<lb/>
+They heal the sick he casts out Devils<lb/>
+Hayley Flaxman &amp; Stothard are also in doubt<lb/>
+Lest their Virtue should be put to the rout<lb/>
+One grins tother spits &amp; in corner hides<lb/>
+And all the Virtuous have shewn their backsides<lb/>
+(E 505)
+</q>
+	<note id="n1"><hi rend="s">1</hi> David V. Erdman, ed., <hi rend="i">Complete Poetry</hi> &amp; 
+<hi rend="i">Prose of William Blake</hi>, newly rev. ed. (New York: Doubleday/Anchor, 1982) 728-29. Hereafter
+cited as E.</note>
+	<note id="n2"><hi rend="s">2</hi> Marsha Keith Schuchard, <hi rend="i">Freemasonry, Secret Societies, and the
+Continuity of the Occult Traditions in English Literature</hi> (Ph.D. dissertation, Univ. of Texas at Austin,
+1975); <hi rend="i">The Men of Desire: Swedenborg, Blake, and Illuminist Freemasonry</hi>
+(forthcoming).</note></p>
+        <p>The first three friends—Cosway, Frazer, and Baldwin—were drawn together by shared interest in
+animal magnetism, the bizarre pseudoscience that played a role in its day equivalent to Freudian and Jungian
+Psychology in our own.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> Animal
+magnetism was a “modern” version of ancient Cabalistic meditation techniques, merged with Hermetic,
+Paracelsan, and astrological theories of man as microcosm. Seventeenth-century speculation on the universal
+magnetic fluid was updated with new theories of electricity. Developed by Dr. Franz Anton Mesmer into a
+methodical science of hypnosis, trance, and nervous catharsis, magnetism became a kind of countercultural
+therapy and religion to the restless, millenarian spirits of the revolutionary decades. Despite its
+“holistic” claims, the new magnetic religion split into rival schools which accused each other,
+respectively, of materialistic atheism and occultist fanaticism. Blake and his three friends were not immune
+to these bitter though often comical quarrels. 
+                    <note id="n3"><hi rend="s">3</hi> Robert Darnton, <hi rend="i">Mesmerism and the End of
+the Enlightenment in France</hi> (Harvard UP, 1968); Clarke Garrett, <hi rend="i">Respectable Folly:
+Millenarians and the French Revolution in France and England</hi> (Johns Hopkins UP, 1975).</note></p>
+        <p>Richard Cosway (1740-1821), the fashionable miniature painter, was one of Blake’s oldest friends.
+Fascinated by magic, alchemy, and Cabala, Cosway was intimately acquainted with radical Freemasons and
+millenarian <hi rend="i">illuminés</hi> in Europe as well as England.<supplied type="spacer"> </supplied><ref
+target="n4" type="note">4</ref> Cosway joined the Swedenborg society in 1783-84, at a period when it was
+dominated by French and Swedish Freemasons who believed that Swedenborg himself was a Cabalist, alchemist, and
+Mason.<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> Working closely with the London
+society were Dr. Benedict Chastanier and the Marquis de Thomé, who founded the Masonic rite of 
+<hi rend="i">Illuminés Théosophes</hi> in London and Paris.<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref> They believed that Mesmer took his theories from Swedenborg and then perverted them into a
+materialistic science.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> Cosway and the
+London group agreed, and John Flaxman still believed this in 1823<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref>. 
+                    <note id="n4"><hi rend="s">4</hi> George Williamson, <hi rend="i">Richard Cosway</hi>,
+rev. ed. (London: G. Bell, 1905); Frederick Daniell, <hi rend="i">A Catalogue Raisonée of the Engraved Works
+of Richard Cosway, R. A.</hi> (London: F. B. Daniell, 1890).</note>
+	<note id="n5"><hi rend="s">5</hi> “Mr. Cosway, Painter in History,” is listed by C. F. Nordenskjöld as a
+member of the group in 1783-84. Unpublished list in Academy Collection of Swedenborg Documents, Academy of the
+New Church, Bryn Athyn, PA. On Freemasonry and early Swedenborgianism, see Martin Lamm, 
+<hi rend="i">Upplysningstiden Romantik</hi>, 2 vols. (Stockholm: Hugo Gebers, 1918) 1: 63; R. L. Tafel,
+“Swedenborg and Freemasonry,” <hi rend="i">New Jerusalem Messenger</hi> (1869): 266-67.</note>
+	<note id="n6"><hi rend="s">6</hi> Karl-Erik Sjoden, “Swedenborg en France,” <hi rend="i">Stockholm
+Studies in the History of Literature</hi>, 27 (1985): 10-40.</note>
+	<note id="n7"><hi rend="s">7</hi><hi rend="i"> Intellectual Repository</hi>, 2 (1874-75): 191-98; 
+<hi rend="i">Journal Encyclopédique</hi>, 6 (1 Sept. 1785): 310-20.</note>
+	<note id="n8"><hi rend="s">8</hi> Henry Crabb Robinson, <hi rend="i">Diary, Reminiscences, and
+Correspondence</hi>, ed. Thomas Sadler, 2 vols. (Boston: J. R. Osgood, 1871) 1: 494-96.</note></p>
+        <p>In 1784 a French governmental commission exposed animal magnetism as a fraud, which only drove its
+disciples into more radical defenses of the new science.<supplied type="spacer"> </supplied><ref target="n9"
+type="note">9</ref> A disgusted Mesmer traveled to England in August 1785, hoping to establish a Mesmeric
+Masonic lodge.<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref> But he found his
+rivals already dominating the popular magnetic stage. Mesmer faded from the English scene, while his apostate
+pupil, Dr. John Bonniot de Mainaduc, instituted a decade-long reign.<supplied type="spacer"> </supplied><ref
+target="n11" type="note">11</ref> Cosway and his Swedenborgian friends became Mainaduc’s earliest and, for a
+while, most ardent disciples. Born in Ireland to a French Protestant family, Mainaduc studied medicine in
+London in the 1770s under Drs. William and John Hunter, George Fordyce, and other eminent physicians. In
+1782-84, he studied in France where he was caught up in the Mesmeric enthusiasm. When he offered Mesmer 200
+guineas for his secret, the German doctor haughtily refused.<supplied type="spacer"> </supplied><ref
+target="n12" type="note">12</ref> Mortified, Mainaduc turned to Dr. Charles Deslon, an early champion of
+Mesmer, who developed a different technique. Mainaduc claimed that Deslon raised the science beyond Mesmer’s
+“crude state.” <note id="n9"><hi rend="s">9</hi> Darnton 62-66.</note>
+	<note id="n10"><hi rend="s">10</hi> See W. R. Dawson, ed., <hi rend="i">The Banks Letters</hi> (London:
+British Museum, 1958) 66, as a corrective to Vincent Buranelli, <hi rend="i">The Wizard from Vienna</hi> (New
+York, 1975) 182.</note>
+	<note id="n11"><hi rend="s">11</hi><hi rend="i"> The Lectures of J. B. de Mainaduc, M.D.</hi> (London:
+printed for the Executrix, 1798). Copy in Royal College of Surgeons, London. Includes list of paying students.
+I am grateful to Jonathon Miller, M.D., for informing me of this copy.</note>
+	<note id="n12"><hi rend="s">12</hi> John Martin, <hi rend="i">Animal Magnetism Examined</hi> (London, 1790)
+5-6.</note></p>
+        <pb id="p23-21" n="21"/>
+        <p>Returning to London in 1785, Mainaduc introduced magnetism into his medical treatment, drawing a
+clientele initially from his large midwifery practice. He soon deviated from the materialistic gadgetry of
+Deslon’s style (tubs, tubes, rods, etc.), and declared a purely spiritual form of magnetism. A Freemason
+himself, Mainaduc attracted the interest of Swedenborgian Freemasons who appreciated his spiritualistic
+approach in which “divine influx” aided the cures. On 12 December 1785, he initiated Chastanier into
+“this Modern Magical Science.”<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref>
+For the next ten months, Chastanier served as Mainaduc’s chief assistant at his lavish clinic in Bloomsbury
+Square. Attacked by a Mesmeric rival, Dr. John Bell, as superstitious and unscientific apostates, Mainaduc and
+Chastanier defended themselves by claiming to perform the same kind of spiritual cures as Christ and his
+disciples.<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> The two 
+<hi rend="i">illuminés</hi> then invited “twenty gentlemen of distinction” to hear their lectures, in which
+Paracelsus, Fludd, Kircher, and Swedenborg were presented as precursors of Mesmer.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> Mainaduc also recruited twenty women to form a “Hygeian
+Society,” which was incorporated with a sister lodge in France. To demonstrate their Masonic notions of
+equality, Mainaduc instructed Chastanier to round up twenty poor patients for free treatment at Bloomsbury.
+Over the next decade, Mainaduc instructed over 270 paying customers in the secret science. Among the dozen
+identifiable Swedenborgians were four artistic peers of Blake—Maria and Richard Cosway, P. J. de
+Loutherbourg, and William Sharp. <note id="n13"><hi rend="s">13</hi> Benedict Chastanier, <hi rend="i">A Word
+of Advice to a Benighted World</hi> (London, 1795) 30-31.</note>
+	<note id="n14"><hi rend="s">14</hi> Daniel Lysons, <hi rend="i">Collectanea</hi>, A Scrapbook of
+Eighteenth-Century Newspaper Clippings in the British Museum, 1: 156-63 on animal magnetism. Also, John Bell,
+<hi rend="i">A New System of the World</hi> (London, 1788).</note>
+	<note id="n15"><hi rend="s">15</hi><hi rend="i"> Morning Herald</hi> 15 Feb. 1786.</note></p>
+        <p>In Mainaduc’s lectures, printed posthumously in 1798 with his portrait by Cosway, there are many
+striking similarities to terms and themes in Blake’s work. In April 1786, Mainaduc revealed to an eager
+assembly that men and women “possess a power in themselves of which they are ignorant, and want but little
+instruction to do more than they are aware of; I open to you an astonishing field, if you dare to cultivate
+it, a field which must redouble the religionist’s devotion, confirm the deist in the existence of his God,
+and fill the atheist with astonishment.”<supplied type="spacer"> </supplied><ref target="n16"
+type="note">16</ref> His first lecture covered “Atmospheres and Emanations of the Form,” which proved that
+“emanating atoms continually fly from the earth, and from all its productions; and that, as the earth, so
+all its forms are surrounded by atmospheres, and passed through by emanations peculiar to
+themselves.”<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> The “atmospherical
+part of the human body” may, by the magnetizer’s effort, “be attracted from, or distended to, any
+unlimited distance”; it may then “penetrate any other form in nature.” The healing occurs when through
+“the influence of Volition (or Spirit)” the Emanations are “forced out of their natural course” or
+“attracted into the Pores of the Operator.”<supplied type="spacer"> </supplied><ref target="n18"
+type="note">18</ref> The magnetizer is effective according to the Intention and Energy of his or her
+“spiritual Volition.” Mainaduc then gave detailed instructions, such as:
+<q>
+The Examiner should fix on some particular part of the Patient’s external or internal Form; then, turning
+the backs of his hands, with the fingers a little bent, he must vigorously and steadily command the Emanations
+and Atmospheres, which derive from that part, to strike his Hands, and must closely attend to whatever
+Impressions are produced on them.<supplied type="spacer"> </supplied><ref target="n19"
+type="note">19</ref></q>
+Maria Cosway possessed great “spiritual Volition” and was easily magnetized. As she wrote her lover,
+Thomas Jefferson, “I am susceptible and everything that surrounds me has great power to magnetise
+me.”<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref>
+	<note id="n16"><hi rend="s">16</hi> Mainaduc xi.</note>
+	<note id="n17"><hi rend="s">17</hi> Mainaduc 28-29.</note>
+	<note id="n18"><hi rend="s">18</hi> Mainaduc 81-83.</note>
+	<note id="n19"><hi rend="s">19</hi> Mainaduc 97.</note>
+	<note id="n20"><hi rend="s">20</hi> Julian Boyd, ed., <hi rend="i">The Papers of Thomas Jefferson</hi>, 22
+vols. (Princeton UP, 1950) 4: 3-4; F. M. Brodie, <hi rend="i">Thomas Jefferson</hi> (New York, 1974)
+204-24.</note></p>
+        <p>Mainaduc and Chastanier soon faced stiff competition as new rivals entered the field. In France the
+Puysegur brothers rediscovered “induced hypnosis” or “magnetic sleep,” in which the entranced patient
+spoke with spirits and displayed clairvoyance. In a derivation of the Cabalistic “revolution of
+perspective,” the somnambulists saw the inner organs of their patients in externalized visions.<supplied
+type="spacer"> </supplied><ref target="n21" type="note">21</ref> Mainaduc complained that this “new food”
+of somnambulism is “grasped at with avidity by impostors” and many “entertain their acquaintances with
+the wonder of their last comatose dream.”<supplied type="spacer"> </supplied><ref target="n22"
+type="note">22</ref> Even worse, “a most scientific lass, wishing me to believe she saw my brain,” said it
+“resembled an oyster.” Cosway and Sharp magnetized Henry Tresham (another friend of Blake) and told him he
+had a hole in his liver, “the form of which Cosway drew.”<supplied type="spacer"> </supplied><ref
+target="n23" type="note">23</ref> Blake probably refers to this magnetic effect when he proclaims: “Their
+eyes their ears nostrils &amp; tongues roll outward they behold / What is within now seen without” (E 314).
+Moreover, Blake’s strange descriptions of Bowlahoola and Allamanda seem to draw on the magnetizers’
+concept of the Archaeus, the ganglion of sympathetic nerves in the abdominal region. 
+<note id="n21"><hi rend="s">21</hi> Gershom Scholem, <hi rend="i">Major Trends in Jewish Mysticism</hi> (New York: Schocken
+Books, 1954) 217.</note>
+	<note id="n22"><hi rend="s">22</hi> Mainaduc 196.</note>
+	<note id="n23"><hi rend="s">23</hi> K. Garlick and A. Macintyre, eds., <hi rend="i">The Diary of Joseph
+Farington</hi>, 16 vols. (New Haven: Yale UP, 1978) 3: 710.</note></p>
+        <p>Paracelsus and Van Helmont believed the Archaeus to be “a sort of demon presiding over the
+stomach, acting constantly by means of vital spirits, performing the most important offices in the animal
+economy, producing all the organic changes which take place within the corporeal frame.”<supplied
+type="spacer"> </supplied><ref target="n24" type="note">24</ref> Van Helmont further claimed that by virtue of
+the Archaeus, man could be approximated to the realm of spirits. In somnambulistic trance, the “exalted
+sensibility” of the epigastric region transferred perception from the brain to the abdomen (including the
+erotically susceptible “loins”). The modern magnetizer manipulated the transfer of sensibility from one
+organ to another, in order to clear the flow of lucidity (health) from obstruction (disease). Mainaduc taught
+that “in Man is comprised in miniature, the entire vegetating system in its greatest perfection.”<supplied
+type="spacer"> </supplied><ref target="n25" type="note">25</ref> His form is composed of pipes and particles,
+“between which the
+<pb id="p23-22" n="22"/>
+most extensive and minute porosity admits . . . the passage of atoms and fluids.” Similarly, though with
+vivid mythic overtones, Blake describes “the Four States of Humanity in its Repose”:
+<q>
+The First State is in the Head, the Second is in the Heart:<lb/>
+The Third in the Loins &amp; Seminal Vessels &amp; the Fourth<lb/>
+In the Stomach &amp; Intestines terrible, deadly, unutterable<lb/>
+And he whose Gates are opend in those Regions of his Body<lb/>
+Can from those Gates view all these wondrous Imaginations<lb/>
+(E 134)
+</q>
+Blake’s principal regions of vision are Bowlahoola, “the Stomach in every individual man,” and
+Allamanda, “the Loins &amp; Seminal Vessels” (E 121, 134). His strange physiology was entirely consistent
+with that of animal magnetism, especially in its Swedenborgian forms. <note id="n24"><hi rend="s">24</hi> J.
+C. Colquhoun, trans., <hi rend="i">Report of the Experiments on Animal Magnetism</hi> (Edinburgh: Robert
+Cadell, 1833) 101-03.</note>
+	<note id="n25"><hi rend="s">25</hi> Mainaduc 31.</note></p>
+        <p>Where Mainaduc and his more radical disciples got into trouble was in their technique of stroking
+the Archaeus:
+<q>
+The fluids are to be conducted upward, slowly, softly, and gently . . . [in order to] carry up the fluids from
+the stomach to the brain . . . the operation is to commence at the pit of the stomach, and the first intention
+must be to separate the plexus, or heap of nerves, situated in that part . . . The nerves must then be
+pursued, through the diaphragm up the pleura, and into the skull to the Brain.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref>
+	<note id="n26"><hi rend="s">26</hi> Mainaduc 207.</note></q>
+Critics charged them with sexual designs on the women; in fact, this accusation was the real motive for the
+French Commission’s hostile report. In an unpublished appendix, sent secretly to the French king, the
+commissioners revealed:
+<q>
+. . . the greater number of women who are magnetised are not really ill . . . their senses are not impaired,
+their youth has all its sensibility. Continued proximity, contact, the communication of bodily warmth, and the
+mingling of glances . . . effect a communication of sensations and affections. The man who magnetises had
+generally the knees of his female patient enclosed between his own . . . the hand is applied to the
+hypochondriac region, and sometimes over the ovaries. Touch is exercised over a large extent of surface, and
+in the neighborhood of the most sensitive parts of the body . . . the reciprocal attraction of the sexes acts,
+of course, with all its force. . . . When this state of crisis approaches, the visage fires by degrees, and
+the eyes light up with desire . . . the eyelids now become moist; the breathing hurried and irregular; the
+bosom heaves violently and rapidly, and convulsions and sudden twitchings take place in particular limbs, and
+sometimes all over the body. In lively and sensitive women, the last stage, the most agreeable termination of
+their emotions, is often a convulsion.<supplied type="spacer"> </supplied><ref target="n27"
+type="note">27</ref>
+	<note id="n27"><hi rend="s">27</hi> “Animal Magnetism,” <hi rend="i">British and Foreign Medical
+Review</hi> 14 (1839): 9.</note></q>
+One critic saw “a woman thrown by a magnetic process into a <hi rend="i">furor uterinus</hi>,” and London
+wits ridiculed Maria Cosway and the high-born women who flocked to Mainaduc as Princesses of the “House of
+Libidinowsky.”<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref>
+	<note id="n28"><hi rend="s">28</hi> “Animal Magnetism” 19; <hi rend="i">A Letter to a Physician in the
+Country on Animal Magnetism</hi> (London: J. Debrett, 1786) 32.</note></p>
+        <p>Undeterred by such criticism and inspired by visions into their patients’ Bowlahoola and
+Allamanda, Cosway, Sharp, and Loutherbourg enthusiastically practiced magnetic medicine. At Loutherbourg’s
+house in Hammersmith, thousands of patients sought the miracle cure. As Anthony Pasquin wickedly remarked,
+“The blind followed the whoopings of the lame” to the “liberal chymists” of the clinic.<supplied
+type="spacer"> </supplied><ref target="n29" type="note">29</ref> Initially with Mainaduc’s approval,
+Chastanier opened a magnetic clinic in his residence at 62 Tottenham Court Road, where the Swedenborgian
+Freemasons also gathered.<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref> But
+Chastanier eventually broke with Mainaduc, charging that he “made the art instrumental to horrid
+enormities.”<supplied type="spacer"> </supplied><ref target="n31" type="note">31</ref> Apparently worried by
+the competition of his own pupils, Mainaduc began to require a Masonic-style oath of secrecy from his
+clients.<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref> For paying “Brothers,”
+he would draw aside the veil of the sacred mysteries: “Here we shall find the <hi rend="i">grand
+arcanum</hi>, the steady <hi rend="i">point d’appui</hi>, the <hi rend="i">philosopher’s stone</hi>, and
+<hi rend="i">omnium uno</hi>”—all under the Masonic “all-seeing Eye of the Creator.”<supplied
+type="spacer"> </supplied><ref target="n33" type="note">33</ref>
+	<note id="n29"><hi rend="s">29</hi> Anthony Pasquin [John Williams], <hi rend="i">Memoirs of the Royal
+Academicians</hi> (London: H. D. Symonds, 1796) 80-81.</note>
+	<note id="n30"><hi rend="s">30</hi><hi rend="i"> Morning Post</hi> 16 June 1786.</note>
+	<note id="n31"><hi rend="s">31</hi><hi rend="i"> Monthly Observer and New Church Record</hi> 1 (Jan.-Dec.
+1857): 420.</note>
+	<note id="n32"><hi rend="s">32</hi> Mainaduc xi.</note>
+	<note id="n33"><hi rend="s">33</hi> Mainaduc 226-28.</note></p>
+        <p>Blake probably could not have afforded Mainaduc’s deluxe course, but he may have benefited from
+Chastanier’s inexpensive instruction. Blake may also have attended the spin-off lectures of Thomas Holloway,
+the engraver, with whom he worked on Lavater’s <hi rend="i">Essay on Physiognomy.</hi> (Lavater himself was
+an enthusiastic magnetist.<supplied type="spacer"> </supplied><ref target="n34" type="note">34</ref>)
+Following the lead of his brother John, Thomas Holloway gave lectures on animal magnetism which attracted
+hundreds of artisans as well as professional people.<supplied type="spacer"> </supplied><ref target="n35"
+type="note">35</ref> The Holloways’ magnetic therapy was so successful that John Newton tried to persuade
+the poet William Cowper to accept their offer of treatment. However, a wary Cowper replied:
+<q>
+With respect to my own initiation into the Secret of Animal Magnetism, I have a thousand doubts. Twice, as you
+know, I have been overwhelmed with the blackest despair, and at those times every thing in which I have been
+at any period of my life concerned has afforded to the Enemy a handle against me. I tremble therefore almost
+at every step I take, lest on some future similar occasion, it should yield him opportunity and furnish him
+with means to torment me. Decide for me, if you can. And, in the mean time, . . . best thanks to Mr. Holloway
+for his most obliging offer. I am perhaps the only man living who would hesitate a moment whether on such easy
+terms he should, or should not accept it. But if he finds another like me, he will make a greater discovery
+than even that which he has already made of the principles of this wonderful art.<supplied type="spacer"> </supplied><ref target="n36" type="note">36</ref></q>
+Cowper’s worry was later echoed by Blake, who resented those magnetic healers who tried to bind “all
+Mental Powers by Diseases,” rather than allowing the artist to “spend his soul in Prophecy.”<supplied
+type="spacer"> </supplied><ref target="n37" type="note">37</ref>
+	<note id="n34"><hi rend="s">34</hi><hi rend="i"> Analytical Review</hi> 6 (1790): 155-56.</note>
+	<note id="n35"><hi rend="s">35</hi><hi rend="i"> World</hi> 2 Oct. 1791; Thomas Holloway, 
+<hi rend="i">Memoir</hi> (London, 1827) 29-32.</note>
+	<note id="n36"><hi rend="s">36</hi> J. King and C. Ryskamp, eds., <hi rend="i">The Letters and Prose Writings
+of William Cowper</hi>, 5 vols. (Oxford: Clarendon, 1979-82) 3: 404-05.</note>
+	<note id="n37"><hi rend="s">37</hi> David V. Erdman, <hi rend="i">The Notebook of William Blake</hi> (Oxford:
+Clarendon, 1973) N50-51.</note></p>
+        <p>As part of their sympathy for the French Revolution and the new egalitarian trends, the Holloways
+developed a simplified, democratic form of magnetism.<supplied type="spacer"> </supplied><ref target="n38"
+type="note">38</ref> Though they were both Freemasons and enjoined secrecy on their pupils, they required
+neither oath nor bond.<supplied type="spacer"> </supplied><ref target="n39" type="note">39</ref> Teaching a
+short, simplified form of hypnosis and making no supernatural claims, the Holloways avoided the illuminist
+controversies that eventually placed animal magnetism on dangerous political grounds. John Holloway was still
+advertising his lectures in 1805, opposite the Shakespeare Gallery. <note id="n38"><hi rend="s">38</hi>
+Holloway, <hi rend="i">Memoir</hi> 24-25; Maria, <hi rend="i">The Secret Revealed: or, Animal Magnetism
+Displayed</hi> (London: T. Hawkins, 1790) 5-11.</note>
+	<note id="n39"><hi rend="s">39</hi> Grand Lodge, London: Atholl Register F., vol. 6, f.487; Index to Moderns,
+F series, vol. 14.</note></p>
+        <pb id="p23-23" n="23"/>
+        <figure n="DoigtMagique.bqscan" rend="file" width="500" height="729">
+          <head>“Le Doigt Magique.”</head>
+          <figDesc>Courtesy of Robert Darnton.</figDesc>
+        </figure>
+        <pb id="p23-24" n="24"/>
+        <p>For many of Mainaduc’s students, however, magnetism became increasingly a vehicle for political
+radicalism. Darnton points out that as the French Revolution developed, “mesmerists tended increasingly to
+neglect the sick in order to decipher hieroglyphics, manipulate magic numbers, communicate with spirits, and
+listen to speeches on Egyptian religion.”<supplied type="spacer"> </supplied><ref target="n40"
+type="note">40</ref> This development stemmed from the somnambulists’ refined techniques of
+vision-inducement as well as a revival of Cabalistic meditation on Hebrew letters and talismans. The
+magnetizing Swedenborgians in London were soon linked with Cabalistic developments in France, for they were
+visited by three celebrated <hi rend="i">gurus</hi> of Cabalistic Freemasonry—Count Grabianka of the Avignon
+<hi rend="i">Illuminés</hi>, “Count” Cagliostro of the Egyptian Rite, and Louis Claude de Saint-Martin of
+the <hi rend="i">Elus Coens.</hi><supplied type="spacer"> </supplied><ref target="n41" type="note">41</ref>
+Their colorful personalities and visionary claims made a lasting impression on the London group, while at the
+same time accelerating the turbulent schisms over political and sexual controversies. 
+<note id="n40"><hi rend="s">40</hi> Darnton 70.</note>
+	<note id="n41"><hi rend="s">41</hi> Garrett, <hi rend="i">Respectable</hi> 100-20; Constantin Photiades, 
+<hi rend="i">Count Cagliostro</hi> (London: William Rider, 1932); M. Matter, <hi rend="i">Saint-Martin</hi>
+(Paris, 1862).</note></p>
+        <p>As the English government geared up for a counterrevolutionary crackdown on secret societies,
+followers of Swedenborg and Mainaduc were considered fair game for official spies and police. On 4 March 1795,
+the <hi rend="i">London Times</hi> charged that Swedenborg was “the Chief of the Somnambulists,” whose
+influence on the “revolutionarily exalted” prophets prepared the public mind for “great political
+convulsions.” In 1797 the Abbé Barruel (a former Freemason, now an emigré priest) proclaimed in London:
+<q>
+The brethren of Avignon recognized the <hi rend="i">Illuminés</hi> of Swedenborg as their parent Sect;
+neither were they unmindful of the embassy sent them by the Lodge of Hampstead. Under the auspices of 
+<hi rend="i">De Mainaduc</hi>, the have seen their disciples thirsting after that <hi rend="i">celestial
+Jerusalem</hi>, that <hi rend="i">purifying fire</hi> (for these are the expressions I have heard them make
+use of) that was to kindle into general conflagration throughout the earth by means of the French
+Revolution—and thus Jacobin Equality and Liberty was to be universally triumphant in the streets of
+London.<supplied type="spacer"> </supplied><ref target="n42" type="note">42</ref>
+	<note id="n42"><hi rend="s">42</hi> Augustin Barruel, <hi rend="i">Memoirs, Illustrating the History of
+Jacobinism</hi>, 4 vols. (London: T. Burton, 1797-98) 4: 546.</note></q></p>
+        <p>Unintimidated by the crackdown and encouraged by his Swedenborgian readers, the flamboyant William
+Belcher published <hi rend="i">Intellectual Electricity, Novum Organum of Vision, and Grand Mystic System . .
+. the Connection between the Material and Spiritual World Elucidated, the Medium of Thought Rendered Visible,
+Instinct Seems Advancing to Intuition, Politics Assume a Form of Magical Intimation</hi> (London, 1798).
+Boldly interpreting mystical vision and sexual passion in electromagnetic terms, Belcher praised the 
+<hi rend="i">illuminati</hi> as the only society still practcing “this field of science.”<supplied
+type="spacer"> </supplied><ref target="n43" type="note">43</ref> To political radicals like Cosway, who
+acquired Belcher’s work, his assertion that “mysticism carried Buonaparte into Egypt, its original
+school,” must have rung with millenarial implications.<supplied type="spacer"> </supplied><ref target="n44"
+type="note">44</ref> Among the Swedenborgian and Masonic acquaintances of Cosway and Blake, political charge
+and countercharge proliferated, as increasingly polarized radicals and conservatives split into rival
+factions. However, the lines were not always clearly drawn, and radical devotées of animal magnetism were
+sometimes odd bedfellows of political conservatives. <note id="n43"><hi rend="s">43</hi> William Belcher, 
+<hi rend="i">Intellectual Electricity</hi> (London, 1798) i, 27.</note>
+	<note id="n44"><hi rend="s">44</hi> Belcher (i); handlist of half the books in Cosway’s library, compiled
+by the late Diana Wilson and now at the Huntington Library. I am grateful to Morton D. Paley for informing me
+about this list.</note></p>
+        <p>Into this complex milieu in 1793-94 walked George Baldwin, who eagerly plunged into magnetic
+experiments regardless of their political ramifications.<supplied type="spacer"> </supplied><ref target="n45"
+type="note">45</ref> Home on leave from his post as British Consul in Egypt, Baldwin renewed his acquaintance
+with various artists and Swedenborgians. Blake may already have known Baldwin in the period 1781-86, when the
+exotic traveler and his beautiful Greek wife, Jane, attracted much attention in London’s social scene.
+Cosway and Bartolozzi painted portraits of Mrs. Baldwin, and Joshua Reynolds exhibited “The Fair Greek,”
+in full Turkish costume, at the Royal Academy in 1782.<supplied type="spacer"> </supplied><ref target="n46"
+type="note">46</ref> Baldwin also shared Blake’s interest in Druid lore, Ossian, Boehme, Law, and
+Paracelsus.<supplied type="spacer"> </supplied><ref target="n47" type="note">47</ref> During his adventures in
+the Middle East, Baldwin had investigated the contacts between Egypt and India, which he applied to the study
+of hieroglyphics.<supplied type="spacer"> </supplied><ref target="n48" type="note">48</ref> These inquiries
+also fueled his interest in native medicines, with their heavy component of magic and trance. While in London,
+he read in <hi rend="i">The Gazeteer and New Daily Advertiser</hi> (6 October 1783) an article on Quinquet’s
+“new discoveries in the electric arcana.”<supplied type="spacer"> </supplied><ref target="n49"
+type="note">49</ref> He studied the French Commission Report on magnetism in 1784 and interpreted its hostile
+criticism as testimony to “the stupendous power” of magnetism.<supplied type="spacer"> </supplied><ref
+target="n50" type="note">50</ref>
+	<note id="n45"><hi rend="s">45</hi> “George Baldwin,” <hi rend="i">Dictionary of National
+Biography.</hi></note>
+	<note id="n46"><hi rend="s">46</hi> Freeman O’Donoghue, <hi rend="i">Catalogue of Engraved British
+Portraits . . . in the British Museum</hi> (London, 1910) 1: 107; J. T. H. Baily, <hi rend="i">Francesco
+Bartolozzi</hi> (London, 1907).</note>
+	<note id="n47"><hi rend="s">47</hi> George Baldwin, <hi rend="i">Mr. Baldwin’s Legacy to His Daughter</hi>
+(London: William Bulmer, 1811) 4: 40-45.</note>
+	<note id="n48"><hi rend="s">48</hi> British Museum Additional Manuscripts. 29,198.f.379.</note>
+	<note id="n49"><hi rend="s">49</hi> George Baldwin, <hi rend="i">An Investigation into Principles</hi>
+(London: George Bulmer, 1801) 31.</note>
+	<note id="n50"><hi rend="s">50</hi> Baldwin, <hi rend="i">Legacy</hi> iv.</note></p>
+        <p>Fired with enthusiasm for electric and magnetic therapy, Baldwin returned to Egypt in December
+1786, where he ordered a continuing stream of literature on animal magnetism. One of these may have been
+Lavater’s <hi rend="i">Essays on Physiognomy</hi> (London, 1789), with engravings by Blake and Holloway, for
+a “Captain Baldwin” subscribed to the first volume. As noted earlier, Lavater was widely viewed as a
+fanatic for animal magnetism, and his system of physiognomy was assimilated into the grab-bag of magnetic
+literature.<supplied type="spacer"> </supplied><ref target="n51" type="note">51</ref> By 1789 Baldwin was
+tirelessly experimenting with magnetic therapy and even boasted of finding an effective preventative for the
+plague. Believing the disease traveled by “electric sparks,” he advocated the coating of the body with
+sweet oils to prevent penetration of the pores.<supplied type="spacer"> </supplied><ref target="n52"
+type="note">52</ref>
+	<note id="n51"><hi rend="s">51</hi> Darnton <hi rend="i">passim.</hi></note>
+	<note id="n52"><hi rend="s">52</hi> George Baldwin, <hi rend="i">Political Recollections Relative to
+Egypt</hi>, 2nd. rev. ed. (London: W. Bulmer, 1802) 127.</note></p>
+        <p>In 1793-94 Baldwin returned to London, where he showed off his collection of drawings of Eastern
+scenes.<supplied type="spacer"> </supplied><ref target="n53" type="note">53</ref> He probably revisited Cosway
+and his artistic friends, as well as those Swedenborgians who still experimented with magnetic and electric
+cures. Baldwin subscribed to George Adams’ <hi rend="i">Lectures on Natural and Experimental Philosophy</hi>
+(London, 1794), which combined Swedenborgianism and Freemasonry with advanced magnetic and electric theory.
+Blake almost certainly knew Adams, who was also the mentor of Blake’s friend, Dr. John Birch. (Blake would
+later praise “Mr. Birch’s Electrical
+<pb id="p23-25" n="25"/>
+Magic” for relieving his wife’s rheumatism [E 759].) George Adams embodied the contradictory strains among
+the Swedenborgians, for he was fascinated by occult and magnetic phenomenon but repelled by the radical
+politics which often accompanied its practice. Baldwin shared these polarized opinions but, like Adams in the
+1790s, he was willing to keep his feet in both camps in the interest of the “new science.” 
+<note id="n53"><hi rend="s">53</hi> Dawson 672.</note></p>
+        <p>While he was in London, Baldwin apparently added somnambulistic techniques to his magnetic
+repertoire, for on his return to Egypt in late 1794, he plunged into experiments in spirit-communication,
+automatic writing, and dream analysis. Could he have learned these from Blake, Cosway, Loutherbourg, Sharp,
+and their Swedenborgian friends? In 1794 Blake described his own involvement in spirit-dictation:
+<q>
+Eternals I hear your call gladly,<lb/>
+Dictate swift winged words, &amp; fear not<lb/>
+To unfold your dark visions of torment.<lb/>
+(E 70)
+</q>
+In <hi rend="i">Vala</hi>, which he began in 1795, Blake describes various magnetic phenomenon: “ . . . they
+behold / What is within now seen without”; Los has “sparks issuing from his hair”; emanations produce
+“sweet rapturd trance” (E 314, 332, 371). Most suggestive, though, of Blake’s probable collaboration
+with Baldwin is the drawing in Night Nine of a woman dressed in Turkish costume, holding a tambourine, lying
+in a trance state on Oriental pillows.<supplied type="spacer"> </supplied><ref target="n54"
+type="note">54</ref> In the earlier portraits of Mrs. Baldwin by Cosway and Reynolds, she holds a tambourine
+and sits on a divan, respectively. George Baldwin also dressed in Oriental garb in London and discoursed on
+magnetism while lolling on pillows.<supplied type="spacer"> </supplied><ref target="n55" type="note">55</ref>
+The accompanying speech by Vala seems to echo Baldwin’s new enthusiasm for the “magnetic sleep” which
+led to spirit-communication:
+<q>
+Vala awoke. “When in the pleasant gates of sleep I enter’d,<lb/>
+“I saw my Luvah like a spirit stand in the bright air.<lb/>
+“Round him stood spirits like me . . .<lb/>
+. . . . . . . . . . . . . . . .<lb/>
+he laid his hand on my head,<lb/>
+“And when he laid his hand upon me, from the gates of sleep I came.”<supplied type="spacer"> </supplied><ref target="n56" type="note">56</ref></q>
+	<note id="n54"><hi rend="s">54</hi> C. T. Magno and D. V. Erdman, <hi rend="i">The Four Zoas</hi> by William
+Blake (Bucknell UP, 1987) 242.</note>
+	<note id="n55"><hi rend="s">55</hi> Thomas Wright, <hi rend="i">Life of William Blake</hi>, 2 vols. (London:
+Olney, Bucks, 1929) 2: 31.</note>
+	<note id="n56"><hi rend="s">56</hi> Magno and Erdman 242.</note></p>
+        <p>In Egypt from 1794 to 1798, Baldwin continued his experiments with the “magnetic sleep,” which
+he explained as “the discovery of a spiritual influence on the physical temperature of man.”<supplied
+type="spacer"> </supplied><ref target="n57" type="note">57</ref> As he witnessed many “elevations of the
+soul,” Baldwin became convinced that “no earthly bound could bound this spirit.” Then, in January 1795,
+his life changed dramatically when a wandering Italian poet, Casare Avena de Valdieri, arrived in Alexandria
+and joined in Baldwin’s sessions. Through the poet’s magnetic trance, Baldwin achieved communication with
+the spirit of a young girl, his first love in the 1760s. He rapturously affirmed:
+          <figure n="Page128.bqscan" rend="file" width="500" height="620">
+	<head>Page 128 in C. T. Magno and David V. Erdman, The Four Zoas <hi rend="i">by William Blake</hi> (Bucknell
+UP, 1987).</head>
+	<figDesc>Courtesy of the British Museum.</figDesc>
+</figure>
+<q>
+It is in common tradition over the world, that spirits will come and converse with men; mankind, in general,
+hath an involuntary dread of these spirits; why?—for my part I see nothing to dread; or something of the
+kind must exist to justify our fears.—I say indeed that these spirits do exist;—must of necessity exist .
+. . <ref target="n58" type="note">58</ref></q>
+Baldwin and Valdieri magnetized an Arab servant, whose clairvoyant descriptions were verified by witnesses.
+But the most astounding of their feats was the massive output of poetry and operas produced by Valdieri from
+spirit-dictation. In a trance state, Valdieri claimed to travel through the celestial world, speak with
+spirits, and experience a state of ecstatic beatitude. The poetic works, produced by automatic writing,
+revealed “amid the most eccentric flights of fancy, an order, an intricacy of arrangement, a regular
+confusion, a wilderness of beauties, an harmony of verse, a reach of discovery that shall satisfy his (the
+reader’s) mind about the real author of it.”<supplied type="spacer"> </supplied><ref target="n59"
+type="note">59</ref> Like Blake in <hi rend="i">Milton</hi>, Baldwin identified this dictating spirit as the
+same Muse who illumined Milton in <hi rend="i">Paradise Lost</hi>, 1.25. For Baldwin, Blake’s description of
+automatic writing would seem precisely accurate:
+<pb id="p23-26" n="26"/>
+	<q>
+. . . Muses who inspire the Poet’s Song,<lb/>
+Record the journey of immortal Milton thro’ your Realms<lb/>
+. . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+. . . Come into my hand<lb/>
+By your mild power; descending down the Nerves of my right arm<lb/>
+From out the Portals of my Brain . . .<lb/>
+(E 96)
+</q>
+	<note id="n57"><hi rend="s">57</hi> Baldwin, <hi rend="i">Investigations</hi> 88.</note>
+	<note id="n58"><hi rend="s">58</hi> Baldwin, <hi rend="i">Investigations</hi> 120.</note>
+	<note id="n59"><hi rend="s">59</hi> Baldwin, <hi rend="i">Investigations</hi> 93.</note></p>
+        <p>To provide a haven for the writing bouts, Baldwin built a special temple within the British
+consulary mansion in Alexandria. Baldwin’s artistic friends may have heard about these psychic adventures
+from Thomas Hope, the art patron, who returned to London after visiting Baldwin in 1797.<supplied
+type="spacer"> </supplied><ref target="n60" type="note">60</ref> Hope was also interested in the Cabala,
+Swedenborgianism, and magnetism; moreover, his brother Henry was a student of Mainaduc.<supplied
+type="spacer"> </supplied><ref target="n61" type="note">61</ref> When Napoleon moved into Egypt, Baldwin
+opposed the French in a series of complex intrigues. He had to flee Egypt, losing all his property, but
+returned with British forces in 1801, where he played a significant role in the defeat of the French. Arriving
+back in London in late 1801, Baldwin was treated as a political hero by conservatives and as a psychic hero by
+magnetizers. Blake’s allusion to Baldwin suggests his familiarity with both roles. 
+<note id="n60"><hi rend="s">60</hi> Dawson 427.</note>
+	<note id="n61"><hi rend="s">61</hi> Sandor Baumgarten, <hi rend="i">Le Crépuscule Neo-Classique: Thomas
+Hope</hi> (Paris: Didier, 1958) 218-24, 254; also Mainaduc xii.</note></p>
+        <p>Immediately upon his arrival, Baldwin arranged for the private printing of <hi rend="i">An
+Investigation into Principles</hi> (1801). It was not for sale but was distributed by the author to his
+friends. The work traced the history of animal magnetism and told the romantic story of his contact with the
+spirit of his lost love. Evidently encouraged by his friends, he next printed privately <hi rend="i">La Prima
+Musa Clio</hi> (1802), which included his explanation of automatic writing and the Italian poems of Valdieri.
+Though Blake was in Felpham, he may have heard of these works from London friends or from Hayley, who was an
+inveterate student of electric and magnetic medicine.<supplied type="spacer"> </supplied><ref target="n62"
+type="note">62</ref> When Blake returned to London in autumn 1803, he evidently joined the magnetic sessions
+of Baldwin, Cosway, and their friends. Baldwin soon gained a devoted following. As Thomas Wright observed,
+Baldwin was “in respect to the healing art, the Aloysius Horn of his day; he was now famous and lolled on
+Oriental cushions amid strange hangings.”<supplied type="spacer"> </supplied><ref target="n63"
+type="note">63</ref>
+	<note id="n62"><hi rend="s">62</hi> Morchard Bishop, <hi rend="i">Blake’s Hayley</hi> (London: Gollancz,
+1951) 95-96.</note>
+	<note id="n63"><hi rend="s">63</hi> Wright, <hi rend="i">Blake</hi> 2: 31.</note></p>
+        <p>Baldwin’s courageous commitment to his visionary studies would surely have appealed to Blake. In
+<hi rend="i">Mr. Baldwin’s Legacy to His Daughter, or the Divinity of Truth</hi> (1811), he revealed his
+enthusiastic philosophy which merged Paracelsus, Van Helmont, Swedenborg, and Druidism into a therapeutic,
+visionary science. He had delayed publication of this work because “I have been told, that I shall be called
+a <hi rend="i">Visionary</hi>”; however, “I am told by Scripture that where there is no vision the people
+perish.”<supplied type="spacer"> </supplied><ref target="n64" type="note">64</ref> In <hi rend="i">B.
+A.</hi>’<hi rend="i">s Book of Dreams</hi> (London, 1813), he described his treatment of an extremely
+deformed young lady (B. A.), who not only saw visions but greatly improved physically. Blake seems to refer
+directly to this case in his <hi rend="i">Notebook</hi>, emblem 19, when he sketches a sick girl on a pallet,
+approached by a turbaned, cloaked man. Blake’s odd lines may reflect his ambivalent feelings towards
+Baldwin: “The Cripple every step Drudges &amp; labours / And says come learn to walk of me Good
+Neighbours.”<supplied type="spacer"> </supplied><ref target="n65" type="note">65</ref> The next lines
+scratched out and confused, either condemn the single vision (“doubt”) of Newton, Bacon, and Reynolds, or
+possibly scorn the medical treatment of Baldwin: “He is all Experiments from last to first.” On the same
+page where Blake criticizes “Cosway, Frazer, and Baldwin,” for merely healing the sick, he shows five
+figures grouped in pyramidal form (suggestive of Egypt), who watch over the sickbed of a girl who holds a book
+(possibly <hi rend="i">B. A.</hi>’<hi rend="i">s Book of Dreams</hi>).<supplied type="spacer"> </supplied><ref target="n66" type="note">66</ref>
+	<note id="n64"><hi rend="s">64</hi> Baldwin, <hi rend="i">Legacy</hi> iii.</note>
+	<note id="n65"><hi rend="s">65</hi> Erdman, <hi rend="i">Notebook</hi> N39.</note>
+	<note id="n66"><hi rend="s">66</hi> Erdman, <hi rend="i">Notebook</hi> N39.</note></p>
+        <figure n="N39.bqscan" rend="file" width="500" height="623">
+          <head>N39, emblem 19, from <hi rend="i">The Notebook of William Blake</hi> by David V. Erdman
+(Oxford: Clarendon, 1973).</head>
+          <figDesc>Courtesy of the British Museum.</figDesc>
+        </figure>
+        <pb id="p23-27" n="27"/>
+        <p>Blake’s identification of Baldwin with “Egypt’s Lake” may point to one reason for their
+broken friendship. Blake, whose acquittal of treason charges did not mean he gave up his radicalism, was
+possibly put off by Baldwin’s contribution to Napoleon’s defeat in Egypt. In 1802 Baldwin published 
+<hi rend="i">Political Recollections Relative to Egypt</hi>, in which he revealed that it was his idea to cut the
+canal of Alexandria and let sea water into the dry bed of Lake Mareotis. When carried out by Sir Sydney Smith
+on 13 April 1801, the French were cut off from all communication with the interior of Egypt. This led to the
+English victory over Napoleon in August. Baldwin carried home “the famous Standard of the Invincible Legion
+of Bonaparte,” and he was caught up in the out-burst of patriotic enthusiasm.<supplied type="spacer"> </supplied><ref target="n67" type="note">67</ref> Thus, Blake’s phrase, “Baldwin of Egypt’s Lake,” had
+definite political connotations. Cosway, on the other hand, seemed to forgive Baldwin his political stance
+while benefitting from his magnetic expertise. Still as radical as Blake, Cosway could blithely boast of
+witnessing the King’s birthday dinner (while invisible and “in a spiritual capacity”) and then rejoice
+exceedingly at the victories of Bonaparte.<supplied type="spacer"> </supplied><ref target="n68"
+type="note">68</ref>
+	<note id="n67"><hi rend="s">67</hi> Baldwin, <hi rend="i">Political Recollections</hi> 145.</note>
+	<note id="n68"><hi rend="s">68</hi> Garlick and Macintyre, <hi rend="i">Diary</hi> 7: 3096.</note></p>
+        <p>The last four lines of Blake’s poem suggest another possible reason for Baldwin’s withdrawal
+from Blake. Blake accuses Hayley, Flaxman, and Stothard of prudish concern over his works. Certainly, if
+Baldwin saw Blake’s <hi rend="i">Vala</hi> and believed that Mrs. Baldwin was portrayed in Oriental costume,
+he may have been offended. Through her diaphanous Turkish veil, her vulva is clearly revealed. For the
+Swedenborgian magnetizers of the 1790s, the mystical significance of the female genitals to the visionary
+process was considered the highest of “coelestial arcana.”<supplied type="spacer"> </supplied><ref
+target="n69" type="note">69</ref> William Belcher proclaimed, “As well almost might Paracelsus make a man,
+without female aid, as can be acquired mystic knowledge without woman, the centre of magnetic
+attraction.”<supplied type="spacer"> </supplied><ref target="n70" type="note">70</ref> Ebenezer Sibly, a
+Swedenborgian Freemason and magnetizer, made a series of Rosicrucian drawings which depicted the vulva as the
+center of the Cabalistic universe.<supplied type="spacer"> </supplied><ref target="n71" type="note">71</ref>
+	<note id="n69"><hi rend="s">69</hi> Based on Swedenborg’s descriptions in his <hi rend="i">Journal of
+Dreams, Spiritual Diary</hi>, and <hi rend="i">Conjugial Love</hi> (especially #103, 146). See also Magno and
+Erdman 158.</note>
+	<note id="n70"><hi rend="s">70</hi> Belcher, <hi rend="i">Intellectual</hi> 109.</note>
+	<note id="n71"><hi rend="s">71</hi> Ebenezer Sibly, <hi rend="i">The Dumb Made to Speak . . . or the Grand
+Arcanum of Adepts.</hi> Manuscript #4594 in Wellcome Institute of History of Medicine.</note></p>
+        <p>The radical Swedenborgians among the magnetizers struggled to publish Swedenborg’s more explicit
+writings on the methodology of the Cabalistic erotic trance, but their efforts were frustrated by a wave of
+counter-revolutionary prudery which developed at the turn of the century. By 1805, Fuseli complained about
+prudish objections to naked figures in art, and Thomas Hope feared that nude sculpture might have to be draped
+for exhibition.<supplied type="spacer"> </supplied><ref target="n72" type="note">72</ref> In this new
+pre-Victorian climate, the radical magnetizers went underground. The explicit Cabalistic drawings of Sibly and
+manuscripts of erotic rituals were never published; rather, they became the provenance of a secretive
+Rosicrucian network that gathered at occult bookstores and clandestine lodges in the early decades of the
+century.<supplied type="spacer"> </supplied><ref target="n73" type="note">73</ref> Cosway and Blake
+participated in this network, whose members stimulated a revival of Hebrew and Cabalistic studies, especially
+among a new generation of magnetizers.<supplied type="spacer"> </supplied><ref target="n74"
+type="note">74</ref>
+	<note id="n72"><hi rend="s">72</hi> Garlick and Macintyre, <hi rend="i">Diary</hi> 7: 2518-19.</note>
+	<note id="n73"><hi rend="s">73</hi> Sibly, <hi rend="i">Dumb; A Catalogue of Books and Manuscripts . . . on
+Astrology, Magic, and Alchymy, etc. . . . the Stock of John Denley</hi> (London, 1820).</note>
+	<note id="n74"><hi rend="s">74</hi> Schuchard, <hi rend="i">Freemasonry</hi> 476-505; and more extensively in
+<hi rend="i">Men of Desire.</hi></note></p>
+        <p>Bindman observes that on his return to London, “Blake’s rejection of the Classics is in the
+name of the Hebraic sublime.”<supplied type="spacer"> </supplied><ref target="n75" type="note">75</ref>n his
+renewed devotion to Hebrew studies, there may be a clue to the puzzling identity of “Frazer,” the third
+member of Blake’s healing trio. A “J” or “I” Frazer appears on Mainaduc’s list of pupils. He may
+be the artist, G. Fraser, who painted a striking portrait of Solomon Bennett, a talented Jewish
+engraver.<supplied type="spacer"> </supplied><ref target="n76" type="note">76</ref> Though nothing more is
+currently known of G. Fraser, the fact that Cosway was a patron of Bennett makes the possible linkage of Blake
+to Bennett (via Frazer and Cosway) worth pursuing. The question of Blake’s access to Hebrew and Cabalistic
+instruction, through published sources or personal contacts, continues to perplex scholars.<supplied
+type="spacer"> </supplied><ref target="n77" type="note">77</ref> Though the full context of Swedenborgian and
+Masonic connections with Jews in London needs extensive investigation, the immediate context of magnetism in
+1804-11 makes Solomon Bennett a plausible candidate for a role in Blake’s biography. Besides being an
+admirable artist and erudite man of letters, Bennett was the most accomplished Hebrew teacher in London.
+Moreover, the connection between magnetic healers and Jewish instructors is consistent with the experiences of
+Cosway and Baldwin among the Swedenborgians and students of Mainaduc. Dr. Isaac Benamore, a Jewish physician,
+was Mainaduc’s most successful disciple.<supplied type="spacer"> </supplied><ref target="n78"
+type="note">78</ref> Benamore was still practicing magnetic medicine, in collaboration with various
+Swedenborgians, in 1807. Curiously, though William Cowper turned down the Holloway’s offer of magnetic
+therapy, he had only praise for Benamore’s treatment of a friend.<supplied type="spacer"> </supplied><ref
+target="n79" type="note">79</ref>
+	<note id="n75"><hi rend="s">75</hi> David Bindman, <hi rend="i">Blake as an Artist</hi> (Oxford: Phaidon,
+1977) 141.</note>
+	<note id="n76"><hi rend="s">76</hi> Alfred Rubens, “Early Anglo-Jewish Artists,” 
+<hi rend="i">Transactions of Jewish Historical Society of England</hi> 14 (1935-39): 112-17. The initials to names
+on Mainaduc’s list are often inaccurate. Keynes speculated that Blake referred to Alexander Fraser, a minor
+painter (<hi rend="i">Blake: Complete Writings</hi>, ed. Geoffrey Keynes [Oxford UP, 1985] 911). But Fraser
+lived in Edinburgh until 1813, when he moved to London. Earlier, I speculated that Blake referred to Alexander
+Fraser, a Freemason and shorthand writer, who was also a friend of Bennett (Schuchard, 
+<hi rend="i">Freemasonry</hi> 478-80). The question remains open.</note>
+	<note id="n77"><hi rend="s">77</hi> Sheila Spector, “Kabbalistic Sources—Blake’s and his Critics’,”
+<hi rend="i">Blake/An Illustrated Quarterly</hi> 17 (1983-84): 84-99.</note>
+	<note id="n78"><hi rend="s">78</hi> Rainsford Papers, British Museum Add. Mss. 23,670,f.71; 
+<hi rend="i">Monthly Observer and New Church Record</hi> 3 (Jan.-Dec. 1859): 281. Benamore’s son was also a
+physician and student of Mainaduc.</note>
+	<note id="n79"><hi rend="s">79</hi> Cowper, <hi rend="i">Letters</hi> 3: 404.</note></p>
+        <p><hi rend="i">If</hi> Blake knew Solomon Bennett, through the medium of Cosway, Frazer, and their
+magnetizing friends, the two would have had much in common, as well as critical differences of religious
+opinion. Bennett (1761-1831) came from a Polish family in White Russia and seemed to have absorbed the
+peculiar, paradoxical mentality of the Sabbatian Jews of the period.<supplied type="spacer"> </supplied><ref
+target="n80" type="note">80</ref> In his home area, many Jews became Freemasons and aspired to assimilation
+with Christians. Bennett recorded “the unbounded veneration I feel for our present Nazarenes . . . from my
+infancy I was their admirer, and exerted myself to be their imitator.”<supplied type="spacer"> </supplied><ref target="n81" type="note">81</ref> In 1792 Bennett set out for Copenhagen, determined to pursue
+a career in the arts that was impossible at home. He evidently had some contact with the alchemical circle
+headed by Prince Charles of Hesse-Cassel, who attempted to unite Christians and Jews in a new Masonic rite of
+“Asiatic Brethren,” which synthesized Sabbatian Cabalism and Christian mysticism.<supplied type="spacer"> </supplied><ref target="n82" type="note">82</ref> It was in this Danish lodge that Blake’s idol Lavater, a
+veteran
+<pb id="p23-28" n="28"/>
+magnetizer, achieved the visionary spirit-communication that made him a convinced Rosicrucian.<supplied
+type="spacer"> </supplied><ref target="n83" type="note">83</ref>
+	<note id="n80"><hi rend="s">80</hi> Arthur Barnett, “Solomon Bennett, 1761-1838: Artist, Hebraist, and
+Controversialist,” <hi rend="i">Transactions of Jewish Historical Society of England</hi> 17 (1951-52):
+91-111.</note>
+	<note id="n81"><hi rend="s">81</hi> Solomon Bennett, <hi rend="i">The Constancy of Israel</hi>, 2nd. ed.
+(London: printed for the author and sold by him at No. 475, Strand, 1812) iv-v.</note>
+	<note id="n82"><hi rend="s">82</hi> Jacob Katz, <hi rend="i">Jews and Freemasons in Europe</hi> (Harvard UP,
+1970) 27-53.</note>
+	<note id="n83"><hi rend="s">83</hi> Antoine Faivre, <hi rend="i">Mystiques, Théosophes et Illuminés au
+Siècle des Lumières</hi> (New York: Georg Olms, 1976) 175-90. Fuseli owned Lavater’s <hi rend="i">Reise
+nach Copenhagen</hi> and was working on a biography of his friend in the early 1800s.</note></p>
+        <p>As Scholem observes, the “Asiatic Brethren” occupied a “no man’s land” between extreme
+tendencies of rationalism and mysticism, which it aspired to synthesize in a Christian-Cabalistic
+equilibrium.<supplied type="spacer"> </supplied><ref target="n84" type="note">84</ref> Bennett exemplified
+this paradoxical mentality, for he was a skeptical, scientific rationalist, who also studied Cabala and
+alchemy. His strikingly engraved portrait of Lorenz Werskoss, a seventeenth-century alchemist, was said to
+reflect “his own mystic nature.”<supplied type="spacer"> </supplied><ref target="n85" type="note">85</ref>
+Bennett was elected to the Danish Royal Academy of Art, a singular honor for a Jew at the time. Moving to
+Berlin in 1795, Bennett achieved acclaim as a portraitist and evidently mixed in high Jewish-Masonic
+circles.<supplied type="spacer"> </supplied><ref target="n86" type="note">86</ref> However, he chafed under
+Prussian anti-Semitism and, seeking a freer climate, he emigrated to London in November 1799. 
+<note id="n84"><hi rend="s">84</hi> Gershom Scholem, <hi rend="i">Du frankisme au jacobinisme</hi> (Paris:
+Gallimard, 1981) 28.</note>
+	<note id="n85"><hi rend="s">85</hi> S. Kirchstein, <hi rend="i">Juedische Graphiker</hi> (Berlin, 1918)
+20.</note>
+	<note id="n86"><hi rend="s">86</hi> Katz 27-53; Bennett, <hi rend="i">Constancy</hi> 224-25.</note></p>
+        <p>Relishing English liberties, Bennett boldly expressed his eclectic and colorful views, compounded
+of radical free-thinking and ardent spirituality. Soon rejected as a heretic by orthodox rabbis, whom he
+scorned as “insignificant reptiles,” he found supporters among gentile artists, literary men, and
+Freemasons.<supplied type="spacer"> </supplied><ref target="n87" type="note">87</ref> While studying
+voraciously, he eked out a living by engraving and giving Hebrew lessons. William Beechey, who helped Blake in
+1805, also helped Bennett that year, by allowing the poverty-stricken Jew to engrave his portrait of the
+Prince of Wales (Grand Master of the Freemasons).<supplied type="spacer"> </supplied><ref target="n88"
+type="note">88</ref> Bennett’s portrait of Shakespeare was used as the frontispiece to the 1807 Stockdale
+edition of <hi rend="i">Shakespeare’s Dramatic Works</hi> (the edition used by Coleridge for his
+marginalia).<supplied type="spacer"> </supplied><ref target="n89" type="note">89</ref> In 1808 Bennett boldly
+exhibited his own portrait of his hero, Napoleon, whom he praised in millenarial terms for emancipating the
+Jews and spreading tolerance throughout Europe.<supplied type="spacer"> </supplied><ref target="n90"
+type="note">90</ref>
+	<note id="n87"><hi rend="s">87</hi> Bennett, <hi rend="i">Constancy</hi> 216.</note>
+	<note id="n88"><hi rend="s">88</hi> G. E. Bentley, Jr., <hi rend="i">Blake Records</hi> (Oxford: Clarendon,
+1969) 165; Rubens, “Anglo-Jewish” 114.</note>
+	<note id="n89"><hi rend="s">89</hi> Bentley 17; British Museum Catalogue entry for Stockdale edition.</note>
+	<note id="n90"><hi rend="s">90</hi> Barnett 96; Bennett, <hi rend="i">Constancy</hi> 5, 228.</note></p>
+        <p>Bennett may have met Cosway and Frazer by this time, for they evidently supported his effort to
+publish <hi rend="i">The Constancy of Israel</hi> (1809), by “a native of Poland . . . professing the Arts
+in London.” Bennett stressed his appreciation for the artists who helped him publish, and Cosway owned the
+extremely rare first edition of the work.<supplied type="spacer"> </supplied><ref target="n91"
+type="note">91</ref> The frontispiece was Bennett’s engraving of his portrait by Fraser. As Kirchstein
+observes, Fraser’s portrayal reveals the whole history of Bennett: “In the eyes are a penetrating
+spirituality and a quiet pensive melancholy. You can read from his face all his wanderings and striving, all
+his intellectual and artistic powers, all his lone battle with life.”<supplied type="spacer"> </supplied><ref target="n92" type="note">92</ref> Bennett’s book was a learned defense of Judaism in the
+face of aggressive propaganda by the newly formed London Society for the Conversion of the Jews. Bennett heard
+in some chapels, “a crow from the pulpit, with a human voice,” who ignorantly attacked Jewish beliefs, and
+he scorned the “religious barterers” who “spy among the poor, illiterate, and distressed” Jews of
+Petticoat-lane and Frying-pan Alley.<supplied type="spacer"> </supplied><ref target="n93" type="note">93</ref>
+Cosway, who had long been a champion of the Jews, followed the conversionist controversy with interest and
+collected many of the treatises put forth by both radical and reactionary “philo-Semites.”<supplied
+type="spacer"> </supplied><ref target="n94" type="note">94</ref>
+	<note id="n91"><hi rend="s">91</hi> Handlist of Cosway’s library.</note>
+	<note id="n92"><hi rend="s">92</hi> Barnett 94.</note>
+	<note id="n93"><hi rend="s">93</hi> Bennett, <hi rend="i">Constancy</hi> 34, 206.</note>
+	<note id="n94"><hi rend="s">94</hi> Handlist of Cosway’s library.</note></p>
+        <p>Though Bennett welcomed Christian students and enjoyed debating with sincere readers of the Hebrew
+Bible, he resented those conversionist efforts that were based on ignorant linguistic analysis and
+anachronistic Christological interpretations. It may have been Cosway who was the “friend” who showed
+Bennett <hi rend="i">An Address to the Jews</hi> (1710), by John Xeres.<supplied type="spacer"> </supplied><ref target="n95" type="note">95</ref> Cosway owned a rare copy of the little known work, which
+described Xeres’ reasons for abandoning Judaism and embracing Christianity. Bennett then refuted Xeres’
+argument that the Cabalists’ notion of a plurality within God was the same as the Christians’
+Trinity.<supplied type="spacer"> </supplied><ref target="n96" type="note">96</ref> Blake, who was immersed in
+Hebrew studies and mystical illustrations of the Old Testament, made his own contribution to the conversionist
+controversy with his address “To the Jews” in <hi rend="i">Jerusalem.</hi> As Bogan notes, in Blake’s
+solution, “Hebrew Adam / English Albion joins the two seemingly disparate nations of England and Israel in a
+common patriarchal religion.”<supplied type="spacer"> </supplied><ref target="n97" type="note">97</ref> Even
+more suggestive of Blake’s conversionist preoccupation with the Jewish visionary tradition is the
+frontispiece to <hi rend="i">Jerusalem</hi>, in which the illuminator, Los, is dressed like a Hasidic rabbi or
+Polish Jew.<supplied type="spacer"> </supplied><ref target="n98" type="note">98</ref>
+	<note id="n95"><hi rend="s">95</hi> Bennett, <hi rend="i">Constancy</hi> 34, 206.</note>
+	<note id="n96"><hi rend="s">96</hi> Bennett, <hi rend="i">Constancy</hi> 105-06.</note>
+	<note id="n97"><hi rend="s">97</hi> E 171; J. M. Bogan, “Apocalypse Now: William Blake and the Conversion
+of the Jews,” <hi rend="i">English Language Notes</hi> 19 (1981): 117.</note>
+	<note id="n98"><hi rend="s">98</hi> See entry on “William Blake” in <hi rend="i">Encyclopedia
+Judaica.</hi></note></p>
+        <p>Cosway, Frazer, and their magnetizing friends may have sought out Bennett because of his expertise
+in Cabala, for the Jewish mystical traditions of the microcosmic Grand Man underlay the psychic physiology of
+animal magnetism. Bennett described his studies in published and manuscript works on “Kabala or Magic, which
+are merely extracts from the Hebrew.”<supplied type="spacer"> </supplied><ref target="n99"
+type="note">99</ref> He discusses the Cabalists’ seven names for <hi rend="i">Alohim</hi>, but then urges
+that we must “proceed to a more sublime idea of this noble creation of the Microcosm,” for Man’s
+“qualities material and spiritual” are the “sublime of all Creations.”<supplied type="spacer"> </supplied><ref target="n100" type="note">100</ref> In Blake’s address “To the Jews,” he stresses this
+Cabalistic concept: “You have a tradition, that Man anciently containd in his mighty limbs all things in
+Heaven &amp; Earth” (E 171). Unlike Blake, Cosway, and Baldwin, however, Bennett was determined to maintain
+a scientific and rational view of the Cabalistic microcosm. He scorned the revivers of occult notions of
+spirits:
+<q>
+The prophane doctrines of invisible beings who act on mankind, faith in sorcerers, visionaries, dreamers, etc.
+which had been but too successful on the human mind are now exploded, except in the brains of some chimerical
+individuals, or hypocrites, to dazzle the lowest class of humanity.<supplied type="spacer"> </supplied><ref
+target="n101" type="note">101</ref></q>
+	<note id="n99"><hi rend="s">99</hi> Bennett, <hi rend="i">Constancy</hi> 200.</note>
+	<note id="n100"><hi rend="s">100</hi> Bennett, <hi rend="i">Constancy</hi> 106-09.</note>
+	<note id="n101"><hi rend="s">101</hi> Bennett, <hi rend="i">Constancy</hi> 77.</note></p>
+        <p>For Blake, who was enthusiastically describing in <hi rend="i">Milton</hi> his celestial journeys
+among the Rosicrucian-style “Fairies, Nymphs, Gnomes, and Genii of the Four Elements,” Bennett’s scorn
+would have stung. Moreover,
+<pb id="p23-29" n="29"/>
+Blake’s defense of a “Professor of Sidereal Science” (an astrologer), who was arrested and “the
+cabalistical chattels of his profession” confiscated, would undoubtedly have been ridiculed by Bennett as
+the product of a low-class, chimerical brain.<supplied type="spacer"> </supplied><ref target="n102"
+type="note">102</ref> Cosway, however, may have understood Bennett’s desire to distance himself in print
+from spirit-communicators and magnetizers. Cosway acquired <hi rend="i">The Supernatural Magazine</hi>
+(Dublin, 1809), in which a critic charged that animal magnetism was a diabolical, anti-Christian practice,
+imported from France, which had insidious links with the naturalization of the Jews and the
+Revolution.<supplied type="spacer"> </supplied><ref target="n103" type="note">103</ref> The same magazine
+noted that a recent book described the current revival of Rosicrucianism in London, out of the ashes of
+Egyptian Masonry, Illuminism, and the New Jerusalem Church.<supplied type="spacer"> </supplied><ref
+target="n104" type="note">104</ref> Bennett may have become disillusioned with those of his Masonic friends
+whose interest in Cabalism led them into Rosicrucianism, for, as the radical republican Richard Carlile later
+charged, “the drift . . . of these Rosicrucian degrees, is to make Masonry begin in Judaism and end in
+Christianity.”<supplied type="spacer"> </supplied><ref target="n105" type="note">105</ref> Certainly, Blake
+seemed to share that “drift,” for he challenged the Jews that “If your tradition that Man contained in
+his Limbs, all Animals, is True,” then you should “Take up the Cross O Israel, &amp; follow Jesus” (E
+174). <note id="n102"><hi rend="s">102</hi> E 769; “Police . . . Astrology,” <hi rend="i">Oracle and True
+Briton</hi> (13 Oct. 1807).</note>
+	<note id="n103"><hi rend="s">103</hi><hi rend="i"> The Supernatural Magazine</hi> (Dublin, 1809) 7-9.</note>
+	<note id="n104"><hi rend="s">104</hi><hi rend="i"> The Supernatural Magazine</hi> 67-71.</note>
+	<note id="n105"><hi rend="s">105</hi> Richard Carlile, ed., <hi rend="i">The Republican</hi>, 12 (1825): 469.
+Bennett became the close friend of the Duke of Sussex, who, as Grand Master from 1813 on, struggled to
+maintain Jewish rights within Freemasonry and to suppress the exclusively Christian Rosicrucian
+degrees.</note></p>
+        <p>Frustrated that Cabalism was being turned into “ill digested opinions” by conversionists and
+Rosicrucians, Bennett determined to reclaim the Temple of Ezekiel from the Christian visionaries and dreamers
+and to root it solidly in actual Jewish history. In February 1811, he announced a new work on the rebuilding
+of the Temple of Ezekiel, with an explanation of the Jews’ “newly reformed <hi rend="i">democratical</hi>
+or rather theocratical government”:
+<q>
+Although the explanation of the visionary Temple of Ezekiel upon scientific principles may be objectionable to
+some orthodox Jews or Christians, who prefer the mystical to the rational, especially in scriptural matters,
+yet I think . . . the prophets (independently of their divine inspiration) were able politicians and men of
+science.<supplied type="spacer"> </supplied><ref target="n106" type="note">106</ref>
+	<note id="n106"><hi rend="s">106</hi> Solomon Bennett, <hi rend="i">The Temple of Ezekiel</hi> (London, 1824)
+151.</note></q>
+Bennett had prepared for the work a large, fold-out engraving of the Temple of Ezekiel which was considered a
+“masterpiece of imagination and technique,” showing his “sound knowledge of architectural
+draftsmanship.”<supplied type="spacer"> </supplied><ref target="n107" type="note">107</ref> It is possible
+that Blake’s preoccupation with the architectural design of Ezekiel’s Temple in 
+<hi rend="i">Jerusalem</hi> was stimulated by conversations or arguments with Bennett.<supplied type="spacer"> </supplied><ref target="n108" type="note">108</ref> Told by a Christian printer that “It is our duty to
+suppress everything relating to Hebrew literature,” Bennett turned to his artistic and Masonic friends for
+help.<supplied type="spacer"> </supplied><ref target="n109" type="note">109</ref> Three current friends or
+patrons of Blake—William Frend, Prince Hoare, and Earl Spencer—subscribed to the project.<supplied
+type="spacer"> </supplied><ref target="n110" type="note">110</ref> Another subscriber, the sculptor John
+Henning, utilized Bennett’s Hebrew instruction to further his own investigations into alchemy, astrology,
+and geomancy (studies Henning shared with John Varley, soon to become Blake’s intimate friend).<supplied
+type="spacer"> </supplied><ref target="n111" type="note">111</ref> Unfortunately, orthodox opposition (both
+Jewish and Christian) delayed publication of <hi rend="i">The Temple of Ezekiel</hi> until 1824. As Blake
+became more vociferous in his British Israelism, Bennett became more vehement in his Jewish Israelism. Both
+men became isolated in their own communities. <note id="n107"><hi rend="s">107</hi> Barnett 96.</note>
+	<note id="n108"><hi rend="s">108</hi> See Morton D. Paley, “‘Wonderful Originals’—Blake and Ancient
+Sculpture,” in <hi rend="i">Blake in His Time</hi>, eds. R. N. Essick and D. Pearce (Indiana UP, 1978)
+183-92.</note>
+	<note id="n109"><hi rend="s">109</hi> Bennett, <hi rend="i">Temple</hi> 5.</note>
+	<note id="n110"><hi rend="s">110</hi> Bentley 273, 136, 232.</note>
+	<note id="n111"><hi rend="s">111</hi> William Bell Scott, <hi rend="i">Autobiographical Notes</hi>, 2 vols.
+(New York: Harper’s, 1892) 1:115-20.</note></p>
+        <p>Though the withdrawal of Cosway, Baldwin, and Frazer from Blake may have also signaled the
+withdrawal of Bennett from their circle, Blake’s break with his magnetizing friends may have been temporary.
+In fact, his suspicious and hostile reaction was possibly caused by overindulgence in Cabalistic-magnetic
+experiments. Cabalistic texts and Swedenborg’s writings are full of warnings about the dangers of mental
+derangement that threaten the intense meditator upon magical arcana.<supplied type="spacer"> </supplied><ref
+target="n112" type="note">112</ref> Podmore discusses the paranoia that often accompanied excessive attempts
+at magnetic trances.<supplied type="spacer"> </supplied><ref target="n113" type="note">113</ref> The
+conviction of persecution by distant enemies, operating by Mesmerism or telepathy, occurred frequently among
+the magnetizers of the nineteenth century. Though such paranoia is one of “the commonest delusions of
+incipient insanity,” many sane persons who dabble in psychic trances “have not escaped the contagion of
+this panic fear.” In 1806 Blake accused Stothard of effacing his drawing of the Canterbury Pilgrims by means
+of a “malignant spell.”<supplied type="spacer"> </supplied><ref target="n114" type="note">114</ref> He
+railed against the plots of his steady supporters Hayley and Flaxman. The tolerant George Cumberland noted
+that he seemed “crack’d” and “dimm’d with superstition,” while Robert Southey pitied his obvious
+madness.<supplied type="spacer"> </supplied><ref target="n115" type="note">115</ref> Curiously, Seymour Kirkup
+also diagnosed Blake as insane, a verdict Kirkup later retracted when he became an animal magnetizer.<supplied
+type="spacer"> </supplied><ref target="n116" type="note">116</ref> Bentley points out that between 1807 and
+1812, Blake seemed to lose his firm grasp of the nature and limits of reality:
+<q>
+He sometimes seems to have thought of the spiritual world as supplanting rather than supplementing the
+ordinary world of causality. More and more frequently the spirits seem to have been controlling Blake rather
+than merely advising him.<supplied type="spacer"> </supplied><ref target="n117" type="note">117</ref></q>
+	<note id="n112"><hi rend="s">112</hi> Sheila Spector, <hi rend="i">Jewish Mysticism</hi> (New York: Garland,
+1984) xi; Swedenborg’s <hi rend="i">Journal of Dreams</hi> and <hi rend="i">Spiritual Diary
+passim.</hi></note>
+	<note id="n113"><hi rend="s">113</hi> Frank Podmore, <hi rend="i">From Mesmer to Christian Science</hi> (New
+York: University Books, 1963) 258.</note>
+	<note id="n114"><hi rend="s">114</hi> Bentley 180.</note>
+	<note id="n115"><hi rend="s">115</hi> Bentley 229, 236.</note>
+	<note id="n116"><hi rend="s">116</hi> W. M. Rossetti, <hi rend="i">Rossetti Papers</hi> (London, 1903)
+171-72.</note>
+	<note id="n117"><hi rend="s">117</hi> Bentley 180.</note></p>
+        <p>Blake’s insistence that animal magnetism include exorcism—“he casts out devils”—may have
+smacked of magical megalomania to his friends. However, his plight would have been well understood by Benedict
+Chastanier, the former “powerful assistant” to Mainaduc. After playing a lead role in disseminating animal
+magnetism, Chastanier “at last found out its evil tendency, and like an honest man first abandoned the
+practice and next exposed it.”<supplied type="spacer"> </supplied><ref target="n118" type="note">118</ref>
+Still friendly with Cosway in the early 1800s, Chastanier may have influenced Cosway’s withdrawal from
+Blake’s essentially magical practice.<supplied type="spacer"> </supplied><ref target="n119"
+type="note">119</ref> As Chastanier explained in 1795, animal magnetism was
+<pb id="p23-30" n="30"/>
+          <figure n="Temple.bqscan" rend="file" width="600" height="428">
+	<head>“The Temple of Ezekiel.”</head>
+	<figDesc>Engraving, 26½ × 20½ inches. Designed by Bennett in the 1790s, engraved c. 1809-10, and published
+in 1824 in Bennett’s book of the same title.</figDesc>
+</figure>
+certainly a real and powerful science, which only increased its spiritual dangers:
+<q>
+. . . the very great danger there is for a man to meddle with any Science that openeth to them a freer
+communication with the world of Spirits, than that they naturally are to have; for as every man is by nature
+attached to his own peculiar evil, (and there is no Man, nor even any Angel, also free from evil,) the Spirits
+with whom he may thus communicate, can but confirm him more and more into that evil, peculiarly annexed to his
+own nature, and thus become an insur-mountable bar to his Regeneration.<supplied type="spacer"> </supplied><ref target="n120" type="note">120</ref></q>
+	<note id="n118"><hi rend="s">118</hi> William Spence, <hi rend="i">Essays in Divinity and Physic</hi>
+(London: Robert Hindmarsh, 1792) 58.</note>
+	<note id="n119"><hi rend="s">119</hi> Rainsford Papers, British Museum Add. Mss. 23, 670, vol.
+2.f.275.</note>
+	<note id="n120"><hi rend="s">120</hi> Chastanier 31.</note></p>
+        <p>Despite the timidity or genuine worry of his magnetizing friends, Blake was committed to his
+“perilous adventure,” regardless of political, erotic, or psychic dangers. Though he would be driven to
+note, “Jan<hi rend="s">ry</hi>. 20. 1807 between Two &amp; Seven in the Evening—Despair,” he could also
+boast in happier times, “excuse my enthusiasm or rather madness, for I am really drunk with intellectual
+vision” (E 733, 694, 757).</p>
+      </div1>
+	<pb id="p23-31-32" n="31-32" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>41.4.paley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="correction">Correction to “The Last Judgment by ‘B. Blake’”</title>
+                <author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 2008</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">41.4</biblScope>
+                        <biblScope unit="volume">41</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Sarah Jones</name>
+                            <resp>Bibliographer</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <resp>Review Editor</resp>
+                            <name>Alexander S. Gourlay</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>David Worrall</name>
+                            <resp>Advisory Board</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Martin Butlin</name>
+                            <name>D.W. Dörrbecker</name>
+                            <name>Robert N. Essick</name>
+                            <name>Angela Esterhammer</name>
+                            <name>Nelson Hilton</name>
+                            <name>Anne K. Mellor</name>
+                            <name>Joseph Viscomi</name>
+                            <name>David Worrall</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Anne K. Mellor</name>
+                            <name>Grant F. Scott</name>
+                            <name>Aileen Ward</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of Rochester</publisher>
+                        <pubPlace>Rochester, NY, USA</pubPlace>
+                        <date value="2008"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_41">
+        <body>
+			<pb id="p41-163" n="163"/>
+            <div1 id="BQ-41-4-0007">
+                <head>
+                    <title type="section">CORRIGENDUM</title>
+                </head>
+                <p>In my note on Benjamin Blake, the landscape artist whom the Royal Academy exhibition
+catalogue of 1808 mistakenly credits with <hi rend="i">The Vision of the Last Judgment</hi> 
+(<hi rend="i">Blake</hi> 41.3 [winter 2007-08]: 135), I wrote that this mistake has been silently corrected by
+scholars. G. E. Bentley, Jr., notes that it is explicitly corrected in his <hi rend="i">Blake Records</hi>,
+2nd ed., 250fn. —</p>
+                <byline>
+                    <docAuthor>Morton D. <name>Paley</name>
+                    </docAuthor>
+                </byline>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

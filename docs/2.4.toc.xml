@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <front id="issue_04">
+            <pb id="p02-59" n="59"/>
+            <div1 id="cover">
+                <figure n="cover.002.04.bqscan" rend="file" width="258" height="332">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Volume II, Number 4<lb/>
+                        Whole #8<lb/>
+                        April 1, 1969<lb/>
+                        The larger part of this issue consists of Gerald E. Bentley, Jr.’s<lb/>
+                        supplement to the <hi rend="i">Blake Bibliography</hi> of 1964.  We thought it would
+                        be more<lb/>
+                        convenient for readers to have this material collated separately, and so this<lb/>
+                        issue of the <hi rend="i"><hi rend="b">Newsletter</hi></hi> comes in two parts.  We
+                        welcome further additions from<lb/>
+                        readers; these will be published in the summer issue.<lb/>
+                        Our next issue will also include the annual checklist of Blake scholarship.<lb/>
+                        Although we don’t expect to find every item published from June ’68 to May
+                        ’69,<lb/>
+                        we would obviously like to make the checklist as comprehensive as we can.<lb/>
+                        Readers can be of great help in this, by reporting articles and reviews which<lb/>
+                        may not have come to our attention.<lb/>
+                        <hi rend="i">Contents</hi><lb/>
+                        <hi rend="i">News</hi><lb/>
+                        60-61<lb/>
+                        <hi rend="i">Notes</hi><lb/>
+                        “Blake’s Debt to Pope<supplied>”</supplied> by Michael J. Tolley;<lb/>
+                        “Sterne and Blake” by G.E. Bentley, Jr.;<lb/>
+                        “Thomas Johnes, ‘Ancient Guardian or Wales’.”<lb/>
+                        by M.D. Paley; “Every Thing Has Its Vermin”<lb/>
+                        by David V. Erdman<lb/>
+                        62-68<lb/>
+                        <hi rend="i">Reviews</hi>  John Beer: <hi rend="i">Blake’s Humanism</hi>, by Patrick
+                        J.<lb/>
+                        Callahan; Sir Geoffrey Keynes: <hi rend="i">The Letters</hi><lb/>
+                        <hi rend="i">of William Blake</hi>, by W.E. Stevenson<lb/>
+                        69-72<lb/>
+                        <hi rend="i">Queries</hi>  “Milton 29: A Retort to William Frend?” by<lb/>
+                        John Adlard; <hi rend="i">Blake’s London</hi> by Paul Miner;<lb/>
+                        “A Fugitive or Apocryphal Blake Engraving”<lb/>
+                        by G.E. Bentley, Jr.<lb/>
+                        73-74<lb/>
+                        <hi rend="i">Bibliographical Supplement</hi> by G.E. Bentley, Jr.<lb/>
+                        Supplement 1-29<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English,<lb/>
+                        University of California, Berkeley, California, 94720.  Subscription price:<lb/>
+                        $2.00 for one year; overseas subscribers who wish delivery by air, please add<lb/>
+                        one dollar.  Please make checks or money orders payable to Morton D. Paley.<lb/>
+                        Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by air)<lb/>
+                        if the money order is <hi rend="u">open</hi> and uncrossed.<lb/>
+                        Copyright 1969 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-02-4-0001">
+				<div2>
+					<table id="contents" rows="5" cols="4">
+						<row>
+							<cell colspan="2">
+								<head>
+									<title>
+										<hi rend="i">Contents</hi>
+									</title>
+								</head>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">News</hi>
+							</cell>
+							<cell><supplied type="emend">“<ref type="article" issue="2.4.warner">MLA: Seminar 55</ref>”<lb/>
+							by Janet A. Warner</supplied></cell>
+							<cell>60-61</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend">“<ref type="article" issue="2.4.news">Editions of 
+							<hi rend="i">Illustrations to the Divine Comedy</hi> and Swinburne’s <hi rend="i">William Blake</hi>, 
+							MLA Annual Meeting location</ref>”</supplied></cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Notes</hi>
+							</cell>
+							<cell>“<ref type="article" issue="2.4.tolley">Blake’s Debt to Pope</ref><supplied type="emend">”</supplied><lb/>
+							by Michael J. Tolley</cell>
+							<cell>62-68</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="2.4.bentley">Sterne and Blake</ref>”<lb/>
+							by G.E. Bentley, Jr.</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="2.4.paley">Thomas Johnes, ‘Ancient Guardian of Wales’</ref>”<lb/>
+							by M.D. Paley</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="2.4.erdman">Every Thing Has Its Vermin</ref>”<lb/>
+							by David V. Erdman</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<supplied type="emend"><hi rend="i">Minute Particulars</hi></supplied>
+							</cell>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="2.4.parris">‘Blake’s Last 
+							Picture’</ref>”<lb/>
+							by Leslie Parris</supplied></cell>
+							<cell><supplied type="emend" rend="plain">68</supplied></cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="2.4.allentuck">Lady Cynthia
+							Asquith at a Blake Sale</ref>”<lb/>
+							by Marcia Allentuck</supplied></cell>
+							<cell><supplied type="emend" rend="plain">72</supplied></cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="2.4.night">Correction regarding
+							Young’s Night Thoughts, copy N</ref>”<lb/>
+							by G.E. Bentley, Jr.</supplied></cell>
+							<cell><supplied type="emend" rend="plain">72</supplied></cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="2.4.witke">Suggested textual
+							emendation to Jerusalem, 43:28</ref>”<lb/>
+							by Joanne Witke</supplied></cell>
+							<cell><supplied type="emend" rend="plain">72</supplied></cell>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Reviews</hi>
+							</cell>
+							<cell><ref type="article" issue="2.4.callahan">John Beer: <hi rend="i">Blake’s
+							Humanism</hi></ref>,<lb/>
+							by Patrick J. Callahan</cell>
+							<cell>69-72</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><ref type="article" issue="2.4.stevenson">Sir Geoffrey Keynes: <hi rend="i">The Letters of
+							William Blake</hi></ref>,<lb/>
+							by <corr type="emend">W.H. Stevenson</corr></cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Queries</hi>
+							</cell>
+							<cell>“<ref type="article" issue="2.4.adlard">Milton 29: A Retort to William Frend?</ref>”<lb/>
+							by John Adlard</cell>
+							<cell>73-74</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><ref type="article" issue="2.4.miner"><hi rend="i">Blake’s London</hi></ref><lb/>
+							by Paul Miner</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="2.4.fugitive">A Fugitive or Apocryphal Blake Engraving</ref>”<lb/>
+							by G.E. Bentley, Jr.</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell><corr type="emend">Supplement</corr></cell>
+							<cell>
+								<ref type="article" issue="2.4b.bentley"><hi rend="i">Bibliographical Supplement</hi></ref><lb/>
+								by G.E. Bentley, Jr.
+							</cell>
+							<cell>1-29</cell>
+							<cell/>
+						</row>
+					</table>
+				</div2>
+				<div2>
+					<corr type="emend" rend="plain">
+						<p>The larger part of this issue consists of Gerald E. Bentley, Jr.’s supplement to the 
+<hi rend="i">Blake Bibliography</hi> of 1964. We thought it would be more convenient for readers to have this
+material collated separately, and so this issue of the <hi rend="i">Newsletter</hi> comes in two parts. We
+welcome further additions from readers; these will be published in the summer issue.</p>
+						<p><corr type="emend">Our next issue will also include the annual checklist of Blake scholarship.
+Although we don’t expect to find every item published from June ’68 to May ’69, we would obviously like
+to make the checklist as comprehensive as we can. Readers can be of great help in this, by reporting articles
+and reviews which may not have come to our attention.</corr></p>
+					</corr>
+				</div2>
+				<div2>
+					<note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of
+English, University of California, Berkeley, California, 94720. Subscription price: $2.00 for one year;
+overseas <corr type="emend">subscribers</corr> who wish delivery by air, please add one dollar. Please make checks or money orders
+payable to Morton D. Paley. Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by air) if
+the money order is <hi rend="u">open</hi> and uncrossed.</note>
+					<note type="unreferenced" place="footer">Copyright 1969 by Morton D. Paley</note>
+				</div2>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

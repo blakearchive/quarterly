@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>43.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2009</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">43.2</biblScope>
+            <biblScope unit="volume">43</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2009"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_43">
+    <front id="issue_02">
+      <pb id="p43-49-50" n="49-50"/>
+      <div1 id="cover">
+        <figure n="cover.043.02.bqscan" rend="file" width="258" height="342">
+          <figTranscr>BLAKE<lb/>
+          AN ILLUSTRATED QUARTERLY<lb/>
+            Céline Mansanti on Blake in <hi rend="i">transition</hi><lb/>
+          VOLUME 43<lb/>
+          NUMBER 2<lb/>
+          FALL 2009</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-43-2-0001">
+        <table id="contents" cols="2" rows="15">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.mansanti">William Blake in <hi rend="i">transition</hi>
+Magazine (Paris, 1927-38): The Modalities of a Blake Revival in France during the 1920s and 1930s</ref><lb/>
+              <hi rend="i">By Céline Mansanti</hi></cell>
+            <cell>
+              <hi rend="i">52</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.scott">William Blake (1757-1827): The Visionary Genius of
+British Romanticism. Petit Palais, 2 April-28 June 2009</ref><lb/>
+              <hi rend="i">Reviewed by Grant F. Scott</hi></cell>
+            <cell>
+              <hi rend="i">61</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.gourlay">Martin Myrone, <hi rend="i">The Blake
+Book</hi></ref><lb/>
+            <hi rend="i">Reviewed by Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">64</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.kinser">Kevin Hutchings, <hi rend="i">Songs of William
+Blake</hi> [CD]</ref><lb/>
+            <hi rend="i">Reviewed by Brent E. Kinser</hi></cell>
+            <cell>
+              <hi rend="i">65</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.behrendt">William L. Pressly, <hi rend="i">The Artist as
+Original Genius</hi></ref><lb/>
+              <hi rend="i">Reviewed by Stephen C. Behrendt</hi>
+            </cell>
+            <cell>
+              <hi rend="i">66</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.lincoln">Robert Rix, <hi rend="i">William Blake and the
+Cultures of Radical Christianity</hi></ref><lb/>
+            <hi rend="i">Reviewed by Andrew Lincoln</hi></cell>
+            <cell>
+              <hi rend="i">69</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.ripley">Printed References to and Known Prices of Blake’s
+<hi rend="i">Night Thoughts</hi>, 1796-1826</ref><lb/>
+            <hi rend="i">By Wayne C. Ripley</hi></cell>
+            <cell>
+              <hi rend="i">72</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.miner">A Possible Sketch of Blake’s Napoleon</ref><lb/>
+            <hi rend="i">By Paul Miner</hi></cell>
+            <cell>76</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.whitehead">A Further Reference to William Blake in the
+Letters of Charlotte Smith</ref><lb/>
+            <hi rend="i">By Angus Whitehead</hi></cell>
+            <cell>78</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Poem</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="43.2.grotz">The Ladder</ref><lb/>
+            <hi rend="i">By Jennifer Grotz</hi></cell>
+            <cell>79</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-43-1-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p43-51" n="51"/>
+      <div1 id="BQ-43-2-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Céline Mansanti (cmansanti@gmail.com) teaches American literature and history at the Université
+de Picardie Jules Verne (France). She is the author of <hi rend="i">La revue</hi> transition 
+<hi rend="i">(1927-1938)</hi>, <hi rend="i">le modernisme historique en devenir</hi> (2009).</p>
+        <p>Grant F. Scott is professor of English at Muhlenberg College in Pennsylvania and author of 
+<hi rend="i">The Sculpted Word: Keats, Ekphrasis, and the Visual Arts</hi> (1994). He is also the editor of 
+<hi rend="i">Selected Letters of John Keats</hi> (2002) and <hi rend="i">Joseph Severn: Letters and Memoirs</hi>
+(2005). Last year he and his students curated Wings of Fire: The Illuminated Books of William Blake at the
+Martin Art Gallery at Muhlenberg, an exhibition which was reviewed in the winter 2008-09 issue of 
+<hi rend="i">Blake</hi>.</p>
+        <p>Alexander Gourlay teaches at the Rhode Island School of Design.</p>
+        <p>Brent E. Kinser is assistant professor of English at Western Carolina University, an editor of 
+<hi rend="i">The Collected Letters of Thomas and Jane Welsh Carlyle, Carlyle Letters Online</hi>
+&lt;http://www.carlyleletters.org>, and <hi rend="i">Carlyle Studies Annual</hi>. His (mis) spent youth,
+however, was devoted to music. At the age of thirteen, he was honored by the Society to Preserve Bluegrass
+Music in America as “the most promising banjo player,” and later, until 1997, he pursued a career in
+Orlando, Florida.</p>
+        <p>Stephen C. Behrendt is George Holmes Distinguished University Professor of English at the
+University of Nebraska. His most recent book is <hi rend="i">British Women Poets and the Romantic Writing
+Community</hi> (2009).</p>
+        <p>Andrew Lincoln teaches in the English Department at Queen Mary, University of London. He is
+currently working on the culture of war in eighteenth-century Britain.</p>
+        <p>Wayne C. Ripley (wripley@winona.edu) is an assistant professor of English at Winona State
+University.</p>
+        <p>Paul Miner (paulminer@cableone.net) has published more than twenty articles on William Blake, and
+is in the process of finishing his book-length study on the poet-artist, <hi rend="i">The Bard’s Prophetic
+Song</hi>.</p>
+        <p>Angus Whitehead (richard.whitehead@nie.edu.sg) is assistant professor of English literature at the
+National Institute of Education, Nanyang Technological University, Singapore. He is currently preparing a
+monograph exploring the later years (1803-31) of William and Catherine Blake.</p>
+        <p>Jennifer Grotz teaches at the University of Rochester and is the author of <hi rend="i">Cusp</hi>
+(2003).</p>
+      </div1>
+      <div1 id="BQ-43-2-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu<lb/>
+ TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College Street,
+Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-43-2-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+        <p>International Standard Serial Number: 0160-628x.</p>
+        <p>© 2009 Copyright Morris Eaves and Morton D. Paley</p>
+        <p>Cover: “Revolution of the Word” manifesto, <hi rend="i">transition</hi> 16-17 (June 1929):
+[13].</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

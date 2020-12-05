@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>19.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1985/1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1985-86</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">19.3</biblScope>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Dan Bell</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Max Byrd</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>Anne K. Mellor</name>
+              <name>Stuart Peterfreund</name>
+              <name>David Simpson</name>
+              <name>Allen Staley</name>
+              <name>David Wagenknecht</name>
+              <name>Nicholas Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1985/1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_19">
+    <front>
+      <pb id="p19-93-94" n="93-94"/>
+      <div1 id="cover">
+        <figure n="cover.019.03.bqscan" rend="file" width="258" height="341">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 19<lb/>
+            NUMBER 3<lb/>
+            WINTER 1985-86</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-19-3-0001">
+        <table id="contents" rows="14" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.essick">Blake’s <hi rend="i">Job:</hi> Some Unrecorded
+Proofs and Their Inscriptions</ref> by Robert N. Essick</cell>
+            <cell>96</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.bentley">Thomas Sivright and the Lost Designs for Blair’s
+<hi rend="i">Grave</hi></ref> by G. E. Bentley, Jr.</cell>
+            <cell>103</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.simpson">Steven E. Alford, <hi rend="i">Irony and the Logic
+of the Romantic Imagination</hi></ref>, reviewed by David Simpson</cell>
+            <cell>106</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.johnson">Leonard W. Deen, <hi rend="i">Conversing in
+Paradise: Poetic Genius and Identity-as-Community in Blake’s Los</hi></ref>, reviewed by Mary Lynn
+Johnson</cell>
+            <cell>107</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.byrd">Richard B. Schwartz, <hi rend="i">Daily Life in
+Johnson’s London</hi></ref>, reviewed by Max Byrd</cell>
+            <cell>110</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.mellor">Richard Wendorf, ed., <hi rend="i">Articulate
+Images—The Sister Arts from Hogarth to Tennyson</hi></ref>, reviewed by Anne K. Mellor</cell>
+            <cell>112</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.peterfreund">Stewart Crehan, <hi rend="i">Blake in
+Context</hi></ref>, reviewed by Stuart Peterfreund</cell>
+            <cell>113</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.warner">G. Ingli James, ed., Blake’s 
+<hi rend="i">Annotations to Richard Watson</hi></ref>, reviewed by Nicholas O. Warner</cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.wagenknecht">Nelson Hilton, <hi rend="i">Literal
+Imagination: Blake’s Vision of Words</hi></ref>, reviewed by David Wagenknecht</cell>
+            <cell>117</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.staley">Nancy L. Pressly, <hi rend="i">Revealed Religion:
+Benjamin West’s Commissions for Windsor Castle and Fonthill Abbey</hi></ref>, reviewed by Allen
+Staley</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">POETRY</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.3.bell">“The [First] Book of Blake,”</ref> a parody by Dan
+Bell</cell>
+            <cell>122</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-19-3-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">DAN BELL</hi> has taught college-level literature and composition courses for the past
+twelve years. He is currently an instructor at Louisiana State University. His work has appeared in 
+<hi rend="i">The Governor’s State Review, The Andalusia Star News</hi>, and <hi rend="i">Pathways.</hi></p>
+        <p><hi rend="b">G.E. BENTLEY, JR.</hi>, of the University of Toronto is currently writing essays on
+William Blake, Musician and on Blake’s lost painting, “The Ancient Britons.” He is a frequent
+contributor to <hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">MAX BYRD</hi> is Professor of English at the University of California, Davis. His most
+recent book is the volume on <hi rend="i">Tristram Shandy</hi> in the Allen &amp; Unwin Critical Library.</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi>, Professor of English at the University of California,
+Riverside, has been spending a good deal of time searching for <hi rend="i">Job</hi> proofs—as his article
+in this issue demonstrates.</p>
+        <p><hi rend="b">MARY LYNN JOHNSON</hi>, assistant to the president of the University of Iowa, is
+co-editor of <hi rend="i">Blake’s Poetry and Designs</hi> and co-author of <hi rend="i">Blake’s “Four
+Zoas”: The Design of a Dream.</hi> Her chapter, “Blake,” appears in the fourth edition of 
+<hi rend="i">The English Romantic Poets: A Review of Research and Criticism</hi> (forthcoming).</p>
+        <p><hi rend="b">ANNE K. MELLOR</hi>, Professor of English at the University of California, Los
+Angeles, is currently writing a study of the fiction of Mary Shelley. She is the author of 
+<hi rend="i">Blake’s Human Form Divine, English Romantic Irony</hi>, and several articles on Blake, the Sister
+Arts, English romanticism and feminist theory.</p>
+        <p><hi rend="b">STUART PETERFREUND</hi>, Associate Professor of English at Northeastern University, is
+the editor of <hi rend="i">Romanticism Past and Present</hi> and has published widely in the areas of
+literature and science and English romanticism. An article on Blake’s <hi rend="i">Poetical Sketches</hi> is
+forthcoming in <hi rend="i">ELH</hi>, and one on Blake and anti-Newtonian thought is forthcoming in the
+Proceedings of the 1983 LIU conference on Literature, Science, and Technology.</p>
+        <p><hi rend="b">DAVID SIMPSON</hi>, Professor of English at the University of Colorado, Boulder, is
+the author of various books and articles on romanticism. His <hi rend="i">The Politics of American English,
+1776-1850</hi> will appear in early 1986.</p>
+        <p><hi rend="b">ALLEN STALEY</hi> is Professor of Art History at Columbia University. 
+<note type="unreferenced" place="footer">© 1986 Morris Eaves and Morton D. Paley</note></p>
+        <pb id="p19-95" n="95"/>
+        <p>DAVID WAGENKNECHT is the editor of <hi rend="i">Studies in Romanticism.</hi></p>
+        <p>NICHOLAS WARNER, Assistant Professor of English and Comparative Literature at Claremont McKenna
+College, has published articles on Blake in this and other journals.</p>
+      </div1>
+      <div1 id="BQ-19-3-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210. Nelson
+Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+        <figure n="LaocoonDetail.19.3.bqscan" rend="file" width="250" height="183"></figure>
+      </div1>
+      <div1 id="BQ-19-3-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is indexed in the Modern Language Associations International Bibliography, the
+Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, ART bibliographies MODERN, American
+Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <figure n="LaocoonDetail2.19.3.bqscan" rend="file" width="250" height="138"></figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

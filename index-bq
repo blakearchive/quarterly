@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# CONSTANTS
+SOLRSERVER="fargo"
+
+if [ "$1" == "help" -o "$1" == "prod" -o "$1" == "dev" ]; then
+  case $1 in
+    "help")
+      echo "index-bq <stage> <filetype> \n<stage> == 'prod' or 'dev'"
+      ;;
+    "prod")
+      SOLRSERVER="pierre"
+      ;;
+    "dev")
+      SOLRSERVER="fargo"
+      ;;
+    *)
+  esac
+  curl http://${SOLRSERVER}.libint.unc.edu:8983/solr/bq/update?commit=true -H "Content-Type: text/xml" --data-binary @solr/solrFile.xml
+else
+  echo "Invalid stage name"
+fi
+
+

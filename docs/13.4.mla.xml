@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.4.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Seminar</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.4</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Joe Zimmerman</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Betsy Bowden</name>
+              <name>Wayne Glausser</name>
+              <name>Robert Sternbach</name>
+              <name>Leslie Tannenbaum</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-205" n="205"/>
+      <div1 id="BQ-13-4-0008">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA SEMINAR</hi>
+            </title>
+          </head>
+          <p>W. J. T. Mitchell was discussion leader of the special session on Blake at the annual MLA meeting
+in San Francisco this past December. He reports:</p>
+          <p>The basic idea of this year’s seminar was to explore Blake’s ideas about language, with
+particular emphasis on his notions of writing, both as a material craft and as a symbolic activity. A
+secondary purpose was to bring Blake’s thought into contact with post-structuralist theories of language,
+particularly Jacques Derrida’s concept of “writing” in the extended sense (mental writing, pictograms,
+ideograms, imprints, tracks, traces, and “marks”). Peggy Meyer Sherry of the German Department at Princeton
+seemed most explicitly indebted to the Derridean vocabulary, discussing the metaphors of the human body as
+writing surface and as alphabetic form in <hi rend="i">The Visions of the Daughters of Albion</hi>, and
+showing by references to Blake’s Notebook, how and why the pictorial figures in <hi rend="i">Visions</hi>
+embody calligraphic forms. Stephen Behrendt of the English Department at Elizabethtown College, Elizabethtown,
+Pennsylvania, discussed Blake’s notion of a language of art (primarily pictorial) in terms of the
+problematic notions of original and copy, and in relations to the revisions in Blake’s series of pictures on
+the theme of the “Plague.” Nelson Hilton of the English Department at the University of Georgia enriched our
+sense of “Blake’s Polysemous Words” with a series of meditations on key word clusters (e.g. vale, veil,
+vile, evil) that are the focus of Blake’s phonetic and typographic playfulness. Hilton’s presentation
+included a textual emendation to <hi rend="i">Jerusalem</hi> (worship/warship) that David Erdman promises to
+include in the new revised edition. David Herrstrom of Roosevelt, New Jersey, presented what he called a
+“literal” account of Blake’s ideas on writing, stressing Blake’s concern with the material signifier
+(calligraphic or pictorial) in the context of his understanding of the incarnation. Herrstrom illustrated his
+presentation with a close analysis of verbal and pictorial symbolism in the Laocoön engraving. Finally,
+Ronald Paulson of the Yale English Department stepped outside the circle of Blake studies to bring us news of
+other Romantic poet-painters who were concerned with problems in language and writing. Paulson’s
+presentation focused on the way emblems, marks, “graffitti,” and other verbal elaborations (titles,
+accompanying poems) tend to <hi rend="i">suppress</hi> meaning in the work of landscape artists like Turner
+and Constable, in contrast to the augmenting and disseminating power of verbal-pictorial interactions in
+Blake.</p>
+          <p>It will come as no surprise to anyone familiar with the genre of reportage on MLA Seminars that
+the session this year was a stunning success. All questions were discussed fully, and with the most rigorous
+respect for logic and rules of evidence, all the basic problems were solved, and all had a chance to speak
+their minds. The only sour note occurred when the participants rejected the Discussion Leader’s proposal to
+conclude with a rousing chorus of “And did those feet. . . . ” W. J. T. MITCHELL, DEPARTMENT OF ENGLISH,
+UNIVERSITY OF CHICAGO.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

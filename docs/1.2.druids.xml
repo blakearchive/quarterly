@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.2.druids</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Druids in Annandale</title>
+				<author n="Grant">John E. Grant</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>October 1, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.2</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-6" n="6"/>
+            <div1 id="BQ-01-2-0004">
+                <p>Re. Stevenson’s query about the Druids in Annandale: John Adlard’s “The Annandale
+Druids: A Blake Crux” <hi rend="u">N+Q</hi> NS 14 1 (January, 1967), 19-20. This is certainly a more important
+article than Harrold’s (your No. 19) in the same issue and the information could justifiably be stretched to
+cover even more than Adlard does—enough to cover most people’s curiosities, I should think.</p>
+				<byline>—<docAuthor>John E. <name>Grant</name></docAuthor></byline>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

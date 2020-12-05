@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">“Exhibiting my two Pictures”</title>
+				<author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-58" n="58"/>
+            <div1 id="BQ-02-3-0006">
+                <head>
+                    <title type="section">
+                        <hi rend="i">
+                            <hi rend="u">QUERIES</hi>
+                        </hi>
+                    </title>
+                </head>
+                <p>In the letter to Butts, Jan. 10. 1802, Blake adds a postscript “Your Obliging proposal of
+Exhibiting my two Pictures likewise calls for my thanks; I will finish the other, &amp; then we shall judge of
+the matter with certainty,” and again, on August 16, 1803, “that passage in my rough sketch which related to
+your kindness in offering to Exhibit my 2 last Pictures in the Gallery in Berners Street. . . .” Does anyone
+know anything about this exhibition, and did Blake exhibit?</p>
+                <byline>
+                    <docAuthor>Ruthven <name>Todd</name>
+                    </docAuthor>
+                </byline>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

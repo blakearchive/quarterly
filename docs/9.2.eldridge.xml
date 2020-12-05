@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.eldridge</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">AEthel-Gram</title>
+        <author n="Eldridge">Aethelred Eldridge</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0003">
+        <pb id="p09-37" n="37"/>
+        <figure n="aethel-gram.9.2.bqscan" rend="file" width="400" height="532">
+        	<figTranscr>AEthel-Gram<lb/>
+        	The Free<lb/>
+        	Spirit waves<lb/>
+        	Highest, crown the Totem.<lb/>
+        	Algonkin juice is neither<lb/>
+        	footloose no Kickapoo.<lb/>
+        	The Risen stem tides<lb/>
+        	over the sap flow.<lb/>
+        	The Seven Angels<lb/>
+        	are Hereditary<lb/>
+        	Knobs. The infant<lb/>
+        	Prince is Suitably<lb/>
+        	Frogged.<lb/>
+        	The Stud of a<lb/>
+        	Sun emerges.<lb/>
+        	As usual, the<lb/>
+        	X-rayed clod<lb/>
+        	will choose to <lb/>
+        	remain outside<lb/>
+        	the view of <lb/>
+        	Roses. One<lb/>
+        	Ballet Slipper,<lb/>
+        	Dear Reader,<lb/>
+        	is not a Ladder<lb/>
+        	Lowered. As the<lb/>
+        	Lord is my witness,<lb/>
+        	I have never<lb/>
+        	gone beyond His<lb/>
+        	Brooding Wings to<lb/>
+        	possess the Moon.<lb/>
+        	AEthelred [Eldridge]</figTranscr>
+        </figure>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

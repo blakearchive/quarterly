@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.erdman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Flaxman and Blake on Wordsworth’s “Jehovah... I pass...
+unalarmed”</title>
+				<author n="Erdman">David V. Erdman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-105" n="105"/>
+            <div1 id="BQ-03-4-0009">
+                <head>
+                    <title type="section">
+                        <hi rend="u">QUERIES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <p>1. Can anyone produce a convincing explanation of the following curious coincidence? It
+is reported in a footnote on page 443 of the revised edition of Erdman’s BLAKE: PROPHET AGAINST EMPIRE
+(paper &amp; cloth):</p>
+                    <p> . . . a curious pair of entries in Crabb Robinson’s diary . . . suggest that
+critical opinion somehow got from Flaxman to Blake at least as late as the latter part of 1814, after the
+publication of Wordsworth’s <hi rend="u">Excursion.</hi> On Dec. 19, 1814, Flaxman heard Robinson read aloud
+some passages out of the <hi rend="u">Excursion</hi> and “took umbrage at some mystical expressions . . . in
+which Wordsworth talks of <hi rend="u">seeing Jehovah unalarmed.</hi> ‘If my brother had written that,’
+said Flaxman, ‘I should say, “Burn it.”’” Flaxman and Lamb and Robinson debated the passage. Eleven years
+later, Dec. 10, 1825, when Robinson first met Blake, the
+<pb id="p03-106" n="106"/>
+latter, evidently primed by the earlier debate, asked about Wordsworth’s Christianity and “said he had been
+much pained by reading the Introduction to ‘The Excursion.’ It brought on a fit of illness. The passage
+was produced and read . . . This ‘pass them unalarmed’ greatly offended Blake . . . Wordsworth was finally
+set down as a Pagan; but still with high praise, as the greatest poet of the age.”</p>
+                    <p>Does this mean that (as Erdman deduces) Flaxman told Blake what he thought of the
+passage? Or that Blake read the <hi rend="u">Excursion</hi> when it came out and told Flaxman? Or neither?
+What a brother’s keeper Flaxman was!</p>
+                    <byline>
+                        <docAuthor>David V. <name>Erdman</name></docAuthor> (SUNY)
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.mla</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake Seminar, MLA Chicago 1971</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+            <div1 id="BQ-05-3-0002">
+            	<pb id="p05-163" n="163"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE SEMINAR, MLA CHICAGO 1971</hi>
+                        </title>
+                    </head>
+                    <p>The 1971 Blake Seminar, a gathering of about twenty dedicated travelers, met on 28
+December at the Newberry Library in Chicago. Morris Eaves (University of New Mexico) led a discussion of 
+<hi rend="i">The Marriage of Heaven and Hell.</hi> As the announcement of the Seminar had warned, the discussion
+roamed freely from text to illustration to text with little guidance other than literary free-association,
+though it showed a tendency to focus repeatedly on plates 4 and 10 and the plates most closely related to them
+in <hi rend="i">The Marriage.</hi>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

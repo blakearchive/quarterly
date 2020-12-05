@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>30.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1996</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">30.1</biblScope>
+            <biblScope unit="volume">30</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley</name>
+              <name>David Caplan</name>
+              <name>Michael Gamer</name>
+              <name>Paul Wayne Rodney</name>
+              <name>Nanora Sweet</name>
+              <name>Joseph Viscomi</name>
+              <name>Denise Vultee</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_30">
+    <front>
+      <pb id="p30-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.030.01.bqscan" rend="file" width="258" height="335">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 30<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1996</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-30-1-0001">
+        <table id="contents" rows="10" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="30.1.viscomi">A “Green House” for Butts? New Information on
+Thomas Butts, His Residences, and Family</ref><lb/>
+<hi rend="i">by Joseph Viscomi</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="30.1.vultee">Apollonian Elephant?</ref><lb/>
+<hi rend="i">by Denise Vultee</hi></cell>
+            <cell>
+              <hi rend="i">22</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Poetry</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="30.1.caplan">Blake in Boca Raton</ref><lb/>
+<hi rend="i">by David Caplan</hi></cell>
+            <cell>
+              <hi rend="i">22</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="30.1.gamer">David Simpson, <hi rend="i">Romanticism, Nationalism,
+and the Revolt against Theory</hi></ref><lb/>
+<hi rend="i">Reviewed by Michael Gamer, Paul Wayne Rodney, and Nanora Sweet</hi></cell>
+            <cell>
+              <hi rend="i">23</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="30.1.bentley">Donald Fitch, <hi rend="i">Blake Set to Music: A
+Bibliography of Musical Settings of the Poems and Prose of William Blake</hi></ref><lb/>
+<hi rend="i">Reviewed by G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">25</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p30-3" n="3"/>
+      <div1 id="BQ-30-1-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G. E. Bentley wrote this review in 1991, but it went astray. He retired from the University of
+Toronto in 1996 and is writing a biography of Blake.</p>
+        <p>David Caplan received an M.F.A. from the University of Florida and is currently working toward a
+doctorate in English from the University of Virginia.</p>
+        <p>Michael Gamer is an Assistant Professor at the University of Pennsylvania. He is currently working
+to complete a book manuscript on the relation of romantic poetry and Gothic romance, entitled “‘This
+Pageantry of Fear’: Making Poetry Romantic in the Age of Radcliffe and Lewis.”</p>
+        <p>Paul Wayne Rodney is completing his Ph.D. at the University of Michigan. His dissertation examines
+the development of domestic tourism in Britain in the late eighteenth and early nineteenth centuries as it
+relates to the definition of national and individual identity.</p>
+        <p>Nanora Sweet teaches romanticism and poetry at the University of Missouri at St. Louis. She
+publishes on Felicia Hemans and her circle.</p>
+        <p>Joseph Viscomi teaches English at the University of North Carolina and is the author of 
+<hi rend="i">Blake and the Idea of the Book.</hi> He is currently coeditor, along with Robert N. Essick and Morris
+Eaves, of the electronic Blake archive.</p>
+        <p>Denise Vultee, University of North Carolina at Chapel Hill, is working on Blake and romantic
+Hellenism.</p>
+      </div1>
+      <div1 id="BQ-30-1-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@db1.cc.rochester.edu</p>
+        <p><hi rend="b">Morris Eaves</hi>, Department of English, University of Rochester, Rochester NY
+14627<lb/>
+Email: meav@db1.cc.rochester.edu</p>
+        <p><hi rend="b">Morton D. Paley</hi>, Department of English, University of California, Berkeley CA
+94720<lb/>
+Email: P72735@garnet.berkeley.edu</p>
+        <p><hi rend="b">G. E. Bentley, Jr.</hi>, University College, University of Toronto, Toronto, Ontario
+M5S 1A1 Canada<lb/>
+Email: gbentley@epas.utoronto.ca</p>
+        <p><hi rend="b">Nelson Hilton</hi>, Department of English, University of Georgia, Athens, GA
+30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p><hi rend="b">David Worrall</hi>, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham
+TW1 4SX England<lb/>
+Email: worralld@mailnt.smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-30-1-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover Illustration: A selection of <hi rend="i">Bs, s</hi>, and <hi rend="i">us</hi> from the 1805
+receipt, see page 9. <note type="unreferenced" place="footer">© 1996 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

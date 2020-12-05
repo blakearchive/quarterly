@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.1.kolker</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s parody of a couplet from Dryden’s Absalom and
+Achitophel</title>
+				<author n="Kolker">Robert P. Kolker</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.1</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-7" n="7"/>
+            <div1 id="BQ-01-1-0003">
+                <byline>From <docAuthor>Robert P. <name>Kolker</name></docAuthor>, Columbia
+University:</byline>
+                <p>In his annotations to the Dedication to the King section of Reynold’s 
+<hi rend="u">Discourses</hi>, Blake parodies a couplet which Malone attributes to Pope. The couplet is ‘They led
+their wild desires to woods and caves,/ And thought that all but SAVAGES were slaves.’ Blake’s parody is
+‘When France got free Europe ‘twixt Fools &amp; Knaves/ Were Savage <corr type="emend">first</corr> to
+France, &amp; after; Slaves.’ Both Keynes and Erdman keep Malone’s original attribution which is, as it
+turns out, incorrect. The couplet is not from Pope, but from Dryden’s <hi rend="u">Absalom and
+Achitophel</hi>, lines 55-56.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

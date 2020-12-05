@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1980/1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980-81</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.3</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Stuart Curran</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Bo Lindberg</name>
+              <name>Ann Bermingham Miller</name>
+              <name>W.J.T. Mitchell</name>
+              <name>E.B. Murray</name>
+              <name>Alicia Ostriker</name>
+              <name>David Simpson</name>
+              <name>Hoyt Trowbridge</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980/1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <front>
+      <pb id="p14-113-114" n="113-114"/>
+      <div1 id="cover">
+        <figure n="cover.014.03.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+ AN ILLUSTRATED QUARTERLY 55<lb/>
+ Volume 14<lb/>
+ Number 3<lb/>
+            Winter 1980-81</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-14-3-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+            <cell>
+              <head>
+                <title>
+                  <hi rend="b">CONTENTS</hi>
+                </title>
+              </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.mitchell">Robert N. Essick and Donald Pearce’s 
+                  <hi rend="i">Blake in His Time</hi></ref><lb/>
+ Reviewed by W. J. T. Mitchell</cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.simpson">Michael Phillips’ 
+                  <hi rend="i">Interpreting Blake</hi></ref><lb/>
+ Reviewed by David Simpson</cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.miller">Andrew Wilton’s <hi rend="i">Constable’s
+                  ‘English Landscape Scenery’</hi></ref><lb/>
+ Reviewed by Ann Bermingham
+              Miller</cell>
+            <cell>128</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.ostriker">Janet M. Todd’s <hi rend="i">A
+                  Wollstonecraft Anthology</hi></ref><lb/>
+ Reviewed by Alicia Ostriker</cell>
+            <cell>129</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.grant">S. Foster Damon’s <hi rend="i">A Blake
+                  Dictionary: The Ideas and Symbols of William Blake</hi>, with a new index by
+                Morris Eaves</ref><lb/>
+ Reviewed by John E. Grant</cell>
+            <cell>131</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.hilton">Maureen Quilligan’s <hi rend="i">The
+                  Language of Allegory: Defining the Genre</hi></ref><lb/>
+ Reviewed by Nelson
+              Hilton</cell>
+            <cell>135</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.curran">Kay Parkhurst Easson and Roger R. Easson’s
+                  <hi rend="i">The Book of Urizen</hi></ref><lb/>
+ Reviewed by Stuart Curran</cell>
+            <cell>138</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.trowbridge">Wallace Jackson’s <hi rend="i">The
+                  Probable and the Marvelous: Blake, Wordsworth, and the Eighteenth-Century Critical
+                  Tradition</hi></ref><lb/>
+ Reviewed by Hoyt Trowbridge</cell>
+            <cell>143</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.bentley">Gerald P. Tyson’s <hi rend="i">Joseph
+                  Johnson: A Liberal Publisher</hi></ref><lb/>
+ Reviewed by G. E. Bentley, Jr.</cell>
+            <cell>145</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.murray">G. E. Bentley, Jr.’s <hi rend="i">William
+                  Blake’s Writings</hi></ref><lb/>
+ Reviewed by E. B. Murray</cell>
+            <cell>148</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.gebentley">David Bindman’s <hi rend="i">The
+                  Complete Graphic Works of William Blake</hi></ref><lb/>
+ Reviewed by G. E. Bentley,
+              Jr.</cell>
+            <cell>161</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.3.lindberg">Jack Lindsay’s <hi rend="i">William
+                  Blake: His Life and Work</hi></ref><lb/>
+ Reviewed by Bo Ossian Lindberg</cell>
+            <cell>164</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>175</cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend">
+                <ref type="article" issue="14.3.conference">Conference: Blake &amp; Criticism</ref>,
+                  <ref type="article" issue="14.3.mla">MLA 1980</ref>, 
+                  <ref type="article" issue="14.3.correction">Correction</ref>, 
+                  <ref type="article" issue="14.3.issue">Back Issues</ref>
+              </supplied>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-14-3-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>G. E. BENTLEY, JR., Professor at the University of Toronto, has published biographical,
+          bibliographical, and editorial works about Blake.</p>
+        <p>STUART CURRAN, Professor of English at the University of Pennsylvania, is coeditor of 
+            <hi rend="i">Blake’s Sublime Allegory.</hi> His most recent book is <hi rend="i">Shelley’s
+            Annus Mirabilis: The Maturing of an Epic Vision.</hi></p>
+        <p>JOHN E. GRANT, Professor at the University of Iowa, is coeditor of <hi rend="i">Blake’s
+            Poetry and Designs</hi> (Norton, 1979) and <hi rend="i">William Blake’s Designs for
+            Edward Young’s Night Thoughts</hi> (Clarendon, 1980).</p>
+        <p>NELSON HILTON, Professor at the University of Georgia, is <hi rend="i">Blake
+            Quarterly</hi>’s review editor.</p>
+        <p>BO LINDBERG, whose 1973 dissertation was on Blake’s <hi rend="i">Job</hi> engravings, is
+          an artist and art historian teaching at the University of Lund in Sweden.</p>
+        <p>ANN BERMINGHAM MILLER is currently completing a Ph.D. dissertation on “The Ideology of
+          Landscape: Gainsborough, Constable, and the English Rustic Tradition” for Harvard
+          University.</p>
+        <p>W. J. T. MITCHELL is the author of <hi rend="i">Blake’s Composite Art</hi> and editor of
+            <hi rend="i">Critical Inquiry.</hi> He has edited a volume of essays, <hi rend="i">The
+            Language of Images</hi>, which is forthcoming from the University of Chicago Press in
+          the fall of 1980.</p>
+        <p>E. B. MURRAY has published a book on Ann Radcliffe, articles and reviews on Shelley and
+          Blake, and is currently preparing an edition of Shelley’s prose for Oxford University
+          Press.</p>
+        <p>ALICIA OSTRIKER is the editor of the Penguin <hi rend="i">Blake: Complete Poems</hi>,
+          which includes full annotation and glossary. She is presently cogitating on the theme of
+          Blake and sexuality.</p>
+        <p>DAVID SIMPSON is a Fellow of King’s College, Cambridge. He is the author of 
+            <hi rend="i">Irony and Authority in Romantic Poetry</hi> and of the forthcoming 
+            <hi rend="i">Wordsworth, Dickens, Conrad: The Figuring of the Real.</hi></p>
+        <p>HOYT TROWBRIDGE, an Emeritus Professor of English at the University of New Mexico, is
+          best known for his studies of eighteenth-century critics, including Hurd and Joseph
+          Warton, and for papers on literature and history of ideas in that period. 
+            <note type="unreferenced" place="footer">copyright©1980 by Morris Eaves &amp; Morton D.
+            Paley</note></p>
+      </div1>
+      <pb id="p14-115" n="115"/>
+      <div1 id="BQ-14-3-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California,
+          Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of
+          Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+          Albuquerque, NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department of
+          English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L. Minnick, University
+          College, Ohio State University, 1050 Carmack Road, Columbus, Ohio 43210.<lb/>
+ Nelson
+          Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+ Frances A.
+          Carey, Department of Prints and Drawings British Museum, Great Russell Street, London WC1B
+          3DG, England.</p>
+      </div1>
+      <div1 id="BQ-14-3-0004">
+        <head>
+          <title>
+            <hi rend="b">COVER</hi>
+          </title>
+        </head>
+        <p>COVER:</p>
+        <p>Bo Ossian Lindberg describes his <hi rend="i">Life and Works of William Blake</hi>, a
+          series of paintings executed in 1978 and 1979, as “ . . . seven paintings in oil on
+          canvas, each 116 × 89 cm., painted 1978-79. They are: (1) William Blake, age 12, autumn
+          1769, going from his parents’ house, 28 Broad St., to Par’s drawing school in the Strand.
+          (2) Blake making a measured drawing of Countess Aveline’s tomb, Westminster Abbey, 1779.
+          William and Catherine experiencing the pleasures of married life, 23 Green Street, 1782.
+          (3) Robert’s death, February 1787, 28 Poland Street. His spirit flies through the ceiling,
+          clapping its hand for joy, William &amp; Catherine watching. (4) Blake sees the Ancient of
+          Days at no. 13 Hercules Building, Lambeth, c. 1791. In the window Catherine, Flaxman,
+          Fuseli—anachronism ignored, I wanted the friends in. (5) Blake throwing the soldier out of
+          his Felpham garden, 1803. Blake rewrites Night VII transcribed and illustrated. (6)
+          Blake’s house 17 South Molton St. 1803-21, Napoleonic wars and page of 
+          <hi rend="i">Jerusalem</hi> inserted. Blake drawing <hi rend="i">The Ghost of a Flea</hi> 1819, John
+          Varley looking on. (7) Blake engraving pl. 14 of his set of engravings for the Book of
+          Job, Catherine grinding paint. Their friend Samuel Palmer climbing the stairs and a
+          chimney sweeper shouting “weep weep.” 3 Fountain Court, 1827.<supplied type="emend">”</supplied>
+          We reproduce numbers 4 and 6.</p>
+      </div1>
+      <div1 id="BQ-14-3-0005">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="DoorwayDetail.14.3.bqscan" rend="file" width="400" height="392"></figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL ASSISTANTS:
+          Wayne Erickson, Wendy Jones, Kris Lackey, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of
+          English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12.00 for 1 year, 1 volume, 4 issues. Special rates for individuals,
+          $10.00, surface mail. $15.00 for subscribers overseas who prefer air mail. U.S. currency
+          or international money order if possible. Make checks payable to Blake/An Illustrated
+          Quarterly. Address all subscription orders &amp; related communications to the Circulation
+          Mgr., Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico,
+          Albuquerque New Mexico, 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms
+          suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept.
+          of English, Univ. of New Mexico, Albuquerque N.M&gt; 87131; Morton D. Paley, Dept. of
+          English, Univ. of California, Berkeley, California 94720</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is INDEXED in
+          the Modern Language Association’s International Bibliography, the Modern Humanities
+          Research Association’s Annual Bibliography of English Language and literature, 
+            <hi rend="i">English Language Notes’</hi> annual Romantic bibliography, ARTbibliographies
+          MODERN, and the American Humanities Index (Whitson Pub.).</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p14-176" n="176"/>
+    	<figure n="LindbergAncientOfDaysLambeth.14.3.bqscan" rend="file" width="769" height="1000">
+    		<figTranscr>No 13 Hercules<lb/>
+    		Building<lb/>
+    		<lb/>
+    		When he set a compass upon the face of the depth<lb/>
+    		<lb/>
+    		Blake AN ILLUSTRATED QUARTERLY 55<lb/>
+    		Volume 14<lb/>
+    		Number 3<lb/>
+    		Winter 1980-81</figTranscr>
+    	</figure>
+    </body>
+  </text>
+</TEI.2>

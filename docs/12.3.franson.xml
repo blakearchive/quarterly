@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.3.franson</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="article">The Serpent-Driving Females in Blake’s Comus 4</title>
+                <author n="Franson">J. Karl Franson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1978-79</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978-79</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.3</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Thomas L. Minnick</name>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Marietta Barnes</name>
+                            <name>Lynn Goldstein</name>
+                            <name>Kris Lackey</name>
+                            <resp>Contributors</resp>
+                            <name>E. B. Bentley</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>David Bindman</name>
+                            <name>Izak Bouwer</name>
+                            <name>Martin Butlin</name>
+                            <name>Arnold Cheskin</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Martha Winburn England</name>
+                            <name>J. Karl Franson</name>
+                            <name>Christopher Heppner</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Irwin</name>
+                            <name>Paul McNally</name>
+                            <name>Marta Slowikova</name>
+                            <name>Robert R. Wark</name>
+                            <name>Kazumitsu Watarai</name>
+                            <name>Dwight Weber</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1979"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+        <pb id="p12-164" n="164"/>
+            <div1 id="BQ-12-3-0005">
+                <head>
+                    <title type="main">
+                        <hi rend="b">THE SERPENT-DRIVING FEMALES IN BLAKE’S <hi rend="i">COMUS</hi> 4</hi>
+                    </title>
+                </head>
+                <byline>
+                    <docAuthor>
+                        <hi rend="b">J. KARL</hi>
+                        <name>
+                            <hi rend="b">FRANSON</hi>
+                        </name>
+                    </docAuthor>
+                </byline>
+                <p>A female figure driving a serpent-team through the treetops appears in both
+                    versions of Blake’s watercolor designs for Milton’s <hi rend="i">Comus</hi>, Scene
+                    4—the earlier series now in the
+                    Huntington Library (cited below as H) and the later series in the Museum of Fine
+                    Arts, Boston (B).<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref>
+                    Despite striking differences between the two 
+                    sets,<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> 
+                    and specifically between the two female figures in this scene, between their
+                    serpent-teams, and the darkness of the night, commentators almost never consider
+                    both versions when discussing Blake’s visual interpretations of the
+                    masque. As a consequence, they generally regard the two females as the same
+                    character. Irene Tayler, taking into account only the H series in her pioneering
+                    essay on the designs, refers to the “draped female overhead”
+                    as “the strange dragon or snake-lady,” “that veiled
+                    tyrant of women” whom Blake might intend to suggest “the
+                    moon-goddess Cynthia” or maybe 
+                    Medea.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> 
+                    Commenting on the B series only, Marcia R. Pointon calls the woman
+                    above the trees “Diana, goddess of the moon” (p. 139). More
+                    recently, Joseph A. Wittreich, Jr. labels the females Blake’s
+                    personification of 
+                    Jealousy,<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> 
+                    and Stephen C. Behrendt follows Pointon in calling the figures 
+                    Cynthia-Diana.<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref>
+                    <note id="n1">
+                        <hi rend="s">1</hi> The two series, although of the same scenes or
+                        combination of scenes in <hi rend="i">Comus</hi>, are considerably different
+                        (see n. 2 below). The date of the Huntington set of eight is probably about
+                        1801-1802, as Blake refers to the unfinished designs in a letter to John
+                        Flaxman dated 19 October 1801 (Blake, <hi rend="i">Complete Writings</hi>,
+                        ed. Geoffrey Keynes [London: Oxford Univ. Press, 1966], p. 810). The date of
+                        the Boston series of eight is less certain. Marcia R. Pointon suggests that
+                        they were done “probably a little later” than the first
+                        set (<hi rend="i">Milton &amp; English Art</hi> [Toronto: Univ. of
+                        Toronto Press, 1970], p. 139); Angus Fletcher dates them between 1805 and
+                        1810 (<hi rend="i">The Transcendental Masque: An Essay on
+                            Milton’s “Comus”</hi> [Ithaca, N.Y.:
+                        Cornell Univ. Press, 1971], p. 253); Joseph A. Wittreich, Jr. proposes 1809
+                            (<hi rend="i">Angel of Apocalypse: Blake’s Idea of
+                            Milton</hi> [Madison: Univ. of Wisconsin Press, 1975], p. 80); and more
+                        recently David Bindman asserts that they were done “probably about
+                        1815,” although he offers no evidence for so late a date (<hi rend="i">Blake As an
+                        Artist</hi> [Oxford: Phaidon, 1977], p. 186). The
+                        important question of whether the B series was completed before or after
+                        Blake’s <hi rend="i">Milton</hi>, the date of which is also open
+                        to question, thus remains unresolved. Both sets are reproduced in color by
+                        A. Fletcher, but the H series in the copies of Fletcher I have seen is badly
+                        printed and potentially misleading. Having examined the originals of both
+                        sets, I am impressed that a quality reproduction of them in color is sorely
+                        needed. For kind permission to reproduce these two sets of designs, I wish
+                        to thank the Huntington Library and Art Gallery, San Marino, Calif., and the
+                        Museum of Fine Arts, Boston.</note>
+                    <note id="n2">
+                        <hi rend="s">2</hi> A few of the differences are discussed by A.
+                        Fletcher, who credits Diane Christian for much of the analysis (pp. 253-56);
+                        by Wittreich, <hi rend="i">Angel of Apocalypse</hi> (pp. 81-86); and by
+                        Bindman (p. 186).</note>
+                    <note id="n3">
+                        <hi rend="s">3</hi> Irene Tayler, “Blake’s <hi rend="i">Comus</hi> Designs,” 
+                        <hi rend="i">Blake Studies</hi>,
+                        4 (Spring 1972), 45-80; citations above come from pp. 48, 51, 76, 48 (to
+                        which cf. p. 75n). The reference to Medea is on p. 237 in her expanded
+                        version, “Say First! What Mov’d Blake?
+                        Blake’s <hi rend="i">Comus</hi> Designs and <hi rend="i">Milton</hi>,” in 
+                        <hi rend="i">Blake’s Sublime Allegory: Essays on “The Four Zoas,”
+                        “Milton,” and “Jerusalem,”</hi> ed.
+                        Stuart Curran and Joseph Anthony Wittreich, Jr. (Madison: Univ. of Wisconsin
+                        Press, 1973), pp. 233-58.</note>
+                    <note id="n4">
+                        <hi rend="s">4</hi>
+                        <hi rend="i"> Angel of Apocalypse</hi>, p. 83.</note>
+                    <note id="n5">
+                        <hi rend="s">5</hi> “The Mental Contest:
+                        Blake’s <hi rend="i">Comus</hi> Designs,” forthcoming in
+                            <hi rend="i">Blake Studies.</hi> I am much obliged to Professor Behrendt
+                        for allowing me to read those portions of his manuscript that relate to this
+                        study, and for offering perceptive suggestions regarding my
+                    analysis.</note>
+                </p>
+                <p>Compounding this confusion concerning the figures is the repeated assertion that
+                    they cannot be found in the standard versions of <hi rend="i">Comus</hi> at all,
+                    but are Blake’s invention.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref>
+                    Wittreich cites as Blake’s source for these figures several lines
+                    about a dragon that were cancelled in the Trinity (College) Manuscript of the
+                    masque, but first published in 1798 and thus available to Blake. Certain details
+                    of Wittreich’s argument are persuasive, but his fundamental assertion
+                    that the cancelled lines constitute Blake’s primary source for the
+                    serpent-teams and the female figures is essentially 
+                    unconvincing.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> 
+                    These figures, to the contrary, are identified in the
+                    standard published texts of <hi rend="i">Comus</hi> in circulation during
+                    Blake’s day.<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref> 
+                    In addition, a matching of text and design reveals that Blake’s females in this
+                    scene, one in each version, are not variations of the same person, but are two
+                    different persons.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref>
+                    <note id="n6">
+                        <hi rend="s">6</hi> Tayler, “This strange figure is not
+                        in Milton’s masque” (“Blake’s <hi rend="i">Comus</hi> Designs,” p. 48; see also,
+                        “Say First!” p. 237); Pointon, “Above the trees rides the
+                        moon-goddess . . . a figure which does not feature in Milton’s
+                        poem” (p. 139), even though Blake is “precise in following
+                        details of the text” (p. 138); Behrendt, “The figure in
+                        the dragon-car above the trees is unmentioned in Milton’s
+                        [standard] text.”</note>
+                    <note id="n7">
+                        <hi rend="s">7</hi> The heart of Wittreich’s argument
+                        is as follows: “Charles Lamb reminds us that the following lines,
+                        ‘not printed in the common editions of Milton’ and not
+                        ‘generally known to belong to that divine
+                        “Masque”,’ were printed in both the 1801 and
+                        1809 editions by Henry John Todd, having first been published in
+                        Todd’s 1798 edition of <hi rend="i">Comus.</hi> The Attendant
+                        Spirit, descending and entering, explains that his mansion is 
+                        <hi rend="i">‘Amidst th’ Hesperian gardens . . . / . . . on
+                        whose faire tree / The scalie-harnest dragon ever keeps / His
+                        uninchanted eye.’</hi> A few lines later we read of the
+                        ‘jealous ocean’ winding his ‘farre extended
+                        armes, till with steepe fall / Halfe his wast flood the wild Atlantique
+                        fills.’ The scaly dragon derives from these lines, and so does
+                        the figure of jealousy, which is transformed by Blake into the
+                        ‘female’ riding the dragon. The arching trees,
+                        creating a den-like place, may also be explained by turning to the cancelled
+                        lines that speak of ‘this <hi rend="i">arched</hi>
+                        wood’ and its ‘<hi rend="i">yawning
+                        dens</hi>’” (<hi rend="i">Angel of Apocalypse</hi>, pp.
+                        82-83). That the single dragon in the cancelled lines is
+                        “scalie,” “harnest,” and that the trees
+                        of the forest are “arched” and form “yawning
+                        dens” coincide with elements in Blake’s
+                        illustrations—the H serpents (but not the B) are scaled, in both
+                        series they are harnessed, and the trees are noticeably arched, particularly
+                        in H. But Blake’s dragons are a team, they are not keeping watch
+                        over precious fruit, and they are driven by female figures (not male, like
+                        Milton’s Jealous Ocean) who ostensibly have no direct connection
+                        with the Attendant Spirit or with the Hesperian Gardens from whence he
+                        comes. The cancelled lines are discussed by John. S. Diekhoff, who points
+                        out that the central images in this cancelled passage (the Hesperian tree,
+                        the dragon guarding the fruit with “uninchanted eye”) are
+                        inserted by Milton further on in the masque and thus appear in all standard
+                        versions, including those Blake most likely used (“The Text of 
+                        <hi rend="i">Comus</hi>, 1634 to 1645” [1937; rpt. as an appendix
+                        to <hi rend="i">A Maske at Ludlow: Essays on Milton’s
+                        “Comus,”</hi> ed. Diekhoff, Cleveland: The Press of
+                        Case Western Reserve Univ., 1968, pp. 251-75; the discussion of these
+                        cancelled lines appears on pp. 265-66]). For a discussion of the versions of
+                        <hi rend="i">Comus</hi>, see n. 8 below.</note>
+                    <note id="n8">
+                        <hi rend="s">8</hi> Of the five important versions of the
+                            masque, Blake probably was familiar with a reproduction of the 1645 or
+                            the 1673 version. Thomas Warton’s ed., which is a mixture of
+                            both these versions, appeared in 1785 and 1791 (“A Maske
+                            Presented at Ludlow Castle, 1634” in <hi rend="i">Poems upon
+                            Several Occasions</hi> [London: J. Dodsley]). Henry John
+                            Todd’s ed. of <hi rend="i">Comus</hi> in 1798 follows the
+                            1645 version, although like Warton’s it updates the spelling,
+                            punctuation, and capitalization (<hi rend="i">A Mask . . . With Notes
+                            Critical and Explanatory . . .</hi> [Canterbury: W. Bristow, <hi rend="i">et
+                            al.</hi>]; rpt. as part of Todd’s edn. of
+                            Milton’s <hi rend="i">Poetical Works</hi> in 1801, 1809,
+                            1826, etc. The passages I cite, which do not vary significantly from
+                            version to version, come from Todd’s 1798 ed. Because Todd
+                            reproduces the 1645 version, his line numbers are the same as those in
+                            the more accessible modern ed. by Merritt Y. Hughes, who also reprints
+                            the 1645 edn. (<hi rend="i">Complete Poems and Major Prose</hi>
+                            [Indianapolis, Ind.: Odyssey, 1957]).
+                        <p>The five versions of the masque are: (1) the Trinity Manuscript, a
+                            transcript in Milton’s hand made sometime after the original
+                            and reproduced in part in 1861, in full in 1899; (2) the
+                            “expurgated” and shortened Bridgewater Manuscript,
+                            apparently a stage copy, transcribed and printed by Todd in 1798; (3)
+                            the first published version (anonymous), 1637, based on the Trinity
+                            Manuscript early in its correction stage; (4) the 1645 ed., authorized
+                            by Milton; and (5) the 1673 ed., set from the 1645 ed. Facsimiles and
+                            discussions of all five versions appear in Harris F.
+                            Fletcher’s ed., <hi rend="i">John Milton’s
+                            Complete Poetical Works, Reproduced in Photographic Facsimile</hi>
+                            (Urbana: Univ. of Illinois Press, 1943), vol. I.</p>
+                        <p>Corrupted stage adaptations of <hi rend="i">Comus</hi> were performed
+                            frequently during 1738-1850, but Blake’s designs show no
+                            evidence that he followed an adaptation over the standard texts. The
+                            first major adaptation, that of John Dalton in 1738, adds scenes,
+                            shortens speeches, and inserts additional characters: a second attendant
+                            spirit, Philidel, is to watch over the Lady in the forest; Euphrosyne
+                            adds to Comus’s argument at the castle; and a spirit assists
+                            Sabrina late in the masque (<hi rend="i">Comus, a Mask . . . As
+                            Alter’d from Milton’s Mask . . .</hi> [London:
+                            R. Dodsley, 1738]. Blake does not include these figures: H 2 portrays
+                            Milton’s Attendant Spirit (so identified because he holds the
+                            magic herb, as he later tells the brothers, 638-47). H 5 and B 5 do not
+                            include a female persuader. Dalton’s adaptation,
+                            incidentally, does include the Cotytto-Hecate passage cited previously;
+                            but its successor, that by George Colman in 1772, shortens the passage
+                            and omits all reference to Cotytto, rendering the lines nonsensical 
+                            (<hi rend="i">Comus: A Masque, Altered from Milton . . .</hi> [London: T.
+                            Lowndes, <hi rend="i">et al.</hi>]). For further analysis of the stage
+                            adaptations, see Alwin Thaler, “Milton in the
+                            Theatre,” <hi rend="i">SP</hi>, 18 (July 1920), 269-308.</p>
+                    </note>
+                    <note id="n9">
+                        <hi rend="s">9</hi> After completing this study, I came upon an
+                        apparent but very brief corroboration of the identifications I present below
+                        in John E. Grant and Robert E. Brown’s
+                        “Blake’s Vision of Spenser’s <hi rend="i">Faerie Queene</hi>: A Report and an
+                        Anatomy,” <hi rend="i">Blake Newsletter 31</hi>, 8 (Winter 1974-75), 64, n. 5, wherein the
+                        authors refer to the dragons “that pull the cars of Cotytto-Hecate
+                        in <hi rend="i">Comus</hi> 4.” This identification, so far as I
+                        have been able to determine, is not expanded elsewhere.</note>
+                </p>
+                <p>Blake’s fourth scenes, in which the Attendant Spirit dressed as the
+                    shepherd Thyrsis shows the brothers the magic herb <hi rend="i">haemony</hi>,
+                    illustrate lines 617-58 in the Todd and the Hughes editions. However, Milton
+                    describes much earlier in the masque the serpent-ladies that Blake places in the
+                    treetops. During Comus’s initial appearance as the forest
+                    enchanter-seducer, he calls upon his retinue, partially transformed into beasts,
+                    to join him in a libidinous ceremony: 
+					<q>
+						Come, let us our rights begin,<lb/>
+                        ’Tis only day-light that makes sin,<lb/>
+                        Which these dun shades will ne’er report.<lb/>
+                        Hail, Goddess of nocturnal sport,<lb/>
+                        Dark-veil’d Cotytto! t’whom the secret flame<lb/>
+                        Of midnight torches burns; mysterious dame,<lb/>
+                        That ne’er art call’d, but when the dragon woom<lb/>
+                        Of Stygian darkness spetts her thickest gloom,<lb/>
+                        And makes one blot of all the air;<lb/>
+					<pb id="p12-165" n="165"/>
+					<figure n="HuntingtonComus4Detail.12.3.bqscan" rend="file" width="958" height="282"/>
+					<figure n="BostonComus4Detail.12.2.bqscan" rend="file" width="958" height="284">
+						<head>Detail, Scene 4: “The Brothers Meet the Attendant Spirit
+							in the Wood.”</head>
+						<figDesc>Huntington at top; Boston, below.<lb/>
+							<lb/>
+							In the following
+							pages, the Huntington set of <hi rend="i">Comus</hi> designs is
+							reproduced courtesy of the Henry E. Huntington Library &amp;
+							Art Gallery, San Marino, California. The Boston set (gift of Mrs.
+							John L. Gardner &amp; George N. Black) is reproduced courtesy
+							of the Museum of Fine Arts, Boston.</figDesc>
+					</figure>
+                        Stay thy cloudy ebon chair,<lb/>
+                        Wherein thou rid’st with Hecat’, and befriend<lb/>
+                        Us thy vow’d priests, till utmost end<lb/>
+                        Of all thy dues be done, and none left out.<lb/>
+                        <lb/>
+                        (125-37)
+                    </q>
+                    Certainly this invocation to “Dark-veil’d
+                    Cotytto” is Blake’s primary source for the darkly draped
+                    female in H 4. This Thracian goddess of licentiousness, worshipped only on the
+                    darkest (or Stygian) nights, appears in Blake’s dark scene riding
+                    through a treetop gloom that obscures sky, stars, and 
+                    moon.<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref> 
+                    Since Comus and his monsters begin their rites to the
+                    goddess five hundred lines before Scene 4, we might be surprised by her
+                    appearance here instead of in Blake’s first scene, that of Comus and
+                    his revelers. But the text does not specify that she actually appears in
+                    response to the invocation, probably because the chaste Lady’s
+                    approach interrupts the rites at their beginning. Comus directs his rabble to
+                    hide (147-48), enchants the spot (150 ff.), and entices the Lady who enters to
+                    proceed with him to his cottage (244 ff.), where unknown to her he obviously
+                    plans to reinitiate the rites to Cotytto. Thus Blake’s choice to
+                    portray Cotytto in H 4, riding through the same forest in which she was earlier
+                    invoked, is logical even though the text does not specify her presence here.
+                    Seemingly she is enroute to the castle for the rites, which Blake suggests by
+                    her direction toward the right margin, forward to the next scene inside the
+                    castle. 
+                    <note id="n10">
+                        <hi rend="s">10</hi> The sky is not visible partly
+                        because the woman rides through rather than above the foliage. In the B
+                        series, the female rides atop the trees, the night is clear, and the sky and
+                        moon are plainly visible. The gloom Blake portrays in H is consistent with
+                        numerous allusions by the masque characters to the absolute darkness of the
+                        night, caused by heavy clouds (e.g., 193-96; 203; 330-38; and so forth). The
+                        only light to appear during these early forest scenes, according to the
+                        text, is a momentary glimmer in the clouds detected by the Lady
+                        (220-24).</note>
+                </p>
+                <p>Milton alludes metaphorically to a dragon in this Cotytto-Hecate passage (131)
+                    and later to a dragon guarding the Hesperian Tree in the regions whence the
+                    Attendant Spirit has come (395); but Blake’s primary source for the
+                    serpent-team is probably the dragon-team traditionally associated with
+                    Hecate’s car (in Ovid, for instance, and mentioned elsewhere by
+                    Milton<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref>).
+                    Blake’s red and
+                    blue scaled beasts in H 4 might most accurately be labeled crested snakes or
+                    serpents rather than dragons, as they have no legs or 
+                    wings.<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref>
+                    <note id="n11">
+                        <hi rend="s">11</hi> In Ovid’s <hi rend="i">Metamorphoses</hi>, a dragon-drawn
+                        chariot descends in answer to
+                        Medea’s prayer to Hecate (VII. 218-19). Milton alludes to the
+                        dragon-team in his Latin elegy “<hi rend="i">In Obitum Praesulis
+                        Eliensis</hi>” (“On the Death of the Bishop of
+                        Ely”), 11. 56-58, which antedates <hi rend="i">Comus</hi> by six
+                        years.</note>
+                    <note id="n12">
+                        <hi rend="s">12</hi> David V. Erdman, for instance, maintains the
+                        distinction in <hi rend="i">The Illuminated Blake</hi> (Garden City, N. Y.:
+                        Anchor / Doubleday, 1974). “Serpents” or
+                        “snakes” elsewhere in Blake that bear close resemblance to
+                        these harnessed creatures are the similarly harnessed serpents in 
+                        <hi rend="i">Thel</hi> 6<hi rend="s">I</hi> (Erdman, p. 40) and 
+                        <hi rend="i">America</hi> 11<hi rend="s">N</hi> (Erdman, p. 149). 
+                        In contrast, a Blake “dragon” (to use his own term) with forelegs and
+                        wings is pictured in <hi rend="i">America</hi> 4<hi rend="s">N</hi> (Erdman,
+                        p. 142) and a variation in <hi rend="i">America</hi> b (Erdman, p.
+                        393).</note>
+                </p>
+                <p>Hecate, however, with whom Milton’s Cotytto rides, does not appear in
+                    H 4, nor in H 1. Because Milton aligns Cotytto so closely with her, because the
+                    Attendant Spirit claims that Comus frequently performs rites to her (535), and
+                    because she does appear in Blake’s B series, consideration should be
+                    given to Hecate’s role in Blake’s H interpretation. 
+                    <pb id="p12-166" n="166"/>
+                    <figure n="but527.1.1.wc" id="but527.1.wc.01" work-copy="but527.1" rend="db" width="838" height="1000">
+	<figTranscr>inv<lb/>
+	WB</figTranscr>
+</figure>
+                    <figure n="but528.1.1.wc" id="but528.1.wc.01" work-copy="but528.1" rend="db" width="795" height="1000">
+	<figTranscr>WBlake</figTranscr>
+                        <head>Scene 1: “Comus with his Revellers.”</head>
+                        <figDesc>Huntington at top; Boston, lower.</figDesc>
+                    </figure> 
+                    Surely Blake does not intend her to be hidden in the gloom beside
+                    Cotytto in H 4. Does he interpret Milton’s line (“Wherein
+                    thou rid’st with Hecat’”) to mean that Cotytto
+                    sometimes rides with Hecate, but not always? Or has he in mind the Attendant
+                    Spirit’s claim to the brothers during this scene that as their
+                    father’s shepherd he has often heard Comus and his revelers
+                    performing rites to Hecate and hence is drawing attention to the duality of
+                    nocturnal rites performed by Comus—some to Hecate as goddess of
+                    witchcraft, and on the darkest nights, other rites (or additional rites) to
+                    Cotytto as a goddess of lechery? If this is Blake’s intent, H 1 would
+                    not represent rites to Hecate only, as a reader might presume from the Attendant
+                    Spirit’s assertion, but rites either to Hecate (but preliminary to
+                    Cotytto rites on this Stygian night) or rites to Cotytto, the noise of which the
+                    Spirit has interpreted as Hecate rites, and over which Hecate ultimately
+                    presides. But if H 1 and H 4 involve Hecate, where is she?</p>
+                <p>I believe her absence from the scene can be explained satisfactorily in terms of
+                    a logical presence elsewhere in the forest. Is it not reasonable to conceive of
+                    Hecate being involved, not directly in H 1, but in H 2? Although she is not
+                    invoked this particular night, she is Comus’s reigning deity and
+                    ostensibly his ultimate source of enchanting power. So when he enchants the spot
+                    that Blake depicts in H 2, as well as himself, with “dazling
+                    spells” (154) and “magic dust” (165), then leads the
+                    beguiled Lady from the place through the forest to his castle, might not Blake
+                    have intended Hecate to preside over this spell that continues through the
+                    forest trek, according to the text, until the Lady is seated inside the castle
+                    in Scene 5? Though Blake does not depict Hecate visually in H 2, and though the
+                    text does not specify her appearance or direct involvement, her presence in the
+                    scene is logical. If H 2 is viewed in this manner, and if we consider carefully
+                    the chronology of the masque, Hecate would be journeying to the castle (and the
+                    rites) with Comus and the Lady at the same time Cotytto rides there in H 4.</p>
+                <p>If we consider the details of Cotytto worship, we will quickly comprehend the
+                    aptness of Milton’s allusion to her in <hi rend="i">Comus</hi> and
+                    the aptness of Blake’s inclusion of her in H 4. A Greek goddess of
+                    wantonness, Cotytto was not well known in Milton’s day or in
+                    Blake’s. Milton does not mention her elsewhere, and Blake never
+                    refers to her by name. Milton associates her with the better-known Hecate,
+                    goddess of the underworld and witchcraft, presumably because both were said to
+                    originate in Thrace. There is historical evidence of Cotytto worship in Corinth,
+                    perhaps in Athens, and with great license in 
+                    Rome.<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref>
+                    <pb id="p12-167" n="167"/> 
+                    The longest account of Cotytto worship appears in
+                    Juvenal’s Second Satire, “Moralists without
+                    Morals,” with which Milton was familiar (Osgood, pp. 24-25). Juvenal
+                    associates the goddess with orgiastic rites conducted by priests that were
+                    secret, nocturnal, torchlit, gluttonous, accompanied by dancing, and chiefly
+                    sodomistic. The orgiastic elements in <hi rend="i">Comus</hi> approximate these
+                    closely, with the possible exception of sodomy: Comus calls together his
+                    followers in secret, at night; they carry torches; they later feast at a
+                    banquet; and they “knit hands, and beat the ground / In a light
+                    fantastic round” (143-44). Also similar to elements in <hi rend="i">Comus</hi> are
+                    Juvenal’s references in Cotytto worship to
+                    metamorphoses (in <hi rend="i">Comus</hi>, the monsters); Stygian blackness (in
+                    <hi rend="i">Comus</hi>, 132); a cup or glass used in the rites (in 
+                    <hi rend="i">Comus</hi>, the crystal goblet with enchanting liquid); and the
+                    initiation rite (in <hi rend="i">Comus</hi>, the drink). In view of Barbara
+                    Breasted’s recent discovery that Milton wrote <hi rend="i">Comus</hi>
+                    in the wake of a notorious sex scandal that included rape, incest, and sodomy
+                    among relatives of the <hi rend="i">Comus</hi> Bridgewater family—and
+                    the masque thus being an attempt to help re-establish the family’s
+                    integrity—Cotytto’s presence in the masque is doubly
+                    appropriate.<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref>
+                    Blake probably did not
+                    know of the Castlehaven Scandal, and he may not have been familiar with all the
+                    details of Juvenal’s account of her, but he surely was familiar with
+                    her role as a goddess of lechery, an identification provided in Thomas
+                    Newton’s and Todd’s annotations to <hi rend="i">Comus.</hi>
+                    <ref target="n15" type="note">15</ref> And he obviously detected
+                    in the masque a central theme of the conflict between chastity and perversity.
+                    <note id="n13">
+                        <hi rend="s">13</hi> Charles Grosvenor Osgood, <hi rend="i">The Classical Mythology of
+                        Milton’s English Poems</hi>
+                        (1900; rpt. New York: Gordian, 1964), pp. 24-25.</note>
+                    <note id="n14">
+                        <hi rend="s">14</hi> Barbara Breasted, “<hi rend="i">Comus</hi> and the Castlehaven
+                        Scandal,” <hi rend="i">Milton Studies</hi>, 3 (1971), 201-24.</note>
+                    <note id="n15">
+                        <hi rend="s">15</hi> Todd’s annotation to
+                        “Dark-veil’d Cotytto” (129) includes material
+                        from Newton’s earlier note: 
+                        “<hi rend="i">The Goddess of wantonness. . . .</hi> 
+                        Dr. Newton observes, that ‘she was originally a 
+                        <corr type="emend">strumpet,</corr> and had midnight sacrifices at Athens, and is 
+                        <corr type="emend">therefore</corr> very properly said to be <hi rend="i">dark-veiled.</hi>’ 
+                        Her orgies were celebrated also by the
+                        Thracians, Chians, Corinthians, and others. Her rites were termed 
+                        <hi rend="i">Cotyttia</hi>, and her priests <hi rend="i">Baptae.</hi> See
+                        Juvenal Sat. ii. v. 91. Milton makes her the companion of Hecate, the
+                        patroness of enchantments, to whom Comus and his crew v. 535 ‘do
+                        abhorred <corr type="emend">rites:’ her</corr> mysteries requiring <hi rend="i">the veil of
+                        that darkness</hi>, over which Hecate presided” (p. 23n).
+                        Thomas Newton, ed., <hi rend="i">Paradise Regain’d . . . To Which
+                        Is Added . . . Poems upon Several Occasions . . .</hi> (London: J.
+                        &amp; R. Tonson, &amp; S. Draper, 1752).</note>
+                </p>
+                <p>Cotytto’s serpents in H 4, or more precisely Hecate’s
+                    serpents, which Cotytto is driving, are typical Blake serpents: crested, mouths
+                    open, tongues out, and thus active. For Blake, serpents represent (among other
+                    things) hypocrisy, corrupt priesthood, and 
+                    sexuality.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> 
+                    Indeed, one can conceive a close similarity between the
+                    attempt by Comus to force the Lady into sexual experience (particularly if one
+                    remembers the serpent above Comus’s wand in B 5) and the theme of
+                    Blake’s “I saw a chapel all of gold”: that forced
+                    and undesired acts of sex are perversions of real 
+                    love.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> 
+                    In addition, the serpent-team represents the
+                    spiritual-moral warfare that constitutes the foundation of the 
+                    masque:<supplied type="spacer"> </supplied><ref target="n18" type="note">18</ref> 
+                    the struggle of the brothers with each
+                    other, the Lady with Comus and with herself, Comus with himself, and the
+                    brothers with Comus and his monsters. We should note that these conflicts are
+                    essentially dissolved, rather than overcome, by the magic herb <hi rend="i">haemony</hi>
+                    that Blake portrays in this 
+                    scene.<supplied type="spacer"> </supplied><ref target="n19" type="note">19</ref>
+                    Also worth noting is Blake’s placing of the
+                    herb, held by the Spirit, almost directly below Cotytto’s triangular, scale-shaped 
+                    skirt.<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref> 
+                    Possibly this juxtaposition of herb beneath the scale is Blake’s way of drawing
+                    attention to the importance of the herb’s function in eliminating the
+                    stalemates in the 
+                    masque.<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+                    <note id="n16">
+                        <hi rend="s">16</hi> See S. Foster Damon, <hi rend="i">A Blake
+                            Dictionary: The Ideas and Symbols of William Blake</hi> (Providence, R.
+                        I.: Brown Univ. Press, 1965), pp. 365-66.</note>
+                    <note id="n17">
+                        <hi rend="s">17</hi> Blake’s “I saw a
+                            chapel” comes from his Note-Book and was written about 1793.
+                            Below are the first two stanzas: 
+                            <q>
+                            	I saw a chapel all of gold<lb/>
+                                That none did dare to enter in,<lb/>
+                                And many weeping stood without,<lb/>
+                                Weeping, mourning, worshipping.<lb/>
+                                <lb/>
+                                I saw a serpent rise between<lb/>
+                                The white pillars of the door,<lb/>
+                                And he forc’d &amp; forc’d &amp; forc’d,<lb/>
+                                [Till he broke the pearly door <hi rend="i">del.</hi>]<lb/>
+                                Down the golden hinges tore. (<hi rend="i">Complete Writings</hi>, p.163)
+                            </q>
+                    </note>
+                    <note id="n18">
+                        <hi rend="s">18</hi> See Damon under “Dragon,”
+                        p. 107.</note>
+                    <note id="n19">
+                        <hi rend="s">19</hi> Milton’s <hi rend="i">haemony</hi> as an emblem representing
+                        legitimate vs. illegitimate
+                        sexual experience is a thesis I present in “An Anglo-Saxon
+                        Etymology for Milton’s <hi rend="i">Haemony</hi>,” <hi rend="i">American Notes &amp;
+                        Queries</hi>, 14 (October 1975),
+                        18-19.</note>
+                    <note id="n20">
+                        <hi rend="s">20</hi> In the original one can plainly see that the
+                        triangular design is created by folds in Cotytto’s dress. But in
+                        reproductions, especially A. Fletcher’s, the configuration might
+                        be taken as a car or chariot. Vertical lines directly beneath the triangular
+                        skirt, however, do imply a platform on which Cotytto is riding.</note>
+                    <note id="n21">
+                        <hi rend="s">21</hi> In <hi rend="i">Paradise Lost</hi> the scale
+                        constitutes a key symbol, where Libra’s position in the Zodiac
+                        between Virgo (Eve) and Scorpio (Satan) is a striking and profound image
+                        (III. 558; cf. IV. 997). Blake may also be including the scale image in his
+                        fifth <hi rend="i">Comus</hi> scenes, the Banquet: in both versions, he
+                        includes hanging lamps triangular and scale-shaped, one almost directly over
+                        the seated Lady. And in H 6, a lamp is visible below the second
+                        brother’s sword, where it looks more like a hanging scale (in
+                        connection with the sword) than a lamp. It seems significant that the
+                        notorious cup, wrenched from the  <corr type="emend">sorcerer’s</corr> hand by the nearest
+                        brother, is directly below the lamp-scale.</note>
+                </p>
+                <p>In the second <hi rend="i">Comus</hi> series, Blake makes significant changes in
+                    Scene 4. The figure driving the serpent-team in B 4 is also female, as denoted
+                    by her flowing hair, but she wears a light-colored garment, has no hood or veil,
+                    and rides under a crescent 
+                    moon.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref> 
+                    Clearly this female cannot be “Dark-veil’d Cotytto,” who
+                    appears only on the darkest nights. Because of her light-colored clothing 
+                    <figure n="but527.1.2.wc" id="but527.1.wc.02" work-copy="but527.1" rend="db" width="845" height="1000">
+	<figTranscr>inv<lb/>
+	WB</figTranscr>
+</figure>
+                    <figure n="but528.1.2.wc" id="but528.1.wc.02" work-copy="but528.1" rend="db" width="796" height="1000">
+	<figTranscr>WBlake</figTranscr>
+                        <head>Scene 2: “Comus, Disguised as a Rustic, Addresses the Lady in
+                            the Wood.”</head>
+                        <figDesc>Huntington, top; Boston, lower.</figDesc>
+                    </figure>
+                    <pb id="p12-168" n="168"/>
+                    <figure n="but527.1.3.wc" id="but527.1.wc.03" work-copy="but527.1" rend="db" width="839" height="1000">
+	<figTranscr>inv<lb/>
+	WB</figTranscr>
+</figure>
+                    <figure n="but528.1.3.wc" id="but528.1.wc.03" work-copy="but528.1" rend="db" width="786" height="1000">
+	<figTranscr>WBlake</figTranscr>
+                        <head>Scene 3: “The Brothers Observed by Comus Plucking
+                            Grapes.”</head>
+                        <figDesc>Huntington, left; Boston, right.</figDesc>
+                    </figure> 
+                    and the general brightness of the scene, she cannot be Night, who is
+                    personified in the masque (195-200). The most convincing identification of this
+                    figure is Hecate, Cotytto’s companion in the masque. Evidence
+                    supporting this is that Blake has portrayed Hecate’s companion with
+                    Hecate’s serpent-team in H 4; and thus, when serpents (albeit not the
+                    same serpents) reappear with a new driver, the sensible identification would be
+                    their mistress Hecate. More evidence of the figure’s identity is the
+                    Spirit’s reference (cited above) to having heard Comus and his rabble
+                    performing rites to Hecate earlier in the night; consequently, her appearance in
+                    B 4 is as logical as Cotytto’s presence in H 4. Third, in classical
+                    authors Hecate (but not Cotytto) is frequently associated with the moon, as she
+                    is here with the moon above her head. Originally she was a moon goddess (Osgood,
+                    p. 29); Plutarch, for example, labels the moon Hecate’s province (<hi rend="i">Cess. of
+                    Oracles</hi>, 13). Blake refers to Hecate by name a number
+                    of times, and he did several versions of a color-printed drawing of Hecate as
+                    the triform goddess.<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref>
+                    <note id="n22">
+                        <hi rend="s">22</hi> A similarity worth observing exists between
+                        this female figure and one in the watercolor version (done for Thomas Butts)
+                        of Plate 14, “The Morning Stars Sang Together,” of
+                        Blake’s <hi rend="i">Illustrations of the Book of Job</hi>; the
+                        similarity is pointed out by Pointon, who claims erroneously that the
+                        figures are the same person (p. 171, n. 102). The female in <hi rend="i">Job</hi> also
+                        leads a red, blue, and scaled serpent-team much like
+                        Blake’s H serpent-team, and also rides under a crescent moon.
+                        However, the female figure has wings. For a color reproduction, see Kathleen
+                        Raine, <hi rend="i">William Blake</hi> (New York: Praeger, 1971), p.
+                        165.</note>
+                    <note id="n23">
+                        <hi rend="s">23</hi> Blake’s references to Hecate are
+                        on the following pages in the <hi rend="i">Complete Writings</hi>: 41, 840,
+                        849, 855 (three references). Versions of Blake’s <hi rend="i">Hecate</hi> are in the
+                        Huntington Art Gallery, the Tate Gallery, and
+                        the National Gallery of Scotland. Raine provides a black and white
+                        reproduction of the Tate version (p. 86); the Huntington version is
+                        reproduced in black and white as “The Triple Hecate” in
+                        the Library’s <hi rend="i">Catalogue of William
+                        Blake’s Drawings and Paintings in the Huntington
+                        Library</hi>, C. H. Collins Baker, enl. and rev. R. R. Wark (San Marino,
+                        Calif.: The Huntington Library, 1969), pl. XXXV; it is also reproduced in
+                        <hi rend="i">The Huntington Library Quarterly</hi>, 18 (May 1955). Blake
+                        refers to a Hecate “drawing” or
+                        “cartoon” (<hi rend="i">Complete Writings</hi>, p. 855) by
+                        George Romney in his possession in 1804 (p. 849) and which he claims was
+                        both well executed and well known (p. 855). This Romney <hi rend="i">Hecate</hi> may
+                        have influenced his own portrayals of the goddess;
+                        certainly it must bear a relationship to the <hi rend="i">Comus</hi> Hecate,
+                        for Blake describes it as “the figure with the torch and
+                        snake” (p. 840). I have been unable to locate Romney’s
+                        drawing, despite the able assistance of Shirley Martin of the Univ. of Maine
+                        library at Farmington, who has made inquiries for me at Yale and Princeton,
+                        which hold major Romney collections, and at Huntington, Frick, Courtland,
+                        and Tate. Jean H. Hagstrum kindly referred my inquiry to his former student
+                        Warren Jones, who is currently working on the Blake color-printed drawings
+                        of 1795; Jones made inquiries of Martin Butlin and of Ann Crookshank, a
+                        leading Romney authority. Jones thinks Blake may have owned it, Butlin
+                        believes that it probably belonged to Hayley, and Miss Crookshank surmises
+                        that it is probably lost among the numerous Romney drawings scattered
+                        throughout the world.</note>
+                </p>
+                <p>Hecate’s identity proliferates in the later Classical poets, whose
+                    view Milton follows (Osgood, p. 29). She is identified as Artemis,
+                    Apollo’s twin sister and daughter of Zeus and Leto, and is said to
+                    possess three identities: Selene (or Luna or Cynthia) in the sky, Artemis (or
+                    Diana) on earth, and Proserpina (or Hecate) in hell and on the earth at
+                    night.<supplied type="spacer"> </supplied><ref target="n24" type="note">24</ref> 
+                    She later becomes identified with malignant divinity, witchcraft (Osgood, p. 29), and 
+                    terror.<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref> 
+                    Moreover, she represents choice and
+                    uncertainty: “She was associated with deeds of darkness, the Goddess of
+                    the Crossways, which were held to be ghostly places of evil magic. . . . In her
+                    is shown most vividly the uncertainty between good and evil which is apparent in
+                    every one of the divinities” (Hamilton, p. 32). <note id="n24">
+                        <hi rend="s">24</hi> Edith Hamilton, <hi rend="i">Mythology</hi> (1940; rpt.
+                        New York: New American Library, 1969), p. 31; see also Alastair
+                        Fowler’s note, <hi rend="i">The Poems of Milton</hi>, ed. John
+                        Carey and Fowler (London: Longman, 1968), p. 26.</note>
+                    <note id="n25">
+                        <hi rend="s">25</hi> Charles M. Gayley, <hi rend="i">The
+                            Classical Myths in English Literature</hi>, 3rd ed. (Boston: Ginn,
+                        1894), p. 84.</note>
+                </p>
+                <p>Blake’s decision to switch Cotytto for Hecate in B must be regarded as
+                    a significantly different view of the masque—a second interpretation
+                    that does not necessarily supersede the first. If Hecate now rides to attend the
+                    Banquet of B 5, she would appear to supersede Cotytto as the reigning evil deity
+                    over this and other B scenes, leaving Cotytto’s whereabouts a puzzle.
+                    If we consider the masque again chronologically, she cannot be attending Comus
+                    in B 1 during the events of B 4 because both B 1 and B 2 are past when B 4
+                    occurs. Perhaps Blake thought of her as switching roles with Hecate and present
+                    but not visible in B 2. The text, as discussed above, emphasizes the sorcery
+                    (and by extension, Hecate) in the second scenes; yet in B 2 Blake does not
+                    include (as he does in H) the visual emblem of 
+<pb id="p12-169" n="169"/>
+                    <figure n="but527.1.4.wc" id="but527.1.wc.04" work-copy="but527.1" rend="db" width="813" height="1000">
+	<figTranscr>inv<lb/>
+	WB</figTranscr>
+                        <head>Scene 4: “The Brothers Meet the Attendant Spirit in the
+                            Wood.”</head>
+                        <figDesc>Huntington.</figDesc>
+                    </figure>
+                    <pb id="p12-170" n="170"/>
+                    <figure n="but528.1.4.wc" id="but528.1.wc.04" work-copy="but528.1" rend="db" width="781" height="1000">
+	<figTranscr>WBlake</figTranscr>
+                        <head>Scene 4: “The Brothers Meet the Attendant Spirit in the
+                            Wood.”</head>
+                        <figDesc>Boston.</figDesc>
+                    </figure>
+                    <pb id="p12-171" n="171"/>
+magic, the <hi rend="i">haemony</hi>, and thus
+                    appears to de-emphasize the elements of enchantment.</p>
+                <p>Hecate’s visual presence in the B designs draws attention away from
+                    the themes Cotytto represents as it emphasizes the importance of sorcery and the
+                    supernatural: the Attendant Spirit, Comus’s wand, the cup with
+                    transmogrifying liquor, the monsters, the spells on the travelers and later on
+                    the Lady, the enchanted herb, and Sabrina’s counter-spell releasing
+                    the Lady. As Goddess of the Crossroads, Hecate also reinforces the theme of
+                    choice, of the difficulty of making decisions in a deceptive world. A
+                    cross-examination of all sixteen designs in terms of these motifs reveals a
+                    general consistency: the H series usually emphasizes sensuality and the threat
+                    of sexual force, as well as a strict virginity opposing that threat, rather than
+                    the elements of witchcraft, deception, and choice. In the B series, the emphasis
+                    is generally the reverse.</p>
+                <figure n="but527.1.5.wc" id="but527.1.wc.05" work-copy="but527.1" rend="db" width="821" height="1000">
+	<figTranscr>inv<lb/>
+	WB</figTranscr>
+</figure>
+                <figure n="but528.1.5.wc" id="but528.1.wc.05" work-copy="but528.1" rend="db" width="788" height="1000">
+	<figTranscr>WBlake</figTranscr>
+                    <head>Scene 5: “The Magic Banquet with the Lady
+                        Spell-Bound.”</head>
+                    <figDesc>Huntington, left; Boston, right.</figDesc>
+                </figure>
+                <p>In H 1 a stress on sexuality is apparent in the nudity of Comus and the
+                    wolf-headed monster; in B all the figures are clad. Comus’s body is
+                    more muscular than in B, and therefore more sexual and more <corr type="emend">threatening</corr>. The Lady
+                    clasps her hands between her breasts (even more pronounced in H 5 where she
+                    folds her hands protectively over her breasts), highlighting the theme of
+                    defensive virginity; in B 1 her hands are unclasped and held away from her body.
+                    Elements of sorcery in B are suggested by the attention Blake affords to the cup
+                    with the magic potion: Comus holds it high and appears to be casting a spell
+                    over it with his powerful wand; in H, however, the cup is not nearly so
+                    conspicuous in the hand of the hog-monster. Also, the right foot of this female
+                    monster is cloven, suggesting the demonic; but in H it is 
+                    not.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref>
+                    <note id="n26">
+                        <hi rend="s">26</hi> This detail, apparent in the original, is
+                        not so visible in reproductions: my copy of A. Fletcher’s color
+                        reprints fails to show the clearly differentiated toes of the H
+                        female’s left foot, making <hi rend="i">it</hi> appear cloven,
+                        and his reprint of B is not sufficiently clear to show the
+                        figure’s seemingly cloven left foot. The reproduction of H in the
+                        Huntington catalog cited above is much clearer.</note>
+                </p>
+                <p>In H 2 the sexuality-virginity emphasis continues with an aged but still muscular
+                    Comus in disguise: his neck and right arm are bullish, his frame solid; in B
+                    Comus is noticeably younger and his build slighter. The Lady in H appears
+                    distressed, fearful, anxious, and holds her upraised hands close to her body; in
+                    B she displays no such worried expression, and her upraised hands are away from
+                    her body in a less-threatened, more relaxed pose. Seemingly inconsistent with
+                    Blake’s emphasis in H, as noted previously, is the appearance of 
+                    <hi rend="i">haemony</hi> in the Spirit’s hand, an emblem of the
+                    supernatural.</p>
+                <p>Neither version of Scene 3 stresses sexuality over sorcery. The H Comus now
+                    appears younger, the 
+                    <pb id="p12-172" n="172"/>
+                    <figure n="but527.1.6.wc" id="but527.1.wc.06" work-copy="but527.1" rend="db" width="798" height="1000">
+						<figTranscr>inv<lb/>
+						WB</figTranscr>
+					</figure>
+                    <figure n="but528.1.6.wc" id="but528.1.wc.06" work-copy="but528.1" rend="db" width="800" height="1000">
+						<figTranscr>WBlake</figTranscr>
+                        <head>Scene 6: “The Brothers Driving out Comus.”</head>
+                        <figDesc><corr type="emend">Huntington, upper<gap type="emend" rend="plain"/>; Boston, lower<gap type="emend" rend="plain"/>.</corr></figDesc>
+                    </figure> 
+                    B Comus older (as shown by the lines in his face and neck).</p>
+                <p>H 5 continues the muscular Comus; the B Comus is delicate, effeminate. However,
+                    both are clothed, although thinly. Yet Comus in H is barefooted, with his right
+                    foot close to the Lady’s and the big toe oddly short and raised
+                    toward her. The H Lady covers her breasts in defense of her virginity, and she
+                    sits in a chair with carvings of three bare-breasted female figures entwined
+                    apparently with serpents; the carvings plainly embody the sensual temptation
+                    that Comus is offering the Lady, and they contrast well with the
+                    Lady’s defensive posture. The carved figures are absent in the B
+                    chair, and the Lady’s hands are relaxed on her thighs. An emphasis in
+                    B on sorcery can be seen in Blake’s positioning of the magic cup.
+                    Just as in B 1, Blake in B 5 draws attention to it: Comus holds it high enough
+                    to outline it clearly against the plain column behind; in H, Comus holds it so
+                    low that its lines blend with those of Comus’s arm, hand, cape, the
+                    bird-monster behind, and the covered dish below, which repeats the triangular
+                    shape of the cup’s pedestal, reverses the shape of the cup itself,
+                    and therewith obscures it. Also highlighting the sorcery in B is the visionary
+                    and amazing serpent above Comus’s wand; clearly designed to represent
+                    the spell Comus is casting over the Lady, the snake has no body apart from that
+                    suggested by the lines of a nearly invisible two-layered cloud over the Lady.
+                    Finally, the oddly shaped carafe held on a platter by the strange dwarf, to
+                    which Comus points his wand, seems to reinforce the element of magic. The
+                    cat-monster to the Lady’s left also holds an unusual container
+                    apparently containing transforming liquid. Perhaps with the cup and these two
+                    containers Blake is amplifying the text in providing Comus with several choices
+                    for the Lady.</p>
+                <p>In H 6 Comus is again more muscular than in B, and naked (as in H 1); the B Comus
+                    is still clothed. Again the Lady in H tightly covers her breasts as she sits in
+                    the carved chair; in B her hands still rest on her thighs. Suggestions of
+                    sorcery are present in both versions: in B the four vanishing faces below
+                    Comus’s wand are evil and demonic, especially the lowest one; in H
+                    the faces, from bottom up, are a point-eared human face that seems to be
+                    breathing red flames toward the brothers (Milton’s stage directions
+                    after line 813 specify that the monsters give a show of resistance); a
+                    bird-monster like that in B 5 (nearest the Lady); another human face, this one
+                    with stubby horns; and above the wand, a long-eared horse head (from lines
+                    553-54?).</p>
+                <pb id="p12-173" n="173"/>
+                <p>Neither seventh scene emphasizes sensuality. B suggests Sabrina’s
+                    magic power more than H: she is covered by a bright rainbow at the end of which
+                    sits the Lady; and Sabrina’s magic drops to purify the Lady are
+                    emphasized visually by the shell in which she carries the 
+                    liquid.<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> 
+                    In H she merely holds her hand over the Lady’s head. 
+                    <note id="n27">
+                        <hi rend="s">27</hi>
+                            Sabrina’s purification rite (910-21) does not mention a
+                            shell, but much earlier the Lady alludes to one in her lovely song,
+                            song, “Sweet Echo”: 
+                            <q> “<hi rend="i">Sweet
+                                    Echo, sweetest Nymph that liv’st unseen / Within thy
+                                    airy shell / By slow Meander’s margent green</hi> 
+                                . . . ” (230-32). </q>
+                            Blake’s shell in B 7 thus
+                            stresses visually Sabrina’s identity as a water nymph; but
+                            more important, it ties Sabrina to the Lady’s early plea to
+                            the Nymph Echo for assistance in finding her brothers, consequently
+                            involving Sabrina from the very beginning of the Lady’s
+                            confrontation with evil.
+                    </note>
+                </p>
+                <p>Neither eighth scene emphasizes sensuality. But the magical is clearly the
+                    highlight of B, wherein the departing Attendant Spirit is executed with a
+                    delicacy and a translucence complementing the brightness of the scene and giving
+                    the sensation that one can almost see through him, that he is dissolving into
+                    the air.</p>
+                <p>Blake’s two series for <hi rend="i">Comus</hi>, then, are
+                    considerations of the masque from different viewpoints. The masque itself is
+                    particularly rich in connotations of both the sexuality-virginity theme and the
+                    theme of witchcraft, magic, and the supernatural. The visual representatives of
+                    these themes—the reigning powers of this particular night during
+                    which the chaste Lady is in serious danger of seduction—are Cotytto
+                    in H and Hecate in B. Blake’s use of these two pagan goddesses to
+                    represent themes he accentuates fairly consistently throughout the two series
+                    not only illuminates the masque by focusing attention on Milton’s
+                    themes, but also highlights Blake’s own perception that Cotytto and
+                    Hecate as powers of evil are at the very center of Milton’s drama in
+                    which good and evil clash openly and forcibly, and in which both Milton and
+                    Blake ultimately assert the necessity of making a proper choice between the
+                    two.</p>
+				<figure n="but527.1.7.wc" id="but527.1.wc.07" work-copy="but527.1" rend="db" width="837" height="1000">
+					<figTranscr>inv<lb/>
+					WB</figTranscr>
+				</figure>
+				<figure n="but528.1.7.wc" id="but528.1.wc.07" work-copy="but528.1" rend="db" width="787" height="1000">
+					<figTranscr>WBlake</figTranscr>
+					<head>Scene 7: “Sabrina Disenchanting the Lady.”</head>
+					<figDesc><corr type="emend">Huntington, upper; Boston, lower.</corr></figDesc>
+				</figure>
+				<pb id="p12-174" n="174" rend="hidden"/>
+				<pb id="p12-175" n="175"/>
+				<figure n="but527.1.8.wc" id="but527.1.wc.08" work-copy="but527.1" rend="db" width="819" height="1000">
+					<figTranscr>inv<lb/>
+					WB</figTranscr>
+				</figure>
+				<pb id="p12-176" n="176"/>
+				<figure n="but528.1.8.wc" id="but528.1.wc.08" work-copy="but528.1" rend="db" width="778" height="1000">
+					<figTranscr>WBlake</figTranscr>
+				</figure>
+				<pb id="p12-177" n="177" rend="hidden"/>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

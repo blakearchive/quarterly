@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>30.3.carolinas</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Call for Papers: Carolinas Symposium on British Studies</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1996/7</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996/97</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">30.3</biblScope>
+            <biblScope unit="volume">30</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Hilda Hollis</name>
+              <name>Marc Kaplan</name>
+              <name>Deborah McCollister</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996/97"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_30">
+    <body>
+      <div1 id="BQ-30-3-0008">
+      	<pb id="p30-95" n="95"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Call For Papers: Carolinas Symposium on British
+                                Studies</hi>
+            </title>
+          </head>
+          <p>The 24th annual conference of the Carolinas Symposium on British Studies will
+                        be held at Augusta State University in Augusta, Georgia on 4 and 5 October
+                        1997. The Symposium provides an annual forum for the delivery of scholarly
+                        presentations and the exchange of ideas relating to all aspects of British
+                        Studies, including history, literature, art and architecture, government,
+                        dance and music.</p>
+          <p>While the Symposium is regionally based in the Southeast, participants from
+                        all parts of the country are encouraged to submit proposals for individual
+                        papers, full sessions, and panel discussions.</p>
+          <p>We also invite submissions for the student paper session from both graduate
+                        and undergraduate students, with a prize in each category.</p>
+          <p>Proposals or papers should be sent to Dr. William S. Brockington, Department
+                        of History, University of South Carolina at Aiken, Aiken, SC 29801 by 15
+                        March 1997. Student papers, which must be complete, should be sent to Dr.
+                        Jacqueline L. Gmuca, Department of English, Coastal Carolina University,
+                        Conway SC 29526 by 1April 1997.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

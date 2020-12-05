@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.3.miscellaneous</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Miscellaneous</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.3</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>S. Foster Damon</name>
+                            <name>Alvin H. Rosenfeld</name>
+                            <name>Laurence Goldstein</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <div1 id="BQ-01-3-0004">
+                <pb id="p01-8" n="8"/>
+                <div2>
+                    <head>
+                        <title type="main">4. MISCELLANEOUS</title>
+                    </head>
+                    <p>An expanded version of Kathleen Raine’s A. W. Mellon Lectures in the Fine Arts, 
+<hi rend="u">Blake and Tradition</hi>, is scheduled for June publication in the Bollingen Series by the Princeton
+University Press. The two-volume work includes 194 illustrations, 11 in color. Also of interest to Blake
+scholars will be <hi rend="u">Thomas Taylor the Platonist: Selected Writings</hi>, edited by Miss Raine and
+George Mills Harper, and scheduled for summer publication in the Bollingen Series. And Miss Raine informs us
+that her collection of essays <hi rend="u">Defending Ancient Springs</hi>, just published by Oxford University
+Press, includes “Yeats’s Debt to William Blake.”</p>
+                    <p>An unaltered reprint of Swinburne’s <hi rend="u">William Blake: A Critical Study</hi>
+(1869) has been issued by Benjamin Blom, Inc. (4 West Mt. Eden Avenue, Bronx, N.Y. 10452. Price $12.50).</p>
+                    <p>A second edition of <hi rend="u">A Blake Dictionary</hi>, with some additions, is in
+the press; also a second printing of <hi rend="u">Blake’s Job.</hi>
+                    </p>
+                    <p>More Blake courses: Foster Damon will give a graduate seminar on Blake at Brown in the
+spring ’68 semester. Edward Rose teaches a full-year graduate seminar on Blake at the University of Alberta
+(Edmonton, Ontario) every other year. Morton Paley will give a graduate seminar on Blake’s longer poems in
+fall ’68, at Berkeley.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

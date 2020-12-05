@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.2.fine</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Update to “A Checklist of Blake Material in The Lessing J. Rosenwald Collection”</title>
+        <author n="Fine">Ruth E. Fine</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.2</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David Bindman</name>
+              <name>Detlef Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas V. Lange</name>
+              <name>Raymond Lister</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>Dennis M. Read</name>
+              <name>Leonard M. Trawick</name>
+              <name>Nicholas O. Warner</name>
+              <name>Kasumitsu Watarai</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <div1 id="BQ-14-2-0011">
+        <pb id="p14-111" n="111"/>
+        <div2>
+          <p>In the “Checklist of Blake Material in The Lessing J. Rosenwald 
+<corr type="emend">Collection,”</corr> published in <hi rend="i">Blake Newsletter</hi> 35, 
+Volume 9, Number 3, Winter 1975-76, several items were listed in the personal collection
+of Lessing J. Rosenwald. With Mr. Rosenwald’s death and the transfer of the collections to Washington, these
+items have become the property of either the National Gallery of Art (NGA) or the Library of Congress (LC) as
+indicated in the list below. Specific institutional catalogue or accession numbers for these items are not
+available at this time.</p>
+          <table rows="11" cols="4">
+            <row>
+              <cell>
+                <hi rend="i">Blake Newsletter Checklist Number</hi>
+              </cell>
+              <cell>
+                <hi rend="i">Author or Artist</hi>
+              </cell>
+              <cell>
+                <hi rend="i">Title</hi>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>II, C, 12b, ii</cell>
+              <cell>Blake after?</cell>
+              <cell>“hand with candle” from <hi rend="i">Essays on Physiognomy</hi></cell>
+              <cell>not designated</cell>
+            </row>
+            <row>
+              <cell>II, C, 17</cell>
+              <cell>Darwin</cell>
+              <cell>The Botanic Garden</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>II, C, 27</cell>
+              <cell>Hayley</cell>
+              <cell>The Triumphs of Temper</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>II, C, 33</cell>
+              <cell>Emlen</cell>
+              <cell>Proposition for a New Order in Architecture</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>IV, C, 1</cell>
+              <cell>Blake</cell>
+              <cell>(several figures and horse in landscape), with variation of subject on verso</cell>
+              <cell>NGA</cell>
+            </row>
+            <row>
+              <cell>VII, B, 1</cell>
+              <cell>Stothard</cell>
+              <cell>Battle of Ain</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>VIII, C, 1</cell>
+              <cell>Flaxman</cell>
+              <cell>(several studies for A Letter . . . Raising the Naval Pillar</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>VIII, C, 2</cell>
+              <cell>Flaxman</cell>
+              <cell>(Kneeling figure leaning over a reclining figure), brief sketches on verso</cell>
+              <cell>NGA</cell>
+            </row>
+            <row>
+              <cell>VIII, C, 3</cell>
+              <cell>Swinburne, trans.</cell>
+              <cell>The Ghost of Abel</cell>
+              <cell>LC</cell>
+            </row>
+            <row>
+              <cell>IX, B, 1</cell>
+              <cell>Blake</cell>
+              <cell>Illustrations of Dante, restrike impressions</cell>
+              <cell>Complete set in NGA; others privately distributed</cell>
+            </row>
+          </table>
+          <byline><docAuthor>RUTH E. <name>FINE</name>,</docAuthor>
+          NATIONAL GALLERY OF ART, WASHINGTON, D.C.</byline>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.kupersmith</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">S. Foster Damon Collection at Brown University</title>
+        <author n="Kupersmith">John Kupersmith</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0002">
+      	<pb id="p06-60" n="60"/>
+          <head>
+            <title type="main">
+              <hi rend="b">Damon Collection</hi>
+            </title>
+          </head>
+          <p>Foster Damon had a fine Blake collection of some 300 items (not including manuscripts). Besides
+copies of most secondary works on Blake, standard and non-standard editions, and Trianon, Dent, Muir, and
+other facsimiles, the collection contains original editions of some of Blake’s source materials and of his
+own works, including several early editions of Blair’s <hi rend="i">The Grave</hi>, Hayley’s 
+<hi rend="i">Ballads</hi>, and works by Flaxman and Cumberland on which Blake collaborated. There are also such
+items as an excellent collection of sheet music for Blake’s poems, a wide variety of prints, a Blake Bible,
+and so forth.</p>
+          <p>The collection also has value as “Damoniana,” including as it does many books bearing Damon’s
+marginalia, his notebooks, a good deal of correspondence, and some unpublished manuscripts.</p>
+          <p>Damon was associated with the John Hay Library at Brown University for some years, and at his
+death in 1971 the collection (in its entirety, as far as I have been able to determine) passed to the library,
+where it presently awaits cataloguing. The library intends to keep the collection together (a very reassuring
+decision), and is building it up through such acquisitions as the Trianon facsimile of the Gray illustrations.
+<hi rend="i">(Our thanks to John Kupersmith for this item. He is now preparing for the</hi> Newsletter 
+<hi rend="i">an account of the history and principal contents of the Damon collection. Eds.)</hi></p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

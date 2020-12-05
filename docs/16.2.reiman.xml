@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.2.reiman</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Derivation and Meaning of “Ololon”</title>
+        <author n="Reiman">Donald H. Reiman</author>
+        <author n="Kraus">Christina Shuttleworth Kraus</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.2</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Krzysztof Z. Cieszkowski</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+              <name>Christina Shuttleworth Kraus</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith W. Page</name>
+              <name>Donald H. Reiman</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-82" n="82"/>
+      <div1 id="BQ-16-2-0006">
+        <head>
+          <title type="main">
+            <hi rend="b">THE DERIVATION AND MEANING OF “OLOLON”</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">DONALD H.</hi>
+            <name>
+              <hi rend="b">REIMAN</hi>
+            </name>
+          </docAuthor>
+          <hi rend="b">AND</hi>
+          <docAuthor>
+            <hi rend="b">CHRISTINA SHUTTLEWORTH</hi>
+            <name>
+              <hi rend="b">KRAUS</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>Northrop Frye suggested that the name Ololon in <hi rend="i">Milton</hi> derives from
+     “ululation,” a word Blake himself uses in <hi rend="i">The Four Zoas.</hi><supplied type="spacer"> </supplied><ref target="n10" type="note">1</ref> In both English and Latin (from which the English words come
+     directly), <hi rend="i">ululate</hi> means to howl, wail, or lament, and <hi rend="i">ululation</hi>
+either a howl, wail, or cry of lamentation, or the action of howling or
+     wailing (<hi rend="i">OED</hi>; Lewis &amp; Short, <hi rend="i">A Latin Dictionary</hi>).
+      <note id="n10"><hi rend="s">1</hi> <hi rend="i">Fearful Symmetry</hi> (Princeton: Princeton University
+Press, 1947), p. 143; cf.
+       <hi rend="i">The Four Zoas</hi> 4:62.</note></p>
+        <p>Frye’s etymology has gone generally unchallenged, though two scholars mention (in
+     passing) what is clearly the single, direct origin of the name. Peter F. Fisher remarks simply
+     that Ololon was “a name probably derived from a Greek word (ὀλολύζειν) which signified the
+     crying of women to the gods.”<supplied type="spacer"> </supplied><ref target="n11" type="note">2</ref>
+Harold Bloom also notes
+                    that Ololon is from ὀλολύζειν, but he misinterprets the Greek and follows Frye
+in discussing
+     “the lamentation of women to the gods.”<supplied type="spacer"> </supplied><ref target="n12"
+type="note">3</ref> Grief
+                    and mourning, however, may not be the aspects of ὀλολύζειν that Blake wished to
+suggest. As defined
+                    in Liddell and Scott’s <hi rend="i">Greek-English Lexicon</hi> (1961), the verb
+ὀλολύζειν,
+                    with the related words ὀλολυγών and ὀλολυγαῖος, applies to “women
+crying aloud to the gods in
+     prayer or thanksgiving,” to “the cries of goddesses,” and to “women crying
+     to the gods . . . mostly in sign of joy.” A survey of classical uses of the word from
+     Homer (e.g., <hi rend="i">Od.</hi> 22.411, <hi rend="i">Il.</hi> 6.301) to Aristophanes (e.g.,
+      <hi rend="i">Birds</hi> 222, <hi rend="i">Knights</hi> 1327) and the tragedians indicates not
+     only that the word has jubilant connotations, but that it was sometimes used in specific
+     opposition to a cry of lament. This is particularly evident in a scene from Euripides’
+      <hi rend="i">Medea</hi>, in which a messenger describes Creusa’s death from poison and
+     her handmaiden’s reaction to it. The servant initially thinks it a portent from the
+     gods: 
+	<q>καί τις γεραιὰ προσπόλων, δόξασά που<lb/>
+         ἢ Πανὸς ὀργὰς ἢ τινὸς θεῶν μολεῖν,<lb/>
+         ἀνωλόλυξε . . .<lb/>
+<lb/>
+ An aged woman servant who, I take it, thought This was some
+      seizure of Pan or another god, Cried out, “God bless us” . . . </q>
+But, as she
+          realizes what is happening, she howls in terror: 
+		<q><corr type="emend">εἶτ᾽</corr>
+ἀντίμολπον ἧκεν ὀλολυγῆς μέγαν<lb/>
+                        κωκυτόν. . . .<lb/>
+<lb/>
+ Then she raised a
+      different cry from that “God bless us,”<lb/>
+ A huge shriek . . . <ref target="n13" type="note">4</ref>
+	<note id="n13"><hi rend="s">4</hi> Translation by Rex Warner, in <hi rend="i">The Complete
+        Greek Tragedies</hi>, eds. David Grene and Richmond Lattimore (Chicago: University of
+       Chicago Press, 1959), III, 99.</note></q>
+Her second cry, a κωκυτός, <hi rend="i">is</hi> a wail
+of grief (the hellish river Cocytus
+                    takes its name therefrom), and Euripides is careful to stress, with his
+ἀντίμολπον . . . ὀλολυγῆς
+     (“sounding different from ululation”), the change in the nature of the outburst.
+      <note id="n11"><hi rend="s">2</hi> <hi rend="i">The Valley of Vision: Blake as Prophet and
+Revolutionary</hi> (Toronto:
+      University of Toronto Press, 1961), p. 248. Northrop Frye in his “Editor’s
+      Preface” calls attention to Fisher’s great command of languages.</note>
+	<note id="n12"><hi rend="s">3</hi> <hi rend="i">Blake’s Apocalypse: A Study in Poetic Argument</hi>
+(Ithaca: Cornell
+      University Press, 1970), p. 332.</note></p>
+        <p>There is a secondary meaning of ὀλολύζειν which may have influenced Blake in the choice
+of a name
+     for his character. Johannes Scapula’s sixteenth-century <hi rend="i">Lexicon
+      Graeco-Latinum</hi>, the standard Greek lexicon of Blake’s day (used, for example, by
+     Shelley and members of his circle in their Greek studies), gives, along with the earlier
+     meanings of the verb, the Aristotelian definition of ὀλολυγών: <hi rend="i">Ululatus: et
+      peculiariter is quem mares ranae edunt, cum foeminas ad coitum vocant</hi> (I. 1816:
+     “out-cry: and particularly that which male frogs emit when they 
+<pb id="p16-83" n="83"/>
+     call the females to coitus”).<supplied type="spacer"> </supplied><ref target="n14" type="note">5</ref>
+Although this is a
+     technical term which applies to the male of the species—in contrast to the literary
+     ὀλολύζειν, which is an exclusively female activity<supplied type="spacer"> </supplied><ref
+target="n15" type="note">6</ref>—it
+     is possible that Blake read Scapula and chose to incorporate sexual connotations into his
+     Ololon, perhaps overlooking the masculine emphasis that appears only in <hi rend="i">mares</hi>
+                    of the Latin definition. Ὀλολυγών, which transliterates as 
+<hi rend="i">ololugōn</hi>, is
+     the form of the word closest to the name Blake selects: he need only drop the penultimate
+     syllable to arrive at “Ololon.” <note id="n14"><hi rend="s">5</hi> Cf. Aristotle, 
+<hi rend="i">Historia Animalium</hi> 536<hi rend="s">a</hi>11, and Aelianus, <hi rend="i">De
+       Natura Animalium</hi>, 9.13.</note>
+	<note id="n15"><hi rend="s">6</hi> Cf. Aeschylus, <hi rend="i">Agamemnon</hi>, 594-95: καὶ
+γυναικείῳ νόμῳ / ὀλολυγμὸν ἄλλος ἄλλοθεν κατὰ πτόλιν
+ἔλασκον ευφημοῦντες (“and throughout all the quarters of the city, in woman’s wont,
+they raised
+      a shout of gladsome praise”; trans. H. Weir-Smith, Loeb Classical Library edition of
+      Aeschylus [Cambridge, Mass.: Harvard University Press, 1963], II, 53).</note></p>
+        <p>Although Blake did not enjoy a formal education, he did study foreign languages and
+     literatures. His library certainly contained books in French and Italian, and Frederick Tatham
+     maintained that Blake also owned Hebrew, Latin, and Greek texts.<supplied type="spacer"> </supplied><ref
+target="n16" type="note">7</ref> In 1803, Blake wrote to his brother James that the Greek lessons which he was
+taking
+     from William Hayley were progressing well: “I go on Merrily with my Greek &amp; Latin; am
+     very sorry that I did not begin to learn languages early in life as I find it very Easy . . . .
+     I read Greek as fluently as an Oxford scholar &amp; the Testament is my chief master:
+     astonishing indeed is the English Translation, it is almost word for word. . . .”<supplied
+type="spacer"> </supplied><ref target="n17" type="note">8</ref> Blake’s own estimation of his fluency may be
+taken
+     with a grain of salt (the two men apparently confined their studies to the New Testament and to
+     collating Cowper’s Homer<supplied type="spacer"> </supplied><ref target="n18" type="note">9</ref>), but
+one may assume that
+     the poet had a working knowledge of classical Greek and doubtless made use of a Greek
+     lexicon—in all likelihood Scapula’s. He could, therefore, have been aware of the
+     range of meaning and the subtle ramifications thereof that the word ὀλολύζειν suggests for the
+     character he creates. <note id="n16"><hi rend="s">7</hi> G. E. Bentley, Jr., and Martin K.
+      Nurmi, <hi rend="i">A Blake Bibliography</hi> (Minneapolis: University of Minnesota Press,
+      1964), pp. 195-212. The Tatham letter of 8 June 1864 is printed in Geoffrey Keynes’s
+      “Blake’s Library” (<hi rend="i">Times Literary Supplement</hi>, 6 November
+      1959, p. 648).</note>
+	<note id="n17"><hi rend="s">8</hi> Blake to James Blake, 30 January 1803; in Geoffrey Keynes,
+      ed., <hi rend="i">The Letters of William Blake</hi> (Cambridge, Mass.: Harvard University
+      Press, 1968), pp. 65-66.</note>
+	<note id="n18"><hi rend="s">9</hi> Alexander Gilchrist, <hi rend="i">Life of William
+      Blake</hi>, ed. Ruthven Todd (London: J. M. Dent &amp; Sons Ltd., 1942), p. 146, quotes a
+      letter dated 8 Nov. 1801 from Hayley to the Rev. John Johnson describing how he and Blake
+      “read every evening that copy of [Cowper’s] Iliad . . . comparing it with the
+      first edition and with the Greek as we proceed.”</note></p>
+        <p>How appropriate, then, is this derivation of “Ololon” for the Blakean character and
+     for <hi rend="i">Milton</hi> as a whole? Susan Fox’s study of the poem, <hi rend="i">Poetic Form in
+Blake’s “Milton”</hi> (Princeton University Press, 1976)
+     provides insight into Ololon’s nature and into her relations with the poet-character
+      Milton.<supplied type="spacer"> </supplied><ref target="n19" type="note">10</ref> Accepting Fox’s
+outline of the structure
+     and action of <hi rend="i">Milton</hi>, we suggest that there are additional nuances in the
+     poem when one takes into account the Greek derivation and meanings of the name
+     “Ololon.” <note id="n19"><hi rend="s">10</hi> See also John Howard, <hi rend="i">Blake’s
+“Milton”: A Study in the Selfhood</hi> (Rutherford, N. J.:
+      Fairleigh Dickinson University Press, 1976), and Kay Parkhurst Easson and Roger R. Easson in
+      their Shambhala edition of <hi rend="i">Milton</hi> (1978).</note></p>
+        <p>When Ololon first appears in Book I (Plate 21),<supplied type="spacer"> </supplied><ref
+target="n20" type="note">11</ref> it is
+     as a “sweet River, of milk &amp; liquid pearl” (21:15). At this point, Ololon is the
+     lifegiving river of Eden—unconscious and undifferentiated sexuality—its qualities
+     of “milk and liquid pearl” suggesting a union of the milk of women’s breasts
+     and the pearly semen of the male.<supplied type="spacer"> </supplied><ref target="n21"
+type="note">12</ref> But a crucial change in
+     the status of Ololon takes place in Plate 21. On the “mild banks” of the river Ololon
+     “dwelt those who Milton drove / Down into Ulro” (both grammar and context demand that
+     we read “those . . . who” as the subject of “drove” and “Milton”
+     as the object, driven “Down into Ulro”). As Ololon will ultimately be revealed to
+     Blake-in-Felpham as human history (“the Woof of Six Thousand Years,” 42:15), we can
+     infer from the varied descriptions of Ololon on Plate 21 that the river represents the flow of
+     historical process, while “those” who dwell on its “mild banks” are
+     individual historical figures and societies. In Eden, where all contraries are united, these
+     embody both the potentialities and the past realizations of the historical process. Among them,
+     therefore, are both the beings and forces who conditioned the historical John Milton in his
+     failure to fulfill his potentiality (hence driving him to Ulro) and all unrealized
+     potentialities in the idea of “Milton” awaiting redemption through incarnation:
+     “they wept” and “The mountains” (identified as “the river’s
+     living banks,” that is, the limiting parameters of historical necessity)
+     “wail’d!” at the fate of Milton. Each dawn “the Family / Of Eden heard
+     the lamentation” though “the clarions of day” soon “drowned the
+     lamentations / And when night came . . . all refused to lament” (21:23-26). But the
+     lamentation at dawn suffices to begin “Providence,” which Blake saw as the ambiguous
+     intrusion of Eternity into Time.<supplied type="spacer"> </supplied><ref target="n22"
+type="note">13</ref>
+	<note id="n20"><hi rend="s">11</hi> Text and plate and line numbers are from <hi rend="i">The
+       Poems of William Blake</hi>, ed. David V. Erdman, commentary by Harold Bloom (Garden City, N.
+      J.: Doubleday &amp; Co., Inc., 1968).</note>
+	<note id="n21"><hi rend="s">12</hi> Compare Shelley’s <hi rend="i">Epipsychidion</hi>, lines 568-72:
+<q>
+the wells<lb/>
+ Which boil under our being’s
+        inmost cells,<lb/>
+ The fountains of our deepest life, shall be<lb/>
+ Confused in
+        passion’s golden purity,<lb/>
+ As mountain-springs under the morning Sun. </q>
+(As the
+       note in the Norton Critical Edition of <hi rend="i">Shelley’s Poetry and Prose</hi>
+       (p. 387) points out, the explicit sexual images here are accompanied by an allusion to the
+       myth of Alpheus and Arethusa.) See also Fox, <hi rend="i">Poetic Form</hi>, p. 216, fn.
+       16.
+                    </note>
+	<note id="n22"><hi rend="s">13</hi> For a suggestion of some of the complexities, see S. Foster
+      Damon, <hi rend="i">A Blake Dictionary</hi> (Providence: Brown University Press, 1965), pp.
+      335-36.</note></p>
+        <p>When the laments reach “the Family Divine” and “the Cloud of Milton”
+     stretches “over Europe,” the Four Zoas unite into the figure of “One Man”
+     weeping over Ololon (21:39). Ololon then begins to “feel Pity” for Milton (21:54) and
+     thereby breaks the unconscious unity of its self-contained Edenic state, incarnating through a
+     series of transformations, beginning with a metamorphosis from river into the
+     “Clouds” which accompany the manifestation of “One Man even Jesus”
+     (21:58-60).</p>
+        <p>In Book the Second, this composite group of clouds descends to Beulah, the “place where
+     Contrarieties are equally True” (30:1). Their “descent” is not a qualitative
+     one: as Fox notes, Beulah is not a lesser, but simply a different state from Eden.<supplied
+type="spacer"> </supplied><ref target="n23" type="note">14</ref> Unlike the Edenic world of sexual union
+between contraries,
+     Beulah is incapable of accepting the potential stress of conflict between opposing essences. It
+     is a world of protected, infantile sexuality and maternal love: “Beulah to its inhabitants
+     appears . . . / As the beloved infant in his mother’s bosom round incircled”
+     (30:10-11). As Ololon passes through this place, the inhabitants of Beulah lament, fearing the
+     impending struggle of the final judgment as “they saw the Lord coming / In the Clouds of
+     Ololon with Power &amp; Great Glory” (31:15-16). As the Clouds of Ololon pass through
+     this moony world, they begin to lament with Beulah. The river of sexual union destabilizes and
+     dissolves as it drifts through the half-realized realm of childish innocence<supplied type="spacer"> </supplied><ref target="n24" type="note">15</ref>—its contraries are separated, and Ololon, now split into
+     distinguishable “Sons &amp; Daughters” (30:4), laments in a world in which mature
+     sexual love is frustrated: “Men are sick with Love!” (31:62). <note id="n23"><hi rend="s">14</hi>
+Fox, <hi rend="i">Poetic Form</hi>, pp. 9-10, 128 ff.</note>
+	<note id="n24"><hi rend="s">15</hi> Compare Shelley’s use of the hydrogen cycle in <hi rend="i">Prometheus
+Unbound</hi>, II.ii.70-82.</note></p>
+        <p>As “the Divine Voice was heard in the Songs of Beulah” (33:1 ff.), there comes a
+     change in the quality of union from a “mild and gentle” state to a period of jealousy
+     and strife: “now thou art terrible / In jealousy &amp; unlovely in my sight, because thou
+     hast cruelly / Cut off my loves in fury till I have no love left for thee” (33:5-7). Yet a
+     temporary answer to this pain of division <hi rend="i">is</hi> offered: the “Songs of
+     Beulah in the Lamentations of Ololon” end with a promise of a renewal of self-effacing
+     trust, “When the Sixfold Female” (the Emanations representing Milton’s wives
+     and daughters) shall “relent” and “give / Her maidens to her 
+<pb id="p16-84" n="84"/>
+husband:
+delighting in his delight” (33:14-18); “then &amp; then alone
+     begins the happy Female joy, / As it is done in Beulah” (33:19-20). In the
+     infantile/maternal state of Beulah, the female’s abnegation of self takes the form of
+     nourishing the male by providing him with whatever he desires, “delighting in his
+     delight.”</p>
+        <p>This self-effacement, however, does not solve the problem posed by historic Milton’s
+     descent to “Eternal Death.” Ololon must continue to journey until the potentialities
+     inherent in the eternal idea of Milton reunite with the figure fixed by history, rejoining
+     Milton’s aggressive maleness with the principle of selfless union hitherto possible to
+     maleness only in the Edenic realm of potentiality. To that end, Ololon continues its descent
+     into the generated world of the “Mundane Shell.” Reaching “rocky Albion,”
+     it takes on a final incarnation in Blake’s own garden as “a Virgin of twelve
+     years” (36:17).</p>
+        <p>Ololon, now embodied as an unthreatening female Emanation, meets her ideal Spectre,
+     “Milton,” now embodied in William Blake. After admitting to him that she has fostered
+     false natural religion in her previous incarnations, she hears “Milton” declare the
+     need for mutual annihilation and replies once again “in clouds of despair” (41:29).
+     Then, the virgin “with a shriek” separates into six parts, splits “Away from
+     Ololon” (i.e., the Eden potentiality), and flees “into the depths / of
+     Milton’s Shadow” (42:3-6). The explosive chemistry of the union of Spectre and
+     Emanation produces the vision of “One Man Jesus the Saviour,” wrapped in a garment
+     “named the Woof of Six Thousand Years” (42:11, 15): in short, the union of the Divine
+     Image of Man, clothed in the matrix of human history. This final action, occurring in the world
+     of generation and yet not fully partaking of it, restores to Ololon the ideal unity of
+     sexuality that had been its original nature in Eden. Now, however, its wholeness results not
+     from complacent, unthinking acceptance of its potentiality but from self-conscious choice in
+     the realm of actuality.</p>
+        <p><hi rend="i">Milton</hi> is, among many other things, the story of a journey from a
+     pre-sexual state through childhood/motherhood to the full awareness of adult sexual maturity.
+     The union of male and female in the original river Ololon and the similar union in the final
+     plate of the poem are both manifestations of a perfect fusion of contraries; only the last
+     combination, however, which takes place within the Mundane Shell, redeems William Blake and,
+     through him, mankind, existent within the Mundane Shell.</p>
+        <p>If “Ololon” means, as we maintain, a cry of joy or a cry to the gods, then the
+     “lamentations” attributed to manifestations of Ololon throughout the poem have a
+     multiple significance. First, they are, even in the depths of despair, cries to the
+     gods—i.e., to the powers of self-knowledge and self-sacrifice that will eventually
+     destroy false natural religion and enable Ololon to recombine with Milton in a mutual
+      redemption.<supplied type="spacer"> </supplied><ref target="n25" type="note">16</ref> Secondly, on a
+linguistic plane,
+     Ololon’s journey represents a passage from meaning through nonsense to full meaning
+     again. While in her river state, “Ololon” is both a cry to the Divine within humanity
+     and an expression of sexuality. When she at last rediscovers her true nature, in the garden at
+     Felpham, she is once again this combination of sexuality and joy. Her lamentations of
+     Milton’s fate in Eden and in Beulah are, like her incarnation in Beulah in the form of
+     clouds, incomplete. They do not represent Ololon’s true nature—until the female
+     potentialities in her can be united with Milton, neither is she whole in any sense, nor has the
+     full significance of her name unfolded. Finally, the fact that those lamentations that begin in
+     Eden are replaced by the rejoicing implicit in Ololon’s name only within the Mundane
+     Shell demonstrates again that Blake’s ideal state lies within the quotidian world of
+     full human experience—not in some external heaven or realm of forms. 
+<note id="n25"><hi rend="s">16</hi> Cf. the trusting cry of the despairing Trojan women in <hi rend="i">Iliad</hi> 6, as they
+plead with Athena: αἱ δ ὀλολυγῇ πᾶσαι Ἀθήνῃ χεῖρας ἀνέσχον (6.301:
+“all the women, in a cry [<hi rend="i">ololugē</hi>] to Athena, lifted up their hands . . .
+”).</note></p>
+        <p>The etymology of “Ololon” reinforces the idea that the names Blake
+     “coins” are neither arbitrary nor merely onomatopoeic, but have traditional
+     historical or linguistic bases. And despite the uncompromising condemnation of the classics in
+     the Preface to <hi rend="i">Milton</hi> (later suppressed), the classical antecedents of
+     “Ololon” indicate that Blake was at least interested enough in ancient secular
+     literature to pursue the implications of a few words therefrom—more, perhaps, than have
+     thus far been identified.</p>
+      </div1>
+	<pb id="p16-85" n="85" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

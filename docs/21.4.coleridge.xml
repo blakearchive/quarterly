@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.4.coleridge</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Coleridge Summer Conference</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.4</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Jackie Di Salvo</name>
+              <name>Morris Eaves</name>
+              <name>Robert N. Essick</name>
+              <name>George Goyder</name>
+              <name>Nelson Hilton</name>
+              <name>Inge Jonsson</name>
+              <name>Morton D. Paley</name>
+              <name>Donald H. Reiman</name>
+              <name>David Simpson</name>
+              <name>Tadeusz Sławek</name>
+              <name>Sheila A. Spector</name>
+              <name>David H. Weinglass</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <div1 id="BQ-21-4-0009">
+      	<pb id="p21-173" n="173"/>
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">COLERIDGE SUMMER CONFERENCE</hi>
+            </title>
+          </head>
+          <p>The Friends of Coleridge in Somerset will be holding the first Coleridge Summer Conference from
+25 to 28 July 1988, in Nether Stowey, Somerset, England. This is the first conference held in this region,
+within one hundred yards of Coleridge Cottage, and at the center of the Quantock countryside which influenced
+the major poetry of Coleridge and the early writing of Wordsworth. The main speakers will include Coleridge
+scholars Jack Stillinger, K. M. Wheeler, and Peter Larkin, and the distinguished local historian Robert
+Dunning. If you wish to submit a proposal for a conference session or a paper on Coleridge or related areas of
+the romantic movement please contact Dr. David S. Miall, Coleridge Summer Conference 1988, The College of St.
+Paul &amp; St. Mary, The Park, Cheltenham, GL50 2RH, England. For further information contact Mrs. Rosemary
+Cawthray, Coleridge Cottage, 35 Lime Street, Nether Stowey, Bridgwater, TA5 1NQ, England.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.hamburg</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Jerusalem in Hamburg</title>
+                <author n="Dörrbecker">Detlef W. Dörrbecker</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <div1 id="BQ-11-1-0012">
+            	<pb id="p11-61" n="61"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">Jerusalem in Hamburg</hi>
+                        </title>
+                    </head>
+                    <figure n="jerusalem.e.p51" id="jerusalem.e.illbk.51" work-copy="jerusalem.e" rend="db" width="958" height="714">
+	<figTranscr>51</figTranscr>
+</figure>
+                    <p>Late last summer (1976) Colnaghi’s in London offered for sale
+                        Blake’s preparatory drawing for <hi rend="i">Jerusalem</hi> 51
+                        (see pl. 4 and Butlin’s description in <hi rend="i">Blake
+                            Newsletter 25</hi>, Summer 1973, p. 7). This pencil study, which
+                        formerly belonged to the collection of David J. Black, Edinburgh, has found
+                        its new home in the print room of Hamburger Kunsthalle. With at least a copy
+                        of Young’s <hi rend="i">Night Thoughts</hi> containing
+                        Blake’s engravings, an incomplete set of <hi rend="i">Illustrations of the Book of
+Job</hi>, an almost complete set of the
+                        Blake Trust facsimiles (which to my knowledge is unique in a German
+                        library), a large selection of other Blake books, and this new acquisition
+                        of one of Blake’s most finished pencil drawings, the Hamburger
+                        Kunsthalle is showing signs of building a respectable Blake collection.
+                        <byline><docAuthor>DETLEF <name>DÖRRBECKER</name>,</docAuthor> FRANKFURT.</byline></p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

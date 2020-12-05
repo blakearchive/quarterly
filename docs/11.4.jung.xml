@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.4.jung</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Papers on Jung</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.4</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Marietta Barnes</name>
+              <name>Lynn Goldstein</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Susan Fox</name>
+              <name>Laurence Goldstein</name>
+              <name>Janice Lyle</name>
+              <name>Morton D. Paley</name>
+              <name>Ronald Paulson</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-4-0009">
+		<pb id="p11-299" n="299"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">PAPERS ON JUNG</hi>
+            </title>
+          </head>
+          <p>Deadline: 15 December 1978. Papers for possible presentation at a conference, “Jungian
+Perspectives
+			<figure n="JungianStudies.11.4.bqscan" rend="file" width="250" height="168">
+				<figTranscr>JUNGIAN STUDIES</figTranscr>
+			</figure>
+			on Creativity and the Unconscious,” that examine the nature of creativity, that present Jungian critical
+studies of the arts, architecture, literature of all languages, film, philosophy, and in psychology
+(especially as a means of promoting creativity among university students in the arts and humanities).
+Critiques of the Jungian perspective are welcome. Abstracts of 500 words for papers approximately 20 minutes
+in length should be sent to Donald W. Fritz, Dept. of English, 234 Upham Hall, Miami University, Oxford, Ohio
+45056.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

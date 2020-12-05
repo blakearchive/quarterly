@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-109-111" n="109-111"/>
+            <div1 id="cover">
+                <figure n="cover.004.04.bqscan" rend="file" width="258" height="333">
+                    <figTranscr>BLAKE NEWSLETTER 16</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-04-4-0001">
+                <table id="contents" rows="19" cols="2">
+                    <row>
+                    	<cell colspan="2">
+			                <head>
+			                    <title>
+			                        <supplied type="emend">CONTENTS</supplied>
+			                    </title>
+			                </head>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">NEWS AND WORKS IN PROGRESS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.4.sales">Recent Blake Sales</ref></cell>
+						<cell/>
+                    </row>
+                    <row> 
+                        <cell><supplied type="emend">Michael Phillips,</supplied> 
+<ref type="article" issue="4.4.phillipsnews">British Blake News</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">Michael Payne,</supplied> 
+<ref type="article" issue="4.4.payne">Teaching Blake at Bucknell</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.4.house">Blake under the House</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">Roger and Kay Easson,</supplied> 
+<ref type="article" issue="4.4.eassonnews">A Blake Symposium and a Blake Festival</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">Roger and Kay Easson,</supplied> 
+<ref type="article" issue="4.4.eassoncatalogue">A Catalogue Raisonne of Blake’s Book Illustrations</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><supplied type="emend">Hazel Pierce,</supplied> 
+<ref type="article" issue="4.4.pierce">New Blake Music</ref></cell>
+						<cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.4.works">Works in Progress</ref></cell>
+                        <cell>112</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">NOTES</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John E. Grant, <ref type="article" issue="4.4.grant">Blake’s Designs for 
+<hi rend="i">L’Allegro</hi> and <hi rend="i">Il Penseroso</hi>, Part I: A Survey of the Designs</ref></cell>
+                        <cell>117</cell>
+                    </row>
+                    <row>
+                        <cell>Judith Rhodes, <ref type="article" issue="4.4.rhodes">Blake’s Designs for 
+<hi rend="i">L’Allegro</hi> and <hi rend="i">Il Penseroso</hi>: Thematic Relationships in Diagram</ref></cell>
+                        <cell>135</cell>
+                    </row>
+                    <row>
+                        <cell>Roger R. Easson, <ref type="article" issue="4.4.easson">Blake and the
+Contemporary Art Market</ref></cell>
+                        <cell>137</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">REVIEWS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Thomas H. Helmstadter, on 
+<ref type="article" issue="4.4.helmstadter"><hi rend="i">Blake’s Illustrations to the Poems of Gray</hi> by Irene Tayler</ref></cell>
+                        <cell>140</cell>
+                    </row>
+                    <row>
+                        <cell>Robert Essick, on <ref type="article" issue="4.4.essick">the reprinted facsimile
+of <hi rend="i">The Note-Book of William Blake Called the Rossetti Manuscript</hi> edited by Geoffrey
+Keynes</ref></cell>
+                        <cell>142</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">DISCUSSION</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John Beer, <ref type="article" issue="4.4.beer">A Reply to Irene
+Chayes</ref></cell>
+                        <cell>144</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">MINUTE PARTICULARS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Louis Middleman, <ref type="article" issue="4.4.middleman">“Bring out number,
+weight &amp; measure in a year of dearth”</ref></cell>
+                        <cell>147</cell>
+                    </row>
+                    <row>
+                        <cell>John Adlard, <ref type="article" issue="4.4.adlard">“The Garden of
+Love”</ref></cell>
+                        <cell>147</cell>
+                    </row>
+                    <row>
+                        <cell>Michael Phillips, <ref type="article" issue="4.4.phillips">“Blake’s
+Corrections in <hi rend="i">Poetical Sketches</hi>”: A Forthcoming Supplement and the Britwell Court Library
+Copy</ref></cell>
+                        <cell>148</cell>
+                    </row>
+                    <row>
+                        <cell>Ruthven Todd, <ref type="article" issue="4.4.todd">The Bohn Catalogue and James
+Vine</ref></cell>
+                        <cell>149</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">QUERY</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Arnold Fawcus, <ref type="article" issue="4.4.fawcus">Early States of the 
+<hi rend="i">Job</hi> Series</ref></cell>
+                        <cell>150</cell>
+                    </row>
+                </table>
+				<corr type="emend" rend="plain">
+				    <p>The <hi rend="i">BLAKE NEWSLETTER</hi> is published quarterly under the sponsorship of the
+Department of English of the University of New Mexico. Support for bibliographical assistance is provided by
+the University of California, Berkeley.</p>
+					<p>Morton D. Paley, Executive Editor <hi rend="i">University of California, Berkeley</hi></p>
+					<p>Morris Eaves, Managing Editor <hi rend="i">University of New Mexico</hi></p>
+					<p>Donald D. Ault, Associate Editor <hi rend="i">University of California, Berkeley</hi></p>
+					<p>Michael Phillips, Associate Editor <hi rend="i">University of Edinburgh</hi></p>
+					<p><hi rend="i">MANUSCRIPTS</hi> are welcome. They should be typed and documented according to the forms
+recommended in the <hi rend="i">MLA Style Sheet</hi>, 2nd ed., rev. (1970). Send two copies with a stamped,
+self-addressed envelope either to Morton D. Paley, Executive Editor, <hi rend="i">Blake Newsletter</hi>,
+Department of English, University of California, Berkeley, California 94720, or to Morris Eaves, Managing
+Editor, <hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico, Albuquerque, New
+Mexico 87106.</p>
+					<p><corr type="emend"><hi rend="i">SUBSCRIPTIONS</hi> are $3.00 for one year; invoiced, $4.00; overseas
+by air, $4.00 (U. S. currency if possible). Make checks payable to the <hi rend="i">Blake Newsletter.</hi>
+Address all subscription orders and related communications to Morris Eaves, Managing Editor, 
+<hi rend="i">Blake Newsletter</hi>, Department of English, University of New Mexico, Albuquerque, New Mexico
+87106.</corr></p>
+				</corr>
+                <note type="unreferenced" place="footer">Copyright © 1971 by Morton D. Paley and Morris
+Eaves</note>
+            </div1>
+        </front>
+        <body>
+        	<pb id="p04-152" n="152"/>
+        	<figure n="experience-diagram.4.4.bqscan" rend="file" width="258" height="330">
+        		<figTranscr>IMAGINATION<lb/>
+				<lb/>
+				M[IRTH]<lb/>
+				(d[awn)]<lb/>
+				<lb/>
+				IMAGINATION<lb/>
+				<lb/>
+				MILTON<lb/>
+				THE PROPHET<lb/>
+				(night song)<lb/>
+				<lb/>
+				12<lb/>
+				<lb/>
+				AWAK[ENING]<lb/>
+				<lb/>
+				MILTON’S<lb/>
+				DREAM<lb/>
+				(vision)<lb/>
+				<lb/>
+				11<lb/>
+				<lb/>
+				LOS<lb/>
+				<lb/>
+				IMAG[INATION]<lb/>
+				<lb/>
+				MILTON &amp;<lb/>
+				MELANCHOLY<lb/>
+				(dance)<lb/>
+				<lb/>
+				10<lb/>
+				<lb/>
+				TYRANNIZED<lb/>
+				<lb/>
+				EMA[NATION]<lb/>
+				<lb/>
+				MILTON &amp;<lb/>
+				PLATO<lb/>
+				(thought)<lb/>
+				<lb/>
+				9<lb/>
+				<lb/>
+				SATAN<lb/>
+				<lb/>
+				CONTE[MPLATION]<lb/>
+				<lb/>
+				MILTON &amp;<lb/>
+				THE MOON<lb/>
+				(inspiration)<lb/>
+				<lb/>
+				8<lb/>
+				<lb/>
+				ETERNA[L]<lb/>
+				<lb/>
+				MELA[NCHOLY]<lb/>
+				(d[usk)]<lb/>
+				<lb/>
+				MEMORY<lb/>
+				<lb/>
+				THE WORLD O[F]<lb/>
+				EXPERIENCE<lb/>
+        		<lb/>
+        		In this issue John Grant (p. 117) and Judith Rhodes (p. 135)<lb/>
+        		discuss Blake’s designs for L’Allegro and Il Penseroso</figTranscr>
+        	</figure>
+        </body>
+    </text>
+</TEI.2>

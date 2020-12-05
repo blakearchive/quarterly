@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.4.worrall</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Francis Curtis and Richard Dean, Blake: A Software Package</title>
+        <author n="Worrall">David Worrall</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.4</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>John A. Hodgson</name>
+              <name>Andrew Lincoln</name>
+              <name>David W. Lindsay</name>
+              <name>M. A. L. Locherbie-Cameron</name>
+              <name>Paul Mann</name>
+              <name>Peter Otto</name>
+              <name>Warren Stevenson</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <body>
+      <div1 id="BQ-22-4-0005">
+        <pb id="p22-133" n="133"/>
+        <div2>
+          <head>
+            <title type="main">Francis Curtis and Richard Dean. <hi rend="i">Blake: A Software Package.</hi>
+West Sussex Institute of Higher Education, Bishop Otter College, College Lane, Chichester, West Sussex,
+England, PO19 4PE, 1987.</title>
+          </head>
+          <byline>
+            <hi rend="b">Reviewed by</hi>
+            <docAuthor>
+              <hi rend="b">David</hi>
+              <name>
+                <hi rend="b">Worrall</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>The search for new ways of teaching is as essential as keeping up with the latest developments in
+literary theory; indeed, it might even be said that literary theory <hi rend="i">necessitates</hi> new ways of
+teaching. <hi rend="i">Blake: A Software Package</hi> is not the answer to all of our problems in presenting
+Blake to undergraduate students previously virtually unacquainted with his work, but it presents an
+interesting field for further exploration and I found the process of evaluation quite a revealing one.</p>
+          <p>My students do a fairly traditional English literature program which they take with one other
+subject such as sociology, history, classical studies, drama, or geography. Blake is a year-two author in a
+traditional “author”-based course where he is taught after Wordsworth but before “the others.” Seminar
+groups each comprise about eight to ten students who have been reading and discussing, at least, 
+<hi rend="i">The Book of Thel, Songs of Innocence and of Experience, Visions of the Daughters of Albion</hi>, and
+<hi rend="i">America</hi>, while lectures will have introduced them to the wider work of Blake. Blake’s
+illuminated books are projected, as complete works, onto the seminar room wall and discussion takes place on
+that basis. It was within this framework of teaching that I introduced the software package at the end of the
+course
+<figure type="reviewed-cover"/>
+of seminars. The Blake software is easy to load and runs on a BBC microcomputer with 32K of RAM. It is
+currently the system most widely found in the U.K. for use in schools and in further and higher education.</p>
+          <p>The title of the program, <hi rend="i">Blake: A Software Package</hi>, is rather misleading as it
+is based entirely on “London” and does not offer an introduction to the rest of the 
+<hi rend="i">Songs</hi> let alone Blake’s other works. My first impression on using the program was how odd it
+seemed to go back to the <hi rend="i">printed</hi> word (even in electronic form) after looking quite
+intensively at the combination of Blake’s word and image. Perhaps one would need to look forward to a new
+age of electronics (and a new age of funding) for software which could incorporate high-quality visuals with
+some sort of enhancement to explore the detail of Blake’s between-the-line illuminations. Nevertheless,
+loading the floppy disc is easy and you soon have another “person” in the seminar room as the T.V.
+monitor’s ice-cold eye awaits appeasement and suggestion.</p>
+          <pb id="p22-134" n="134"/>
+          <p>The program’s introductory messages are laid out in colored blocks of text with simple
+instructions. Using the software via the keyboard is extremely easy, merely a question of typing in words or
+letters or using the space bar. It’s not much good as an introduction to the BBC hardware or to computing
+but, on the other hand, it quells computer fright. The first menu is the only part of the program that is
+truly interactive and this simply asks you to “fill in the missing word” so “charter’d” must be
+correctly contracted and punctuated even if one of the other missing words, “appalls,” swallows up the
+comma at the end of the line if you are to get the CORRECT message. This proved to be quite a good way of
+seeing how closely students had acclimatized themselves to Blake’s writing.</p>
+          <p>The second phase of the program leads to simple manuscript revisions of “London” which signal
+obvious points for general discussion: such as why Blake eventually decided “charter’d” rather than
+“dirty,” “mark” rather than “see,” “Infants cry of fear” rather than “voice of every
+child.” It’s at this level that one realizes that the software package is aimed at schools at least as
+much, if not more than, institutions of higher education. There is also no further scope for interactivity
+between student and program after this section. Indeed, the program implicitly reintroduces the tutor so that
+monitor and program virtually become a colored open text book.</p>
+          <p>The third phase presents a rather traditional list of “high” literary texts which might
+provide a literary context for Blake’s “London.” These include Johnson’s “London: A Poem,”
+Swift’s “A Description of the Morning,” and “A Description of a City Shower,” Gay’s “Trivia, or
+the Art of Walking the Streets of London,” essays such as Addison’s on “The Royal Exchange,”
+Steele’s “The Hours of London,” and passages from Defoe’s <hi rend="i">Moll Flanders</hi> and
+Wordsworth’s <hi rend="i">The Prelude.</hi> The student then looks these pieces up in the anthologies often
+available for undergraduate teaching.</p>
+          <p>The fourth part of the program calls up Wordsworth’s “Composed Upon Westminster Bridge” and
+<hi rend="i">The Prelude</hi> (1805) 7.593-598 for further discussion and comparison. The fifth and final part
+of the program isolates gnomic looking lines from Johnson’s “London”:
+<q>
+In vain, these Dangers past, your Doors you close,<lb/>
+And hope the balmy Blessings of Repose:<lb/>
+Cruel with Guilt, and daring with Despair,<lb/>
+The midnight Murd’rer bursts the faithless Bar;<lb/>
+Invades the sacred Hour of silent Rest<lb/>
+And leaves, unseen, a Dagger in your Breast. (236-241)
+</q>
+Studying the lines out of their Johnsonian context, on the screen, in the seminar room, it seemed to us that
+Blake’s “Harlots curse” of “plagues” might suggest a similar “venereal disease” reading of
+Johnson’s lines. This is the most sophisticated work we did on the program; the compilers have suitably
+tailored it so that the greatest degree of difficulty of response is reached at the end. The students did find
+it, at first, slightly unusual to have a T. V. monitor rather than just me on the end of the desk but within a
+few minutes they were able to accept it as being a neutral object in the room to which one referred as to the
+printed page. The most noticeable feature of using this software was exactly this, that it became a talking
+point around which the discussion could, but needn’t, circulate.</p>
+          <p>The major limitation of <hi rend="i">Blake: A Software Package</hi> is the tiny capacity of the
+floppy disc and the BBC computer: there’s very little one can do with such a small memory and it seems to
+rule out searching individual words across, say, the <hi rend="i">Songs</hi>, or calling up full, line by line
+revisions. Given that the lack of a good graphics facility is likely to continue, I still think there are
+things that unsophisticated computers, and even more unsophisticated computer operators, can do to give an
+extra dimension to teaching.</p>
+          <p>For example, it would be good to have a program capable of referring the reader to texts which
+might be associated with the <hi rend="i">Songs</hi> but which are not “high” literature, such as
+contemporary texts relevant to chimney sweeps, or hymns for children or contemporary newspaper items. All
+these <hi rend="i">are</hi> difficult to get out of books without having a toppling pile in the seminar room.
+Gathering together such disparate materials on disc would be a useful aid to teaching. On a more specialized
+note, it would be good to have in a computer program the various orderings of the <hi rend="i">Songs of
+Innocence and of Experience</hi> with some simple function so that the student could work out Blake’s
+statistical preferences. Again, I believe that this would be a more exciting use of information technology
+than merely using the program as a televised book.</p>
+          <p><hi rend="i">Blake: A Software Package</hi> is neatly produced on screen, easy to read, easy to
+use (the accompanying handouts are rather dismal in their range of suggestions and presentation although the
+A5 format lends itself to photocopying as worksheets). It would be good to see Francis Curtis and Richard Dean
+have the opportunity to edit and publish more powerful programs in the field of Blake and Romantic
+studies.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

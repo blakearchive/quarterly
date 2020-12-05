@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.3.play</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Call for Plays</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1986-87</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986-87</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.3</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Stewart Crehan</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Stuart Peterfreund</name>
+              <name>Michael J. Tolley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-110" n="110"/>
+      <div1 id="BQ-20-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">CALL FOR PLAYS</hi>
+            </title>
+          </head>
+          <p>Actors Theatre of Louisville is now conducting a nationwide search for unpublished translations
+and adaptations of plays for next season’s (1987-88) Classics in Context Festival—“The Romantics,”
+which will celebrate the ideals and influence of Romanticism on the stage. Though plays by any dramatist whose
+work is associated with Romanticism will be considered, plays by Johann Wolfgang von Goethe, Friedrich
+Schiller, Ludwig Tieck, Alexander Pushkin, and <corr type="emend">Mikhail Lermontov</corr> are of particular interest. New plays (either
+original or adaptations of novels) that deal with the people, ideas, and events connected with Romanticism
+will also be considered. Please submit plays by 1 November 1987 to Actors Theatre of Louisville, Literary
+Department, 316 West Main Street, Louisville, KY 40202.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

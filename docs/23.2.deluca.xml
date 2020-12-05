@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.2.deluca</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and Burke in Astonishment!</title>
+        <author n="De Luca">V. A. De Luca</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.2</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Manging Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Rodney M. Baine</name>
+              <name>Martin Bidney</name>
+              <name>Martin Butlin</name>
+              <name>V.A. De Luca</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Michael Grenfell</name>
+              <name>Desmond King-Hele</name>
+              <name>Paul Mann</name>
+              <name>Anne K. Mellor</name>
+              <name>Dena Bain Taylor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+	<pb id="p23-100" n="100"/>
+      <div1 id="BQ-23-2-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake and Burke in Astonishment!</title>
+          </head>
+          <byline>
+            <docAuthor>V. A. <name>De Luca</name></docAuthor>
+          </byline>
+          <p>On those occasions when Blake discloses his most important views on art and poetry—say, in the
+<hi rend="i">Descriptive Catalogue</hi>, or in the Annotations to Reynolds’s <hi rend="i">Discourses</hi>,
+or in the letter to Butts of 6 July 1803—the sublime never seems far from his mind. We do not know the
+extent of his acquaintance with formal eighteenth-century theories of the sublime but we can be certain that
+he read the most famous treatise on the subject—Burke’s <hi rend="i">Philosophical Enquiry into . . . the
+Sublime and the Beautiful</hi>: “Burke’s Treatise on the Sublime &amp; Beautiful,” he tells us in the
+annotations to Reynolds, “is founded on the Opinions of Newton &amp; Locke on this Treatise Reynolds has
+grounded many of his assertions.”<supplied type="spacer"> </supplied><ref target="n54" type="note">1</ref>
+Blake tells us that he read it when “very young,” and what he read when “very young” usually struck,
+held in a strong clasp of love or hate. The avowed hatred in this case has tended to mask a rich overlay of
+tastes and assumptions. A few critics have recognized the link between the two men,<supplied type="spacer"> </supplied><ref target="n55" type="note">2</ref> but our sense of the complexity of the relation may still
+need some refining—such as how much even Blake’s departures from Burke issue from a Burkean ground. 
+<note id="n54"><hi rend="s">1</hi> David V. Erdman, ed. <hi rend="i">The Complete Poetry and Prose of William
+Blake</hi>, newly rev. ed. (Garden City: Anchor P/Doubleday, 1982) 660; hereafter referred to as E.</note>
+	<note id="n55"><hi rend="s">2</hi> See, for example, Josephine Miles, <hi rend="i">Eras and Modes in English
+Poetry</hi> (Berkeley and Los Angeles: U of California P, 1957) 78-99; Morton D. Paley, <hi rend="i">Energy
+and the Imagination: A Study of the Development of Blake’s Thought</hi> (Oxford: Clarendon P, 1970) 18-24;
+and especially Paley, <hi rend="i">The Continuing City: William Blake’s</hi> Jerusalem (Oxford: Clarendon P,
+1983) 57ff.</note></p>
+          <p>One handy and efficient way of approaching a complicated relation between two writers is to focus
+on key terms that are shared in their vocabularies. Blake and Burke share “astonishment,” one of the
+central terms in
+<pb id="p23-101" n="101"/>
+the idiom of the eighteenth-century sublime, and an examination of their use of the term sheds light on the
+parallels and divergencies of their aesthetics. In the discourse of sublimity “astonishment” comes laden
+with ambiguity: it names a human psychological state, yet resonates with the powers of external nature, from
+the airy might of thunder (from which it derives etymologically) to the solidity of stone (which it resembles
+in sound). Burke begins the second part of his <hi rend="i">Philosophical Enquiry</hi>, an analysis of the
+sublime proper, with a definition of “astonishment”:
+<q>
+The passion caused by the great and sublime in <hi rend="i">nature</hi>, when those causes operate most
+powerfully, is Astonishment; and astonishment is that state of the soul, in which all its motions are
+suspended, with some degree of horror. In this case the mind is so entirely filled with its object, that it
+cannot entertain any other, nor by consequence reason on that object which employs it. Hence arises the great
+power of the sublime, that far from being produced by them, it anticipates our reasonings, and hurries us on
+by an irresistible force.<supplied type="spacer"> </supplied><ref target="n56" type="note">3</ref>
+	<note id="n56"><hi rend="s">3</hi> Edmund Burke, <hi rend="i">A Philosophical Enquiry into the Origin of Our
+Ideas of the Sublime and the Beautiful</hi>, ed. J. T. Boulton (London: Routledge and Kegan Paul, 1958)
+57.</note></q>
+Writers throughout the century refer to astonishment in similar terms.<supplied type="spacer"> </supplied><ref
+target="n57" type="note">4</ref> But however much these formulas are repeated, perplexities abound. The
+psychological state itself seems curiously resistant to straightforward discursive explanation, as Burke’s
+own highly figurative language demonstrates. There is a marked ambiguity in the play of these figures. At the
+moment of astonishment, when the power of the sublime manifests itself, the mind becomes utterly open to the
+influx of what it beholds (“filled with its object”), and yet this flood of power into the mind produces
+no kinetic transfer of energy to the mind’s faculties but rather the reverse, a suspension of internal
+motion, a total arrest. At first appearing entirely permeable, the mind in an instant becomes impenetrable,
+like a container packed to the bursting point (“so entirely filled with its object, that it cannot entertain
+any other”). The mind is quite stopped (“suspended”), only to be “hurried”; its internal density
+becomes crushing and yet finally it is easily carried along. “Astonishment,” then, cannot be so much
+described as circumscribed by a ring of mutually canceling figures such as action/arrest,
+penetration/resistance, inertial mass/momentum. The figures are drawn from physical mechanics, but they
+compose no mechanics that Newton would recognize. Here the continuum of cause and effect breaks down; outward
+forces have unpredictable inward consequences. As Burke presents it, “astonishment” marks the intervention
+of sharp discontinuities in the spheres of both nature and mind: nature suddenly manifests itself in so
+overwhelming a fashion that normal relations of subject and object are abolished; at the same time the mind
+loses its consistency of operation and becomes a thing of paradox, of self-contradictory extremes. 
+<note id="n57"><hi rend="s">4</hi> Addison, for example, tells us that “our imagination loves to be filled with an
+object, or to grasp at anything that is too big for its capacity. We are flung into a pleasing astonishment at
+such unbounded views. . . .” According to Johnson, “[The sublime is] that comprehension and expanse of
+thought which at once fills the whole mind, and of which the first effect is sudden astonishment, and the
+second rational admiration.” Here is a sampling of similar contemporary opinions: “The sublime . . . takes
+possession of our attention, and of all our faculties, and absorbs them in astonishment”; “[the sublime]
+imports such ideas presented to the mind, as raise it to an uncommon degree of elevation, and fill it with
+admiration and astonishment”; “objects exciting terror are . . . in general sublime; for terror always
+implies astonishment, occupies the whole soul, and suspends all its motions.” See, respectively, 
+<hi rend="i">Works of Joseph Addison</hi>, 6 vols. (London: T. Cadell and W. Davies, 1811) 4: 340; Samuel Johnson,
+“The Life of Cowley,” <hi rend="i">Lives of the English Poets</hi>, ed. George Birkbeck Hill, 3 vols.
+(1905; Oxford: Clarendon P; New York: Octagon Books, 1967) 1: 20-21; James Usher, <hi rend="i">Clio: Or, a
+Discourse on Taste</hi>, 2nd ed. (London: T. Davies, 1769) 102; Hugh Blair, “A Critical Dissertation on the
+Poems of Ossian,” in <hi rend="i">The Poems of Ossian</hi>, trans. James Macpherson, 2 vols. (London: W.
+Strahan and T. Cadell, 1773) 2: 422; Alexander Girard, <hi rend="i">An Essay on Taste</hi> (London: A Millar,
+1759) 19.</note></p>
+          <p>It is easy to comprehend the part that astonishment plays in the dynamics of a Burkean
+“terrific” sublime. Terror and astonishment are kindred states, as Burke makes clear in an etymological
+aside:
+<q>
+The Romans used the verb <hi rend="i">stupeo</hi>, a term which strongly marks the state of an astonished
+mind, to express the effect either of simple fear, or of astonishment; the word <hi rend="i">attonitus</hi>,
+(thunderstruck) is equally expressive of the alliance of these ideas; and do not the french 
+<hi rend="i">étonnement</hi> and the english <hi rend="i">astonishment</hi> and <hi rend="i">amazement</hi>,
+point out as clearly the kindred emotions which attend fear and wonder?<supplied type="spacer"> </supplied><ref target="n58" type="note">5</ref>
+	<note id="n58"><hi rend="s">5</hi><hi rend="i"> Philosophical Enquiry</hi> 58.</note></q>
+To be struck by lightning is literally a form of astonishment, for etymologically the word means
+“thunderstruck.” Perhaps the prestige of the term “astonishment” in eighteenth-century aesthetics
+derives ultimately from Longinus, who tells us that “the Sublime, when seasonably addressed, with the rapid
+force of Lightning has born down all before it, and shewn at one stroke the compacted Might of
+Genius.”<supplied type="spacer"> </supplied><ref target="n59" type="note">6</ref> The two metaphors that
+Longinus employs here for the onset of the sublime, the stroke of natural lightning and the blow of
+intellectual power, imply a hidden and prior third, one that connects the forces of nature to the forces of
+mind. This mediating figure is of course that of a divine being, like the Jove and Jehovah of myth and
+scripture, at once the author of natural thunder and of human inspiration. Hence the word 
+<hi rend="i">astonishment</hi> incorporates within itself two contradictory aspects of the sublime; it immobilizes
+or releases, destroys or raises up. One is either struck by the divine power and “hurried” on to
+participate in its glories, or one is struck dead as a stone. <note id="n59"><hi rend="s">6</hi> Dionysius
+Longinus, <hi rend="i">Essay on the Sublime</hi>, trans. William Smith (London, 1756) 3.</note></p>
+          <p>Blake shows a surprisingly persistent allegiance to Burkean settings and diction, giving us
+imagery and narrative scenarios that are full of sensory deprivations—darkness, cloudiness, and the host of
+disquieting sensations that gather under the general term “terror”.<supplied type="spacer"> </supplied><ref target="n60" type="note">7</ref> He also uses the term “astonishment” more frequently than
+any other major poet in the period 1660-1830,<supplied type="spacer"> </supplied><ref target="n61"
+type="note">8</ref> and always with careful discrimination. Extraordinarily sensitive to the possibilities of
+word play,<supplied type="spacer"> </supplied><ref target="n62" type="note">9</ref> he is quick to hear the
+thunder and to see the “stone” in astonishment.<supplied type="spacer"> </supplied><ref target="n63"
+type="note">10</ref> The word thus could easily encompass the whole program of Urizen, armed with “his ten
+thousands of thunders” (<hi rend="i">BU</hi> 3.28), to bring about a “solid without fluctuation,” “a
+wide world of solid obstruction” (<hi rend="i">BU</hi> 4.11,23). Hence to experience astonishment means in
+one sense to turn to stone, to be “filled,” as Burke would say, with the inducing power and filled solid.
+Thus in <hi rend="i">Urizen</hi>, “Wonder, awe, fear, astonishment, / Petrify the eternal myriads” 
+(<hi rend="i">BU</hi> 18.13-14). As it is the fate of overweening deities in Blake to be struck by their own
+thunder, as soon as Urizen manifests himself in all his pride, he is struck down and stunned (from 
+<hi rend="i">étonnement</hi>) into “<hi rend="i">a</hi>
+	<pb id="p23-102" n="102"/>
+stony sleep” (<hi rend="i">BU</hi> 6.7) or, elsewhere, into “<hi rend="i">a stoned</hi> stupor” 
+(<hi rend="i">FZ</hi> 52.20). The moment of astonishment, then, is <hi rend="i">par excellence</hi>, the moment
+when, in Blake’s famous formula, one becomes what one beholds. Beholding Urizen’s stony sleep, mentioned
+above, Los is “smitten with astonishment” (<hi rend="i">BU</hi> 8.1). But whose astonishment is meant
+here? Los’s own or that of Urizen whom he beholds lying stunned? There is no meaningful way of sorting out
+distinctions of this nature. Astonishment astonishes, the petrified petrifies. Thus in 
+<hi rend="i">Jerusalem</hi>, seeking for the Minute Particulars, Los is again “astonished he beheld only the
+petrified surfaces” (<hi rend="i">J</hi> 46.5); two lines earlier we read “Los was all astonishment &amp;
+terror: he trembled sitting on the Stone.” Los is now filled with his stony object and is 
+<hi rend="i">all</hi> astonishment; we see <hi rend="i">all as stone</hi> in these regions. From becoming all
+astonishment it is easy to become a thing that causes astonishment, as in Los’s statement, “I now am what
+I am: a horror and an astonishment” (<hi rend="i">J</hi> 8.18). The abstract noun becomes a stony
+particular, substituting itself for an individuality now petrified and soon to petrify others. 
+<note id="n60"><hi rend="s">7</hi> Just as Burke’s sublime rides on an aesthetics of darkness, deprivation, pain,
+and “whatever is in any sort terrible” (<hi rend="i">Philosophical Enquiry</hi> 39) so in Blake’s
+vocabulary <hi rend="i">dark</hi> prevails numerically over <hi rend="i">light</hi>, night over 
+<hi rend="i">day, death</hi> over <hi rend="i">life.</hi> More notably, the word <hi rend="i">terror(s)</hi> and
+its co-derivatives <hi rend="i">terrible, terrific, terrified</hi>, taken as a collectivity, would rank in the
+dozen most frequently used words in his concorded vocabulary (David V. Erdman’s <hi rend="i">Blake
+Concordance</hi> [Ithaca: Cornell UP, 1967] reveals a total of 393 uses of these terms). Despite his stated
+aversion to Burke, Blake so closely associates the sublime with the terrific that the terminology of the
+latter often acquires an honorific lustre in his work. Thus we have such phrases as “Terrified at the
+Sublime Wonder” (a reference to the beneficent Spaces of Erin—see <hi rend="i">J</hi> 11.8-15),
+“terrible Blake in his pride” (When Klopstock England defied,” line 2), an uncharacteristically
+affectionate Enitharmon’s “Lovely terrible Los wonder of Eternity” (<hi rend="i">FZ</hi> 90.160), the
+“terrors of friendship” (<hi rend="i">J</hi> 45.5), and the “terrific Lions &amp; Tygers” that
+“sport and play” before the Great Harvest at the end of <hi rend="i">Milton</hi> (<hi rend="i">M</hi>
+42.38). In these instances <hi rend="i">terror</hi> loses most of its terrors, and one gets the sense that in
+such cases Blake is not paying tribute so much to the signified <hi rend="i">feeling</hi> of terror but rather
+to the signifier, a vocabulary of the sublime fondly preserved from the fashions of his youth.</note>
+	<note id="n61"><hi rend="s">8</hi> There are 51 uses of the terms from the collectivity 
+<hi rend="i">(astonish(ed)(es)(ing)(ment)</hi> in Blake’s poetry. Among poets of comparable stature, range, and
+sublime interests, Milton’s poetry yields only 6 instances, Wordworth’s, 17, and Shelley’s, 11. Pope
+draws upon this cluster of terms 16 times, almost entirely for his translations of Homer, and Dryden, 11
+times, mostly for the <hi rend="i">Aeneid.</hi></note>
+	<note id="n62"><hi rend="s">9</hi> See Nelson Hilton, <hi rend="i">Literal Imagination: Blake’s Vision of
+Words</hi> (Berkeley: U of California P, 1983) 16-17, and especially 239-57.</note>
+	<note id="n63"><hi rend="s">10</hi> This connection is reinforced by the older sense of 
+<hi rend="i">astonished</hi> (or its variant <hi rend="i">astonied</hi>) to connote death-like paralysis and
+insensibility; thus the <hi rend="i">OED</hi> on <hi rend="i">astonied</hi>: “Stunned; made insensible,
+benumbed, paralyzed (1611)”; cf. also Milton on Satan’s legions, who “lie thus astonisht on
+th’oblivious Pool” (<hi rend="i">Paradise Lost</hi> 1.266).</note></p>
+          <p>But as there is a thunder that immobilizes and petrifies, there is also a thunder that cracks
+open the stones, releasing our buried powers to freedom, a “crack of doom” for a sullen old dispensation.
+In contrast to the “inarticulate thunder” that Urizen booms at his misshapen children in 
+<hi rend="i">Vala</hi> (<hi rend="i">FZ</hi> 70:39), we have the articulare thunder of that true God who “To Man
+the wond’rous art of writing gave” and who “speaks in thunder and in fire! / Thunder of Thought, &amp;
+flames of fierce desire” (<hi rend="i">J</hi> 3.4,5-6). There is also the awakened Albion, “Loud
+thundring, with broad flashes of flaming lightning &amp; pillars / Of fire, speaking the Words of Eternity in
+Human Forms” (<hi rend="i">J</hi> 95.8-9). And there are the at last fraternal Zoas who “conversed
+together in Visionary forms dramatic which bright / Redounded from their Tongues in thunderous majesty” 
+(<hi rend="i">J</hi> 98.28-29). In contrast to the obliterating power of the Urizenic thunder, the power of this
+thunder resides in its incisive capacity to clarify and reveal. It does not stun with an avalanche of sound
+but cleaves through darkness and obstruction, employing as its cutting tools those instruments that inscribe
+the definite lines of Blake’s “writing,” “Words,” and “Forms.”</p>
+          <p>It follows that the “astonishment” produced by this clarifying thunder encompasses the moment
+when surfaces and opacities are burst to reveal an infinite potential within. Thus when Eno in the 
+<hi rend="i">Four Zoas</hi> “took an atom of space &amp; opend its center / Into Infinitude &amp; ornamented it
+with wondrous art / Astonishd sat her Sisters of Beulah to see her soft affections” (<hi rend="i">FZ</hi>
+9.12-14) A similar response to visionary revelation appears in Blake’s ecstatic report of his first days at
+Felpham:
+<q>
+In particles bright<lb/>
+The jewels of Light<lb/>
+Distinct shone &amp; clear<lb/>
+Amazd &amp; in fear<lb/>
+I each particle gazed<lb/>
+Astonishd Amazed<lb/>
+For each was a Man<lb/>
+Human formd.<lb/>
+(Letter to Butts, 2 Oct. 1800, lines 15-22, E 712)
+</q>
+If visions of nature humanized bring astonishment, so too do the recognition and recovery of unfallen portions
+of humanity within the self: “Los embracd the Spectre first as a brother / Then as another Self; astonishd
+humanizing &amp; in tears” (<hi rend="i">FZ</hi> 85.29-30). Images of barriers broken, of visions glimpsed
+through sudden openings, of obdurate forms melting down and flowing together, attend this form of
+astonishment:
+<q>
+Then Los said I behold the Divine Vision thro the broken Gates<lb/>
+Of thy poor broken heart astonishd melted into Compassion &amp; Love<lb/>
+(<hi rend="i">FZ</hi> 99.15-16)
+</q>
+Finally, in the single instance in Blake’s poetry where astonishment is modified by the adjective 
+<hi rend="i">sublime</hi>, Jerusalem recalls ancient days before Albion’s dreadful separation: “I taught the
+ships of the sea to sing the songs of Zion. / Italy saw me, in sublime astonishment: France was wholly mine”
+(<hi rend="i">J</hi> 79.38-39). The response of the nations embraces the full paradox of the sublime moment;
+arrest is freedom here, for to be filled with the object in this case is to be filled with a being who is
+“called Liberty among the Children of Albion” (<hi rend="i">J</hi> 54.5).</p>
+          <p>Blake’s wide-ranging use of the term <hi rend="i">astonishment</hi> provides a good index of
+his understanding of the problematic dynamics of the eighteenth-century sublime. Not only does astonishment
+occupy a gap between polarized states of experience but it also unfolds within itself alternate destinies of
+the sublime moment. Two possible sublimes quiver in the indeterminacy of the moment of astonishment: one, the
+sublime of terror and deprivation most closely associated with Burke, and the other, a sublime of desire and
+plenitude. Blake’s imagination is repeatedly drawn to the Burkean sublime, as our examination of his
+vocabulary and imagery indicates, but nowhere does this evidence suggest that he finds in Burkean
+“astonishment” any genuine access for the mind to an expansive and liberating power. Burke would have us
+believe that psychic disequilibrium, suspension of faculties, and immobilization of will are sure indications
+of the presence of an overwhelming external power or magnitude. Blake reads such scenes otherwise:
+encountering “terrific” objects his protagonists reel not at a magnitude of power made present but at the
+magnitude of power lost, at the degree of petrifaction revealed
+<pb id="p23-103" n="103"/>
+in so-called powers by the time they present themselves as natural “terrors.”</p>
+          <p>Blake seeks a less melancholy sublime, and if as a poet he is to gratify desire and recover
+plenitude, he must attempt some sort of redemption of astonishment. When Reynolds repeats the Burkean saw that
+“obscurity . . . is one source of the sublime,” Blake retorts that it is “Neither the Source of the
+Sublime nor of any Thing Else” (E 658). Yet in a famous letter to Thomas Butts where he proclaims the
+sublimity of his own poetry (he calls it a “Sublime Allegory”), Blake ventures an important clarification:
+“Allegory addressed to the Intellectual powers <hi rend="i">while it is altogether hidden</hi> from the
+Corporeal Understanding is <hi rend="i">My Definition</hi> of the Most Sublime Poetry” (E 730; emphases
+mine). To obscure originally meant to veil, cover, or conceal, and nothing can be more thoroughly obscured
+than that which is altogether hidden. Thus a sublime object (in this case the poetical text) becomes “most
+sublime” when it is altogether obscure to our mundane faculties. There is no apparent conflict with Burke
+here. Indeed, it is not immediately easy to see how this bafflement of the “Corporeal Understanding”
+differs much from Burke’s own opinion in the <hi rend="i">Philosophical Enquiry</hi>: “It is our ignorance
+of things that causes all our admiration, and chiefly excites our passions.”<supplied type="spacer"> </supplied><ref target="n64" type="note">11</ref> Blake apparently has no intention of abandoning the drama,
+the clash of oppositions, and the suspense inherent in Burke’s account of the sublime. He is willing to
+exploit Burke’s evocations of giddiness and irresistible rush since they so easily consort with Blake’s
+own imagery of centers opening up, gates broken down, and forms melting. There is a need, however, to relocate
+the scene of this drama, away from a point of humiliating encounter between the experiencing mind and some
+thunderous externality. As Blake’s own notions of the sublime become fully articulated, the encounter is
+seen to take place between a lesser and a greater faculty of the mind, made manifest through the mediation of
+the poetic text. Blake not only represents scenes of astonishment in his work but also seeks to create fresh
+moments of astonishment in the encounter of poem and reader, offering a petrific text to stony understandings
+and a field of openings for the receptive. <note id="n64"><hi rend="s">11</hi><hi rend="i"> Philosophical
+Enquiry</hi> 61.</note></p>
+          <p>It becomes increasingly clear that we should attach the term “astonishment” to that moment
+when the reader’s mind divides into a stunned Corporeal Understanding and privileged intellectual powers.
+Astonishment is thus a liminal or threshold state, dividing the complacent mind from the stunned understanding
+and the latter from exalted powers of intuitive reception. The function of liminal states is to mark
+boundaries and hence to provide bounding outlines for what lies beyond them. Blake’s sublime allegory serves
+to isolate the intellectual powers from the other components of the mind, for the essence of Blake’s sublime
+resides in intellect becoming present to itself as a wholly determinate form (see the <hi rend="i">Descriptive
+Catalogue</hi>: “The Beauty proper for sublime art, is lineaments, or forms and features that are capable of
+being the receptacles of intellect” [E 544]). The analogy to this process in Burke’s system would be the
+recoil of delight that floods the consciousness when it realizes its safe distance from the contingent pain or
+deprivation that provoked the sublime experience in the first place.<supplied type="spacer"> </supplied><ref
+target="n65" type="note">12</ref> Blake and Burke do not differ in their understanding of the structure or the
+dynamics of the sublime experience. Blake’s quarrel is with Burke’s choice of sublime objects (ratios of
+the five senses rather than glimpses of Eternal Death or of Divine Vision) and Burke’s apparatus of
+transformation (nerves and muscles rather than passion and imagination). But both writers place discontinuity
+of consciousness at the center of their ideas of the sublime. <note id="n65"><hi rend="s">12</hi> See 
+<hi rend="i">Philosophical Enquiry</hi> 37, 40.</note></p>
+          <p>If anything, in stressing the determinate, the particular, and the distinct as necessary
+qualities of sublime objects, as he does in the Reynolds annotations and elsewhere, Blake provides for a more
+radical discontinuity and deprivation of the ordinary senses than anything that Burke can supply from his
+storehouse of the corporeally vast and terrific. The Blakean visionary symbol, the reflexive emblem of the
+Intellectual Powers—determinate, particular, and distinct in itself—must be radically discontinuous with
+everything that is beyond its bounding outline. Here Blake occupies a sphere of conception that would be
+“altogether hidden” to Edmund Burke, but we would be wrong to ignore the elements of a Burkean sensibility
+that lick about the borders of this sphere like a darkness to its radiance, enhancing its outline. Blake
+always assimilates his enemies’ strength before he discards their excrementitious husk.</p>
+        </div2>
+      </div1>
+	<pb id="p23-104" n="104" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.house</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake under the House</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-4-0002">
+            	<pb id="p04-114" n="114"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE UNDER THE HOUSE</hi>
+                        </title>
+                    </head>
+                    <p>According to a recent issue of <hi rend="i">The Book-of-the-Month Club News</hi>, Blake
+is the pivot on which the plot turns in <hi rend="i">Crawlspace</hi>, a novel by Herbert Lieberman:
+<q>
+Albert and Alice Graves, a retired, childless couple, live in a quaint 18th-century farmhouse in New England.
+One fall day they are visited by a personable young man from the fuel oil company, whom they ask to stay for
+dinner and who, before leaving, is allowed to borrow a rare edition of William Blake. A few weeks later, the
+young man, Atlee, returns without the Blake, but is allowed to borrow more books. Not long after that, Mr.
+Graves discovers that someone is living in a crude nest in the crawlspace under the house. He also finds some
+well-gnawed animal bones and the missing Blake. A call to the oil company reveals that Atlee has not worked
+there for months. . . . It all ends with the Gravesses living in terror of both Atlee and a marauding band of
+neighborhood toughs. There is murder, vandalism and finally a blood thirsty manhunt. Here, then, is a chilling
+story—a thoughtfully chilling story—in the tradition of <hi rend="i">Night Must Fall</hi> or even 
+<hi rend="i">The Collector.</hi> Not at all recommended for retired couples who live on remote farms. [David W.
+McCullough]
+</q>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

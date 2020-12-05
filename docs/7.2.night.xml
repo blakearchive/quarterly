@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.night</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Night Thoughts Copy Discovered</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-2-0002">
+            	<pb id="p07-30" n="30"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">NIGHT THOUGHTS</hi>
+                        </title>
+                    </head>
+                    <p>A previously unknown copy of the colored <hi rend="i">Night Thoughts</hi> engravings
+has been discovered.<supplied type="spacer"> </supplied><ref target="n0" type="note">*</ref> The copy will be
+included in a new census of the colored copies in the complete Clarendon Press edition of <hi rend="i">William
+Blake’s Designs for Young’s Night Thoughts</hi>, edited by John Grant, E. J. Rose, and Michael Tolley in
+association with David Erdman, with the first two volumes scheduled for publication in 1974. The newly
+discovered copy of the colored engravings was first brought to the attention of the editors by Robert N.
+Essick. A description follows:
+<q>
+Bound in crimson crushed Levant morocco, the covers gilt tooled with a quadruple line centre panel at the
+corners of which are inlaid a flower ornament of three blossoms in white vellum on a scrolled background of
+closely spaced gilt dots with a surround of birds in flight, panels of the spine inlaid with blue morocco
+tooled with flying birds on dotted background. Marbled end papers. Uncut. Pages mended. Bound by the Hampstead
+Bindery (Gild of Women Binders). Explanation of the Engravings, reduced and inlaid, between the Advertisement
+and the title page of Night the First. Eleven pages watermarked. Title page measures 16.4 in. (41.8 cm.) ×
+12.5 in. (31.7 cm.).<lb/>
+This copy lacks the engraved design for p. 24 [45E]. The text, however, is present.<lb/>
+                            <list type="ordered">
+                                <item>
+                                    <p>
+                                        <label>(1)</label> Acquired by Lionel Phillips, a South African
+collector. He added his book-plate, dated 1905, inside front cover.</p>
+                                </item>
+                                <item>
+                                    <p>
+                                        <label>(2)</label> Offered for sale August 1972 by Charles J. Sawyer,
+bookseller, of London, for £2500.</p>
+                                </item>
+                                <item>
+                                    <p>
+                                        <label>(3)</label> Acquired by University of Alberta Library, February
+1973. In Special Collections Room. f NC 1115 B6N6 1797. <note id="n0">
+                                            <hi rend="i">(Our thanks to E. J. Rose of the University of
+Alberta for this item. Eds.)</hi>
+                                        </note>
+                                    </p>
+                                </item>
+                            </list>
+						</q>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

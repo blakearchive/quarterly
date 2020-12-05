@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-1" n="1"/>
+            <div1 id="cover">
+                <figure n="cover.004.01.bqscan" rend="file" width="258" height="337">
+                    <figTranscr>Blake Newsletter<lb/>
+                        <hi rend="u">EDITOR</hi><lb/>
+                        <hi rend="u">ASSOCIATE EDITORS</hi><lb/>
+                        <hi rend="u">EDITORIAL ASSISTANT</hi><lb/>
+                        Morton D. Paley<lb/>
+                        Donald D. Ault<lb/>
+                        Patricia Pelfrey<lb/>
+                        Andrew Griffin<lb/>
+                        Michael Phillips<lb/>
+                        Volume IV, No. 1<lb/>
+                        Whole # 13<lb/>
+                        August 1970<lb/>
+                        <hi rend="u">NEWSLETTER BUSINESS</hi><lb/>
+                        The <hi rend="u">Blake Newsletter</hi> was able to continue for the past<lb/>
+                        academic year only because of the assistance of Andrew Griffin<lb/>
+                        and Donald Ault, who gave very generously of their time and<lb/>
+                        energy during a trying period.  Although the future of <hi rend="u">BNL</hi> is<lb/>
+                        still far from certain, we owe thanks to Messrs. Griffin and<lb/>
+                        Ault for its survival into a fourth year.  Beginning with this<lb/>
+                        issue, Dr. Michael Phillips of the University of Edinburgh<lb/>
+                        joins us as an associate editor.<lb/>
+                        (continued on page 2)<lb/>
+                        <hi rend="u">CONTENTS</hi><lb/>
+                        News<lb/>
+                        2<lb/>
+                        Notes<lb/>
+                        <hi rend="u">Jerusalem</hi>:  12:  25-29 - Some Questions<lb/>
+                        Answered by Michael J. Tolley<lb/>
+                        3<lb/>
+                        William Blake and Mrs. Grundy:  Suppression<lb/>
+                        of <hi rend="u">Visions of the Daughters of Albion</hi><lb/>
+                        by Charles L. Cherry<lb/>
+                        6<lb/>
+                        Minute<lb/>
+                        Toward a More Accurate Description of the<lb/>
+                        Particulars<lb/>
+                        Tiriel Manuscript by Francis Wood Metcalf<lb/>
+                        10<lb/>
+                        Blake and “Cowper’s Tame Hares” by Thomas<lb/>
+                        L. Minnick<lb/>
+                        11<lb/>
+                        Discussion<lb/>
+                        The Arlington Court Picture, Part II, by<lb/>
+                        John E. Grant<lb/>
+                        12<lb/>
+                        Blake and Tradition:  “The Little Girl Lost”<lb/>
+                        and “The Little Girl Found” by Irene H.<lb/>
+                        Chayes<lb/>
+                        25<lb/>
+                        Review<lb/>
+                        Rosamond D. Harley, <hi rend="u">Artists’ Pigments c. 1600</hi>-<lb/>
+                        <hi rend="u">1835, A Study in English Documentary Sources</hi><lb/>
+                        by Ruthven Todd<lb/>
+                        28<lb/>
+                        Works in Progress<lb/>
+                        30<lb/>
+                        <hi rend="u">BLAKE NEWSLETTER</hi>, c/o M. D. Paley, Department of English, Univer-
+                        sity of California, Berkeley, Calif.  94720.  Subscription price:<lb/>
+                        three dollars for one year; invoiced subscriptions four dollars;<lb/>
+                        overseas by air, four dollars.  Checks or money orders must be<lb/>
+                        payable to <hi rend="u">Blake Newsletter</hi>.  The <hi rend="u">Blake Newsletter</hi>
+is <hi rend="u">not</hi> a pub-<lb/>
+                        lication of the University of California.<lb/>
+                        Copyright © 1970 by Morton D. Paley</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-04-1-0003">
+                <table id="contents" rows="9" cols="3">
+                    <row>
+                        <cell colspan="2">
+			                <head>
+			                    <title>
+			                        <hi rend="u">CONTENTS</hi>
+			                    </title>
+			                </head>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>News</cell>
+                        <cell><supplied type="emend"><ref type="article" issue="4.1.mla">MLA
+Seminar</ref></supplied></cell>
+                        <cell>2</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend"><ref type="article" issue="4.1.progress">More Works in
+Progress</ref> by Michael J. Tolley</supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><supplied type="emend"><ref type="article" issue="4.1.edition">A facsimile
+edition of All Religions are One</ref></supplied></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Notes</cell>
+                        <cell><corr type="emend"><ref type="article" issue="4.1.tolley"><hi
+rend="u">Jerusalem</hi><gap type="emend" rend="plain"/> 12: 25-29 - Some Questions Answered</ref></corr> by
+Michael J. Tolley</cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><ref type="article" issue="4.1.cherry">William Blake and Mrs. Grundy:
+Suppression of <hi rend="u">Visions of the Daughters of Albion</hi></ref> by Charles L. Cherry</cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>Minute Particulars</cell>
+                        <cell><ref type="article" issue="4.1.metcalf">Toward a More Accurate Description of
+the Tiriel Manuscript</ref> by Francis Wood Metcalf</cell>
+                        <cell>10</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><ref type="article" issue="4.1.minnick">Blake and “Cowper’s Tame Hares”</ref>
+by Thomas L. Minnick</cell>
+                        <cell>11</cell>
+                    </row>
+                    <row>
+                        <cell>Discussion</cell>
+                        <cell><ref type="article" issue="4.1.grant">The Arlington Court Picture, Part
+II,</ref> by John E. Grant</cell>
+                        <cell>12</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><ref type="article" issue="4.1.chayes">Blake and Tradition: “The Little Girl
+Lost” and “The Little Girl Found”</ref> by Irene H. Chayes</cell>
+                        <cell>25</cell>
+                    </row>
+                    <row>
+                        <cell>Review</cell>
+                        <cell><ref type="article" issue="4.1.todd">Rosamond D. Harley, <hi rend="u">Artists’
+Pigments c. 1600-1835, A Study in English Documentary Sources</hi></ref> by Ruthven Todd</cell>
+                        <cell>28</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="4.1.works">Works in Progress</ref></cell>
+                        <cell/>
+                        <cell>30</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">
+                    <hi rend="u">BLAKE NEWSLETTER</hi>, c/o M. D. Paley, Department of English, University of
+California, Berkeley, Calif. 94720. Subscription price: three dollars for one year; invoiced subscriptions
+four dollars; overseas by air, four dollars. Checks or money orders must be payable to <hi rend="u">Blake
+Newsletter</hi>. The <hi rend="u">Blake Newsletter</hi> is <hi rend="u">not</hi> a publication of the
+University of California.</note>
+                <note type="unreferenced" place="footer">Copyright © 1970 by Morton D. Paley</note>
+            </div1>
+            <div1 id="BQ-04-1-0001">
+            	<corr type="emend" rend="plain">
+                <table rows="4" cols="3">
+                    <row>
+                        <cell>
+                            <hi rend="u">EDITOR</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="u">ASSOCIATE EDITORS</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="u">EDITORIAL ASSISTANT</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>Morton D. Paley</cell>
+                        <cell>Donald D. Ault</cell>
+                        <cell>Patricia Pelfrey</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew Griffin</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael Phillips</cell>
+                        <cell/>
+                    </row>
+                </table>
+                </corr>
+            </div1>
+            <div1 id="BQ-04-1-0002">
+            		<corr type="emend" rend="plain">
+                		<head>
+                    		<title>
+                     	   		<hi rend="u">NEWSLETTER BUSINESS</hi>
+                    		</title>
+                		</head>
+                		<p>The <hi rend="u">Blake Newsletter</hi> was able to continue for the past academic year
+only because of the assistance of Andrew Griffin and Donald Ault, who gave very generously of their time and
+energy during a trying period. Although the future of <hi rend="u">BNL</hi> is still far from certain, we owe
+thanks to Messrs. Griffin and Ault for its survival into a fourth year. Beginning with this issue, Dr. Michael
+Phillips of the University of Edinburgh joins us as an associate editor.<gap type="emend"/></p>
+                	</corr>
+            		<pb id="p04-2" n="2"/>
+                	<p>Some mail sent to Morton Paley in London seems to have been lost in forwarding this past
+June. If you wrote at that time and received no answer, please write again (to Berkeley).</p>
+                	<p>With this issue, we raise our subscription rates by one dollar per year. The 
+<hi rend="u">Blake Newsletter</hi> is probably the only thing in America that has not increased in price since
+1967; we are sure that our readers will understand the necessity.</p>
+                	<p>The Autumn <hi rend="u">Newsletter</hi> will include a checklist of publications on Blake
+for the academic year 1969-1970. Offprints of articles and news of out-of-the-way items would be very much
+appreciated.</p>
+           	 </div1>
+        </front>
+    </text>
+</TEI.2>

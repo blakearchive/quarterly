@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.1.stevenson</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Dura; Countess of Egremont; Cratetos</title>
+				<author n="Stevenson">W. H. Stevenson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.1</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-7" n="7"/>
+            <div1 id="BQ-01-1-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NOTES</hi>
+                    </title>
+                </head>
+                <byline>From <docAuthor>Professor W. H. <name>Stevenson</name></docAuthor>, University of
+Ibadan, Nigeria:</byline>
+                <list type="ordered">
+                    <item>
+                        <p>
+                            <label>1.</label>
+                            <hi rend="u">Dura</hi> (<hi rend="u">Jerusalem</hi> 90:62) is probably 
+<hi rend="u">Jura.</hi> The Gaelic spelling is <hi rend="u">Dhura</hi>; the island is famous for its rocky
+sea-caves.</p>
+                    </item>
+                    <item>
+                        <p>
+                            <label>2.</label> No-one seems to have noticed that the Countess of Egremont to
+whom Blake dedicated his <hi rend="u">Vision of the Last Judgement</hi> did not exist, according to the
+Peerages and standard biographies! In fact, the Earl married secretly a woman he had lived with for some time.
+She was not publicly acknowledged as Countess, but she did exist.</p>
+                    </item>
+                    <item>
+                        <p>
+                            <label>3.</label>
+                            <hi rend="u">Cratelos</hi> (Erdman-Bloom p. 493, <corr type="emend">Keynes</corr>
+’57 p. 555) should read <hi rend="u">Cratetos</hi>: the verses are a translation from the 
+<corr type="emend">Greek</corr> of Crates of Thebes, via Stobaeus’ Anthology.</p>
+                    </item>
+                </list>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

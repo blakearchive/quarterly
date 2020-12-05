@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.2</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Peter Davidson</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Anthony J. Harding</name>
+              <name>David Sten Herrstrom</name>
+              <name>Nelson Hilton</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>James A. Winn</name>
+              <name>Michael C. Young</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <front>
+      <pb id="p15-61-62" n="61-62"/>
+      <div1 id="cover">
+        <figure n="cover.015.02.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 58<lb/>
+            Volume 15<lb/>
+            Number 2<lb/>
+            Fall 1981</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-15-2-0001">
+        <table id="contents" rows="14" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.herrstrom">Blake’s Transformations of Ezekiel’s Cherubim
+Vision in <hi rend="i">Jerusalem</hi></ref><lb/>
+                            by David Sten Herrstrom</cell>
+            <cell>64</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.essick">Blake’s “Canterbury” Print: The Posthumous
+Pilgrimage of the Copperplate</ref><lb/>
+                            by Robert N. Essick and Michael C. Young</cell>
+            <cell>78</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.minnick">Blake and His Circle: A Checklist of Recent
+Scholarship</ref><lb/>
+                            by Thomas L. Minnick with the assistance of Detlef W. Dörrbecker</cell>
+            <cell>83</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.winn">B. H. Fairchild, <hi rend="i">Such Holy Song: Music as
+Idea, Form, and Image in the Poetry of William Blake</hi></ref><lb/>
+                            Reviewed by James A. Winn</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.harding">Mike Westbrook, <hi rend="i">Bright As Fire</hi>, a
+recording of jazz settings of Blake</ref><lb/>
+                            Reviewed by Anthony J. Harding</cell>
+            <cell>97</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.davidson">Music of the Ancients</ref><lb/>
+                            by Peter Davidson</cell>
+            <cell>98</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.labelle">Blake’s Insanity: An Unrecorded Early
+Reference</ref><lb/>
+                            by Jenijoy La Belle</cell>
+            <cell>100</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.butlin">A Newly Discovered Watermark and a Visionary’s Way
+with His Dates</ref><lb/>
+                            by Martin Butlin</cell>
+            <cell>101</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.2.hilton">The Shock of the New Blake</ref><lb/>
+                            by Nelson Hilton</cell>
+            <cell>102</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>103</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="15.2.yale">Lecture: Yale Center</ref>, 
+          	  <ref type="article" issue="15.2.huntington">Exhibitions: Huntington Library</ref>, 
+          	  <ref type="article" issue="15.2.morgan">Exhibitions: Morgan Library</ref>, 
+          	  <ref type="article" issue="15.2.scruz">Santa Cruz Conference: Blake &amp; Criticism</ref>
+          	  </supplied>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><hi rend="b">INDEX</hi></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend"><ref type="article" issue="15.2.index">Blake/An Illustrated Quarterly
+Index to Volume 14</ref><lb/>
+			  compiled by Thomas L. Minnick</supplied>
+			</cell>
+          	<cell/>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-15-2-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>MARTIN BUTLIN is Keeper of the Historic British Collection at the Tate Gallery, London, author of
+numerous works on Blake and Turner, and frequent contributor to <hi rend="i">Blake.</hi> His catalogue of 
+<hi rend="i">The Paintings and Drawings of William Blake</hi> was published by Yale University Press earlier this
+year.</p>
+        <p>PETER DAVIDSON is a Scot who lives in Cambridge. He has edited <hi rend="i">Letters</hi> by Sir
+Kenelm Digby, and is at work on the Poems of Sir Richard Fanshawe. His amusements are very much “Literature
+and Art and Ancient Music.”</p>
+        <p>DETLEF DÖRRBECKER teaches art history at the University of Trier.</p>
+        <p>ROBERT N. ESSICK (Professor of English, University of California, Riverside) collects and writes
+about Blake’s engravings.</p>
+        <p>ANTHONY J. HARDING recently spent part of his sabbatical year in London, Cambridge and Edinburgh
+doing research on biblical inspiration in its relation to Romantic poetics, and attending concerts after
+hours. He has published papers on Coleridge, John Sterling and James Marsh, and has an article on Thoreau and
+H. N. Coleridge’s <hi rend="i">Greek Classic Poets</hi> forthcoming in <hi rend="i">Studies in
+Romanticism.</hi></p>
+        <p>DAVID STEN HERRSTROM’S essay on Blake’s Laocoön is forthcoming in <hi rend="i">Bucknell
+Review</hi> and on Blake and eighteenth-century discussions of the hieroglyph in <hi rend="i">Blake
+Studies.</hi> His poems have appeared in a number of magazines, including <hi rend="i">Nimrod</hi> and 
+<hi rend="i">USI Worksheets</hi>, and he is consultant in writing for Bell Laboratories.</p>
+        <p>NELSON HILTON (University of Gerogia) is Review Editor for <hi rend="i">Blake.</hi> His most recent
+article, “Spears, Spheres, and Spiritual Tears: Blake’s Poetry as <hi rend="i">The Tyger</hi> 11.
+17-20,” is forthcoming in <hi rend="i">PQ.</hi></p>
+        <p>JENIJOY LA BELLE is an Associate Professor of Literature at the California Institute of
+Technology.</p>
+        <p>THOMAS L. MINNICK is Assistant Dean of University College at The Ohio State University and
+Bibliographer for <hi rend="i">Blake/An Illustrated Quarterly.</hi></p>
+        <p>JAMES A. WINN, Associate Professor of English at Yale, is the author of <hi rend="i">Unsuspected
+Eloquence: A History of the Relations between Poetry and Music</hi> (Yale Univ. Press, 1981) and 
+<hi rend="i">A Window in the Bosom: The Letters of Alexander Pope</hi> (Archon, 1977). A serious flute player, he
+has recently recorded two Couperin <hi rend="i">Concerts Royaux</hi> for Musical Heritage Society.</p>
+        <p>MICHAEL C. YOUNG, an instructor in English at Tulane University, is completing her dissertation on
+confessional literature from Rousseau to Freud under Stuart Curran, Univ. of Pennsylvania. 
+<note type="unreferenced" place="footer">© Copyright 1981 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+      <pb id="p15-63" n="63"/>
+      <div1 id="BQ-15-2-0004">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="BlakesParadigmEzekielsCherubim.15.2.bqscan" rend="file" width="250" height="299">
+        	<figTranscr>Blake’s Paradigm of Ezekiel’s<lb/>
+			Cherubim Vision in Jerusalem <lb/>
+			(Vision—furnace/wheel—Exiled outside<lb/>
+			East Gate from its Landscape)<lb/>
+			<lb/>
+			TEMPLE-CITY (BODY)<lb/>
+			Sleeper<lb/>
+			<lb/>
+			Rock<lb/>
+			<lb/>
+			River<lb/>
+			<lb/>
+			E. Gate<lb/>
+			<lb/>
+			WHEEL<lb/>
+			<lb/>
+			FURNACE</figTranscr>
+		</figure>
+      </div1>
+      <div1 id="BQ-15-2-0005">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="EveningHymn.15.2.bqscan" rend="file" width="250" height="240">
+	<figTranscr>EVENING HYMN. L.M.<lb/>
+	Glory to thee, my God, this night, For<lb/>
+	all the blessings of the light; Keep me O keep me<lb/>
+	King of Kings, under thy own Almighty wings.</figTranscr></figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Marcy Erickson, Univ. of New Mexico. EDITORIAL ASSISTANTS: Wayne
+Erickson, Wendy Jones, James Warwick, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume, 4 issues. Special rates for individuals, $12.00,
+surface mail. Air mail subscriptions are $10.00 more than surface mail subscriptions. U.S. currency or
+international money order if possible. Make checks payable to Blake/An Illustrated Quarterly. Address all
+subscription orders and related communications to the Circulation Mgr., Marcy Erickson, 
+<hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico, Albuquerque, New Mexico 87131, USA.</p>
+        <p>Some BACK ISSUES are available. Address Marcy Erickson for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, N.M. 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, California
+94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic
+bibliography, ARTbibliographies MODERN, American Humanities Index, (Whitson Pub.), and the Arts and Humanities
+Citation Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.4.edmonton</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Edmonton Art Gallery Exhibition: “William Hayley and His Circle,” 17
+September-30 October 1982</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.4</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <name>Cathy Christman</name>
+              <resp>Typist</resp>
+              <name>Denise Warren</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>James Bogan</name>
+              <name>Gavin Edwards</name>
+              <name>David V. Erdman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Randel Helms</name>
+              <name>Christopher Heppner</name>
+              <name>Janice Lyle</name>
+              <name>Paul Mann</name>
+              <name>Gerda Norvig</name>
+              <name>David Punter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <div1 id="BQ-15-4-0010">
+        <pb id="p15-200" n="200"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">EDMONTON ART GALLERY EXHIBITION<lb/>
+			  “William Hayley and His Circle”<lb/>
+			  17 September-30 October 1982</hi>
+            </title>
+          </head>
+          <p>To accompany the meeting of the Canadian Society for Eighteenth Century
+                        Studies in Edmonton, there will be an exhibition of art works related to the
+                        activities of William Hayley. The exhibition is organized by Victor Chan of
+                        the Univ. of Alberta and will include approximately 150 paintings, drawings,
+                        prints and books. These works—by William Blake, John Flaxman, George
+                        Romney, Benjamin West, Henry Fuseli, Thomas Stothard, George Morland, James
+                        Barry and John Mortimer—are drawn from Canadian and American
+                        collectors. A Comprehensive catalogue will accompany the exhibition. In
+                        addition, a workshop at the beginning of the Edmonton conference on
+                        “Art in the Age of Sensibility and Revolution” will serve as an
+                        introduction to the exhibition. For more information about the Edmonton
+                        conference (14-16 October 1982) and participation in the workshop, contact
+                        Victor Chan, Coordinator of Art History, Department of Art and Design, Univ.
+                        of Alberta, Edmonton, Alberta, Canada T6G 2C9, or call (403) 432-2543.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

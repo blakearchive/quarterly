@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.clq</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">CLQ Blake Issue</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-2-0007">
+        <pb id="p11-131" n="131"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">CLQ BLAKE ISSUE</hi>
+            </title>
+          </head>
+          <figure n="Colby.11.2.bqscan" rend="file" width="250" height="414"/>
+          <p>The June 1977 issue of <hi rend="i">Colby Library Quarterly</hi> has a number of articles on
+Blake: by Christopher Heppner, on “Identity and <hi rend="i">The Book of Thel</hi>”; by Janet Warner, on
+“Blake and the Language of Art”; by Warren Stevenson, on Blake’s drawings of the Canterbury Pilgrims; by
+Edward J. Rose, on the Spectre; and by John Sutherland, on the Bard’s Song in <hi rend="i">Milton.</hi>
+Recently John Sutherland, the editor of the <hi rend="i">Quarterly</hi>, announced that it would pay special
+attention to essays on Blake, as well as on psychology and literature, and the visual arts and literature.
+Extra copies of the special Blake issue are available at $1, postpaid, as long as they last. Address the
+editor at Colby College, Waterville, Maine 04901.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

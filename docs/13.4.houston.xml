@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.4.houston</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Romanticism in Houston</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.4</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Joe Zimmerman</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Betsy Bowden</name>
+              <name>Wayne Glausser</name>
+              <name>Robert Sternbach</name>
+              <name>Leslie Tannenbaum</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-205" n="205"/>
+      <div1 id="BQ-13-4-0008">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">ROMANTICISM IN HOUSTON</hi>
+            </title>
+          </head>
+          <p>During 25-28 February 1981 the University of Houston will sponsor its third humanities and fine
+arts symposium, which on this occasion has the theme: <hi rend="i">English and German Romanticism:
+Cross-Currents and Controversies.</hi> Topics under consideration for the symposium include: German
+Romanticism and English Literature; The Spirit of Place in English and German Romanticism; German Idealism and
+British Empiricism: Romantic Philosophy in Germany and England; The Goslar Year: Wordsworth and Coleridge in
+Germany; The “Other” Genres; The Romantic Novel and the Romantic Drama; Romanticism: Revolution or Evolution?;
+Dark Romanticism; National Views of History in the Romantic Period; The Political Dimensions of the Romantic
+Period; The Woman Artist in the Romantic Period; German “Classical” Writers as “European” Romanticists
+(Goethe, Schiller, Kleist, Holderlin); Romanticism and the Napoleonic Wars.</p>
+          <p>Papers on these topics and proposals for other topics in the area of English and German should be
+sent to Professor Theodore Gish, Department of German, or Professor James Pipkin, Department of English, at
+the University of Houston, Houston, Texas 77004 by 15 October 1980.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

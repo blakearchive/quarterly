@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.keynes</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Sir Geoffrey Keynes</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+    <pb id="p06-60" n="60"/>
+      <div1 id="BQ-06-3-0002">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">News</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Sir Geoffrey Keynes</hi>
+            </title>
+          </head>
+          <p>A dinner was held on Saturday, 14 July 1973, at Peterhouse, Cambridge, to mark the contribution
+to Blake studies of Sir Geoffrey Keynes and the publication of <hi rend="i">William Blake, Essays in Honour of
+Sir Geoffrey Keynes</hi>, by the Clarendon Press, Oxford, edited by Michael Phillips and Morton D. Paley.
+Those present included Mr. and Mrs. Stephen Keynes and their son Gregory, Mr. and Mrs. George Goyder, Mr. and
+Mrs. David Piper, Dr. and Mrs. A. L. N. Munby, Dr. and Mrs. John Beer, Professor and Mrs. David V. Erdman,
+Professor and Mrs. G. E. Bentley, Jr., Professor Janet Warner, Professor Robert Essick, Mr. and Mrs. Suzanne
+Hoover, Professor Irene Tayler, Mr. and Mrs. John Nicoll, Dr. and Mrs. Michael Phillips, and Professor Morton
+D. Paley.</p>
+          <p><hi rend="i">William Blake, Essays in Honour of Sir Geoffrey Keynes</hi>, is to be published 23
+August and includes essays by Michael Phillips, David Bindman, Robert N. Essick, F. R. Leavis, Josephine
+Miles, Michael J. Tolley, Jean H. Hagstrum, G. Wilson Knight, David V. Erdman, Janet Warner, Morris Eaves,
+John Beer, Morton D. Paley, Martin Butlin, Raymond Lister, and Suzanne R. Hoover, together with a checklist of
+Sir Geoffrey Keynes’s writings on Blake by G. E. Bentley, Jr. The volume is 390 pages and includes 82
+plates.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>27.2.job</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Job Revival</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">27.2</biblScope>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Interns</resp>
+              <name>Lauren Raimondi</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Andrew Lincoln</name>
+              <name>Laura Mandell</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_27">
+    <body>
+      <pb id="p27-63" n="63"/>
+      <div1 id="BQ-27-2-0009">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">JOB <hi rend="i">REVIVAL</hi></title>
+          </head>
+          <p>This summer, the Birmingham Royal Ballet revived Dame Ninette de Valois’s <hi rend="i">Job</hi>
+ballet. “<hi rend="i">Job</hi> had not been staged for 20 years. . . . <hi rend="i">Job</hi> is
+distinguished in every respect. Its score by Ralph Vaughan Williams resounds with solemn beauty. . . . At the
+conclusion of <hi rend="i">Job</hi> at the Royal Opera House, there was a moment of silence. It was as if a
+church service had ended. But hearty applause followed. <hi rend="i">Job</hi> is decidedly worth preserving”
+(<hi rend="i">The New York Times</hi>, 26 September 1993).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

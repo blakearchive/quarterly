@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.course</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake Course at UCLA Extension</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-1-0002">
+            	<pb id="p06-4" n="4"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE COURSE AT UCLA EXTENSION</hi>
+                        </title>
+                    </head>
+                    <p>The Department of Arts and Humanities of the UCLA Extension, in cooperation with KPFK
+Pacifica, is presenting <hi rend="i">William Blake: Poet, Painter, Visionary</hi>, a series of four lectures
+by Everett Frost. Frost is an Assistant Professor of English at California State University, Fresno, and
+Director of Literature and Drama for KPFK. The lectures will concentrate on Blake’s works in illuminated
+printing, from the <hi rend="i">Songs</hi> to the shorter prophecies to <hi rend="i">Milton</hi> and 
+<hi rend="i">Jerusalem</hi>, presented by means of slides and dramatic readings. The lectures will be held on four
+Monday evenings beginning 22 January 1973 in room 1200 of Rolfe Hall at UCLA. The series will cost $25; the
+course taken for credit (which will include two additional sessions), $40. If space permits, tickets for
+single lectures will be sold at the door. For further information call the office of UCLA Extension.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

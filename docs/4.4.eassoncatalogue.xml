@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.eassoncatalogue</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">A Catalogue Raisonné of Blake’s Book Illustrations</title>
+                <author n="Easson">Roger R. Easson</author>
+                <author n="Easson">Kay Easson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+	<pb id="p04-115" n="115"/>
+            <div1 id="BQ-04-4-0002">
+                    <head>
+                        <title type="main">
+                            <hi rend="i">A CATALOGUE RAISONNÉ OF BLAKE’S BOOK ILLUSTRATIONS</hi>
+                        </title>
+                    </head>
+                    <byline>From <docAuthor>Roger</docAuthor> and <docAuthor>Kay
+<name>Easson</name>:</docAuthor>
+                    </byline>
+                    <p>The American Blake Foundation is pleased to announce the pending publication of the
+first volume in its series of Blake reproductions (announced earlier this year in the 
+<hi rend="i">Newsletter</hi>). Robert N. Essick and Roger R. Easson are editing a three volume work, 
+<hi rend="i">A Catalogue Raisonné of William Blake’s Book Illustrations</hi>, collecting and reproducing
+Blake’s plates and giving a complete bibliographical description of the books in which they appear.</p>
+                    <p>The first of the three volumes is expected to go to press in October and should be
+ready for sale in late November or early December. This first volume will contain 124 plates, 59 of which have
+never been reproduced. Included are all plates from Young’s <hi rend="i">Night Thoughts</hi>, Hayley’s 
+<hi rend="i">Ballads</hi> 1802 and 1805, Thornton’s <hi rend="i">Virgil, Royal Universal Family Bible</hi>,
+Wedgwood’s <hi rend="i">Catalogue, Prologue . . . Of Chaucer’s Pilgrims.</hi> This volume is a collection
+of all the plates Blake both designed and engraved that were published as parts of books during his
+lifetime.</p>
+                    <p>The two succeeding volumes will reproduce 257 plates, of which 165 have never been
+<pb id="p04-116" n="116"/>
+reproduced since the original publication. These two volumes will contain both the plates that Blake himself
+designed and another engraved, and those that another designed and Blake engraved. The plates will be
+presented in chronological order with complete bibliographic entries.</p>
+                    <p>The Foundation has decided to offer a special prepublication price of $7 for the first
+volume or $18 for the three volumes. Upon publication the volumes will be sold at $8 each or $24 for the
+three.</p>
+                    <p>To receive the prepublication price of $18 for the three volumes or $7 for the first
+volume, please send remittance to:<lb/>
+                        <lb/>
+                        <hi rend="i">The American Blake Foundation</hi>
+                        <lb/>
+Department of English<lb/>
+Illinois State University<lb/>
+Normal, Illinois 61761<lb/>
+                        <lb/>
+If invoicing is requested, please add $1 to the prepublication rate. European orders should add $1 for postage
+and handling.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>22.3.ward</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="article">Canterbury Revisited: The Blake-Cromek Controversy</title>
+                <author n="Ward">Aileen Ward</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1988/89</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1988/89</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">22.3</biblScope>
+                        <biblScope unit="volume">22</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Detlef W. Dörrbecker</name>
+                            <resp>Review Editor</resp>
+                            <name>Nelson Hilton</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>David Worrall</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Worrall</name>
+                            <resp>Managing Editor</resp>
+                            <name>Patricia Neill</name>
+                            <resp>Contributors</resp>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Martin Butlin</name>
+                            <name>Michael Phillips</name>
+                            <name>John B. Pierce</name>
+                            <name>Aileen Ward</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of Rochester</publisher>
+                        <pubPlace>Rochester, NY, USA</pubPlace>
+                        <date when="1988"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_22">
+        <body>
+        <pb id="p22-80" n="80"/>
+            <div1 id="BQ-22-3-0005">
+                <head>
+                    <title type="main">Canterbury Revisited: The Blake-Cromek Controversy</title>
+                </head>
+                <byline>
+                    <hi rend="i">BY</hi>
+                    <docAuthor>
+                        <hi rend="i">AILEEN</hi>
+                        <name>
+                            <hi rend="i">WARD</hi>
+                        </name>
+                    </docAuthor>
+                </byline>
+                <p>If crooked roads without improvement are the ways of genius, the road Blake took
+                    to Canterbury was a veritable Pilgrim’s Progress.<supplied type="spacer"> </supplied><ref target="n0" type="note">*</ref>
+	<note id="n0">This article is an expanded version of a paper
+                        delivered in the symposium “William Blake: His Art and Times,” The Yale
+                        Center for British Art, 11 September 1982.</note> For of all his works of
+                    art, the one that cost him the most grief and stirred up the greatest
+                    controversy during his lifetime was the large “fresco” painting of 
+                        <hi rend="i">Sir Jeffery Chaucer and the Nine and Twenty Pilgrims on their Journey to
+                        Canterbury.</hi> This painting, dated 1808, was the major work in Blake’s
+                    1809 Exhibition and the first to be attacked in Robert Hunt’s scathing review in
+                        <hi rend="i">The Examiner.</hi> It also caused a bitter falling-out between
+                    Blake and his old friend Thomas Stothard, who in May 1807 had exhibited an
+                    immensely successful oil painting of the same subject, similar in size and basic
+                    design to Blake’s own. Blake’s engraving from his fresco, entitled 
+                        <hi rend="i">Chaucers Canterbury Pilgrims</hi>, was published in October 1810; the
+                    engraving of Stothard’s painting was delayed, through a series of mishaps, till
+                    1817. Stothard protested that Blake had “commenced his picture in rivalry” to
+                    Stothard’s own, since, he reported, Blake had seen and admired his 
+                        <hi rend="i">Procession of Chaucer’s Pilgrims to Canterbury</hi> while it was still
+in
+                    progress. Blake on his side claimed that he had sketched the design for his 
+                        <hi rend="i">Pilgrims</hi> even earlier and had shown the drawing to Robert
+                    Cromek, his erstwhile agent, who, while appearing to be delighted with it, had
+                    taken the idea to Stothard and engaged him to paint it instead.</p>
+                <p>Such are the outlines of the controversy as described by Blake’s earliest
+                    biographers, quite evenhandedly by John Thomas Smith in 1828 and, with obvious
+                    bias against Blake, by Allan Cunningham in 1830.<supplied type="spacer"> </supplied><ref
+target="n1" type="note">1</ref> But since the appearance of Alexander Gilchrist’s <hi rend="i">Life
+                        of William Blake</hi> in 1863, the controversy has been regarded as settled:
+                    virtually every twentieth-century biographer or critic who has discussed the
+                    matter has, despite minor uncertainties over points of fact, followed Gilchrist
+                    in taking sides with Blake and accusing Cromek of treachery.<supplied type="spacer"> </supplied><ref target="n2"
+                        type="note">2</ref> Yet it must be borne in mind that the story of Blake’s
+                    life as hitherto received is based in very large part on Blake’s own testimony,
+                    supported by a modicum of corroboratory evidence—that is, on Blake’s
+                    recollections during his sixties which he passed on to the disciples who became
+                    Gilchrist’s informants some three decades later. A fresh look at the evidence in
+                    the dispute over <hi rend="i">The Canterbury Pilgrims</hi> may not merely
+                    suggest a different interpretation of a central episode in Blake’s life but also
+                    serve as example of the need for a critical re-examination of his life as a
+                    whole. In the process the critic must scrutinize the minutest particulars of
+                    fact, weigh conflicting testimony, and keep constantly in mind the ambiguity of
+                    interpretation and the fallibility of memory. The remembrance of things past is
+                    a voyage over shifting sands. <note id="n1"><hi rend="s">1</hi>As reprinted in
+                        G. E. Bentley, Jr., <hi rend="i">Blake Records</hi> (Oxford: Clarendon,
+                        1969; hereafter cited as <hi rend="i">BR</hi>) 464-67 and 491-92. On the
+                        1808 date of Blake’s painting, now obscured, see W. M. Rossetti, “Annotated
+                        Lists of Blake’s Paintings, Drawings, and Engravings,” in Alexander
+                        Gilchrist, <hi rend="i">Life of William Blake</hi>, “<hi rend="i">Pictor
+                            Ignotus</hi>” (London: Macmillan, 1906) 428, and Martin Butlin, 
+                            <hi rend="i">The Paintings and Drawings of William Blake</hi> (Oxford:
+                        Clarendon, 1981) 1: 475; on the 1817 date of Stothard’s engraving, see
+                        Alexander Gilchrist, <hi rend="i">Life of William Blake</hi>, ed. Ruthven
+                        Todd (London: Everyman, 1945; hereafter cited as <hi rend="i">Life</hi>)
+                        253-55 and <hi rend="i">Dictionary of National Biography</hi> (London:
+                        Oxford UP, 1917, hereafter cited as <hi rend="i">DNB</hi>) 18: 1322. Duncan
+                        Macmillan’s suggestion that Blake got the idea of the cavalcade from viewing
+                        the Elgin Marbles (“Blake’s Exhibition and <hi rend="i">Catalogue</hi>
+                        Reconsidered” <hi rend="i">Blake Newsletter</hi> 5 [1971-72]: 205-06)
+                        supports the 1808 date, since the Marbles were not unpacked and placed on
+                        private view till 1807 (David Irwin, <hi rend="i">John Flaxman
+                            1755-1826</hi> [London: Cassell, 1979] 174).</note>
+	<note id="n2"><hi
+                            rend="s">2</hi> To cite only a few: Mona Wilson, <hi rend="i">The Life
+                            of William Blake</hi>, 3rd ed. rev.; Geoffrey Keynes (London: Oxford UP,
+                        1971) 232-34; Ruthven Todd, <hi rend="i">William Blake, the Artist</hi>
+                        (London: Studio Vista Ltd., 1971) 78; David V. Erdman, <hi rend="i">Blake:
+                            Prophet Against Empire</hi> (3rd rev. ed., Princeton UP, 1977) 439;
+                        David Bindman, <hi rend="i">Blake as an Artist</hi> (Oxford: Phaidon, 1977)
+                        155; Jack Lindsay, <hi rend="i">William Blake</hi> (New York: Braziller,
+                        1979) 193; Butlin 1: 475; and Robert N. Essick, <hi rend="i">The Separate
+                            Plates of William Blake</hi> (Princeton: Princeton UP, 1983)
+                    84.</note></p>
+                <p>Gilchrist based his account largely on John Linnell’s notes on Smith’s memoir,
+                    which he wrote in 1855 drawing on conversations with Blake over thirty years
+                    earlier. According to Linnell, Cromek actually commissioned Blake to finish the
+                    Canterbury fresco for twenty guineas with the promise that he would also receive
+                    the much more lucrative fee for engraving it—the identical arrangement he had
+                    made with Blake for his designs for Blair’s <hi rend="i">Grave</hi> two or three
+                    months earlier. But, Linnell states, Cromek secretly negotiated with William
+                    Bromley to engrave Blake’s design; meanwhile Blake became suspicious and refused
+                    to give Cromek his drawing when requested; whereupon Cromek took the idea and
+                    the commission to Stothard without informing either painter of the other’s
+                    involvement. Gilchrist like Linnell clears Stothard of complicity in Cromek’s
+                    scheme; he also quotes an insulting letter that Cromek wrote to Blake in May
+                    1807 which contains the only known reference to the dispute by either of the two
+                    principals. The letter consists mainly of Cromek’s abusive response to Blake’s
+                    “furious rage” at the success of Stothard’s <hi rend="i">Procession</hi> (then
+                    being exhibited in London) by challenging Blake “to send [him] a better”:
+                    whereupon, Gilchrist adds, “the indignant painter acted in executing, hereafter,
+                    his 
+<pb id="p22-81" n="81"/>
+<figure n="CoronationEdwardVI.22.3.bqscan" rend="file" width="958" height="488">
+                        <head>The coronation procession of Edward VI from the Tower to Westminster
+                            by an unknown sixteenth-century painter, engraved by James Basire in
+                            1787.</head>
+                        <figDesc>Photo courtesy of The Society of Antiquaries of London.</figDesc>
+                    </figure> projected ‘fresco’ from <hi rend="i">The Canterbury Pilgrims</hi>, and
+                    exhibiting and engraving it.”<supplied type="spacer"> </supplied><ref target="n3"
+type="note">3</ref>	
+                            <note id="n3"><hi rend="s">3</hi><hi rend="i"> Life</hi> 223-25; 
+<hi rend="i">BR</hi>
+                        184-87, 464n1. The letter was published by Allan Cunningham’s son in 1852
+                            (<hi rend="i">BR</hi> 187n2), and thereby prompted Gilchrist to cast
+                        Cromek as the villain of the piece. Stothard’s painting was the sensation of
+                        the 1807 season in London, drawing crowds of thousands at a shilling
+                        admission, and subsequently toured the provinces with similar success. The
+                        engraving, despite its delayed appearance, became the best-selling print of
+                        the first half of the nineteenth century (Anna E. Bray, <hi rend="i">Life of
+                            Thomas Stothard</hi> [London, 1851] 140).</note></p>
+                <p>Gilchrist’s suggestion, that Blake painted, exhibited, and engraved his 
+                        <hi rend="i">Pilgrims</hi> only after seeing Stothard’s painting and in response
+                    to Cromek’s challenge in 1807, is curiously inconsistent with his earlier
+                    statement (following Linnell) that Cromek first saw a sketch of the 
+                        <hi rend="i">Pilgrims</hi> by Blake and then, after negotiations between them broke
+                    down, went to Stothard and “suggested the subject as a novelty.” Indeed, the
+                    precise chronology of the whole affair is a puzzle. If, as it is generally
+                    assumed, Blake had begun work on his fresco (or even his engraving) sometime
+                    late in 1805 or early in 1806,<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> his delay in
+                    meeting the threat to his own project till 1808 is inexplicable: the subject had
+                    never been painted before, and priority was an important concern. It is also
+                    difficult to understand why Blake, on seeing Stothard’s half-finished painting
+                    in 1806, would have failed to mention his own work in progress to his friend,
+                    who was surprised and angered on learning later of Blake’s rival version.<ref
+                        target="n5" type="note">5</ref> Finally, it is striking that Cromek’s letter
+                    of May 1807 nowhere mentions any drawing or painting of Chaucer’s 
+                        <hi rend="i">Pilgrims</hi> by Blake, or replies to any charge by Blake of the theft of
+                    his idea; rather it suggests that Blake’s rage was directed against the
+                    extraordinary success of Stothard’s painting and what he felt was Stothard’s
+                    contemptible treatment of the subject. The earliest accounts of the affair are
+                    vague about dates and mutually contradictory on certain points, and it is hardly
+                    surprising that recent discussions also give a confused picture of the entire
+                        controversy.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> A
+survey of the
+                    relationship between Blake and Cromek from the beginning may help to clarify
+                    matters. <note id="n4"><hi rend="s">4</hi> Erdman 439; <hi rend="i">BR</hi> 179;
+                        see also <hi rend="i">Life</hi> 220.</note>
+	<note id="n5"><hi rend="s">5</hi><hi rend="i"> BR</hi> 465-66 and n1, and see 179n3. On the
+                        novelty of the subject, which—<hi rend="i">pace</hi> Gilchrist 
+                            (<hi rend="i">Life</hi> 221)—greatly intensified the rivalry, see Richard D.
+Altick,
+                            <hi rend="i">Paintings from Books</hi> (Columbus: Ohio State UP, 1985)
+                        339. Betsy Bowden in “The Artistic and Interpretive Context of Blake’s
+                        ‘Canterbury Pilgrims’ ” <hi rend="i">Blake</hi> 13 (1980): 164-90 examines
+                        in detail a number of analogues to Blake’s design in previous illustrations
+                        of the <hi rend="i">Tales</hi>; but the single illustration she cites (172,
+                        174-75) of the Pilgrims setting out on their journey, from Urry’s 1721
+                        edition of Chaucer, barely qualifies as a source for Blake’s painting, even
+                        though Blake may have known of this edition. Only 11 of the tiny figures in
+                        the 7½″ × 3¾″ engraving are identifiable, much less individualized, and the
+                        overall design and graphic style are completely different from Blake’s. The
+                        figures of the Merchant and the Wife of Bath in the Chaucer portrait of the
+                        “Heads of the Poets” (Butlin, vol. 2, pl. 440), which she cites as “faithful
+                        copies” from Urry, are totally unlike their counterparts in the 
+                            <hi rend="i">Pilgrims.</hi></note>
+	<note id="n6"><hi rend="s">6</hi> On Linnell and
+                        Smith’s inaccuracies, see note 37 below. Butlin, citing Bentley 
+                            (<hi rend="i">BR</hi> 220), states that Stothard’s engraving appeared before
+                        Blake’s “in about November 1809” (1: 475), while Anthony Blunt 
+                            (<hi rend="i">The Art of William Blake</hi> [New York: Columbia UP, 1959] 77),
+                        followed by Kathleen Raine (<hi rend="i">William Blake</hi> [New York:
+                        Prager, 1970] 169), states that Cromek “published an engraving after
+                        Stothard’s painting, with great profit to himself.” But only the preliminary
+                        etching was completed by Schiavonetti in 1809, a few months before his
+                        death, and the engraving did not appear till five years after Cromek’s death
+                        in 1812.</note></p>
+                <p>We should start by recalling the depressed state of the craft of engraving in the
+                    1800’s as well as the low ebb of Blake’s fortunes at that time. Partly this was
+                    a matter of economics—the decay of the crafts system in general, the low state
+                    of the economy, the development of new techniques of reproduction, and the
+                    collapse of the European market for English prints as a result of the war with
+                    Napoleon. The bank crash of 1797, which had contributed to the failure of
+                    Blake’s illustrated edition of <hi rend="i">Night Thoughts</hi>, had also
+                    bankrupted Boydell’s ambitious <hi rend="i">Shakespeare Gallery</hi>; the
+                    imperilled state of engraving in England during the 1800’s led to the founding
+                    of a short-lived Society for the Encouragement of the Art of Engraving by the
+                    Chaleographic Society in 1810.<supplied type="spacer"> </supplied><ref target="n7"
+type="note">7</ref><pb
+                        id="p22-82" n="82"/> But Blake’s precarious circumstances around 1805—when
+                    he was apparently living on a guinea a week<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref>—must also be seen in terms of changing fashions in graphics. All during
+                    his career English taste in printmaking had been shifting away from traditional
+                    line engraving to the newer tonal processes of mezzotint, stipple, and aquatint.
+                    For Blake, trained primarily in the linear tradition, pure line remained his
+                    chosen medium; the “old Hard Stiff &amp; Dry” effects that his teachers at the
+                    Royal Academy reproved him for admiring were the very qualities that turned
+                    prospective buyers away from <hi rend="i">Night Thoughts</hi> and toward the
+                    softer more painterly style of Bartolozzi and his disciples.<supplied type="spacer"> </supplied><ref target="n9"
+                        type="note">9</ref> Contemporary critics found Blake’s engraving technique
+                    “defective,” “completely inferior” to such rivals as Schiavonetti, and condemned
+                    his designs as “deformity and extravagance.” Boydell, Macklin, and Bowyer had
+                    passed him over in their ambitious publishing projects, and now even Hayley and
+                    Flaxman were withdrawing their support.<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref> By
+                    the autumn of 1805, then, Blake seemed headed toward failure both as independent
+                    designer and as commercial engraver. To gain any recognition from the public,
+                    his work emphatically needed promotion. <note id="n7"><hi rend="s">7</hi> Dennis
+                        M. Read, “The Context of Blake’s ‘Public Address’: Cromek and The
+                        Chalcographic Society” <hi rend="i">Philological Quarterly</hi> 60 (1981):
+                        70-75, 80-81.</note>
+	<note id="n8"><hi rend="s">8</hi> Cromek’s figure,
+                        disputed by Bentley: whose claim that Blake was “riding the crest of a wave
+                        of prosperity” in the autumn of 1805 (<hi rend="i">BR</hi> 173) must,
+                        however, be questioned. He estimates Blake’s income for the first ten months
+                        of 1805 at £98, or £2.3 a week (186n1). But apart from payments by Flaxman
+                        and Butts totalling £37.18 (571-72) there is only a very doubtful commission
+                        of 10 guineas from Joseph Thomas in September (166, 606 and G. E. Bentley,
+                        Jr., <hi rend="i">Blake Books</hi> [Oxford: Clarendon, 1977], hereafter
+                        cited as <hi rend="i">BB</hi>, 420n1) beside a still more doubtful 50
+                        guineas for the plates to the 1805 edition of the <hi rend="i">Ballads</hi>
+                        promised him by the publisher Phillips under a profit-sharing agreement.
+                            (<hi rend="i">The Complete Poetry and Prose of William Blake</hi>, ed.
+                        David V. Erdman [hereafter cited as E] 762-65). To prove this was actually
+                        paid Bentley cites a letter of 25 April 1805 (<hi rend="i">BR</hi> 161,
+                        186n1—actually by Phillips not Blake), but the payment is not mentioned in
+                        the letter as quoted (161-62). Blake’s letters from June to December 1805 (E
+                        765-67) indicate he was in constant want of cash and had heard nothing from
+                        Phillips since the <hi rend="i">Ballads</hi> were published in June: the
+                        1805 venture was apparently as much of a financial loss as the 1802 
+                            <hi rend="i">Ballads</hi> had been (<hi rend="i">BR</hi> 116-17). His final
+                        word on the subject is the epigram on Phillips: “He loved me and for no Gain
+                        at all / But to rejoice &amp; triumph in my fall” (E 505). It seems, then,
+                        that Blake’s income for the ten months leading up to Cromek’s offer was
+                        probably not much over £40. From Bentley’s figures for the following year
+                            (<hi rend="i">BR</hi> 574-75, 606, 617), his income for 1806 came to
+                        about £55. Blake’s increasing poverty was an important factor in his state
+                        of mind in 1807 and afterward.</note>
+	<note id="n9"><hi rend="s">9</hi> On
+                        the ideology of Blake’s opposition to the newer techniques, see Morris
+                        Eaves, “Blake and the Artistic Machine: An Essay in Decorum and Technology”
+                            <hi rend="i">PMLA</hi> 92 (1977): 907 and 915n16.</note>	
+                            <note id="n10"><hi rend="s">10</hi><hi rend="i"> BR</hi> 193-94 and n1, 197, 200,
+                        54-55, 173-74. Blake was commissioned to engrave only one plate out of the
+                        100 included in Boydell’s illustrated <hi rend="i">Shakespeare</hi> 
+                            (<hi rend="i">BB</hi> 535-36). Between April 1805 and 1813 he received only a
+                        single engraving commission—the plate for Prince Hoare’s 
+                            <hi rend="i">Inquiry into the . . . Arts</hi> (1806) <hi rend="i">BR</hi> 571,
+                        616-17 and n1).</note></p>
+                <p>This is the point at which Robert Hartley Cromek entered the scene. A book
+                    collector and moderately successful engraver, Cromek had studied under
+                    Bartolozzi at the same time as Schiavonetti; he was a good friend of the
+                    Flaxmans and George Cumberland and probably acquainted for some years with both
+                    Blake and Stothard. Though his work had won high praise from Flaxman, Cromek
+                    decided about this time to give up engraving for the more active life of
+                    print-publisher and dealer.<supplied type="spacer"> </supplied><ref target="n11"
+type="note">11</ref> With little
+                    capital behind him, he conceived of a large illustrated edition of Robert
+                    Blair’s popular if lugubrious poem <hi rend="i">The Grave</hi> as his first
+                    project, and he showed a courageous taste in choosing Blake in September 1805 to
+                    do the designs. In a letter to Hayley of 27 November 1805 enclosing a copy of a
+                    Prospectus for the volume, Blake spoke warmly of his friend Cromek’s
+                    “liberality” in commissioning a set of drawings (for a fee of twenty guineas)
+                    and of his “Spirited Exertions” in securing the recommendations of thirteen
+                    Royal Academicians for the work—the high-water mark of recognition by the
+                    Academy that he was to receive in his lifetime. Blake added that Cromek was so
+                    pleased with the twenty designs he selected “that he with the same liberality
+                    with which he set me about the drawings, has now set me to Engrave them.”<ref
+                        target="n12" type="note">12</ref> However, in a second Prospectus almost
+                    identical with the first and like it dated November 1805, the number of plates
+                    was reduced to twelve and the name of Schiavonetti substituted for Blake’s as
+                    the engraver. This action by Cromek has repeatedly been described as a betrayal
+                    of Blake, on the assumption that Cromek had arbitrarily transferred the
+                    commission to Schiavonetti and perfidiously issued the second Prospectus without
+                    informing Blake of his decision, neither of which seems to be the case. The
+                    November 1805 date of the second Prospectus, on which the charge of Cromek’s
+                    perfidy rests, now appears to be incorrect; it was evidently issued a month or
+                    two later, and there is no reason to think that Cromek concealed his decision
+                    from Blake till after it was printed.<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref> The
+                    decision itself was his reaction to Blake’s first engraving for <hi rend="i">The
+                        Grave</hi>, his design for “Death’s Door”—his first plate etched completely
+                    in white line, a revolutionary inversion of traditional technique. The potential
+                    subscribers who viewed the proofs at Cromek’s place of business were evidently
+                    nonplussed or worse; and Cromek, realizing that Blake’s bold ruggedness of
+                    treatment would doom the book to failure, hastily turned to Schiavonetti to
+                    engrave the designs instead—a move that was within his rights as the originator
+                    and financer of the project.<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref> This is not
+                    to deny Blake’s disappointment and humiliation, or to accept the popular
+                    preference for Schiavonetti’s style over Blake’s, or to recast the “Fiends of
+                    Commerce” as the heroes of the piece: only to remind ourselves that—as J. T.
+                    Smith drily remarked—“it would be unreasonable to expect the booksellers to
+                    embark in publications not likely to meet remuneration.”<supplied type="spacer"> </supplied><ref target="n15"
+                        type="note">15</ref>
+	<note id="n11"><hi rend="s">11</hi> On Cromek’s
+                        background, see <hi rend="i">DNB</hi> 5: 144 and the “Biographical Sketch of
+                        Robert Hartley Cromek” in Robert Blair, <hi rend="i">The Grave, A Poem</hi>
+                        (London, 1813) 45-54. On his friendship with the Flaxmans, see Irwin 189; on
+                        his friendship with Cumberland, see <hi rend="i">BR</hi> 198. Flaxman
+                        thought his engravings from Stothard “in beauty far exceed any other prints
+                        from that Artist’s works” (Wilson 222n)—i.e., including Blake’s; see also
+                            <hi rend="i">BR</hi> 154-55.</note>
+	<note id="n12"><hi rend="s">12</hi><hi rend="i"> BR</hi> 168. Contrary to the usual interpretation
+                        of the agreement, Blake’s letter implies that in September 1805 Cromek
+                        merely commissioned “a set of drawings,” and that the engraving was not
+                        agreed on till November. On the other hand, a letter by Flaxman to Hayley of
+                        18 October 1805 (<hi rend="i">BR</hi> 166-67) reports that Cromek had
+                        proposed that Blake engrave 20 of his original 40 drawings, but it is not
+                        clear whether Flaxman had this information from Cromek or from Blake.
+                        Cromek’s fee of a guinea for each finished drawing is what Blake was
+                        receiving from Butts for his tempera frescoes at this time.</note>	
+                        <note id="n13"><hi rend="s">13</hi> See <hi rend="i">BR</hi> 168-71 for the second
+                        prospectus; the first prospectus of November 1805, naming Blake as the
+                        engraver, was not discovered and printed till G. E. Bentley, Jr.’s article
+                        “Blake and Cromek: The Wheat and the Tares” <hi rend="i">Modern
+                            Philology</hi> 71 (1974): 367-69. This discovery, along with a letter by
+                        Cromek to James Montgomery of April 1807 speaking warmly of Blake (372-75),
+                        considerably softened Bentley’s earlier criticism of Cromek 
+                            (<hi rend="i">BR</hi> 168-71 <hi rend="i">et passim</hi>). Butlin, who like
+Bentley
+                        notes that the type of the second prospectus was only partly reset (in fact
+                        only three lines were altered and three added), suggests (1: 454) that it
+                        was issued some time after Blake’s letter to Hayley of 11 December 1805,
+                        which thanked him for his “kind Reception” of the “New Projected Work” and
+                        said nothing of the commission being given to Schiavonetti (E 766-67). Since
+                        the first proof of Schiavonetti’s first etching (also of “Death’s Door”) was
+                        dated 12 February 1806, it appears that Schiavonetti was appointed and the
+                        prospectus revised in late December or January.</note>
+	<note id="n14"><hi
+                            rend="s">14</hi> On Blake’s innovative technique, see Robert N. Essick,
+                            <hi rend="i">William Blake Printmaker</hi> (Princeton UP, 1980) 107; on
+                        Cromek’s reaction, see <hi rend="i">BR</hi> 172, and Robert N. Essick and
+                        Morton D. Paley, <hi rend="i">Robert Blair’s The Grave Illustrated by
+                            William Blake</hi> (London: Scolar Press, 1982) 18. Blake’s and
+                        Schiavonetti’s versions of “Death’s Door” are reproduced by Todd 76-77 and
+                        by Eaves 920-21. Essick also suggests that Cromek turned to Schiavonetti
+                        because he found Blake’s use of perspective faulty in another drawing (“A
+                        Preliminary Design for Blake’s <hi rend="i">Grave</hi>” <hi rend="i">Blake
+                            Studies</hi> 4 [1972]: 11).</note>
+	<note id="n15"><hi rend="s">15</hi><hi
+                            rend="i"> BR</hi> 468. Even Gilchrist, who was mainly responsible for
+                        the blackening of Cromek’s character, admits that the change was “a happy
+                        choice of engravers on Cromek’s part; . . . indeed, Schiavonetti’s
+                        engravings introduced Blake’s designs to a wider public than himself could
+                        ever have done” (<hi rend="i">Life</hi> 219). Todd 84 suggests that in
+                        refusing to work in a more acceptable style Blake “may have been more
+                        blameworthy than has usually been admitted.”</note></p>
+                <p>However, Cromek has been depicted as an unscrupulous publisher, a “printjobber”
+                    who “jockeyed Blake out of his copyright” and made windfall profits on the
+                    venture. But Blake would not have retained the copyright even if he had done the
+                    engravings for <hi rend="i">The Grave</hi>: as with his arrangement in 1796 with
+                    Richard Edwards for <hi rend="i">Night Thoughts</hi>, once he sold his designs
+                    the copyright passed automatically to the purchaser, who assumed the costs of
+                    publication (including the engraving) in the hope of making a profit.<ref
+                        target="n16" type="note">16</ref> Edwards, incidentally, paid Blake a mere
+                    twenty guineas—or 9 ½d. each—for his 537 folio-size watercolor designs for 
+                        <hi rend="i">Night Thoughts</hi>, though probably five pounds (Blake’s usual
+                    fee) for each of his forty-three engravings.<supplied type="spacer"> </supplied><ref
+target="n17" type="note">17</ref> By May 1807, it is true, Cromek’s twenty-guinea fee for the twenty
+                    designs to <hi rend="i">The Grave</hi> no longer seemed liberal to Blake, who
+                    had evidently heard that Cromek had paid Stothard a hundred guineas for his
+                    Chaucer painting and was making huge profits on the exhibition: hence his angry
+                    demand of four guineas for the dedication page which elicited Cromek’s angry
+                    reply. But Cromek’s 
+<pb id="p22-83" n="83"/>
+profits on <hi rend="i">The
+                        Grave</hi> have been vastly exaggerated, from Kathleen Raine’s figure of
+                    “about £1800” down to Bentley’s more cautious estimate of £900.<supplied
+type="spacer"> </supplied><ref target="n18"
+                        type="note">18</ref> Even this latter figure needs correcting. First, it
+                    underestimates Cromek’s fee to Schiavonetti by almost £300; second, it computes
+                    the sales figures in terms of the postpublication price of two and a half
+                    guineas instead of the subscription price of two guineas; and third, it does not
+                    take into account Cromek’s travel expenses for over two years throughout England
+                    and Scotland, drumming up subscriptions and then delivering the finished books,
+                    which he had packed himself.<supplied type="spacer"> </supplied><ref target="n19"
+type="note">19</ref> A revised
+                    estimate of his profits for nearly three years’ work on the edition comes to
+                    about £295—not including travel expenses.<supplied type="spacer"> </supplied><ref
+target="n20" type="note">20</ref>
+                    And Cromek’s “Spirited Exertions” did not cease after securing the
+                    recommendations of the Academicians. He persuaded Fuseli to write a glowing
+                    endorsement of Blake’s designs, exhibited the drawings in London and the
+                    provinces, found subscribers for almost 700 copies, advertised the book
+                    repeatedly, and finally arranged for the volume to be dedicated to the
+                        Queen.<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n16"><hi rend="s">16</hi> On the customary copyright arrangements for engravings in
+                        Blake’s time, see David Alexander and Richard T. Godfrey, 
+                            <hi rend="i">Painters and Engraving: The Reproductive Print from Hogarth to
+                            Wilkie</hi> (New Haven: Yale Center for British Art, 1980) 11-12. On
+                        Cromek’s “jockeying” see <hi rend="i">Life</hi> 217-19.</note>	
+                            <note id="n17"><hi rend="s">17</hi><hi rend="i"> BR</hi> 52. On the “not
+unusual”
+                        disproportion between the designer’s and engraver’s fees and the publisher’s
+                        profits, Alexander and Godfrey cite the example of the highly successful
+                        print of <hi rend="i">The Destruction of the Children of Niobe</hi>, in
+                        which Richard Wilson received 80 guineas for his 1761 painting, Woollett
+                        £150 for the engraving, and Boydell collected £2,000 for the sale of the
+                        prints (<hi rend="i">Painters and Engravers</hi> 24). As for the 537 
+                            <hi rend="i">Night Thoughts</hi> watercolors, Edwards’s brother Thomas tried
+                        to sell them for 50 guineas in 1826 and 1828, but without success 
+                            (<hi rend="i">BR</hi> 442n1).</note>
+	<note id="n18"><hi rend="s">18</hi> Raine
+                        169: <hi rend="i">BR</hi> 184n3.</note>
+	<note id="n19"><hi rend="s">19</hi>
+                        On Schiavonetti’s fee, see Bentley’s corrected figure in “Blake and Cromek”
+                        378; on the subscription price, <hi rend="i">BR</hi> 171 and Dennis M. Read,
+                        “Cromek’s Provincial Advertisements for Blake’s <hi rend="i">Grave</hi>” 
+                            <hi rend="i">Notes and Queries</hi> ns 27 (1980) 75; on Cromek’s travels,
+                        ibid. 73-75 and Bentley “Blake and Cromek” 378-79.</note>
+	<note id="n20"><hi
+                            rend="s">20</hi> Using Bentley’s estimates of printing, advertising, and
+                        selling costs (<hi rend="i">BR</hi> 184n3), plus an additional £280 for the
+                        engraving fee, gives total costs for <hi rend="i">The Grave</hi> of
+                        £1,209.2.6. Sales of 680 subscriptions at two guiness and 20 nonsubscription
+                        copies at 2½ guineas, with perhaps five proof copies at four guineas 
+                            (<hi rend="i">BR</hi> 191), yield a total of 1430 guineas or £1501.10, making
+                        an estimated net profit of £292.7.6 (not counting travel expenses). Some
+                        copies remained unsold at least five months after publication 
+                            (<hi rend="i">BR</hi> 213-14).</note>
+	<note id="n21"><hi rend="s">21</hi> See G. E.
+                        Bentley, Jr., “The Promotion of Blake’s <hi rend="i">Grave</hi> Designs” 
+                            <hi rend="i">University of Toronto Quarterly</hi> 31 (1962): 34-53; Read,
+                        “Advertisements” 73-75. To these efforts should be added Cromek’s persuading
+                        Malkin to include an encomium of Blake’s art and poetry and a puff for 
+                            <hi rend="i">The Grave</hi> in the preface to his <hi rend="i">Father’s
+                            Memoir of His Child</hi> (Bentley “Promotion” 348), as well as
+                        commissioning Thomas Phillips R.A. to paint Blake’s portrait (engraved by
+                        Schiavonetti) for a frontispiece to the volume. And in 1807 and 1808 Cromek,
+                        professing admiration of his “Noble though extravagant Flights” (“Blake and
+                        Cromek” 372), was apparently trying to find buyers for some of Blake’s
+                        earlier books (<hi rend="i">BR</hi> 191 and n1). However, as Essick and
+                        Paley point out, all Cromek’s “bustling and puffing” could not produce
+                        favorable reviews of <hi rend="i">The Grave</hi>: only one mildly positive
+                        one and two long negative ones are known (<hi rend="i">The Grave</hi> 25;
+                            <hi rend="i">BR</hi> 195ff., 199ff., 201ff.).</note></p>
+                <p>With this first episode of the Blake-Cromek relationship in mind we may turn back
+                    to the quarrel over the <hi rend="i">Canterbury Pilgrims</hi> project. The first
+                    point at issue is whether the idea for the painting originated with Blake or
+                    with Cromek. Both Smith and Linnell state that it was Blake’s: but this
+                    ascription is unlikely, even though it has been almost universally accepted. In
+                    the first place, both Smith and Linnell erroneously credit Blake with the
+                    original idea for the <hi rend="i">Grave</hi> designs, and they may be in
+                    similar error about the Chaucer project. More important, it was Blake’s habit as
+                    an engraver to work on “tasks happily prescribed by others,” as Gilchrist put
+                    it, especially with ambitious undertakings such as <hi rend="i">Night
+                        Thoughts</hi> and <hi rend="i">The Grave.</hi> Living largely on publishers’
+                    advances, continually short of cash, Blake simply could not afford to embark on
+                    a long-term independent project in 1805; in fact, with the exception of his
+                    illustrations to Hayley’s <hi rend="i">Ballads</hi>, he had not published any
+                    engravings of his own design for over ten years.<supplied type="spacer"> </supplied><ref
+target="n22" type="note">22</ref> Furthermore, it is striking that Blake never evinced an interest
+                    in Chaucer prior to his 1808 painting and his 1809 <hi rend="i">Descriptive
+                        Catalogue.</hi> Only one reference to Chaucer occurs in all his poetry, on
+                    the next-to-last page of <hi rend="i">Jerusalem</hi> (98:9), and his discussion
+                    of Chaucer’s universality in the <hi rend="i">Catalogue</hi> is heavily indebted
+                    to Dryden’s comments in his preface to the <hi rend="i">Fables.</hi><ref
+                        target="n23" type="note">23</ref> Indeed, from all we know of Blake’s
+                    preoccupations in 1805, a painting of Chaucer’s Pilgrims seems one of the least
+                    likely projects he could have undertaken. In the absence of any expressed
+                    concern with Chaucer by Blake before 1808, there seems no reason, then, to doubt
+                    Cromek’s word when he congratulated himself “for thinking of such a glorious
+                    Subject” in a letter to James Montgomery of April 1807.<supplied type="spacer"> </supplied><ref target="n24"
+                        type="note">24</ref> Cromek’s own interest in Chaucer—like that of many
+                    other readers including Coleridge—may have been kindled by William Godwin’s
+                    popular biography of 1803, the first attempt at a full-length life. His account
+                    of picking up a copy of the <hi rend="i">Tales</hi> in Halifax in the summer of
+                    1806 while waiting for the London coach and conceiving of the idea for a
+                    painting of the Pilgrims which he then took to Stothard, is at least as
+                    circumstantial as Blake’s story preserved by Smith and Linnell.<supplied type="spacer"> </supplied><ref target="n25"
+                        type="note">25</ref>
+	<note id="n22"><hi rend="s">22</hi> See 
+                            <hi rend="i">Life</hi> 95. Excepting the illuminated books and <hi rend="i">The
+                            Gates of Paradise</hi>, only 17 or 18 of the more than 600 plates
+                        engraved by Blake during his lifetime were done on his own initiative, not
+                        on commission; and of these he published under his own copyright only five:
+                        “Edward &amp; Elenor,” “Job,” “Ezekiel,” and “The Accusers” (all dated
+                        1793-94), and in 1810 “Chaucers Canterbury Pilgrims” (Essick 
+                            <hi rend="i">Plates</hi> 3-122 <hi rend="i">passim</hi>). <hi rend="i">Milton</hi>
+                        and possibly <hi rend="i">Jerusalem</hi>, begun probably about this time,
+                        were of course independent large-scale projects from which Blake expected no
+                        financial reward proportionate to his investment of time: presumably they
+                        would have occupied all the attention he had left for unremunerative
+                        work.</note>
+	<note id="n23"><hi rend="s">23</hi> This single reference to
+                        Chaucer outside the <hi rend="i">Descriptive Catalogue</hi>, the 
+                            <hi rend="i">Public Address</hi>, and the 1809-10 prospectuses for the
+                        Chaucer engraving contrasts significantly with Blake’s frequent mention of
+                        other poets: Milton (61, excluding references in <hi rend="i">Milton</hi>),
+                        Shakespeare (20), Dryden (10), Chatterton (7), Spenser (6), Pope (5), and
+                        Gray (5): see <hi rend="i">A Concordance to the Writings of William
+                            Blake</hi> ed. David V. Erdman, 2 vols. (Ithaca: Cornell UP, 1967) 
+                            <hi rend="i">passim.</hi> It is often assumed that Blake was familiar with
+                        Chaucer from his earliest years (see e.g., Michael Phillips “Blake and the
+                        ‘Unincreasable Club’ ” <hi rend="i">Bulletin of the New York Public
+                            Library</hi> 80 (1976): 30, and Robert Gleckner, <hi rend="i">Blake’s
+                            Prelude</hi> [Baltimore: The Johns Hopkins UP, 1982] 137). But neither
+                        Phillips nor Gleckner in their studies of Blake’s early poetry demonstrates
+                        any Chaucerian influence; and Karl Kiralis, noting his erratic
+                        transcriptions in the <hi rend="i">Catalogue</hi>, questions his later
+                        knowledge of the <hi rend="i">Tales</hi> (“William Blake as an Intellectual
+                        and Spiritual Guide to Chaucer’s Canterbury Pilgrims” <hi rend="i">Blake
+                            Studies</hi> 1 [1969]: 171-74). It is significant that in quoting a line
+                        from Dryden’s translation of “The Knight’s Tale” in <hi rend="i">For
+                            Children: The Gates of Paradise</hi> Blake attributed it to Dryden
+                        rather than Chaucer (see <hi rend="i">The Notebook of William Blake</hi>,
+                        ed. David V. Erdman [Oxford: Clarendon, 1973] N69). Though Chaucer was
+                        included among the “Heads of the Poets” which he painted for Hayley’s
+                        library, these portraits clearly reflect Hayley’s choice rather than Blake’s
+                        own (Butlin 1: 297; Bindman 133-34). On his debt to Dryden see S. Foster
+                        Damon <hi rend="i">A Blake Dictionary</hi> (New York: Dutton, 1971) 78-79;
+                        on his wavering admiration for Chaucer see Essick <hi rend="i">Plates</hi>
+                        68-69, 87.</note>
+	<note id="n24"><hi rend="s">24</hi> Bentley “Blake and
+                        Cromek” 372. Bentley’s discovery of this letter prompted both Erdman (518)
+                        and Lindsay (193) to raise the possibility that the original idea for the
+                            <hi rend="i">Pilgrims</hi> was indeed Cromek’s.</note>
+	<note id="n25"><hi
+                            rend="s">25</hi> “Biographical Sketch” in Blair (1813) xlviii. On
+                        Godwin’s biography see Caroline Spurgeon. <hi rend="i">Five Hundred Years of
+                            Chaucer Criticism and Allusion</hi> (Cambridge UP, 1925) 1: ciii, cxi
+                        and <hi rend="i">Collected Letters of Samuel Taylor Coleridge</hi>, ed. E.
+                        L. Griggs (Oxford: Clarendon, 1956) 2: 951, 1054. It is significant that the
+                        minutely detailed description of the social-historical background for which
+                        Godwin’s work was generally praised (Spurgeon 2: 9-19, 31-37) is the same
+                        “antiquarian exactness” for which Stothard’s painting was acclaimed (see the
+                        “Prospectus” for the engraving of Stothard’s <hi rend="i">Procession</hi> in
+                        Blair <hi rend="i">The Grave</hi> [London: 1808] [38]—to which Blake’s
+                        rather Johnsonian praise of Chaucer’s universality was diametrically
+                        opposed.</note></p>
+                <p>The second question in dispute is whether, as Blake asserted to Linnell, Cromek
+                    actually commissioned him to design the <hi rend="i">Canterbury Pilgrims</hi>,
+                    with the promise of the engraving fee to follow. The issue is largely academic
+                    since, if the idea was Cromek’s to begin with, he would have been within his
+                    rights to take the subject to Stothard if, after first proposing it to Blake, he
+                    had been dissatisfied with Blake’s initial treatment of it—as indeed he would
+                    have been bewildered by the consciously archaic style Blake adopted for his
+                    design. However, it is significant that J. T. Smith, whose record of the affair
+                    in 1828 was based on first-hand discussion with a number of Blake’s friends,
+                    made no reference to a commission; it was Allan Cunningham who first mentioned
+                    it two years later, simply to record Cromek’s denial that he had ever given
+                        one.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref> A third
+question is whether Blake
+                    in fact made a pencil sketch of the subject in 1805 or early 1806, which would
+                    bolster though not clinch his claim that Cromek stole his idea. No drawing that
+                    can be so dated survives, though Gilchrist recounts a curious story concerning
+                        <figure n="CanterburyPilgrimsDetail.22.3.bqscan" rend="file" width="958" height="849"/>
+<pb
+                        id="p22-84" n="84"/> such a sketch. Blake, as he tells it, hung his original
+                    design for the <hi rend="i">Pilgrims</hi> on his sitting room wall for perhaps a
+                    year before the appearance of Stothard’s <hi rend="i">Procession</hi> in 1807;
+                    then on taking it down to use for his own fresco “he found it nearly effaced:
+                    the result of some malignant spell of Stothard’s,” as he insisted later to
+                    Flaxman, who naturally pooh-poohed the suggestion.<supplied type="spacer"> </supplied><ref
+target="n27" type="note">27</ref> Since neither Smith nor Linnell mentioned this incident in his
+                    account of the affair, it may be another piece of the Blake apocrypha; but even
+                    if Blake made the charge to Flaxman, the story itself does not prove that an
+                    1805 sketch ever existed. Yet interestingly enough, a drawing of the Pilgrims
+                    does survive whose appearance clearly indicates that it was hung on the wall as
+                    Gilchrist describes. This is the drawing of 1809 or 1810, soiled and faded and
+                    showing tack marks at top and bottom, which Blake made to reduce the design of
+                    his painting to the dimensions of his plate for engraving.<supplied type="spacer"> </supplied><ref target="n28"
+                        type="note">28</ref> So Gilchrist’s story may recall an actual conversation,
+                    though it is misleadingly vague as to the date. Either the exchange took place,
+                    as Gilchrist suggests, in 1807 or 1808, and Blake invoked Stothard’s “malignant
+                    spell” to explain to Flaxman the absence of an earlier sketch of the subject
+                    that would prove his priority; or possibly the incident occurred some years
+                    later, when Blake could have pointed to the 1809-10 drawing as the “original
+                    design” from which Stothard had stolen his theme. In either event, the drawing
+                    remained as concrete evidence for Linnell or another informant to later convince
+                    Gilchrist of the truth of Blake’s version of the case. One more point at issue,
+                    Crabb Robinson’s vague recollection in 1852 of hearing some thirty years earlier
+                    of a prospectus for Blake’s engraving circulated in 1806, proves a red herring
+                    on close inspection.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref>
+	<note id="n26"><hi
+                            rend="s">26</hi><hi rend="i"> BR</hi> 464-65, 491. While Cunningham’s
+                        memoir of Blake is unreliable in a number of details, it is likely to be
+                        accurate in his account of Cromek, whom he knew well from his mildly
+                        discreditable part in the <hi rend="i">Remains of Nithsdale and Galloway
+                            Song</hi>, published by Cromek in 1809-10 (<hi rend="i">Life</hi>
+                        250-52).</note>
+	<note id="n27"><hi rend="s">27</hi><hi rend="i"> Life</hi>
+                        241. Wilson insists (235) that Blake was jesting when he made this remark,
+                        if indeed he did: but it is in keeping with other wild accusations Blake
+                        made during these years (see note 46 below).</note>
+	<note id="n28"><hi
+                            rend="s">28</hi> Butlin 1 no. 654, 2 pl. 880. The verso is inscribed by
+                        Tatham, who inherited the drawing from Catherine Blake, “The Original
+                        reduced Drawing made to reduce the Picture of the Canterbury Pilgrims to the
+                        size of the Plate Blake afterwards engraved.” Linnell, who probably relayed
+                        the story to Gilchrist, was evidently aware of the drawing’s existence but
+                        not of its date: perhaps because Tatham wrote his note shortly before
+                        offering it for sale in 1862 or, as Morton Paley has suggested in
+                        correspondence, because Linnell, whose relations with Tatham were strained,
+                        was given no opportunity to examine it.</note>
+	<note id="n29"><hi rend="s">29</hi><hi rend="i"> BR</hi> 538, 179 and n3.</note></p>
+                <p>Beyond the unlikelihood of Blake’s conceiving of the <hi rend="i">Canterbury
+                        Pilgrims</hi> in 1805, however, there are more positive reasons for linking
+                    the project to 1808, the date recorded on the painting. The first is Blake’s
+                    probable motive in undertaking the Chaucer painting at this time. Nothing in
+                    Blake’s art of 1805—predominantly Biblical themes in a recreation of his earlier
+                    neoclassic manner—provides a context for the Gothic style and realistic subject
+                    matter of the <hi rend="i">Pilgrims.</hi> But in 1807, his simmering resentment
+                    against Cromek and Schiavonetti over the Blair project, the success of
+                    Stothard’s painting (which Schiavonetti had now been appointed to engrave), and
+                    Cromek’s insolent challenge to “send me a better” evidently roused Blake to
+                    indignant protest, not only against Stothard’s treatment of the subject but also
+                    against the whole system that produced it. For the 
+                    <figure n="CanterburyProcessionDetail.22.3.bqscan" rend="file" width="958" height="842"/>
+					<hi rend="i">Pilgrims</hi> is not simply the most consciously archaic of all Blake’s
+                    works: its archaism is not merely a style but a statement. The unholy alliance
+                    of publisher, painter, and engraver—Cromek, Stothard, and Schiavonetti—was to
+                    Blake the cause of the corruption of art in his time, in which increasingly the
+                    conception of a design was isolated from both its execution and, at one more
+                    remove, its reproduction, and the role of the artist increasingly subordinated
+                    to that of the entrepreneur. This system of production, which Morris Eaves has
+                    aptly named “the artistic machine,” Blake saw reflected in the “broken lines”
+                    and mechanical techniques of Schiavonetti’s stipple and mezzotint, to which
+                    Blake scornfully contrasted the integrity of his own linear style, the unbroken
+                    line which is the test of true artistry. As he wrote years later, “A Line is a
+                    Line in its Minutest Subdivision[s] Strait or Crooked It is Itself &amp; Not
+                    Intermeasurable with or by any Thing Else” (E 783). Thus his choice of the style
+                    he had learned from “Alb. Durer and the old Engravers” (E 572) was not a simple
+                    quest of historical accuracy, like the “antiquarian exactness” of Stothard’s
+                    painting based on patient research in the British Museum; more significantly it
+                    was a return to the spirit of his uncorrupted youth, the Gothic world of
+                    Westminster Abbey and the medieval master craftsmen. Integrity of style was to
+                    be matched by integrity of production: Blake conceived his own vision of the 
+                    <hi rend="i">Pilgrims</hi>, painted it, exhibited it, engraved it, advertised
+                    and sold it all on his own. “If a man is master of his profession,” he wrote at
+                    the end of the <hi rend="i">Descriptive Catalogue</hi>, “and if he is not
+                    employed by 
+                    <pb id="p22-85" n="85"/>
+                    <figure n="CanterburyCrowdDetail.22.3.bqscan" rend="file" width="958" height="849"/> 
+                    those who pretend to
+                    encourage art, he will employ himself and laugh in secret at the pretences of
+                    the ignorant”—thus gaining “a reward for the labours of the day, such as the
+                    world cannot give” (E 550). The <hi rend="i">Canterbury Pilgrims</hi> must be
+                    read as Blake’s answer to Schiavonetti’s facile virtuosity, Stothard’s
+                    inauthentic medievalism, and Cromek’s crass commercialism.</p>
+                <p>The most concrete evidence against the received account of the controversy,
+                    however, is found in Blake’s published remarks on the affair. It is striking to
+                    note that nowhere in the <hi rend="i">Descriptive Catalogue</hi> of 1809 does he
+                    charge Cromek with stealing his idea for the <hi rend="i">Canterbury
+                    Pilgrims.</hi> Rather, Blake tells us, his picture was painted “in
+                    self-defence against the insolent and envious imputation of unfitness for
+                    finished and scientific art.” Cromek’s rejection of his engraving for 
+                    <hi rend="i">The Grave</hi> now seemed a slander on his abilities which, he
+                    hints, Cromek has “artfully and industriously endeavoured to be propagated among
+                    the public by ignorant hirelings,” i.e., reviewers. He “courts comparison” with
+                    his competitors (Cromek and Stothard) and accuses Cromek of having reaped
+                    enormous profits from his designs for <hi rend="i">The Grave</hi> by employing
+                    another more docile engraver (Schiavonetti) to produce a work which has gained
+                    both of them “public patronage,” while Blake’s designs “which gained them that
+                    patronage are cried down as eccentricity and madness” (E 537-38). These
+                    outbursts spring partly from Blake’s rage at the reviews of <hi rend="i">The
+                    Grave</hi> in the latter half of 1808—first and foremost the Hunts’ 
+                    <hi rend="i">Examiner</hi>—which attacked his designs as “indecent,”
+                    “absurd,”
+                    “the offspring of a morbid fancy” which “has totally failed” in its aim, while
+                    commending “the unrivalled graver of L. Schiavonetti.” However, these were only
+                    salt in the wounds Blake was still nursing over Cromek’s substitution of
+                    Schiavonetti as engraver, his failure to pay Blake what he now thought he
+                    deserved for his designs, his outrageous letter of May 1807, and a number of
+                    other grievances—now climaxed in Blake’s imagination by Cromek’s complicity in
+                    the reviewers’ 
+                    attacks.<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref> 
+                    But to all such
+                    aspersions and calumnies, he asserts, “the works now exhibited will give the
+                    lie.” Following this defense with an attack, Blake links Stothard with “a class
+                    of men”—Reynolds and his followers in the Royal Academy—“whose whole art and
+                    science is fabricated for the purpose of destroying art,” as Blake saw it, by
+                    promoting Venetian over Florentine principles, coloring over drawing; he then
+                    convicts such painters of “Stupidity” by a withering analysis of Stothard’s 
+                        <hi rend="i">Procession</hi> as described in his Prospectus (E 538-40). 
+                        <note id="n30"><hi rend="s">30</hi><hi rend="i"> BR</hi> 195-97, 199-208, 209-10.
+                        Blake’s grievances include Cromek’s insistence on re-engraving Blake’s plate
+                        for the frontispiece to Malkin’s <hi rend="i">Memoir</hi> in 1806 (Dennis M.
+                        Read, “A New Blake Engraving: Gilchrist and the Cromek Connection” 
+                            <hi rend="i">Blake</hi> 14 [1980]: 64); his failure to mention Blake by name
+                        in several of the advertisements to <hi rend="i">The Grave</hi> (Bentley,
+                        “Promotion” 351); his failure to acknowledge Blake’s contribution in his
+                        prefactory advertisement to <hi rend="i">The Grave</hi> while praising
+                        Schiavonetti’s engravings (<hi rend="i">BR</hi> 192-93); his omission of
+                        Blake’s name from the title page (<hi rend="i">BR</hi> 529); and his
+                        inclusion of a glowing prospectus for the engraving of Stothard’s 
+                            <hi rend="i">Procession</hi> at the end of the volume, announcing the
+                        patronage of the Prince of Wales for the print (Blair [1808] 37).</note></p>
+                <p>In the <hi rend="i">Public Address</hi> of 1810 Blake extends these lines of
+                    attack and defense to his engraving of the <hi rend="i">Pilgrims</hi>, decrying
+                    the modern style of engraving of Bartolozzi and his followers as contaminated by
+                    painterly principles of tone, and upholding his own work as founded firmly on
+                    line. He rails especially against “the artfully propagated pretence” that “Great
+                    Inventors” such as himself “cannot Execute,” or that “A Translation or a Copy of
+                    any kind” can be as good as “An Original Invention”—in short, that an engraver
+                    such as Schiavonetti can do justice to Blake’s own designs (E 572, 576, 582).
+                    Clearly his humiliation over the Blair illustrations is still as much on his
+                    mind as his need to promote his Chaucer engraving; but even if his protest
+                    against his competitors’ Calumny &amp; the Arts of Trading Combination” (E 577)
+                    is read as referring to the dispute over the <hi rend="i">Pilgrims</hi> rather
+                    than to <hi rend="i">The Grave</hi>, still it attacks Cromek not for stealing
+                    his original idea but for maligning his abilities and for promoting Stothard’s
+                    painting far more successfully than Blake did his own.<supplied type="spacer"> </supplied><ref target="n31"
+                        type="note">31</ref>
+	<note id="n31"><hi rend="s">31</hi> The one allusion to
+                        “robbery” in the <hi rend="i">Public Address</hi> is a veiled reference to
+                        alleged borrowings much earlier in his career by Stothard and Flaxman (E
+                        582: see 508, 540). Other references in the <hi rend="i">Descriptive
+                            Catalogue</hi> and <hi rend="i">Public Address</hi> to “imitation,”
+                        “copy,” “original,” “thieves,” and “plagiarism” are not directed at
+Cromek
+                        or Stothard at all, nor are there any to “steal” or “cheat.”</note></p>
+                <p>The failure of the 1809 Exhibition, followed by that of the Chaucer engraving (of
+                    which he may have sold only seven or eight copies out of a printing of thirty or
+                        so),<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref> was a
+staggering blow, the climax
+                    of a long series of disappointments and (as he saw them) betrayals since the end
+                    of 1805. In the epigrams Blake began scribbling in his Notebook at about this
+                    time, Cromek is prominent among the “foes” on whom he vents his rage: but the
+                    terms of his attack deserve close scrutiny. Cromek is 
+                        <pb id="p22-86" n="86"/>
+<figure n="CanterburySteepleDetail.22.3.bqscan" rend="file" width="958" height="841"/> denounced as
+                    “a petty sneaking knave,” who loves the art only of cheating, and who in trying
+                    “to please everybody” has “set to work Both ignorance and skill”—i.e., has
+                    employed Schiavonetti to engrave Blake’s designs for <hi rend="i">The Grave</hi>
+                    rather than Blake himself. The one possible reference to the 
+                        <hi rend="i">Canterbury Pilgrims</hi> affair—and a murky one at that—occurs in the
+                    enigmatic poem “And his legs carried it like a long fork” (E 503-04). This poem,
+                    begun late in 1810, apparently celebrates Blake’s publication of his Chaucer
+                    engraving ahead of Stothard’s, thereby frustrating the schemes of Screwmuch
+                    (Cromek), Stewhard (Stothard), and Assassinetti (Schiavonetti) to cheat Blake
+                    out of a just reward for his talents. Though Cromek has peddled Stothard’s
+                    painting the length and breadth of Great Britain, it has been to no avail. His
+                    “eggs” (the profits from the exhibition of Stothard’s painting) have been
+                    “addled and decayed” by Schiavonetti’s death in June 1810 before finishing the
+                    engraving which would have proved still more lucrative to Cromek, while at the
+                    same time he has failed to turn “the wretched soul of William Blake” into “eggs
+                    of gold” for his own profit. And when Cromek, almost penniless, died of
+                    tuberculosis in 1812, Blake added some lines savagely exulting over his demise
+                    as well as the deaths or misfortunes of other enemies and some former friends—an
+                    alarming index to his state of mind at the time.<supplied type="spacer"> </supplied><ref
+target="n33" type="note">33</ref>
+	<note id="n32"><hi rend="s">32</hi> Essick 
+                            (<hi rend="i">Plates</hi> 60-70) lists 29 prints made during Blake’s lifetime.
+Actual
+                        sales in Blake’s lifetime are recorded for only about seven copies 
+                            (<hi rend="i">BR</hi> 592 and 594, and Essick <hi rend="i">Plates</hi> 63,
+                        64, 75, 76). The price was set at four guineas to subscribers in the 1809
+                        prospectus (“to be considerably raised to Non-subscribers,” E 567), lowered
+                        to three guineas in 1810, and sold for two or 2½ guineas in 1826-28 
+                            (<hi rend="i">BR</hi> 592, 594-95, 607). The first three obituaries of Blake
+                        failed to mention the <hi rend="i">Pilgrims</hi> among his other works; the
+                        fourth described it as though it were unknown (<hi rend="i">BR</hi> 348-50,
+                        351-53, 354-55, 357).</note>
+	<note id="n33"><hi rend="s">33</hi> The
+                        “enemies” include “Billy’s Lawyer” Rose—“Sweet Rose” (E 759)—his old
+friend
+                        Flaxman, and his erstwhile employer Prince Hoare as well as the brothers
+                        Hunt and the villainous dragoon Scholfield, who died in 1812 
+                            (<hi rend="i">BR</hi> 669). “Dady Jack Hemps Parson” may be the Rev. Joseph
+Thomas, a
+                        friend of Flaxman’s and a generous patron to Blake, who died in 1811 
+                            (<hi rend="i">BR</hi> 674). “Dady” or “daddy” was a current term of
+contempt
+                        for a prim old man (see <hi rend="i">BR</hi> 53). “Cur, my Lawyer” is
+                        probably Charles Ker, a barrister with whom Blake was embroiled in a lawsuit
+                        in 1810, and whose father lost a famous and expensive lawsuit in 1812 (see
+                            <hi rend="i">BR</hi> 227-28 and n3).</note></p>
+                <p>Yet it is striking that Stothard, Flaxman, and Hayley come in for more frequent
+                    and violent abuse in the Notebook poems than Cromek.<supplied type="spacer"> </supplied><ref target="n34"
+                        type="note">34</ref> Stothard is compared to “The Fox, the Owl, the Beetle
+                    &amp; the Bat” and is attacked as “the golden fool” who has “grown old and rich”
+                    by observing “the golden rule,” the seeming “friend of all mankind” who is in
+                    truth iron-hearted, wooden-headed, brazen-faced (E 508, 503). These verses
+                    express Blake’s resentment of Stothard’s financial success and his coolness to
+                    an old friend, however, rather than raise any charge of plagiarism. The animus
+                    against Stothard seems excessive, especially in the light of Stothard’s
+                    cordiality in 1806, when he is said to have promised to include a portrait of
+                    Blake among his Pilgrims “as a mark of esteem for him and his works.”<ref
+                        target="n35" type="note">35</ref> When his painting appeared in 1807 it
+                    contained no such portrait: but this would hardly account for Blake’s anger.
+                    Perhaps Stothard in an expansive moment actually promised Blake the commission
+                    for engraving his work—a promise that Cromek would have forced him to withdraw.
+                    Such a hypothesis would at least account for the mysterious commission of a
+                    Chaucer engraving which Blake believed he had received but which Cromek denied
+                    he had ever given. Blake goes on in the Notebook to link Stothard with Flaxman
+                    as his two Calibans, treacherous “old acquaintance” whom he “taught to see” but
+                    who now “have shewn their backsides,” and who spread the poisonous rumor that
+                    “Blakified drawing spoils painter &amp; engraver” (E 508, 505). The assault on
+                    Flaxman, the innocent bystander, is surprising. Like Stothard he is accused of
+                    copying Blake; but a more frequent accusation is that he has refused to believe
+                    Blake and demanded “a proof of what he can’t perceive,” mocking Blake as a
+                    “madman”—who replies by calling him a “blockhead” (E 507, 501). Perhaps this
+                    exchange of insults was precipitated by Flaxman’s refusal to believe Blake’s
+                    improbable story of Stothard’s casting a “malignant spell” on his original
+                    sketch of the <hi rend="i">Pilgrims</hi> when Flaxman quizzed him, as he must
+                    have done, on his reason for apparently copying Stothard’s design.<ref
+                        target="n36" type="note">36</ref>
+	<note id="n34"><hi rend="s">34</hi> Cromek
+                        is mentioned in nine of the epigrams, Hayley in 10, and Stothard and Flaxman
+                        in 11 each (under their respective aliases in “And his legs carried it like
+                        a long fork,”) (Erdman <hi rend="i">Concordance</hi> s.v.)</note>	
+                        <note id="n35"><hi rend="s">35</hi><hi rend="i"> Life</hi> 221.</note>	
+                        <note id="n36"><hi rend="s">36</hi> Flaxman evidently had a falling-out with Blake
+                        in 1808, which seems to have lasted till 1814 or 1815: see 
+                            <hi rend="i">BR</hi> 190, 241-422, 235, 239 and <hi rend="i">BB</hi>
+419.</note></p>
+                <p>Thus we are faced like Flaxman, and later J. T. Smith, with the difficult
+                    question of how far we can take Blake’s word against Cromek and Stothard’s in
+                    the matter. Discounting the story of supernatural influences on the mysterious
+                    pencil sketch of 1805, how much can we believe of the account Blake gave Linnell
+                    that Cromek saw his drawing of the Pilgrims, commissioned him to paint it for
+                    twenty guineas, promised him the engraving fee in addition while secretly
+                    negotiating with another 
+<pb id="p22-87" n="87"/>
+engraver, then “sneaked” the
+                    idea to Stothard when Blake refused to surrender his design? This account, as we
+                    have seen, is backed by no external evidence and indeed conflicts with most of
+                    the facts surrounding the matter. It is possible, of course, that Linnell’s
+                    recollection in 1855 of his conversations with Blake around 1820 is at fault.
+                    Like Smith’s memoir of 1828 his note on the affair contains some factual
+                    inaccuracies, and in certain details—notably the promise of the engraving
+                    commission subsequently withdrawn—it suspiciously resembles the episode of the
+                        <hi rend="i">Grave</hi> illustrations, belonging also to the fall of 1805,
+                    which may have fused with it in Linnell’s memory.<supplied type="spacer"> </supplied><ref target="n37" type="note">37</ref> But, given Blake’s emotional state around 1809 and after,
+it seems
+                    more likely that this fusion or confusion had already taken place in Blake’s
+                    mind when he talked with Linnell a decade or so after the event, and that this
+                    is the real origin of the story. Blake’s version of the affair is thus probably
+                    a gradual reconfiguration of the events during his years of obscurity after
+                    1810, when he had alienated all of his old friends and was left to brood over
+                    their injustices in isolation.<supplied type="spacer"> </supplied><ref target="n38"
+type="note">38</ref> In either
+                    case, when all the contemporary evidence is taken into account the contemporary
+                    understanding of the coincidence between the two Chaucer paintings seems the
+                    probable one—that Blake commenced his picture in rivalry to Stothard’s 
+                        (<hi rend="i">BR</hi> 492, 209, 243-44). No disinterested witness at the time
+                    supports Blake’s claim to priority, and the factual evidence all points in the
+                    other direction. <note id="n37"><hi rend="s">37</hi> Linnell accepts Smith’s
+                        misstatement that Blake himself had the original idea for the 
+                            <hi rend="i">Grave</hi> illustrations and has Blake starting work on his Chaucer
+                        engraving in 1806 (<hi rend="i">BR</hi> 464 and n1), two years before
+                        completing his painting and three years before he started to engrave it (E
+                        567-68). The coincidences between the Blair and the Chaucer projects in
+                        Linnell’s account are the commission with the 20 guinea fee for the designs;
+                        the promise on which Cromek reneged that Blake would do the engraving; and
+                        the negotiations behind Blake’s back with another engraver.</note>	
+                        <note id="n38"><hi rend="s">38</hi> Gilchrist’s statement (<hi rend="i">Life</hi>
+                        247) that “to the end of his life” Blake would abuse Stothard to strangers
+                        with “unaccountable vehemence,” while keeping silent to friends and
+                        sympathizers about the affair, suggests that he sensed his side of the story
+                        would not bear close examination.</note></p>
+                <p>The difficult question remains of how Blake arrived at his conviction that the
+                    idea for the Chaucer painting was originally his; and an answer here must be
+                    almost completely speculative. It must start from the premise that Blake lived
+                    in an eidetic world, thronged with precise visual images having the force of
+                    reality, with a visual memory developed to an unusual degree by his training in
+                    art and well-stocked with years of study of the work of other artists. Many of
+                    his apparently original designs have been shown to be based on (probably
+                    unconscious) recollections of other works, both contemporary and ancient, from a
+                    wide range of sources—which is not to deny that what he borrowed from other
+                    artists he transmuted into something wholly his own.<supplied type="spacer"> </supplied><ref target="n39"
+                        type="note">39</ref> Like many of his other paintings, then, the 
+                        <hi rend="i">Pilgrims</hi> may well have been an amalgamation of half-conscious
+                    memories of other works under the pressure of some immediate stimulus. It may
+                    well be that, as has been suggested, Blake saw the Elgin Marbles not long after
+                    they were placed on exhibition in 1807 and this visual experience—especially in
+                    conjunction with his view of Stothard’s <hi rend="i">Procession</hi> around the
+                    same time—was the seed of his own conception. The sight of the actual Marbles
+                    would certainly have brought to the surface of his memory the line engravings of
+                    the Panathenaic Procession reproduced in Stuart and Revett’s 
+                        <hi rend="i">Antiquities of Athens</hi>, which he had studied as a young man and which
+                    are closer in feeling to his own work than the sculptures themselves. But quite
+                    apart from the Marbles, Stothard’s procession evidently triggered a recollection
+                    of two other cavalcades—those of two outsized engravings by Basire which have
+                    been claimed were the primary influences on both the scale and the archaic style
+                    of his <hi rend="i">Pilgrims</hi>—“The Field of the Cloth of Gold” (1774) and
+                    “The Procession of Edward VI” (1787), the latter of which was especially close
+                    to Blake’s design.<supplied type="spacer"> </supplied><ref target="n40"
+type="note">40</ref> It seems, then, that
+                    from all these recollections fusing in his visual memory arose a new image of
+                    the same compelling vividness as the spiritual publications he described years
+                    later to Crabb Robinson, to which the existence of actual manuscripts was
+                    irrelevant—one of “those wonderful Originals seen in my visions” before he ever
+                    set pencil to paper.<supplied type="spacer"> </supplied><ref target="n41"
+type="note">41</ref> Thus Stothard’s
+                    cavalcade would have appeared to him as a copy of an idea he had long had in
+                    mind, which he gradually became convinced he had sketched a year or two before
+                    seeing Stothard’s painting in progress. <note id="n39"><hi rend="s">39</hi> See
+                        the discussions by C. H. Collins Baker, “The Sources of Blake’s Pictorial
+                        Expression” <hi rend="i">Huntington Library Quarterly</hi> 4 (1940): 359-67;
+                        Blunt 33-43; and <hi rend="i">Blake in His Time</hi>, ed. Robert N. Essick
+                        and Donald Pearce (Bloomington: Indiana UP, 1978) <hi rend="i">passim.</hi>
+                        On Blake’s eideticism see Morton D. Paley, <hi rend="i">Energy and the
+                            Imagination</hi> (Oxford: Clarendon, 1970) 202-05, and Joseph Burke,
+                        “The Eidetic and the Borrowed Image: An Interpretation of Blake’s Theory and
+                        Practice of Art” in <hi rend="i">The Visionary Hand</hi>, ed. Robert N.
+                        Essick (Los Angeles: Hennessy and Ingalls, 1973) 263-67, 271-77.</note>	
+                        <note id="n40"><hi rend="s">40</hi> Laurence Binyon, <hi rend="i">The Engraved
+                            Designs of William Blake</hi> (London: Benn, 1926) 62, and Essick 
+                            <hi rend="i">Printmaker</hi> 189-90, which provides a detailed comparison of
+                        Basire’s and Blake’s engraving technique. As is apparent from the
+                        reproduction, the compositional similarities between Basire’s print and
+                        Blake’s are far closer than those suggested to the Elgin Marbles (see note 1
+                        above). In addition to the frieze-like arrangement of the figures with
+                        near-isocephaly noted by Essick, Blake’s design closely parallels Basire’s
+                        in the gently rolling hills and dense foliage of the trees in the
+                        background; in the architectural details of diamond-paned windows, Gothic
+                        spires and gateway, and pillars enclosing sculptures of ecclesiastics; and
+                        most of all in the horses and their trappings, an unlikely subject for
+                        Blake. The similarities to the Parthenon frieze adduced by Macmillan (see
+                        note 1 above) are generalized and remote by comparison—not only the human
+                        figures but especially the horses. In the Panathenaic procession the horses
+                        with their bare-back riders move from right to left in a bounding canter,
+                        tossing their heads, with both forefeet usually off the ground; the London
+                        cavalcade moves from left to right at a dignified walk or slow trot. Blake’s
+                        improbable rendition of Chaucer’s horse with both left feet off the ground
+                        at the same moment may result from his amalgamation of the front and rear
+                        ends of two horses at the rear of the mounted procession in Basire’s print,
+                        each partly obscured by a pillar: which suggests that he may have refreshed
+                        his memory by another view of the print. Its heroic dimensions (22¾ × 52½
+                        inches) are only slightly larger than those of Blake’s engraving (18⅜ × 53
+                        15/16 inches).</note>
+	<note id="n41"><hi rend="s">41</hi> <hi rend="i">
+                            BR</hi> 322; E 531. On the indebtedness of such “original” visions to
+                        recollections of earlier images, see Morton D. Paley, “‘Wonderful Originals’
+                        —Blake and Ancient Sculpture” in <hi rend="i">Blake in His Time</hi>
+                        170-97.</note></p>
+                <p>In conclusion, two points must be made. First, it appears that Cromek has been
+                    “much maligned,” as William Bell Scott, a Victorian collector and editor of
+                    Blake’s engravings, later opined. From Gilchrist onward he has been described as
+                    “slippery,” “greedy,” “treacherous,” an opportunist who “picked the brains
+of
+                    his proteges and stopped the pay.”<supplied type="spacer"> </supplied><ref target="n42"
+type="note">42</ref> Partly
+                    this may be due to the fact that the role of artistic and literary entrepreneur
+                        <figure n="CanterburyTownDetail.22.3.bqscan" rend="file" width="958" height="848"/>
+<pb id="p22-88"
+                        n="88"/> was still relatively new and not highly regarded in Blake’s
+                        time;<supplied type="spacer"> </supplied><ref target="n43" type="note">43</ref> it is
+also true that Cromek, who
+                    seems to have operated on a very narrow margin of cash, was not generous in his
+                    dealings and engaged in sharp and perhaps shady practices. Cromek was no hero:
+                    he was quick-tempered, brash, disingenuous, and drove a hard bargain though to
+                    no great financial return. Yet it has been claimed in the light of recent
+                    evidence that he also showed “a surprising breadth of aesthetic and intellectual
+                    sympathy” with Blake in the earlier stage of their relationship; moreover, that
+                    he was the most reliable and conscientious of Robert Burns’s nineteenth-century
+                    editors as well as an enterprising and energetic collector of unpublished
+                        material.<supplied type="spacer"> </supplied><ref target="n44" type="note">44</ref>
+Cromek’s career as a whole
+                    awaits reassessment; in his relationship with Blake he should at the very least
+                    be given credit for introducing Blake’s art to the widest public he was to have
+                    in his lifetime with the designs to <hi rend="i">The Grave</hi>, and doing
+                    everything in his power to ensure the success of the work. 
+                            <note id="n42"><hi rend="s">42</hi><hi rend="i"> Life</hi> 221, 250, 244, 252. See
+Wilson
+                        227 (“a second-rate engraver”), Bernard Blackstone, <hi rend="i">English
+                            Blake</hi> (Cambridge UP, 1949) 123 (“an exploiter more unscrupulous and
+                        more cunning than Hayley”), and so forth. Essick and Paley give evidence of
+                        his hard dealings with other business associates (<hi rend="i">Blair’s
+                            Grave</hi> 18), and Bentley even blames “the obscurity and poverty of
+                        Blake’s last years” on Cromek for discouraging Blake “from appealing
+                        directly to the public” (“Blake and Cromek” 375-76). Dennis M. Read, who has
+                        published valuable research on Cromek’s career, has raised doubts in
+                        correspondence about several of the charges leveled against him by
+                        Gilchrist, such as Cromek’s stealing an autograph letter by Ben Jonson from
+                        Sir Walter Scott (<hi rend="i">Life</hi> 252-53) and failing to pay Stothard
+                        the extra £40 promised for his <hi rend="i">Procession</hi> (253). On
+                        Cromek’s financial difficulties over the engraving of Stothard’s picture,
+                        see Read, “Engraving” 60-65; on W. B. Scott see <hi rend="i">BR</hi> 193 and
+                        Todd in <hi rend="i">Life</hi> 384, 386.</note>
+	<note id="n43"><hi rend="s">43</hi> The first recorded use of the term 
+                            <hi rend="i">entrepreneur</hi> in the sense of “manager” occurs in 1828: “an
+animal
+                        whom it is supposed lawful and commendable to bleed at every vein” 
+                            (<hi rend="i">OED</hi> Supplement).</note>
+	<note id="n44"><hi rend="s">44</hi>
+                        Bentley “Blake and Cromek” 366, 376-77; J. DeLancey Ferguson, “In Defense of
+                        R. H. Cromek” <hi rend="i">Philological Quarterly</hi> 9 (1930): 239-48; and
+                        Dennis M. Read, “Practicing ‘The Necessity of Purification’: Cromek, Roscoe,
+                        and <hi rend="i">Reliques of Burns</hi>” <hi rend="i">Studies in
+                            Bibliography</hi> 35 (1982): 306-19. Essick and Paley cite the
+                        “surprisingly Blakean . . . rhetoric” of Cromek’s 1810 obituary of
+                        Schiavonetti, which must have struck Blake with considerable irony 
+                            (<hi rend="i">Blair’s Grave</hi> 28-29).</note></p>
+                <p>Yet a more significant point emerges when we shift from looking at the quarrel
+                    with Cromek through the eyes of Blake to viewing Blake through the perspective
+                    of the quarrel. Blake seems to have been driven to the edge of sanity in the
+                    years surrounding his exhibition. As Bentley has suggested, between 1807 and
+                    1812 the visionary world seemed often to supplant rather than to supplement the
+                    ordinary world of causality in Blake’s mind, or—to put it another way—“a firm
+                    perswasion that a thing is so, [seemed to] make it so.”<supplied type="spacer"> </supplied><ref target="n45"
+                        type="note">45</ref> His relationship with Cromek is perhaps the most
+                    telling example of his loosening grip on reality during those years, though few
+                    of his readers have been willing to see it thus. Yet the belief which apparently
+                    began to grow on him after 1810 that Cromek and Stothard had stolen his idea for
+                    a painting from Chaucer is no more delusive than a number of other suspicions of
+                    his friends and foes that he vented at the time.<supplied type="spacer"> </supplied><ref
+target="n46" type="note">46</ref> But there is more to it than this. If Blake was in his Spectre’s
+                    power in his dealings with Cromek, his Humanity was also awake and struggling,
+                    like Los, to subdue it to the ends of art. It is one of the mysteries of
+                    creativity that the imagination feeds on contraries, is stirred by the
+                    experience of hate as well as love, by scorn and rivalry as well as admiration
+                    and brotherhood, perhaps even by the petty as well as the sublime. We know what
+                    the years at Felpham with Hayley contributed to the making of 
+                        <hi rend="i">Milton.</hi> Robert Cromek must have appeared to Blake as “the Age’s
+                    Knave,” the reincarnation of Chaucer’s Pardoner, the man “sent in every age for
+                    a rod and scourge,” but “suffered by Providence for wise ends.” It is then a
+                    providential irony that Blake’s conviction of Cromek’s villainy prompted him to
+                    paint one of his grandest “Visions of the eternal principles or characters of
+                    human life [which] appear to poets, in all ages” (E 535-36). Seen thus, Cromek
+                    indeed had “his great use, and his grand leading destiny.” 
+                            <note id="n45"><hi rend="s">45</hi><hi rend="i"> BR</hi> 180; E 38. It is
+significant that
+                        the idiosyncratic word “delusion” in its several forms occurs only twice in
+                        Blake’s work before <hi rend="i">The Four Zoas</hi> and 54 times thereafter
+                            (<hi rend="i">Concordance</hi> s.v.). It appears that Blake recognized
+                        in his own experience the power of hallucinatory images to take on the force
+                        of reality.</note>
+	<note id="n46"><hi rend="s">46</hi> Blake’s complaint that
+                        his designs have been rejected by the Royal Academy merely because they were
+                        painted in watercolor (E 527; see Erdman 455n57); his statement that Cromek
+                        made over 1400 guineas profit on <hi rend="i">The Grave</hi> (E 537); his
+                        insinuation that Cromek was responsible for the death of Schiavonetti (E
+                        505); his claim that Flaxman “was blasting my character as an Artist to
+                        Macklin, my <corr type="emend">Employer” in</corr> 1782-83 (E 572; see 
+<hi rend="i">BR</hi> 610-11),
+                        the very time at which Flaxman was finding influential patrons for Blake,
+                        arranging for the printing of <hi rend="i">Poetical Sketches</hi>, assisting
+                        in a plan to send Blake abroad, and generally promoting his reputation
+                        (ibid. 24-27). Blake’s sneer at Hayley for “being a friend just in the nick”
+                        to Cowper (E 507)—i.e., for neglecting Cowper’s needs and doubting his
+                        genius while alive but capitalizing on his fame after his death by writing
+                        his biography on a commission from “some book-seller”—is unfair and
+                        inaccurate: see Morchard Bishop, <hi rend="i">Blake’s Hayley</hi> (London:
+                        Gollancz, 1951) 152-85, 217-25, 252-53 on Hayley’s long drawn-out campaign
+                        to secure a pension for Cowper, his extraordinary efforts to rescue Cowper
+                        from depression, and his attempts to persuade the Rev. John Johnson and Lady
+                        Hesketh to write Cowper’s biography until Lady Hesketh, Cowper’s cousin,
+                        insisted that he was the proper person to do it. Blake’s accusation that
+                        Hayley “when he could not act upon my wife / Hired a Villain to bereave my
+                        Life” (E 506) is, in the light of Hayley’s generous assistance to Blake at
+                        the time of his trial, paranoiac.</note></p>
+            </div1>
+	<pb id="p22-89-92" n="89-92" rend="hidden"/>
+        </body>
+    </text>
+</TEI.2>

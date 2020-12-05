@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.3.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake at MLA Chicago</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1977-1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977-1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.3</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Michael Hays</name>
+              <name>Lynn Goldstein</name>
+              <name>Marietta Barnes</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>W. J. T. Mitchell</name>
+              <name>Edward J. Rose</name>
+              <name>Corlette Walker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-3-0007">
+        <pb id="p11-208" n="208"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE AT MLA CHICAGO</hi>
+            </title>
+          </head>
+          <figure n="MLA.11.3.bqscan" rend="file" width="250" height="111">
+	<figTranscr>MLA</figTranscr>
+</figure>
+          <p>While, for the first time in several years, there was no Blake seminar at the
+                        annual MLA meeting, at the meeting in Chicago in December there were at
+                        least two papers on Blake: at the Division meeting on Literature and Other
+                        Arts, “Is She Also the Divine Image? Feminine Form in William
+                        Blake,” by Diana L. George; and at the Division meeting on the
+                        English Romantics, “Teaching Blake’s Relief
+                        Etching,” by Morris Eaves.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

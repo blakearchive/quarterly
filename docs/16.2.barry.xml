@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>16.2.barry</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">James Barry at the Tate</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">16.2</biblScope>
+            <biblScope unit="volume">16</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Leslie Donovan</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Krzysztof Z. Cieszkowski</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John E. Grant</name>
+              <name>Christina Shuttleworth Kraus</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith W. Page</name>
+              <name>Donald H. Reiman</name>
+              <name>Thomas A. Vogler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_16">
+    <body>
+      <pb id="p16-140" n="140"/>
+      <div1 id="BQ-16-2-0011">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <figure n="JamesBarryTate.16.2.bqscan" rend="file" width="650" height="462"/>
+          <head>
+            <title type="main">
+              <hi rend="b">JAMES BARRY AT THE TATE</hi>
+            </title>
+          </head>
+          <p>The Tate Gallery (Millbank, London) is holding an exhibition of the work of James Barry 9
+      February-20 March 1983. The selection and the catalogue are by William Pressly, author of 
+<hi rend="i">The Life and Art of James Barry</hi> (1981)</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

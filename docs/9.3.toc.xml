@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1975-76</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975-76</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.3</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>David Schnur</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+	<front>
+      <pb id="p09-57-58" n="57-58"/>
+      <div1 id="cover">
+        <figure n="cover.009.03.bqscan" rend="file" width="258" height="330">
+          <figTranscr>Blake Material in The Lessing J. Rosenwald Collection<lb/>
+            A CHECKLIST COMPILED BY RUTH FINE LEHRER<lb/>
+            Blake Newsletter 35<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+          WINTER 1975-76</figTranscr>
+        </figure>
+      </div1>
+<div1 id="BQ-09-3-0001">
+        <table id="contents" rows="5" cols="2">
+         <row>
+            <cell colspan="3">
+                <head>
+                    <title>
+                        <supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    </title>
+               	</head>
+            </cell>
+        </row>
+        <row>
+        	<cell><ref type="article" issue="9.3.lehrer"><hi rend="b">A Checklist of Blake Material in The
+Lessing J. Rosenwald Collection, Alverthorpe Gallery, Jenkintown, Pennsylvania</hi></ref></cell>
+		</row>
+		<row>
+			<cell>COMPILED BY RUTH FINE LEHRER, CURATOR</cell>
+		</row>
+		</table>
+<lb/>
+<lb/>
+<lb/>
+<pb id="p09-59" n="59"/>
+<p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published four times a year under the
+sponsorship of the Department of English of the University of New Mexico.</p>
+<p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, Boston University.</p>
+<p>Bibliographer: Thomas Minnick, Ohio State University.</p>
+<p>Associate Editor for Great Britain: Frances A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+<p>Editorial Assistants: Virginia Masi and David Schnur, University of New Mexico.</p>
+<p>Circulation Manager: Debra Sackett, University of New Mexico.</p>
+<p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in the 
+<hi rend="i">MLA Style Sheet</hi>, to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, N.M. 87131; Morton Paley, Dept. of English, Boston Univ., Boston, Mass. 02215.</p>
+<p>Subscriptions are $5 for one year, one volume, four issues.</p>
+<p>Special rate for individuals, $4 for one year, surface mail.</p>
+<p>For subscribers overseas who want to receive their issues by air mail, $8. U.S. currency or international
+money order if possible.</p>
+<p>Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address all subscription orders and related
+communications to Debra Sackett, <hi rend="i">Blake Newsletter</hi>, Dept. of English, Univ. of New Mexico,
+Albuquerque, N.M. 87131.</p>
+<p>Some back issues are available. Address Debra Sackett.</p>
+<p>Prices: whole numbers 1-8, bound together, whole numbers 9-13, bound together, $5 each (special rate for
+individuals, $4). Whole numbers 22, 23, 24, 25, 26, 27, 28, 32, 33, 34, $2 each. Whole number 20 
+(<hi rend="i">A Handlist of Works by William Blake in the Department of Prints &amp; Drawings of the British
+Museum</hi>, edited by G. E. Bentley, Jr.), and whole number 35 (the present issue), $3. Whole numbers 14-19
+are out of print.</p>
+<p>The International Standard Serial Number of the <hi rend="i">Blake Newsletter</hi> is 0006-453X.</p>
+<p>Design and layout for this issue: Corinne M. Henning, UCLA, Virginia Masi, and David Schnur, University of
+New Mexico.</p>
+</div1>
+</front>
+  </text>
+</TEI.2>

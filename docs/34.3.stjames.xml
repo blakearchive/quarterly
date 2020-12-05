@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.3.stjames</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Blake Society at St. James’s</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2000/01</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000/01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.3</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editors</resp>
+              <name>Sarah Jones</name>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Agnes Peter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+    <body>
+      <pb id="p34-95" n="95"/>
+      <div1 id="BQ-34-3-0007">
+        <div2>
+          <head>
+            <title type="main"><hi rend="b">The Blake Society at St. James’s</hi> “Programme
+2000”</title>
+          </head>
+          <p>19 September</p>
+          <p>May Sung (St. Mary’s College)</p>
+          <p>A Reconsideration of Execution and Conception: The Evidence of Blake’s Job Copperplates</p>
+          <p>May Sung is a Ph.D. student at St. Mary’s College, Strawberry Hill. Her study of the surviving
+plates for Blake’s illustrations to the Book of Job has thrown up fascinating evidence about Blake’s
+working methods. The myriad corrections, erasures, and second thoughts (pentimenti) upon the copperplates
+contradict what has become, following Joseph Viscomi’s <hi rend="i">Blake and the Idea of the Book</hi>
+(1993), the conventional view of Blake’s creative process.</p>
+          <p>17 October</p>
+          <p>Susanne Schmid (Free University of Berlin)</p>
+          <p>Blake and Germany</p>
+          <p>Dr. Susanne Schmid has lectured at the Free University of Berlin since 1994. She has written a
+study on myth in contemporary women’s fiction (1996), and an introduction to Byron, Shelley and Keats
+(1999).</p>
+          <p>1 December</p>
+          <p>Dee Drake (Stockholm University)</p>
+          <p>Blake’s Hecate Color Print: A Celebration of Infernal Female Desire</p>
+          <p>Dee Drake was recently awarded a doctorate by Stockholm University for her study “Searing
+Apparent Surfaces: Infernal Females in Four Early Works of William Blake.”</p>
+          <p>She writes: “It is my contention that the infernal constitutes an essential female element of
+the divine in Blake’s early work but is demonized in the late work as an attribute of the Female
+Will.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

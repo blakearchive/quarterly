@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.ferber</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">A Possible Source for “Thel’s Motto”</title>
+        <author n="Ferber">Michael Ferber</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0004">
+      <pb id="p09-44" n="43"/>
+        <div2>
+          <head>
+            <title type="main">A Possible Source for “Thel’s Motto”</title>
+          </head>
+          <byline>By <docAuthor>Michael <name>Ferber</name></docAuthor></byline>
+          <p>Several Biblical sources have been offered for the second half of Thel’s mysterious “motto:”
+<q>
+Can Wisdom be put in a silver rod?<lb/>
+Or Love in a golden bowl?
+</q>
+Northrop Frye (<hi rend="i">Fearful Symmetry</hi>, p. 446, n. 55) connects the golden bowl with the golden cup
+of Babylon mentioned in Jeremiah 51.7 and Revelation 17.4. He also cites Ecclesiastes 12.6 as a source of both
+lines: “Or ever the silver cord be loosed, or the golden bowl be broken . . . ” Though this verse is almost as
+cryptic as the “motto” itself, it is no doubt generally relevant to <hi rend="i">Thel</hi>, for in its context
+it seems to refer to the death of the body, which Thel shrinks from at the end of the poem. But the context
+has little about love or wisdom, and of course a cord is not a rod.</p>
+          <p>Robert Gleckner, in “Blake’s <hi rend="i">Thel</hi> and the Bible,” <hi rend="i">BNYPL</hi>, 64
+(1960), 573-80, suggests Job 28. 12-15:
+<q>
+But where shall wisdom be found? and where is the place of understanding? Man knoweth not the price thereof;
+neither is it found in the land of the living.<lb/>
+<pb id="p09-44" n="44"/>
+The depth saith, It is not in me: and the sea saith, It is not with me. It cannot be gotten for gold, neither
+shall silver be weighed for the price thereof.
+</q>
+The appropriateness of this passage to the themes of <hi rend="i">Thel</hi> hardly needs pointing out, but it
+is equally obvious that there is neither rod nor bowl here, and nothing about love.</p>
+          <p>I propose another candidate, somewhat better than these though far from perfect, Hebrews 9.3-4:
+<q>
+And after the second veil, the tabernacle which is called the Holiest of all; Which had the golden censer, and
+the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and
+Aaron’s rod that budded, and the tables of the covenant.
+</q>
+The immediate context is a disparaging account of the “worldly sanctuary” of the old covenant. The Epistle as
+a whole stresses the great change that has come with Christ: as a new and greater high priest he has replaced
+the old material sanctuary with a new spiritual one, and whereas the old high priest entered the Holy of
+Holies alone and once a year, Christ has entered it once and for all and we enter it with Him.</p>
+          <p>The golden pot is described in Exodus 16.32-34, where Aaron the high priest at Moses’ command
+puts an omer full of manna into a pot and lays it up “before the Testimony” (covenant) in the ark. The manna
+had been sent by God daily as a sign of His grace and love for the Israelites. It would spoil after one day
+(except on the Sabbath) so there was no point in hoarding it. A Blakean might say it is an error to try to
+gather up God’s love and preserve it in a “holy” place. The quality of mercy is not strained; it droppeth
+like manna from heaven, and cannot be stored in pots.</p>
+          <p>The rod of Aaron is described in Numbers 17.1-11. Of the twelve rods representing the twelve
+tribes only Aaron’s blossomed, thereby proving to dissenters that God had indeed chosen Aaron to be high
+priest with sole privilege of entering the Holy of Holies. Aaron’s authority was thus based on supernatural
+power and privilege, and not, as one might argue such authority should be, on spiritual wisdom. And of course
+it was the Aaronic priesthood that Christ came to replace (see Hebrews 7.11-17).</p>
+          <p>Just as the ancient priests wrongly tried to consolidate and preserve spirit and selfishly
+restrict access to it, so Thel wrongly seeks to consolidate and preserve herself, as it were, and rejects love
+and generosity for their threat to her selfhood.</p>
+          <p>That the passage from Hebrews lies behind the “motto” gains support from the reference in 
+<hi rend="i">Thel</hi> to the “morning manna” that the Lilly will receive in eternity. That in turn refers to the
+“hidden manna” of Revelation 2.17, the manna hidden in the ark that Christ, the new high priest, will pass out
+to all who are faithful to Him.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

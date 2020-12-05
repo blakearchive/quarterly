@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2002</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2002</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.3</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2002"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <front>
+      <pb id="p35-65-66" n="65-66"/>
+      <div1 id="cover">
+        <figure n="cover.035.03.bqscan" rend="file" width="258" height="334">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Martin Butlin Unearths Unknown Watercolors for <hi rend="i">The Grave</hi><lb/>
+            Robert Essick and Joseph Viscomi Revisit Blake’s Method of Color Printing<lb/>
+            VOLUME 35<lb/>
+            NUMBER 3<lb/>
+            WINTER 2002</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-35-3-0001">
+        <table id="contents" rows="4" cols="2">
+          <row>
+            <cell>
+       		<head>
+          	  <title>CONTENTS</title>
+        	</head>
+        	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.3.butlin">New Risen from the Grave: Nineteen Unknown
+Watercolors by William Blake</ref><lb/>
+<hi rend="i">By Martin Butlin</hi></cell>
+            <cell>
+              <hi rend="i">68</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.3.essick">An Inquiry into William Blake’s Method of Color
+Printing</ref><lb/>
+<hi rend="i">By Robert N. Essick and Joseph Viscomi</hi></cell>
+            <cell>
+              <hi rend="i">74</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-35-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p35-67" n="67"/>
+      <div1 id="BQ-35-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Martin Butlin was formerly Keeper of the Historic British Collection at the Tate Gallery, London.
+Since retirement, he has continued to work on Blake, J.M.W. Turner, and other British artists.</p>
+        <p>Robert N. Essick studied printmaking at Pasadena City College in the mid-1970s. Since then, he has
+continued to experiment with Blake’s etching processes and to print from facsimile plates. Selections of his
+plates and prints have been shown at several exhibitions, including “William Blake and the Art of His
+Time,” held at the University of California at Santa Barbara in 1976, “The Mechanised Image,” organized
+by the Arts Council of Great Britain in 1978, and “William Blake’s Illuminated Prints,” held at the
+Huntington Library in 1994.</p>
+        <p>Joseph Viscomi studied printmaking at Columbia University, and identified and catalogued prints for
+the Departments of Prints and Drawings at the Museum of the City of New York and Herbert F. Johnson Museum. He
+was the technical consultant on the Manchester Etching Workshop 1983 facsimile of <hi rend="i">Songs</hi>, for
+which he wrote <hi rend="i">The Art of William Blake’s Illuminated Prints</hi>, has curated numerous print
+exhibitions, including “Prints by Blake and His Followers” held at the Johnson Museum, and edited 
+<hi rend="i">Process &amp; Problems in Contemporary Printmaking</hi>, the exhibition catalogue of prints by John
+Brody. He is the author of “Illuminated Printing” in the forthcoming <hi rend="i">Cambridge Companion to
+Blake.</hi></p>
+      </div1>
+      <div1 id="BQ-35-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley BIBLIOGRAPHER: G. E. Bentley, Jr. REVIEW EDITOR: Nelson
+Hilton ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey Hall 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones<lb/>
+TELEPHONE: 585/275-3820 FAX: 585/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: sjns@mail.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada. The University of
+Toronto declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-35-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the 4 issues of the current volume. Addresses outside the
+U.S., Canada, and Mexico require a $10 per volume postal surcharge for surface, and $25 per volume surcharge
+for air mail delivery. Credit card payment available for non-U.S. subscribers. Make checks payable to 
+<hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and related communications to
+Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester NY 14627-0451.
+Back issues are available; address Sarah Jones for information on issues and prices, or consult the web
+site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors:
+Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627-0451; Morton D. Paley, Dept. of
+English, University of California, Berkeley CA 94720-1030. No articles will be returned unless accompanied by
+a stamped self-addressed envelope. For electronic submissions, you may send a diskette, or you may send your
+article as an attachment to an email message. The preferred file format is RTF. Other formats are usually
+acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: Detail of “The Gambols of Ghosts according with their affections previous to the final
+Judgment.” Pen, ink and watercolor, 27.4 × 21.7 cm., 1805. Courtesy of Dominic Winter Book Auctions. 
+<note type="unreferenced" place="footer">© 2002 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p35-104" n="104"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">David V. Erdman<lb/>
+    			1911-2001</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.4</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <name>Cathy Christman</name>
+              <resp>Typist</resp>
+              <name>Denise Warren</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>James Bogan</name>
+              <name>Gavin Edwards</name>
+              <name>David V. Erdman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Randel Helms</name>
+              <name>Christopher Heppner</name>
+              <name>Janice Lyle</name>
+              <name>Paul Mann</name>
+              <name>Gerda Norvig</name>
+              <name>David Punter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <front>
+      <pb id="p15-153-154" n="153-154"/>
+        <div1 id="cover">
+            <figure n="cover.015.04.bqscan" rend="file" width="258" height="332">
+                <figTranscr>Blake<lb/>
+                    AN ILLUSTRATED QUARTERLY 60<lb/>
+                    Volume 15<lb/>
+                    Number 4<lb/>
+                    Spring 1982</figTranscr>
+            </figure>
+        </div1>
+      <div1 id="BQ-15-4-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+    		<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+    		</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.bogan">Blake’s Jupiter Olympius in Rees’ 
+<hi rend="i">Cyclopaedia</hi></ref><lb/>
+ by James Bogan</cell>
+            <cell>156</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.gleckner">Blake’s Swans</ref><lb/>
+ by Robert F. Gleckner</cell>
+            <cell>164</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.erdman">A Book to Eat</ref><lb/>
+ by David V. Erdman</cell>
+            <cell>170</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.lyle">David Irwin, <hi rend="i">John Flaxman 1755-1826,
+Sculptor, Illustrator,
+                            Designer</hi></ref><lb/>
+ Reviewed by Janice Lyle</cell>
+            <cell>176</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.edwards">David Simpson, <hi rend="i">Irony and Authority in
+Romantic Poetry</hi></ref><lb/>
+                            Reviewed by Gavin Edwards</cell>
+            <cell>179</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.norvig">Milton Klonsky, <hi rend="i">William Blake: The Seer
+and His
+                            Visions</hi></ref><lb/>
+ Reviewed by Gerda S. Norvig</cell>
+            <cell>184</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.adams">Kathleen Raine, <hi rend="i">From Blake to A
+Vision</hi></ref><lb/>
+ Reviewed by
+                            Hazard Adams</cell>
+            <cell>187</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.punter">War and the Uses of Myth<lb/>
+ Betty T. Bennett, ed., <hi rend="i">British War
+                            Poetry in the Age of Romanticism: 1793-1815</hi></ref><lb/>
+ Reviewed by David
+                            Punter</cell>
+            <cell>189</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.hilton">Leopold Damrosch, Jr., <hi rend="i">Symbol and Truth
+in Blake’s
+                            Myth</hi></ref><lb/>
+ Reviewed by Nelson Hilton</cell>
+            <cell>192</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.mann">Margaret Bottrall, “A Lecture on William Blake’s
+<hi rend="i">Songs of Innocence and Experience</hi>”</ref><lb/>
+ Reviewed by Paul
+                            Mann</cell>
+            <cell>197</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.heppner">Blake and the Novelists</ref><lb/>
+ by Christopher Heppner</cell>
+            <cell>198</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.4.helms">Another Source for Blake’s Orc</ref><lb/>
+ by Randel Helms</cell>
+            <cell>198</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>199</cell>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.keynes">Happy 95th to Sir
+Geoffrey</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.yale">Yale Center/Toronto Exhibition 15
+September-14 November 1982</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.rosenwald">Rosenwald Memorial
+Exhibition</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.mla">MLA Special Session 1981: “Blake and the
+Art of His Time”</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.edmonton">Edmonton Art Gallery Exhibition:
+“William Hayley and His Circle,” 17 September-30 October 1982</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+			  <supplied type="emend"><ref type="article" issue="15.4.santacruz">Santa Cruz Conference on Blake and
+Criticism: Registration</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-15-4-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>HAZARD ADAMS is Professor of English and Comparative Literature at the University
+                    of Washington and Senior Fellow of the School of Criticism and Theory.</p>
+        <p>JAMES BOGAN is the Art/Film Department at the University of Missouri-Rolla. With
+                    Fred Goss he has edited <hi rend="i">Sparks of Fire: William Blake in a New
+                        Age</hi> (North Atlantic Books).</p>
+        <p>GAVIN EDWARDS taught for three years at the University of Sydney and now teaches
+                    at Saint David’s University College, Lampeter (University of Wales). He
+                    has published work on Blake in <hi rend="i">Literature and History</hi> and is
+                    writing a book on the poetry of George Crabbe.</p>
+        <p>DAVID V. ERDMAN is investigating the British radicals in Paris in the early years
+                    of the French Revolution.</p>
+        <p>ROBERT F. GLECKNER is author and editor of books on Blake, Byron, and
+                    Romanticism; latest book on Blake’s <hi rend="i">Poetical Sketches</hi>
+                    now in press at the Johns Hopkins University Press; book in progress (nearing
+                    completion) on Blake and Spenser.</p>
+        <p>RANDEL HELMS is Associate Professor of English at Arizona State University. He is
+                    the author of <hi rend="i">Tolkien’s World</hi> and <hi rend="i">Tolkien
+                        and the Silmarils.</hi> His most recent publication on Blake is “The
+                    Genesis of <hi rend="i">The Everlasting Gospel</hi>,” <hi rend="i">Blake
+                        Studies</hi>, 9, No. 2 (1980), an essay that is part of a book-in-progress
+                    on Blake’s use of the Bible.</p>
+        <p>CHRISTOPHER HEPPNER is Associate Professor of English at McGill University. He is
+                    currently at work on an article on Blake’s 1795 color prints and
+                    illustrations to the Bible. Forthcoming is an article on “Pity and
+                    Hecate” in the <hi rend="i">Bulletin of Research in the
+                    Humanities.</hi></p>
+        <p>JANICE LYLE (Department of Art History, University of California, Santa Barbara)
+                    is completing her dissertation on Dante in British Art: 1770-1830.</p>
+        <p>PAUL MANN is a Visiting Professor of Humanities at the University of Texas at
+                    Dallas, and Executive Secretary of the American Literary Translators
+                    Association.</p>
+        <p>GERDA NORVIG teaches English at the University of Colorado in Boulder. She has a
+                    book on Blake and Bunyan forthcoming from the University of California Press and
+                    is currently completing a piece on aesthetic judgment and elegiac defense in
+                    Wordsworth.</p>
+        <p>DAVID PUNTER is Chairman of English Studies at the University of East Anglia. He
+                    is the author of <hi rend="i">The Literature of Terror: A History of Gothic
+                        Fictions from 1765 to the Present Day</hi> (London: Longmans, 1980); and
+                    (with David Aers and Jonathan Cook) <hi rend="i">Romanticism and Ideology:
+                        Studies in English Writing 1765-1830</hi> (London: Routledge &amp; Kegan
+                    Paul, 1981). Forthcoming is <hi rend="i">Blake, Hegel and Dialectic</hi>
+                    (Amsterdam: Rodopi, 1982). <note type="unreferenced" place="footer">©
+                        1982 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+      <pb id="p15-155" n="155"/>
+      <div1 id="BQ-15-4-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of
+                    California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator,
+                    Department of Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+                    Albuquerque NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department
+                    of English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L.
+                    Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus,
+                    Ohio 43210.<lb/>
+ Nelson Hilton, Department of English, University of Georgia,
+                    Athens, GA 30602.<lb/>
+ Frances A. Carey, Department of Prints and Drawings
+                    British Museum, Great Russell Street, London WC1B 3DG, England.</p>
+        <figure n="DurerAngelApocalypse.15.4.bqscan" rend="file" width="300" height="405">
+	<figTranscr>A[lbrecht] D[ürer]</figTranscr>
+</figure>
+      </div1>
+      <div1 id="BQ-15-4-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="BB489.1.4.COM.detail-cupid" rend="file" width="300" height="565"></figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Marcy Erickson, Univ. of New Mexico. EDITORIAL
+                    ASSISTANTS: Wayne Erickson, George Hartley, Cathy Christman, Univ. of New
+                    Mexico.</p>
+        <p>TYPIST: Denise Warren</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the
+                    Department of English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume, 4 issues. Special rates for
+                    individuals, $12.00, surface mail. Air mail subscriptions are $10.00 more than
+                    surface mail subscriptions. U.S. currency or international money order if
+                    possible. Make checks payable to Blake/An Illustrated Quarterly. Address all
+                    subscription orders and related communications to the Circulation Mgr., Marcy
+                    Erickson, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico,
+                    Albuquerque, New Mexico 87131, USA.</p>
+        <p>Some BACK ISSUES are available. Address Marcy Erickson for a list of issues and
+                    prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, N.M. 87131;
+                    Morton D. Paley, Dept. of English, Univ. of California, Berkeley, California
+                    94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is
+                    INDEXED in the Modern Language Association’s International Bibliography,
+                    the Modern Humanities Research Association’s Annual Bibliography of
+                    English Language and Literature, <hi rend="i">English Language
+                    Notes</hi>’ annual Romantic bibliography, ARTbibliographies MODERN,
+                    American Humanities Index, (Whitson Pub.), and the Arts and Humanities Citation
+                    Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

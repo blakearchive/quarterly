@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.3.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+				<author n="Griffin">Andrew L. Griffin</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.3</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <front>
+            <pb id="p03-46" n="46"/>
+            <div1 id="cover">
+                <figure n="cover.003.03.bqscan" rend="file" width="258" height="332">
+                    <figTranscr>Blake Newsletter<lb/>
+                        <hi rend="u">EDITOR</hi><lb/>
+                        <hi rend="u">ASSOCIATE EDITORS</hi><lb/>
+                        <hi rend="u">EDITORIAL ASSISTANT</hi><lb/>
+                        Morton D. Paley<lb/>
+                        Donald D. Ault<lb/>
+                        Patricia Pelfrey<lb/>
+                        Andrew Griffin<lb/>
+                        Volume III, No. 4<lb/>
+                        Whole #11<lb/>
+                        December 15, 1969<lb/>
+                        The <hi rend="i">Newsletter</hi> sends season’s greetings to all its readers<lb/>
+                        and special thanks to its many contributors, whose generous interest<lb/>
+                        in this publication has seen it through another year.  Again we<lb/>
+                        owe a seasonal debt to Robert P. Kolker, whose index to Volume II<lb/>
+                        of the <hi rend="i">Newsletter</hi> appears in this issue.<lb/>
+                        Our publication of Robert Essick’s “Finding List of Repro-<lb/>
+                        ductions” continues in this issue with part II (and some addenda<lb/>
+                        to part I).  Parts III and IV will complete the List and will<lb/>
+                        appear as a substantial supplement to a future number, hopefully<lb/>
+                        the March issue.<lb/>
+                        —ALG<lb/>
+                        <hi rend="i">Contents</hi><lb/>
+                        <hi rend="i">News</hi><lb/>
+                        <hi rend="i">Notes</hi><lb/>
+                        1.  “Further Observations on William Rossetti’s<lb/>
+                        Annotations to Gilchrist’s <hi rend="i">Life of Blake</hi>,” by<lb/>
+                        Joseph Anthony Wittreich, Jr.; 2.  “The Auckland<lb/>
+                        Fuselis,” by Michael J. Tolley; 3.  “J. Deffett<lb/>
+                        Francis:  The Swansea Blakes,” by Victor<lb/>
+                        46-56<lb/>
+                        Skretkowicz, Jr.; 4.  “J.S. Deville’s Life Mask of<lb/>
+                        William Blake,” by David Bindman<lb/>
+                        <hi rend="i">Minute Particulars</hi>  “Blake’s Illustrations to 
+<hi rend="i">Paradise Lost</hi>,”<lb/>
+                        57<lb/>
+                        by Martin Butlin<lb/>
+                        <hi rend="i">Reviews</hi>  Kathleen Raine:  <hi rend="i">Blake and Tradition</hi>, by
+Daniel<lb/>
+                        57-63<lb/>
+                        Hughes; William Wells:  <hi rend="i">William Blake’s “Heads</hi><lb/>
+                        <hi rend="i">of the Poets,”</hi> and the Da Capo Press:  <hi rend="i">William
+Blake:</hi><lb/>
+                        <hi rend="i">Illustrations to The Divine Comedy of Dante</hi>, by<lb/>
+                        Morton Paley<lb/>
+                        <hi rend="i">A Finding List of Reproductions of Blake’s Art</hi>, addenda to<lb/>
+                        part I, and part II, by Robert N. Essick<lb/>
+                        64-70<lb/>
+                        <hi rend="i">Index to Volume II</hi>, by Robert P. Kolker<lb/>
+                        70-73<lb/>
+                      </figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-03-3-0002">
+                <table id="contents" rows="6" cols="3">
+                    <row>
+                        <cell colspan="2">
+							<head>
+								<title>
+									<hi rend="i">Contents</hi>
+								</title>
+							</head>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">News</hi>
+                        </cell>
+                        <cell>
+							<supplied type="emend">“<ref type="article" issue="3.3.news">Death of Professor Vivian de Sola Pinto,
+Fitzwilliam Museum’s Blake collection, Recent Publications</ref>”<lb/>
+							by Morton D. Paley</supplied>
+						</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>
+							<supplied type="emend">“<ref type="article" issue="3.3.grant">Seminar 23: Methods of Studying the
+Illustrations of William Blake</ref>”<lb/>
+							by John E. Grant</supplied>
+						</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>
+							<supplied type="emend">“<ref type="article" issue="3.3.sketchbook">The Blake-Varley
+Sketchbook</ref>”<lb/>
+							by Martin Butlin</supplied>
+						</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">Notes</hi>
+                        </cell>
+                        <cell>1. “<ref type="article" issue="3.3.wittreich">Further Observations on William
+Rossetti’s Annotations to Gilchrist’s <hi rend="i">Life of Blake</hi></ref>,”<lb/>
+						by Joseph Anthony Wittreich, Jr.</cell>
+                        <cell>46-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>2. “<ref type="article" issue="3.3.tolley">The Auckland Fuselis</ref>,”<lb/>
+						by Michael J. Tolley</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>3. “<ref type="article" issue="3.3.skretkowicz">J. Deffett Francis: The Swansea
+Blakes</ref>,”<lb/>
+						by Victor Skretkowicz, Jr.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>4. “<ref type="article" issue="3.3.bindman">J.S. Deville’s Life Mask of
+William Blake</ref>,”<lb/>
+						by David Bindman</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><hi rend="i">Minute Particulars</hi></cell>
+                        <cell>“<ref type="article" issue="3.3.butlin">Blake’s Illustrations to 
+<hi rend="i">Paradise Lost</hi></ref>,”<lb/>
+							by Martin Butlin</cell>
+                        <cell>57</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="i">Reviews</hi>
+                        </cell>
+                        <cell><ref type="article" issue="3.3.hughes">Kathleen Raine: <hi rend="i">Blake and
+Tradition</hi></ref>,<lb/>
+						by Daniel Hughes</cell>
+                        <cell>57-63</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><ref type="article" issue="3.3.paley">William Wells: <hi rend="i">William
+Blake’s “Heads of the Poets,”</hi> and the Da Capo Press: <hi rend="i">William Blake: Illustrations to The
+Divine Comedy of Dante</hi></ref>,<lb/>
+						by Morton Paley</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell colspan="2">
+                            <ref type="article" issue="3.3.essick"><hi rend="i">A Finding List of
+Reproductions of Blake’s Art</hi>, addenda to part I, and part II</ref>,<lb/>
+							by Robert N. Essick</cell>
+                        <cell>64-70</cell>
+                    </row>
+                    <row>
+                        <cell colspan="2">
+                            <ref type="article" issue="3.3.kolker"><hi rend="i">Index to Volume
+II</hi></ref>,<lb/>
+							by Robert P. Kolker</cell>
+                        <cell>70-73</cell>
+                    </row>
+                </table>
+            </div1>
+            <div1 id="BQ-03-3-0001">
+				<corr type="emend" rend="plain">
+					<table rows="3" cols="3">
+						<row>
+							<cell>
+								<hi rend="i">
+									<hi rend="u">EDITOR</hi>
+								</hi>
+							</cell>
+							<cell>
+								<hi rend="i">
+									<hi rend="u">ASSOCIATE EDITORS</hi>
+								</hi>
+							</cell>
+							<cell>
+								<hi rend="i">
+									<hi rend="u">EDITORIAL ASSISTANT</hi>
+								</hi>
+							</cell>
+						</row>
+						<row>
+							<cell>Morton D. Paley</cell>
+							<cell>Donald D. Ault</cell>
+							<cell>Patricia Pelfrey</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>Andrew Griffin</cell>
+							<cell/>
+						</row>
+					</table>
+					<p>The <hi rend="i">Newsletter</hi> sends season’s greetings to all its readers and special thanks to
+its many contributors, whose generous interest in this publication has seen it through another year. Again we
+owe a seasonal debt to Robert P. Kolker, whose index to Volume II of the <hi rend="i">Newsletter</hi> appears
+in this issue.</p>
+					<p>Our publication of Robert Essick’s “Finding List of Reproductions” continues in this issue with part
+II (and some addenda to part I). Parts III and IV will complete the List and will appear as a substantial
+supplement to a future number, hopefully the March issue.</p>
+					<byline>
+						<corr type="emend"><docAuthor>ALG</docAuthor></corr>
+					</byline>
+				</corr>
+            </div1>
+        </front>
+        <body>
+            <div1 id="BQ-03-3-0009">
+                <pb id="p03-72" n="72"/>
+                <div2>
+                    <note type="unreferenced" place="footer">The BLAKE NEWSLETTER, Department of English,
+University of California, Berkeley, California 94720. Subscription price: $2.00 for one year; invoiced
+subscriptions $3.00; overseas subscriptions by air $3.00, by surface mail $2.00 Please send checks or money
+orders<supplied type="spacer"> </supplied><ref target="p72u1" type="note">*</ref> payable to “Blake
+Newsletter.” Residents of Britain may pay by Postal Money Order for 16/9 (£ 10s by air) if money order is
+open and uncrossed, but these must be sent to Morton Paley, 24, West Heath Drive, London, N.W. 11, England.
+Please do not send checks on foreign banks either to Morton Paley or to the Associate Editors in Berkeley.
+American currency is preferable if possible. <note id="p72u1">* to the Associate Editors in Berkeley</note>
+                    </note>
+                    <note type="unreferenced" place="footer">Copyright © 1969 Morton D. Paley</note>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

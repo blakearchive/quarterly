@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>42.3.paris</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake in Paris</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2008-09</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2008-09</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">42.3</biblScope>
+            <biblScope unit="volume">42</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Angus Whitehead</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>James Rovira</name>
+              <name>Robert M. Ryan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2008/2009"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_42">
+    <body>
+	  <pb id="p42-111" n="111"/>
+      <div1 id="BQ-42-3-0009">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake in Paris</hi>
+            </title>
+          </head>
+          <p>The first exhibition in France devoted to William Blake since 1947 will open
+                        at the Petit Palais on 1 April 2009 and run to 28 June. Curated by Michael
+                        Phillips, it will be composed of more than 150 works and represent Blake as
+                        a poet, painter, and artist-printmaker. The accompanying catalogue, in
+                        addition to listing the works, will also include over twenty essays by John
+                        Barrell, Martin Butlin, Elizabeth Denlinger, Anthony Dyson, Peter France,
+                        David Fuller, Suzanne Hoover, Andrew Lincoln, Saree Makdisi, Jon Mee, Martin
+                        Myrone, Morton Paley, Martin Postle, and Jon Stallworthy, amongst others. A
+                        program of lectures in both English and French is being organized by UFR
+                        d’études Anglophones, Université Paris-Diderot (Paris
+                        7), together with a conference on 30 May. A conference will also take place
+                        at the Collège de France on 3 June.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

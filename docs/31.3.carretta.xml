@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.3.carretta</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake’s Meheux?</title>
+        <author n="Carretta">Vincent Carretta</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1997/98</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997/98</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.3</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Vincent Carretta</name>
+              <name>A. Harris Fairbanks</name>
+              <name>Sarah Joyce</name>
+              <name>Jennifer Davis Michael</name>
+              <name>Shelia A. Spector</name>
+              <name>Frank A. Vaughan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997/98"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+      <div1 id="BQ-31-3-0006">
+      	<pb id="p31-84" n="84"/>
+        <div2>
+          <head>
+            <title type="main">Blake’s Meheux?</title>
+          </head>
+          <byline>by <docAuthor>Vincent <name>Carretta</name></docAuthor></byline>
+          <p>Among the plates executed by Blake after designs by other artists is Robin Hood &amp; Clorinda,
+“J. Meheux delint.,” published by T. Macklin in London on 30 March 1783. Robert N. Essick, in The Separate
+Plates of William Blake: A Catalogue (Princeton: Princeton University Press, 1983) 133, observes that
+“[n]othing is known of ‘J. Meheux, other than his designing ‘Robin Hood and Clorinda,’” and notes
+that “Samuel Redgrave, A Dictionary of Artists of the English School, 2nd ed., London, 1878, p. 292, gives
+the artist’s name as ‘John Meheux.’” The John Meheux in question was probably the John Meheux
+(1749?-1839) who corresponded during the 1770s with Ignatius Sancho (1729-80), the black Westminster grocer
+whose posthumously published Letters (London, 1782) I have edited: <hi rend="i">Letters of the Late Ignatius
+Sancho, an African</hi> (Penguin Putnam Inc, 1998).</p>
+          <p>Meheux’s obituary in The Gentleman’s Magazine (December 1839) 662, says, “In his 90th year,
+John Meheux, esq. of Hans Place, formerly many years Secretary to Board of Control. He has bequeathed 5000£.
+to Indigent Blind School, 200£. to Deaf and Dumb Institution, and 100£. each to St. George’s Hospital,
+Westminster Lying-in Hospital, and Society of Arts, all duty free.” During the 1770s, Meheux was an amateur
+writer and artist, submitting essays to the newspapers and designs to print sellers through Sancho. Sancho had
+many contacts in the art world. His portrait had been painted in 1768 by Thomas Gainsborough, and his friends
+included the artists John James Barralet, William Henry Bunbury, Matthew and Mary Darly, Daniel Gardner, John
+Hamilton Mortimer, Joseph Nollekens, and William Stevenson. Besides Mr. and Mrs. Darly, who frequently etched
+and published prints after the designs of amateurs, Sancho also knew the print and booksellers John Ireland
+and John Wingrave.</p>
+          <p>In a letter misdated 21 March 1770 but written in 1776, Sancho sends Meheux “a proof print”;
+in one of 4 January 1776, Sancho asks about Meheux’s sketches; and on 3 September 1777, Sancho asks Meheux,
+<q>
+How do you like the print?—Mr. D[arly] says, and his wife says the same, that you are exceedingly
+clever—and they shall be happy to do any thing which is produced by the same hand which did the
+original—and if Mr. D[arly] can be of any service to you in the etching, you may command him when you
+please.
+</q></p>
+          <p>Given the history of Sancho’s John Meheux as an amateur artist providing designs for prints
+executed and published by others during the late 1770s, he is probably Blake’s “J. Meheux” of 1783 as
+well.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

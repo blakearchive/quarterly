@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.pierce</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Andrew Lincoln, Spiritual History: A Reading of William Blake’s Vala, or The
+Four Zoas</title>
+        <author n="Pierce">John B. Pierce</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+      <div1 id="BQ-31-1-0006">
+        <pb id="p31-35" n="35"/>
+        <div2>
+          <head>
+            <title type="main">Andrew Lincoln, <hi rend="i">Spiritual History: A Reading of William
+Blake’s</hi> Vala, <hi rend="i">or</hi> The Four Zoas. Oxford: Clarendon Press, 1995. xvi + 322 pp.
+$79.</title>
+          </head>
+          <byline>Reviewed by <docAuthor>John B. <name>Pierce</name></docAuthor></byline>
+          <p>Critical work on <hi rend="i">Vala</hi> or <hi rend="i">The Four Zoas</hi> has become something
+of a growth industry in the last two decades. While speculation about any point of origin is always risky, I
+might provisionally locate a moment of emergence around 1978 with the appearance of two important but very
+different publications devoted to the poem. The first was a special issue of <hi rend="i">Blake</hi> devoted
+entirely to <hi rend="i">Vala</hi>,<supplied type="spacer"> </supplied><ref target="n33" type="note">1</ref>
+particularly the textual cruxes arising from the incompletenesses and uncertain readings occasioned by the
+physical state of the manuscript itself. The importance of these articles cannot be understated in the history
+of the poem’s reception since together they generated a set of debates about the handling of the two Nights
+VII<supplied type="spacer"> </supplied><ref target="n34" type="note">2</ref> and a reliable text for Night
+I,<supplied type="spacer"> </supplied><ref target="n35" type="note">3</ref> for example, that informed the
+production of Erdman’s presentation of <hi rend="i">Vala</hi> in his revised edition of the 
+<hi rend="i">Complete Poetry and Prose</hi> in 1982. As the “Standard Edition” of Blake’s works, Erdman’s
+edition exerts what might be considered an undue influence on subsequent critical readings of the
+poem.<supplied type="spacer"> </supplied><ref target="n36" type="note">4</ref> Moreover, continuing in this
+tradition, articles devoted to consideration of the material condition of the manuscript have continued a
+series of debates in <hi rend="i">Blake</hi> about whether the poem is incomplete or unfinished and about what
+other material form the manuscript might have been destined for (although these debates tend to be more
+general than particular in their discussion of the state of the manuscript).<supplied type="spacer"> </supplied><ref target="n37" type="note">5</ref>
+	<note id="n33"><hi rend="s">1</hi> See Blake 12.2 (1978).</note>
+	<note id="n34"><hi rend="s">2</hi> Kilgore, Lincoln, “Revision,” and Lefebvre engage in a debate about
+the placement of Night VIIb, a debate which was instrumental in causing Erdman to integrate VIIb into the end
+of VIIa.</note>
+	<note id="n35"><hi rend="s">3</hi> Lincoln, “The Four Zoas” and Erdman, “The Four Zoas,” discuss the
+potential reconstruction of the text on pages 5, 6, and 7.</note>
+	<note id="n36"><hi rend="s">4</hi> The Santa Cruz Blake Study Group’s review of Erdman’s 
+<hi rend="i">Complete Poetry</hi> offers a trenchant commentary on the critical influence of typographic editions
+on the understanding of Blake. See 13-16 for specific commentary on <hi rend="i">Vala.</hi></note>
+	<note id="n37"><hi rend="s">5</hi> The debate begins with Mann, “The Final State,” and Essick, “The
+Four Zoas,” continues with Otto, “Final States” and culminates in the exchange between Mann,
+“Finishing Blake,” and Otto, “Is There a Poem in This Manuscript?”</note></p>
+          <p>The second notable event of 1978 was the appearance of Brian Wilkie and Mary Lynn Johnson’s 
+<hi rend="i">Blake’s</hi> Four Zoas: <hi rend="i">The Design of a Dream</hi>, the first book-length reading of
+the poem. This first extended reading made the poem accessible in such a way that Wilkie and Johnson’s book
+has become essential for anyone attempting to understand the basic narrative of the poem since the compressed
+symbolism, the allusive characterization, the sometimes tortured and often ambiguous syntax, the narrative
+disjunctions and the constant rewritings of major texts of Western thought from Milton and the Bible and Young
+to Locke and Newton to Rousseau and Voltaire create the feeling that the act of paraphrase is not a heresy but
+a heroic action. This book prepared the way for Donald Ault’s magisterial <hi rend="i">Narrative
+Unbound</hi> in 1987 and George Anthony Rosso’s <hi rend="i">Blake’s Prophetic Workshop</hi> in 1993.</p>
+          <p>What is intriguing about the legacy of these two publications from 1978 is the degree to which
+they have entrenched a separation of approaches to the poem into those which concern themselves with the
+minutiae of manuscript revision and those devoted to a sustained, coherent and complete reading of the poem.
+Indeed, what is yet perhaps more intriguing is the separation of these two approaches into different forms of
+publication. Treatment of the material difficulties of the poem occasioned by its status as a manuscript
+appears most notably only in article form, continuing in the tradition of the <hi rend="i">Blake</hi> special
+issue. Interpretive readings (and I stress the idea of a <hi rend="i">reading</hi> here) of the poem appear in
+book form with an obligatory nod to the difficulty occasioned by the state of the manuscript but little more
+than a few pages noting this in the preface or introduction and an appendix (almost a convention by now) on
+the “problem” of the two Nights VII. The tireless attempt by Bentley (back in 1963) to record types of
+paper, stitch marks, variations in the use of pen, pencil and crayon, writing styles, and other aspects of the
+poem’s physical make up (along with Erdman’s extensive reworking and critiques of Bentley’s findings)
+have had limited visible impact on the construction of arguments by present-day critics of 
+<hi rend="i">Vala.</hi> I do not mean to say here that these critics have not considered such matters fully and
+carefully in their private studies, but that the critical arguments following upon these private researches do
+not make full use of the material complexity of the manuscript. While these books have offered and continue to
+offer new avenues into the study of the thematic, contextual and narrative difficulties of the poem, none has
+yet fully embraced the material resistances of the poem—its state as manuscript with alternate readings,
+cancelled possibilities, uncertainties in direction and variations in pen, ink, crayon, color wash, stitch
+marks, writing styles, paper and so on. These matters mark the poem as graphically as its characters, themes
+and narrative complexities.</p>
+          <p>One is not hard pressed to find some rationale for this separation: even brief articles on the
+complexities of the <hi rend="i">Vala</hi> manuscript require extraordinary exertions on the part of the
+writer and the reader, and it would be difficult to sustain such close attention to detail over a two- or
+three-hundred page book. Moreover, the desire by publishers to produce books for the widest possible audience
+necessarily dictates the kinds of criticism that can be published in book form. The problem with such
+separations, of course, is that they leave us with an incomplete understanding of
+<pb id="p31-36" n="36"/>
+the complexities of Blake’s poem, and often only a repressed sense of the importance of connecting the
+material form of the work with the interpretive act for a fuller understanding of both. The extensive work by
+authors such as Eaves, Essick and Viscomi (to name only a few) and the recent publication of the facsimiles by
+Princeton University Press and the Blake Trust have brought about a return of this repressed dimension in a
+treatment of the illuminated poems, but the technical complexities of the <hi rend="i">Vala</hi> manuscript
+have not yet received full attention.</p>
+          <p>Andrew Lincoln’s <hi rend="i">Spiritual History</hi> thus marks a significant departure from
+its forerunners, not so much in its reading of the poem as in its incorporation of the material exigencies of
+the manuscript in the construction of its argument. While Lincoln argues that he mainly attempts to provide a
+contextualizing “reading” (ix), it is a reading with a difference, since <hi rend="i">Spiritual
+History</hi> bases the interpretive activity initially on “the process of revision,” and seeks to address
+“the question of how the different ‘layers’ of the text might be related” (ix). Key to Lincoln’s
+approach is the idea that this poem can (and should) be read in terms of coherent “layers” of textual
+additions, layers that were added as part of a series of related and coherent sets of revision. The notion of
+distinct layers offers Lincoln a way out of the morass of detail that might weigh down a line-by-line and
+variant-by-variant reading of the poem and offers entrance into a systematic reading of consecutively composed
+and transcribed layers in the poem. Thus Lincoln avoids the minutiae of particular revisions in favor of more
+general issues in the poem’s development. With this approach in mind, Lincoln cautions that his “aim is
+not to provide a comprehensive history of the poem’s development, but to allow a staged reading—one that
+moves, as Blake himself moved, from simpler to more complex forms of writing” (ix). Thus, his treatment of
+the poem is to approach it in terms of four layers or stages. Part 1 looks at what Bentley called the
+Copperplate text, “the earliest part of the surviving manuscript” (ix); part 2 considers “the narrative
+as a whole, but leave[s] out of account the references to Jesus &amp; his role in history (mostly contained in
+revisions)” (ix), while part 3 turns to these explicitly Christian revisions. Finally, part 4 turns (very
+briefly) to “Blake’s unfinished attempt to place the myth within a specifically British framework” (ix).
+The result of this approach in the first two parts, for instance, is a view of the manuscript with a thematic
+or narrative structure that pivots around the change in paper and writing styles at page 42. Pages 1 to 42 are
+written in the Copperplate Hand on blank sheets of J. Whatman paper; pages 43 to 139 are written in Blake’s
+usual hand on proof sheets for Young’s <hi rend="i">Night Thoughts.</hi> This physical change is accompanied
+by a change of events in the text; at this point Urizen casts out Ahania, his Golden World collapses and the
+chaos of Tharmas returns. Lincoln points out a series of intriguing parallels between these two sections.
+Pages 1 to 42 offer a portrait of a fallen world animated by divine power aspiring towards an ideal cosmic
+harmony, one which “corresponds to the teleological, homocentric world-view that survived until the
+Renaissance” (72). Pages 43 to 139 depict a view of the universe animated by natural powers, a world-view
+that corresponds “to the scientific universe that displaced [the Renaissance view] . . . in the seventeenth
+century” (72). Lincoln’s argument is much more subtle and complex than my summary sounds, but I think it
+is essential to note the way in which his interpretive approach grounds itself in the material complexities of
+the manuscript.</p>
+          <p>Lincoln establishes the importance of this approach in his preface where he argues that the
+failure of editors and later commentators to take note of the layered nature of <hi rend="i">Vala</hi> has
+fostered an ongoing sense that the manuscript is intrinsically fragmented. In offering a counterbalance to
+this sense, Lincoln states, “I do not assume that the revised narrative does or should constitute a perfect
+unity—but I do attempt to provide a reading that has more coherence, and may be more accessible, than the
+disordered appearance of the manuscript might lead us to expect” (ix). Recognition of the coherent layers,
+argues Lincoln, may lead to a greater sense of “coherence” and accessibility than has generally been
+observed by editors and critics. I can concur to some extent with his arguments about
+“coherence”—however odd that word may sound in relation to Blake—but arguments about greater
+accessibility may seem a bit abstracted. His critique of the editions presented by Keynes and
+Bentley—editions which attempt to indicate layers of addition through brackets, italics or other
+typographical indices—makes me wonder how <hi rend="i">Vala</hi> should ideally be read. Can there be an
+edition which makes the poem accessible? Moreover, what Lincoln’s book both hides and reveals is the weighty
+textual scholarship by Blake’s editors (Bentley and Erdman in particular) that brings scholars to the
+current level of understanding of the manuscript. Lincoln offers brief introductory notes to each part of his
+book which summarize the portions of the manuscript which constitute a distinct layer, but these notes
+compress an enormous amount of textual scholarship within a narrow range and do not indicate fully the
+rationale for such choices. In this criticism I may be speaking from the perspective of the more specialized
+reader, asking Lincoln for a book somewhat different from the one he has written. He does point out that
+“This book is intended to serve as a guide to new readers of <hi rend="i">The Four Zoas</hi>, although . . .
+[he] hope[s] it will also be useful to those who are already familiar with the poem” (i), and I can concede
+that to introduce extensive defenses and rationales for textual choices may limit the audience for his book
+and the accessibility of his arguments for “new readers.” Having said this, I am inclined to ask at what
+cost we gain accessibility to such a complex work.</p>
+          <p>Lincoln’s notion of separate layers, however, offers a good entry point into the manuscript,
+although, as I suggested
+<pb id="p31-37" n="37"/>
+before, the content of these layers must be accepted on faith rather than rational demonstration. I am left
+wondering, for instance, why the additions to the end of Night VIIa are treated in part 3 along with the
+Christian additions. While Los and Enitharmon mention the Lamb of God in the final portions of Night VIIa and
+therefore this passage has some connection with the Christian additions, it might be argued that the several
+extensions of VIIa take the poem in a different direction—towards the personal artistic revelation rather
+than the universal theocentric revelations of the Christian additions.</p>
+          <p>Moreover, the revision of the Los-Enitharmon story is extensive both in the latest portions of
+Night VIIa (and VIII for that matter) and in the earliest portions of the Copperplate text (see, for example,
+Blake’s revisions to pages 10 and 11) and offers a potential disruption across all four of the layers of 
+<hi rend="i">Vala.</hi> As part of the preparation for (or accompanying development of) Los’s central heroic
+portrait in Jerusalem, the revisions could be treated as a separate layer, since for many readers these
+revisions open out <hi rend="i">Vala</hi> into the later works. Lincoln presented some background arguments in
+a very important article on the composition and transcription of Nights VIIa, VIIb, VIII and IX
+(“Revisions”), and some of the useful discussion in that article could have been incorporated in this book
+without compromising the clarity of <hi rend="i">Spiritual History.</hi></p>
+          <p>The interpretive dimension of Lincoln’s argument attempts to place <hi rend="i">Vala</hi>
+within the cultural and intellectual contexts of its own time. In so doing, Lincoln situates his work
+alongside that of Jackie DiSalvo and George Anthony Rosso and this does seem a fair assessment of his critical
+approach. Concerned with illuminating the contemporary contexts of <hi rend="i">Vala</hi>, Lincoln sets 
+<hi rend="i">Vala</hi> against such contemporaries as Young and Pope, Volney and Condorcet and Adam Smith and
+Gibbon in an attempt to lay to rest the extreme views either that <hi rend="i">Vala</hi> represents a retreat
+from historical engagement or that revisions to the poem “represent an attempt to keep up with the rapidly
+changing events of contemporary history” (290). I think Lincoln is persuasive on these points throughout his
+book; however, I remain slightly unclear about the exact parameters of his notion of 
+<corr type="emend">“history.”</corr> If history is not, as he claims, “a given sequence of events, but . . . a
+discourse that shapes and is shaped by consciousness” (xiii), does this give it a Frygian archetypal form or
+does this draw history into the Foucauldian realm? His idea of a “spiritual history” appears to have
+strong affinities with archetypal structures, affinities which seem to strain against Lincoln’s intensive
+concern for careful contextualizations. He states that
+<q>
+This reading constructs the text as a ‘spiritual history’, a history that attempts to delineate the forms
+which all temporal developments must take, forms that may illuminate eras widely different in chronological
+time. It is a history that is nearly always in dialogue with other versions of history, and which is often
+closely engaged with other texts. (xiii)
+</q></p>
+          <p>While this passage suggests that the poem is engaged with the temporal and spatial developments
+that constitute history, the spiritualization of such history would seem to lift these contextualizations, as
+it were, out of context and into general and universal forms. Such a procedure moves the ultimate concerns of
+his argument closer to the archetypalism of Frye and away from the Marxism of DiSalvo. To some extent, Lincoln
+confronts this difficulty by arguing that the poem’s revisions went through “a process of engagement with,
+and final renunciation of, Enlightenment assumptions [about universalizing frameworks and Christian
+theology]” (1). When dealing with the final revisions to the poem, revisions which introduce particularized
+references to British geography and druidic traditions, Lincoln does argue that later additions offer a
+critique of the tendency in the earlier transcribed text to universalize history: the late revisions, he
+writes, “can be seen as a renunciation of the Enlightenment influence, an attempt to free the ‘acts’ of
+history as far as possible from the generalizing arrangement or ‘disarrangement’ of them” (285). I find
+this suggestion of self-critique tantalizing but (alas) this last set of revisions receives only the briefest
+of treatments. This is a pity since part four of Lincoln’s book might be drawn out into more extended
+speculations on the process of textual self-critique in <hi rend="i">Vala</hi> in particular and perhaps lead
+to further speculation on self-critique in Blake in general. Moreover, the latent critiques of universalism
+and providential schemes that Lincoln describes in part 4 seem part of an attempt by Blake to draw the poem
+directly into intensive engagements with national history. This possibility is an intriguing one and calls for
+further development by Lincoln.</p>
+          <p>I think here I am not asking for a much longer book, but instead some added commentary along the
+way about the relation between the four layers of the manuscript. The idea of a progression through layers of
+text is, as I have said, a fruitful way into <hi rend="i">Vala</hi>, and although Lincoln offers some
+occasional statements regarding the developments and even contradictions between layers, I would be interested
+to see such a commentary brought to the fore. The sense of stress and strain between and among the manuscript
+layers does not lead to a serious lack of coherence, but instead creates a dynamism, a vitality that leaves
+the resulting artefact an ongoing site of study and debate. At times, however, there seems to be a tension
+within Lincoln’s book between the attempt to acknowledge the significance of the physical dimensions of the
+manuscript and the desire for a thorough, coherent reading of the poem. Often it seems that the latter
+receives the fullest emphasis, leaving several aspects of manuscript revision to minimal coverage in a set of
+appendices. Lincoln’s book does, however, set a new standard for critical discussions
+<pb id="p31-38" n="38"/>
+of <hi rend="i">Vala.</hi> In light of Lincoln’s book, the physical aspects of the manuscript can no longer
+be separated from interpretive discussion. This new standard adds a level of sophistication and complexity to
+considerations of <hi rend="i">Vala</hi> that has already emerged in treatment of the illuminated works. Such
+wide-ranging considerations of the material and thematic complexities encountered when reading this difficult
+manuscript may also renew our way (or ways) of thinking, talking and writing about Blake.</p>
+          <div3>
+            <head>
+              <title>Works Cited</title>
+            </head>
+            <p>Ault, Donald. <hi rend="i">Narrative Unbound: Revisioning William Blake’s</hi> The Four Zoas.
+Barrytown: Station Hill Press, 1987.</p>
+            <p>Bentley, Jr, G. E., ed. Vala <hi rend="i">or</hi> The Four Zoas: <hi rend="i">A Facsimile of
+the Manuscript, A Transcript of the Poem and a Study of its Growth and Significance.</hi> Oxford: Clarendon
+Press, 1963.</p>
+            <p>DiSalvo, Jackie. <hi rend="i">War of Titans: Blake’s Critique of Milton and the Politics of
+Religion.</hi> Pittsburgh: University of Pittsburgh Press, 1983.</p>
+            <p>Eaves, Morris. <hi rend="i">The Counter-Arts Conspiracy: Art and Industry in the Age of
+Blake.</hi> Ithaca: Cornell University Press, 1992.</p>
+            <p>Erdman, David V. “The Binding (et cetera) of <hi rend="i">Vala.</hi>” <hi rend="i">The
+Library: A Quarterly Journal of Bibliography</hi> 19 (1964): 112-29.</p>
+            <p>—. ed. <hi rend="i">The Complete Poetry and Prose of William Blake.</hi> Newly revised ed.
+Berkeley: University of California Press, 1982.</p>
+            <p>Essick, Robert N. “<hi rend="i">The Four Zoas</hi>: Intention and Production.” 
+<hi rend="i">Blake</hi> 18 (1985): 216-20.</p>
+            <p>—. <hi rend="i">William Blake: Printmaker.</hi> Princeton: Princeton University Press,
+1980.</p>
+            <p>Frye, Northrop. <hi rend="i">Fearful Symmetry: A Study of William Blake.</hi> Princeton:
+Princeton University Press, 1947.</p>
+            <p>Keynes, Geoffrey, ed. <hi rend="i">Blake: Complete Writings with Variant Readings.</hi> New
+York: Oxford University Press, 1972.</p>
+            <p>Kilgore, John. “The Order of Nights VIIa and VIIb in Blake’s <hi rend="i">The Four
+Zoas.</hi>” <hi rend="i">Blake</hi> 12 (1978): 107-13.</p>
+            <p>Lefebvre, Mark. “Note on the Structural Necessity of Night <corr type="emend">VIIb.”</corr>
+<hi rend="i">Blake</hi> 12 (1978): 134.</p>
+            <p>Lincoln, Andrew. “The Revision of the Seventh and Eighth Nights of <hi rend="i">The Four
+Zoas.</hi>” <hi rend="i">Blake</hi> 12 (1978): 114-33.</p>
+            <p>Mann, Paul. “The Final State of <hi rend="i">The Four Zoas.</hi>” <hi rend="i">Blake</hi>
+18 (1985): -15.</p>
+            <p>Otto, Peter. “Final States, Finished Forms, and <hi rend="i">The Four Zoas.</hi>” 
+<hi rend="i">Blake</hi> 20 (1987): 144-46.</p>
+            <p>—. Is There a Poem in This Manuscript?” <hi rend="i">Blake</hi> 22 (1989): 142-44.</p>
+            <p>Rosso, Jr., George Anthony. <hi rend="i">Blake’s Prophetic Workshop: A Study of</hi> The Four
+Zoas. London: Associated University Press, 1993.</p>
+            <p>Santa Cruz Blake Study Group. “Review of David V.</p>
+            <p>Erdman, ed., <hi rend="i">The Complete Poetry and Prose of William Blake.</hi>” 
+<hi rend="i">Blake</hi> 18 (1984): 4-31.</p>
+            <p>Viscomi, Joseph. <hi rend="i">Blake and the Idea of the Book.</hi> Princeton: Princeton
+University Press, 1993.</p>
+            <p>Wilkie, Brian and Mary Lynn Johnson. <hi rend="i">Blake’s</hi> Four Zoas: <hi rend="i">The
+Design of a Dream.</hi> Cambridge, Mass.: Harvard University Press, 1978.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

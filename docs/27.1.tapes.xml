@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>27.1.tapes</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Tapes</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">27.1</biblScope>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Helen Bruder</name>
+              <name>Keri Davies</name>
+              <name>Vincent A. De Luca</name>
+              <name>Peter Otto</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_27">
+    <body>
+      <pb id="p27-31" n="31"/>
+      <div1 id="BQ-27-1-0009">
+        <head>
+          <title type="section">
+            <hi rend="i">Newsletter</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">BLAKE TAPES</hi>
+            </title>
+          </head>
+          <p>Poetic/dramatic recitation of selected Blakean verse. Recording artist has 4-year European
+conservatory background and stateside Ph.D. Tapes are high bias, 60-minute 
+<corr type="emend">audio-cassettes</corr> (playable on a standard deck), first generation from DAT original. $12.95
+includes shipping and handling. Order from Stanza, 13675 SE Laurie Avenue, Milwaukie OR 97222.</p>
+          <p>Selections include: Introduction to <hi rend="i">Innocence</hi>, The Lamb, Night, Introduction to
+<hi rend="i">Experience</hi>, Earth’s Answer, Sunflower, Rose, Tyger, Clod and Pebble; selections from 
+<hi rend="i">Marriage</hi>; selections from the <hi rend="i">Notebook</hi> (Eternity, Day, Morning, Mock On, Never
+Pain, Angel); selections from <hi rend="i">Auguries of Innocence, Four Zoas</hi> (35: 11-15 &amp; 36: 13-14;
+122: 26-123: 6; 138: 20-40); <hi rend="i">Milton</hi> (Preface; 2: 1-25; 13: 45-14: 33; 40: 28-42: 6); 
+<hi rend="i">Jerusalem</hi> (4: 1-23; 5: 16-20; 10: 20-12: 2; 99: 1-5).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

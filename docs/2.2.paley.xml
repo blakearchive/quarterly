@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.2.paley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="review">David V. Erdman, ed., et al., A Concordance to 
+the Writings of William Blake</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>September 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.2</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                            <name>W.E. Moss</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-33" n="33"/>
+            <div1 id="BQ-02-2-0006">
+                <head>
+                    <title type="section">
+                        <hi rend="u">REVIEW</hi>
+                    </title>
+                </head>
+                <head>
+					<title type="main"><hi rend="u">A Concordance to the Writings of William Blake</hi>, ed. by David V.
+Erdman, with the assistance of John E. Thiesmeyer and Richard J. Wolfe; also G.E. Bentley, Jr., Palmer Brown,
+Robert F. Gleckner, George Mills Harper, Karl Kiralis, Martin K. Nurmi, and Paul M. Zall. Cornell University
+Press, 2 vols., 2317 pp., $25.00.</title>
+				</head>
+                <p>A concordance is something we take for granted, as our students do “The Dictionary.” Yet up
+to now, we have lived without a Blake concordance. The closest things to it has been the Index volume of Sloss
+and Wallis’ <hi rend="u">Prophetic Writings</hi>, useful at times but having no claim to completeness and
+inadequate to the needs of contemporary Blake scholarship. A modern <hi rend="u">Concordance</hi> has at last
+been published, with implications for the study of Blake that we can only begin to glimpse now.</p>
+                <p>First, a few facts. The <hi rend="u">Concordance</hi> is one of those produced at Cornell
+under the general editorship of S.M. Parrish. These are computer-made concordances, with the entries printed
+as reduced-size IBM printout. In order to produce a text for keypunching, it was virtually necessary to
+re-edit Blake, and as a result Mr. Erdman’s edition of <hi rend="u">The Poetry and Prose</hi> was produced.
+The <hi rend="u">Concordance</hi>, however is keyed to the pagination and line numbering of the Keynes
+editions of 1957 and 1966. In addition to the concordance proper, there are 72 pages of corrections and
+additions to the Keynes text, and there is a 62-page grouped-frequency word list. A short preface by Mr.
+Erdman includes some suggestions as to the significance of the <hi rend="u">Concordance</hi> for future
+scholarship.</p>
+                <p>One of the immediate applications of the Concordance will no doubt be to the study of
+Blake’s vocabulary and its development. One is struck, for example, by the startling growth of Blake’s
+“technical” language. Spectre, for example, appears only twice before<supplied type="spacer"> </supplied><ref
+target="n6" type="note">1</ref>
+                    <hi rend="u">The Four Zoas</hi>, 179 times in and after it (not counting possessives and
+plurals). Selfhood does not occur before <hi rend="u">Milton.</hi> Imagination is used 29 times in verse and,
+interestingly, 57 times in prose; only one of these comes before the letter to Dr. Trusler in 1799. Jerusalem,
+with a surprising 222 verse occurrences, is found only three times before <hi rend="u">The Four Zoas.</hi>
+Blake’s most frequent noun<supplied type="spacer"> </supplied><ref target="n7" type="note">2</ref> turns out
+to be neither day (225 occurrences, the same as Enitharmon) nor night (356) but Los (512)! However, Albion and
+Albion’s have a sum total of 669 verse occurrences. 
+                    <note id="n6">
+                        <hi rend="s">1</hi> Considering the existing problems of chronology, one must of
+course use “before” and “after” advisedly.</note>
+                    <note id="n7">
+                        <hi rend="s">2</hi> The most frequent word, after exclusions, in all (1007) is its
+several grammatical functions.</note>
+                </p>
+                <p>The <hi rend="u">Concordance</hi> is full of implications for Blakean chronology. A
+suggestion made in the editor’s preface, that “Vocabulary changes . . . would appear to support the
+hypothesis that Night VII was written later than VIIb,” deserves to be pursued, for a start. Another
+suggestive area of study is the relationship of Blake’s vocabulary to that of his contemporaries, a subject
+on which nothing seems to have been done since Josephine Miles’ <hi rend="u">Eras and Modes in English
+Poetry.</hi> Many other values of the <hi rend="u">Concordance</hi> have, I suspect, yet to occur to us. As
+Professor Miles remarked in her review of the first two Cornell concordances, “The future opens many more
+possible lines of inquiry about poetry, because the speed and accuracy of complex tabulations will prepare for
+the asking of new questions in the giving of more and more new answers.”<supplied type="spacer"> </supplied><ref target="n8" type="note">3</ref>
+                    <note id="n8">
+                        <hi rend="s">3</hi>
+                        <hi rend="u"> Victorian Studies</hi>, VIII (1965), 292.</note>
+                </p>
+                <byline>
+                    <docAuthor>MDP</docAuthor>
+                </byline>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

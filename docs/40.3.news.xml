@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>40.3.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Events to Celebrate the 250th Anniversary of Blake’s Birth</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2006/2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2006-07</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">40.3</biblScope>
+            <biblScope unit="volume">40</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Marsha Keith Schuchard</name>
+              <name>Keri Davies</name>
+              <name>Thomas R. Frosch</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2006/2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_40">
+    <body>
+	  <pb id="p40-111" n="111"/>
+      <div1 id="BQ-40-3-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <p>The village of Felpham is celebrating the 250th anniversary of Blake’s birth by planning a
+festival of arts week in November 2007 and commissioning a Blake memorial stained glass window in the church.
+If you wish to donate money for the window or make suggestions for festival week, please contact Reverend
+Timothy Peskett (frtim@zoom.co.uk).</p>
+        <p>The Centre for Eighteenth-Century Studies at the University of York, with the support of Nottingham
+Trent University and the Blake Society, is hosting a three-day Blake at 250 conference from 30 July to 1
+August 2007. Further details are available at the conference web site
+&lt;http://www.york.ac.uk/inst/cecs/conf/Blakehome.htm&gt;.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

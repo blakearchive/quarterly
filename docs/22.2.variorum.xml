@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.2.variorum</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">A Blake Variorum Edition</title>
+        <author n="Tolley">Michael J. Tolley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.2</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <body>
+      <pb id="p22-75" n="75"/>
+      <div1 id="BQ-22-2-0007">
+        <div2>
+          <div3>
+            <head>
+              <title type="main">
+                <hi rend="i">A BLAKE VARIORUM EDITION</hi>
+              </title>
+            </head>
+            <p>Michael J. Tolley of the University of Adelaide and Peter Otto, now of
+                            the University of Melbourne, were recently given a grant by the
+                            University of Adelaide as initial funding for a new multivolume
+                            annotated edition of Blake. Margaret Hood, who has just successfully
+                            completed her doctoral thesis on “The Pleasant Charge:
+                            William Blake’s Multiple Roles for Women,” is
+                            already working as a part-time research assistant for the project. Other
+                            editors are being consulted.</p>
+            <p>One of the first texts in preparation is <hi rend="i">Milton</hi>, for
+                            which Otto will have special responsibility, although Tolley, as General
+                            Editor, will be working closely with him and with other editors, as one
+                            of the major assets of the new edition is expected to be derived from
+                            his long-accumulating files of source materials and other scholarly
+                            notes. Tolley himself is beginning work on <hi rend="i">The Marriage of
+                                Heaven and Hell.</hi></p>
+            <p>As is usual in a variorum edition, the contributions of previous
+                            commentators will be brought together but subjected to a rigorous
+                            critical sifting and supplemented by new readings. A new feature, though
+                            this enterprise must be difficult, will be an endeavor to take greater
+                            account of the differing reading experiences of each copy of
+                            Blake’s illuminated poems; in this sense, also, the new work
+                            may be considered a variorum edition. The aim of the editorial
+                            undertaking is genuinely to “open” the texts,
+                            while freeing them from critical encumbrances.</p>
+            <byline>[<docAuthor>Michael J. <name>Tolley</name></docAuthor>]</byline>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

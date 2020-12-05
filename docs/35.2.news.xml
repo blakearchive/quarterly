@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.2.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">www.rochester.edu/college/eng/blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.2</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Donald Fitch</name>
+              <name>Andrew M. Stauffer</name>
+              <name>Mei-Ying Sung</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <body>
+	  <pb id="p35-63" n="63"/>
+      <div1 id="BQ-35-2-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">www.rochester.edu/college/eng/blake</hi>
+            </title>
+          </head>
+          <p>Our web site now has a Features section, which will include both new material and online versions
+of items previously published in the print edition of the journal. We are very pleased to debut with an
+extract from Janet Warner’s novel “Blake’s Wife.” In conjunction with the article by Donald Fitch in
+this issue, we are also making available online both G.E. Bentley, Jr.’s review of <hi rend="i">Blake Set to
+Music</hi> (from the summer 1996 issue), and Thomas Dillingham’s review of Finn Coren’s two-CD album 
+<hi rend="i">The Blake Project</hi> (from fall 1998).</p>
+          <p>We hope also to expand the online Newsletter to become, potentially at least, a clearinghouse for
+Blake-related information, and for that we request your assistance. If you know of an upcoming lecture,
+reading, performance, exhibition, or other noteworthy occurrence, please contact the Managing Editor, Sarah
+Jones (sjns@mail.rochester.edu).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

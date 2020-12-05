@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <front>
+      <pb id="p31-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.031.01.bqscan" rend="file" width="258" height="334">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 31<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1997</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-31-1-0001">
+        <table id="contents" rows="14" cols="2">
+         <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.chapman">Blake, Wollstonecraft, and the Inconsistency of
+Oothoon</ref><lb/>
+<hi rend="i">by Wes Chapman</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.yoder">Not from Troy, But Jerusalem: Blake’s Canon
+Revision</ref><lb/>
+<hi rend="i">by R. Paul Yoder</hi></cell>
+            <cell>
+              <hi rend="i">17</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.becher">Lorenz Becher: An Artist in Berne,
+Switzerland</ref><lb/>
+<hi rend="i">by Lorenz Becher</hi></cell>
+            <cell>
+              <hi rend="i">22</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.heppner">Frank Vaughan, <hi rend="i">Again to the Life of
+Eternity: William Blake’s Illustrations to the Poems of Thomas Gray</hi></ref><lb/>
+<hi rend="i">Reviewed by Christopher Heppner</hi></cell>
+            <cell>
+              <hi rend="i">24</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.clark">Angela Esterhammer, <hi rend="i">Creating States:
+Studies in the Performative Language of John Milton and William Blake</hi></ref><lb/>
+<hi rend="i">Reviewed by David L. Clark</hi></cell>
+            <cell>
+              <hi rend="i">24</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.pierce">Andrew Lincoln, <hi rend="i">Spiritual History: A
+Reading of William Blake’s</hi> Vala, <hi rend="i">or</hi> The Four Zoas</ref><lb/>
+<hi rend="i">Reviewed by John B. Pierce</hi></cell>
+            <cell>
+              <hi rend="i">29</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.mckusick"><hi rend="i">20/20 Blake</hi>, written and
+directed by George Coates</ref><lb/>
+<hi rend="i">Reviewed by James McKusick</hi></cell>
+            <cell>
+              <hi rend="i">38</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Correction</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="31.1.correction">Deborah McCollister</ref></cell>
+            <cell>39</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="31.1.tyger"><hi rend="i">Tyger and Other Tales</hi></ref>, 
+              <ref type="article" issue="31.1.website"><hi rend="i">Blake Society Web Site</hi></ref>, 
+              <ref type="article" issue="31.1.program"><hi rend="i">Blake Society Program for 1997</hi></ref>
+            </cell>
+            <cell>
+              <hi rend="i">39</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><hi rend="b">Remembrance</hi></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <supplied type="emend"><ref type="article" issue="31.1.ginsberg">Allen Ginsberg,
+1926-1997</ref></supplied>
+            </cell>
+            <cell>
+              <supplied type="emend" rend="plain"><hi rend="i">40</hi></supplied>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p31-3" n="3"/>
+      <div1 id="BQ-31-1-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Lorenz Becher lives and works in Berne, Switzerland as artist, English teacher, and
+househusband.</p>
+        <p>Wes Chapman teaches in the Department of English at Illinois Wesleyan University. He has published
+a study of gender anxiety in Thomas Pynchon’s <hi rend="i">Gravity’s Rainbow</hi> and has a hypertext
+fiction and a hypertext poem forthcoming from Eastgate Systems.</p>
+        <p>David L. Clark, Associate Professor of English at McMaster University, has co-edited and
+contributed to <hi rend="i">New Romanticism: Theory and Critical Practice</hi> (U of Toronto P, 1995) and 
+<hi rend="i">Intersections: Nineteenth-Century Philosophy and Contemporary Theory</hi> (SUNY P, 1995), and has
+recently published essays in several volumes, including <hi rend="i">Animal Acts: Configuring the Human in
+Western History</hi> (Routledge 1997).</p>
+        <p>Christopher Heppner is author of <hi rend="i">Reading Blake’s Designs</hi> (Cambridge UP, 1995),
+has recently retired from McGill University, and is now thinking about a variety of things.</p>
+        <p>James McKusick is Associate Professor of English at the University of Maryland. He is the author of
+<hi rend="i">Coleridge’s Philosophy of Language</hi> (1986). He is currently completing a book on the
+romantic origins of American environmentalism.</p>
+        <p>John B. Pierce is an Associate Professor at Queens University. His book, <hi rend="i">Flexible
+Design: Blake’s Writing of</hi> Vala <hi rend="i">or</hi>, The Four Zoas is forthcoming from McGill-Queens
+Press.</p>
+        <p>R. Paul Yoder is Associate Professor of English at the University of Arkansas at Little Rock. He is
+currently completing a book on the narrative structure of Blake’s <hi rend="i">Jerusalem.</hi></p>
+      </div1>
+      <div1 id="BQ-31-1-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@uclink4.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-31-1-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE / AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: The Chimney Sweeper by Lorenz Becher. 
+<note type="unreferenced" place="footer">© 1997 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

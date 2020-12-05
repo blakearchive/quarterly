@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Newsletter Publications</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <pb id="p10-68" n="68"/>
+      <div1 id="BQ-10-3-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">News</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Newsletter Publications</hi>
+            </title>
+          </head>
+          <p>We would like to call our readers’ attention to the list of items for sale by the 
+<hi rend="i">Newsletter</hi> printed in every issue with the editorial information inside the front cover. There
+is our reproduction of <hi rend="i">America</hi>, of course, but also a number of special back issues,
+including the handlists of Blake material in the British Museum Department of Prints &amp; Drawings (issue 20,
+edited by G. E. Bentley, Jr.), and in the Lessing J. Rosenwald Collection (issue 35, edited by Ruth Lehrer).
+Readers who did not subscribe to the <hi rend="i">Newsletter</hi> before 1970 should note that we publish a
+reprinting, in two parts, of the issues first published at Berkeley, 1967-70.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

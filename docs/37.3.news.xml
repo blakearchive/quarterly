@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>37.3.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Color-Printing Debate</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2003/2004</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2003-04</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">37.3</biblScope>
+            <biblScope unit="volume">37</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Rosamund A. Paice</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Oskar Wellens</name>
+              <name>Nelson Hilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2003/2004"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_37">
+    <body>
+  	  <pb id="p37-111" n="111"/>
+      <div1 id="BQ-37-3-0009">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Color-Printing Debate</hi>
+            </title>
+          </head>
+          <p>The latest contributions to the one-pull vs. two-pull colorprinting debate—Martin Butlin’s
+“William Blake, S. W. Hayter and Color Printing,” with a response from Robert N. Essick and Joseph
+Viscomi—are now available exclusively on the journal’s web site at www.blakequarterly.org. Previous
+articles on the subject can be found on the web site and in the winter 2001-02 (volume 35, no. 3) and fall
+2002 (volume 36, no. 2) issues.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

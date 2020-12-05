@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>30.1.vultee</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Apollonian Elephant?</title>
+        <author n="Vultee">Denise Vultee</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1996</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">30.1</biblScope>
+            <biblScope unit="volume">30</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley</name>
+              <name>David Caplan</name>
+              <name>Michael Gamer</name>
+              <name>Paul Wayne Rodney</name>
+              <name>Nanora Sweet</name>
+              <name>Joseph Viscomi</name>
+              <name>Denise Vultee</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_30">
+    <body>
+      <pb id="p30-22" n="22"/>
+      <div1 id="BQ-30-1-0006">
+        <head>
+          <title type="section">MINUTE PARTICULAR</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Apollonian Elephant?</title>
+          </head>
+          <byline>by <docAuthor>Denise <name>Vultee</name></docAuthor></byline>
+          <p>In <hi rend="i">Blake Records Supplement</hi>, G. E. Bentley, Jr. includes part of a 20 June 1802
+letter to William Hayley from his friend Edward Garrard Marsh, an Oxford student who had met Blake at Felpham
+(21). In the letter, Marsh offers Hayley and Blake his translation from the <hi rend="i">Argonautica</hi> of
+Apollonius of Rhodes, wishes Blake success “on his elephant” (i.e., his engravings for Hayley’s Elephant
+ballad), and suggests that the elephant “from its rider might (I think) be called the Apollonian
+elephant.” As Bentley points out in a footnote, however, “There is no reference to elephants in Apollonius
+of Rhodes” (21). Nor does Robert N. Essick, in his article on Marsh’s letters, see anything
+“particularly ‘Apollonian’ about Blake’s design” (69).</p>
+          <p>The confusion here results from Marsh’s mental leap from one Apollonius to another. The
+“Apollonian elephant” refers to Philostratus’s <hi rend="i">Life of Apollonius of Tyana</hi>, a highly
+embroidered tale of the travels and purported miracles of a Neopythagorean philosopher who lived during the
+first century A.D. In the second book of that work, Apollonius and his sidekick Damis travel to India, where
+they encounter a number of elephants. (This, by the way, is the same Apollonius who spoils Lamia’s fun in
+Keats’s poem.)</p>
+          <p>If Bentley is right (and I think he is) in suggesting that the “rider” is Blake, Marsh
+appears to be comparing Blake, however facetiously, to Apollonius of Tyana. What’s more, he clearly expects
+Hayley to see the resemblance without further explanation and to enjoy his little joke. <hi rend="i">Why</hi>
+Marsh thought the comparison apt is a tantalizing—and probably unanswerable—question. Perhaps Marsh was
+simply alluding to Blake’s lack of worldliness rather than to any specifically Pythagorean tendencies in his
+thought or work.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>Bentley, G. E., Jr. <hi rend="i">Blake Records Supplement.</hi> Oxford: Clarendon P, 1988.</p>
+            <p>Essick, Robert N. “Blake, Hayley, and Edward Garrard Marsh: ‘An Insect of Parnassus.’”
+<hi rend="i">Explorations</hi> 1 (1987): 58-84.</p>
+            <p>Philostratus. <hi rend="i">The Life of Apollonius of Tyana.</hi> Trans. F. C. Conybeare. 2
+vols. Cambridge, MA: Harvard UP, 1960.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

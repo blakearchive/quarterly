@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.3.fax</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake’s Fax</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1990/1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990/91</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.3</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stuart Atkins</name>
+              <name>Lisa Plummer Crafton</name>
+              <name>Robert N. Essick</name>
+              <name>Bruce E. Graver</name>
+              <name>David Groves</name>
+              <name>Michael Fischer</name>
+              <name>Edward Larrissy</name>
+              <name>John Mee</name>
+              <name>Brian Wilkie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990/1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <pb id="p24-109" n="109"/>
+      <div1 id="BQ-24-3-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">BLAKE’<hi rend="i">S FAX</hi></title>
+          </head>
+          <figure n="bird-rider-motif.24.3.bqscan" rend="file" width="146" height="62"/>
+          <p>In November 1990, with help from a foundation grant, Blake purchased a facsimile machine. The
+number is <hi rend="b">716 442 5769.</hi> Our readers are invited and encouraged to send faxes to this number
+whenever they have a problem with their subscription, galleys to return, or news to share.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

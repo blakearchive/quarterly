@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.2.corrections</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="correction">Corrections to Previous Issue</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>October 1, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.2</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <front>
+            <pb id="p01-1" n="1"/>
+            <div1 id="BQ-01-2-0001">
+                <p>The Gnomes were at work in issue number 1, and the following errors and omissions should be
+noted:</p>
+                <p>The report on the <corr type="emend">Blake-Varley</corr> sketchbook (p. 2) appeared not in
+<hi rend="u">TLS</hi> but in the London <hi rend="u">Times.</hi> We thank Mr. Martin Butlin for pointing this
+out and Miss Mary Hanna for having sent us the clipping.</p>
+                <p>Mr. Fred <corr type="emend">Whitehead,</corr> whom we again thank for a list of ongoing
+Blake projects, was incorrectly renamed Robert.</p>
+                <p>Our masthead was <corr type="emend">designed</corr> by Miss Amy Tsuji, who also compiled
+the list of articles on pp. 2-4 of number 1. On page 3, we should have included the contributions by Fred C.
+Robinson to the December 1966 <hi rend="u">PMLA</hi> discussion “Tense and the Sense of Blake’s ‘The
+Tyger’” (599-600, 602-603).</p>
+                <p>On p. 7 (Stevenson note 3), there were two obvious typos for “Keynes” and “Greek.”</p>
+                <p>All of which reminds us that the crooked roads without Improvement are roads of Genius.</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

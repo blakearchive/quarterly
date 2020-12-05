@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.betz</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Wordsworth’s First Acquaintance with Blake’s Poetry</title>
+				<author n="Betz">Paul F. Betz</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <div1 id="BQ-03-4-0005">
+                <pb id="p03-84" n="84"/>
+                <div2>
+                    <head>
+                        <title type="main">2. Wordsworth’s First Acquaintance With Blake’s Poetry</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Paul F. <name>Betz</name>
+                        </docAuthor> Georgetown University</byline>
+                    <p>It is relatively well known that William Wordsworth’s Commonplace Book (Dove Cottage
+MS. Prose 31) contains four of Blake’s early poems: “Holy Thursday” and “Laughing Song” from the 
+<hi rend="u">Songs of Innocence</hi>, “The Tyger” from the <hi rend="u">Songs of Experience</hi>, and “I love the
+jocund dance” from <hi rend="u">Poetical Sketches.</hi>
+                        <ref target="n22" type="note">1</ref> One might have hoped to discover that these
+transcripts had been taken directly from the rare primary sources, or indirectly from these sources through
+the agency of Southey, Lamb, or Crabb Robinson. But Mary Moorman, in an interesting article on “Wordsworth’s
+Commonplace Book” in the September 1957 issue of <hi rend="u">Notes and Queries</hi> (pp. 400-405), has
+pointed out that the poems probably have been taken from Benjamin Heath Malkin’s <hi rend="u">A Father’s
+Memoir of his Child</hi> (1806), where six of Blake’s short poems were printed for the first time.<supplied
+type="spacer"> </supplied><ref target="n23" type="note">2</ref> G. E. Bentley, Jr., in <hi rend="u">Blake
+Records</hi>, has recently confirmed the Malkin source of the entries.<supplied type="spacer"> </supplied><ref
+target="n24" type="note">3</ref>
+                        <note id="n22">
+                                <hi rend="s">1</hi> I am grateful for encouragement and advice given by
+Professors Morton D. Paley, Mark L. Reed, and David V. Erdman; and I wish to thank the Trustees of Dove
+Cottage for permission to examine Ms. Prose 31. Wordsworth’s Commonplace Book is complicated by the
+confusion of hands which so often plagues scholars working on Wordsworth manuscripts, and which has lead to
+frequent examples of mis-attribution in the past. While the drafts of Wordsworth’s verse notebooks have
+often not been entered chronologically, with the possible exception of pasted-in entries there seems almost
+always to be a steady chronological progression in the Commonplace Book entries.
+                            <p>Leaf numbers as given above refer only to the original leaves of the notebook,
+not to the slips and full leaves which have been pasted to those original leaves. All material cited here has
+been written directly on original leaves.</p>
+                            <p>Entries in the notebook run from both ends toward the middle. All entries of a
+primarily literary interest are at one end. The few pages with entries at the other end are entirely taken up
+with household lists, accounts, medical remedies, and a page of notes by Dorothy about the infant language and
+activities of John, Wordsworth’s first son, born in 1803.</p>
+                            <p>My disagreement with F. W. Bateson’s suggestion that Wordsworth may well have
+encountered some of Blake’s poems as early as 1797 will be seen from the title of this note; although, of
+course, evidence to that effect may someday be discovered. Mr. Bateson’s statement (pp. 133-134), that
+“Susan is one of the country girls in ‘Laughing Song’ and it may not be simply a coincidence that
+Wordsworth’s poem is ‘The Reverie of Poor Susan,’” is surprising. There is no indication that
+Wordsworth’s lack of invention in choosing names, to which Mr. Bateson alludes, ever extended this far. In
+addition, the title itself is a translation or Bürger’s “Das Arme Süsschens Traum,” a poem which
+Wordsworth praised (see Mary Moorman, <hi rend="u">William Wordsworth: The Early Years, 1770-1803</hi>, p.
+428), although it must be added that when first published the poem was called only “Poor Susan.”</p>
+                        </note>
+                        <note id="n23">
+                            <hi rend="s">2</hi> Moorman, “Wordsworth’s Commonplace Book,” p. 403.</note>
+                        <note id="n24">
+                            <hi rend="s">3</hi> G. E. Bentley, Jr., <hi rend="u">Blake Records</hi> (Oxford,
+1969), p. 430n.</note>
+                    </p>
+                    <p>However, the question of when the poems were read and transcribed into the Commonplace
+Book still remains to be settled. F. W. Bateson, in <hi rend="u">Wordsworth: A Re-Interpretation</hi> (second
+edition, 1956), writes that the entries were made “in or about 1804.”<supplied type="spacer"> </supplied><ref
+target="n25" type="note">4</ref> He has perhaps been misled by the presence, several pages before the Blake
+poems, of seven pages of extracts (leaves 38 recto to 41 recto) from Sir John Barrow’s <hi rend="u">Travels
+in China</hi>; at the top of lead 38 recto, above the title of the
+<pb id="p03-85" n="85"/>
+book, the Poet’s grandson Gordon Graham Wordsworth has written: “First Published in 1804.” But this is not
+to say that the Wordsworths read the book when it was first published; and as Mrs. Moorman has established
+Malkin as the source of the verses, a date before 1806 is almost impossible. <note id="n25">
+                            <hi rend="s">4</hi> Bateson, <hi rend="u">Wordsworth: A Re-Interpretation</hi>
+(London, 1956), p. 133.</note>
+                    </p>
+                    <p>Mrs. Moorman does not attempt to specify the date of the Blake entries, although in
+another context she points out that what appears to be the final entry in the Commonplace Book is a part of
+Wordsworth’s June 5, 1808, letter to Francis Wrangham.<supplied type="spacer"> </supplied><ref target="n26"
+type="note">5</ref> This narrows the probable date of the Blake transcripts to a period of approximately two
+years. 
+                        <note id="n26">
+                            <hi rend="s">5</hi> Moorman, “Wordsworth’s Commonplace Book,” p. 400. The entire
+letter appears in <hi rend="u">The Letters of William and Dorothy Wordsworth: The Middle Years</hi>, I, ed.
+Ernest de Selincourt, rev. Mary Moorman (Oxford, 1969), pp. 246-251.</note>
+                    </p>
+                    <p>It now appears that the four Blake entries can be placed with some certainty within the
+period of six and one-half months between February 12, 1807 and August 25, 1807. Within this period, the most
+likely dates of transcription seem to be from mid-March to mid-April, and from mid-May to June 10.</p>
+                    <p>On February 15, 1807, from the temporary home of the Wordsworths at Coleorton, Dorothy
+wrote to Lady Beaumont that “We received the Books a week ago” which had been lent by the Beaumonts, and that
+“I shall next begin with Barrow’s Travels.”<supplied type="spacer"> </supplied><ref target="n27"
+type="note">6</ref> Most and probably all of the literary extracts in the Commonplace Book seem likely to have
+been made at William’s request, so that he might again consult passages or poems from books which he did not
+then own. As William would have needed to read the book first, Mary Wordsworth’s seven extracts from Barrow
+were probably made after Dorothy’s reading, and could not have been made earlier than two or three days
+before it. The Barrow entries are followed by John Mayne’s poem “Logan Braes” (leaves 41 verso-42 recto) in
+the hand of Sara Hutchinson, a brief passage “From Aristotle’s Synopsis of the virtues and vices” (leaf 42
+recto) in Dorothy’s hand, and excerpts from J. L. Buchanan’s <hi rend="u">Travels in the Western
+Hebrides</hi> (leaves 42 recto-43 verso) in William’s hand. Only then come Blake’s “Holy Thursday” (leaf
+43 verso), “Laughing Song” (leaf 44 recto), and the first quatrain of “The Tyger” (leaf 44 recto) in
+William’s hand, followed by the rest of “The Tyger” (leaf 44 verso) and “I love the jocund dance” (leaf 45
+recto) in Mary’s hand. If one considers the time necessary for William to have read the works mentioned
+earlier, as well as other books quite probably read but not represented in the Commonplace Book (see
+Dorothy’s letter to Lady Beaumont for three possibilities), a date earlier than mid-March for the Blake
+entries seems unlikely. 
+                        <note id="n27">
+                            <hi rend="s">6</hi>
+                            <hi rend="u"> Letters: The Middle Years</hi>, I, p. 133. The Wordsworths arrived
+at Coleorton in Leicestershire at the beginning of November, 1806, and did not depart to return to Grasmere
+until June 10, 1807. They stayed in the Coleorton farm house as the guests of Sir George Beaumont,
+Wordsworth’s patron, while the Beaumonts themselves spent most of this period in London. Sara Hutchinson was
+at Coleorton from the beginning until mid-April; while Coleridge and his son Hartley arrived on December 21
+and also remained until mid-April. It is certainly possible that Coleridge may have seen <hi rend="u">A
+Father’s Memoir</hi>, with its Blake verses, during this stay.</note>
+                    </p>
+                    <p>On August 25, 1807, William and Mary set out for a short stay at Eusemere at the foot
+of Ullswater. This would have been the Poet’s first opportunity to see Thomas Wilkinson the Quaker poet, who
+lived nearby, since before the Wordsworths had moved to Coleorton during the previous autumn. During November
+1806, when already at Coleorton, Wordsworth had written to Wilkinson:
+<q>
+I was prevented by a most severe cold from seeing you as I intended . . . what shall I say in apology for your
+<pb id="p03-86" n="86"/>
+Journal, which is now locked up with my manuscripts at Grasmere . . . unluckily, most unluckily, in the hurry
+of departure I forgot it, together with two of my own manuscripts which were along with it . . . it may be
+procured, for I can write to Grasmere to that effect; it is there in perfect safety . . . . If you do not want
+it, it is in a place where it can take no injury, and I may have the pleasure of delivering it to you myself
+in the spring.<supplied type="spacer"> </supplied><ref target="n28" type="note">7</ref>
+                            <note id="n28">
+                                <hi rend="s">7</hi>
+                                <hi rend="u"> Letters: The Middle Years</hi>, I, p. 104.</note>
+						</q>
+                    </p>
+                    <p>The “Journal” mentioned is the Scottish section of Wilkinson’s <hi rend="u">Tours to
+the British Mountains</hi>, parts of which circulated in manuscript long before actual publication in 1824.
+Wordsworth had seen this section of the journal before 1806; he had based the final lines of “The Solitary
+Reaper,” composed on November 5, 1805, upon a short passage from it. This very passage (“Pass’d by a Female
+who was reaping alone, she sung in Erse as she bended over her sickle, the sweetest human Voice I ever
+heard[.] Her strains were tenderly melancholy and felt delicious long after they were heard no more”) has been
+entered retrospectively by Wordsworth at the top of leaf 45 verso, directly after the Blake entries. It is
+followed by a second passage from Wilkinson which Wordsworth draws upon in <hi rend="u">The Excursion</hi>,
+IV, 489-504.<supplied type="spacer"> </supplied><ref target="n29" type="note">8</ref> There is no indication
+that Wilkinson asked for the immediate return of his manuscript, and it would not have been in character; but
+Wordsworth would surely have taken the first opportunity to return the overdue loan in person. Since the
+manuscript had been in Grasmere, Wordsworth would have entered these passages in his Commonplace Book between
+the family’s return to Grasmere during July 1807 and the departure for Eusemere on August 25. 
+                        <note id="n29">
+                            <hi rend="s">8</hi> The first passage appears in Thomas Wilkinson, 
+<hi rend="u">Tours to the British Mountains, with the Descriptive Poems of Lowther, and Emont Vale</hi> (London,
+1824), p. 12. The second passage, also clearly from the Scottish tour, never appeared in the published
+version.</note>
+                    </p>
+                    <p>How did Wordsworth encounter <hi rend="u">A Father’s Memoir of his Child</hi>? It may
+have been through Dorothy Wordsworth’s friend, Catherine Clarkson. On August 26 (or 27), 1809, Dorothy wrote
+to Mrs. Clarkson:
+<q>
+We saw in the paper the other day that Mr. Malkin is elected to the Mastership of Bury School. I am afraid he
+will not fill the place so well as the late Master for I am told he is a coxcomb, and indeed it is plain
+enough from the manner in which that account of his Son is written.<supplied type="spacer"> </supplied><ref
+target="n30" type="note">9</ref>
+                            <note id="n30">
+                                <hi rend="s">9</hi>
+                                <hi rend="u"> Letters: The Middle Years</hi>, I, p. 368.</note>
+						</q>
+                    </p>
+                    <p>Dorothy seems to assume that Catherine Clarkson also is familiar with the book, and
+indeed the Clarksons lived in Bury St. Edmonds. If this is the source, then the book might have come
+ultimately from Henry Crabb Robinson. Crabb Robinson indicates that prior to his attendance at Blake’s 1809
+exhibition he had encountered Blake’s work only through Malkin,<supplied type="spacer"> </supplied><ref
+target="n31" type="note">10</ref> and while not yet personally acquainted with the Wordsworths, he had been on
+terms of close friendship with Catherine Clarkson for some time. 
+                        <note id="n31">
+                            <hi rend="s">10</hi> See Crabb Robinson’s account of this is <hi rend="u">Blake,
+Coleridge, Wordsworth, Lamb, Etc., being Selections from the Remains of Henry Crabb Robinson</hi>, ed. Edith
+J. Morley (Manchester, 1922), pp. 17-19.</note>
+                    </p>
+                    <p>However, a more likely source seems to be the Beaumonts, either through their library
+at Coleorton or through books sent on personal loan.</p>
+                    <pb id="p03-87" n="87"/>
+                    <p>While there is no evidence that the Wordsworths were receiving books from the Clarksons
+during this period, they definitely were receiving books from the Beaumonts.<supplied type="spacer"> </supplied><ref target="n32" type="note">11</ref> If Malkin’s book came to them through the Beaumonts, then
+in line with the limitations already established, the Blake entries were probably made within either of two
+short periods: from mid-March to mid-April, when Wordsworth left Coleorton for London; and from mid-May, when
+Wordsworth returned to Coleorton, to June 10, when the family left Coleorton for an extended journey which was
+to take them at last back to Grasmere. 
+                        <note id="n32">
+                            <hi rend="s">11</hi> See <hi rend="u">Letters: The Middle Years</hi>, I, pp. 129,
+133, and 186. Of course, they may have first heard of the book from Catherine Clarkson, and may have asked the
+Beaumonts for the book or chosen it from the library at Coleorton for that reason.</note>
+                    </p>
+                    <p>Important questions remain to be answered. Why did Wordsworth select these poems while
+omitting the other two printed by Malkin: “The Divine Image” and “How sweet I roam’d”? Did Wordsworth have
+in mind the possibility of publishing the poems himself in a collection of poetry he appears to have
+contemplated making at this time?<supplied type="spacer"> </supplied><ref target="n33" type="note">12</ref> If
+he had actually done so, this would quite possibly have introduced Blake’s poetry to a wider audience than
+it ever enjoyed during his lifetime. And what influence, if any, did Wordsworth’s awareness of these poems
+have on his own work? <note id="n33">
+                            <hi rend="s">12</hi> The only evidence for this proposed collection is Mary
+Lamb’s comment, in a letter written to Mrs. Clarkson on December 25, 1806, that “my brother sometimes
+threatens to pass his holidays in town hunting over old plays at the Museum to extract passages for a work (a
+collection of poetry) Mr. Wordsworth intends to publish.” <hi rend="u">The Letters of Charles and Mary
+Lamb</hi>, II, ed. E. V. Lucas (London, 1935), p. 33.</note>
+                    </p>
+                </div2>
+            </div1>
+	<pb id="p03-88-89" n="88-89" rend="hidden"/>
+        </body>
+    </text>
+</TEI.2>

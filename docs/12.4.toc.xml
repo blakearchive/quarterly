@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.4</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Cindy Lewiecki</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Marietta Barnes</name>
+              <name>Lynn Goldtein</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Jenijoy La Belle</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Christopher Heppner</name>
+              <name>G. Ingli James</name>
+              <name>John Kilgore</name>
+              <name>Andrew Lincoln</name>
+              <name>Anne Mellor</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <front>
+      <pb id="p12-221-222" n="221-222"/>
+      <div1 id="cover">
+        <figure n="cover.012.04.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 48<lb/>
+            Volume 12<lb/>
+            Number 4<lb/>
+            Spring 1979</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-12-4-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.bentley">“The Eternal Wheels of Intellect”: Dissertations on
+William Blake</ref><lb/>
+                            by G.E. Bentley, Jr.</cell>
+            <cell>224</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.james">Some Not-So-Familiar Visionary Heads</ref><lb/>
+                            by G. Ingli James</cell>
+            <cell>244</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.shroyer">Mr. Jacko “Knows What Riding Is” in 1785: Dating
+Blake’s <hi rend="i">Island in the Moon</hi></ref><lb/>
+                            by R.J. Shroyer</cell>
+            <cell>250</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.labelle">Blake and Morland: The First State of “The
+Industrious Cottager”</ref><lb/>
+                            by Jenijoy La Belle</cell>
+            <cell>258</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.heppner">Another <hi rend="i">Cumberland Bibliography
+Addendum</hi></ref><lb/>
+                            by Christopher Heppner</cell>
+            <cell>261</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.lincoln">Brian Wilkie and Mary Lynn Johnson’s 
+<hi rend="i">Blake’s Four Zoas: The Design of a Dream</hi></ref><lb/>
+                            reviewed by Andrew Lincoln</cell>
+            <cell>264</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.mellor">Karl Kroeber and William Walling’s 
+<hi rend="i">Images of Romanticism: Verbal and Visual Affinities</hi></ref><lb/>
+                            reviewed by Anne K. Mellor</cell>
+            <cell>267</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.kilgore">Alicia Ostriker’s <hi rend="i">William Blake: The
+Complete Poems</hi></ref><lb/>
+                            reviewed by John Kilgore</cell>
+            <cell>268</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.paley">Richard D. Altick’s <hi rend="i">The Shows of
+London</hi></ref><lb/>
+                            reviewed by Morton D. Paley</cell>
+            <cell>271</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">POETRY</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="12.4.gabriella">Los’s Visit</ref><lb/>
+                            by Katharyn R. Gabriella</cell>
+            <cell>266</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>274</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="12.4.query">Query</ref>, 
+          	  <ref type="article" issue="12.4.todd">Todd Collection</ref>, 
+          	  <ref type="article" issue="12.4.missing">Missing Issues</ref>, 
+          	  <ref type="article" issue="12.4.jungian">Jungian Perspectives</ref>, 
+          	  <ref type="article" issue="12.4.papers">Papers Read</ref>, 
+          	  <ref type="article" issue="12.4.london">Two Recent Lectures in London</ref>, 
+          	  <ref type="article" issue="12.4.exhibitions">Recent Exhibitions of Interest</ref>
+          	  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-12-4-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>JENIJOY LA BELLE, Associate Professor of Literature, California Institute of Technology, is the
+co-author of books on Blake’s <hi rend="i">Night Thoughts</hi> and Flaxman’s Outlines and has an essay on
+Blake and Michelangelo in <hi rend="i">Blake in His Time</hi> (Indiana Univ. Press).</p>
+        <p>G. E. BENTLEY, JR., of the Univ. of Toronto, has edited <hi rend="i">William Blake’s
+Writings</hi>, in two volumes, Oxford, 1978.</p>
+        <p>KATHARYN R. GABRIELLA, author of <hi rend="i">The Imagination of the Resurrection: The Poetic
+Continuity of a Religious Motif in Donne, Blake, and Yeats</hi>, is currently completing a long book on
+Blake’s <hi rend="i">Illustrations to the Bible.</hi></p>
+        <p>CHRISTOPHER HEPPNER, an Associate Professor of English at McGill Univ., has published articles on
+Blake in the <hi rend="i">Colby Library Quarterly</hi> and in <hi rend="i">Blake.</hi></p>
+        <p>G. INGLI JAMES is a Senior Lecturer in the Dept. of English, University College, Cardiff, Wales.
+His most recent publication, an essay on “Blake’s Mixed Media: A Mixed Blessing,” appeared in 
+<hi rend="i">Essays and Studies</hi>, 30, 1977.</p>
+        <p>JOHN KILGORE teaches English at the Univ. of Washington and has contributed articles to 
+<hi rend="i">Blake.</hi></p>
+        <p>ANDREW LINCOLN teaches in the Dept. of English, Westfield College, University of London.</p>
+        <p>ANNE MELLOR, Associate Professor of English at Stanford Univ., is the author of 
+<hi rend="i">Blake’s Human Form Divine</hi> (1974) and has recently completed <hi rend="i">English Romantic
+Irony</hi>, a study of Byron, Keats, Carlyle, Coleridge and Carroll as romantic ironists.</p>
+        <p>MORTON D. PALEY’s most recent book is an introduction to Blake’s art: <hi rend="i">William
+Blake</hi>, published by Phaidon. He continues to work on his book-length study of 
+<hi rend="i">Jerusalem.</hi></p>
+        <p>R. J. SHROYER teaches English at the University of Western Ontario, London, Canada. His editions of
+<hi rend="i">An Island in the Moon</hi> and Blake’s annotated books are forthcoming. 
+<note type="unreferenced" place="footer">Copyright © 1979 Morris Eaves &amp; Morton D. Paley</note></p>
+        <figure n="ContributorsTOC.12.4.bqscan" rend="file" width="400" height="225"/>
+      </div1>
+      <pb id="p12-223" n="223"/>
+      <div1 id="BQ-12-4-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="EditorsTOC.12.4.bqscan" rend="file" width="400" height="673"/>
+      </div1>
+      <div1 id="BQ-12-4-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="InformationTOC.12.4.bqscan" rend="file" width="400" height="388"/>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Cynthia Lewiecki, Univ. of New Mexico. Editorial assistants: David
+Anderson, Marietta Barnes, Lynn Goldtein, and Kris Lackey, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12 for 1 year, 1 volume, 4 issues. Special rate for individuals, $10, surface
+mail. $15 for subscribers overseas who prefer air mail. U.S. currency or international money order if
+possible. Make checks payable to Blake/An Illustrated Quarterly. Address all subscription orders &amp; related
+communications to the Circulation Mgr., LuAnn Baca, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New
+Mexico, Albuquerque, NM 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address LuAnn Baca for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitston Pub.).</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

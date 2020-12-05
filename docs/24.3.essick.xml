@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.3.essick</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Printings of Blake’s Dante Engravings</title>
+        <author n="Essick">Robert N. Essick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1990/1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990/91</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.3</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stuart Atkins</name>
+              <name>Lisa Plummer Crafton</name>
+              <name>Robert N. Essick</name>
+              <name>Bruce E. Graver</name>
+              <name>David Groves</name>
+              <name>Michael Fischer</name>
+              <name>Edward Larrissy</name>
+              <name>John Mee</name>
+              <name>Brian Wilkie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990/1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <pb id="p24-80" n="80"/>
+      <div1 id="BQ-24-3-0005">
+        <head>
+          <title type="main">The Printings of Blake’s Dante Engravings</title>
+        </head>
+        <byline>By <docAuthor>Robert N. <name>Essick</name></docAuthor></byline>
+        <p>As readers of the annual sales reports in this journal may have noticed, complete sets of
+          Blake’s engraved illustrations to Dante’s <hi rend="i">Inferno</hi> have consistently
+          fetched over $30,000 at auctions during the last few years.<supplied type="spacer"> </supplied><ref
+target="n0" type="note">*</ref>
+	<note id="n0">I am indebted to Ruth Fine and Greg Jecmen of the National Gallery
+            of Art, Washington, Arthur Freeman, and Thomas V. Lange for their help with the research
+            reported in this essay.</note> As a consequence of this high value, dealers have become
+          increasingly interested in ways of ascribing a particular set of the seven plates to a
+          specific press run since the earliest impressions would command the highest prices. In
+          response to requests for information on this matter, as well as a desire to demonstrate
+          how economic imperatives influence the study of printed images as much as their making, I
+          began to study various sets of the Dante plates to correlate their physical
+          characteristics with the known dates of printing. Since there are records of only three
+          print runs in the nineteenth century, the problem seemed easily solvable. But the
+          situation is far more complicated than I had anticipated, as the following report will
+          demonstrate.</p>
+        <p>The documentary record of printings is less complete, and its interpretation by scholars
+          less accurate, than one would wish. The first to offer any information on the subject were
+          Bentley and Nurmi, who in their 1964 <hi rend="i">Blake Bibliography</hi> quote from
+          pertinent documents in the Joan Linnell Ivimy collection. Since John Linnell had
+          commissioned the Dante illustrations from Blake in 1824, and since the copperplates
+          remained in the Linnell family’s possession until their sale to Lessing J. Rosenwald in
+          1937, these records have considerable authority. In a “List of John Linnell Senior’s
+          Letters and Papers,” John Linnell, Jr., wrote that the Dante plates “have been printed at
+          two dates, after a few proofs by Blake—J[ohn]. L[innell]<hi rend="s">sen</hi>. in 1
+          S[eries]—(at Bayswater[)] had India proofs taken (all disposed of)[.] soon after J. Ls
+          death (J. L. jnr)—had 50 copies (india on drawing paper) printed by Holdgate.”<ref
+            target="n1" type="note">1</ref> This statement provides crucial information: there were
+          only two printings, laid India paper (or <hi rend="i">chine appliqué</hi>) was used for
+          both, and Holdgate Bros. printed the second issue of 50 impressions “soon” after Linnell’s
+          death in 1882. We are not informed, however, about the date, printer, and press run of the
+          first printing.<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> Fortunately,
+other records in the
+          Ivimy collection fill in these gaps. Two receipts from the plate printers Dixon &amp;
+          Ross, No. 4 St. James’s Place, indicate that £2.15s. was paid by Linnell on 26 September
+          1838 for “25 of each of 7 Plates Dante India,” and a further £1.10s. on 2 October 1838 for
+          “95 Imp<hi rend="s">rs</hi>. of 7 Plts. Dante India.”<supplied type="spacer"> </supplied><ref
+target="n3" type="note">3</ref>
+          These receipts make it clear that there were actually two early press runs. That they were
+          paid for only a week apart, and may have been performed even closer in time, accounts for
+          the younger Linnell’s reference to nineteenth-century printings at only “two dates,” a
+          habit continued by modern scholars but one that I will abandon here. As for the third
+          printing, a draft of a letter from John Linnell, Jr., to the London book dealer Bernard
+          Quaritch, dated 6 May 1892 states that the Dante “proofs” (i.e., impressions from the 1838
+          printings) had been “disposed of” and that the family was “about to obtain a few more
+          copies of proofs—similar to the former ones.” Bentley and Nurmi reasonably conclude that
+          “the second [i.e., third] commercial printing of the Dante plates was therefore about
+          1892” (89). <note id="n1"><hi rend="s">1</hi> G. E. Bentley, Jr., and Martin K. Nurmi, 
+              <hi rend="i">A Blake Bibliography</hi> (Minneapolis: Univ. of Minnesota Press, 1964) 89.
+            The interpolations in brackets are from Bentley and Nurmi.</note>
+	<note id="n2"><hi
+              rend="s">2</hi> The senior Linnell lived at 38 Porchester Terrace, Bayswater, from
+            1828 to 1851, and thus his son’s comment that the Dante plates were printed “at
+            Bayswater” (i.e., while the family lived there) is not very helpful in fixing a
+            date.</note>
+	<note id="n3"><hi rend="s">3</hi> Bentley and Nurmi 89. For information on
+            Dixon &amp; Ross (founded 1833) and its successor firm, see Iain Bain, “Thomas Ross
+            &amp; Son, Copper- and Steel-plate Printers since 1833,” <hi rend="i">Journal of the
+              Printing Historical Society</hi> no. 2 (1966): 3-22, and Tony Dyson, “The Ross
+            Records: 1833 to 1900,” <hi rend="i">Journal of the Printing Historical Society</hi> no.
+            12 (1977-78): 52-67.</note></p>
+        <p>The letter actually sent by the younger John Linnell to Quaritch has never been located,
+          but in October 1989 Arthur Freeman discovered a letter from another Linnell son, William,
+          in the archives of Bernard Quaritch, Ltd. The references to both the Job and Dante
+          engravings make this previously unrecorded letter worth printing in full: 
+		<q> May 18<hi
+              rend="s">th</hi>. 92 The Avenue 76 Fulham Road SW<lb/>
+<lb/>
+ Dear M<hi rend="s">r</hi>
+            Quaritch<lb/>
+ I waited a few days before sending you the five sets of Job you
+            ordered—thinking I might send the Dante same time—but my brother <hi rend="i">James</hi>
+            whom I saw yesterday tells me that there is a hitch in getting the Dante printed because
+            the man whom my father employed &amp; whom we wish to do it now <hi rend="i">is
+            ill</hi>, though he is expected soon to recover— I told my brother that I would
+            undertake to get it done safely &amp; as well by some others—but in the country they are
+            I think too conservative &amp; slow coach—however I will have my man bring up the 10
+            sets of Job either tomorrow or Friday—I was about writing fathers to bring me 5 sets
+            tomorrow but if they cannot look out the 10 in time he will bring them up Friday. With
+            regard to the printing of the Dante it occurs to me that perhaps you might know who is
+            the best copperplate printer in London and if you know that he is also thoroughly
+            trustworthy (supposing we left the plates in his hand for a time) I think we might save
+            time.—of course I should give the printer precise instructions as to the style of
+            printing, etc.<lb/>
+ With regard to the <hi rend="i">Papers</hi> which you alluded to in
+            a previous letter—have you any suggestions to make as to <hi rend="i">the particular
+              kind?</hi><lb/>
+ I rather think that Whatmans drawing paper is the nearest in quality
+            and appearance to the old prints. I mean India on Whatman. So at present I cannot say
+            any definite time when the Dante will be ready—but I will endeavour to get on as fast as
+            I can make my brother James move on—he being Co Trustee we must go together.<lb/>
+<lb/>
+            Yours dearly and very truly<lb/>
+ William Linnell </q></p>
+        <pb id="p24-81" n="81"/>
+        <p>Several details in this letter are significant. Since the elder Linnell died in 1882,
+          “writing father[’]s” for more Job impressions must refer to his home at Redstone Wood,
+          Redhill, Surrey, which John Linnell, Jr., probably inherited as the eldest son.
+          Surprisingly, there is no direct reference to John Jr. (born 1821), for the letter is
+          written as though William (born 1826) and James (born 1823) had sole responsibility for
+          the reprinting of the Dante plates.<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> William’s request
+          for advice on finding a printer for the plates opens up the possibility that Holdgate was
+          chosen on Quaritch’s recommendation. In his draft letter of 6 May, John Jr. notes that the
+          restrikes should be “similar” to the 1838 impressions. William’s letter stresses this
+          desire to imitate the earlier printings and alerts us to the possibility that impressions
+          on Whatman paper are from the c. 1892 printing. <note id="n4"><hi rend="s">4</hi> All
+            information about the Linnell family is taken from Alfred T. Story, <hi rend="i">The
+              Life of John Linnell</hi>, 2 vols. (London: Bentley and Son, 1892), based in large
+            part on the elder Linnell’s manuscript autobiography, and Katharine Crouan, 
+              <hi rend="i">John Linnell: A Centennial Exhibition</hi> (Cambridge: Cambridge UP, 1982). I have
+            not been able to find the death dates of any of the Linnell brothers. Presumably John
+            Jr. was still alive in 1892, if Bentley and Nurmi and Keynes (see note 5) are correct in
+            ascribing the draft letter in the Ivimy collection to his hand.</note></p>
+        <p>The 1838 receipts, quoted above, are unambiguous as to the number of impressions (25)
+          taken from “each of 7 Plates” in the first printing; but the record of the second
+          printing, paid for <figure n="DantePitOfDisease.24.3.bqscan" rend="file" width="550" height="417">
+            <head>1. Dante engravings plate 6, “The Pit of Disease: The Falsifiers.”</head>
+            <figDesc>Image 24.1 × 34 cm., plate-mark 27.7 × 35.6 cm. Pre-publication proof, probably
+              printed by Blake. British Museum, Department of Prints and Drawings.</figDesc>
+          </figure> on 2 October, leaves the precise number in doubt. Did Dixon &amp; Ross pull 95
+          impressions of <hi rend="i">each</hi> of the seven plates, thereby producing 95 complete
+          sets, or a <hi rend="i">total</hi> of 95, thereby yielding 13 Dante sets plus four extra
+          prints? The former might seem the more likely, in spite of the absence of the word “each,”
+          since the first receipt records the number of sets rather than the total number of
+          impressions. At least this would appear to be the reasoning behind Sir Geoffrey Keynes’s
+          statement, in his revised <hi rend="i">Blake Studies</hi> of 1971 and again in the Blake
+          Trust facsimile of the Dante engravings (1978), that a total of 120 sets were printed in
+          1838 (i.e., the 25 paid for on 26 September plus 95 paid 2 October).<supplied type="spacer"> </supplied><ref target="n5"
+            type="note">5</ref> This figure has been frequently repeated by dealers and auction
+          houses and seems to have been widely accepted as an indisputable fact. But one detail in
+          the 1838 receipts should give us pause. If 25 sets cost £2.15s. on 26 September, why would
+          95 cost only slightly more than half that amount six days later? 
+              <note id="n5"><hi rend="s">5</hi> Keynes, “A Note on the Later History of the Dante
+Engravings,” 
+              <hi rend="i">Blake Studies: Essays on His Life and Work</hi>, 2nd ed. (Oxford: Clarendon
+            Press, 1971) 228-29 (the first publication of this “Note”); <hi rend="i">Blake’s
+              Illustrations of Dante</hi> (London: Trianon Press for the Blake Trust, 1978) [2]. In
+            the 1978 volume, Keynes states that “one hundred sets” were printed c. 1892 ([2]), but
+            gives no documentary evidence for this number, twice as large as the figure recorded by
+            John Linnell, Jr. I assume that Keynes is simply mistaken on this point. Todd, in his
+            essay on the twentieth-century restrikes (see note 13), repeats Keynes’s figure for the
+            c. 1892 printing and claims that “170 sets” were printed in 1838 (p. 4 in the last
+            version of Todd’s essay). Todd cites Bentley and Nurmi (88-89) as the authority for this
+            latter number, but they say nothing about the number of impressions pulled in 1838 other
+            than quoting the receipts. I take Todd’s “170” to be another error.</note></p>
+        <p>Bentley provides answers to the questions surrounding the 1838 press runs in his 
+            <hi rend="i">Blake Books</hi> of 1977. He prints therein the following transcription made by
+          Iain Bain from the day-books (i.e., business records) of Dixon &amp; Ross: 
+		<q> Wednesday
+            26 September 1838<lb/>
+ Mr Linnell 25 of each of 7 plts Dante Ind[<hi rend="i">ia</hi>]<lb/>
+ 87 1/2 Sh[<hi rend="i">ee</hi>]ts. of th[<hi rend="i">ic</hi>]k. pl[<hi
+              rend="i">a</hi>]t[<hi rend="i">e</hi>]<lb/>
+ Col[<hi rend="i">ombier</hi>] 
+              [<hi rend="i">i.e. 2 pulls per sheet</hi>]<lb/>
+ 25 [sheets] of India [<hi rend="i">7 pulls
+              per sheet</hi>]<lb/>
+ Saturday Sept<hi rend="s">r</hi> 29th 1838<lb/>
+ Mr Linnell 95
+              Imp<hi rend="s">ns</hi> of 7 plts Dante India [<hi rend="i">i.e. 13 4/7
+            sets</hi>]<lb/>
+ 47 Shts of Plt. Col. [<hi rend="i">2 pulls per sheet</hi>]<lb/>
+ 13 4/7
+            [sheets] of India [<hi rend="i">7 pulls per sheet</hi>]<ref target="n6" type="note">6</ref>
+	<note id="n6"><hi rend="s">6</hi> G. E. Bentley, Jr., <hi rend="i">Blake
+                Books</hi> (Oxford: Clarendon Press, 1977) 545. Except for “[sheets]”, used here in
+              the place of ditto marks in the original, the bracketed interpolations are
+              Bentley’s.</note></q>
+This daybook apparently records the actual printing, as distinct
+          from the billing dates, and thus the two press runs occurred only three days apart. As
+          Bentley’s bracketed interjections indicate, these two printings yielded 38 sets (and four
+          additional impressions), not the proverbial 120. His accurate figure is crucial in shaping
+          expectations about extant suites of the engravings. If the larger number had been
+          produced, then we could expect that most extant sets were printed in 1838 since only 50
+          were produced c. 1892. But we now know that well over half of the 88 documented
+          nineteenth-century impressions on laid India were printed c. 1892. Given the additional 54
+          years in which the 1838 impressions could have been destroyed or lost, we can expect most
+          extant suites to consist of c. 1892 impressions.</p>
+        <p>Both 1838 press runs recorded in the Dixon &amp; Ross daybook used “Col[<hi
+rend="i">ombier</hi>]” paper. This apparent reference to the venerable French papermaker was
+          probably the basis for Keynes’s assertion that all 1838 impressions are on “French
+          Colombier paper.”<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> However,
+by the late eighteenth
+          century, “Colombier” was regularly used in reference to a sheet <hi rend="i">size</hi>,
+          not a specific manufacturer or country of origin.<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref> The
+          Colombier produced by Whatman, whose paper Blake used for many of 
+<pb id="p24-82" n="82"/>
+          his illuminated books and the Job engravings, measures 34 1/2 × 23 1/2 inches (87.6 × 59.7
+            cm.).<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> Further, the Dixon
+&amp; Ross daybooks show
+          that the firm acquired five quires of Colombiersize paper in 1835 from S. Tipper &amp;
+          Co., agents for Whatman.<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref>
+Thus, there is no reason to
+          assume that any 1838 impressions were printed on a paper of French manufacture. A French
+          paper may have been used, but I have yet to find a Dante set, or any record of a set,
+          definitely printed on such a paper. <note id="n7"><hi rend="s">7</hi><hi rend="i"> Blake’s
+              Illustrations of Dante</hi> [2]. In <hi rend="i">Blake Studies</hi>, Keynes calls the
+            backing sheets for the laid India “(French) Colombier plate paper” (228).</note>	
+            <note id="n8"><hi rend="s">8</hi> See E. J. Labarre, <hi rend="i">A Dictionary of Paper and
+              Paper-Making Terms</hi> (Amsterdam: Swets &amp; Zeitlinger, 1937) 54.</note>	
+            <note id="n9"><hi rend="s">9</hi> See Whatman’s mold sizes recorded in Thomas Balston, 
+              <hi rend="i">James Whatman Father &amp; Son</hi> (London: Methuen, 1957) 61. Labarre 54
+            gives the same dimensions as the standard for Colombier.</note>
+	<note id="n10"><hi
+              rend="s">10</hi> Bain 7.</note></p>
+        <p>Armed with the documentary record surveyed above, we can now turn to extant suites of the
+          Dante engravings. Our concern should focus on the quality of the impressions, particularly
+          as this shows various amounts of wear indicative of printing sequences, and the paper on
+          which they are printed. Handwritten inscriptions and provenance information can also
+          supplement the primary physical evidence.</p>
+        <p>We can begin by setting aside the easily-identifiable impressions pulled in this century.
+          In 1953-55, Rosenwald had sets printed on heavy, dead-white wove paper with a surprisingly
+          bold, pebble-grain surface. The plates had to be printed with considerable pressure in
+          order to smooth the paper sufficiently to register fine lines. In a complete suite of
+          these restrikes in the Huntington Library, San Marino, California, each sheet measures
+          35.5 × 50.5 cm. and is inscribed in pencil, lower right, “Impression taken from the copper
+          plate in my collection 1953-4[.] Lessing J Rosenwald 4/19/55.” One sheet shows a watermark
+          (“MADE IN ENGLAND [space of approx. 15 cm.] LINEN FIBRE”); another bears a few fragments
+          of these letters. A set in the National Gallery of Victoria, Melbourne, has the watermark
+          on four sheets, plus a countermark (“UNBLEACHED ARNOLD”) on the remaining three, and is
+          inscribed on each plate, “Impression taken from the plate in my collection in 1955[.]
+          Lessing J. Rosenwald 1/20/60.”<supplied type="spacer"> </supplied><ref target="n11"
+type="note">11</ref> I suspect, but cannot
+          confirm, that all these restrikes bear some 
+            <figure n="bb448.1.4-3.ps" id="bb448.1.spb.04" work-copy="bb448.1" rend="db" width="958" height="701">
+	<figTranscr/>
+            <head>2. Dante engravings plate 3, “The Baffled Devils Fighting.”</head>
+            <figDesc>India paper laid on wove, image 24.1 × 33.4 cm., plate-mark 27.9 × 35.6 cm.
+              Formerly Essick collection.</figDesc>
+          </figure> version of the pencil inscription. The dates following the signature apparently
+          record the time of inscription and presentation, not printing. Keynes, <hi rend="i">Blake
+            Studies</hi>, notes that “twenty sets, with three extra prints of the first plate” (229)
+          were produced in this reprinting. He records the same number of sets, without reference to
+          the extra pulls of plate 1, in <hi rend="i">Blake’s Illustrations of Dante</hi> ([3]).
+          Todd, <hi rend="i">Blake’s Dante Plates</hi> (see note 13), states that Rosenwald wrote
+          him, “on August 22 [1968?], that to the best of his recollection, 25 sets were pulled in
+          1955” (4). Fortunately, the differing statements about the date and number printed do not
+          hinder the recognition of the c. 1954 impressions on the basis of the pencil inscriptions
+          and paper. Some plates yielded fairly decent impressions in this printing, but others are
+          weak and flat. Plate 3, “The Baffled Devils Fighting,” is little better than a pale ghost
+          in the Huntington set.<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref>
+	<note id="n11"><hi rend="s">11</hi> According to Ted Gott, “Eternity in an Hour’: The Prints of William
+Blake,”
+            in Martin Butlin and Gott, <hi rend="i">William Blake in the Collection of the National
+              Gallery of Victoria</hi> (Melbourne: National Gallery of Victoria, 1989)
+            187-88.</note>
+	<note id="n12"><hi rend="s">12</hi> I take the titles for each plate from
+            those given the corresponding water colors in Martin Butlin, <hi rend="i">The Paintings
+              and Drawings of William Blake</hi> (New Haven: Yale UP, 1981).</note></p>
+        <p>Rosenwald commissioned a further printing of 25 sets in 1968.<supplied type="spacer"> </supplied><ref target="n13"
+            type="note">13</ref> These were pulled by Harry Hoehn, who thoroughly cleaned the
+          copperplates, on Japanese “Kochi,” a laid paper, with one set on “German copper-plate”
+          (Todd 5). The Kochi paper (or “Koji,” the name of a papermaking district, not a specific
+          manufacturer) is fairly thick but soft, with a much smoother surface than the pebble-grain
+          paper used c. 1954. In a letter dated 29 July 1968 to Ruthven Todd, Rosenwald stated that
+          he inscribed each impression in pencil, “Printed by Harry Hoehn 7/68 . . . Restrike from a
+          plate in my collection . . . Lessing J. Rosenwald” (Todd 6). A 1968 suite on thick wove
+          paper (apparently the “German copper-plate”) in the Rosenwald Collection, National Gallery
+          of Art, Washington, lacks the reference to Hoehn but is inscribed on each plate, lower
+          right just beneath the image, “A restrike from the copperplate in my collection August
+          1968[.] Lessing J Rosenwald” (see illus. 5). This set, with a sheet size approximately
+          36.5 × 45 cm., also bears a light pencil inscription lower in the right corner on all but
+          plate 4, “printer’s proof 7/68,” written by Ruth Fine, Curator of the Rosenwald
+          Collection. According to Gott (see note 11), the 1968 set in the National Gallery of
+          Victoria 
+<pb id="p24-83" n="83"/>
+          <figure n="bb448.1.4-3.ps.detail" rend="file" width="958" height="730">
+            <head>3. Detail of illus. 2.</head>
+          </figure> bears Rosenwald’s inscription plus a separate pencil note: “21/25 [i.e.,
+          impression 21 of a total of 25] Hoehn imp [19]68.” Another such set, described as printed
+          on “Koji” paper, was offered at Sotheby’s New York on 22 June 1977, lot 43A, but brought
+          only $400. Other 1968 sets on Kochi paper are in the National Gallery of Art, Washington
+          (sheets 38.1 × 45.7 cm.), the British Museum, Department of Prints and Drawings, the Tate
+          Gallery, and the collection of G. E. Bentley, Jr. <note id="n13"><hi rend="s">13</hi>
+            Information about the 1968 printing is taken from Ruthven Todd, “Blake’s Dante Plates,”
+              <hi rend="i">Times Literary Supplement</hi> (29 August 1968): 928, and its two
+            revisions: “Blake’s Dante Plates—Revised Version,” <hi rend="i">Book Collecting &amp;
+              Library Monthly</hi> no. 6 (October 1968): 164-71, and <hi rend="i">Blake’s Dante
+              Plates, Reprinted, with Additions, from the October 1968 Issue of</hi> Book Collecting
+            &amp; Library Monthly (n.p., n.d.). All references to Todd are to the final version. The
+            complete 1968 set in the National Gallery of Victoria is reproduced in Gott, figs.
+            50a-g.</note></p>
+        <p>In his essays, Todd is forthrightly critical of the c. 1954 impressions but praises the
+          1968 restrikes. He states that the latter are “more brilliant and show far more detail
+          than any” others he had ever seen (6). Keynes is far more restrained, pointing out that
+          “whether the result obtained [in 1968] with rather heavy inking (on dead-white Chinese 
+            [<hi rend="i">sic</hi>] paper) compares favourably with the first printing . . . is a matter
+          of individual taste and judgement” (<hi rend="i">Blake’s Illustrations of Dante</hi> [3]).
+          As a comparison between the nineteenth-century impressions of plate 3 (illus. 2 and 4) and
+          a 1968 print (illus. 5) reproduced here will indicate, the heavy inking was only partially
+          successful in bringing out the fine lines, such as those defining the mountain ridges and
+          clouds top right, and had the unfortunate consequence of obscuring the distinctions
+          between individual lines in densely engraved areas on the fighting devils and in the fiery
+          lake lower left. This latter effect violates the linearist aesthetic implicit in the
+          engraving style Blake deployed in his Dante plates. In my view, the 1968 restrikes are
+          greatly inferior to all the nineteenth-century impressions I have seen. But no matter what
+          one’s opinions may be about the two twentieth-century printings, they offer no problems in
+          identification.</p>
+        <p>The very earliest impressions of the Dante plates can also be recognized easily. In his
+          memorandum quoted earlier, John Linnell, Jr., mentions that “a few proofs” were pulled “by
+          Blake” himself. In this context, the word “proofs” might mean nothing more than
+          “impressions,” but at least some of them represent states earlier than those found in the
+          1838 and all subsequent printings. The identification of these earliest extant Dante
+          prints rests simply on their states. I describe below the few proof-state impressions I
+          have been able to locate.</p>
+		<q> Pl. 1, “The Circle of the Lustful: Francesca da Rimini (‘The Whirlwind of Lovers’).”
+          Princeton University Art Museum, Princeton, New Jersey. Lacking many lines of shading and
+          radiance, the drypoint inscription in reverse letters lower right (“The Whirlwind of
+          Lovers from Dantes Inferno Canto V”), the hands of the couple in the sphere upper right,
+          and the inverted head between the whirlwind and the waves just left of the peninsula on
+          which Dante lies. The heads of the two figures in the top left corner are re-cut in
+          slightly different positions in the published state. Darkly but crudely inked. Reproduced
+          Keynes, <hi rend="i">Blake’s Illustrations of Dante.</hi> Laurence Binyon, 
+            <hi rend="i">The Engraved Designs of William Blake</hi> (London: Ernest Benn, 1926), lists an even
+          earlier state in which the “forms of the lovers are hardly more than outlines” and “there
+          is a white patch in the river-bank under Virgil’s figure” (76). This was probably one of
+          the unstated number of “proofs in early states” Binyon notes as then belonging “to Mrs.
+          Sydney Morse” (76), but I have not been able to locate an impression of it. The other
+          Morse proofs were probably those for pls. 2, 6-7 (described below), accessioned 13 July
+          1929 by the British Museum.<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref> There were no Dante
+          plates in the auction of the Sydney Morse collection, Christie’s, 26 July
+            1929.<lb/>
+<lb/>
+<note id="n14"><hi rend="s">14</hi> Bentley, <hi rend="i">Blake
+              Books</hi> 546, records “proofs of each [Dante plate] in the BMPR,” but I have been
+            able to locate only the three described here. The handlist of the British Museum
+            collection in <hi rend="i">Blake Newsletter</hi> 5 (1972): 236, lists “Five Dante trial
+            proofs” of pls. 2 (two impressions), 4, 6-7, accession nos. 1929.7.13.273-77, but two of
+            these (pl. 2, no. 274, and pl. 4, no. 275) are in their published states.</note> Pl. 2,
+          “Ciampolo the Barrator Tormented by the Devils.” British Museum, Department of Prints and
+          Drawings, accession no. 1929.7.13.273. Some of the spiky wings around the devils on the
+          right lack hatching strokes. A little more hatching appears on the upper thigh of the
+          front-most seated figure on the right. This work appears to have been burnished away in
+          the published state to create a highlight.<lb/>
+<lb/>
+ Pl. 4, “The Six-Footed Serpent
+          Attacking Agnolo Brunelleschi.” Fitzwilliam Museum, Cambridge, bequeathed by T. H. Riches
+          in 1935 and accessioned 1950. Printed in dark sepia and lacking hatching strokes on the
+          serpent’s wings, the chest, stomach, and left hip of the man (Brunelleschi) in the
+          serpent’s grasp, on the upper left thigh of the man on the right and on the stomach of his
+          companion (second figure from the right), on the robe worn by Dante (left-most figure), on
+          the ground beneath his 
+<pb id="p24-84" n="84"/>
+feet, lower left, and in the landscape
+          background to the left of Dante’s right upper arm and to the right of Virgil’s hands.
+          Brunelleschi’s left thigh bears some hatching that was burnished away in the published
+          state to create a highlight. The spiky vegetation below and to the left of Brunelleschi’s
+          right foot has been burnished away on its left side in the published state. The lower
+          reaches of the rock above and to the left of this vegetation have also been removed.
+          Reproduced Keynes, <hi rend="i">Blake’s Illustrations of Dante.</hi><lb/>
+<lb/>
+ Pl. 6, “The
+          Pit of Disease: The Falsifiers.” British Museum, Department of Prints and Drawings,
+          accession no. 1929.7.13.276 (illus. 1). Three figures in the lower left corner are
+          incomplete; two are only scratched in outline. The figure on all fours just to the right
+          and the supine figure above lack some shading strokes. The densely packed lines in the
+          sky, just to the right of the arch of stony figures on the left, lack a few strokes. The
+          faces of Dante and Virgil, upper left, are incomplete. This proof state may also lack some
+          cloud lines top right, but the abraded surface of the print in this area leaves the matter
+          indeterminable.<lb/>
+<lb/>
+ Pl. 7, “Dante Striking Against Bocca degli Abati.” Houghton
+          Library, Harvard University, Cambridge, Massachusetts, bequeathed by Philip Hofer in 1984.
+          Virgil’s left hand is raised to his face rather than to his chest (published state).
+          Lacking many shading lines on the standing figures, particularly Virgil, the crosshatching
+          on Abati’s right shoulder and a few lines around his mouth, and the tears on the cheeks of
+          the old man on the left side of the column of figures on the right. Reproduced Keynes, 
+            <hi rend="i">Blake’s Illustrations of Dante.</hi> A later proof state in the British Museum,
+          Department of Prints and Drawings, lacks only the finishing strokes defining the hands of
+          the standing figures and a few lines on their clothing (accession no. 1929.7.13.277). </q>
+        <p>In <hi rend="i">Blake Studies</hi>, Keynes states that lot 179 in the Linnell sale at
+          Christie’s, 15 March 1918, contained a “set of early proofs, probably those made by Blake
+          himself” (229). Although Keynes may have inspected this lot (sold to Colnaghi for
+          £26.5s.), he offers no evidence for this claim, which on the face of it seems unlikely.
+          The auction catalogue describes this lot as “India Proof Impressions, before all letters,
+          loosely inserted in an oblong folio vol., boards.” None of the traced working proofs are
+          on laid India, <figure n="DanteEngravingsPl3.24.3.bqscan" rend="file" width="550" height="417">
+            <head>4. Dante engravings plate 3.</head>
+            <figDesc>India paper laid on wove. Lessing J. Rosenwald Collection, National Gallery of
+              Art, Washington.</figDesc>
+          </figure> whereas all the nineteenth-century impressions recorded in the Linnell family
+          papers and the Dixon &amp; Ross daybook are. Even in their final states, none of the
+          plates bears any letters (signature, imprint, title below the image), except for the
+          easily-over-looked scratched inscription in reverse within the design on plate 1. The next
+          lot (180) is described as “Five Similar Sets” (£22.1s. to Maggs, a price perhaps
+          influenced by the condition of the prints), and the next lot is also called “Five Similar
+          Sets” (£31.10s. to Riches). Thus, nothing in the catalogue clearly separates the “Proof
+          Impressions” from those which were almost certainly in final states. In this context,
+          “Proof” probably means nothing more than “early.” The mere fact that all these lots were
+          sold by the Linnell family is of no significance in determining states or printing dates
+          in the nineteenth century. In recent years, dealers and auction houses have sometimes
+          trumpeted the claim that a Dante set on laid India paper is “from the Linnell Family,” or
+          something to that effect. They can never go wrong with this assertion about India-paper
+          impressions, for <hi rend="i">all</hi> originally belonged to the Linnells.</p>
+        <p>The next impressions to be pulled after Blake’s own working proofs are probably those
+          printed directly on laid paper (not to be confused with India paper laid on wove) showing
+          clear wire and chain lines, the latter approximately 3.7 cm. apart. Such a set was sold
+          from the Doheny Memorial Library at Christie’s New York, 21 February 1989, lot 1713, plate
+          2 illustrated in the auction catalogue (sold to the New York dealer Donald Heald for
+          $60,500). Part of a watermark, or countermark, “A &amp; D,” is present in plate 3. The
+          heavy foxing of most impressions in this set cannot mask the fact that these are superb
+          impressions that justify the record price. All major engraved lines are dark, rich, and
+          precise, while the drypoint sketching lines yet to be cut with the graver are delicately
+          yet fully printed. Each plate in this suite reveals its superiority over all India-paper
+          impressions I have seen. 
+        <pb id="p24-85" n="85"/> 
+          Much of this excellence is the result of
+          expert inking and wiping of the plates’ surfaces, but the quality of these impressions
+          also indicates that the copperplates had not begun to show any effects of wear. The
+          clarity with which each line is printed, even in densely-engraved passages, without any
+          blurring of the boundaries between lines, suggests that the edges of each incision were
+          still sharp and had not yet rounded to a gradual slope. This rounding can begin to occur
+          after as few as ten impressions have been pulled from a copperplate. This initial wear is
+          probably caused both by running the plates through the rolling press and by the inking
+          process, for the craftsman must wipe the surface of an intaglio copperplate with dozens of
+          strokes of his hand in preparation for taking a single impression.</p>
+        <p>As Thomas Lange has reminded me, another fine set on laid paper, also nastily foxed, is
+          in the Pierpont Morgan Library, New York. A mixed group, with plate 1 on India laid on
+          wove, lacking plate 4, and plates 2-3, 5-7 on laid paper, was sold in London at
+          Christie’s, 29 June 1989, lot 13, plate 2 illustrated in the auction catalogue (£24,200 to
+          the London print dealer William Weston). From this group I have seen only plate 3; but the
+          auction catalogue reports that plates 6 and 7, both on the laid stock, show “part of a
+          watermark [or countermark?] A &amp; D.”<supplied type="spacer"> </supplied><ref target="n15"
+type="note">15</ref> Weston tells
+          me that these impressions were foxed badly enough to require careful cleaning; clearly,
+          this laid paper has an inherent tendency to become stained in this way. Yet, in my view,
+          they are the most desirable impressions of the published states. 
+              <note id="n15"><hi rend="s">15</hi> I am unable to identify this watermark, but it may have been
+produced
+            by John Dickinson at the Apsley Mill he acquired in 1809—see W. A. Churchill, 
+              <hi rend="i">Watermarks in Paper</hi> (Amsterdam: Hertzberger &amp; Co., 1925)
+          48.</note></p>
+        <p>The existence of the laid-paper prints is more than a little disconcerting. Blake used
+          wove paper for almost all his illuminated books and original separate plates he printed
+            himself.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> Linnell
+consistently favored India paper
+          laid on wove and probably influenced Blake’s choice of those papers for some of his late
+          intaglio graphics, including the “proof” issue of the Job illustrations in 1826. The
+          documentary record of Dante printings makes no mention of laid-paper impressions. Indeed,
+          that record would seem to exclude them, for all the press runs noted by John Linnell, Jr.,
+          and the Dixon &amp; Ross daybook specify India paper. The laid-paper impressions suggest
+          an unrecorded press run early in the history of the Dante plates. And if there was one
+          such printing, might there have been others? I have no clear evidence of any further
+          printings, but the mere possibility gives one pause before making bold statements about
+          the total number of Dante impressions and their dates. <note id="n16"><hi rend="s">16</hi>
+            The only exceptions known to me are copy L of <hi rend="i">The Marriage of Heaven and
+              Hell</hi> (“A Song of Liberty” only, printed as a pamphlet of two leaves), the unique
+            firststate impression of “Joseph of Arimathea Among the Rocks of Albion” (Fitzwilliam
+            Museum), perhaps printed in the 1770s when Blake as still an apprentice, and the unique
+            impression of “Charity” (British Museum).</note></p>
+        <p>The quality of the laid-paper impressions indicates a printing date before the first
+          India paper pulls of 26 September 1838. It is unlikely that they were printed by Blake
+          himself. He left all seven Dante plates unfinished at his death in 1827, and there would
+          have been no reason to print fine sets of the plates while there was any hope of
+          developing them to a more complete state. Blake’s own working proofs, listed above, show
+          areas of careless inking, as is often the case when a printmaker is taking impressions
+          merely to check his progress. Perhaps the laid-paper impressions were taken by Dixon &amp;
+          Ross, or some other plate printer, just prior to the first recorded printing as a way of
+          showing Linnell how expertly they could perform the task. This speculation, however, does
+          not explain why at least two full sets, plus at least a third impression of plates 2-3,
+          5-7, were printed. The mysteries surrounding these beautiful laid-paper impressions only
+          enhance their desirability.</p>
+        <p>We are now left with a variety of India-paper impressions, printed in two press runs in
+          1838 and one c. 1892—if we can still trust the completeness of the documentary record. How
+          can these be sorted out and ascribed to the printing in which each was produced? Detailed
+          comparisons of printing quality (never fully captured by photographs) and paper types (at
+          best only hinted at by photos) are hindered by the wide dispersal of the Dante sets. The
+          largest group I have found in one place is in the Huntington Library, but its four
+          complete copies, plus one set in my collection, provide only a small sampling of the whole
+          number extant. Visual memory, propped up by photos, must serve in such circumstances, in
+          spite of their obvious limitations. The dimensions and thicknesses of backing papers can
+          also be useful, but these too have their limits. Only untrimmed sheets can tell us what
+          the original (and presumably uniform) sheet size was. The thickness of the same hand-made
+          stock, even when produced in the same mold, can vary by measurable amounts. Even a single
+          sheet can yield measurements that vary as much as 25%, depending on where one places the
+          micrometer or paper gauge. All that follows should be understood in light of these
+          caveats.</p>
+        <p>Among the dozen or more India-paper suites I have seen over the years, I have found a
+          surprising uniformity in the quality of the impressions. The Linnell family was too
+          successful, as far as my research is concerned, in replicating the 1838 impressions in
+          1892. There are of course small differences, but these can be accounted for by differences
+          in inking of the sort that can occur within a single press run. Fortunately, one plate
+          escapes this frustrating uniformity. Its special qualities require some background
+          explanation.</p>
+        <p>Blake executed the Dante plates in a combination of drypoint, used mostly for preliminary
+          sketching of outlines, and pure engraving without etching. In the latter technique, the
+          tool is pushed through the metal to create V-shaped incisions. The metal removed takes the
+          form of thin, curling wires. These are removed from each line as the engraver works over
+          the plate. A drypoint needle creates a very different by-product. As the craftsman drags
+          the needle across the metal surface, it leaves behind a “burr” on one or both sides of the
+          furrow, much like the wake behind a 
+<pb id="p24-86" n="86"/>
+speedboat. This burr will
+          catch and hold ink, even after the printer has wiped the surface of the metal clean, and
+          its presence will register in impressions from the plate as a slight fuzziness or
+          striations along the margins of drypoint lines. The burr, however, wears off the plate
+          very quickly, and thus can serve as a useful (albeit approximate) index of the relative
+          printing dates of two impressions if at least one shows some burr. That is, an impression
+          with rich burr will probably be earlier than one with only a little, and this second
+          impression earlier than one with none at all.</p>
+        <p>All the Dante plates show evidence of drypoint sketching, but only one shows any clear
+          evidence of burr even in the early laid-paper impressions. Blake’s friend George
+          Cumberland held that “the very early impressions of ancient [meaning early Italian] Prints
+          in general” are not “the best, as they partake of <hi rend="i">the remainders of</hi> the
+          Burrs, . . . but the best are those clear impressions which came early afterwards, when
+          the Printer’s hand had entirely destroyed that Burr, and well polished the plate at the
+          same time.”<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> The graphic
+style of the Dante plates
+          owes much to Italian Renaissance prints, particularly those by Andrea Mantegna and his
+            circle.<supplied type="spacer"> </supplied><ref target="n18" type="note">18</ref> If Blake shared
+Cumberland’s opinions
+          about such prints and made them a part of his own linearist, anti-chiaroscuro aesthetic,
+          then he may have purposely removed burr as he worked. The one exception is plate 3,
+          arguably the least developed in the series. Some impressions, including Heald’s on laid
+          paper, show rich burr in the swirling lines lower right (illus. 2), on Dante and Virgil,
+          in the landscape to the right, and on the seated figures center right (illus. 3). Just to
+          the left of Dante and Virgil is a cluster of drypoint scratches that barely penetrated the
+          copper except at their upper terminations. These are unrelated to the composition and are
+          probably an unavoidable consequence of Blake having tested his drypoint needle. Like the
+          burr, these shallow lines could be removed easily. If not erased, they would slowly wear
+          off the plate during inking. Impressions without burr, and with only the slightest
+          evidence of the scratched lines left of Virgil and Dante (illus. 4), are probably later
+          than those showing both these features (illus. 2). The alterations over time in the
+          condition of plate 3 are confirmed by the twentieth-century impressions, all of which show
+          no evidence of either burr or the scratched lines (illus. 5), and by the present
+          appearance of the copperplate (illus. 6). <note id="n17"><hi rend="s">17</hi> Cumberland,
+              <hi rend="i">An Essay on the Utility of Collecting the Best Works of the Ancient
+              Engravers of the Italian School</hi> (London: Payne and Foss et al., 1827)
+            20.</note>
+	<note id="n18"><hi rend="s">18</hi> See Robert N. Essick, <hi rend="i">William
+              Blake Printmaker</hi> (Princeton: Princeton UP, 1980) 250-54. Cumberland showed Blake
+            the manuscript of his <hi rend="i">Essay</hi> in November 1823 (G. E. Bentley, Jr., 
+              <hi rend="i">Blake Records</hi> [Oxford: Clarendon Press, 1969] 279).</note></p>
+        <p>The burr on plate 3 can serve as a rough indication of the relative chronology of
+          impressions from that plate and, by extension, the chronology of its companions in the
+          same suite—assuming that the suite is uniform as to paper, ink color, etc. Before applying
+          this rule of thumb to the India-paper impressions, a cautionary note must be sounded. Burr
+          records wear that occurs <hi rend="i">during</hi> inking and printing, not the gaps 
+            <hi rend="i">between</hi> print runs. All burr can be eliminated, gradually but completely,
+          in the course of a single printing or retained through the early pulls of the next, no
+          matter how many years pass between the two operations. It is highly unlikely for the very
+          last fragments of burr to appear in the last impression of a press run, and thus for the
+          first impression without burr to correspond precisely with the first pull of the next
+          printing. Further, the wiping of the plate during the inking process will affect the
+          amount of burr indicated in an impression. For example, the Weston impression of plate 3
+          on laid paper shows considerably less burr than the Heald impression on the same paper,
+          even though both were very probably pulled in the same early press run. The direction in
+          which the craftsman moves his hand for the final time over the burr areas will influence
+          the amount of ink they retain. And we cannot assume that commercial plate printers of the
+          last century took conscious measures to preserve evidence of burr or the test marks left
+          of Dante and Virgil. Thus, slight variations in the amount of burr serve as a poor index
+          of printing chronology. Only large-scale differences, such as those indicated by illus. 2
+          and 4, are very useful, and even then we must allow for the possibility that a few early
+          pulls show no burr and a few later ones reveal its continued presence. We can have the
+          most confidence in chronologies suggested by burr when supported by other types of
+          evidence.</p>
+        <p>The Heald impression of plate 3 printed directly on laid paper shows the richest burr I
+          have seen. But India-paper impressions laid on to a wove, hard surface, card-like paper,
+          .46 mm. thick and without a watermark, show almost as much burr and reveal the test marks
+          left of Dante and Virgil just as clearly. One such impression—the only one I have been
+          able to compare directly with others—is in a complete set, with all plates on the same
+          backing paper, in the Huntington Library (call no. 57438).<supplied type="spacer"> </supplied><ref
+target="n19" type="note">19</ref> This paper is so dense and thick that, when held to a backing light, it is
+          completely opaque. In the Huntington set, bound in late nineteenth- or early
+          twentieth-century full leather by Riviere &amp; Son, the backing sheets measure 40.5 ×
+          57.5 cm. (i.e., a little less than a half-sheet of Colombier) with all edges gilt. Another
+          such set, formerly in the collection of Sir Geoffrey Keynes,<supplied type="spacer"> </supplied><ref
+target="n20" type="note">20</ref> is beautifully reproduced full-size in his <hi rend="i">Blake’s
+Illustrations
+            of Dante.</hi> Its backing sheets measure 40.2×56.1 cm. Approximately the same
+          dimensions are found in the only other thick-paper set I have located, now in the Kerrison
+          Preston Blake Library, Westminster City Library, London.<supplied type="spacer"> </supplied><ref
+target="n21" type="note">21</ref> Both the Keynes and Preston sets are bound in green cloth with “BLAKE’S
+DANTE”
+          stamped in gilt on the front cover and the letterpress Dante label, printed by Linnell for
+          the 1838 issue, pasted to the inside front cover. This is probably the original binding in
+          which such suites were issued.<supplied type="spacer"> </supplied><ref target="n22"
+type="note">22</ref>
+	<note id="n19"><hi
+              rend="s">19</hi> This suite is wrongly described as “probably the restrikes of ca.
+            1892” in Robert N. Essick, <hi rend="i">The Works of William Blake in the Huntington
+              Collections</hi> (San Marino: Huntington Library, 1985) 209. All such sets are
+            similarly (and wrongly) characterized in Sotheby’s New York auction catalogue of 9-10
+            November 1989, lot 168.</note>
+	<note id="n20"><hi rend="s">20</hi> This set was not part
+            of Keynes’s bequest to the Fitzwilliam Museum. According to J. J. Hall, Under-Librarian
+            in the Rare Book Department, Cambridge University Library, the set cannot be located in
+            the Keynes Collection there.</note>
+	<note id="n21"><hi rend="s">21</hi> Very well
+            reproduced, with enlarged details from each plate, in David Bindman, assisted by Deirdre
+            Toomey, <hi rend="i">The Complete Graphic Works of William Blake</hi> ([London]: Thames
+            and Hudson, 1978) pls. 647-53. This may be the same as the set which Keynes describes as
+            similar to his own and “until recently, in the possession of the Linnell family” 
+              (<hi rend="i">Blake’s Illustrations of Dante</hi> [2]).</note>
+	<note id="n22"><hi rend="s">22</hi> This is also the conclusion stated independently about each of these
+copies
+            in Kerrison Preston, <hi rend="i">Notes for a Catalogue of the Blake Library at the
+              Georgian House Merstham</hi> (Cambridge: Golden Head Press, 1960) 10, and [Keynes],
+              <hi rend="i">Bibliotheca Bibliographici: A Catalogue of the Library Formed by Geoffrey
+              Keynes</hi> (London: Trianon Press, 1964) 65.</note></p>
+        <p>The conclusion, based on the presence of the burr, that these thick-paper 
+            <pb id="p24-87" n="87"/>
+sets are early impressions can be refined further by documentary evidence
+that
+          such prints were pulled in the first press run of 26 September 1838. One easily-overlooked
+          detail in the Dixon &amp; Ross daybook, quoted earlier, is particularly significant. The
+          backing paper of the first printing is listed as “th[<hi rend="i">ic</hi>]k,” whereas no
+          such adjective modifies the same “pl[<hi rend="i">a</hi>]t[<hi rend="i">e</hi>] Col[<hi
+            rend="i">ombier</hi>]” used for the second printing (29 September). Keynes reports that
+          the Dante set sold from the collection of the Marquis of Crewe at Sotheby’s, 8 May 1943,
+          lot 312 (£68 to the London dealer Francis Edwards), was “similar” to his thick-paper suite
+            (<hi rend="i">Blake’s Illustrations of Dante</hi> [2]) and was bound in the same green
+          cloth stamped in gilt (<hi rend="i">Blake Studies</hi> 228). This Crewe copy, now
+          untraced, bore an inscription on a flyleaf: “A few copies may be had of Mr. Chance, 28
+          London Street, Fitzroy Square, W, Artists Proofs £3.13.6. only 25 copies printed”
+          (Bentley, <hi rend="i">Blake Books</hi> 545). The Preston set contains a clipping, pasted
+          to the inside front cover, from an unidentified dealer’s catalogue that similarly claims
+          that the impressions are “Artist’s Proofs, only 25 copies printed.” These statements
+          further associate the prints on India paper laid on thick wove with the first press run.
+          To call them “Artist’s Proofs” is certainly misleading, particularly since the artist had
+          been dead for eleven years when they were printed, but the casual and self-serving use of
+          the word “proof” is hardly unique in the annals of print selling (see my earlier comments
+          on the 1918 Linnell sale). In this context, the term means, if it means anything at all,
+          that these impressions are from the first press run. The connection with “Mr. Chance” and
+          the number of “copies printed” are even more significant. In a letter dated 30 December
+          1856 (Ivimy collection), James H. Chance wrote as follows to his uncle, John Linnell: “I
+          received the case quite safe with the 2[<hi rend="i">?</hi>] sets[<hi rend="i">?</hi>] of
+          Dante &amp; Two proofs of Emmaus[<hi rend="i">?</hi>] which are very beautiful
+          (yesterday), and possibly I may be able to do something with them amongst my connexion.
+          The Dante <figure n="DanteEngraving1968Restrike.24.3.bqscan" rend="file" width="550" height="417">
+            <head>5. Dante engravings plate 3, restrike of 1968.</head>
+            <figDesc>Lessing J. Rosenwald Collection, National Gallery of Art, Washington.</figDesc>
+          </figure>
+<figure n="Dante.3.copperplate.bqscan" rend="file" width="550" height="430">
+            <head>6. Dante engravings plate 3, Blake’s original copperplate.</head>
+            <figDesc>Lessing J. Rosenwald Collection, National Gallery of Art, Washington.</figDesc>
+          </figure>
+<pb id="p24-88" n="88"/> &amp; Blake I have entirely on my own speculation being
+          partial to them and if I can do any thing with them I shall be happy to enter into some
+          agreements for 25 Copies. . . .”<supplied type="spacer"> </supplied><ref target="n23"
+type="note">23</ref> Whether Chance
+          carried out these plans is not known, but the inscription in the Crewe set indicates that
+          he sold at least one of the so-called “Artist’s Proofs” printed on India laid on thick
+          wove in the 26 September press run of 25 sets. Perhaps the Crewe and Preston sets are the
+          two Chance notes he had already received. <note id="n23"><hi rend="s">23</hi> Bentley, 
+              <hi rend="i">Blake Books</hi> 545. “Emmaus” very probably refers to Linnell’s line and
+            mezzotint print of his own painting, “The Journey to Emmaus,” dated 17 June 1839 in the
+            imprint. “Dante &amp; Blake” is a bit odd; perhaps Chance meant “Dante by
+          Blake.”</note></p>
+        <p>It would be most convenient if we were now left with India-paper impressions on only two
+          types of backing papers that could be ascribed confidently to the second (29 September
+          1838) and third (c. 1892) printings of the Dante plates. But the life of a chalcographer
+          is rarely that simple, and what I have found instead is a bewildering variety of just
+          off-white wove backing papers. All measure between .25 and .34 mm. in thickness and are
+          only semi-opaque when held to a backing light. These characteristics are useful in
+          distinguishing such prints from the thick-paper (.46mm.) impressions, but the range of
+          only .09 mm. in thickness is insufficient for making clear discriminations among
+          India-paper impressions on the thinner backing papers. Sheet sizes are of no help in
+          separating out 1838 and c. 1892 impressions since no India-paper print I have measured is
+          larger than the half-sheets (about 48×59.7 cm.) into which the Colombier-size paper was
+          cut for both 1838 press runs. Here again, the success the Linnells had in matching the
+          earlier prints in their c. 1892 restrikes thwarts the modern investigator.</p>
+        <p>Fortunately, some of the India-paper sets on the thinner backing papers can be identified
+          on the basis of watermarks. I list below those I know of, with a few other particulars
+          added.</p>
+		<q> 1. “1822” followed at a considerable distance by “II [followed by an illegible letter
+          fragment cut off],” with a countermark of “S &amp; [cut off].” This paper is at the lower
+          end of the range of thicknesses, is more pliable, and has a smoother and softer surface
+          texture than all others listed here. A complete and uniform set is in the Huntington
+          Library (call no. 57437), pl. 3 with the watermark fragment of letters, pls. 1, 3-7 with
+          the date, and pls. 1, 4-7 with the countermark fragment. Sheets 44.5 × 59 cm., deckle
+          edges right and bottom, minor foxing. A mixed group of nine impressions of the seven Dante
+          plates in the Rosenwald Collection, National Gallery of Art, Washington, shows the “1822”
+          watermark in pl. 2 only. Pl. 3 in the Huntington set shows considerable burr, roughly
+          equivalent to that found in the impression reproduced here as illus. 2.<lb/>
+<lb/>
+ 2.
+          Fragment of an italic capital “<hi rend="i">N</hi>,” the remainder trimmed off. Found in
+          pls. 1 and 3 of a complete (and apparently uniform) set in the Huntington Library (call
+          no. 283403). Sheets 39.5×54.4 cm., one or two edges with deckle, the India paper (but not
+          the backing paper) evenly browned on pl. 2. Pl. 3 shows no burr lower right and only very
+          slight burr on Dante and Virgil. Only ghosts of Blake’s test scratches remain. The same
+          amounts of burr and the scratches left of Dante and Virgil appear in a uniform set in my
+          collection, sheets 39 × 54 cm., one or two deckle edges, the India paper of pls. 2 and 5
+          evenly browned, showing fragments of the “<hi rend="i">N</hi>” watermark on pls. 1, 5, and
+          6. A fragment of this watermark is reported to be in a set offered by Serendipity Books,
+          Berkeley, California, December 1979, catalogue 39, item P 128, for $13,000 (untraced). The
+          dealer’s catalogue claims that there is more burr on this set than in the set owned by
+          Mrs. Landon K. Thorne (now in the Pierpont Morgan Library), which also contains fragments
+          of the “<hi rend="i">N</hi>” watermark.<lb/>
+<lb/>
+ 3. Letters, perhaps three or four, so
+          poorly formed and densely packed together that they are illegible. Found in pls. 1 and 3
+          of a complete (and apparently uniform) set sold from the collection of The Garden Ltd.,
+          formed by Haven O’More, Sotheby’s New York, 10 November 1989, lot 168 ($41,250 to Donald
+          Heald). Sheets 39.7 × 54 cm., no burr on pl. 3.<lb/>
+<lb/>
+ 4. “<hi rend="i">J. Whatman
+            Turkey Mills.</hi>” Variously reported in the following auction catalogues as present in
+          complete sets: Sotheby’s London, 7 March 1985, lot 200, with a reproduction of pl. 3
+          showing no burr lower right but with fragments of the scratches left of Dante and Virgil
+          as in illus. 4 (£23,100, untraced); Sotheby’s London, 27 June 1986, lot 747 (£24,200,
+          untraced); Sotheby’s London, 27 June 1988, lot 168 (£24,200, untraced); Sotheby’s London,
+          27 June 1989, lot 226, sold from the “Property of a Member of the Linnell Family”
+          (£38,500, untraced). Some of these may be resales of the same set, but it seems unlikely
+          that they all represent only a single set. </q>
+        <p>The information recorded above allows us to draw a few conclusions. More than one backing
+          paper must have been used in the second printing of 1838 and/or in the c. 1892 press
+          run—assuming that there was no unrecorded printing in addition to the fine early pulls on
+          laid paper (described earlier). It seems unlikely that the 1822 paper (no. 1, above) would
+          have been used c. 1892, and even a little surprising that it would have been available in
+          any quantity in 1838 (although the papermaker may have retained the 1822 mark in later
+          years). Perhaps the uneconomical size of the second recorded printing of 1838—only 13
+          sets—and the four extra pulls (what commercial use would they have had?) were dictated by
+          a limited amount of this 1822 paper. Of course this hypothesis assumes, rather rashly,
+          that no other backing paper was used in the 1838 second printing. The presence of burr on
+          the only impression located of plate 3 printed on this paper buttresses the conclusion
+          that it was used in 1838.</p>
+        <p>All other backing papers listed here, nos. 2-4, are remarkably similar, at least to my
+          eyes and fingers, as to color, texture, and density. William Linnell’s statement, in his
+          recently discovered letter to Quaritch quoted earlier, that he preferred Whatman paper for
+          the c. 1892 impressions does not insure that it was actually used; but this letter does
+          lend support to the evidence of the burr (or lack thereof) on at least one impression of
+          plate 3 indicating that sets on Whatman were pulled c. 1892. Circumstantial evidence,
+          cited and interpreted (probably by Richard Godfrey) in Sotheby’s 27 June 1986 catalogue,
+          further tips the scales toward 1892. The set sold in lot 747, with one backing sheet
+          showing part of the Whatman watermark, was the suite Keynes acquired from “the last
+          [nineteenth-century] printing of the plates” during a visit to the Linnell family home at
+            Redhill.<supplied type="spacer"> </supplied><ref target="n24" type="note">24</ref>
+	<note id="n24"><hi rend="s">24</hi>
+            Keynes, <hi rend="i">Blake’s Illustrations of Dante</hi> [2]. I cannot confirm the claim
+            in Sotheby’s catalogue that this visit was in 1912, but in <hi rend="i">The Gates of
+              Memory</hi> (Oxford: Clarendon Press, 1981) 103, Keynes notes that he acquired a Dante
+            set during one of his two visits to Redhill “before 1914.”</note></p>
+        <pb id="p24-89" n="89"/>
+        <p>Only two backing papers remain, nos. 2 and 3 above. The rule of thumb based on the amount
+          of burr in plate 3, combined with the weight of numbers (only 13 complete sets produced in
+          the second printing of 1838, but 50 in c. 1892), leads me to conclude that both types of
+          paper signify the c. 1892 printing. However, the impression of plate 3 reproduced here,
+          illus. 2-3, showing almost as much burr as the thick-paper pulls of the first printing, is
+          on a backing sheet of unwatermarked paper which I cannot distinguish from my set with the
+            “<hi rend="i">N</hi>” watermark.<supplied type="spacer"> </supplied><ref target="n25"
+type="note">25</ref> I can only
+          conclude from this that <hi rend="i">either</hi> a paper in addition to the “1822” variety
+          was used in the second printing of 1838, <hi rend="i">or</hi> the copperplate of plate 3
+          retained considerable burr after 1838 and this show up in the first few pulls of c. 1892.
+          If the latter is the case, as seems the more likely of the two possibilities, then the
+          rule of burr cannot be used to discriminate in all cases between the second and third
+          press runs. <note id="n25"><hi rend="s">25</hi> A Dante set on laid India with very
+            similar amounts of burr in pl. 3, now in a British private collection, was sold the
+            property of D. R. Bollard (John Linnell’s great-grandson) at Sotheby’s London, 14
+            November 1980, lot 295, in poor (but probably repairable) condition (£5100). I have no
+            information about its backing paper, but all seven plates are reproduced in 
+              <hi rend="i">The Print in England 1790-1930: Catalogue of an Exhibition First Shown at the
+              Fitzwilliam Museum 12 March to 5 May 1985</hi> (Cambridge: Fitzwilliam Museum, 1985)
+            54-60.</note></p>
+        <p>In spite of its length, the foregoing is little better than an interim report. It
+          concludes with the spectacle of a Blake nut imitating plate 10 of <hi rend="i">The Gates
+            of Paradise</hi> (“Help! Help!”). It would be good to find more sets with the 1822
+          watermark, and more impressions of plate 3 with burr on any sort of backing paper. An
+          impression on Whatman paper showing rich burr would force major revisions in the history
+          concocted here. So let me offer my services as a Dante Clearinghouse and invite interested
+          readers to send me information about Dante engravings they have inspected. Working
+          together, we should at least be able to complicate matters further. </p>
+      </div1>
+	<pb id="p24-90" n="90" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

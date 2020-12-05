@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.2.designer</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Designer Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.2</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>David V. Erdman</name>
+              <name>Nelson Hilton</name>
+              <name>Tim Hoyer</name>
+              <name>Wallace Jackson</name>
+              <name>Edward Larrissy</name>
+              <name>Raymond Lister</name>
+              <name>Morton D. Paley</name>
+              <name>David Punter</name>
+              <name>David Scrase</name>
+              <name>David Simpson</name>
+              <name>Dena Bain Taylor</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-71" n="71"/>
+      <div1 id="BQ-20-2-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">DESIGNER BLAKE</hi>
+            </title>
+          </head>
+          <p>Mary Lynn Johnson, University of Iowa, recently spotted the Blake label in a line of
+clothes—“fiber quality . . . dubious,” “mostly . . . frumpy styles”—on the racks at Younkers
+department store, headquartered in Des Moines. We reproduce the label here.</p>
+          <figure n="Blake.TM.bqscan" rend="file" width="500" height="200"/>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

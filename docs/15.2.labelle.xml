@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.2.labelle</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake’s Insanity: An Unrecorded Early Reference</title>
+        <author n="La Belle">Jenijoy La Belle</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.2</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Peter Davidson</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Anthony J. Harding</name>
+              <name>David Sten Herrstrom</name>
+              <name>Nelson Hilton</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>James A. Winn</name>
+              <name>Michael C. Young</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+	<pb id="p15-100" n="100"/>
+      <div1 id="BQ-15-2-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">MINUTE PARTICULARS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE’S INSANITY: AN UNRECORDED EARLY REFERENCE</hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor>
+              <hi rend="b">Jenijoy</hi>
+              <name>
+                <hi rend="b">La Belle</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>Published references to William Blake prior to the appearance of Alexander Gilchrist’s 
+<hi rend="i">Life of Blake</hi> in 1863 are uncommon, generally brief, all too often inaccurate—but still worthy
+of notice as curious bits of Blakeana. G. E. Bentley, Jr., in his monumental <hi rend="i">Blake Books</hi>,
+attempts to list “all works published before 1863 which refer to Blake at all, except catalogues,” as he
+states in his Introduction.<supplied type="spacer"> </supplied><ref target="n50" type="note">1</ref> A
+previously unnoticed reference appears in Thomas John Gullick and John Timbs, <hi rend="i">Painting Popularly
+Explained</hi>, first published in London in 1859 by “Kent and Co. (late Bogue), Fleet Street.” A two-page
+overview of “The Rise of Modern Water-Colour Painting” appears towards the end of this 318-page discussion
+of painting techniques. There (pp. 302-04), the authors note the early masters of the British school of
+watercolorists, including Paul Sandby, John Cozens, and Thomas Girtin. The section concludes with the
+following two sentences:
+<q>
+[Joseph Mallord William] Turner is even greater in water-colours than in oil; but several other eminent oil
+painters have distinguished themselves also in water-colour painting. The following are some of the principal
+deceased masters of this branch of art, viz., [William] Blake, and [Richard] Dadd (who both died insane),
+[Thomas] Rowlandson (the caricaturist), [George Fennel] Robson, [George] Barrett, [John] Varley, Samuel Prout,
+[Peter] Dewint, and Copley Fielding.<supplied type="spacer"> </supplied><ref target="n51"
+type="note">2</ref></q>
+	<note id="n50"><hi rend="s">1</hi> Oxford: Clarendon Press, 1977, p. 10. Selections from brief references to
+Blake, 1831-62, are reprinted in Bentley, ed., <hi rend="i">William Blake: The Critical Heritage</hi> (London
+and Boston: Routledge &amp; Kegan Paul, 1975), pp. 220-69.</note>
+	<note id="n51"><hi rend="s">2</hi> P. 304. Blake’s name does not appear in the highly selective index.
+Timbs later wrote a sketch of Blake’s life, based mostly on Gilchrist, in his <hi rend="i">English
+Eccentrics and Eccentricities</hi> (London: Chatto and Windus, 1875), pp. 339-50.</note></p>
+          <p>It is surprising to find Blake included in an 1859 list of “principal deceased masters” in
+water-color; his appearance here suggests that Blake’s
+<pb id="p15-101" n="101"/>
+artistic reputation was being quietly resurrected shortly before the publication of Gilchrist’s biography.
+But the most remarkable feature of the passage is the symmetry of its errors: Blake was dead, but did not die
+insane; Dadd was insane, but did not die until 1886.</p>
+          <p>Gullick and Timbs very probably lifted some of their misinformation from <hi rend="i">A Handbook
+to the Water Colours, Drawings, and Engravings, in the</hi> [Manchester] <hi rend="i">Art Treasures
+Exhibition, Being a Reprint of Critical Notices Originally Published in “The Manchester Guardian”</hi>
+(London, 1857).<supplied type="spacer"> </supplied><ref target="n52" type="note">3</ref> In this work, pp.
+12-13, the anonymous author compares Blake and Dadd and asserts that “both were mad . . . 
+[<hi rend="i">but</hi>] Blake’s fancies were lovely, rather than terrible.”<supplied type="spacer"> </supplied><ref target="n53" type="note">4</ref>
+	<note id="n52"><hi rend="s">3</hi> First noted in connection with Blake in Suzanne R. Hoover, “Fifty
+Additions to Blake Bibliography: Further Data for the Study of His Reputation in the Nineteenth Century,”
+<hi rend="i">Blake Newsletter</hi>, 5 (Winter, 1971-72), 169. See also Bentley, ed., <hi rend="i">Blake: The
+Critical Heritage</hi>, p. 258; Bentley, <hi rend="i">Blake Books</hi>, p. 660 no. A563. The original
+“Notices” in the <hi rend="i">Manchester Guardian</hi> have not been traced. On p. 297 of their book,
+Gullick and Timbs refer to the <hi rend="i">Catalogue</hi> (different from the <hi rend="i">Handbook</hi>) of
+the 1857 Manchester exhibition and on p. 303 they refer to the <hi rend="i">Handbook</hi>, the authorship of
+which they attribute to “Mr. Tom Taylor.”</note>
+	<note id="n53"><hi rend="s">4</hi> P. 12; quoted from Bentley, <hi rend="i">Blake Books</hi>, p.
+660.</note></p>
+          <p>The statement—premature by a mere twenty-seven years—that Dadd was deceased may have resulted
+from a misreading of other published statements. The <hi rend="i">Art-Union</hi> of October 1843 took note of
+Dadd’s insanity, his murder of his father in August 1843, and his subsequent confinement. The journal
+apostrophizes the unfortunate man as follows: “The late Richard Dadd. Alas! . . . for, although the grave
+has not actually closed over him, he must be classed among the dead.”<supplied type="spacer"> </supplied><ref target="n54" type="note">5</ref> Perhaps Gullick and Timbs misconstrued this (or some other)
+elegy for Dadd’s psychological demise, and this prompted them to list him, along with Blake, among the
+principal, insane, and deceased British masters of watercolor. <note id="n54"><hi rend="s">5</hi> Vol. 5, p.
+267; quoted from Patricia Allderidge, <hi rend="i">The Late Richard Dadd</hi>, exhibition catalogue (London:
+The Tate Gallery, 1974), p. 9. Allderidge notes the reference to Dadd in <hi rend="i">Painting Popularly
+Explained</hi>, but does not record its authors or the reference to Blake.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

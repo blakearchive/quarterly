@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.minnick</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">A New Rossetti Letter</title>
+                <author n="Minnick">Thomas L. Minnick</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+            <div1 id="BQ-05-3-0003">
+            	<pb id="p05-181" n="181"/>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">THOMAS L.</hi>
+                            <name>
+                                <hi rend="i">MINNICK</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">THE OHIO STATE UNIVERSITY</hi>
+                    </byline>
+                    <head>
+                        <title type="main">A New Rossetti Letter</title>
+                    </head>
+                    <p>I recently had the good fortune to buy an unpublished holograph letter by Dante Gabriel
+Rossetti. As it concerns Blake and Mrs. Anne Gilchrist, it may be of interest to the readers of the 
+<hi rend="i">Blake Newsletter.</hi> On a folded sheet of mourning notepaper Rossetti wrote:
+<q>
+59 Lincoln’s Inn Fields<lb/>
+Wednesday<lb/>
+                            <lb/>
+My dear W. Ireland<lb/>
+                            <lb/>
+I am very sorry I cannot manage to be with you so early as 7, either today or tomorrow, so must decline your
+kind invitation to dinner, but shall be very glad to come a little later tomorrow evening, and will take the
+liberty of bringing my brother if he can come—say at half past 8. He, as well as I, wrote the other day to
+Mrs. Gilchrist, but the letters, being directed to Earl’s Colne, have not perhaps yet reached her. We shall
+both be very glad to see her again &amp; go over Blake business by word of mouth. I am very sorry to have
+delayed answering but was not sure till now which evening I could come. With kind remembrances to Mrs.
+Gilchrist<lb/>
+                            <lb/>
+I am yours very truly<lb/>
+                            <lb/>
+D G Rossetti
+</q>
+The paper is watermarked “1860”; the envelope is lost.</p>
+                    <p>Although the note is undated, the address implies that it was written between the end
+of April, 1862, and 24 October of the same year, the only time when Rossetti lived at 59 Lincoln’s Inn
+Fields.<hi rend="s">
+                            <hi rend="i">1</hi>
+                    </hi> He had moved there when, after Lizzie’s death in February, Chatham Place became
+unbearable and when a few weeks<supplied type="spacer"> </supplied><ref target="n7" type="note">1</ref> stay
+on Newman Street proved unsatisfactory. These several months in 1862 were filled with projects and excursions
+which helped to distract Rossetti from his grief. The completion of Alexander Gilchrist’s <hi rend="i">Life
+of Blake</hi> (1863) was one such project and is certainly the “Blake business” to which the letter alludes. 
+                        <note id="n7">
+                            <hi rend="s">
+                                1
+                            </hi> So Oswald Doughty in <hi rend="i">A Victorian Romantic: Dante Gabriel
+Rossetti</hi>, 2nd ed. (London: Oxford Univ. Press, 1960), pp. 307, 310. But Oswald Doughty and John Robert
+Wahl, eds., give 22 October as the date Rossetti left; see <hi rend="i">Letters of Dante Gabriel Rossetti</hi>
+(Oxford: Clarendon Press, 1965), II, 458.</note>
+                    </p>
+                    <p>After Alexander’s death from scarlet fever, Mrs. Gilchrist moved her children to
+Earl’s Colne, sometimes called “the garden of Essex,” her mother’s home, her own home for most of her
+early and middle life, and the home of her ancestors since the Norman Conquest.<supplied type="spacer"> </supplied><ref target="n8" type="note">2</ref> But like Rossetti the recent widow had her periods of
+depression, and they also made her restless; in late August, for example, she wrote to her sister-in-law, 
+“ . . . Colne is intolerably painful to me, and I quite pine to get back to my quiet cottage among the dear Surrey
+hills . . . .”<supplied type="spacer"> </supplied><ref target="n9" type="note">3</ref>
+                        <note id="n8">
+                            <hi rend="s">
+                                2
+                            </hi> Herbert Harlakenden Gilchrist, ed., <hi rend="i">Anne Gilchrist: Her Life
+and Writings</hi>, 2nd ed. (London: T. Fisher Unwin, 1887), pp. 2-9.</note>
+                        <note id="n9">
+                            <hi rend="s">
+                                3
+                            </hi> The cottage was Brookbank, at Shottermill near Haslemere. This is the home
+Anne Gilchrist let to George Henry Lewes and George Eliot in 1871 where they read her husband’s life of
+Blake and where, in a study lined with Blake drawings and engravings, George Eliot wrote the second part of
+<hi rend="i">Middlemarch.</hi> Gilchrist, pp. 155-56, 215-19.</note>
+                    </p>
+                    <p>Apparently Rossetti had written to Earl’s Colne, then learned, probably through a
+dinner invitation from Mr. Ireland who lived in Chelsea, that Mrs. Gilchrist had moved for a while. I suspect
+she was visiting the Irelands who had been her neighbors on Great Cheyne Row. (She and Alexander lived at no.
+6; Thomas Carlyle and his wife lived at no. 5, next door; and later in 1862 Rossetti himself moved to nearby
+16 Cheyne Walk.) Mrs. Isabella Ireland had offered help tending the children who were also sick with
+“Scarlatina” when their father died.<supplied type="spacer"> </supplied><ref target="n10" type="note">4</ref>
+“Mr. Ireland” appears in several of Rossetti’s letters from this period, usually as a source of materials
+for Rossetti’s projected memoir of Alexander Gilchrist.<supplied type="spacer"> </supplied><ref target="n11"
+type="note">5</ref> But Rossetti names him “<hi rend="i">W.</hi> Ireland” while Herbert H. Gilchrist, writing
+his mother’s memoir, calls him “Edwin.”<supplied type="spacer"> </supplied><ref target="n12"
+type="note">6</ref> Perhaps he had a familiar name (“Winny”?). Perhaps Rossetti’s pen or memory slipped. Or
+perhaps Herbert Gilchrist, the only source for “Edwin,” misremembered: he was five years old and seriously ill
+when his family left Chelsea. 
+                        <note id="n10">
+                            <hi rend="s">
+                                4
+                            </hi> Gilchrist, pp. 101, 107, 114.</note>
+                        <note id="n11">
+                            <hi rend="s">
+                                5
+                            </hi> Doughty and Wahl, II, 441, 452, 454, 455.</note>
+                        <note id="n12">
+                            <hi rend="s">
+                                6
+                            </hi> Gilchrist, p. 107.</note>
+                    </p>
+                    <p>A final word. This note is one of several written to arrange a meeting between Anne
+Gilchrist, Dante Rossetti and, occasionally, William Michael Rossetti. There are almost as many letters
+postponing meetings or apologizing for missed ones. In fact, the direct evidence that the Rossettis saw much
+of Mrs. Gilchrist in the process of bringing the <hi rend="i">Life of Blake</hi> to publication is slight.
+What William Rossetti wrote of Alexander Gilchrist characterizes the relationship, in 1862, between Dante and
+Anne: “. . . I cannot remember that I saw him more than once or twice again. We were both busy men, and one
+casualty or another kept us apart.”<supplied type="spacer"> </supplied><ref target="n13" type="note">7</ref>
+                        <note id="n13">
+                            <hi rend="s">
+                                7
+                            </hi> “Prefatory Notice” in Gilchrist, pp. ix-x. I wish to express my appreciation
+to Mrs. Imogen Dennis, of Oxford, England, for her kind permission to publish this Rossetti letter.</note>
+                    </p>
+            </div1>
+	<pb id="p05-182" n="182" rend="hidden"/>
+        </body>
+    </text>
+</TEI.2>

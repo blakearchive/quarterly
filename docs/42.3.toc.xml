@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>42.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2008-09</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2008-09</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">42.3</biblScope>
+            <biblScope unit="volume">42</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Angus Whitehead</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>James Rovira</name>
+              <name>Robert M. Ryan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2008/2009"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_42">
+    <front id="issue_03">
+      <pb id="p42-81-82" n="81-82"/>
+      <div1 id="cover">
+        <figure n="cover.042.03.bqscan" rend="file" width="258" height="336">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            “’tis ours to gild the letters, and to make them shine with gold<lb/>
+            that never tarnishes”: Angus Whitehead on Blake’s Metal<lb/>
+            VOLUME 42<lb/>
+            NUMBER 3<lb/>
+            WINTER 2008-09</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-42-3-0001">
+        <table id="contents" rows="12" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.whitehead">“this extraordinary performance”: William
+Blake’s
+                            Use of Gold and Silver in the Creation of His Paintings and Illuminated
+                                Books</ref><lb/>
+<hi rend="i">By Angus Whitehead</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.bentley">The Publication of Ellis and Yeats, 
+<hi rend="i">The Works of William
+                                Blake</hi> (1893)</ref><lb/>
+<hi rend="i">By G. E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">109</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.rovira">Wings of Fire: Exhibition at Muhlenberg College, 19
+March-19 April
+                                2008</ref><lb/>
+<hi rend="i">Reviewed by James Rovira</hi></cell>
+            <cell>
+              <hi rend="i">110</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.ryan">Christopher Rowland, <hi rend="i">“Wheels within
+                                Wheels”: William Blake and the Ezekiel’s Merkabah in
+                                Text and Image</hi></ref><lb/>
+<hi rend="i">Reviewed by Robert M.
+                            Ryan</hi></cell>
+            <cell>
+              <hi rend="i">111</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.paris">Blake in Paris</ref></cell>
+            <cell>
+              <hi rend="i">111</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Corrigenda</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.3.essick">To <hi rend="i">Songs of Innocence and of
+Experience</hi> [E]
+                            (Huntington Library, 2008)</ref><lb/>
+<hi rend="i">By Robert N.
+                            Essick</hi></cell>
+            <cell>
+              <hi rend="i">111</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-42-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p42-83" n="83"/>
+      <div1 id="BQ-42-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Angus Whitehead (richard. whitehead@nie.edu.sg) is an assistant professor at the
+                    National Institute of Education, Nanyang Technological University, Singapore.
+                    His “‘A wise tale of the Mahometans’: Blake and Islam,
+                    1819-26” is included in <hi rend="i">Blake and Conflict</hi> (Palgrave
+                    Macmillan, 2008), edited by Sarah Haggarty and Jon Mee.</p>
+        <p>G. E. Bentley, Jr., has discovered some 2500 previously un-recorded reviews of
+                    books with Blake in the title published before 1992, and wonders what to do with
+                    them.</p>
+        <p>James Rovira (jamesrovira@gmail.com) is assistant professor of English at Tiffin
+                    University in Tiffin, Ohio, where he teaches British literature, British
+                    history, and creative writing. He is currently working on the monograph
+                    “Kierkegaardian Anxiety, Creation Anxiety, and William Blake’s
+                    Early Illuminated Books.”</p>
+        <p>Robert M. Ryan is emeritus professor of English at Rutgers University. He is the
+                    author of <hi rend="i">Keats: The Religious Sense and The Romantic Reformation:
+                        Religious Politics in English Literature, 1789-1824.</hi></p>
+      </div1>
+      <div1 id="BQ-42-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester,
+                    Rochester NY 14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu TELEPHONE: 585/275-3820
+                    FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY
+                    14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA
+                    94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2
+                    College Street, Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton
+                    Lane, Nottingham NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-42-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">Blake/An Illustrated Quarterly</hi> is published under the
+                    sponsorship of the Department of English, University of Rochester. Subscriptions
+                    are $60 for institutions, $30 for individuals. All subscriptions are by the
+                    volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+                    received after the summer issue will be applied to the current volume. Addresses
+                    outside the US, Canada, and Mexico require a $20 per volume postal surcharge for
+                    airmail delivery. Credit card payment is available. Make checks payable to 
+<hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription
+                    orders and related communications to Sarah Jones, <hi rend="i">Blake</hi>,
+                    Department of English, University of Rochester, Rochester NY 14627-0451. Back
+                    issues are available; address Sarah Jones for information on issues and prices,
+                    or consult the web site.</p>
+        <p>Manuscripts are welcome in either hard copy or electronic form. Send two copies,
+                    typed and documented according to forms suggested in the <hi rend="i">MLA Style
+                        Manual</hi>, and with pages numbered, to either of the editors. No articles
+                    will be returned unless accompanied by a stamped self-addressed envelope. For
+                    electronic submissions, you may send a disk, or send your article as an
+                    attachment to an email message; please number the pages of electronic
+                    submissions. The preferred file format is RTF; other formats are usually
+                    acceptable.</p>
+        <p>International Standard Serial Number: 0160-628x. <hi rend="i">Blake/An
+                        Illustrated Quarterly</hi> is indexed in the Modern Language
+                    Association’s International Bibliography, the Modern Humanities Research
+                    Association’s Annual Bibliography of English Language and Literature,
+                    Humanities International Complete, Arts and Humanities Citation Index, Current
+                    Contents, Scopus, and the Bibliography of the History of Art.</p>
+        <p>Cover: <hi rend="i">Pigot and Co.’s Directory</hi>, 1826-27, p. 114. Image
+                    by kind permission of the City of Westminster Archives Centre. 
+<note type="unreferenced" place="footer">© 2009 Copyright Morris Eaves and
+                        Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

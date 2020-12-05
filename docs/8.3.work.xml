@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.work</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Work in Progress</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+			<biblScope unit="volIss">08.3</biblScope>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <div1 id="BQ-08-3-0002">
+      	<pb id="p08-55" n="55"/>
+          <head>
+            <title type="main">
+              <hi rend="b">Work in Progress</hi>
+            </title>
+          </head>
+          <p>Michael Davis: a 70,000-word life of william Blake for the general reader, to be published by
+Sphere (Cardinal series), and to include among its many illustrations a number of works by artists other than
+Blake.</p>
+          <p>Donna Rix: a study of the narrative structure of Blake’s <hi rend="i">Milton</hi> with
+reference to a literary form common to the prophetic books of the Old Testament and the Apocalypse of St.
+John; Blake inverts and transforms many of the symbols, themes, and motifs of the Biblical prophetic tradition
+in <hi rend="i">Milton</hi>; a Ph.D. dissertation directed by Morris Eaves at the University of New
+Mexico.</p>
+          <p>Gurbhagat Singh: <hi rend="i">Meditations on William Blake: An Experiential Approach to His
+Poetry</hi>, a study of Blake’s poetry using comparative criticism (Eastern and Western) in an attempt to
+close the gap between critical theory and response; a Ph.D. dissertation completed for History of
+Consciousness, University of California at Santa Cruz, June 1974.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

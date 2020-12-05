@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.sales</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Sales</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-2-0002">
+            	<pb id="p07-31" n="31"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">SALES</hi>
+                        </title>
+                    </head>
+                    <p>The only known portrait of Josiah Wedgwood by John Flaxman, a wax portrait in color, 3
+× 4 in. in original frame, is offered for sale by N. Flayderman &amp; Co., Inc., of New Milford, Conn. Black
+and white reproduction in <hi rend="i">Antiques</hi>, March 1974, p. 472.</p>
+                    <p>Recent auctions include the following items<supplied type="spacer"> </supplied><ref
+target="n2" type="note">*</ref>:</p>
+                    <p>Sotheby’s, 15-16 October 1973: rare books from the collection of Robert
+Gathorne-Hardy, former partner in the firm of Elkin Mathews Ltd., and a botanist, novelist, poet, biographer,
+and printer. Three important Blake items: <hi rend="i">Job</hi> engravings, complete, to Bertram Rota for
+£1,650; Hayley’s <hi rend="i">Ballads</hi> (1805), to Quaritch for £85; and <hi rend="i">Night
+Thoughts</hi> with Blake engravings (1797), to Korn for £420. <hi rend="i">(For more on this sale, see Robert
+Essick’s article, “Blake in the Marketplace 1972-73,” in the next issue. Eds.)</hi>
+                    </p>
+                    <p>Christie’s, 6 December 1973: Fuseli, “Woman seated by a window: Evening thou bringest
+all,” pen-and-tusche lithograph, 1802. Reproduced in <hi rend="i">Apollo</hi>, November 1973, p. 36.</p>
+                    <p>Christie’s, 30 January 1974: John Varley, “Tegwin Ferry with Snowdon in the
+distance,” watercolor, 8 1/4 × 12 3/4 in., 1826. Reproduced in <hi rend="i">Apollo</hi>, January 1974, p.
+21.</p>
+                    <p>Sotheby’s, 20 March 1974: George Richmond, self-portrait, oil, 15 1/2 × 15 1/2 in.
+Reproduced in <hi rend="i">Apollo</hi>, March 1974, p. 141. Samuel Palmer, oil portrait of Christ. Reproduced
+in <hi rend="i">Apollo</hi>, March 1974, p. 96. <note id="n2">
+                            <hi rend="i">(Our thanks to Thomas Minnick for these items. For more information
+on Blake sales, see the article by Robert Essick in the next issue. Eds.)</hi></note>
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

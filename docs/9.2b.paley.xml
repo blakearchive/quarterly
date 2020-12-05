@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2b.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Blake Seminar 1975</title>
+		<author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>December 28, 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2b</biblScope>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2b</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>David Schnur</name>
+              <name>Jean Stalker</name>
+              <name>Donald Weeke</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+              <resp>Design and layout for this booklet</resp>
+              <name>Virginia Masi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+	  <pb id="p09-2b-1" n="1"/>
+      <div1 id="BQ-09-2b-0002">
+        <head>
+          <title type="main">MLA Blake Seminar 1975</title>
+        </head>
+			<p>We will meet on December 28 (Sunday morning) at 8:30 A. M. in the Continental 1 of the Hilton.</p>
+			<p><hi rend="i">Please note that this time supersedes any previous one you may have been given.</hi> The
+Seminar number is now 177.</p>
+			<p>I am reminded that although we’ve used the terms “Chairman” and “Co-Chairman” in the past, the correct
+word is “Discussion Leader.” Next year’s Discussion Leader will be Anne K. Mellor (Stanford University).</p>
+			<p>We’re informed that the room holds 75. Given the earliness of the hour, it seems unnecessary to have
+formal registration. Just drink some black coffee and come!</p>
+			<p>Looking forward to seeing you in San Francisco,</p>
+			<byline><docAuthor>Morton D. <name>Paley</name></docAuthor></byline>
+	</div1>
+    </body>
+  </text>
+</TEI.2>

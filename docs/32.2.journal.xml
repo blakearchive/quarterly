@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.2.journal</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Blake Journal</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.2</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Thomas Dillingham</name>
+              <name>Morton D. Paley</name>
+              <name>Sheila A. Spector</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <pb id="p32-51" n="51"/>
+      <div1 id="BQ-32-2-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">The Blake Journal</hi>
+            </title>
+          </head>
+          <p><hi rend="i">The Blake Journal</hi> is the publication of the the Blake Society at St. James. It
+is free to members but also available from a number of bookshops and galleries.</p>
+          <p>The editorial policy of the Journal is to offer a wide coverage of items concerning Blake or
+related to a Blakean tradition. Past editions have included academic articles, but we aim also to offer space
+for other, perhaps more personal and speculative responses to Blake’s work.</p>
+          <p>The editors are currently <corr type="emend">commissioning</corr> pieces for the third edition.
+We would also like to extend an invitation to readers of <hi rend="i">Blake/An Illustrated Quarterly</hi> to
+submit their work for inclusion.</p>
+          <p>Articles should normally be 3000-4000 words in length, but can be much shorter. Accompanying
+graphics are welcome. We also include short notices of and reports from conferences, theatre, exhibitions,
+etc.</p>
+          <p>We are happy to receive or arrange for reviews of books, etc. Please address your work or initial
+enquiries to the editors: Dr Michael Grenfell, School of Education, University of Southampton, Highfield,
+Southampton, SO17 1BJ, UK. Telephone 44 (0) 1703 593472; fax 44 (0) 1703 593556; email:
+m.grenfell@soton.ac.uk, or to Andrew Solomon, 35 Hillway, London N6 6AH.</p>
+          <p>Current contents of <hi rend="i">The Blake Journal</hi> include:</p>
+          <p>“Mrs Q” by David Worrall</p>
+          <p>“Blake and Gnosis” by Valerie Parslow</p>
+          <p>“A Blakean Manifesto” by Michael Grenfell</p>
+          <p>“God, Man, George Steiner and Me” by Sunao Vagabond</p>
+          <p>“To Build Jerusalem” by Andrew Solomon</p>
+          <p>“London Stone—a Print of 1791” by James Bogan</p>
+          <p>Soetsu Yanagi’s <hi rend="i">William Blake</hi> by Hatsuko Niimi</p>
+          <p>George Goyder by Peter Cadogan</p>
+          <p>Impressions of Jeanne Moskal’s <hi rend="i">Blake, Ethics and Forgiveness</hi> by Adrian
+Peeler</p>
+          <p>Conference at St Mary’s University College: <hi rend="i">Blake and the Book</hi></p>
+          <p>Book Reviews</p>
+          <p><hi rend="i">The Tyger the Lamb and the Terrible Desart</hi> by Stanley Gardner, reviewed by Sir
+Peter Parker</p>
+          <p><hi rend="i">William Blake and the Daughters of Albion</hi> by Helen P. Bruder, reviewed by
+Christopher Rubenstein</p>
+          <p><hi rend="i">Romanticism and the Androgynous Sublime</hi> by Warren Stevenson, reviewed by
+Christopher Rubenstein</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

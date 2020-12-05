@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.1.interior</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">An Interior for William Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.1</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Chris Orr</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-39" n="39"/>
+      <div1 id="BQ-28-1-0007">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">
+                <hi rend="i">An Interior for William Blake</hi>
+              </hi>
+            </title>
+          </head>
+          <p>What would Blake’s house be like if he were alive today?</p>
+          <p>1 - 14 August 1994</p>
+          <p>17 South Molton Street</p>
+          <p>Blake’s last surviving London Residence</p>
+          <p>To celebrate the bicentenary of Blake’s</p>
+          <p>
+            <hi rend="i">Songs of Innocence and of Experience 1794</hi>
+          </p>
+          <p>The House of William Blake is commissioning contemporary artists to decorate Blake’s original
+lodgings in a way which best expresses Blake’s curious spirit today. The exhibition will include the work of
+those in the fields of furniture design, poetry, kitchen ware, textiles, bathrooms, book binding, printing,
+engraving and cake-making, among others. A catalogue to accompany the exhibition will be available from late
+July. Most exhibits will be for sale and some may be eaten. The exhibition will commence with a private view
+and press launch and will then be open to the public (by guided tour). The House will also be putting on some
+children’s summer holiday workshops during the exhibition period. For further information, please contact:
+Lottie Hoare or Tim Heath, The House of William Blake, 17 South Molton Street, London W1Y 1DE, tel.
+071-495-5654.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

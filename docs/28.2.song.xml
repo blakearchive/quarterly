@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.2.song</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Songs and Other Works</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.2</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>David Simpson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-79" n="79"/>
+      <div1 id="BQ-28-2-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <figure n="BlakeSongs28.2.bqscan" rend="file" width="300" height="300"></figure>
+          <head>
+            <title type="main"><hi rend="i">Blake Songs and Other Works</hi> Music of Jonathan
+Lovenstein</title>
+          </head>
+          <p>A new CD, <hi rend="i">Blake Songs and Other Works:</hi> Music of Jonathan Lovenstein is now
+available from Tower Records. From the liner notes: “Jonathan Lovenstein . . .studied composition, piano,
+and recorded at Ohio University in Athens, Ohio, where he received a degree in Musicology. He studied recorder
+with John Tyson and received his Master’s Degree in Performance of Early Music from New England Conservatory
+in 1978. He is on the faculty at All Newton Music School and Chestnut Hill Music School and performs
+frequently throughout the Boston area with Cantorum Baroque Ensemble.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

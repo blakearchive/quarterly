@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.constable</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Constable in Milwaukee</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <pb id="p09-92" n="92"/>
+      <div1 id="BQ-09-4-0002">
+        <div2>
+          <head>
+            <title type="main">CONSTABLE IN MILWAUKEE</title>
+          </head>
+          <p>The Department of Art History at the University of Wisconsin—Milwaukee held a symposium and
+exhibition commemorating the 200th anniversary of the birth of John Constable, 2-3 April 1976. An exhibition
+of paintings, drawings, and watercolors opened 1 April and continued through the 15th. There were papers
+presented by Louis Hawes, “Constable and the Ruin Theme,” Charles Rhyne, “Constable: Problems of Authenticity
+and Dating,” Alastair Smart, “Trees on the Towpath: Some Questions and Problems,” Allen Staley, “Constable and
+the Victorians,” and Jerrold Ziff, “Constable and Turner.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

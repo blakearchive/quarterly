@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.4.gleckner</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s Swans</title>
+        <author n="Gleckner">Robert F. Gleckner</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1982</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1982</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.4</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>George Hartley</name>
+              <name>Cathy Christman</name>
+              <resp>Typist</resp>
+              <name>Denise Warren</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>James Bogan</name>
+              <name>Gavin Edwards</name>
+              <name>David V. Erdman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Randel Helms</name>
+              <name>Christopher Heppner</name>
+              <name>Janice Lyle</name>
+              <name>Paul Mann</name>
+              <name>Gerda Norvig</name>
+              <name>David Punter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1982"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <pb id="p15-164" n="164"/>
+      <div1 id="BQ-15-4-0006">
+        <head>
+          <title type="main">
+            <hi rend="b">BLAKE’S SWANS</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">ROBERT F.</hi>
+            <name>
+              <hi rend="b">GLECKNER</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>The swan is as rare a bird in Blake’s works as he said London print shops
+                    were in his youth<supplied type="spacer"> </supplied><ref target="n32"
+type="note">1</ref>—though their
+                    appearances, in text and design, span almost his entire working career from 
+<hi rend="i">There Is No Natural Religion</hi> through <hi rend="i">Jerusalem.</hi> Critical interpretations of
+them have been sparse and, even
+                    if one cannot expect consensus, they are unusually varied: the Female Will,
+                    chariot of inspiration, a pen, the river Severn, arsenic, the soul, desire, the
+                    body (or Generation), Blake himself as poet-painter.<supplied type="spacer"> </supplied><ref target="n33" type="note">2</ref> By far the most elaborate of these interpretations is
+                    Erdman’s commentary in <hi rend="i">The Illuminated Blake</hi> on plate
+                    11 of <hi rend="i">Jerusalem</hi>, which is the only one to really try to come
+                    to grips with that puzzling design by seeing it as a sublime allegory of
+                    Blake’s marriage of copper-plate etching (of text and design) and the
+                    printing and coloring of that design on paper. Since the <hi rend="i">Jerusalem</hi> plate
+is especially complex, let me leave it aside for a
+                    moment to deal with some “simoler” swans. <note id="n32"><hi rend="s">1</hi><hi
+rend="i"> The Poetry and Prose of William Blake</hi>, ed. David V. Erdman
+                        (Garden City: Doubleday, 1965), p. 679, hereafter cited in text and notes as
+                        E plus the page number.</note>
+	<note id="n33"><hi rend="s">2</hi> Successively S. Foster Damon, <hi rend="i">William Blake: His Philosophy
+and Symbols</hi> (New York: Peter Smith,
+                        1947; orig. ed. 1924), p. 469; David Bindman, <hi rend="i">Blake as an
+                            Artist</hi> (Oxford: Phaidon, 1977), p. 182; Erdman, <hi rend="i">The
+                            Illuminated Blake</hi> (Garden City: Anchor/ Doubleday, 1974), p. 149,
+                        hereafter cited in text and notes as <hi rend="i">IB</hi> plus the page
+                        number; Bindman, 1oc. cit.; W. H. Stevenson, ed., <hi rend="i">The Poeme of
+                            William Blake</hi> (London and New York: Longman/W. W. Norton, 1972), p.
+                        646n.; Kathleen Raine, <hi rend="i">Blake and Tradition</hi> (Princeton:
+                        Princeton University Press, 1968), I, 177; Erdman, <hi rend="i">IB</hi>, 54;
+                        Joseph Wicksteed, <hi rend="i">William Blake’s Jerusalem</hi>
+                        (Trianon Press, n.d.), p. 217; Erdman, <hi rend="i">IB</hi>, 54, 290. There
+                        are others as well. Interestingly Damon does not index the swan in <hi rend="i">A
+Blake Dictionary</hi> (Providence: Brown University Press,
+                        1965).</note></p>
+        <p>According to the Blake concordance there are only two swans in his writings,
+                    neither apparently remarkable enough to elicit any comment except from Kathleen
+                    Raine who, in glossing the “bright swan” of <hi rend="i">Visions of
+                        the Daughters of Albion</hi> (plate 3), identifies the whole scene as
+                    Plotinian, the swan as “Plato’s emblem of the soul,” here
+                    dipping “its wing in the ‘red earth’ of the natural body,
+                    which is the ever-flowing river of generated life.”<supplied type="spacer"> </supplied><ref target="n34" type="note">3</ref> Although it is certainly possible that Blake was aware
+                    of this Neoplatonic interpretation of the <hi rend="i">Phaedo</hi>,
+                    Raine’s gloss on the <hi rend="i">Visions</hi> passage (3:18-19; E 46)
+                    commits precisely the same error that so frustrates Oothoon in
+                    Theotormon’s reaction to her rape and “defilement” by Bromion.
+                    Her invoking of the swan here is not to corroborate such simplistic body-soul
+                    dichotomizing but to counteract it. The swan is but one of three parallel
+                    images, the others being fruit and lamb. As the worm feeds on the sweetest
+                    fruit, she argues, so is the “new wash’d lamb ting’d with the
+                    village smoke” and “the bright swan / By the red earth” of the
+                    river of life (that is, by the red clay of Esau-Edom in Genesis 25:25-30). But
+                    unlike these, she says, “How can I be defild when I reflect thy image
+                    pure?” Adopting Theotormon’s mistaken orientation, she turns it
+                    against itself: unlike the swan “I bathe <hi rend="i">my</hi> wings. / And
+                    I am white and pure”—Blake’s grammatical construction here
+                    denying a cause and effect relationship. She <hi rend="i">is</hi> sullied to
+                    Theotormon’s morally jaundiced eye but to hers, bathing in “our
+                    immortal river” leaves no residue of “generation’s” slow
+                    stain. The seed of Oothoon’s conception, perhaps even the seed of
+                    Blake’s entire conception in the <hi rend="i">Visions</hi>, is in <hi rend="i">The
+Marriage of Heaven and Hell</hi>: “As the catterpiller
+                    chooses the fairest leaves to lay her eggs on, so the priest lays his curse on
+                    the fairest joys”; but “The soul of sweet delight, can never be
+                    defil’d”—by village smoke, red earth, or hypocritical moral
+                    and religious judgement.<supplied type="spacer"> </supplied><ref target="n35"
+type="note">4</ref>
+	<note id="n34"><hi rend="s">3</hi><hi rend="i"> Blake and Tradition</hi>, I, 177. In the 
+<hi rend="i">Phaedo</hi> Socrates, talking to Simmias of immortality, mentions swans
+                        as sacred to Apollo and as having the gift of prophecy, but he does not
+                        specifically identify the swan with the soul.</note>
+	<note id="n35"><hi rend="s">4</hi> Orc reiterates Blake’s point, even
+                            more powerfully, in <hi rend="i">America</hi>, plate 8:
+<q> That stony
+                                law I stamp to dust: and scatter religion abroad<lb/>
+ To the four
+                                winds as a torn book, &amp; none shall gather the leaves;<lb/>
+ But
+                                they shall rot on desart sands, &amp; consume in bottomless
+                                deeps;<lb/>
+ To make the desarts blossom, &amp; the deeps shrink to
+                                their fountains,<lb/>
+ And to renew the fiery joy, and burst the
+                                stony roof.<lb/>
+ That pale religious letchery, seeking
+                                Virginity,<lb/>
+ May find it in a harlot, and in coarse-clad
+                                honesty<lb/>
+ The undefil’d tho’ ravish’d in her
+                                cradle night and morn:<lb/>
+ For every thing that lives is holy, life
+                                delights in life;<lb/>
+ Because the soul of sweet delight can never
+                                be defil’d.<lb/>
+ (5-14) </q></note></p>
+        <p>Oothoon’s swan, then, is not the Platonic soul but rather an image of her
+                    eternal imaginative individuality, her fundamental and divine (“pure”)
+                    humanness in its “eternal joy” (8:8). In Raine’s footnote to
+                    her Plotinian interpretation, however, she superimposes upon it an allusion to
+                    Plato that does lead us in a direction pertinent to virtually all of
+                    Blake’s swan images, even as it leads us further and further away from
+                        <hi rend="i">Visions of the Daughters of Albion</hi>: “The soul of
+                    Orpheus,” she reminds us, “enters the body of a swan, in the myth in
+                    the tenth book of the <hi rend="i">Republic</hi> (620A); but this is usually
+                    understood in a symbolic sense, the swan being the emblem of the poet.”<supplied
+type="spacer"> </supplied><ref target="n36" type="note">5</ref> While the Orpheus-swan connection in the 
+<hi rend="i">Republic</hi> is clear, there is 
+<pb id="p15-165" n="165"/>
+no
+                    evidence so far as I know that that connection evolved into an iconographical
+                    (or even mythological) tradition. Nevertheless, the fact that Orpheus was an
+                    especial favorite of Apollo’s (some said even his son) validates the swan
+                    association in that the bird was sacred to him. As Robert J. Clements points
+                    out, the most popular symbol of the poet in the Renaissance was the swan, its
+                    consistent linkage to Apollo according it prophetic powers.<supplied type="spacer"> </supplied><ref target="n37" type="note">6</ref> Blake’s intimate knowledge of Renaissance emblem
+                    literature is now generally accepted,<supplied type="spacer"> </supplied><ref target="n38"
+type="note">7</ref> and
+                    Cesare Ripa (<hi rend="i">Iconologia</hi>, 1593), Geoffrey Whitney (<hi rend="i">Choice of
+Emblemes</hi>, 1586), and Alciati (<hi rend="i">Emblemata</hi>,
+                    1551; it went through over 150 editions before 1621 and Clements calls it
+                    “the bible of emblem books” [p. 785])—as well as any number of
+                    their imitators—all identify the swan with Apollo, the poet, poesy,
+                    prophecy. <note id="n36"><hi rend="s">5</hi><hi rend="i"> Blake and Tradition</hi>, I,
+410-11. While, as almost all
+                        critics note, Plato is clearly the source of Shelley’s
+                        “Enchanted Boat” lyric, with its swan, in <hi rend="i">Prometheus
+                            Unbound</hi>, the application of his imagery to Blake is justifiable
+                        only if one is indifferent to Blake’s unalterable opposition to the
+                        ideas that inform Plato’s conception. Besides, Raine ignores
+                        Plato’s explanation of Orpheus’s metamorphosis: his soul
+                        “chose” the swan because of hatred for womankind (since women had
+                        killed and dismembered him) and because therefore he did not wish to be
+                        conceived and born of woman. Cf. Wither’s emblem of Ganymede astride
+                        Jupiter’s eagle as the soul mounting to heaven (<hi rend="i">A
+                            Collection of Embleme 1635</hi>, ed. John Horden [Yorkshire: Scolar
+                        Press, 1968], p. 156). Piloo Nanavutty in “Blake and Emblem
+                        Literature,” <hi rend="i">Journal of the Warburg &amp; Courtauld
+                            Institutes</hi>, 15 (1952), p. 260, identifies <hi rend="i">America
+                            11</hi> with this myth.</note>
+	<note id="n37"><hi rend="s">6</hi> “Iconography on the Nature and
+                        Inspiration of Poetry in Renaissance Emblem Literature,” <hi rend="i">PMLA</hi>, 70
+(1955), 784. Clements notes that Cicero, in the <hi rend="i">Tusculanae Disputationes</hi>, says that swans
+were gifted with
+                        powers of divination. The information in the rest of this paragraph is from
+                        Clements. See also J. Rendel Harris, “Apollo’s Swans,” <hi rend="i">Bulletin of
+the John Rylands Library</hi>, 9 (1925),
+                        372-416.</note>
+	<note id="n38"><hi rend="s">7</hi> See, e.g., Nanavutty’s essay cited
+                        above, pp. 258-61; Mary Lynn Johnson, “Emblem and Symbol in
+                        Blake,” <hi rend="i">Huntington Library Quarterly</hi>, 37 (1974),
+                        151-70; and Judith Wardle, “‘For Hatching ripe’: Blake
+                        and the Educational Uses of Emblem and Illustrated Literature,” 
+<hi rend="i">Bulletin of Research in the Humanities</hi>, 81 (1978), 324-48,
+                        esp. her “Appendix.”</note></p>
+        <p>The only other instance of a swan in Blake’s writings seems to argue
+                    further for his awareness of this tradition, even if not for a specific textual
+                    or emblem source. In <hi rend="i">The Four Zoas</hi> Urizen, fallen and
+                    “shut up in the deep dens of Urthona,” spills out his “Woes”
+                    in a lament for the lost Eden: 
+					<q> My fountains once the haunt of Swans now
+                        breed the scaly tortoise<lb/>
+ The houses of my harpers are become a haunt of
+                        crows<lb/>
+ The gardens of wisdom are become a field of horrid graves<lb/>
+                        And on the bones I drop my tears &amp; water them in vain (Night V, E 336)
+					</q>
+					The fact that Urizen is associated in the remainder of this Night with
+                    Apollo and the chariot of the sun solidifies the allusion, Blake of course
+                    transforming both the Apollo and Orpheus myths (which he knew probably from
+                    Ovid) into the fall of all Art. Though the fallen prophet’s tonque (or
+                    the voice of wisdom) remains eloquent, 
+					<q> in vain the voice<lb/>
+ Of Urizen in
+                        vain the Eloquent tongue. A Rock a Cloud a Mountain<lb/>
+ Were now not Vocal
+                        as in Climes of happy Eternity<lb/>
+ Where the lamb replies to the infant
+                        voice &amp; the lion to the man of years<lb/>
+ Giving them sweet
+                        instructions Where the Cloud the River &amp; the Field<lb/>
+ Talk with the
+                        husbandman &amp; shepherd. . . .<lb/>
+ (<hi rend="i">Four Zoas</hi>, Night
+                        VI, E 341) </q>
+More impressive evidence of Blake’s knowledge of the
+                    swan of emblem literature, however, is in the most regal of all his graphic
+                    swans, that adorning the titlepage of his illustrations to Gray’s poems.
+                    The caption is “The Pindarick Genius recieving his Lyre,” the latter
+                    descending from the sky to the youthful poet who is riding the swan with so
+                    loose a rein that he virtually gives it its head. Blake, of course, may be
+                    merely echoing here Pindar’s common characterization as the “Theban
+                        Swan,”<supplied type="spacer"> </supplied><ref target="n39" type="note">8</ref> for
+he has indicated
+                    elsewhere that he was reasonably familiar, if not with Pindar’s poetry
+                    directly, with his reputation and the legends and stories about him. 
+<note id="n39"><hi rend="s">8</hi> Gray himself, however, whose steady praise of
+                        Pindar and his own writing of “Pindarics” Blake obviously knew
+                        well, describes Pindar as the “Theban Eagle . . . / Sailing with
+                        supreme dominion / Thro’ the azure deep of air” (“The
+                        Progress of Poesy,” 1. 115—subtitled “Pindaric” with
+                        an epigraph from Pindar). Gray’s note to the passage simply says that
+                        “Pindar compares himself to that bird.” The swan epithet belongs
+                        to the family of Mantuan Swan and Swan of Avon, though it was Cowley who
+                        attached the swan to Pindar (noted by Roger Lonsdale, <hi rend="i">The Poems
+                            of Thomas Gray, William Collins, Oliver Goldsmith</hi> [London: Longman,
+                        1969], p. 176). That attachment is echoed by Denham in his “On Mr.
+                        Abraham Cowley.” Irene Tayler, in <hi rend="i">Blake’s
+                            Illustrations to the Poems of Gray</hi> (Princeton: Princeton University
+                        Press, 1971), identifies the swan of Blake’s titlepage to Gray as
+                        “Apollo’s bird” (p. 22).</note></p>
+        <p>In <hi rend="i">An Island in the Moon</hi>, for example, Suction asks at one
+                    point “if Pindar was not a better Poet than Ghiotto was a Painter” (E
+                    444), but the question is never answered in the ensuing squabble over whether
+                    Plutarch, who quotes Pindar but says little about him, was prejudiced against
+                    Italians. There is little evidence in the context that Blake knew much more
+                    about Plutarch than that he wrote “lives”—though it’s
+                    interesting at least to recall, in connection with the poet-prophet idea, the
+                    comic discussion in Chapter 3 of <hi rend="i">An Island</hi> of
+                    “Phebus,” who was, among other things according to Obtuse Angle, the
+                    “God of . . . Painting, Perspective . . . Phraseology . . . Mythology . . .
+                    in short every art &amp; science adorn’d him as beads round his
+                    neck.” He also “understood Engraving”—though in the course
+                    of the insane conversation he ultimately is confused with Pharoah.<supplied type="spacer"> </supplied><ref target="n40" type="note">9</ref> Blake’s only other mention of Pindar
+                    by name is in an inscription on one of his pencil drawings: “Corinna the
+                    Rival of Pindar Corinna the Graecian Poetess.”<supplied type="spacer"> </supplied><ref
+target="n41" type="note">10</ref> The allusion here is to the story that Pindar in his youth was
+                    defeated in a poetical contest by Corinna, who then advised him to use more
+                    mythology in his poems; when he did so she ungraciously criticized his using it
+                    too profusely. The suggestiveness of this Pindar-lyre-swan-genius association
+                    (occurring as it does about 1797 when Flaxman commissioned the Gray series for a
+                    gift to his wife)<supplied type="spacer"> </supplied><ref target="n42"
+type="note">11</ref> is strengthened by the
+                    earlier appearance in <hi rend="i">America</hi> of a comparable swan (plate 11),
+                    like the Gray swan being ridden with gentle—though not quite so
+                    gentle—rein. Erdman describes this one as hastening “from
+                    Albion’s fires . . . to safer homes inland” (<hi rend="i">IB</hi>,
+                    149), though such action seems hardly to demonstrate prophetic power or
+                    fortitude. (If indeed the swan-rider is fleeing “the British bombardment of
+                    coastal towns” as Erdman claims, we might wonder why he heads East instead
+                    of West, as the fleeing family in plate 3 does.) Yet Erdman does identify the
+                    rider as an Orc-Los “image,” as Samuel Adams (that is,
+                    “Boston’s Angel” who speaks the prophetic words of plate 11),
+                    Tom Paine, and “the poet himself in disguise . . . like Horace.” While
+                    his additional idea of this being a “pen swan” may not be as
+                    far-fetched as it sounds on the surface, Erdman’s Horatian reference is
+                    most unfortunate. Horace did prophesy his poetic immortality in the context of
+                    feeling himself turning into a swan (surely echoing Socrates), but it is hard to
+                    imagine any poet who would serve less well as a prophetic model, or indeed any
+                    kind of poetic model, for Blake. The fact is, of course, that Horace is alluding
+                    to the very tradition Blake himself is making use of. Erdman is right: the rider
+                    is the poet, prophet, Blake—riding Eastward toward the advancing
+                    “dragon form” of “Albion’s wrathful Prince” (<hi rend="i">America</hi> 3:14-15).
+<note id="n40"><hi rend="s">9</hi> E 442-43.
+                        Earlier Blake invokes Apollo with his “rays of light” and
+                        “truth’s beams” in his <hi rend="i">Poetical Sketches</hi>
+                        poem, “An Imitation of Spencer.”</note>
+	<note id="n41"><hi rend="s">10</hi> See <hi rend="i">Pencil Drawings of William
+                            Blake</hi>, ed. Geoffrey Keynes (London, 1927), p. 45. The Corinna
+                        episode was among the most commonly retailed of Pindar anecdotes.</note>
+	<note id="n42"><hi rend="s">11</hi> Mary K. Woodworth, <hi rend="i">Notes &amp;
+                            Queries</hi>, 215 (n.s. 17) (1970), 312-13.</note></p>
+        <p>As attractive as all this may be, one may still wonder about the swan’s
+                    being bridled, however gently.<supplied type="spacer"> </supplied><ref target="n43"
+type="note">12</ref> If indeed
+                    its rider here is Orc-like, as his origins in the fiery figure of plate 10
+                    suggest, what we have in the total icon is poesy or prophecy being pressed by
+                    its rider into the violent action of bloody battle and the final loosing of
+                    plagues, “fierce disease and lust” (16:21) on England, a holocaust
+                    totally out of keeping with Apollo, Orpheus, the “Pindarick Genius,”
+                    poetry, and prophecy as Blake understood them. It is instead 
+<pb id="p15-166" n="166"/>
+prophecy perverted to war-song, one of the things he saw happening
+                    in Gray as well. Is this why the rider looks back, doubletaking his own violent
+                    image as well as the lost Eden of Atlantis on the previous plate? And is this
+                    why, as it seems to me, the swan strains at the rein? The contrasting view is
+                    seen in the serpent figure at the bottom of the page, which Erdman properly sees
+                    as smilingly attentive to its riders, so limply reined as to be free (note the
+                    limp arm of the rein-holder as distinct from the sharply tensed wrist of the
+                        swan-rider),<supplied type="spacer"> </supplied><ref target="n44" type="note">13</ref>
+its tail spiralling off
+                    into infinity-eternity, its riders “in long drawn arches sitting”
+                    feeling “the nerves of youth renew” (15:24-25). These riders, we
+                    should note, reverse (and hence annihilate) time through the true prophecy of
+                    the serpent, Blake moving us from the youthful rein-holder back to child back to
+                    infant back to the prophetic coils of the snake’s tail, repeating almost
+                    exactly the curlicue soaring upward from the “P” of
+                    “Prophecy” on plate 3,<supplied type="spacer"> </supplied><ref target="n45"
+type="note">14</ref> growing
+                    “vitally upward in endless communication that expands into words and
+                    poetry” (<hi rend="i">IB</hi>, 143). Erdman himself seems to sense
+                    something of the falseness of the Orc-prophecy and the dawning of Los-like
+                    vision in his commentary on the “Preludium”: “The poem beginning
+                    on Plate 3 presents a potentially cyclic revolution of rise and fall, rebellion
+                    and enslavement, threatening a perpetual dull round”;<supplied type="spacer"> </supplied><ref target="n46" type="note">15</ref> and also in his interpretation of the “Finis”
+                    design at the foot of plate 16, corroborating my reading of the serpent-swan
+                    opposition on plate 11: “Coiling among thorny but blossoming red roses, his
+                    head another rosebud, he directs his tongue in the proper prophetic position . .
+                    . .”<supplied type="spacer"> </supplied><ref target="n47" type="note">16</ref>
+	<note id="n43"><hi rend="s">12</hi> In commenting on Blake’s water-color
+                        drawing of “Fiery Pegasus,” however, Robert Essick says that this
+                        “emblem of inspiration . . . must be organized by a more restrained
+                        vision. The reins will become the bound and outward circumference of
+                        creative energy without destroying it” (“<hi rend="i">Preludium</hi>: Meditations
+on a Fiery Pegasus,” in <hi rend="i">Blake in His Time</hi>, ed. Essick and Donald Pearce [Bloomington and
+                        London: Indiana University Press, 1978], pp. 9-10). I’m not so sure
+                        of that. Prince Hal’s vaulting into the saddle, “turning and
+                        winding” Pegasus, and “witch[ing] the world with noble
+                        horsemanship”—the passage from <hi rend="i">Henry IV, Part
+                            I</hi> that Blake is illustrating—seems hardly an appropriate
+                        paradigm of the prophetic poet; more like Pope’s <hi rend="i">Essay
+                            on Criticism.</hi> Is this why Blake does not have the flying
+                        poet-prophet (?) bridle Pegasus at all but has him fly with (or as)
+                        Pegasus?</note>
+	<note id="n44"><hi rend="s">13</hi> One might compare this limp rein with the
+                        even limper one of the strange phallus-cloud-borne figure atop plate 1 of
+                            <hi rend="i">Visions of the Daughters of Albion</hi> (<hi rend="i">IB</hi>, 129),
+where the rein is attached, appropriately, to the
+                        “V” of “Visions,” the other vertical of the
+                        “V” terminating in a serpentine prophetic trumpet.</note>
+	<note id="n45"><hi rend="s">14</hi> In the cancelled variant of this plate (<hi rend="i">IB</hi>, 392) that
+curlicue is absent.</note>
+	<note id="n46"><hi rend="s">15</hi><hi rend="i"> IB</hi>, 139. The bridled swan, like Essick’s
+                        potentially (or necessarily) bridled Pegasus, has its counterpart in the
+                        Gray titlepage, which may, then, be a satiric rather than complimentary
+                        portrait. In fact, the poet of the title-page may be seen as an idealized
+                        portrait of Blake himself (the Gray of plate 2 is at least reminiscent of
+                        Gray’s profile, and in any case is most unlike the face of the
+                        “Genius”). Tayler, in <hi rend="i">Blake’s Illustrations to
+                            . . . Gray</hi>, takes no note of the differences but does certify plate
+                        2 as “strikingly similar to Gray’s as it had appeared in the
+                        Basire engraving done while Blake was Basire’s apprentice, and also
+                        to Blake’s later pencil sketch, ‘The poet, Gray’”
+                        (p. 22). My suggestion is lent credence by the final plate of the series,
+                        “Gray himself, guided by his visionary illustrator,” as Tayler
+                        puts it (p. 146). Here Gray and Blake look alike.</note>
+	<note id="n47"><hi rend="s">16</hi><hi rend="i"> IB</hi>, 155. In Ovid as elsewhere Venus’s chariot is
+                        drawn by winged swans (<hi rend="i">Metamorphoses</hi>, X), making an
+                        association of serpent, rose, and swan in Blake at least tantalizing. In
+                        Edward A. Armstrong’s <hi rend="i">The Folklore of Birds</hi> (New
+                        York: Dover, 1970; orig. ed. 1958), there is an engraving (after an
+                        unidentified Roman work) of Apollo in a swan-drawn chariot (p. 51) and one
+                        of a vase or wine-jar design of Adonis and Aphrodite riding in a chariot
+                        drawn by two swans (p. 45). For other less-than-sanguine readings of 
+<hi rend="i">America</hi> see Robert E. Simmons, “<hi rend="i">Urizen</hi>: The Symmetry of Fear”; Michael J.
+Tolley, “<hi rend="i">Europe</hi>: ‘to those ychain’d in
+                        sleep’”; and Erdman’s longer version of his <hi rend="i">IB</hi> commentary,
+“<hi rend="i">America</hi>: New
+                        Expanses”—all in <hi rend="i">Blake’s Visionary Forms
+                            Dramatic</hi>, ed. Erdman and John E. Grant (Princeton: Princeton
+                        University Press, 1970). The latest “pessimistic” reading of 
+<hi rend="i">America</hi> is Minna Doskow’s “William
+                        Blake’s <hi rend="i">America</hi>: The Story of a Revolution
+                        Betrayed,” <hi rend="i">Blake Studies</hi>, 8 (1979),
+                    167-186.</note></p>
+        <p><hi rend="i">The Illuminated Blake</hi> indexes a number of other etched swans in
+                    the early works—up through <hi rend="i">The Marriage of Heaven and
+                        Hell</hi> (though I find none in “The Ecchoing Green” or on plate
+                    8 of <hi rend="i">The Marriage</hi> as indexed), none of them incontrovertible
+                    except those in <hi rend="i">There Is No Natural Religion</hi> and “The
+                    Little Boy lost.” While it is possible that in the former (plate 8a) the
+                    boy approaches the swan because it “might be ridden” (<hi rend="i">IB</hi>, 29), the
+text suggests it as the visible expression of the
+                    increasingly unlimited desires of the reaching child. If “More! More! is
+                    the cry of a mistaken soul” and “less than All cannot satisfy
+                    man” (<hi rend="i">No Natural Religion</hi>, 7b), the child as he stands is
+                    no better off than the reachers of <hi rend="i">No Natural Religion</hi>, 7b;
+                    but as the numerically comparable plate 7a vividly suggests, that
+                    “All” is the imagination that produces “the spiritual music
+                    rising from the pipe of the musician” (<hi rend="i">IB</hi>, 29). In plate
+                    8a, then, the swan <hi rend="i">will</hi> rise and fly freely (not, I think,
+                    reined) as the Renaissance’s Poesia or Blakean prophecy in precisely the
+                    same way as the mind-forged-manacled man of <hi rend="i">No Natural
+                        Religion</hi> 8b rises from the morass in plate 9b. It is quite possible, of
+                    course, that such a “retrospective” reading of this earliest of all
+                    Blake’s swans, from the perspective of <hi rend="i">America</hi> and the
+                    Gray illustrations, is an over-reading, but the nature of the prophetic tracts,
+                    along with the earlier allusions to “Phebus” and Pindar in <hi rend="i">An Island in
+the Moon</hi> at least allow the possibility. In this
+                    light Erdman must be correct about “The Little Boy lost” plate in
+                    saying that the swan there, also floating behind (or in) the “y” of
+                    “Boy” in the title, is a “fitter object for boy with outstretched
+                    arms [precisely, one might add, in the same striding position as the <hi rend="i">No
+Natural Religion</hi> boy—though he moves <hi rend="i">toward</hi> the swan and is, importantly, unclad] to
+pursue . . . ”
+                        (<hi rend="i">IB</hi>, 54). And “The Little Boy lost” is, of
+                    course, also a poem about erroneous perception. In both cases, then, it seems
+                    proper to identify the swans, not with desire itself, but rather with the
+                    prophetic, visionary, imaginative perception and art that is the product of
+                    desire, and the child as the incipient poet who will not ride the swan but, like
+                    Orpheus or Pindar, become it.<supplied type="spacer"> </supplied><ref target="n48"
+type="note">17</ref>
+	<note id="n48"><hi rend="s">17</hi> In <hi rend="i">IB</hi> Erdman indexes a
+                        number of other possible swans in the <hi rend="i">Songs, The Marriage</hi>,
+                        and <hi rend="i">Milton</hi>, some of these, at least, suggesting a
+                        confusion in his mind (or eye) between his bird of paradise (the
+                        imagination, often accompanying the birds of the five senses) and swans.
+                        Perhaps Blake’s lack of discrimination, or etched definition, here is
+                        intentional? In any case, it is probably safe to say that flying swans are
+                        “better” than floating ones.</note></p>
+        <p>I pass over <hi rend="i">Jerusalem</hi> 71 here as a clear anti-swan image,
+                    bat-winged and not only firmly planted (apparently on the ground) but even
+                    grovelling ridiculously and “fatuously kissing or nibbling at the
+                    toes” of the Leda-like Vala (<hi rend="i">IB</hi>, 350). If she puts on his
+                    knowledge with his power (both of which seem calculatedly absent in
+                    Blake’s satiric portrait of the spectrous swan), both will eventuate in
+                    the maze of error, prophecy become labyrinthine mystery, emanating from the
+                    Vala-like figure’s head. But we cannot pass over the most troublesome of
+                    all Blake’s swans, the one in <hi rend="i">Jerusalem</hi> 11.</p>
+        <p>Most recently David Bindman, obviously unhappy with the Erdman reading I shall
+                    turn to in a moment, advanced two other interpretations of plate 11
+                    (Ovid’s King Cygnus legend and the swan as the River Severn), only to
+                    argue persuasively against both.<supplied type="spacer"> </supplied><ref target="n49"
+type="note">18</ref> I am less
+                    sceptical about Erdman’s elaborate allegory of the swan as both singing
+                    and etching the plate with its beak, complemented by the swimming-flying figure
+                    at the bottom of the plate producing “infinite illumination”:
+                    “Like the serpent of Hell [in plate 15 of <hi rend="i">The Marriage</hi>],
+                    the serpent-necked swan projects lineation. Like the eagle, the feather-finned
+                    skimmer adorns the surface with living colors (needing the spectral fins while
+                    the colors are wet, the feathers for rising from illustration to
+                        Illumination).”<supplied type="spacer"> </supplied><ref target="n50"
+type="note">19</ref> Given the text of
+                    the plate, there seems to me little doubt that Erdman is on the right track,
+                    however much one may balk at his wrapping up all of the plate’s minute
+                    particulars so tidily. Even so, I still have some problems with his reading.
+                    While the design, as he notes, is one of only ten white-line etchings in 
+<hi rend="i">Jerusalem</hi>, the text is in Blake’s usual relief etching,
+                    the contrary processes married. It doesn’t really matter, then, which
+                    process the swan is engaged in. What is to the point are its bubbles (acid),
+                    eating into the plate, and swimming-flying through it, corroding apparent
+                    surfaces away to reveal the infinite that was hid. Part of the
+                    “infinite” is the text itself, which we note is under water, that is,
+                    within the plate on which the swan-prophet-graver sits. The rest of the infinite
+                    is the text humanized, still streaming the acidic bubbles on wrists, neck, and
+                    hair (or head-dress).<supplied type="spacer"> </supplied><ref target="n51"
+type="note">20</ref> At the same time,
+                    although Blake repeats in this lower design the lines of the water above to
+                    remind us that the swimmer is within the plate, not merely “on” it,
+                    the figure is also clearly flying, arms outstretched in a familiar Blakean
+                    gesture of airy freedom. In a sense, then, this is the swan, now fully humanized
+                    and in full flight, no longer merely floating (or planted) in the materials of
+                    the artifice but assuming total mythographic status as poet-prophet-artist as
+                    well 
+<pb id="p15-167" n="167"/>
+as poem-prophecy-art. The entire plate is thus
+                    the Erin of the text, not merely the swimmer-flyer as Erdman suggests: “And
+                    the Spaces of Erin reach’d from the starry heighth, to the starry
+                    depth,” the spaces that are the enabling agency for the process that will
+                    eventuate in the immediately following plates (12ff). It is, to borrow Angus
+                    Fletcher’s terms, the prophetic moment, space and time (Los’s
+                    “pulsations of time, &amp; extensions of space” during and in which
+                    he performs his “sublime Labours”—<hi rend="i">J</hi>, 11:2 and
+                    10:65). That the moment does not last the text tells us, as well as the parody
+                    of this visionary creative activity that is imaged in the margin of plate
+                    12—for “Around Golgonooza lies the land of death eternal; a Land /
+                    Of pain and misery and despair and ever brooding melancholy” (13:30-31).
+                    But the moment’s augury is too powerful to be denied: the embrace of
+                    plate 99 will come. <note id="n49"><hi rend="s">18</hi> Bindman, <hi rend="i">Blake as an
+Artist</hi>, p. 182. Erdman mentions Cygnus also, gingerly;
+                        see <hi rend="i">IB</hi>, 290. Yeats predictably invokes
+                        “Leda-Swan” (<hi rend="i">The Works of William Blake</hi>, ed.
+                        Yeats and E. J. Ellis [London: Quaritch, 1893], II, 357).</note>
+	<note id="n50"><hi rend="s">19</hi><hi rend="i"> IB</hi>, 291. Erdman’s yoking of swan and eagle, albeit
+                        qualified by his reference to the serpent, interestingly parallels
+                        Gray’s “confusion” of Pindar as swan and eagle (see my note
+                        8).</note>
+	<note id="n51"><hi rend="s">20</hi> It would be nice, if perhaps foolish (though
+                        his detailed recall of his own past work is astonishing), to think that
+                        Blake here remembered a part of the “Phebus” passage in <hi rend="i">An Island in
+the Moon</hi>: “ . . . in short every art
+                        &amp; science adorn’d him [Apollo] as beads around his neck” (E
+                        442). Is it possible that Blake knew any of the myths of swan-maidens, which
+                        appear all over Europe and in Ireland (not, so far as I know, in England),
+                        and which involve, among other characteristics in common, a magical necklace
+                        as not merely a talisman of swan-womanhood but the agency of the
+                        transformation? See Anna Louise Frey, <hi rend="i">The Swan-Knight
+                            Legend</hi>, in <hi rend="i">Contributions to Education Published under
+                            the Direction of George Peabody College for Teachers</hi>, No. 103
+                        (Nashville, 1931). Ripa has an interesting Indian with headdress and beads
+                        in his “America” emblem (<hi rend="i">Baroque and Rococo Pictorial
+                            Imagery</hi>, ed. Edward A. Maser [New York: Dover, 1971], No. 105). In
+                        any case, Aradobo and Obtuse Angle ignorantly confuse Phebus and Pharaoh,
+                        and if Mrs. Sigtagatist chides them all for “making use of the names in
+                        the Bible” (E 443), Blake did not hesitate to put the classical sun-god
+                        in the Bible and, in the true Christian tradition, Christianize him into
+                        Jesus Christ, the imagination, the archetypal Artist.</note></p>
+        <p>Even if we accept the view of plate 11 that I have advanced, or some compromise
+                    between it and Erdman’s, the sexes of both swan and swimmer-flyer, as
+                    well as the Indian appearance of the latter still nag (on the Indian see my note
+                    20). The safest answer is the one Erdman gives: “In their present
+                    appearance both figures are androgynous, possibly nearer Eternity than Beulah,
+                    possibly nearer Ulro” (<hi rend="i">IB</hi>, 291). Possibly. Damon sees
+                    both as female, the swan “the Female Will,” the lower figure
+                    “Inspiration (an Emanation),” and Yeats suggests “Leda-Swan”
+                    for the one, “Vala, or America, as Oothoon, taking ‘her impetuous
+                    course’ o’er Theotormon’s reign” for the other.<supplied type="spacer"> </supplied><ref target="n52" type="note">21</ref> If indeed <hi rend="i">Jerusalem</hi> 71
+                    recalls the Zeus-Leda myth, as it certainly seems to, can we arbitrarily ignore
+                    that myth on plate 11 and invoke Horace and King Cygnus instead? I think not. I
+                    have already indicated that Horace is a most unlikely and 
+<corr type="emend">unapropos</corr> allusion,
+                    and none of the three Cygnus stories told by Ovid has the remotest connection
+                    with anything on this plate—not to mention, as Bindman reminds us, that
+                    Cygnus was “indubitably male.”<supplied type="spacer"> </supplied><ref target="n53"
+type="note">22</ref>
+                    If a simple spectre-emanation contrariety were all that Blake wanted, he surely
+                    would have made that clearer. What, then, does the Ledean swan have to do with
+                    the Orphic swan? <note id="n52"><hi rend="s">21</hi><hi rend="i"> William Blake: His
+Philosophy and Symbols</hi>, p. 469; Ellis
+                        and Yeats, II, 357. In his admirable <hi rend="i">Blake’s Composite
+                            Art</hi> (Princeton: Princeton University Press, 1978), W. J. T.
+                        Mitchell argues a similar opposition between the two figures, the
+                        “prophetic swan-woman versus the fashionable goldfish-woman” (p.
+                        200), part of a pattern he sees throughout <hi rend="i">Jerusalem</hi> of
+                        contrasting female images, one “the naked, sexually liberated guide . .
+                        . who leads humanity to the realm of imagination and forgiveness . . . and
+                        the heavily clothed Vala-sibyl who keeps her subjects’ minds . . . on
+                        mundane matters” (p. 199). Mitchell seems to have in mind
+                        Blake’s goldfish in his designs to Gray, and it is certainly true
+                        that plate 4 of “Ode on the Death of a Favourite Cat” includes two
+                        figures reminiscent at least of the swimmer-flyer of <hi rend="i">Jerusalem</hi> 11. I
+see less thematic and iconic connection here,
+                        though, than in Gray’s lines on the “Theban Eagle” Pindar
+                        in “The Progress of Poesy” where he “sails” with
+                        “supreme dominion / Thro’ the azure deep of air.” In any
+                        case, given the entire text and design, I cannot regard the two figures in
+                            <hi rend="i">Jerusalem</hi> 11 as opposed to each other.</note>
+	<note id="n53"><hi rend="s">22</hi><hi rend="i"> Blake as an Artist</hi>, p. 182.</note></p>
+        <p>Let us go back to Cygnus for a moment. There is an interesting connection between
+                    the Leda-Swan story and Cygnus in that both have reference to the Trojan War. In
+                    Book XII of the <hi rend="i">Metamorphoses</hi> Achilles, in the height of the
+                    battle for Troy, seeks out Cygnus, who unknown to Achilles, has been made
+                    invulnerable to spear and sword by his father Neptune. Achilles finally corners
+                    him, however, pressing him against a rock, then throws him down and, kneeling on
+                    his ribs, strangles Cygnus with the thongs of his own helmet. It is at that
+                    moment that Neptune transforms Cygnus into a swan. As I indicated earlier, it
+                    seems ridiculous to associate <hi rend="i">Jerusalem</hi> 11 with this bloody
+                    story, but the collocation of Leda (who, we should recall, became Nemesis after
+                    her rape), Zeus-swan, the Trojan War, Achilles, and Cygnus-swan is difficult to
+                    ignore entirely. However circuitous a route this is into Blake’s
+                    conception on plate 11 of <hi rend="i">Jerusalem</hi>, that plate does
+                    immediately precede the building of Golgonooza (as opposed to the destruction of
+                    Troy), the “realizing” of true prophecy as opposed to the bloody
+                    realization of “all human history flowing from” the false prophecy
+                    inherent in Leda’s rape.<supplied type="spacer"> </supplied><ref target="n54"
+type="note">23</ref> Although
+                    the union of Zeus and Leda would seem to be especially apropos in light of
+                    Blake’s woman-swan, then, its applicability, if any, must lie in his
+                    transformation of Bromion-like tyranny and its consequent vengeful
+                    destructiveness into the productive union of divine and human as the
+                    artist-builder. Blake was not unacquainted with Homer, as we know. His antipathy
+                    to the “Classics . . . that Desolate Europe with Wars” erupts angrily
+                    in the 1820 etching “On Homer’s Poetry &amp; On Virgil”: 
+					<q>
+                        Sacred Truth has pronounced that Greece &amp; Rome as Babylon &amp; Egypt:
+                        so far from being parents of Arts &amp; Sciences as they pretend: were
+                        destroyers of all Art. Homer Virgil &amp; Ovid confirm this opinion. . .
+                        .<lb/>
+ Rome &amp; Greece swept Art into their maw &amp; destroyd it. . . .
+                        Grecian is Mathematic Form Gothic is Living Form. . . .<supplied type="spacer"> </supplied><ref target="n55" type="note">24</ref></q>
+Such living form is what the swan of 
+<hi rend="i">Jerusalem</hi> 11
+                    creates, the product of a “redeemed” Leda-Swan / Los-Enitharmon being
+                    not war but the corrosive spirit that burns away the apparent surfaces of
+                    history to reveal the infinite “Nature of Eternal Things . . . All
+                    Springing from the Divine Humanity” (<hi rend="i">A Vision of the Last
+                        Judgment</hi>, E 551); for 
+						<q> All things acted on Earth are seen in the
+                        bright Sculptures of<lb/>
+ Los’s Halls &amp; every Age renews its
+                        powers from these Works<lb/>
+ With every pathetic story possible to happen
+                        from Hate or<lb/>
+ Wayward Love &amp; every sorrow &amp; distress is carved
+                        here<lb/>
+ Every Affinity of Parents Marriages &amp; Friendships are
+                        here<lb/>
+ In all their various combinations wrought with wondrous Art<lb/>
+                        All that can happen to Man in his pilgrimage of seventy years<lb/>
+ Such is
+                        the Divine Written Law of Horeb &amp; Sinai:<lb/>
+ And such the Holy Gospel
+                        of Mount Olivet &amp; Calvary (<hi rend="i">Jerusalem</hi> 16:61-69) </q>
+                    With no mention of Leda anywhere in Blake’s works, however, we may still
+                    rest discontented with this sort of Blakean transformation of the
+                    “classics” and the “detestable Gods of Priam” (<hi rend="i">Milton</hi>
+14:15)—though it is worth recalling here that in such
+                    influential emblem books as Ripa’s <hi rend="i">Iconologia</hi> and
+                    Christophorus Giarda’s <hi rend="i">Icones symbolicae</hi>, Poesy (or
+                    Poesia) is almost always a female figure, holding a lyre in one hand and a
+                    plectrum in the other, with a white swan attendant.<supplied type="spacer"> </supplied><ref target="n56" type="note">25</ref>
+	<note id="n54"><hi rend="s">23</hi> Raine, II, 306.</note>
+	<note id="n55"><hi rend="s">24</hi> E 267. Such sentiments are found in Blake as
+                        early as <hi rend="i">King Edward the Third</hi>; see especially its sixth
+                        scene (E 428-30). We should also recall his condemnation of Jupiter as
+                        “the enemy of conjugal love . . . an iron-hearted tyrant, the ruiner of
+                        ancient Greece,” a “spectrous Fiend,” and “the ruin of
+                        my labours” (letter to Hayley, 23 October 1804, E 702); also <hi rend="i">The
+Laocoön</hi> plate and the half-dozen references in
+                        his works to the “Gods of Priam.”</note>
+	<note id="n56"><hi rend="s">25</hi> Clements, “Iconography . . . ,” p.
+                        782. According to A. and B. Rees’s <hi rend="i">Celtic Heritage</hi>
+                        (1961), “swan” was frequently used in both Irish and Greek
+                        literature as a metaphor for “girl” (noted in the very beautiful
+                        book, <hi rend="i">The Swans</hi>, ed. Peter Scott [Boston: Houghton
+                        Mifflin, 1972], p. 155; see also the entire essay, “The Swan in
+                        Mythology and Art” by Mary Evans and Andrew Dawnay, included in this
+                        book).</note></p>
+        <p>One final suggestion about Blake’s swans, one that may have some bearing,
+                    particularly, on <hi rend="i">Jerusalem</hi> 11: Spenser’s <hi rend="i">Ruines of
+Time</hi>—which I have already suggested Blake knew
+                        well<supplied type="spacer"> </supplied><ref target="n57" type="note">26</ref> and
+which includes allusions to
+                    “fair Ledaes warlick twinnes” (1.386), Orpheus and Eurydice
+                    (11.391-92), and the immortality of art, which laments the ruin of
+                    “Verlame,” and which is an elegy on the death of
+                    Sidney—concludes with six verbal emblems, the first two of which may have
+                    some relationship to <hi rend="i">Jerusalem</hi> 11. The first of these is
+                    Sidney as a swan floating 
+<pb id="p15-168" n="168"/>
+down the Thames and sweetly
+                    singing “the prophecie / Of his owne death in dolefull Elegie,” after
+                    which 
+					<q> With loftie flight aboue the earth he bounded,<lb/>
+ And out of sight
+                        to highest heauen mounted:<lb/>
+ Where now he is become an heauenly
+                        signe.<lb/>
+ (11.599-602) </q>
+Similarly constellated is the Orphean harp of
+                    the second emblem: 
+					<q> Whilest thus I looked, loe adowne the <hi rend="i">Lee</hi>,<lb/>
+ I sawe an Harpe stroong all with silver twyne,<lb/>
+ And
+                        made of golde and costlie yuorie,<lb/>
+ Swimming, that whilome seemed to haue
+                        been<lb/>
+ The harpe, on which <hi rend="i">Dan Orpheus</hi> was seene<lb/>
+                        Wylde beasts and forrests after him to lead,<lb/>
+ But was th’Harpe of
+                            <hi rend="i">Philisides</hi> now dead.<lb/>
+<lb/>
+ At length out of the
+                        Riuer it was reard<lb/>
+ And borne aboue the cloudes to be diuin’d. .
+                        . .<supplied type="spacer"> </supplied><ref target="n58" type="note">27</ref>
+	<note id="n57"><hi rend="s">26</hi> “Blake’s ‘I Saw a Chapel
+                            All of Gold,’” <hi rend="i">Colby Library Quarterly</hi>, 15
+                            (1979), 37-47.</note>
+	<note id="n58"><hi rend="s">27</hi> L1. 603-11. Ovid has the waters of
+                            Hebrus receive Orpheus’ dismembered head and lyre and, as both
+                            floated down midstream, “The lyre uttered a plaintive melody and
+                            the lifeless tongue made a piteous murmur” (<hi rend="i">The
+                                “Metamorphoses” of Ovid</hi>, trans. Mary M. Innes
+                            [Baltimore: Penguin, 1955], Book XI, p. 247).</note></q>
+Even if the swan here is
+indubitably as male as Cygnus (was Blake
+                    conflating the indubitably female swans of the <hi rend="i">Prothalamion</hi>
+                    with this one?), the context of <hi rend="i">The Ruines of Time</hi> is
+                    marvellously apt—for, as we know, “The Ruins of Time builds Mansions
+                    in Eternity” (E 678), precisely what swan-flyer-swimmer, Los-Enitharmon,
+                    Sidney-swan, Orpheus-harp, and Blake all demonstrate in their own respective
+                    ways. In his youth Blake, imitating Spenser, called upon these detestable gods
+                    of Priam—Apollo, Mercury, Jove, and Pallas Athena—but it did not
+                    take him long to recognize that pantheon’s dead-endedness and to take
+                    flight, in his own transmutation of part of that pantheon, as a swan. 
+                </p>
+      </div1>
+	<pb id="p15-169" n="169" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

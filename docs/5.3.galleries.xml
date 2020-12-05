@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.galleries</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Blake in the Galleries</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+        <pb id="p05-163" n="163"/>
+            <div1 id="BQ-05-3-0002">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWS</hi>
+                    </title>
+                </head>
+				<q>
+                    <hi rend="i">RECENT BLAKE SALES—See Robert Essick’s essay “Blake at Auction 1971”
+below</hi>, Notes.
+</q>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">BLAKE IN THE GALLERIES</hi>
+                        </title>
+                    </head>
+                    <p>
+                        <hi rend="i">The Tate Gallery</hi>, London, announces that “following the very
+successful exhibition of William Blake’s illustrations to the poems of Thomas Gray, organized by the William
+Blake Trust in association with the Tate Gallery, the Tate’s own collection of works by Blake has been
+re-hung in Gallery 29. Some additional works normally in store have been added to the display but more
+exciting are two important loans, “Winter” and “Evening,” lent by the Trustees of the Rev. B. T. Vaughan
+Johnson. These were painted by Blake to flank a fireplace at his friend The Rev. John Johnson’s Rectory at
+Yaxham, Norfolk, which was rebuilt in about 1820-21; they have remained in the possession of the family ever
+since. Unfortunately, a third painting, a frieze showing Olney Bridge, which ran across the top of the
+fireplace, seems to have been destroyed early this century.”</p>
+                    <p>
+                        <hi rend="i">The Pierpont Morgan Library</hi>, New York, exhibited the Blake
+collection of Mrs. Landon K. Thorne from 19 November to 22 January. The collection of books, manuscripts,
+drawings, and engravings had never been seen before as a unit in public exhibition. At the same time the
+Library showed Blake’s watercolors for Milton and the Library’s recently purchased copy of 
+<hi rend="i">Poetical Sketches.</hi> A catalogue of the exhibition, <hi rend="i">The Blake Collection of Mrs.
+Landon K. Thorne</hi> (60 pp. of text, 30 pls.) by G. E. Bentley, Jr., has been published.</p>
+                    <p>
+                        <hi rend="i">The Albright-Knox Art Gallery</hi>, Buffalo, New York, in late 1971
+exhibited its copy of Blake’s Job engravings and of the seven Dante engravings, both proof copies. They were
+purchased by the Gallery in 1943, but have never been shown there as a unit, and have been shown only once
+outside the Gallery, at Buffalo’s 20th Century Club in 1951. <hi rend="i">(Our thanks to Professor Thomas
+Connolly for calling our attention to the Albright-Knox exhibit. Eds.)</hi>
+                    </p>
+                    <p>
+                        <hi rend="i">Paris, early 1972</hi>, will see Blake well represented in a major
+exhibition of British Romantic painting. The catalogue entries for the Blake pictures have been written by
+David Bindman (Lecturer in the History of Art, Westfield College, London). There are likely to be twelve items
+shown: <hi rend="i">The Adoration of the Kings</hi> (Brighton Art Gallery); <hi rend="i">The Head of
+Voltaire</hi> (Manchester Art Gallery); <hi rend="i">The Ancient of Days</hi>, colored print (Whitworth Art
+Gallery, Manchester); <hi rend="i">The House of Death</hi>, monotype (Fitzwilliam Museum, Cambridge); 
+<hi rend="i">Death on a Pale Horse</hi> (Fitzwilliam); <hi rend="i">Pity</hi>, monotype (Tate Gallery); 
+<hi rend="i">Newton</hi>, monotype (Tate); <hi rend="i">Beatrice on the Car</hi>, watercolor (British Museum); 
+<hi rend="i">The Circle of the Lustful</hi>, watercolor (Birmingham City Art Gallery); <hi rend="i">Thornton’s
+Virgil</hi>, wood engravings (Victoria and Albert Museum); <hi rend="i">Songs of Innocence and of
+Experience</hi> (Kings College, Cambridge); <hi rend="i">Small Book of Designs</hi>, four plates (British
+Museum).</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

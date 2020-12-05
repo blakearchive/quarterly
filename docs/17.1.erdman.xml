@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.erdman</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Redefining the Texts of Blake (another temporary report)</title>
+        <author n="Erdman">David V. Erdman</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+    <pb id="p17-4" n="4"/>
+      <div1 id="BQ-17-1-0005">
+        <head>
+          <title type="main">
+            <hi rend="b">Redefining the Texts of Blake (another temporary report)</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="i">DAVID V.</hi>
+            <name>
+              <hi rend="i">ERDMAN</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>Thirteen years ago I submitted “A Temporary Report on Texts of Blake” to the Damon
+Festschrift.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> Wondering how perfectly
+or imperfectly the “texts” which Blake had etched, left in manuscript, or submitted to printers were
+represented in the available and forthcoming editions of Blake and in the <hi rend="i">Concordance</hi> of
+1968 prepared by a team of ten Blake scholars, I made a survey of the “particular passages” that remained
+“incompletely transcribed or not certainly established.” Since that time the informal collaboration of
+editors and other scholars in a “web of mutual communication of reports and queries and photostats” has
+continued, and the number of uncertain passages has diminished. Many cruxes remain, however, and some of the
+“certainties” of 1969 have been questioned. And the hope for technological advances that would reduce the
+“illegibles” of palimpsest (chiefly in <hi rend="i">The Four Zoas</hi>) has risen high, only to sink
+again. <note id="n1"><hi rend="s">1</hi> Pp. 395-413, 494-98, in Alvin H. Rosenfeld, ed., <hi rend="i">William
+Blake: Essays for S. Foster Damon</hi> (Brown Univ. Press, 1969).</note></p>
+        <p>The texts collated for this new report are four:
+<table rows="4" cols="2"><row>
+	<cell>E</cell>
+	<cell>Erdman, ed. <hi rend="i">The Poetry and Prose of William Blake</hi> (Doubleday 1965, fourth printing
+1970) with commentary by Bloom.</cell>
+</row>
+<row>
+	<cell>K</cell>
+	<cell>Keynes, ed. <hi rend="i">Blake: Complete Writings</hi> (Oxford Univ. Press 1966; 4th revised printing
+1976; fifth 1979<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref>). 
+<note id="n2"><hi rend="s">2</hi> The 1976 printing of K was checked thoroughly in the preparation of C; the 1979 printing
+reached me only after C had gone to press, but a fairly complete collation of the passages in the present
+report revealed very few changes from K1976. Characteristic errors that might have been corrected from E
+continue in 1979: “thoughts” for “thought” in Anno. Swedenborg p. 12; “Infinity” for
+“Infinite” in Anno. Swed. p. 40; <hi rend="i">America</hi> 5:3 retains “enclos’d” for “inclosd”
+and there are no corrections of <hi rend="i">America</hi> c. The K text of <hi rend="i">The Four Zoas</hi>
+remains frequently inadequate. On K268 “these” is not corrected to “them” in “I have murderd
+them”; “Or hover’d over” (K284:182) should read “Or hoverd oer”; “turned into cries” (K310)
+should read “turned to cries”; “better hope” (K355:547) should be “bitter hope”; “girded”
+(K370:504) is a mistake for “girded on”; “Aloud” (K380) a misreading of “O Luvah.” In the 3rd
+edition of the <hi rend="i">Letters</hi> (1980) Keynes made several corrections—such as changing the date of
+letter 56 (K859) from April to March and revising “Home” to “House”—that were not transferred to the
+K text.
+                                    <p>The “1979” Preface mentions only two corrections (on pp. 184 and
+644 respectively: see below). The second of these is a surprising one, replacing “worshipped” with
+“warshipped” as probably a “deliberate ‘misprint’ ” that amused Blake (a contextual pun, accepted
+in the C text as well). Still more curious is an unmentioned change in <hi rend="i">MHH</hi> 7:13, from
+“wholesome” back to Blake’s “wholsom” (K151): curious because the K text is conscientiously
+normalized in spelling—and indeed Blake’s “Wholesom” in <hi rend="i">PA</hi> p. 19 is kept in
+normalized spelling (“Wholesome”) in K599. Also, for instance, in <hi rend="i">FR</hi> 216 (K144)
+Blake’s “beastial” (respected by Johnson’s printer) remains normalized (K144) as “bestial,” and on
+K256 the Keynes “steadfast” is not changed to Blake’s “stedfast.”</p>
+	<p>It may be deduced from these and several other examples that the K text of 1979 received only a very few
+touches of revision or correction, quite possibly more spelling changes than I have noticed but probably very
+few substantive changes, or none, except in the two passages called attention to in the Preface. The present
+collation, in short, can stand as a near equivalent to a collation of the 1979 as well as the 1976
+Keynes.</p></note>
+	</cell>
+</row>
+<row>
+	<cell>B</cell>
+	<cell>Bentley, ed. <hi rend="i">William Blake’s Writings</hi> (Oxford Univ. Press 1978; two vols. paginated
+continuously).</cell>
+</row>
+<row>
+	<cell>C</cell>
+	<cell><hi rend="i">The Complete Poetry</hi> &amp; <hi rend="i">Prose of William Blake</hi>, ed. Erdman, with
+commentary by Bloom (Doubleday, paper; University of California Press, cloth 1982).</cell>
+</row></table>
+Also occasionally cited are:
+<table rows="3" cols="2"><row>
+	<cell>BB</cell>
+	<cell>Bentley, <hi rend="i">Blake Books</hi> (Oxford Univ. Press 1977).</cell>
+</row>
+<row>
+	<cell><hi rend="i">N</hi></cell>
+	<cell>Erdman and Moore, eds. <hi rend="i">The Notebook of William Blake</hi> (photographic and typographic
+facsimile; Oxford Univ. Press 1973; revised ed. Readex Books 1977). N, not in italics, refers simply to the
+Notebook itself.</cell>
+</row>
+<row>
+	<cell>SAP</cell>
+	<cell>Erdman “The Suppressed and Altered Passages in Blake’s <hi rend="i">Jerusalem</hi>,” 
+<hi rend="i">Studies in Bibliography</hi> 17 (1964): 1-54.</cell>
+</row></table></p>
+        <p>“C” has been chosen as symbol for the new edition (rather than, say, E<hi rend="s">2</hi>) as
+more impersonal and in recognition of the committees of textual scholars who watched and assisted the
+labor—judicially the CSE (MLA) who approved the procedures and format; critically the four scholars who
+helped check the text against originals or via film and facsimile: Robert Essick, John E. Grant, Mary Lynn
+Johnson Grant, and E. B. Murray. The present report is not quite exhaustive (dealing rarely with punctuation)
+and is intended primarily to enable users of any of the texts collated to find quickly what differences appear
+in C. Explanations of changes in C will be found in its textual notes, but certain critical passages are
+discussed briefly in this report. (Changes made in the second and third printings of E are not cited.) Points
+where B questions readings in E are attended to in the textual notes of C but if puzzling also noted here.</p>
+        <p>The fact that text and notes have been completely reset for C (and many of the notes rewritten)
+will mean that some errors have crept in. Responses to this report will be welcome, for revisions in
+subsequent printings.</p>
+        <p>The format of the textual notes in E and C is used in the notes that follow, and the symbols used
+in K and B are transposed into the same format. Square brackets [] enclose words or letters editorially
+inserted; italicized insertions represent [<hi rend="i">deleted matter</hi>] restored. Angle brackets &lt;&gt;
+enclose words or letters inserted by Blake; “rdg” and “del” stand for “reading” and
+“deleted.”</p>
+        <p>All editorial emendations are indicated, with one exception. For the possessive of “Los” Blake
+often wrote “Los’s” but also frequently omitted the apostrophe; in the latter instances, to avoid the
+clutter of brackets, the apostrophe has been inserted silently.</p>
+        <p>The textual note on punctuation has been revised somewhat. But I find that a further word is
+advisable about Blake’s indications for paragraphing and about his occasional intermingling of design and
+text, insofar as it concerns the transcriber. Pictures interrupting the text, in <hi rend="i">Milton</hi> and
+<hi rend="i">Jerusalem</hi> for instance, sometimes serve as paragraph breaks but sometimes not. The designs
+after line 12 and line 27 in <hi rend="i">J</hi> 9 and after lines 13 and 26 in <hi rend="i">J</hi> 20 do not
+halt the narrative; those in <hi rend="i">J</hi> 20 after lines 4, 11,
+<pb id="p17-5" n="5"/>
+20, 21, and 41 definitely do. And in his prose, Blake sometimes indicates a paragraph by a long dash, as after
+“Sword” in the <hi rend="i">Milton</hi> Preface.</p>
+        <p>Verse paragraphs are usually only spaced, but sometimes they are indicated by indentation; we treat
+them alike typographically. Sometimes a punctuation mark seems turning into vegetation or feather; sometimes a
+detail of foliage is thrust into position to serve as punctuation. Consider: is not the bird at the end of 
+<hi rend="i">J</hi> 61:23 serving as a dash—yet still in flight as a bird?</p>
+        <p>The punctuation for this edition (C) has been thoroughly checked by our proofreading team against
+originals and photographs and facsimiles, also against B. Agreement within the team has not always been
+unanimous; B, however, has been found more often disagreed with than agreed with in this matter. Textual notes
+deal with some of these punctuational cruxes, but no attempt is made to cover them in the present report.</p>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Works in Illuminated Printing</hi>
+            </title>
+          </head>
+          <p>The works are listed, in this and subsequent sections, in the order of arrangement of texts in E
+and C.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">All Religions are One</hi>
+              </title>
+            </head>
+            <p>Now placed first, from evidence given by Geoffrey Keynes in his Blake Trust facsimile (but not
+applied in K 1979). Spelling variants are all that occur:</p>
+            <p>Principle 4th travelling (KE) / traveling (BC)</p>
+            <p>Principle 5th Religeons (E) / Religions (KBC) each Nation’s (EK) / each Nations (BC)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">There is No Natural Religion</hi>
+              </title>
+            </head>
+            <p>The paragraph headed “Conclusion” is now moved from version (a) to version (b) following
+the paragraph headed “Application.”</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Songs of Innocence &amp; of Experience</hi>
+              </title>
+            </head>
+            <p><hi rend="i">Night</hi> 44 Grase (E) / Graze (KBC—see textual note) <hi rend="i">The
+Tyger</hi> [6 eyes!] (E) / eyes? (KBC) 16 clasp? (EK) / clasp! (BC)</p>
+            <p><hi rend="i">The Human Abstract</hi> Line 8 in N 107 draft (“The human image”): And spreads
+his [<hi rend="i">nets</hi>] baits with care (EK) / corrected by Bentley to “. . . his 
+[<hi rend="i">seeds</hi>] baits . . .” (BC)</p>
+            <p><hi rend="i">A Divine Image</hi> Now described, since discovery of copy BB, as not simply
+“rejected” but early and replaced.</p>
+            <p><hi rend="i">To Tirzah</hi> C note on date (ca. 1803) is important, since B682 gives “perhaps
+1797” (despite own evidence).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">For Children: The Gates of Paradise</hi>
+              </title>
+            </head>
+            <p>Pl. 13: variant in N 61: What we hope we see (EKC) . . . to see (B)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">The Marriage of Heaven and Hell</hi>
+              </title>
+            </head>
+            <p>The “Proverbs” are now grouped by spacing, to correspond with the grouping by color made in
+copy H (with obvious care, since the groups so indicated make sense). Other improvements made by Blake in copy
+H include the correction of two scribal errors by using (as ancient scribes did) a macron or horizontal stroke
+above a letter to indicate accidental omission of a letter or letters (or small word) immediately following.
+In 10:9 Blake corrects “improvent” with a macron over the “v” to make “improvement”(as in the next
+line). In 14:5 he etched “at tree” (EKB) but a macron in copy H indicates correction to “at the tree”
+(C). (Uncorrected words, “wholsom” and “witheld,” lack only inessential letters.)</p>
+            <p>See textual note on 3:6 re “the Devil who dwells.”</p>
+            <p>In “A Song of Liberty” corrections of punctuation made in copy H are adopted in C: 3
+ocean?] <hi rend="i">corrected to</hi> ocean! 6 weep] <hi rend="i">to</hi> weep! (C).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Visions of the Daughters of Albion</hi>
+              </title>
+            </head>
+            <p>All editions agree, except for two variants in B that must be scribal errors: omission of
+“are” before “their habitations” in 3:5 (B’s 6:5) and “and” for “&amp;” in 3:12. I.e., no
+variants in Blake.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">America a Prophecy</hi>
+              </title>
+            </head>
+            <p>Canceled plate c:12 mossy pile (KEB) / massy pile (C) c:22 [&amp;] or shut . . . [&amp;] in
+(KB) / or shut . . . &amp; in (E) / &amp; shut &amp; in (C)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Milton</hi>
+              </title>
+            </head>
+            <p>2:21 deed (K482) / deed? (E95) / deed[.] (B320) / deed[?] (C96), there being no punctuation at
+this point in any copy.</p>
+            <p>10:3 into the Space] B omits “the” in error.</p>
+            <p>11:35 spake (EK) / spoke (BC)</p>
+            <p>23:28 spoke (EK) / spake (BC)</p>
+            <p>24[26]: 63-64. lulld by the flutes lula lula / The bellowing Furnaces blare by the . . .
+clarion (B, giving text without emendation) / . . . flutes’ lula lula . . . Furnaces blare . . . (K) / . . .
+flutes lula lula . . . Furnaces[’] blare (EC). Too late to change, it was noted that C should also give
+“flutes[’]”; readers often mistake this passage, not sensing that “blare” is a noun here, not a
+verb. The instruments are played “to ameliorate . . . slavery” (61). The sounds of Hammers “are lulld by
+the flutes[’] lula lula” and the blare of the Furnaces is lulled by the long sounding clarion; the drum
+drowns the howls, &amp;c.</p>
+            <p>31:13 Towards America . . . golden bed (EKC) / Line omitted (B)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Jerusalem</hi>
+              </title>
+            </head>
+            <p>To the Public</p>
+            <p>3:8 the Ancients entrusted their love to their Writing (EK) / the ancients acknowledge their
+love to their Deities (C) / (B questions all restorations of this plate)</p>
+            <pb id="p17-6" n="6"/>
+            <p>In 1969 I could say that “no passages still in doubt” were “as central and significant as
+the Plate 3 deletions in <hi rend="i">Jerusalem</hi>” and could describe these as “now restored.” In
+February 1980 a letter from Michael Tolley queried my restoration of the words “entrusted” and
+“Writing” in this gouged-out passage, and a very careful rechecking, by myself and others, using enlarged
+photographs from the Rosenwald and Morgan copies and the posthumous Rosenbloom copy and the unenlarged
+photograph of the Morgan page in SAP (which shows nearly everything that the others do).</p>
+            <p>My error resulted from incomplete observance of my own procedures, spelled out in SAP. The word
+read as “entrusted” or “acknowledge” has three ascending strokes (we must ignore the descending stroke
+of “p” from the line above); I had failed to notice that on this page Blake’s t’s barely rise above
+the body of the letters, hence that none of the three ascenders could be a “t”. Indeed, the first ascender
+has a bend (not apparent in the Morgan, or it would have been noted sooner) which can belong only to a “k”
+in this script. The word “Acknowledge” in the very next line is more visible and offers a perfect model to
+test the misread word. Of the other queried word, the only plainly visible letters are “iti” in the
+center. The first letter, a bombed-out capital, has edges in the Rosenwald copy that fit a Blakean “W”;
+but, as I now see, in the Morgan the crater is encircled not merely by dots but by a large loop fitting
+exactly the “D” of “Divine” seven lines further down. And the second letter is more like “e” than
+“r”. “Writing” was not an impossible hypothesis; “Deities” works perfectly. (I should add that
+Mary Lynn Johnson and John Grant, in the Norton Critical <hi rend="i">Blake</hi> (1979), recognizing something
+wrong with the passage, refer to “Blake’s somewhat garbled defense of enthusiasm in this mutilated
+passage” (p. 312n4). The garbling was mine.</p>
+            <p>(I am told that in semiotic circles, the phrase “entrusted their love to their Writing” was
+becoming a favorite <hi rend="i">locus classicus</hi>! Mea culpa!)</p>
+            <p>7:65 Generation Image of regeneration!] “Image” was scratched through for deletion and is
+illegible or nearly so in most copies but was retouched into legibility in copies B and D. (Some copy B
+retouchings are clearly irresponsible: see notes on plate 17 and 18, below.) “Image” is shown undeleted in
+KB (with a note in B); “[<hi rend="i">Image</hi>]” in EC, signifying deletion editorially restored, with a
+textual note of explanation, but perhaps it should have been printed with this note but without the
+bracketing. (The details of the note in B [429] err from the correct account in SAP 16.)</p>
+            <p>8:32 The uncircumcised (E, in error but corrected in 4th printing) / Thy Uncircumcised
+(KBC)</p>
+            <p>17:21 fit for labour (EKBC) / changed to “labours” by printers’ ink in copy B, but
+unidiomatic. Noted now in C.</p>
+            <p>18:36 So cry Hand &amp; Hyle (EKBC) mended to “So criest thou? &amp; Hyle” in copy
+B—first noted in C. The “u” is formed in the space between “n” and “d”; the “?” is made of a
+bit of interlinear ornament. This and the change in 17:21 are retouchings in the red-brown ink of the
+printing; other words are retouched without change in lines 10, 11, 20, 22, 25. Whoever made the mendings in
+18 and 17 was inattentive to the sense and syntax.</p>
+            <p>BB 732 notes that some “words and designs are clarified in pencil (pl. 5, 7-10 [but these are
+in design only], in Red ink (pl. 8 [design only]), or in Black ink (pl. 9-11, 15, 19-22, 25 [words retouched
+in 10, 11, 20, 22, 25, without change]).” B and BB overlook the actual changes in pl. 17 &amp; 18, noted
+above.</p>
+            <p>21:44 worshipped (EKB) / warshipped (C and 1982K) Footnote on the page points out that the
+reading makes sense yet may be a misprint for “worshipped”.</p>
+            <p>(The “a” is made with the usual serif at top right, never given to an “o”, which is
+made in a circular sweep. The “a” is made with a curved stroke that begins at the top, comes up to make
+the serif and down again to connect with the next letter. Of course an “a” can look something like an
+“o”, but even the “a” in “massy” in <hi rend="i">America</hi> c, misread until now, though it
+lacks the protruding serif does have the vertical right side produced by the up and down motion described.</p>
+            <p>24:60 Hope is banished from me] (KBC; yet B in “Addenda and Corrigenda”, p. xxvi, gives
+“from us” as a correction, without explanation.)</p>
+            <p>27 Begin new paragraph with “But now the Starry Heavens . . .” (BC).</p>
+            <p>27: <hi rend="i">next paragraph</hi>: was Created (EKBC) / B738 lists “was” as an error for
+“were”; indeed the grammar is polysemous and debatable. Problem overlooked in C.</p>
+            <p>32[36]:34 South [ ]ing (E) / South bounding (C). Explained in <hi rend="i">Blake</hi>
+13:106.</p>
+            <p>40[45]:31 hands (KEC) / hand (B, printer’s error?)</p>
+            <p>42:47 abhorred friend (KBC) / abhorred [<hi rend="i">fiend</hi>] (E); B and C note that
+“friend” may be an error for “fiend” but that the context gives support to the original reading.</p>
+            <p>30[34]:10 Why have thou elevate (KEC) / [Why has thou elevated] (B). (Yet nine lines earlier
+“I am Love / Elevate into the Region” is given without comment or emendation in B.)</p>
+            <p>56:37 earth-Worm (KBC) / earth-Worms (E) Changed by ink in copy F, not necessarily by Blake. B
+asserts “by Blake” yet retains “earth-Worm”; K does not note; change adopted in E, with note; rejected
+in C, with note.</p>
+            <p>66:38 Their ear bent (KEBC) B with note: “Blake probably intended ‘ears’ plural”;
+perhaps, though singulars come in line 40.</p>
+            <p>77: bottom corners. Deleted lines, partly legible in copy F and posthumous copies I and J; for
+the first time fully recovered for C; reading column for column instead of line for line, as we all had been
+doing:
+<pb id="p17-7" n="7"/>
+	<table rows="1" cols="1"><row>
+	<cell>The Real Self[<hi rend="i">hood</hi>] is the Imagination</cell>
+	<cell>in the<lb/>
+Divine Man</cell>
+</row></table>
+K(919n) had read the top row, though not noting that “hood” was scratched out on the copper (Blake, having
+begun to write about the <hi rend="i">real</hi> Selfhood as against the spectral Selfhood, then passed beyond
+irony to emphasize “The Real <hi rend="i">Self</hi>”).</p>
+            <p>In SAP I concurred with the K reading of the top row, venturing only a few letters for the
+bottom row:
+<table rows="1" cols="1"><row>
+	<cell>The Real Self[hood] is the?Spectre?within</cell>
+	<cell>in the<lb/>
+P . . . . T . . m</cell>
+</row></table>
+B has now deciphered that last phrase, putting “Divine Man” convincingly in place of “P . . . T . . .
+m” but unaccountably losing “in the,” perhaps still trying to read line for line. C puts cautionary
+question marks on “Imagination” and “Man,” but “tion” is clearly a better fit for the end of the
+first column than “thin.” The <hi rend="i">Concordance</hi> shows Blake speaking several times of “The
+Imagination” as the “Real Man,” an idea attributed to Jesus in Anno. Berkeley.</p>
+            <p>87:6-7 the space between these lines in E has been properly removed in C (as in KB).</p>
+            <p>89:26 Rocks (KE) / flocks (BC)</p>
+            <p>96:34 rouze up, rouze up! (K) / rouze up. rouze up. (E) / rouze up! rouze up. (C, as in
+originals) / (B omits one “rouze up” altogether and puts an editorial “!” on the one retained;
+probably a simple error of transcription). B’s note that lines 1-25 “are curtailed” omits the
+explanation found in SAP.</p>
+            <p>97:45 mending of “thy Covenant” is correctedly described in B637n but wrongly described in
+B634n.</p>
+            <p>98:48 Sacrifices (KEC) / Sacrifice (B637, with note treating the “s” as doubtful). But the
+“s” is only crowded, not hidden, by the border; the syntax requires a plural.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">On Virgil</hi>
+              </title>
+            </head>
+            <p>Concluding sequence is rearranged thus:</p>
+            <p>Mathematic Form is Eternal in the Reasoning Memory. Living Form is Eternal Existence.</p>
+            <p>Grecian is Mathematic Form</p>
+            <p>Gothic is Living Form</p>
+            <p>(This part of the text is in two columns; previous transcripts have put the second column
+first.)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <corr type="emend"><hi rend="b">Laocoön</hi></corr>
+              </title>
+            </head>
+            <p>Practise is Art] <hi rend="i">now moved to precede</hi> A Poet a Painter . . . (Printers’
+error in C: photograph facing p. 273 is printed as a negative, with black printed for white; corrected in the
+clothbound.)</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">PROPHETIC WORKS, UNENGRAVED TIRIEL</hi>
+                </title>
+              </head>
+              <p>1:19 shrinking] <hi rend="i">1st rdg del</hi> heaving (K) / living (EBC); <hi rend="i">2nd
+rdg del</hi> ?shriecking (EC) Note in B903 mistakes this conjectured 2nd rdg for a proposed final rdg.</p>
+              <p>1:28 serpents [?<hi rend="i">all</hi>] (B) / (del word is not noted in KEC, but B is
+correct).</p>
+              <p>3:32 seeks] runs <hi rend="i">1st rdg del</hi> (EBC) (K: “<hi rend="i">word
+del</hi>”)</p>
+              <p>4:50 rent] <hi rend="i">mended from</hi> rend (noted in EBC, not K)</p>
+              <p>4:63 . . . and know your father <hi rend="i">1st rdg del</hi> (EC) (K elides; B notes E rdg
+but considers its “and know” a single illegible word.)</p>
+              <p>5:5 [<hi rend="i">earth</hi>] ground (K) / [<hi rend="i">ground</hi>] world (E) / 
+[<hi rend="i">world</hi>] ground (B) / [<hi rend="i">ground</hi>] earth (C) (No comment.)</p>
+            </div4>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">The French Revolution</hi>
+              </title>
+            </head>
+            <p>Having been mistaken in the faulty recollection (I had once checked the original proofs) that
+traditional quotation marks were in the printed text, I have now removed them all; Blake himself would have
+supplied none.</p>
+            <p>More fully explanatory notes are now supplied for the readings bonds/bands (line 74),
+cloud/loud (101), war-living/war living (283).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">The Four Zoas</hi>
+              </title>
+            </head>
+            <p>This report does not attempt to deal with all the differences among editions in the handling of
+deleted matter and in arrangement of pages. For the recovery of passages hitherto considered deleted see
+comment on pages 5, 6, and 7. For drastic rearrangement of the constituent pages of Night the Seventh, briefly
+described below, one must get one’s sense of the effect by consulting the rearranged text itself.</p>
+            <p>In the new edition (C) for convenience of using the <hi rend="i">Concordance</hi> (based on K)
+we have given the K line numbers, within brackets, since they are continuous for each Night. But here I cite
+simply page and line numbers for the page.</p>
+            <p>3:8 no Individual [<hi rend="i">Knoweth nor</hi>] (B accidently omits “Individual”).</p>
+            <p>4:13 It is not Love I bear to [Jerusalem] It is Pity] See textual note for explanation of this
+editorial replacement of “Enitharmon” by “Jerusalem.”</p>
+            <p>Pages 5-6] These pages have each ten new lines, previously considered deleted from failure to
+understand that when Blake circled a deleted passage he meant to restore it to the text; page 7 has been
+restored from its mistaken conflation (in E) with page 143, the readings in which are now recognized as
+preceding, not following, the final readings in p. 7. Andrew Lincoln cleared up these matters in 
+<hi rend="i">Blake</hi> 46:91-95.</p>
+            <p>27:9 O Lamb] I ?die <hi rend="i">1st rdg erased</hi> (EC) / [<hi rend="i">word del</hi>]
+(B)</p>
+            <p>30:16 ?halls of <hi rend="i">1st rdg erased</hi> (EB) / centr f[orm] (C)</p>
+            <p>39:18-40:1 But saw not . . . in the cloud] Two lines shown as <hi rend="i">del</hi> (KEB); as
+undeleted (C): they are simply lined through lightly in pencil to be excluded when the passage was copied into
+J 43.</p>
+            <p>P. 41: Text unchanged (except for recognizing the
+<pb id="p17-8" n="8"/>
+“I” in line 10 as undeleted), but see elaborately revised textual note concerning the late insertion of
+the name “Albion” on this page. (But K and B, mistaking the page markings, move line 10 to follow line 4,
+in error.)</p>
+            <p>42:18 She ended. [<hi rend="i">From</hi>] his wrathful throne burst forth (E) / She ended. for
+[from] his wrathful . . . (C) KB change the ms period to a comma; E misread the “for” as a canceled
+“From”—now supplied in C as the needed connective. The squiggle that looks like “for” may have been
+meant for “from”—or both words were intended but one slipped away.</p>
+            <p>It is also worth noting that here, and elsewhere, Bentley’s spacing of lines hides the
+evidence of paragraph spacing when inserted lines, belonging to one paragraph or the other, physically fill an
+original gap. In this dialogue <corr type="emend">between</corr> Ahania and Urizen, the line “She ended 
+. . . ” should stand as a paragraph by itself, between her speech and his.</p>
+            <p>47:22 despair comes over (KEB) / editorial insertion in C: over [me]</p>
+            <p>56:23 is followed by Blake’s instruction: “Bring in here the Globe of Blood as in the B of
+Urizen” (a reference to <hi rend="i">Urizen</hi> 18); editors have heretofore shirked their duty, but the
+lines fit perfectly, treating two <hi rend="i">Urizen</hi> lines as one. (We enclose the resulting four lines
+within editorial brackets.) (C338)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Night The Seventh</hi>
+              </title>
+            </head>
+            <p>The long debated conflation of the two Nights the Seventh (A and B) into one is carried out
+here with benefit of the proposals discussed by Andrew Lincoln, Mark Lefebvre, and John Kilgore in 
+<hi rend="i">Blake</hi> 12 (1978): 107-34, along the lines of my discussion following theirs (135-39). See the
+textual headnote on C836.</p>
+            <p>78:13 rangd his [<hi rend="i">Books</hi>] Books around (B1185) / rangd his rocks a[round] Book
+around <hi rend="i">1st rdg</hi> (EC) / rang’d his [<hi rend="i">word del.</hi>] Books around (K)</p>
+            <p>82:33 face lightnings] face [<hi rend="i">thy sons</hi>] &lt;&amp; his&gt; lightnings 
+<hi rend="i">1st rdg</hi> (EC) / face, [<hi rend="i">word del.</hi>] lightnings (K) / face; [<hi rend="i">thy
+?Smiles</hi>] lightnings (B1193). Yet not a very difficult ms.</p>
+            <p>85:41-42 Thou didst subdue me . . . lust &amp; murder (KE) (Now moved in BC to follow 85:38;
+these lines are written in the bottom margin and not precisely marked for insertion; I agree with B1198 that
+“The sense seems to sanction their insertion here.”</p>
+            <p>91:11 red Orc in his [<hi rend="i">word erased</hi>] fury (K) / . . . in his 
+[<hi rend="i">triumphant</hi>] fury (E) / . . . in his [<hi rend="i">blind(?) f th(?)] fury</hi> (B) / . . . in his
+[?<hi rend="i">triumphant</hi>] fury (C, a bit less certain). B’s “f” is my “p”; his “th” my
+“nt”; “triumphant” is the right length and has only two odd bits of strokes to account for, above the
+“p” and the “n” which I take to be a start at deleting the word before erasing it.</p>
+            <p>93:23 dropping tears of woe (K) / drinking . . . (EC) / . . . drinking? (B)</p>
+            <p>98, after 31 Then I heard the Earthquake &amp;c (KEB) / Then Heavd the Earthquake &amp;c
+(C)</p>
+            <p>101:31 expelled (KB) / repelled (EC)</p>
+            <p>113:25 in its Islands (E) / on its Islands (KBC)</p>
+            <p>105:24 there was hidden (E) / then was hidden (KBC)</p>
+            <p>119:18 flames whirring up (E) / . . . li[c]king up (KBC)</p>
+            <p>121:7 pleasant garden (EB) / pleasant gardens (KC)</p>
+            <p>126:6-7 obey &amp; live . . . return O love (EC) / . . . return &amp; Love (KB, missing the
+progression of thought. Since the “&amp;” and “O” are written clearly, K and B assume a scribal error;
+B even suggests that “&amp; live” could be “O live”).</p>
+            <p>145:10 (passage quoted in textual note on 106:6) Of most mournful pity (EK) / Of most
+merciful(?) pity (BC)—a more probable reading than “mournful” in the context; the written word is
+wobbly, the first 3 letters more clearly “merc” than “mour,” the fourth not obviously either “i”
+or “n.”</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">POETICAL SKETCHES</hi>
+                </title>
+              </head>
+              <p>To Summer: 15 Our youth[s] (E) / youths (K) / youth (BC)</p>
+              <p>Samson: (10 lines from end): stocks (E) / flocks (KBC)</p>
+            </div4>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Then She bore Pale desire</hi>
+              </title>
+            </head>
+            <p>In this fragment a change of position is made of the clause “Shame bore honour &amp; made
+league with Pride,” from line 75 to lines 91-92.</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">AN ISLAND IN THE MOON</hi>
+                </title>
+              </head>
+              <p>In E a fairly “clean” text was printed, without the many slight mendings of letters or
+parts of words that strew the manuscript. C includes some of these, when any significance can be deduced. The
+few reported here contain some new readings, or confirmation of disputed readings in E.</p>
+              <p>E440/C449: question mark now removed from [<hi rend="i">tipsy</hi>] (Mrs Gimblet); plural
+retained in “his own imaginations” (despite removal by B875). B, indeed, seems seldom to accept Blake’s
+thin terminal “s”; in <hi rend="i">IM</hi> p. 4 he even reduces “the names in the Bible” to a
+singular.</p>
+              <p>(À propos, B has 21 footnotes citing readings in E, not always questioning them but never
+incorporating them; all these have now been multiple-checked and found sound. Most of them are quite legible
+to others, as well as to me.)</p>
+              <p>Chap. 1, 3rd par.: [<hi rend="i">Quid</hi>] [&lt;<hi rend="i">the Elder</hi>&gt;] (C)</p>
+              <p>Ms. p. 2: [<hi rend="i">here the</hi>] (E) / [<hi rend="i">here Etr</hi> (i.e. Etruscan)]
+(C)</p>
+              <p>p. 3: call me ass (E) / call me *Arse (C). Blake wrote “ass,” then “Arse,” then
+“as” again; then put an asterisk on the 2nd rdg to restore it. (K has the asterisk in the wrong place; B
+does not transcribe it.)</p>
+              <pb id="p17-9" n="9"/>
+              <p>Chap. 6, opening: Then all went (E) / They all went (KBC)</p>
+              <p>Chap. 8 O ay Lock said Scopprell. [<hi rend="i">Its a book about</hi>] (K, punctuated, C) /
+Deletion omitted (E) / [<hi rend="i">three words del</hi>] (B)</p>
+              <p>Chap. 11 [<hi rend="i">how many Blackamoors</hi> . . . ] (K) / [[<hi rend="i">If</hi>] 
+<hi rend="i">How many</hi> . . . ] (E768/C850) / [<hi rend="i">?If ?we ?manage Blackamoors</hi>] (B898, but
+quoting E in a note, as supplying a “rather more plausib[le] reading”).</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">[SONGS AND BALLADS]</hi>
+                </title>
+              </head>
+              <p><hi rend="b">To my Mirtle (N106)</hi> The 16 lines (N 113, 111, 106) arranged under the title
+“in a mirtle shade” in E460 (18 lines in K169) were recognized as not constituting an authentic separate
+poem when I was collaborating with Donald K. Moore on the <hi rend="i">Notebook</hi> facsimile; a note to that
+effect was inserted in the 4th printing of E (pp. 769-70—and see the extensive note in <hi rend="i">N</hi>
+Appendix I pp. 69-71); in C these lines have been allowed to sink back into their proper state as a canceled
+extension of “Infant Sorrow” (given and discussed in the notes section C797-99). Yeats and Ellis had
+started this rearranging “according to the editor’s taste” (to quote Geoffrey Keynes in his
+autobiography, <hi rend="i">The Gates of Memory</hi>, 1981, p. 255) and in 1926 Max Plowman had recognized
+that “in a mirtle shade” (lower case) was not a title but a catchphrase indicating where Blake wanted to
+fit the lines that follow into his “Infant Sorrow” extension. Plowman unfortunately had made a mistaken
+reconstruction of the sequence in the manuscript; so Keynes and the rest of us had carved out a separate poem
+(KEB). Alas, A. E. Housman wrote to Keynes (loc. cit.) that he preferred the Yeats version, “the old
+eight-line text,” as, “however ill authenticated, . . . one of the most beautiful of all the poems.”
+(The eight-line poem was made of the six lines on C469—with “sick” arbitrarily replaced by
+“weak”—plus two that Blake canceled: “Love, free love, cannot be bound / To any tree that grows on
+ground.”) (Sampson in 1905 had “To My Mirtle” sorted out, but he treated 16 lines of N 111 as a “first
+version,” with the title “In a Mirtle Shade.”)</p>
+              <p><hi rend="b">Riches (N 103)</hi> Line 1 deletions are correct as given in EC, though
+questioned in B975.</p>
+              <p><hi rend="b">Eternity (N 105)</hi> 1 He who binds to himself a joy (KEC) / . . . bends (B). B
+declares he cannot see a dot on the “i” of “binds”; E says it’s there. But a curious thing is that
+there are ten <hi rend="i">i</hi>’s in this four-line poem and its title, none with visible dots except for
+two tiny bits over “binds” and “it”; if Bentley followed his own rules, he would print: “hemself . .
+. wenged lefe . . . Leves en eternety’s sun rese.”</p>
+              <p><hi rend="b">“Abstinence . . . ” (N 105)</hi> 2 The ruddy limbs &amp; flaming hair (KEC)
+/ flourishing hair (B). Note: flaming hair <hi rend="i">mended</hi> over what was probably a bad scribble for
+the same two words (EC). Note: “flourishing hair” seems to be written over something else (B978). Our
+committee struggled with this, to no avail. Was it first “flowery head” or “flourishing head”? No,
+Blake clearly wrote “haid” and changed the “d” to “r,” perhaps then dotting the “i” (for here
+is one of the few “i” dots on the page). Was it “flaming” changed to “flourishing” or vice versa?
+Or “flowing” to “flaming”?</p>
+              <p><hi rend="b">“My Spectre . . . ” (N 13, 12)</hi> And let us go to the highest downs (EKC)
+/ . . . high downs . . . (B927—but the “st” is legible, though cramped; a one-syllable word would mar
+the rhythm).</p>
+              <p><hi rend="b">“A fairy . . . ”</hi> [<hi rend="i">leapt</hi>] skipt (K) / 
+[<hi rend="i">leapt</hi>] skipd (EC) / leapt Stept (B1070: “‘Stept’ is written above ‘leapt,’ which has
+not been deleted”). Presumably B does not mean the line to be read with both verbs in it but means to urge
+that Blake had not decided which to keep. Presumably “skipt” or “skipd” is ruled out because Blake
+didn’t dot the “i” (yet he did not cross the “t” either).</p>
+              <p><hi rend="b">To Mrs Ann Flaxman 2</hi> Its form was lovely (EKC) / lively (B1331—curious
+because there is nothing to be taken for an <hi rend="i">i</hi> dot here; in fact the open <hi rend="i">o</hi>
+could be mistaken for <hi rend="i">u</hi>: luvely).</p>
+              <p><hi rend="b">The Mental Traveller</hi> (Pickering MS scrutinized in the Morgan Library) There
+are a few passages written over fairly complete erasures; B1306 attempts some conjectural restorations, for
+lines 85, 86, 91, impossible to confirm.</p>
+              <p><hi rend="b">The Grey Monk (N 8[12])</hi> Deletion under line 11: From his dry tongue . . .
+(K419/E778/C860) / From his aking tongue (B930)</p>
+              <p><hi rend="b">When Klopstock (N 1[5]) 29:</hi> [<hi rend="i">Then after</hi>] &lt;From pity
+then&gt; (EC; K: “illegible”) / From [<hi rend="i">anger(?)</hi>] &lt;pity then&gt; (B926, not seeing the
+“Then” beneath the “From” and so turning “after” into “anger?” to make sense).</p>
+              <p>30 And the spell &lt;removed&gt; unwound (EC) / And the &lt;ninefold?&gt; spell unwound (B) /
+K declares 29-32 illegible). As I reexamine my photograph of the page, however, I am happy to report that I
+can see the <hi rend="i">f</hi> and <hi rend="i">ld</hi> (with room for the <hi rend="i">o</hi>) of
+“ninefold”—a word which not only makes better sense but is written in a position more plausibly intended
+to precede than follow “spell”: the 2nd printing of C will have to read: “And the ninefold spell
+unwound.”</p>
+              <p>31-32 B926 quotes a conjectural reading of mine in <hi rend="i">Blake Newsletter</hi> 1968
+which was quite mistaken and, as Bentley says, awkward; his own reading confirms the EC reading.</p>
+              <p><hi rend="b">“You dont believe . . . ” (N 21)</hi> 11 When he said [Rich] Only Believe
+(KEC) / said [<hi rend="i">Beli</hi>] (a start for “Believe”) (B934—which I now, too late for C, see is
+correct).</p>
+              <p><hi rend="b">From Cratetos (N 64)</hi> B emends title to <hi rend="i">From Cratelos;</hi> but
+both <hi rend="i">t</hi>’s are crossed; “Cratetos” is an understandable Blake error about Greek
+inflections, while “Cratelos” makes no sense. (See t note in EC).</p>
+              <pb id="p17-10" n="10"/>
+              <p><hi rend="b">“And his legs carried it . . . ” (N 22-23)</hi> Line 25 And Cur my Lawyer
+&amp; Dady [<hi rend="i">my</hi>] Jack Hemps Parson (EC) / . . . &amp; Dadymus(?) . . . (B936). EC infer
+deletion, i.e. that Blake having written (for his persona, Stewhard) “Cur my Lawyer and Dady my Parson,”
+then decided to call him Flaxman’s parson: “Jack Hemps Parson.” Until we find an explanation either for
+Dady or for Dadymus, the crux is empty of content.</p>
+              <p><hi rend="b">“Was I angry . . . ” (N 23)</hi> The line 6 deletion “Mirths” (EC, not
+in K) stands obviously for “Mirth is.” “Mirth” (B) makes nonsense and ignores the visible “s”
+stroke (between the <hi rend="i">u</hi> and <hi rend="i">s</hi> of the overwritten “Because.”</p>
+              <p><hi rend="b">“He has observd . . . ” (N 30)</hi> 2 <hi rend="i">del</hi> ?I ?sport ?with
+?Fortune ?merry ?Blithe &amp; gay (E, not in K) / ?Sporting ?with fortune [<hi rend="i">words illeg</hi>] gay
+(B) / ?Sporting with ?golden ?Fortune ?Blithe &amp; gay (C)</p>
+              <p><hi rend="b">“old acquaintance well renew” (N 24)</hi> i.e. “we’ll.” This half line
+is written on top of an erased full line beginning “Look ?what [or ?how]” and continuing “Flaxman &amp;
+Stothard do” (EC, not in K; B “can read only ‘Stothard’ with confidence”). C868 suggests that Blake
+may have meant to retain the first two words, to make the revised line read “Look how [or what] old
+acquaintance we’ll renew.”</p>
+              <p><hi rend="b">Mr Cromek to Mr Stothard (N31)</hi> 3 you travel all in vain (all texts) / B942
+notes “‘travel’ might equally well be read as ‘travil,’ i.e. ‘travail.’” Perhaps (though no
+“i” dot), but the <hi rend="i">Concordance</hi> shows that Blake’s “travel” (he never wrote
+“travail”) always, in every form, signifies journey or journeying (sometimes associated with travail, e.g.
+“returnd from his immense labours &amp; travels” (<hi rend="i">FZ</hi> 2:201)—with two exceptions: (1)
+the female in <hi rend="i">Europe</hi> Prel 1 is “faint with travel” and (2) Blake in a letter writes of
+“the sore travel which has been given me.” (In the present context, Stothard is advised to “turn back”
+from his vain “travel”; so the implication of travail is at most a pun.)</p>
+              <p><hi rend="b">Cromek’s Language</hi> (I should add, generally, of Cromek that the lyrics by
+his persona often contain the words “paint” and “painting” with the spelling “pant” and
+“panting” (more “travel”!). It is obvious that Blake wanted Cromek to pant in these passages; whether
+in a given instance “ant” or “aint” is intended is sometimes hard to make out, but C prints the
+shorter form more often than E did.</p>
+              <p>E497/C506 The couplet beginning “To forgive Enemies H— does pretend” is now seen as the
+conclusion of “P— loved me,” and no longer printed as a separate poem.</p>
+              <p><hi rend="b">“When you look</hi> . . . ” (N 41) 4 About freedom &amp; Jenny Suck awa (KEC
+have a note on “Jenny Suck awa”—K912 being the best: “interpreted by Sampson as a grotesque way of
+writing <hi rend="i">Je ne sais quoi.</hi>” B953 only notes that this quatrain “is written in Cromek’s
+Yorkshire dialect” without mentioning (or noticing?) the French base. The point may still be missed; hence
+the fuller explanation here. (As for dialect, B952 fails to recognize “ham” as “them,” not
+“him.”)</p>
+              <p>Now that we have learned that “poco pen” was really written “poco piu” (a little bit
+more), we have a punning glossary of the slippery language of the “Cunning-sures &amp; the aim-at-yours”
+(N 40), i.e. the connoisseurs and amateurs. When they are buying or selling they “keep up a Jaw” (N 43)
+about that <hi rend="i">soupçon</hi> or <hi rend="i">poco piu</hi> or <hi rend="i">Je ne sais quoi</hi> the
+presence or absence of which makes a work precious or worthless. (Of course many readers have always
+understood Blake’s Cromek.)</p>
+              <p><hi rend="b">Florentine Ingratitude (N 32)</hi> 21 merry hearted Fashion (EC) / warm hearted
+Fashion (K) / warm Hearted Fashion (B). B944 gets the capital H from mistaking a descending “p” from the
+line above as part of the letter. The “y” of “merry” is quite visible.</p>
+              <p><hi rend="b">A Pretty Epigram</hi> . . . B949 rightly corrects E789 (and <hi rend="i">N</hi>
+38); the suggested first and second titles, deleted, are not there. The second, “Major Testament of—” is
+(notes B) a misreading of “the Entertainment of” and an overlooking of the caret. C872 now reads: “Title
+revised in ms thus: A [<hi rend="i">Pretty Epigram for</hi> &lt;<hi rend="i">the entertainment of</hi>&gt; 
+<hi rend="i">those who have Given high Prices for Bad Pictures And ?have</hi>] Pretty Epigram for 
+[<hi rend="i">those</hi>] the Entertainment of those Who [<hi rend="i">pay</hi>] &lt;have Paid&gt; Great Sums in
+the Venetian &amp; Flemish Ooze.”</p>
+              <p><hi rend="b">“On the Great Encouragement . . . ” (N 40)</hi> Dilbury Doodle (KEB) /
+Dilberry Doodle (C)</p>
+              <p><hi rend="b">To Venetian Artists (N 61)</hi> Poco Pen (KEB) / Poco Piu (C)</p>
+              <p><hi rend="b">“Her whole Life is an Epigram . . . ” (N 100)</hi> smack smooth &amp; neatly
+pend (KE) / ?smart smooth &amp; ?neatly pend (B) / smack smooth &amp; nobly pend (C) / smack-smooth and nobly
+pend (K1982). See textual note (C873) on the exchange in <hi rend="i">TLS</hi>, including the idea this may be
+a response to Wordsworth’s “perfect Woman, nobly planned.”</p>
+            </div4>
+          </div3>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">The Everlasting Gospel</hi>
+            </title>
+          </head>
+          <p>John Grant is responsible for the discovery that these four lines,
+<q>
+What can be done with such desperate Fools<lb/>
+Who follow after the Heathen Schools<lb/>
+I was standing by when Jesus died<lb/>
+What I calld Humility they calld Pride (N 52),
+</q>
+do not belong <hi rend="i">in</hi> “The Everlasting Gospel” but constitute a comment <hi rend="i">on</hi>
+it, by the man who <hi rend="i">was</hi> standing by when Jesus died, not William Blake but Joseph of
+Arimathea. In fact these lines are in the darker ink, with finer pen (this fact got left out of the C textual
+note) of the Joseph couplets which have hitherto been treated as a separate poem (“I will tell you what
+Joseph of Arimathea / Said to my Fairy”) ending with the couplet that begins “Listen patient &amp; when
+Joseph has done,” couplets crowded into
+<pb id="p17-11" n="11"/>
+the margins to serve, physically and poetically, as William Blake’s announcement that he is about to quote
+Joseph. In C, then, we are printing, as Preface to the main poem, first Blake’s three couplets, then
+Joseph’s two. The other “Comments on this Poem” (as we call them) are printed at the end of the main
+text: “I am sure This Jesus will not do . . . ” and “This was Spoke by My Spectre” (a comment on the
+Philosophy section).</p>
+          <p>Line 58 (now 54 with the moving of “What can be done . . . ” to the Preface) of this first
+section of the poem proper (d in EK, k in BC) is a difficult palimpsest and has had a checkered career among
+transcribers:</p>
+          <p>the seraph hand (Sampson, noted in K921) / Lord Caiaphas hand (E, 4th prtg) / the Caiaphas (?)
+hand (B) / [<hi rend="i">the guilty</hi>] Lord Caiaphas hand (<hi rend="i">N</hi>C).</p>
+          <p>Line 31, section e: Wherefore has (KE) / has [t] (BC)</p>
+          <p>In d:21 the deleted “End” is clearly (from the context) a start for “Ended”; thus: 
+[<hi rend="i">End(ed)</hi>] (E<hi rend="i">N</hi>C) but [<hi rend="i">?End</hi>] (B)</p>
+          <p>f:51 forgot your (KEC) / forgot our (B)</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">BLAKE’S EXHIBITION AND CATALOGUE OF 1809</hi>
+              </title>
+            </head>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">A Descriptive Catalogue</hi>
+                </title>
+              </head>
+              <p>p. 1 The Spiritual form of Nelson . . . wreathings are infolded] The Spirit of Nelson . . .
+folds are entangled <hi rend="i">variant inscription on sketch</hi> (Butlin 650). (This textual note got lost
+from C on the way to press. It is cited in B, from catalogue; in Butlin from original.)</p>
+              <p>p. 2 ordering the Reaper] commanding the reaper <hi rend="i">variant inscription</hi>, on
+back of painting, but not in Blake’s hand (nor spelling: ploughman and plough instead of plowman and plow).
+Butlin suggests “Perhaps by Palmer” (Butlin 651). (Accepted in B as Blake’s.)</p>
+              <p>p. 27 whose whole delight is the destruction of men (KE) / . . . is in the . . . (BC)</p>
+            </div4>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">DESCRIPTIONS OF THE LAST JUDGMENT</hi>
+              </title>
+            </head>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">A Vision of the Last Judgment (N68-93)</hi>
+                </title>
+              </head>
+              <p>p. 81 Brittanica (KE) / Britannica (B) / Brittannia (C: see note).</p>
+            </div4>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">PUBLIC ADDRESS</hi>
+              </title>
+            </head>
+            <p>Comparing Bentley’s text and his arrangement of the segments of <hi rend="i">Public
+Address</hi> has been helpful, though in both respects C differs somewhat from B.</p>
+            <p>p. 51 [<hi rend="i">Engraved by William Blake tho Now Surrounded by Calumny</hi> &amp; 
+<hi rend="i">Envy</hi>] pencil inscription, deleted. (EC) / Not mentioned in K; mentioned in B (1031 &amp; 1060)
+as “illegible.” Easy to read in the <hi rend="i">N</hi> facsimile, however, and included in the Blake 
+<hi rend="i">Concordance.</hi></p>
+            <p>p. 11, paragraph beginning “If Men of weak Capacities” is transcribed differently in each
+text (K591/E560/B1029-30/C571). B was right to question “an artist who has carried on” (E&amp;<hi
+rend="i">N</hi>) and to suggest “an unending.” And E had mistakenly dropped “The Fools hand or the”
+(KBC).</p>
+            <p>p. 55 how then should (EKC) / . . . shall (B, simple error)</p>
+            <p>p. 57, 2nd parag: journeymen whose names (EKC) / journeyman whose name (B, compounded
+error).</p>
+            <p>p. 58, 1st parag. The “you/dey” mendings of the words of Gravelot, given incompletely in E,
+are given fully in KBC. But KB treat the deleted “Aliamet” (E<hi rend="i">N</hi>C) as illegible.</p>
+            <p>p. 60 Monopolizing Trader [<hi rend="i">whose whole</hi>] (C) / not previously deciphered,
+though B gives “whose.” Further along: “Poco Pend” (EKB) / Poco Piud (C); “Drawn with a firm &lt;and
+decided&gt; hand” (KEC) / “Drawn with a firm hand &lt;&amp; decided&gt;” (B, a misconstruction)</p>
+            <p>p. 17 Corregio &amp; Titian (KB) / Corregio or Titian (EC): technically, “or” written on
+top of “&amp;” (<hi rend="i">N</hi>)</p>
+            <p>p. 44 to leave it before he has spoild it (EK) / . . . leave off before . . . (BC)</p>
+            <p>p. 18 It is the Fashion] written along the right margin of the page, now broken off—but
+visible in the 1953 facsimile. B and C agree on the placement of this clause (after “a dark cavern”): E
+lacked it. K misplaced “They Produce System &amp; Monotony.”</p>
+            <p>p. 18 The two paragraphs beginning “Mr B repeats” have more fully reported deletions in C
+than E (and concur with B). K is somewhat in agreement, but misreads “Production of a Man” as “Product .
+. . .”</p>
+            <p>p. 20 every Body of Understanding must cry out (E) / . . . [<hi rend="i">will</hi>] must cry
+out (K) / . . . [<hi rend="i">can(?)</hi>] [<hi rend="i">will</hi>] must cry out (B) / [&amp; 
+<hi rend="i">sen</hi>[se] <hi rend="i">will</hi>] must cry out (C) / / Poco-Pen (K) / Poco Pen (EB) Poco Piu
+(C)</p>
+            <p>p. 23 [<hi rend="i">That Painted as well as Sculptured Monuments</hi> . . . ] Variants reported
+more fully in C. B questions several readings, omits “the Plain unpainted” before “Those Sepulchurs,”
+reads “dead Marble” as “dull(?) Marble”; but does also call attention to the misspelling
+“Sepulchures” in E.</p>
+            <p>p. 25 destructive of the true Artist (KC) / . . . Artists (EB)</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">THE MARGINALIA</hi>
+              </title>
+            </head>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotation to Lavater’s</hi>
+                  <hi rend="i">Aphorisms on Man</hi>
+                </title>
+              </head>
+              <p>Date corrected to 1788; underlining and bracketing revised.</p>
+              <p>248 beast &amp; devil (KEC) / beast or devil (B1361) It would have been good to have more
+ample quotation of Lavater in C, but R. J. Shroyer’s facsimile edition (1980) fills that need.</p>
+              <p>One important correction has been made, in Blake’s note on blank page 225. The deletion
+given heretofore as “&amp; they converse with the spirit of God!” is corrected to “&amp; these are
+either Good or Evil”—a considerable difference.</p>
+              <p>11 false for weak (KE) / [?<hi rend="i">Doubtful</hi>] false for weak (BC)</p>
+              <pb id="p17-12" n="12"/>
+              <p>612 “six or seven words erased” (EC)—still undeciphered.</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotations to Swedenborg’s Divine Love and Divine Wisdom</hi>
+                </title>
+              </head>
+              <p>Flyleaf: Good to others (K) / This Good to others (EB) / Thus Good to others (C)</p>
+              <p>11 springs up in your thoughts (KB) / . . . thought (EC)</p>
+              <p>49 the words Infinity &amp; Eternal (KE) / . . . Infinite . . . (BC)</p>
+              <p>336 (Section omitted in KB from failure to note Blake’s marking with large cross in right
+margin; given in EC.)</p>
+              <p>414 Is it not false then . . . / B399 supplies the wrong context.</p>
+              <p>(We have checked every variant in B, including capitalization and punctuation and find B
+quite frequently inaccurate.)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotation to Swedenborg’s Divine Providence</hi>
+                </title>
+              </head>
+              <p>277.2 The comment “Cursed Folly!” is placed <hi rend="i">after</hi> the paragraph
+beginning “Predestination” in K, before it in E, but now (in C, following B) after the phrase “cannot be
+removed afterwards.” B also supplies correction, at the end of the “Predestinarian” paragraph, from
+“In 69 . . . ” (KE) to “See 29 . . . ” (BC).</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotations to Watson’s An Apology for the Bible</hi>
+                </title>
+              </head>
+              <p>Blake’s second line, “The Beast &amp; the Whore . . . controls” (C) / “control”
+(KEB), is canceled by a ruled double line, in pencil, something quite uncharacteristic of Blake. I take it to
+have been added by Samuel Palmer, whose signature is on the title page. B gives the line as del.</p>
+              <p>B ignores Blake’s guide-lines and daggers in the text and comments of p. 2 (though the
+dagger on “Always”—printed as an asterisk—is given, but not the matching dagger in Watson). On p. 4
+B’s questioning of the E readings led to further scrutiny of the ms, confirming them.</p>
+              <p>p. 5 The reading is “murdered” not “marterd” (B).</p>
+              <p>p. 9 A deletion not noted in K, noted but not deciphered in E, is somewhat tentatively
+restored in B and C:</p>
+              <p>. . . the plan of Providence was . . . not restored til [<hi rend="i">we in</hi>] Christ 
+[<hi rend="i">were(?) restord(?)</hi>] (B1414) / . . . [<hi rend="i">?made ?restoration</hi>] (C) I take it that
+Blake began to write “we in Christ” and then canceled “we in” before completing the sentence, to read
+“restored till Christ made restoration” or possibly “gave restoration”?</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotations to Boyd’s Historical Notes on Dante</hi>
+                </title>
+              </head>
+              <p>C now includes (from K1976) the new comment on p. 75, “Every Sentiment . . . Opinions &amp;
+Principles” (B1448, C634)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Bacon’s Essays</hi>
+                </title>
+              </head>
+              <p>p. 62 Virtuous I supposed to be Innocents (KEC) / . . . Innocent (B)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Malone’s Reynolds</hi>
+                </title>
+              </head>
+              <p>Notes in B question several E readings; all have been confirmed, with the exceptions given
+below.</p>
+              <p>Angle brackets &lt; &gt; to indicate Blake’s inked additions were only incompletely
+supplied in printings of E; they are all in place in C.</p>
+              <p>C (639) includes a new, partially recovered, Blake annotation—on Malone’s p. xxxviii,
+fns. 24 and 25.</p>
+              <p>p. 3 Ought not the Employers of Fools (K) / Ought not the &lt;Artists &amp;&gt; Employers
+[<hi rend="i">Imbecillity</hi>] of Fools (E) / Ought not the &lt;Patrons(?) &amp;&gt; [<hi rend="i">word
+del</hi>] Employers [<hi rend="i">Imbecility</hi>] of [<hi rend="i">Folly</hi>] Fools (B) / Ought not the
+&lt;?Patrons &amp;&gt; Employers [<hi rend="i">Imbecility</hi>] of Fools (C)</p>
+              <p>p. 4, misnumbered “[iv]” [<hi rend="i">Are there Artists . . . Other Men</hi>] (EC,
+questioned in B1461)</p>
+              <p>p. 7 There are, at this time, a greater number of excellent artists than were ever known
+before at one period in this nation. (Blake’s comment:) [<hi rend="i">Artists . . . ?Heavens ?Fool the hxxx
+Pxxxx as xxxxm</hi>] (new in C643)</p>
+              <p>p. 30 [<hi rend="i">those who are born for it</hi>] (EC) (not in K) / 
+[<hi rend="i">wretches(?) Who are born for it</hi>] (B, plausible, but scrutiny does not confirm.)</p>
+              <p>p. 48 without Con or Innate Science (EKC) / with Con . . . (B, clearly a mistake)</p>
+              <p>p. 50 following [<hi rend="i">Letter</hi>] &lt;Discourse&gt; (E) / . . . 
+[<hi rend="i">Lecture</hi>] . . . (KBC)</p>
+              <p>p. 101 B1479 underlines “not Elegance,” misinterpreting Blake’s guide-line.</p>
+              <p>p. 126 C654 supplies a context indicating that the “Damnd Fool” is Vasari.</p>
+              <p>p. 179 Jan Steen (KE) / Jan Stein (BC)</p>
+              <p>p. 201 Knowledge[<hi rend="i">s</hi>] (EC) / Knowledge (KB)</p>
+              <p>p. 202 Reason or A Ratio (KEB) / Ratio <hi rend="i">mended from</hi> Ration (C textual
+note)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Berkeley’s Siris</hi>
+                </title>
+              </head>
+              <p>p. 212 I will not leave you Orphans (KB) / Orphanned (EC)</p>
+              <p>p. 215 Imagination &amp; Visions (KEB) / Imaginations &amp; Visions (C) // the business of
+Plato &amp; the Greeks . . . Wars &amp; Dominency over others (KE) / baseness . . . Dominency . . . (B) /
+baseness . . . Domineering . . . (C) (The “ee” of “Domineering” is quite clear, the conclusion of the
+word less so.)</p>
+              <p>p. 219 A new paragraph begins with “Man is All Imagination” (BC)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Thornton’s The Lord’s Prayer</hi>
+                </title>
+              </head>
+              <p>Photostats that Keynes and I had used for this text had been made with the loose, unnumbered
+leaves of the pamphlet out of order; I had not noticed this even while checking the original. But Robert
+Essick has now straightened out the sequences.</p>
+              <p>KE p. iii should be [ii]; “The Beauty of the Bible . . . how was it” should be the 2nd
+paragraph of Dr. Johnson’s remark. Our p. 1 should be p. 9 and should be moved to follow p. 6 and precede
+the fly-leaf, p. 10. (B has p. 9 in the right place but has not shifted the Bible remark from Byron to
+Johnson.)</p>
+              <p>Changes in the p. 3 transcript, from E to C, are perhaps
+<pb id="p17-13" n="13"/>
+worth noting (B has a garbled transcript and his notes question several E readings, all now rechecked).
+“Heaven &lt; s &gt;” (C) corrects “Heavns” (EB) and “heaven” (K). A somewhat revised sequence is
+“([<hi rend="i">His Judgment</hi>] &lt; His Accusation &gt; shall be Forgiveness [<hi rend="i">and he
+shall</hi>] &lt; that he may &gt; be consumd in his own Shame &gt; / Give [<hi rend="i">me</hi>] &lt; us &gt;
+This Eternal Day [<hi rend="i">my</hi>] &lt; our &gt; [<hi rend="i">Ghostly</hi>].</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotation to Cellini(?)</hi>
+                </title>
+              </head>
+              <p>Our source for the annotation (one sentence, on the Pope’s confusion of Nature and the
+Virgin Mary) is the slipshod E. J. Ellis, who says it was “In the margin of a copy of Cennini’s book on
+fresco painting.” B documents this with evidence that Linnell gave Blake a copy of Cennini’s book and in
+it Blake found support for his use of carpenter’s glue. Very well, but nothing in Cennini could have
+inspired the remark about a Pope and the Virgin; whereas Cellini’s work (Ellis just confused the names)
+offers direct inspiration. (Each work was called “Trattato.”)</p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Annotation to Young’s Night Thoughts</hi>
+                </title>
+              </head>
+              <p>Blake’s identification of the five books of pompous Ignorance in <hi rend="i">NT</hi>199
+constitutes a new entry (Plato, Cicero, Plutarch, Locke). (C670).</p>
+            </div4>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">INSCRIPTIONS AND NOTES ON OR FOR PICTURES</hi>
+              </title>
+            </head>
+            <p>There are several changes and additions here and, most important, cancellations.</p>
+            <p>The N 116 Exodus list is now deciphered as “Exodus [from] Egypt”; item 3 reads “River
+turnd to blood”; item 12 “First born Smitten.”</p>
+            <p>The inscriptions “Teach these Souls to Fly” and “I labour upwards . . .” and the long
+note on the back of <hi rend="i">The Fall of Man</hi> (“The Father indignant . . . the Lamb”) (E662) are
+dropped from C because not in Blake’s hand. (B1332 confuses matters by silently revising the spelling of
+“Tiger” to “Tyger” in the latter.)</p>
+            <p>The note on a pencil drawing of Nine Grotesque Heads (E667/C686) has been freed of the
+editorialy inserted period after “varies”. (It would probably work better after “Thus”, but the sense
+is the same either way: the grotesque heads vary; all genius varies; Devils vary—i.e. “All Genius varies
+Thus”—or “Thus Devils are various”.)</p>
+            <p>New in C are some notes in John Varley’s hand but copied at Blake’s dictation—having
+similar authority to Blake’s memorandum on John Scolfield, a dictated document customarily included in
+Blake’s writings. The caption on the fourth state of Blake’s Chaucer engraving (C mistakenly says
+“third”) reads:
+<table rows="1" cols="2"><row>
+	<cell>The Use of Money &amp; its Wars [title inscription]</cell>
+	<cell>An Allegory of Idolatry or Politics</cell>
+</row></table>
+It seems to get lost easily. Not in K, it was put into a Supplement entry for the 
+<hi rend="i">Concordance</hi> but did not get into E or B. It is now in C687—but failed to get into the Index
+under “Use”!</p>
+            <p>For Blake’s inscriptions on his <hi rend="i">Illustrations of the Book of Job</hi>, we give a
+list of the verbal variants from his source, the King James Bible.</p>
+            <p>On C688 is a tracing of Blake’s hieroglyphic signature on the drawing for Job design XIV; the
+explanation (C891) with aid from John Beer makes out that the hand and thumb are respectively “W” and
+“B,” followed by an eye, the “I” of Imagination; the first and last symbols being a line and a sun,
+text and illumination.</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">[On Blake’s Illustrations to Dante]</hi>
+                </title>
+              </head>
+              <p>No. 3 &amp; his ?Porch in Purgatory (EC) / and his throne(?) . . . (B) / (not in K). (Butlin,
+<hi rend="i">The Paintings and Drawings</hi>, 812:3, makes some bad guesses at words in this design, getting
+the sequence scrambled. Where we read “Porch” or “throne” he tries “Paradise”; he divides “The
+Thunder of Egypt” (EBC) into “The Turks God of Egypt”. These guesses don’t check out.</p>
+              <p>No. 7 &amp; the Goddess Nature Memory [<hi rend="i">Nature</hi>] is his Inspirer (K) / &amp;
+the Goddess Nature &lt; Memory &gt; &lt; is his Inspirer &gt; (EC) / the Goddess Nature Mystery is his
+Inspirer (B, surely wrong) / ?Memory (Butlin)</p>
+              <p>No. 38 (new entry in C689 but printed out of order) Virgin Casella Dante Venus (not in EKB)
+(Butlin notes only “Venus?”)</p>
+              <p>No. 68 (not in KEBC) Butlin notes “M . . . y” and conjectures “Mercury” or
+“Memory” (The letters are spaced about that far apart, with all between erased.)</p>
+              <p>No. 86 (B prints “and” for “&amp;”)</p>
+              <p>No. 99 Butlin reads “Laws Dominion” where I see “Thrones Dominion[s]”; B spells
+“Scepter” Sceptre.</p>
+              <p>No. 101 B gives “Gulphs” as “Gulfs”.</p>
+            </div4>
+          </div3>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Miscellaneous Prose</hi>
+            </title>
+          </head>
+          <p>Blake’s paragraph in Benjamin Heath Malkin’s book (E671/C693) is at last properly described
+as “On the drawings of Thomas Williams Malkin” not “Thomas Heath Malkin.” Also in this section now are
+the inscriptions in the ms of <hi rend="i">The Four Zoas</hi>, on pp. 56, 88, and 93; also the fragment of
+riddle answers in Blake’s hand (though not invented by him).</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">The Letters</hi>
+            </title>
+          </head>
+          <p>A large addition to C consists of all the letters not selected for E. (Here “K” stands for
+Keynes’ 1980 edition of the <hi rend="i">Letters.</hi>)</p>
+          <p><hi rend="b">To Dr Trusler</hi>, August 23, 1799: 6th line: regret (E) / reject (BKC); 2nd
+paragraph: Thievery (EC) / Thieving (KB)</p>
+          <p><hi rend="b">To Flaxman</hi>, Sept. 12, 1800, with poem. Collated afresh: the time is arriv’d
+(EB)/ the time is now arrivd (KC)</p>
+          <p><hi rend="b">To Hayley</hi>, March 21, 1804; 2nd parag. I have been to look (KC) / I have been
+able to look (B)</p>
+          <p><hi rend="b">To Hayley</hi>, March 31, 1804: If . . . before I deliver then pray (KC) / deliver
+them (B) (K inserts comma after “deliver” to fit the sense).</p>
+          <pb id="p17-14" n="14"/>
+          <p><hi rend="b">To Hayley</hi>, May 4, 1804 (source Gilchrist <hi rend="i">Life</hi>) younger than I
+have known him (BC) / younger than I knew him (K, silently revising)</p>
+          <p><hi rend="b">Letter 20</hi>, previously thought to be ca. 1800 to Hayley, is now dated Sept.-Oct.
+1801, To Thomas Butts? (noted by Mary Lynn Johnson). E. B. Murray has corrected the date of letter 24 to Butts
+from “Jany 10, 1802” to 1803 (a slip of Blake’s thought).</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Recent Conjectural Attributions</hi>
+            </title>
+          </head>
+          <p>C785: tucked in at the last minute is a note telling of Sir Geoffrey’s conjectural but
+confident attribution to Blake of a 24-line poem “To the Nightingale” (about which the note reflects the
+skepticism of the proofreading team) and another unknown poem reported by Keynes as “a remarkable piece of
+Blakean doggerel written in pale blue watercolour with a brush” and “addressed to Mrs Butts.” C does not
+give the texts of these poems; the latter has not been seen by any of us.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Errata emendata</hi>
+            </title>
+          </head>
+          <p>Misprints (and omissions) already noted in the first printing of <hi rend="i">The Complete
+Poetry</hi> &amp; <hi rend="i">Prose of William Blake</hi> 1982 (C).</p>
+          <p>p. 3 NNR [b] The spacing of the “Therefore” sec tion should almost exactly follow Blake thus:
+<q>
+Therefore<lb/>
+God becomes as we are,<lb/>
+that we may be as he<lb/>
+is
+</q>
+(I.e., to isolate “Therefore” and “is” as one-liners. Alternative, to follow exactly:
+<q>
+Therefore<lb/>
+<lb/>
+God becomes as<lb/>
+we are, that we<lb/>
+may be as he<lb/>
+is<lb/>
+p. 121 <hi rend="i">M</hi> 24[26]: 63 flutes <hi rend="i">shd read</hi> flutes [’].<lb/>
+pl. 2, facing p. 273 is printed inside out in the paperback volume but correctly in the hardbound.<lb/>
+p. 148 <hi rend="i">J</hi> 5:60 A misspelling: “Jersualem.”<lb/>
+p. 167 <hi rend="i">J</hi> 22; 25 This time “Jersualsm.”<lb/>
+p. 271 Running head “THE GHOST OF ADEL”!<lb/>
+p. 273 The first Hebrew letter in the transcript should be heh, not thay; Blake engraved it correctly.
+(Pointed out by Stephen Mitchell.)<lb/>
+p. 501 “Klopstock” 30: Spell removed <hi rend="i">shd read</hi> ninefold spell . . . .<lb/>
+p. 687 Incriptions <hi rend="i">shd read</hi> Inscriptions.<lb/>
+p. 689 On design No 38 <hi rend="i">should follow</hi> On verso of No 36 . . . .<lb/>
+p. 727 the word “Hebrew” should not be followed by a colon.<lb/>
+p. 729 Letter 27 After the 11th line this line was omitted: “Maries at the Sepulcher. 4 The Death of the
+Virgin”<lb/>
+p. 789 Add to note the statement: John Grant has pointed out that the “Conclusion” should precede the
+“Application” (one cannot apply a conclusion until it has been reached).<lb/>
+p. 808 <hi rend="i">M</hi> 32:15 In “Kerabim” Blake wrote Kaph for the first Hebrew letter instead of
+Khaph; our printer tried several times but missed.<lb/>
+p. 814 <hi rend="i">Tiriel</hi> 1: 28 serpents] serpents [?all] <hi rend="i">1st rdg</hi><lb/>
+p. 863 “You dont believe . . . ” 11: <hi rend="i">note shd read</hi>: After “said” Blake first wrote
+“Beli,” a start for “Believe”; my previous rdg (“Rich”) has been corrected by G. E. Bentley,
+Jr.<lb/>
+p. 881 [The Catalogue] Insert new note:<lb/>
+p. 1 The Spiritual form of Nelson . . . ] The Spirit of Nelson . . . folds are entangled . . . 
+<hi rend="i">variant inscription on sketch</hi> (Butlin 650)<lb/>
+p. 895 Seventh line from bottom “nothern” <hi rend="i">shd be</hi> “northern.”
+</q>
+Index corrections:
+<q>
+p. 978 Index entry “Her whole Life . . . ” <hi rend="i">shd read</hi> “nobly pend.”<lb/>
+p. 980 Joseph of Arimathea, incriptions <hi rend="i">shd read</hi> inscriptions<lb/>
+p. 981 “Leave O leave . . . 6850 <hi rend="i">shd read</hi> t850<lb/>
+p. 982 Insert: Nightingale, To the 785<lb/>
+p. 983 Poetical Sketches . . . t864 <hi rend="i">shd read</hi> t846<lb/>
+p. 985 “The Angel . . . borth” <hi rend="i">shd read</hi> “ . . . birth”<lb/>
+p. 986 “The grand style of Cert . . . ” <hi rend="i">shd read</hi> “ . . . of Art . . . ”<lb/>
+p. 986 insert: “The Use of Money &amp; its Wars” 687<lb/>
+p. 988 insert: To the Nightingale 785
+</q></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Postscript on Blake’s Hebrew lettering:</hi>
+            </title>
+          </head>
+          <p>Stephen Mitchell points out that in Blake’s 2d Job design he misspells the Hebrew word for
+“angel” in “Angel of the Divine Presence” (though he has it right in the Laocoön plate) and leaves
+out an aleph; so the word appears to melekh (king) instead of mal’akh (angel), leading Foster Damon to the
+mistaken conclusion that “The Hebrew letters beneath his name . . . identify [Satan] as ‘King Jehovah,’
+Job’s false God.”</p>
+        </div2>
+      </div1>
+	<pb id="p17-15" n="15" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

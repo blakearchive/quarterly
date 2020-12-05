@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.2.kilgore</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Order of Nights VIIa and VIIb in Blake’s The Four Zoas</title>
+        <author n="Kilgore">John Kilgore</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.2</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Lynn Goldstein</name>
+              <name>Cynthia Lewiecki</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Special Design and Pasteup for this issue</resp>
+              <name>David Anderson</name>
+              <name>Kris Lackey</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David V. Erdman</name>
+              <name>Everett Frost</name>
+              <name>Nelson Hilton</name>
+              <name>Terrence Hoagwood</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John Kilgore</name>
+              <name>Mark Lefebvre</name>
+              <name>Andrew Lincoln</name>
+              <name>Cettina Magno</name>
+              <name>Thomas Minnick</name>
+              <name>Jeffry Spencer</name>
+              <name>Brian Wilkie</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <body>
+      <pb id="p12-107" n="107"/>
+      <div1 id="BQ-12-2-0010">
+        <head>
+          <title type="main">
+            <hi rend="b">THE ORDER OF NIGHTS VIIa AND VIIb IN BLAKE’S <hi rend="i">THE FOUR ZOAS</hi></hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">JOHN</hi>
+            <name>
+              <hi rend="b">KILGORE</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>The presence of two seventh Nights in the perplexing manuscript of Blake’s
+                        <hi rend="i">The Four Zoas</hi> is a scholarly puzzle which has two
+                    theoretically distinguishable aspects. First there is the editorial problem of
+                    finding the least imperfect arrangement of the two Nights within the text of the
+                    poem; then there is the interpretive problem of deciding what imaginative place
+                    each Night has in the poem as a whole. The two problems really overlap, of
+                    course, for critical issues arise in editorial debate as “internal
+                    evidence,” and responsible interpretation must be consistent with a factual
+                    understanding of the manuscript. Even from a primarily interpretive standpoint,
+                    moreover, it is occasionally more illuminating to sift through the hectic
+                    evidence of Blake’s deletions, additions, and revisions in <hi rend="i">The Four
+Zoas</hi> than to treat the present text as if it were a fully
+                    intentional work. The study of the manuscript can itself become a kind of
+                    interpretation, for part of the significance of the poem resides in the story of
+                    artistic growth and struggle which the manuscript obliquely reveals.</p>
+        <p>Yet there has been a certain tendency to divorce textual scholarship from
+                    critical interpretation in the study of <hi rend="i">The Four Zoas</hi>, and in
+                    the debate over the VIIa-VIIb problem in particular.<supplied type="spacer"> </supplied><ref target="n43" type="note">1</ref> In its commitment to a synoptic overview of
+                    Blake’s entire canon, its preoccupation with the basic structural
+                    principles of his symbolic system, what one may call the main critical tradition
+                    in modern Blake studies has had very little to say about the manuscript of 
+<hi rend="i">The Four Zoas.</hi> Prior to David Wagenknecht’s fairly
+                    recent discussion of the two Nights seven in <hi rend="i">Blake’s Night:
+                        William Blake and the Idea of Pastoral</hi>,<supplied type="spacer"> </supplied><ref
+target="n44" type="note">2</ref> there had been to my knowledge no really detailed critical
+                    examination of internal evidence bearing on the problem. On the other side,
+                    Blake’s editors have been equally reluctant to become “readers”
+                    in the Damon-Frye tradition, preferring either to remain within the precincts of
+                    textual scholarship, or to employ such alternative critical methods as
+                    Erdman’s “historical approach.”<supplied type="spacer"> </supplied><ref target="n45"
+type="note">3</ref> In some ways, no doubt, this division of perspectives is desirable;
+                    yet it has probably lent some obscurity to the problem of the Nights seven, and
+                    to the poem as a whole, which is not purely Blake’s own. In what follows
+                    I try to give a systematic account of the critical and editorial alternatives
+                    associated with the VIIa-VIIb problem, synthesizing previous arguments and
+                    adding a number of observations based on my own reading of the poem. 
+                    <note id="n43"><hi rend="s">1</hi> An exception to this general tendency is
+                            Morton Paley’s <hi rend="i">Energy and the Imagination: the
+                                Development of Blake’s Thought</hi> (Oxford: Clarendon,
+                            1970), chapter 6. See pp. 160-61 and 263 for vary succinct discussions
+                            of the ambiguity of the two Nights seven. A similar approach is taken by
+                            E. D. Hirsch, Jr., in <hi rend="i">Innocence and Experience: An
+                                Introduction to Blake</hi> (New Haven: Yale Univ. Press, 1964),
+                            chapter 7. In emphasizing the changes and inconsistencies involved in
+                            Blake’s “development,” however, both studies tend to
+                            exclude any sense of final coherence in the structure of the poem.
+                        <p>All references to <hi rend="i">The Four Zoas</hi> are from David V.
+                            Erdman, ed., <hi rend="i">The Poetry and Prose of William Blake</hi>,
+                            4th ed., rev. (Garden City: Doubleday, 1956).</p></note>
+	<note id="n44"><hi rend="s">2</hi> Cambridge, Mass.: The Belknap Press of the
+                        Harvard Univ. Press, 1973. See pp. 225-26, 298-302, and for a critical
+                        reading which takes textual problems into account, pp. 210-50, 
+<hi rend="i">passim.</hi> In much of what follows I am indebted to
+                        Wagenknecht.</note>
+	<note id="n45"><hi rend="s">3</hi> David V. Erdman, <hi rend="i">Blake: Prophet
+                            Against Empire</hi>, 2nd ed. (Princeton: Princeton Univ. Press, 1969).
+                        See pp. 293-96 for Erdman’s description of his method as applied to
+                            <hi rend="i">The Four Zoas.</hi></note></p>
+        <p>Both Nights are headed “Vala / Night the Seventh” and VIIb contains in
+                    addition a marginal note, “Beginning of Night VII,” and an interlinear
+                    note, “Beginning of the Seventh Night,” both inserted at line 153
+                    after Blake decided to change the internal order of the Night. “End of the
+                    Seventh Night” is written at the end of VIIb, and the same phrase occurred
+                    after the last line of VIIa at two or possibly three different stages of
+                    revision, but Blake erased it each time to add new material, and after his
+                    latest additions he did not replace it.<supplied type="spacer"> </supplied><ref
+target="n46" type="note">4</ref> All
+                    the leaves of VIIa except the last three bear stitch-marks which indicate that
+                    at one time the Night was bound up in a grouping which included most of the
+                    present Night III and all of IV, V, and VI; the unstitched leaves were
+                    presumably added after Blake had unbound the others. The fact that VIIb bears no
+                    stitch-marks indicates that it, like Nights VIII and IX and the added leaves of
+                    VIIa, was never bound. <note id="n46"><hi rend="s">4</hi> See G. E. Bentley,
+                        Jr., <hi rend="i">William Blake: Vala or The Four Zoas: A Facsimile of the
+                            Manuscript, a Transcript of the Poem, and a Study of Its Growth and
+                            Significance</hi> (Oxford: Clarendon, 1963), p. 162 col. 2. I am, of
+                        course, indebted to Bentley throughout.</note></p>
+        <p>The traditional explanation of the rival Nights is that Blake wrote VIIb first,
+                    later grew dissatisfied and wrote VIIa to replace it, and then simply failed to
+                    decide what should be done with VIIb. Thus in Erdman’s text VIIa is
+                    printed in sequence, on the supposition that it represents Blake’s later
+                    and more definitive thoughts on what should happen at this point in the poem,
+                    while 
+<pb id="p12-108" n="108"/>
+VIIb is printed as an appendix after Night IX.
+                    The critical tradition which has grown up around the assumption that VIIa is a
+                    later “version” of VIIb interprets Blake’s need to rewrite the
+                    earlier Night as the symptom of an imaginative crisis, and thus looks to one or
+                    both Nights for some definitive turning point in the growth of the poem and the
+                    development of Blake’s vision. Frye, for instance, associates the textual
+                    problem with Blake’s invention of the Spectre of Urthona: “The
+                    conception of the Spectre of Urthona seems to have broken on Blake quite
+                    suddenly when he was proceeding to a simpler climax, and occasioned the
+                    rewriting of Night VII . . . . Eventually it burst the whole Zoa scheme
+                    altogether, and was one of the chief reasons for abandoning the poem.”<supplied
+type="spacer"> </supplied><ref target="n47" type="note">5</ref>
+	<note id="n47"><hi rend="s">5</hi> Northrop Frye, <hi rend="i">Fearful
+                            Symmetry</hi> (Princeton: Princeton Univ. Press, 1947), p.
+                    298.</note></p>
+        <p>This account of the poem’s growth sounds persuasive, but more recent
+                    scholarship has severely questioned the assumption on which it is based, namely
+                    that VIIb preceded VIIa. Wagenknecht describes the emergence of the alternative
+                    view of the problem: 
+					<q> In 1956 . . . H. M. Margoliouth, in his edition of 
+<hi rend="i">Vala</hi> . . . reminded scholars that, except for obviously
+                        late additions, the narrative of VIIa flows continuously into VIIb. This
+                        fact of course hinted that the long-held assumption that VIIb was composed
+                        prior to VIIa needed to be reexamined, as did the idea fostered by received
+                        opinion that the two versions were somehow thematically opposed to each
+                        other. . . . Margoliouth’s hint was developed into a death knell for
+                        received opinion by G. E. Bentley’s facsimile edition of the poem,
+                        which demonstrated conclusively on the basis of stitch marks on the
+                        manuscript that VIIb—as VIII and IX—had to be considered later
+                        than VIIa.<supplied type="spacer"> </supplied><ref target="n48" type="note">6</ref>
+	<note id="n48"><hi rend="s">6</hi> Wagenknecht, p. 226.</note></q>
+The implication here is that the two
+Nights were never alternate
+                    “versions” at all, but simply two Nights written in sequence, with
+                    VIIa coming first; and that Blake gave both of them the number seven because,
+                    when he came to transcribe VIIb, he realized that he needed more than three
+                    Nights to finish his poem, and so must fit I-VIIa into six Nights.<supplied type="spacer"> </supplied><ref target="n49" type="note">7</ref> In other words, VIIb was originally
+                    intended as part or all of a Night VIII, but had to be changed into a Night VII;
+                    the original Night VII, i.e. VIIa, had to be squeezed back into the preceding
+                    Nights. <note id="n49"><hi rend="s">7</hi> See H. M. Margoliouth, ed., 
+<hi rend="i">William Blake’s Vala: Blake’s Numbered Text</hi>
+                        (Oxford: Clarendon, 1956), p. xiii. Cf. Bentley, p. 163, cols.
+                    1-2.</note></p>
+        <p>It should be noted, however, that Erdman does not find Bentley’s dating of
+                    VIIb conclusive at all,<supplied type="spacer"> </supplied><ref target="n50"
+type="note">8</ref> but argues that
+                    Blake may have omitted it from the stitched grouping of Nights III-VIIa, not
+                    because it was later (i.e., as yet unwritten), but because Blake had already
+                    replaced it by the time he bound up the other Nights. This is not impossible,
+                    but the hypothesis by itself is not more convincing than Bentley’s
+                    simpler assumption that all of the unstitched Nights (VIIb, VIII, and IX) are
+                    later than VIIa, and it fails to account either for the narrative continuity of
+                    VIIa-VIIb, or for the use in VIIb of symbolic names which crept into the poem
+                    only at a late stage of revision (Bentley, 171 col. 2). <note id="n50"><hi rend="s">8</hi>
+Nor, apparently, does W. H. Stevenson, editor of the
+                            Longman’s Annotated Edition of <hi rend="i">The Poems of William
+                                Blake</hi> (London, 1971). On p. 371 Stevenson asserts that VIIb
+                            “as a whole was undoubtedly written earlier . . . [and] rejected by
+                            Blake.” But I find Stevenson’s overall position rather
+                            confusing and equivocal. If he believes that VIIb was
+                            “undoubtedly” written earlier and rejected, why does he print
+                            the text VIIa-VIIb, and indicate in his notes (371) that “a
+                            continuity in the narrative” justifies this order? This treatment
+                            of the text corresponds to the view that VIIb is neither earlier nor
+                            rejected; and Stevenson hardly clarifies matters by remarking that
+                            “the first part of VIIa . . . appears to belong to the same date as
+                            VIIb” (371). My suspicion is that Stevenson really subscribes to
+                            essentially the view I give—that the Nights were originally
+                            written VIIa-VIIb, with the present ending of VIIa coming
+                            later—but has preferred to avoid controversy by not saying so in
+                            unmistakably clear terms.
+                        <p>Alicia Ostriker sides with Erdman in <hi rend="i">William Blake: The
+                                Complete Poems</hi> (New York: Penguin, 1977), p.
+                    945.</p></note></p>
+        <p>In short, though no really definitive evidence is available, it seems fairly
+                    clear that VIIa was composed before VIIb. Composed, that is, <hi rend="i">in
+                        some form</hi>: for the conclusion does not apply to the last three leaves
+                    of VIIa, which are unstitched and contain “obviously late additions”
+                    to the original Night (we will consider the significance of this fact in a
+                    moment). Margoliouth’s demonstration of the original narrative continuity
+                    of VIIa-VIIb remains the most important piece of evidence supporting the newer
+                    theory of the Nights seven, so it is worth glancing at this juncture in the text
+                    of his <hi rend="i">Vala</hi>:
+<q> . . . the immortal shadow shuddering<lb/>
+                        Brought forth this wonder horrible [Vala] a Cloud she grew &amp; grew<lb/>
+                        Till many of the dead burst forth from the bottoms of their tombs<lb/>
+ The
+                        Spectre smild &amp; gave her Charge over the howling Orc<lb/>
+<lb/>
+ End of
+                        the Seventh Night<lb/>
+ . . . . . . . . . . . . . . . . .<lb/>
+<lb/>
+                        VALA<lb/>
+<lb/>
+ Night the Seventh<lb/>
+<lb/>
+ Now in the Caverns of the Grave
+                        and Places of human seed<lb/>
+ The nameless shadowy Vortex stood before the
+                        face of Orc<lb/>
+ The shadow reard her dismal head over the flaming
+                        youth<lb/>
+ With sighs &amp; howling &amp; deep sobs that he might lose his
+                        rage<lb/>
+ And with it lose himself in meekness she embracd his
+                        fire<lb/>
+<lb/>
+ (Margoliouth, 45-46) </q>
+In the original ending of VIIa, the
+                    Shadow of Enitharmon, having coupled with the Spectre of Urthona, gives birth to
+                    Vala, whom the Spectre then sets as a guard over Orc. At the original beginning
+                    of VIIb, Vala obediently stands on guard duty, and then embraces Orc, much as in
+                    the <hi rend="i">Preludium</hi> to America. In default of more conclusive
+                    evidence, the continuity of the narrative is a persuasive demonstration that at
+                    an early stage of the poem’s development VIIa came first and VIIb second.
+                    The argument can be reinforced by other, similar observations. In VIIa Urizen,
+                    arriving in the Caves of Orc after his journey through chaos, “took his
+                    seat upon a rock” (77:18); in VIIb we find him still seated there (95:16).
+                    In VIIa Urizen proceeds to create the precondition of war by enslaving Orc (for
+                    “War is Energy enslav’d”); in VIIb there is war. In VIIa
+                    Enitharmon tells the Spectre of her fear that Orc may rend her “to the
+                    winds of heaven” (82:38) and her hope that he will rend Vala instead
+                    (83:34); in VIIb Orc does rend Vala (93:21), and Enitharmon’s fear for
+                    herself reaches a climax in her “Watchman” speech (97:28ff.).
+                    Likewise, early in VIIa (78:4), Blake describes the Tree of Mystery in a way
+                    which strongly suggests that he is using the symbol for the first time; there
+                    have been no previous references in Nights I-VI, and the more cryptic allusions
+                    to 
+<pb id="p12-109" n="109"/>
+the Tree in VIIb seem to presuppose the passage in
+                    VIIa.</p>
+        <p>This evidence of an original VIIa-VIIb order is further strengthened by the fact
+                    that Night VI is continuous with VIIa but not VIIb. Placed at the end of VI,
+                    either the original or the revised version of VIIb would produce a bewildering
+                    non sequitur. By contrast, VI-VIIa is a clear sequence. Night VI ends with a
+                    confrontation between Urizen, Tharmas, and the Spectre of Urthona; VIIa begins,
+                    “Then Urizen arose the Spectre fled &amp; Tharmas fled.” It is rather
+                    hard to doubt that Blake conceived and wrote this transition all at once.</p>
+        <p>Again, the attempt to think of VIIa as a “replacement” for VIIb becomes
+                    very difficult when one notices how greatly the two differ in content. There is
+                    virtually nothing in either the original or the added passages of VIIb to
+                    indicate that the Night was an early model of VIIa. Given Blake’s usual
+                    habits of composition, the traditional account of the two Nights would lead us
+                    to expect an exceedingly complex entanglement of VIIa and VIIb, or perhaps a
+                    single palimpsest. Instead, we have two clearly separate Nights, involving
+                    largely different events and characters.</p>
+        <p>Clearly, then, we ought to abandon the idea that VIIa was originally written to
+                    replace an earlier VIIb, an idea which no substantive comparison of the two
+                    Nights will support. But this is far from being the end of the story, for Blake
+                    made major changes in both Nights as <hi rend="i">Vala</hi> turned into <hi rend="i">The
+Four Zoas.</hi> To VIIa he added a few small passages and then
+                    the long section of pp. 85-90, one of the crucial episodes of the present poem.
+                    He appears to have made few major additions to VIIb, but he left three notes
+                    directing that the first 153 lines be moved to the end, thus reversing the order
+                    of the two main episodes of the Night (Erdman, 762). These revisions so
+                    thoroughly undermine the original narrative continuity of VIIa-VIIb, and raise
+                    such doubts concerning Blake’s ultimate intentions, that the editor of
+                        <hi rend="i">The Four Zoas</hi> finds his basic problem still unsolved
+                    despite the discovery of the <hi rend="i">Vala</hi> sequence. If the order of
+                    the original Nights was clear enough, the order of the present Nights is not; it
+                    is, in effect, a separate question.</p>
+        <p>There is no real possibility of reading VIIb first and then VIIa; but once the
+                    added passages of VIIa are taken into account, the opposite sequence becomes
+                    equally unsatisfactory. It is clear enough why such critics as J. Middleton
+                    Murry, Northrop Frye, and Harold Bloom, once persuaded that it was necessary to
+                    choose between the two Nights, should be eager to believe that VIIa was the
+                    later and authoritative version. For in the present VIIa we have not only the
+                    great dramatic confrontation of Orc and Urizen, but the climactic 
+<hi rend="i">rapprochement</hi> between Los, his Spectre, and Enitharmon. The latter
+                    event in particular, which takes place entirely in the added passages, provides
+                    a crucial link in Blake’s myth. Prior to VIIa, Los is a merely natural
+                    imagination, a formidable but basically inhuman demiurge. He is often called a
+                    “demon” and a “terror,” and he has helped Urizen to enslave
+                    Luvah and later Orc. Up to this point all his creations have been
+                    semi-instinctive, <hi rend="i">ad hoc</hi> responses to the fallen state, and
+                    the remainder of his energy has been spent in lovers’ quarrels with
+                    Enitharmon. But the sequence of events which begins with the Spectre of
+                    Urthona’s seduction of Enitharmon (84-86) works a profound change in Los.
+                    By embracing Enitharmon, the Spectre gains the power to “enter Los’s
+                    bosom,” and then is embraced in his turn by Los, “first as a brother /
+                    Then as another Self.” Under the force of the Spectre’s
+                    “inspired” persuasion, Los suddenly feels “A World within /
+                    Opening its gates” and vows to “teach / Peace to the Soul of dark
+                    revenge &amp; repentance to Cruelty.” It is at this point that we hear,
+                    for the very first time in all Blake’s works, of the necessity of
+                    “Self-Annihilation”—henceforth one of Blake’s two or
+                    three most important themes.<supplied type="spacer"> </supplied><ref target="n51"
+type="note">9</ref> The new
+                    alliance and new vision lead directly to the discovery of Los’s true
+                    mission: he will progressively reconstruct the fallen Albion, first by weaving
+                    “bodies” for the “Spectres of the Dead,” then by creating
+                    “forms sublime” which the spectres can assimilate into (87:36-39
+                    &amp; 90:15-25). The Spectre of Urthona changes at this point from a
+                    “ravning” Selfhood to a helpful “medium,” and Enitharmon,
+                    still more dramatically, from an aberrant Female Will into a loving source of
+                    creative inspiration. Finally, in a fitting climax to these climaxes, the
+                    three-way alliance manages to regenerate and redeem the fallen Urizen. 
+<note id="n51"><hi rend="s">9</hi> Concordance, p. 1654.</note></p>
+        <p>Thus the extraordinary added passages on pp. 85-90 point the way, not only to the
+                    apocalypse of Night IX, but to the central myths and themes of Blake’s
+                    two subsequent epics. Given the importance of the Los-Spectre relationship in
+                        <hi rend="i">Jerusalem</hi>, and of the weaving of bodies in <hi rend="i">Milton</hi>,
+one gets the impression that in these pages of <hi rend="i">The Four Zoas</hi> Blake achieved an imaginative
+breakthrough which
+                    profoundly affected his conception of the later poems—unless, indeed, it
+                    was his work on the later poems which showed him how to solve his problems with
+                        <hi rend="i">The Four Zoas.</hi> It is understandable, then, that critics
+                    should find VIIa more faithful to the spirit of Blake’s mature vision
+                    than VIIb, and should therefore be reluctant to surrender the traditional view
+                    of the problem. The tendency can be observed in Harold Bloom’s discussion
+                    of the Nights seven in the Erdman edition of Blake: 
+					<q> The two sections of
+                        Night VII are alternate ways of preparing for the blackness of Night VIII
+                        and the liberation of Night IX. I find it difficult to believe that VIIa is
+                        not the later in composition, but in this belief I am guided only by what I
+                        take to be internal evidence. Whichever was later, our understanding of the
+                        poem’s total design can only benefit by a study of both versions. I
+                        do not think it accurate (or fair to the poem) to read Nights VIIa and VIIb
+                        as being an intentional sequence, in that order. VIIa in at least some
+                        respects is an imaginative advance on VIIb.<lb/>
+<lb/>
+ (Erdman, 876) </q>
+One
+                    cannot fault Bloom’s sense that VIIb makes an 
+<pb id="p12-110" n="110"/>
+                    unsatisfactory sequel to the present VIIa; for in VIIb we confront the old Los
+                    again, a warrior Los with “his knees / Bathed in bloody clouds. his loins
+                    in fires of war where spears / And swords rage . . . ” (96:21).<supplied type="spacer"> </supplied><ref target="n52" type="note">10</ref> Similarly, Tharmas, Orc, and Urizen, all
+                    of whom have been partially rehabilitated in the triumphant reconciliations of
+                    VIIa, reappear in VIIb, without explanation, in more primitive stages of fall.
+                    As a sequel to the present VIIa, then, VIIb would give us at best a very sour
+                    irony, sufficient to undercut the new ending of VIIa, and with it the
+                    justification for the poem’s apocalyptic conclusion.<supplied type="spacer"> </supplied><ref target="n53" type="note">11</ref>
+	<note id="n52"><hi rend="s">10</hi> Similarly, Stevenson notes that in VIIb,
+                        “The regeneration of Los and Enitharmon is ignored,” p. 389. Cf.
+                        Margoliouth, p. 144, and Paley, p. 161.</note>
+	<note id="n53"><hi rend="s">11</hi> Of course Night VIII is a war Night too; but
+                        here the battle scenes are matched in stirring counterpoint to scenes which
+                        depict Los’s mighty efforts to resist the forces of fall, so that the
+                        outlook is not nearly so bleak as in VIIb. On the whole, the tone of VIII
+                        seems to me one of breathtaking suspense tending strongly toward
+                        optimism.</note></p>
+        <p>Moreover, the present VIIa tallies fairly well with Night VIII, while VIIb does
+                    not. At the beginning of VIII we have a “Council of God”
+                    passage—one of Blake’s favorite setpieces—and then Los and
+                    Enitharmon in effect resume the conversation they have been having near the end
+                    of VIIa: 
+					<q> Then Los said I behold the Divine Vision thro the broken Gates<lb/>
+                        Of thy poor broken heart astonishd melted into Compassion &amp; Love<lb/>
+                        And Enitharmon said I see the Lamb of God upon Mount Zion<lb/>
+ Wondring with
+                        love &amp; Awe they felt the divine hand upon them<lb/>
+<lb/>
+ (VIII, 99:15;
+                        cf. VIIa, 86:44-60) </q>
+References to the apocalyptic mission quickly
+                    follow, with Enitharmon once again “sighing forth” the spectres and
+                    Los “recieving them into his hands” (99:23-100:2; cf. VIIa, 90:35-67).
+                    Late additions throughout Night VIII continue to develop the same theme (cf. p.
+                    113), supporting the conclusion that Blake was assuming the final version of
+                    VIIa as the immediately preceding Night. One could, conceivably, make a similar
+                    argument for the continuity of VIIb (in the revised sequence) and Night VIII, on
+                    the basis that the spectres of the dead descend from Beulah at both 95:11 and
+                    99:19. But the spectres also descend late in VIIa (85:18), and on the whole a
+                    VIIb-VIII sequence would present an inexplicable shift from sardonic gloom to
+                    prophetic hope. The Los and Enitharmon of VIII are unmistakably the prophetic
+                    figures who emerge at the end of the revised VIIa; they have little in common
+                    with the savage Los and hysterical Enitharmon of VIIb.<supplied type="spacer"> </supplied><ref target="n54" type="note">12</ref>
+	<note id="n54"><hi rend="s">12</hi> Erdman, p. 758, offers a rather curious
+                        argument to show that the two Nights were closely joined at a 
+<hi rend="i">previous</hi> stage of composition. He theorizes that the marginal note
+                        Blake left on page 100, calling for the insertion of a passage beginning
+                        “Los stood” between 100:1 and 100:2, refers to most of page
+                        90—i.e., basically to the present ending of VIIa—but that
+                        Blake later changed his mind and left the passage on 90 in its present
+                        position. His conclusion is that “this bit of masonry” (the
+                        provisional insertion of 90 into 100) “which cements VIIa closely to
+                        VIII, seems to indicate a time when Blake considered VIIb as abandoned (or
+                        moved).” Wagenknecht reviews the argument on pp. 298-300; I agree with
+                        his conclusion that Erdman’s theory about pages 90 and 100 is
+                        “extremely suppositious . . . on the basis of physical evidence
+                        alone,” and also improbable for stylistic and thematic reasons. But
+                        unless I misread, Erdman’s conclusion still stands, for the different
+                        and much more obvious reason that VIIa in its present state is <hi rend="i">still</hi>
+“cemented closely” to VIII. Cf. Paley, p.
+                        161.</note></p>
+        <p>It seems, then, that at a late stage of revision Blake decided to route the poem
+                    around VIIb. This means that the traditional account of the two Nights may not
+                    be so far mistaken after all. Nothing says that Blake had to write VIIb first in
+                    order to be dissatisfied with it, or VIIa second in order to prefer it if a
+                    choice had to be made. It is quite possible that he first wrote both Nights (as
+                    consecutive rather than alternate episodes), next started feeling that his
+                    approach to apocalypse was unsatisfactory, and then saw that his best opening
+                    for a more suitable approach could be found in the earlier VIIa. Once he had
+                    made his changes in VIIa, he would have found that VIIb no longer fit as a
+                    sequel; since at this point he had ten Nights anyway, he might then have decided
+                    to keep VIIa as Night VII (reversing his earlier decision to squeeze it back
+                    into I-VI), revising Night VIII accordingly. Thus VIIa, though not originally a
+                    replacement for VIIb, would have become one by the time Blake finished his
+                    revisions.</p>
+        <p>This theory would seemingly allow us to go on reading VIIb in the way it has
+                    usually been read—as an alternate but rejected approach to Night
+                    VIII—if we stipulated that VIIb’s previous niche is presently
+                    filled by the added section of VIIa alone, rather than by the Night as a whole.
+                    Once again, however, matters cannot be so simple. Blake was not a poet to delete
+                    material he liked if he thought he could possibly find a place for it, and the
+                    very fact that he kept VIIb together with the rest of his manuscript testifies
+                    to his hope that it could somehow be reintegrated into the poem. Moreover,
+                    though VIIb seems to be excluded by the VI-VIIa-VIII sequence upon which Blake
+                    finally settled, its disentanglement from the other Nights is incomplete. For
+                    instance, the references to war in the added passages of VIIa come quite
+                    abruptly; when Los draws Urizen “from out the ranks of war,” it is
+                    very difficult to tell just what war Blake is talking about.<supplied type="spacer"> </supplied><ref target="n55" type="note">13</ref> Then on reflection one has to conclude that it is the
+                    war described in VIIb. Of course the poem’s tendency to subvert linear
+                    chronology should never be underestimated, and it is just possible that we are
+                    dealing with a proleptic reference to the wars of Night VIII. Still, on the
+                    whole the climactic turn toward peace, mercy, and art at the end of VIIa seems
+                    more comprehensible if played against the backdrop of Orc’s violent
+                    rising in VIIb. It is as if Blake, once having written VIIb, could not wholly
+                    refrain from assuming it as a basis for his revisions to VIIa, or as if he
+                    worked with the intention of later transplanting parts of VIIb into VIIa. 
+<note id="n55"><hi rend="s">13</hi> There are four previous references to war in
+                        VIIa, but these are brief and casual. Concordance, p. 2069.</note></p>
+        <p>Wagenknecht offers a substantial demonstration of VIIb’s importance to
+                    Blake’s overall argument (225ff.), and shows that Night VIII contains
+                    back-references to VIIb as well as VIIa; his conclusion is that Blake left
+                    “two integral, not alternative, Nights VII.” If Blake had suppressed
+                    VIIb, perhaps no one would ever have noticed that it was missing; with the Night
+                    before us, however, we see many things that the poem as a whole seems to need.
+                    The very dramatic meeting between Tharmas and Vala brings Tharmas up to
+                    date—he has been rather scarce since Night IV—and prepares for his
+                    next appearance, in VIII. The emergence of Vala herself as a fully distinct
+                    character obviously provides a crucial continuation to the story of her birth in
+                    VIIa, and a prelude to her appearance as Rahab in the apocalypse. In some ways
+                    her epiphany is redone in Night VIII, yet the later treatment is less full, and
+                    can be better understood by the light of the earlier one.<supplied type="spacer"> </supplied><ref target="n56" type="note">14</ref> For instance, the descent of the spectres,
+                    “tempted by the Shadowy females sweet / Delusive cruelty” (VIII,
+                    99:20), makes more sense if one has first read the exquisite description of
+                    Vala’s beauty which Blake provides in VIIb. <note id="n56"><hi rend="s">14</hi> Cf.
+especially 101:20ff: 
+<q> . . . While the dark
+                                shadowy female brooding over<lb/>
+ Measurd his [Orc’s] food
+                                morning &amp; evening in cups &amp; baskets of iron<lb/>
+ With
+                                tears of sorrow incessant she labourd the food of Orc<lb/>
+ Compelld
+                                by the iron hearted sisters Daughters of Urizen </q>
+Here we have in
+                            little the <hi rend="i">Preludium</hi> of America—and the
+                            original beginning of VIIb—yet again. This could mean that Blake
+                            was thinking of VIIb as abandoned, and was trying to sketch in one
+                            portion of its contents which he considered vital. On the other hand,
+                            the passage is brief enough to have been intended as a refrain or echo,
+                            so it is equally possible that Balke was still committed to including
+                            VIIb.
+                    </note></p>
+        <p>In sum, we have to regard VIIb as part of the poem, but there is no really
+                    satisfactory way to fit it in. Blake left the Night as a unit, but as a unit it
+                    resists placement anywhere in the present 
+<pb id="p12-111" n="111"/>
+text. It
+                    seems that VIIb was originally designed to carry the poem all the way from the
+                    birth of Vala to the brink of apocalypse—albeit a simpler apocalypse than
+                    the one Blake finally imagined—and it has a cataclysmic finality which
+                    makes it seem to belong—somewhere—late in the present Night
+                        VIII.<supplied type="spacer"> </supplied><ref target="n57" type="note">15</ref> Yet
+its general pessimism and
+                    the unregenerate state of its protagonists make VIIb seem to fit best into the
+                    juncture between the old and new portions of VIIa, where it originally began. No
+                    doubt this is the least unsatisfactory niche; still, VIIb rises to a climax of
+                    its own which would throw the alternate climax of the revised VIIa off center.
+                    In VIIb the apocalypse seems imminent; in VIIa it is not to come for another six
+                    thousand years (87:26). In VIIb Tharmas and Vala seem destined to be key figures
+                    in bringing about the final consummation; in VIIa they are supernumeraries.
+                    Moreover, if restored to its original position, VIIb would interrupt the story
+                    of Los’s reconciliation with his Spectre and Emanation, spoiling the
+                    narrative rhythm of VIIa. It is certain that Blake himself, once he had
+                    conceived of the regeneration of Los, preferred to avoid such interruption and
+                    to pursue the narrative of VIIa directly to its present climax. 
+<note id="n57"><hi rend="s">15</hi> In Margoliouth’s <hi rend="i">Vala</hi>,
+                        the ending of VIIb in its original order is joined directly to the original
+                        beginning of IX—so that VIIb is in effect the Night VIII of <hi rend="i">Vala.</hi>
+I do not find this arrangement of the text quite
+                        persuasive, even as representing an earlier state of the manuscript, but I
+                        do agree with Margoliouth’s general sense (and with Bentley’s)
+                        that the material of VIIb was originally conceived as part of the last Night
+                        before the apocalypse. It is mainly the emphasis on climactic war (a
+                        “signal of the dawn” for which Blake had the authority of 
+<hi rend="i">Revelation</hi>) which persuades me of this. But by the time
+                        Blake made the present transcript of VIIb, with the heading “Night the
+                        Seventh,” another Night VIII must have existed.</note></p>
+        <p>The puzzle grows still more perplexing when one tries to grasp Blake’s
+                    reasons for changing the order of VIIb. It seems logical to suppose that the
+                    change would have come after Blake had written the new ending of VIIa, since the
+                    original continuity of VIIa-VIIb would already have been lost. If at this point
+                    Blake was toying with the idea of a VIIa-VIIb-VIII sequence, the switch would
+                    have the advantage of moving the descent of the spectres to the end, creating a
+                    bridge between VIIb and VIII. Yet the corresponding transition from the new
+                    ending of VIIa to the new beginning of VIIb seems quite wayward. At the end of
+                    VIIa Urizen is an infant in Los’s arms; the reordered VIIb begins,
+                    “But in the deeps beneath the Roots of Mystery in darkest night / Where
+                    Urizen sat on his rock the Shadow brooded / Urizen saw &amp; triumphd &amp; he
+                    cried to his warriors.” Of course, this is just enough of a non sequitur to
+                    be possibly intentional—especially since Blake has noted at the end of
+                    VIIa that Los was able to redeem all of Urizen <hi rend="i">except</hi>
+                    “his Spectrous form which could not be drawn away” (90:60). The lines
+                    take us back to that troublesome crossroads in the narrative, Vala’s
+                    birth from the Shadow of Enitharmon, and it is this event rather than
+                    Los’s regeneration—or this event together with a misconception of
+                    what has happened to Los—which causes Urizen to triumph.<supplied type="spacer"> </supplied><ref target="n58" type="note">16</ref> It seems just conceivable that Blake was trying to
+                    rearrange VIIb in such a way that, having traced the consequences of the
+                    Enitharmon-Spectre union in the upper world of Los, the narrative now backtracks
+                    and begins to trace the consequences of the union in the lower world of the
+                    spectrous Urizen. Yet such a change, supposing that Blake once intended it,
+                    would do nothing to solve the weightier problems involved in a VIIa-VIIb
+                    sequence, leaving us with an inexplicable contrast between prophetic hope and
+                    ironic despair. <note id="n58"><hi rend="s">16</hi> Vala was originally
+                        mentioned in the third as well as the first line of the passage, which read
+                        “Urizen cried to the Shadowy Female” rather than “Urizen
+                        cried to his warriors.” The change, however, does not affect the fact
+                        that Urizen is gloating over the birth of Vala: it merely means that his
+                        speech is now directed to his warriors rather than her. An additional,
+                        deleted line on the same page reads, “The shadowy voice answerd O
+                        Urizen Prince of Light,” showing that Blake at one time conceived of
+                        Urizen’s speech as part of a conversation between Urizen and Vala.
+                        Since no other trace of Vala’s half of the conversation remains here
+                        (it has conceivably been moved to VIII, 102:28 ff.), it seems probable that
+                        the change in the third line came quite early, before the reordering of the
+                        Night.</note></p>
+        <p>The other possible explanation, to which I tentatively incline, is that Blake
+                    changed the order of VIIb before writing the new ending to VIIa. On this
+                    hypothesis, the change would be the first expression of Blake’s
+                    dissatisfaction with the <hi rend="i">Vala</hi> sequence, and the first sign of
+                    his search for a more humanistic approach to apocalypse. The advantage of the
+                    new order is in moving the confrontation of Tharmas and Vala—which,
+                    though gloomy enough, is at least more hopeful than the frantic violence which
+                    dominates the other portion of the Night—to the end.<supplied type="spacer"> </supplied><ref target="n59" type="note">17</ref> The idea is supported by Blake’s late addition,
+                    at 94:12, of a lament for Luvah which makes the portrait of Vala considerably
+                    more sympathetic. Moreover, the reversed VIIb would still be fairly continuous
+                    with the original VIIa (though less so than formerly), since the revised
+                    beginning returns to the moment of Vala’s birth. But if the reordering of
+                    VIIb did in fact occur at a fairly early stage, it probably corresponded to a
+                    plan of revision which Blake abandoned when he decided to merge Los and the
+                    Spectre. At whatever point it was executed, the flip-flopping of the Night was a
+                    mechanical tactic, incapable by itself of solving any of the serious problems
+                    confronting Blake. His failure to change the numbering of the Nights seven is,
+                    by itself, sufficient evidence that he was never finally satisfied to place VIIb
+                    between VIIa and VIII. <note id="n59"><hi rend="s">17</hi> Stevenson, p. 390,
+                        gives the opposite opinion: “In the second half (as it now is) Orc
+                        appears. In transferring this passage to the end, Blake has delayed till
+                        last the revelation of the worst evil.”</note></p>
+        <p>Still, it is not difficult to arrive at a general sense of Night VIIb’s
+                    place in Blake’s vision, even though it is impossible to find a physical
+                    place for it in the text of his poem. In effect, Blake’s narrative
+                    separates into parallel strands when Vala is born from the Shadow of Enitharmon,
+                    at the point of the original ending of VIIa. Frye’s account of this
+                    doubling refers only to the present VIIa, but seems valid even if applied to
+                    both Nights seven: “In Night VII [i.e., VIIa] . . . a double crisis takes
+                    place, one an imaginative advance, symbolized by the mingling of Los and the
+                    Spectre of Urthona, the other a consolidation of error symbolized by the birth
+                    of Rahab [i.e., Vala] from the Spectre of Urthona and . . . the Shadow of
+                    Enitharmon” (Frye, 278). Roughly speaking, the path of “consolidation
+                    of error” leads through VIIb, with its emphasis on climactic war, the
+                    catastrophic rising of Orc, the triumph of Urizen, the epiphany of Vala, and the
+                    inconsolable rage of Tharmas; the path of “imaginative advance” leads
+                    through the added passages of VIIa, where for the first time we find a fully
+                    prophetic Los, aided by his Spectre and Emanation, struggling to save mankind
+                    through creative action. The two strands come back together again in VIII
+                    (though with some fairly messy duplication of VIIb), where a sense of breakneck
+                    progress toward apocalypse is brilliantly captured in the counterpointing of
+                    Los’s furious acts of creation and Urizen-Satan-Rahab’s equally
+                    furious acts of subversion and destruction.</p>
+        <p>Likewise, though no exact chronology of the composition of these Nights can be
+                    given, it is possible to speak with reasonable assurance about the process of
+                    imaginative growth which must have been involved. At an early stage, it would
+                    seem, Blake conceived of an apocalypse motivated almost exclusively by the
+                    “consolidation of error,” a mechanical apocalypse entailing an almost
+                    instantaneous leap from nadir to zenith. What this vision lacked was 
+<pb id="p12-112" n="112"/>
+the myth of the fully human and self-conscious Los,
+                    and thus any sense of the possibility for positive human action in the fallen
+                    world. Possibly Blake was astonished at the oversight once he recognized it;
+                    possibly he came to regard <hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi> as
+categorically superior to <hi rend="i">The Four Zoas</hi>
+                    because in those poems the mature Los, the self-conscious visionary confronting
+                    human problems on the stage of human history, is dominant throughout, whereas
+                    the far-ranging fantasy of <hi rend="i">The Four Zoas</hi> deals largely with a
+                    sort of cosmic pre-history.</p>
+        <p>In any case, the new ending to VIIa marks a decisive change in Blake’s
+                    concepts of apocalypse and prophecy. By mingling Los and the Spectre Blake
+                    creates a human agency capable of turning fallen history in the direction of a
+                    Last Judgement, thus transforming the apocalypse into a quest story with the
+                    poet-prophet as its unequivocal hero. It was a change which strained the
+                    narrative structure of the epic to the breaking point, squeezing VIIb halfway
+                    out of the poem and causing major revisions in Night VIII. Yet the new vision
+                    does not really invalidate the old; rather, as a later stage in a dialectic, it
+                    necessarily implies and incorporates the earlier stages. The essential coherence
+                    of the structure which Blake finally left—VIIa, VIII, and IX, with VIIb
+                    lounging somewhere in the shadows—is not diminished by the fact that it
+                    presumably grew out of a poetic process whose beginning did not know its
+                    end.</p>
+        <p>Why, then, did Blake lack the stamina to make a final disposition of VIIb, if
+                    indeed that was all he had to do in order to finish his poem? The question is
+                    especially troubling in that Blake apparently had a logical moment at which to
+                    attempt the reintegration of the displaced Night when he revised Night VIII to
+                    bring it into line with the new VIIa. It would seem more natural to bring in
+                    passages from VIIb at this point than to plan on yet another revision of VIII
+                    later on. On the other hand, one can imagine that Blake would find the problem
+                    of VIIb an unwelcome distraction from the new vision which absorbed him as he
+                    reworked Night VIII. Moreover, he might have been rather slow to part with the
+                    idea that VIIb could be retained as a unit. <hi rend="i">The Four Zoas</hi> is,
+                    finally, a story, yet its narrative structure is formed by the spatial accretion
+                    of alternate myths and symbols around a central core of events (Fall,
+                    Incarnation, Redemption, Apocalypse) which they interpret and exemplify, as well
+                    as by the linear unfolding of the plot. It may have taken Blake some time to
+                    decide that the clash of the old VIIb with the new VIIa and VIII was a greater
+                    incongruity than even this structure could tolerate.</p>
+        <p>Nevertheless, the recognition of VIIb’s incompatibility eventually came,
+                    and one still must wonder why Blake never solved the problem. The speculation
+                    which suggests itself, supposing that we have guessed right up till now, is that
+                    the new inspiration proved all too potent. It drew Blake’s energies away
+                    from <hi rend="i">The Four Zoas</hi> toward <hi rend="i">Milton</hi> and 
+<hi rend="i">Jerusalem</hi>, but persuaded him more and more that further
+                    revisions of the earlier poem were necessary, or at least desirable. Night VIII
+                    in particular makes extensive use of the symbolic “Machinery” of the
+                    later epics, in a way that sometimes justifies Margoliouth’s remark that
+                    “Blake abandoned the poem because the new wine was bursting the old
+                        bottles.”<supplied type="spacer"> </supplied><ref target="n60" type="note">18</ref> It
+is as if Blake could
+                    not content himself with completing <hi rend="i">The Four Zoas</hi> as such, but
+                    had to go on to attempt a wholesale demonstration of the poem’s
+                    consistency with its offspring; as if, after a certain point, everything had to
+                    be said over again from the stand-point of <hi rend="i">Jerusalem.</hi> Nights I
+                    and II contain certain late additions which suggest that Blake may have decided
+                    to work through his first six Nights yet again, installing passages which would
+                    anticipate the new vision, before tackling the problem of VIIb. Yet at the same
+                    time, judging by the virtually atemporal structures of <hi rend="i">Milton</hi>
+                    and <hi rend="i">Jerusalem</hi>, Blake was undergoing a crisis of disenchantment
+                    with narrative itself. In <hi rend="i">Jerusalem</hi> he seems completely
+                    unwilling to impose anything resembling a narrative chronology on the actions
+                    and events of his myth. As he grew more and more accustomed to letting spatial
+                    principles of symbolic association prevail over “clock-time,” Blake no
+                    doubt found himself less and less inspired to resolve the narrative tangles of
+                    the Nights seven. <note id="n60"><hi rend="s">18</hi><hi rend="i"> William Blake</hi>
+(London: Oxford Univ. Press, 1951), p.
+                        115.</note></p>
+        <p>How, then, should the two Nights be presented to the reader? My not very
+                    earthshaking conclusion is that K in this particular is superior to E. VIIb
+                    should come after VIIa, but is too important to the poem to be treated as an
+                    appendix. Both editions are undoubtedly correct in presenting each Night as a
+                    unit, rather than attempting to reintegrate VIIb into VIIa or VIII or both, for
+                    such an attempt would be highly presumptuous, and would obscure a problem it
+                    could not solve. Likewise, it seems best to print VIIb in the revised order, a
+                    step which is dictated by the general policy of following the latest intentions
+                    for which there is direct evidence in the manuscript.</p>
+        <p>Whether the critic should be bound by this arrangement of the Nights is another
+                    question, or perhaps no question at all, since the critic is always at liberty
+                    to choose the order of the passages which he wishes to discuss. But for the
+                    purpose of a linear commentary, or of having a theoretical model of the
+                    poem’s narrative sequence, I would recommend a critical order much like
+                    the one Wagenknecht uses in his reading of the poem.<supplied type="spacer"> </supplied><ref target="n61" type="note">19</ref> Having read VIIa up to the point of Vala’s birth
+                    from the Shadow of Enitharmon, I would then take up VIIb, considering it in its
+                    original position in order to get a coherent view of Blake’s first
+                    attempt to depict approaching apocalypse. I would choose the original rather
+                    than the revised version of VIIb (though with some hesitation), for the sake of
+                    preserving the original continuity of VIIa-VIIb, and because I suspect that the
+                    reordering of the Night corresponded to a plan of revision which Blake never
+                    carried out. Having read VIIb straight through in this order, I would return to
+                    the added passages of VIIa; then on to VIII and IX. I do not, of course, claim
+                    that this ordering of the text would have any authority; it is merely a sequence
+                    for which there is some scholarly justification, and one which would be useful
+                    for some critical purposes. <note id="n61"><hi rend="s">19</hi> See <hi rend="i">Blake’s
+Night</hi>, pp. 224-25.</note></p>
+      </div1>
+	<pb id="p12-113" n="113" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

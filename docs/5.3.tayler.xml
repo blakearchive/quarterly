@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.tayler</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="discussion">The Source of Bring out number, weight &amp; measure in a year of
+dearth</title>
+                <author n="Tayler">Edward W. Tayler</author>
+                <author n="Frost">Everett C. Frost</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+            <div1 id="BQ-05-3-0005">
+            	<pb id="p05-213" n="213"/>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">EDWARD W.</hi>
+                            <name>
+                                <hi rend="i">TAYLER</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">COLUMBIA UNIVERSITY</hi>
+                        <docAuthor>
+                            <hi rend="i">EVERETT C.</hi>
+                            <name>
+                                <hi rend="i">FROST</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">LOS ANGELES</hi>
+                    </byline>
+                    <head>
+                        <title type="main">The Source of “Bring out number, weight &amp; measure in a year of
+dearth”</title>
+                    </head>
+                    <p>
+                        <hi rend="i">Edward W. Tayler</hi> Louis Middleman asserts (<hi rend="i">Blake
+Newsletter</hi>, 4 [Spring 1971], 147) that Blake’s use of the Bible, though “copiously documented,”
+includes an unnoticed allusion to <hi rend="i">mene, mene, tekel, upharsin.</hi> But the infernal Proverb in
+question, “Bring out number, weight &amp; measure in a year of dearth,” unquestionably relies on the
+apocryphal book of the Wisdom of Solomon 11.21: <hi rend="i">omnia in mensura et numero et pondere
+disposuisti</hi> (“thou hast disposed all in measure and number and weight”). This verse is quoted, varied
+from, and alluded to frequently in medieval and renaissance literature. Blake, doubtless, knew the original;
+but he could also have encountered it in any number of neo-platonic treatises, not to mention John Donne and
+Ben Jonson. In any case Blake would have had to go no farther than his edition of John Milton which would
+include the commendatory lines of Andrew Marvell:
+<q>
+Thy verse created like thy <hi rend="i">Theme</hi> sublime,<lb/>
+In Number, Weight, and Measure, needs not <hi rend="i">Rhime.</hi>
+						</q>
+There is no need, then, to confuse Blake’s Proverb with Daniel’s “numbered, numbered, weighed,
+divided.”</p>
+                    <p>
+                        <hi rend="i">Everett C. Frost</hi> Louis Middleman argues that the fourteenth Proverb
+of Hell (“Bring out number, weight &amp; measure in a year of dearth”) “is built on a close translation of the
+Aramaic writing on the wall (Daniel 5.25-28), ‘mene, mene, tekel, upharsin,’ or ‘numbered, numbered,
+weighed, divided.’ ”</p>
+                    <p>But first, Middleman’s translation of this perplexing phrase is hardly “close”
+(literal), though it is viable enough working <hi rend="i">backwards</hi> from a knowledge of Blake’s
+Proverb; and, while the apocalyptic concerns of <hi rend="i">The Marriage</hi> invite an astute reader to find
+a <hi rend="i">parallel</hi> in the Daniel passage (and in many other Biblical passages as well), they do not,
+of themselves, justify a derivation.</p>
+                    <p>Second, a much less elliptical possibility lies closer to hand. Much more likely that
+Blake’s Devil is having corrosive fun with one of Milton’s angelic interpreters, Andrew Marvell, whose
+poem, “On Paradise Lost,” typically prefaces Milton’s poem and concludes with the lines:
+<q>
+Thy verse, created like thy Theme sublime,<lb/>
+In Number, weight, and measure needs not rime.
+</q>
+Blake’s Devil may be thought of as mocking Marvell for being cowed by Milton’s resonances into accepting
+Milton’s Deistical Trinity of Destiny, ratio of the five senses, and vacuum. He agrees with Marvell that
+“number, weight, and measure” is a fit description of Milton’s poem—though not of the verse only.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

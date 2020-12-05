@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Paley’s Autumn Address</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <div1 id="BQ-17-1-0008">
+        <pb id="p17-39" n="39"/>
+        <div2>
+          <head>
+            <title type="main">PALEY’S AUTUMN ADDRESS</title>
+          </head>
+          <p>For those who might wish to correspond directly with Morton Paley in October, his address during
+that month (only) will be Yale Center for British Art, Box 2120 Yale Station, New Haven, CT 06520.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

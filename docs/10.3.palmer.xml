@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.palmer</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Samuel Palmer in the Market</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+	<pb id="p10-68" n="68"/>
+      <div1 id="BQ-10-3-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">News</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Samuel Palmer in the Marketplace</hi>
+            </title>
+          </head>
+          <p>A recent series of newspaper articles has gone very far toward documenting the suspicion, first
+voiced by David Gould in a letter to <hi rend="i">The Times</hi> in 1970, that many of the paintings sold in
+recent years as Samuel Palmers have been modern fakes. The most recent installments in the story have come
+from <hi rend="i">Times</hi> salesroom correspondent Geraldine Norman, who traced several of the doubtful
+paintings to Thomas Keating. In a letter to <hi rend="i">The Times</hi> in August Keating admitted painting
+many imitations of the works of Palmer as well as of other artists. In a 27 August interview on 
+<hi rend="i">Nationwide</hi>, a BBC television news program, Keating said that he had painted his imitations with
+the aim of showing the greed of art dealers who make their fortune off of artists whose works are bought for
+as little as possible and are sold as expensively as possible, a situation in which Keating says he has found
+himself for a lifetime of painting. Keating also claims that his imitations appear clearly as imitations to
+anyone who cares enough about Palmer to find out what Palmer’s paintings really look like, and Keating’s
+point in this case seems to be carried by the numerous doubts expressed by Palmer experts over the past few
+years about several paintings on the market.</p>
+          <p>According to stories in <hi rend="i">The Times</hi>, about thirteen paintings attributed to
+Palmer are being seriously doubted. The first Palmer to be questioned was a drawing of Sepham Barn, acquired
+along with three other Palmers by Leger Galleries in Old Bond Street in 1970 from Jane Kelly, Keating’s
+girlfriend. The authenticity of the Sepham Barn drawing was doubted
+<pb id="p10-69" n="69"/>
+by Gould in his letter to <hi rend="i">The Times</hi>, but also by Sir Karl Parker, of the Ashmolean Museum at
+Oxford, and by Raymond Lister, of Cambridge. Gould pursued the matter in correspondence with several other
+experts from 1970 until this summer when Geraldine Norman finally put the story in print.</p>
+          <p>Keating claims to have imitated many artists in the past several years, including among others
+Rembrandt, Gainsborough and Reynolds, Constable, Turner, Degas, and Renoir, but he has also confessed to being
+a bad imitator—and wondered how so many could have been taken in. Keating is now collaborating with
+Geraldine Norman and her husband on a book about Keating’s years as an imitator, and he has volunteered to
+assist a committee of inquiry set up by the British Antique Dealers’ Association to look into the matter of
+the thirteen doubted Palmers. (Readers who want more details of the story should see <hi rend="i">The
+Times</hi>, which has printed articles on the faked Palmers almost daily since mid-July.)</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

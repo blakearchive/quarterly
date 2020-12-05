@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.2.blake</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Blake Seminar 1979</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.2</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Lynn Goldstein</name>
+              <name>Cynthia Lewiecki</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Special Design and Pasteup for this issue</resp>
+              <name>David Anderson</name>
+              <name>Kris Lackey</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David V. Erdman</name>
+              <name>Everett Frost</name>
+              <name>Nelson Hilton</name>
+              <name>Terrence Hoagwood</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John Kilgore</name>
+              <name>Mark Lefebvre</name>
+              <name>Andrew Lincoln</name>
+              <name>Cettina Magno</name>
+              <name>Thomas Minnick</name>
+              <name>Jeffry Spencer</name>
+              <name>Brian Wilkie</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <body>
+      <pb id="p12-159" n="159"/>
+      <div1 id="BQ-12-2-0017">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA BLAKE SEMINAR 1979</hi>
+            </title>
+          </head>
+		  <figure n="MLA.11.3.bqscan" rend="file" width="150" height="67">
+				<figTranscr>MLA</figTranscr>
+		  </figure>
+          <p>W. J. T. Mitchell of the University of Chicago will be discussion leader for
+                        the 1979 Special Session on Blake at the MLA Annual Meeting. The topic will
+                        be “Blake on Language and Writing.” Those interested in being on a
+                        panel should send Mitchell a paper of not more than fifteen pages by 30
+                        March 1979 at the latest, sooner if possible. (This Blake session should not
+                        be confused with the one scheduled for MLA December 1978.)</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

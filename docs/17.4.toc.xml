@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.4</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants in charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Robin Tawney</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>V.A. De Luca</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Gu Jing-Yu</name>
+              <name>Anne Maheux</name>
+              <name>Paul Mann</name>
+              <name>Judith Ott</name>
+              <name>Joan Koster Stemmler</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <front>
+      <pb id="p17-121-122" n="121-122"/>
+      <div1 id="cover">
+        <figure n="cover.017.04.bqscan" rend="file" width="258" height="337">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            68<lb/>
+            VOLUME 17<lb/>
+            NUMBER 4<lb/>
+            SPRING 1984</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-17-4-0001">
+        <table id="contents" rows="18" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.maheux">An Analysis of the Watercolor Technique and
+Materials of William Blake</ref> by Anne Maheux</cell>
+            <cell>124</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.essick">Some Unrecorded States, Printings, and Impressions
+of Blake’s Graphic Works</ref> by Robert N. Essick</cell>
+            <cell>130</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.rnessick">A Supplement to <hi rend="i">The Separate Plates
+of William Blake: A Catalogue</hi></ref> by Robert N. Essick</cell>
+            <cell>139</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.stemmler">Cennino, Cumberland, Blake and Early Painting
+Techniques</ref> by Joan K. Stemmler</cell>
+            <cell>145</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.ott">Iris &amp; Morpheus: Investigating Visual Sources for
+<hi rend="i">Jerusalem</hi> 14</ref> by Judith Ott</cell>
+            <cell>149</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.bentley">The 1821 Edwards Catalogue</ref> by G.E. Bentley,
+Jr.</cell>
+            <cell>154</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.jingyu">Unlisted Articles on Blake Published in China</ref> by
+Gu Jing-yu</cell>
+            <cell>157</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.butlin"><hi rend="i">Paintings and Drawings of William
+Blake</hi> (1981): Some Minor Additions</ref> by Martin Butlin</cell>
+            <cell>159</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.mbutlin">Blake e Dante, an exhibition organized by Corrado
+Gizzi</ref>, reviewed by Martin Butlin</cell>
+            <cell>160</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.deluca">Blake: Innocence and Experience, a play by Elliott
+Hayes</ref>, reviewed by V.A. De Luca</cell>
+            <cell>161</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="17.4.martinb">The British Neo-Romantics, an 
+exhibition held at Fischer Fine Art Ltd.</ref>,</corr> reviewed by Martin Butlin</cell>
+            <cell>162</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.hilton">David Punter, <hi rend="i">Blake, Hegel and
+Dialectic</hi></ref>, reviewed by Nelson Hilton</cell>
+            <cell>164</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.mann">Robert J. Bertholf and Annette S. Levitt, eds., 
+<hi rend="i">William Blake and the Moderns</hi></ref>, reviewed by Paul Mann</cell>
+            <cell>169</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.4.gebentley">H.T. Dickinson, ed., <hi rend="i">The Political
+Works of Thomas Spence</hi></ref>, reviewed by G.E. Bentley, Jr.</cell>
+            <cell>172</cell>
+          </row>
+          <row>
+            <cell>Newsletter</cell>
+            <cell>175</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="17.4.special">Best Special Issue 1982-83</ref>, 
+          	  <ref type="article" issue="17.4.subscription">Blake Subscription Rates Going Up</ref>, 
+          	  <ref type="article" issue="17.4.mla">MLA Volume on Blake’s <hi rend="i">Songs</hi></ref>
+          	  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-17-4-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">G.E. BENTLEY, JR.</hi> of Wai Wen Xi, Fudan Daxue, Shanghai, and University College,
+University of Toronto is currently concerned with The Great Illustrated-Book Publishers of the 1790s and with
+Poems Recently Attributed to William Blake.</p>
+        <p><hi rend="b">MARTIN BUTLIN</hi> is Keeper of the Historic British Collection at the Tate Gallery,
+London, author of numerous books on Blake and Turner, and frequent contributor to <hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">V.A. DE LUCA</hi> is Professor of English at Erindale College, University of
+Toronto.</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi> (Professor of English, University of California, Riverside) is
+currently writing a catalogue of the Blake collection at the Huntington Library to be published by the
+Huntington in 1985.</p>
+        <p><hi rend="b">NELSON HILTON</hi> is <hi rend="i">Blake</hi>’s review editor.</p>
+        <p><hi rend="b">GU JING-YU</hi> is a Chinese student currently working on an M.A. in English poetry at
+Fudan University. Gu Jing-yu writes: “Blake, an original poet, artist, and thinker, is one of my favorites.
+To get a clearer view of Blake in my stud[ies], I have tried to trace Blake criticism in China, as well as in
+the West, and part of that research (1957-1982) is this rather dry, skeletal essay. In piecing together this
+retrospective work, accuracy, not comment nor a mood to brighten or darken, either as a ‘Song of
+Innocence’ or a ‘Song of Experience,’ is my aim.”</p>
+        <p><hi rend="b">ANNE MAHEUX</hi> is presently assistant conservator of graphic arts in the Restoration
+Conservation Laboratory, National Gallery of Canada, Ottawa. She received her Masters in Art Conservation at
+Queen’s University, Kingston, Ontario in 1981 and served an internship in paper conservation at the Center
+for Conservation and Technical Studies, Fogg Art Museum, Harvard University in 1981-82, where the research on
+Blake’s watercolor pigments was carried out.</p>
+        <p><hi rend="b">PAUL MANN</hi> is a Mellon Post-Doctoral Instructor at the California Institute of
+Technology. 
+                </p>
+        <pb id="p17-123" n="123"/>
+        <p><hi rend="b">JUDITH OTT</hi>, Art History Instructor at a small New England College, has
+contributed to <hi rend="i">Blake</hi> in the past. At present she is putting the finishing touches on her
+Ph.D. dissertation of seven years research at The Ohio State University on the artistic sources for all 100 of
+the plates of <hi rend="i">Jerusalem.</hi></p>
+        <p><hi rend="b">JOAN KOSTER STEMMLER</hi> is a Ph.D. candidate in the Department of the History of Art
+of the University of Pennsylvania and is a lecturer at the Philadelphia College of Art.</p>
+      </div1>
+      <div1 id="BQ-17-4-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of Calif.,
+Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State Univ.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque NM 87131, <hi rend="b">Telephone</hi> 505 / 277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+      </div1>
+      <div1 id="BQ-17-4-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editorial Assistants in charge:</hi> Marcy Erickson.</p>
+        <p><hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Robin Tawney, Chapel Petty, Univ. of New
+Mexico.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18.00 for 1 year, 1 volume (4 issues) for institutions.
+          Special rates for individuals, $15.00 for 1 year, 1 volume (4 <corr type="emend">issues</corr>). For all foreign addresses we required
+$3.00 postal surcharge unless subscriber requests airmail delivery which requires a $10.00 postal surcharge.
+U.S. currency or international money order if possible. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Marcy Erickson, 
+<hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico, Albuquerque, N.M. 87131, USA.</p>
+        <p>Some <hi rend="b">back issues</hi> are available. Address Marcy Erickson for a list of issues and
+prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English,
+Univ. of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley,
+CA 94720.</p>
+        <p><hi rend="b">International Serial Number</hi> is 0006-453x. <hi rend="i">Blake / An Illustrated
+Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International Bibliography,
+the Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes’</hi> annual Romantic Bibliography, <hi rend="b">ART</hi> bibliographies 
+<hi rend="b">MODERN</hi>, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <note type="unreferenced" place="footer">© 1984 Morris Eaves and Morton Paley</note>
+        <figure n="City.17.4.bqscan" rend="file" width="800" height="215"></figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

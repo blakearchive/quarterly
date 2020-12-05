@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.1.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake at MLA in 1981</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.1</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Pam Blair</name>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Martin K. Nurmi</name>
+              <name>Judith Page</name>
+              <name>Morton D. Paley</name>
+              <name>Henry Summerfield</name>
+              <name>Joseph Wittreich</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <div1 id="BQ-15-1-0010">
+        <pb id="p15-59" n="59"/>
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE AT MLA IN 1981</hi>
+            </title>
+          </head>
+          <p>A session on “Blake and Criticism,” organized by Thomas A.
+                        Vogler (Univ. of California, Santa Cruz), has been approved for the 1981
+                        annual meeting of the MLA in New York. The theme of the session will be
+                        “Blake as a self-conscious critic and theorist of language and
+                        literature, one who anticipated the principal issues in the current
+                        theoretical debate, and addressed them in ways that deserve exploration at
+                        this time.” Brief papers will be presented by Nelson Hilton (Univ.
+                        of Georgia), Morris Eaves (Univ. of New Mexico), and Paul Mann (Univ. of
+                        Texas at Dallas), and the papers will be followed by a response from W. J.
+                        T. Mitchell (Univ. of Chicago). The time and place for this session will be
+                        announced later this year.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

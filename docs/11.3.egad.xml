@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.3.egad</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Egad!</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1977-1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977-1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.3</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Michael Hays</name>
+              <name>Lynn Goldstein</name>
+              <name>Marietta Barnes</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>W. J. T. Mitchell</name>
+              <name>Edward J. Rose</name>
+              <name>Corlette Walker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <pb id="p11-207" n="207"/>
+      <div1 id="BQ-11-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">EGAD!</hi>
+            </title>
+          </head>
+          <p>Ray Thompson, of Columbus, Ohio, recently published <hi rend="i">Egad</hi>!,
+                        a booklet of seven pages, in an edition of seven copies. The printing was
+                        done at the Infant Joy Press. Selected pages are reproduced here.</p>
+          <figure n="Egad.11.3.bqscan" rend="file" width="500" height="619">
+          	<figTranscr>Egad!</figTranscr>
+          </figure>
+          <figure n="Piper.11.3.bqscan" rend="file" width="500" height="670">
+          	<figTranscr>THE PIPER REVISITED<lb/>
+          	<lb/>
+          	Piping down the valleys green,<lb/>
+          	Piping songs of pleasant glee,<lb/>
+          	Everywhere I went were seen,<lb/>
+          	Nature’s joys laid bare to me.<lb/>
+          	<lb/>
+          	So I sang and piped along,<lb/>
+          	In the glen and by the wood.<lb/>
+          	On and on I played my song,<lb/>
+          	Reaching everything I could.<lb/>
+          	<lb/>
+          	Then a child I chanced to see,<lb/>
+          	On the path just north of town.<lb/>
+          	As I neared, he said to me:<lb/>
+          	“Piper, why don’t you pipe down!”<lb/>
+          	<lb/>
+          	Egad!</figTranscr>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

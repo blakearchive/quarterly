@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.4.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">News Fit to Print</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.4</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Jackie Di Salvo</name>
+              <name>Morris Eaves</name>
+              <name>Robert N. Essick</name>
+              <name>George Goyder</name>
+              <name>Nelson Hilton</name>
+              <name>Inge Jonsson</name>
+              <name>Morton D. Paley</name>
+              <name>Donald H. Reiman</name>
+              <name>David Simpson</name>
+              <name>Tadeusz Sławek</name>
+              <name>Sheila A. Spector</name>
+              <name>David H. Weinglass</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <div1 id="BQ-21-4-0009">
+		<pb id="p21-173" n="173"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">NEWS FIT TO PRINT . . .</hi>
+            </title>
+          </head>
+          <p>In its newsletter section <hi rend="i">Blake</hi> wishes to report timely and relevant
+information. But we depend on readers to supply us with the information. The newsletter can give free notice
+of upcoming exhibitions, calls for papers, plays, new fellowships, conferences, and so on. If you have
+information of interest to our readership, please send it to <hi rend="i">Blake.</hi> All news items are
+chosen at the editors’ discretion.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

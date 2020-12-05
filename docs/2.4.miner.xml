@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.miner</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Blake’s London</title>
+				<author n="Miner">Paul Miner</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0007">
+                <pb id="p02-74" n="74"/>
+                <div2>
+                    <head>
+                        <title type="main">2. <hi rend="i">Blake’s London</hi>
+                        </title>
+                    </head>
+                    <p>I am now compiling information and illustrations for a volume on Blake and London;
+specifically the book, at least as a working title, will be called <hi rend="i">Blake’s London.</hi>
+                    </p>
+                    <p>I have already compiled a great deal of information; dozens of illustrations that are
+pertinent, specifically, to Blake and London, and an updating of some of the material on my 
+<hi rend="i">BNYPL</hi> article, “Blake’s London Residences.” Along with this I will have, mostly all located,
+illustrations of elements referred to in Blake’s poems, and I should add: or <hi rend="u">alluded</hi> to.
+For instance, a sketch of how the choir, which Blake said streamed into St. Paul’s dome, was situated, and
+showing the wise guardians of the poor.</p>
+                    <p>Undoubtedly Blakists will have a great deal to suggest and perhaps some are aware of
+unique illustrations that would be requisite.</p>
+                    <byline>
+                        <docAuthor>Paul <name>Miner</name>
+                        </docAuthor> 1615 West 13th Wichita, Kansas 67203</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

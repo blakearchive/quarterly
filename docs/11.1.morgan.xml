@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.morgan</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Morgan Library’s New Blakes</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <div1 id="BQ-11-1-0012">
+				<pb id="p11-63" n="63"/>
+                <head>
+                    <title type="section">
+                        <hi rend="b">Newsletter</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">Morgan Library’s New Blakes</hi>
+                        </title>
+                    </head>
+                    <p>The <hi rend="i">Times Literary Supplement</hi> recently printed an article by 
+						<supplied type="emend">Thomas V. Lange, Assistant Curator of Printed Books at the Pierpont Morgan
+Library, New York, and</supplied>
+						Charles Ryskamp, Director of the Pierpont Morgan Library, New York,
+                        describing a new purchase from “a Continental library” of
+                        a “specially bound life of Blake from the 1830 edition of <hi rend="i">Lives of the
+Most Eminent British Painters</hi> by Allan
+                        Cunningham,” and perhaps copied by Cunningham. The volume was
+                        extra-illustrated with a number of impressions of Blake’s
+                        engravings and etchings and two letters, one by John Varley to Cunningham,
+                        the other from Bernard Barton, the Quaker poet, to Cunningham. Heretofore
+                        unrecorded impressions from the illuminated books include <hi rend="i">Jerusalem</hi>
+2, 41, 59 and <hi rend="i">America</hi> 12, 13, 14, all
+                        posthumous impressions pulled by Tatham; contemporary impressions include
+                            <hi rend="i">Europe</hi> ii, 3, 4, <hi rend="i">Book of Los</hi> 5, and
+                            <hi rend="i">Jerusalem</hi> 28, 70, 75, some with differences from the
+                        “published” states, some with changes apparently by Blake.
+                        There are a number of Blake’s book illustrations, an
+                        “unexplained variant” of Blake’s illustration
+                        for the article on gem engraving for Rees’ <hi rend="i">Cyclopedia</hi>, and
+impressions of <figure n="MorganEvents.11.1.bqscan" rend="file" width="544" height="1000"/>
+                        <pb id="p11-64" n="64"/>
+five of the “separate plates”
+                        listed by Keynes: the portraits of Wilson Lowry and Lavater, <hi rend="i">Morning
+Amusement</hi> and <hi rend="i">Evening Amusement</hi> (both in
+                        black), and <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>,
+                        second state, touched with wash. For further details see Charles Ryskamp,
+                        “A Blake Discovery,” <hi rend="i">TLS</hi>, 14 January
+                        1977, pp. 40-41.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

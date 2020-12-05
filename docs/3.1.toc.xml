@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.1</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <front>
+            <pb id="p03-1" n="1"/>
+            <div1 id="cover">
+                <figure n="cover.003.01.bqscan" rend="file" width="258" height="333">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Volume III, Number 1<lb/>
+                        Whole #9<lb/>
+                        June 15, 1969<lb/>
+                        <hi rend="u"><hi rend="i">NEWSLETTER BUSINESS</hi></hi><lb/>
+                        During the coming academic year, I’ll be editing the 
+                        <hi rend="i">Newsletter</hi><lb/>
+                        from England, with the assistance of two colleagues in Berkeley, Andrew<lb/>
+                        Griffin and Donald Ault.  During the summer, mail will be (slowly) for-<lb/>
+                        warded to me from Berkeley; people corresponding on <hi rend="i">Newsletter</hi>
+                        matters<lb/>
+                        may prefer to write to Professors Griffin and Ault.  Once I have an<lb/>
+                        address in London, I’ll have it published in the Fall <hi rend="i">Newsletter</hi>. 
+                        It goes<lb/>
+                        without saying that I’d enjoy hearing from and meeting Blake scholars in<lb/>
+                        England.<lb/>
+                        A word on practical matters.  For the coming year, we have so far<lb/>
+                        secured no financial assistance from the University; though we do have<lb/>
+                        the indispensable help of the English Department office staff in producing<lb/>
+                        the <hi rend="i">Newsletter</hi>.  With the help of some kind volunteers, we may
+                        survive<lb/>
+                        as a publication; but it should be understood that our present status is<lb/>
+                        marginal.  We cannot for example meet requests for xeroxes of back issues<lb/>
+                        — and there have been many requests.  Nor have we been able to think<lb/>
+                        realistically about going into an offset edition.  We may solve these and<lb/>
+                        related problems, as we’d surely like to, but at present it seems that<lb/>
+                        1969-70 will be a lean year.<lb/>
+                        [cont.  on page 18]<lb/>
+                        <hi rend="u"><hi rend="i">CONTENTS</hi></hi><lb/>
+                        <hi rend="i">News</hi><lb/>
+                        2<lb/>
+                        <hi rend="i">Notes</hi><lb/>
+                        “A Note on Blake and Fuseli” by Joseph A.<lb/>
+                        3-13<lb/>
+                        Wittreich; “Some Additions to <hi rend="i">A Blake</hi><lb/>
+                        <hi rend="i">Bibliography</hi><supplied>”</supplied> 
+                        by Joseph A. Wittreich and<lb/>
+                        Stewart Curran; A Checklist of Blake Schol-<lb/>
+                        arship:  June ’68-May ’69; “Dating Blake’s<lb/>
+                        Script” by David V. Erdman<lb/>
+                        <hi rend="i">Reviews</hi><lb/>
+                        Alvin H. Rosenfeld, ed.: <hi rend="i">William Blake: Essays</hi><lb/>
+                        14-18<lb/>
+                        <hi rend="i">for S. Foster Damon</hi>, by Michael J. Tolley;<lb/>
+                        Stanley Gardner:  <hi rend="i">Blake</hi>, by Paul Miner<lb/>
+                        <hi rend="i">Queries</hi><lb/>
+                        “Blake and William Frend” by W.H. Stevenson<lb/>
+                        19-20<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of English,<lb/>
+                        University of California, Berkeley Calif. 94720.  Subscription price:<lb/>
+                        $2.00 for one year; invoiced subscriptions $3.00; overseas subscriptions<lb/>
+                        by air $3.00, by surface mail $2.00.  Please make checks or money orders<lb/>
+                        payable to “Blake Newsletter.” Residents of Britain may pay by Postal<lb/>
+                        Money Order for 16/9 (£1 10s by air) if the money order is <hi rend="u">open</hi>
+and<lb/>
+                        <hi rend="u">uncrossed</hi></figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-03-1-0001">
+				<div2>
+					<table id="contents" rows="4" cols="4">
+						<row>
+							<cell colspan="3">
+								<head>
+									<title>
+										<hi rend="i">
+											<hi rend="u">CONTENTS</hi>
+										</hi>
+									</title>
+								</head>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">News</hi>
+							</cell>
+							<cell><supplied type="emend">“<ref type="article" issue="3.1.paley"><hi rend="i">Songs of Innocence and
+of Experience: Twentieth Century Interpretations</hi></ref>”<lb/>
+							by Morton D. Paley</supplied></cell>
+							<cell>2</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend">“<ref type="article" issue="3.1.news"><hi rend="i">Blake Studies</hi>; 
+<hi rend="i">As a Man Is—So He Sees</hi></ref>”</supplied></cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<supplied type="emend"><hi rend="i">Corrections</hi></supplied>
+							</cell>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="3.1.initial">W. H. Stevenson’s
+middle initial</ref>”</supplied></cell>
+							<cell><supplied type="emend" rend="plain">2</supplied></cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><supplied type="emend" rend="plain">“<ref type="article" issue="3.1.correction">Geoffrey Keynes,
+<hi rend="i">Blake’s Letters</hi></ref>”</supplied></cell>
+							<cell><supplied type="emend" rend="plain">18</supplied></cell>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Notes</hi>
+							</cell>
+							<cell>“<ref type="article" issue="3.1.wittreich">A Note on Blake and Fuseli</ref>”<lb/>
+							by Joseph A. Wittreich</cell>
+							<cell>3-13</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="3.1.curran">Some Additions to <hi rend="i">A Blake
+Bibliography</hi></ref><supplied type="emend">”</supplied><lb/>
+							by Joseph A. Wittreich and <corr type="emend">Stuart</corr> Curran</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell/>
+							<cell><ref type="article" issue="3.1.checklist">A Checklist of Blake Scholarship: June ‘68-May
+‘69</ref></cell>
+							<cell/>
+						</row>
+						<row>
+							<cell/>
+							<cell>“<ref type="article" issue="3.1.erdman">Dating Blake’s Script</ref>”<lb/>
+							by David V. Erdman</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Reviews</hi>
+							</cell>
+							<cell><ref type="article" issue="3.1.tolley">Alvin H. Rosenfeld, ed.: <hi rend="i">William Blake:
+Essays for S. Foster Damon</hi></ref>,<lb/>
+							by Michael J. Tolley</cell>
+							<cell>14-18</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell><ref type="article" issue="3.1.miner">Stanley Gardner: <hi rend="i">Blake</hi></ref>,<lb/>
+							by Paul Miner</cell>
+							<cell/>
+						</row>
+						<row>
+							<cell>
+								<hi rend="i">Queries</hi>
+							</cell>
+							<cell>“<ref type="article" issue="3.1.stevenson">Blake and William Frend</ref>”<lb/>
+							by W. H. Stevenson</cell>
+							<cell>19-20</cell>
+						</row>
+					</table>
+				</div2>
+				<div2>
+					<note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by Morton D. Paley, Department of
+English, University of California, Berkeley Calif. 94720. Subscription price: $2.00 for one year; invoiced
+subscriptions $3.00; overseas subscriptions by air $3.00, by surface mail $2.00. Please make checks or money
+orders payable to “Blake Newsletter.” Residents of Britain may pay by Postal Money Order for 16/9 (£1 10s by
+air) if the money order is <hi rend="u">open</hi> and <hi rend="u">uncrossed.</hi>
+					</note>
+				</div2>
+				<div2>
+					<corr type="emend" rend="plain">
+						<head>
+							<title>
+								<hi rend="i">
+									<hi rend="u">NEWSLETTER BUSINESS</hi>
+								</hi>
+							</title>
+						</head>
+						<p>During the coming academic year, I’ll be editing the <hi rend="i">Newsletter</hi> from England,
+with the assistance of two colleagues in Berkeley, Andrew Griffin and Donald Ault. During the summer, mail
+will be (slowly) forwarded to me from Berkeley; people corresponding on <hi rend="i">Newsletter</hi> matters
+may prefer to write to Professors Griffin and Ault. Once I have an address in London, I’ll have it published
+in the Fall <hi rend="i">Newsletter.</hi> It goes without saying that I’d enjoy hearing from and meeting
+Blake scholars in England.</p>
+						<p>A word on practical matters. For the coming year, we have so far secured no financial assistance from
+the University; though we do have the indispensable help of the English Department office staff in producing
+the <hi rend="i">Newsletter.</hi> With the help of some kind volunteers, we may survive as a publication; but
+it should be understood that our present status is marginal. We cannot for example meet requests for xeroxes
+of back issues — and there have been many requests. Nor have we been able to think realistically about going
+into an offset edition. We may solve these and related problems, as we’d surely like to, but at present it
+seems that 1969-70 will be a lean year.<gap type="emend"/></p>
+					</corr>
+						<pb id="p03-18" n="18"/>
+						<p>On another subject — reviews. When we began the <hi rend="i">Newsletter</hi>, we published no
+reviews, on the assumption that Blake books were amply and expeditiously reviewed elsewhere. We soon
+discovered that this was often not the case and that, besides, there existed a need for reviews aimed at a
+more specialized audience. Our policy is to give reviewers complete freedom, both as to length and as to
+opinion: there is no editorial policy concerning “rightness” of views, and the editor is of course not
+responsible for the views of contributors. In addition, our pages are open for disagreement in form of
+discussion articles. We would like to have a wide variety of reviews and reviewers, and we invite readers who
+have published on Blake to correspond with us if they are interested in reviewing.</p>
+						<p>This June issue contains once more the annual checklist of Blake scholarship. Its chief virtue, as we
+have said before, is timeliness rather than completeness. It would, however, be more complete had more of you
+sent offprints.</p>
+						<byline>
+							<docAuthor>MDP</docAuthor>
+						</byline>
+				</div2>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

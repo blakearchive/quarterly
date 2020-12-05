@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <front>
+      <pb id="p17-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.017.01.bqscan" rend="file" width="258" height="336">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            65<lb/>
+            VOLUME 17<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1983</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-17-1-0001">
+        <table id="contents" rows="18" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.erdman">Redefining the Texts of Blake (another temporary
+report)</ref><lb/>
+by David V. Erdman</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.bentley">Charles Parr Burney as a Blake Collector</ref> by
+G. E. Bentley, Jr.</cell>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.gourlay">An Emendation in “The Chimney Sweeper” of 
+<hi rend="i">Innocence</hi></ref><lb/>
+by Alexander S. Gourlay</cell>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.kelley">A Minute Particular in Blake’s <hi rend="i">Songs
+of Innocence</hi>, Copy O</ref> by Theresa M. Kelley</cell>
+            <cell>18</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.alter">Northrop Frye, <hi rend="i">The Great Code: The Bible
+and Literature</hi></ref>, reviewed by Robert Alter</cell>
+            <cell>20</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="17.1.bennett">Raymond Lister, George Richmond: A Critical Biography;<lb/>
+            William L. Pressly, <hi rend="i">The Life and Art of James Barry</hi></ref>,</corr> reviewed by Shelley M. Bennett</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="17.1.warner">Essick and 
+<corr type="emend" rend="plain">La Belle,</corr> eds., <hi rend="i">Flaxman’s Illustrations to Homer</hi></ref>,</corr>
+reviewed by Janet Warner</cell>
+            <cell>24</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.tolley">Blake, a play written and directed by Grant
+Hehir</ref>, reviewed by Michael J. Tolley</cell>
+            <cell>25</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="17.1.reiman">James King and Charles Ryskamp, eds., 
+<hi rend="i">The Letters and Prose Writings of William Cowper Vol. II: Letters 1782-1786</hi></ref>,</corr> reviewed by
+Donald H. Reiman</cell>
+            <cell>26</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.hilton">Davis Grubb, <hi rend="i">Ancient Lights</hi></ref>,
+reviewed by Nelson Hilton</cell>
+            <cell>30</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.deluca">Warren Stevenson, <hi rend="i">The Myth of the Golden
+Age in English Romantic Poetry</hi></ref>, reviewed by V. A. De Luca</cell>
+            <cell>32</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.keynes">Geoffrey Keynes, Kt., and Peter Davidson, eds., 
+<hi rend="i">A Watch of Nightingales</hi></ref>, reviewed by G. E. Bentley, Jr.</cell>
+            <cell>32</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.1.willard">Nancy Willard, <hi rend="i">A Visit to William
+Blake’s Inn, Poems for Innocent and Experienced Travelers</hi></ref>, reviewed by Elizabeth B.
+Bentley</cell>
+            <cell>35</cell>
+          </row>
+          <row>
+          	<cell><supplied type="emend"><hi rend="b"><hi rend="i">NEWSLETTER</hi></hi></supplied></cell>
+          </row>
+          <row>
+          	<cell>
+			  <supplied type="emend" rend="plain">
+          	  <ref type="article" issue="17.1.symposium">Blake Symposium</ref>, 
+ 			  <ref type="article" issue="17.1.morgan">Morgan Library Exhibition</ref>, 
+ 			  <ref type="article" issue="17.1.docudrama">Blake Docudrama</ref>, 
+ 			  <ref type="article" issue="17.1.sambos">Draw the Line at Sambo’s!</ref>, 
+ 			  <ref type="article" issue="17.1.paley">Paley’s Autumn Address</ref>, 
+ 			  <ref type="article" issue="17.1.stratford">Blake: Stratford Festival</ref>, 
+ 			  <ref type="article" issue="17.1.papers">Call for Papers</ref>
+			  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-17-1-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">ROBERT ALTER</hi> is Professor of Hebrew and Comparative Literature at the University
+of California at Berkeley. His two most recent books are <hi rend="i">The Art of Biblical Narrative</hi>
+(Basic Books, 1981) and <hi rend="i">Motives for Fiction</hi>, which will be published in 1984 by Harvard
+University Press.</p>
+        <p><hi rend="b">SHELLEY M. BENNETT</hi>, Ph.D. in Art History from UCLA (1977), has published on
+aspects of English art, in particular eighteenth-century book illustration. She is currently Assistant Curator
+of the Henry E. Huntington Art Gallery.</p>
+        <p><hi rend="b">ELIZABETH B. BENTLEY</hi> wrote her review at the Bodleian Library. The proofreading
+was done in Shanghai, where she is teaching at Fudan and Tongji Universities. Normally, she teaches and
+resides in Toronto.</p>
+        <p><hi rend="b">G. E. BENTLEY, JR.</hi>, sometime of the universities of Chicago, Toronto, Algiers and
+Poona, is currently Fulbright Professor at the Department of Foreign Languages and Literature of Fudan
+University, Shanghai, Peoples Republic of China, where he lives in luxury (maid-service, personal interpreter,
+transportation) and teaches Blake.</p>
+        <p><hi rend="b">V. A. DE LUCA</hi> is Professor of English at the University of Toronto. His article,
+“The Changing Order of Plates in <hi rend="i">Jerusalem</hi>, Chapter II,” appeared in the Spring 1983
+issue of <hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">DAVID ERDMAN</hi> is very hopeful he’s found a publisher for the <hi rend="i">Four
+Zoas</hi> facsimile with commentary on the designs, by Professor Magno and himself.</p>
+        <p><hi rend="b">ALEXANDER S. GOURLAY</hi> is an instructor at the College of Wooster (Ohio). He is
+writing a dissertation on <hi rend="i">The Book of Thel</hi> and <hi rend="i">Visions of the Daughters of
+Albion</hi> and is co-author (with John E. Grant) of an essay on Blake and Reynolds forthcoming in the
+Bulletin of Research in the Humanities.</p>
+        <p><hi rend="b">NELSON HILTON’S</hi><hi rend="i">Literal Imagination: Blake’s Vision of Words</hi>
+has just been published by the University of California Press.</p>
+        <p><hi rend="b">THERESA M. KELLEY</hi>, Associate Professor of English at the University of Texas at
+San Antonio, is the author of articles on Wordsworth, romantic figuration, eighteenth-century iconography and
+the sister arts. She is completing a book on Wordsworth’s aesthetics as an archeology of the mind.</p>
+        <p><hi rend="b">DONALD H. REIMAN’S</hi> volumes VII and VIII of <hi rend="i">Shelley and His
+Circle</hi> wend their way through several stages of proof toward publication in 1984, while he also shepherds
+to press the first dozen volumes of <hi rend="i">Manuscripts of the Younger Romantics</hi>, of which he is
+General Editor. In this series Garland Publishing
+<pb id="p17-3" n="3"/>
+will issue in facsimile, with full scholarly apparatus, important literary manuscripts of Byron, Shelley,
+Keats, and their circles. 
+                </p>
+        <p><hi rend="b">MICHAEL J. TOLLEY</hi> is currently Chairman of the Department of English at the
+University of Adelaide, thus adding further delays to his continuing work on <hi rend="i">William Blake’s
+Designs to Edward Young’s Night Thoughts</hi> and Blake’s use of the Bible: an annotated checklist. He is,
+however, reviewing Tannenbaum for <hi rend="i">SiR</hi> and preparing an article on Blake’s (as he
+maintains) “To the Nightingale.”</p>
+        <p><hi rend="b">JANET WARNER</hi> is Associate Professor of English at Glendon College, York
+University, Toronto.</p>
+      </div1>
+      <div1 id="BQ-17-1-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of Calif,
+Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State Univ.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque NM 87131, <hi rend="b">Telephone</hi> 505 / 277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="CatKing.17.1.bqscan" rend="file" width="250" height="127"></figure>
+      </div1>
+      <div1 id="BQ-17-1-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editorial Assistants in charge:</hi> Marcy Erickson, Susan Corban, Univ. of New
+Mexico. Editorial Assistants: Peter Chase, Leslie Donovan, Barbara Guth, Letty Rutledge Univ. of New
+Mexico.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $15.00 for 1 year, 1 volume (4 issues). Special rates for
+individuals, $12.00 for 1 year surface mail subscriptions. Air mail subscriptions are $10.00 more than surface
+mail subscriptions. U.S. currency or international money order if possible. Make checks payable to 
+<hi rend="i">Blake / An Illustrated Quarterly.</hi> Address all subscription orders and related communications to
+Marcy Erickson, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131,
+USA.</p>
+        <p>Some <hi rend="b">back issues</hi> are available. Address Marcy Erickson for a list of issues and
+prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English,
+Univ. of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley,
+CA 94720.</p>
+        <p><hi rend="b">International Serial Number</hi> is 0006-453x. <hi rend="i">Blake / An Illustrated
+Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International Bibliography,
+the Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, <hi rend="b">ART</hi>bibliographies 
+<hi rend="b">MODERN</hi>, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <note type="unreferenced" place="footer">© 1983 by Morris Eaves and Morton D. Paley</note>
+        <figure n="PoemsForTravelers.17.1.bqscan" rend="file" width="250" height="126"></figure>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p17-40" n="40"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">Karl Kiralis<lb/>
+    			1923–1982</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

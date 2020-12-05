@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.auctions</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Auctions</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+	<pb id="p06-60" n="60"/>
+      <div1 id="BQ-06-3-0002">
+          <head>
+            <title type="main">
+              <hi rend="b">Some Auctions</hi>
+            </title>
+          </head>
+          <p><hi rend="i">Christie’s</hi> on 12 June 1973 auctioned George Richmond’s “Samson slaying the
+Philistines with the jaw-bone of an ass” with figure studies on the reverse (pen and brown ink, 6 × 5 ½
+ins.), and Samuel Palmer’s “Ruined castle at sunset” (watercolor heightened with white and gold, 13 ½ × 10
+¼ ins.). Both works are reproduced in black and white in Christie’s advertisement in 
+<hi rend="i">Apollo</hi>, June 1973, p. 46.</p>
+          <pb id="p06-61" n="61"/>
+          <p><hi rend="i">Sotheby’s</hi> (London) sold Fuseli’s “Weird Sisters” on 4 April 1973. There is
+a picture in <hi rend="i">Apollo</hi>, March 1973, p. 168.</p>
+          <p><hi rend="i">Sotheby Parke Bernet</hi> of Los Angeles illustrated their advertisements for an
+auction of important silver pieces, 30 April and 1 May 1973, with a brilliant color reproduction of the
+“Achilles” silver-gilt shield made for Frederick Augustus, Duke of York and Albany, by Philip Rundell of
+London and designed by John Flaxman. Catalogues of the sale may still be available ($5 postpaid, 7660 Beverly
+Blvd., Los Angeles, Ca., 90036). There is a full-page color plate in <hi rend="i">Antiques</hi>, April 1973,
+p. 612. (<hi rend="i">Our thanks to Thomas Minnick for these items. Eds.</hi>)</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

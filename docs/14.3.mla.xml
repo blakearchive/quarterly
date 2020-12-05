@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.3.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA 1980</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1980/1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980-81</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.3</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Stuart Curran</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Bo Lindberg</name>
+              <name>Ann Bermingham Miller</name>
+              <name>W.J.T. Mitchell</name>
+              <name>E.B. Murray</name>
+              <name>Alicia Ostriker</name>
+              <name>David Simpson</name>
+              <name>Hoyt Trowbridge</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980/1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <pb id="p14-175" n="175"/>
+      <div1 id="BQ-14-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA 1980</hi>
+            </title>
+          </head>
+          <p>The 1980 Special Session on “Blake and the Eighteenth Century” will
+                        meet from 8:30 to 9:45 on the morning of 30 December (Cottonwood A, Hyatt
+                        Hotel). The program will include Jim S. Borck on “London and 
+<hi rend="i">Jerusalem</hi>,” Leo Damrosch on “Blake and the
+                        Recovery of the Lyric,” Tom Vogler on “Un-Locking Blake’s
+                        Crystal Cabinet,” Morris Eaves on “Classical Line and Romantic
+                        Identity,” and a response by Stephen Carr.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

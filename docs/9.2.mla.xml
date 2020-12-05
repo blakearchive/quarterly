@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Blake and Moderns Seminar</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <div1 id="BQ-09-2-0003">
+        <pb id="p09-37" n="37"/>
+        <div2>
+          <head>
+            <title type="main">MLA Blake &amp; Moderns Seminar</title>
+          </head>
+          <p>The theme of the 1975 “Blake and Moderns” seminar at the MLA annual meeting will be “Themes and
+Forms of a Continuity.” Papers should be brief, 6-8 pages or 15 minutes; they may be expanded for later
+publication. Send papers and requests for information to Annette S. Levitt, Dept. of English, Temple Univ.,
+Philadelphia, Pa. 19122 or Robert Bertholf, Dept. of English, Kent State Univ., Kent, Ohio 44202.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

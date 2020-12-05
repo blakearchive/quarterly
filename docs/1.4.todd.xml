@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">A Projected New Edition of the Gilchrist-Todd Life of Blake</title>
+				<author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <div1 id="BQ-01-4-0004">
+                    <pb id="p01-11" n="11"/>
+                    <div2>
+                        <head>
+                            <title type="main">2. A PROJECTED NEW EDITION OF THE GILCHRIST-TODD 
+<hi rend="u">LIFE OF BLAKE</hi>
+                            </title>
+                        </head>
+                        <p>Mr. Ruthven Todd writes that he is planning to revise and augment his edition of
+Gilchrist’s <hi rend="u">Life</hi>, originally published by Everyman’s Library in 1942. The extensive
+notes to this edition are, even after 25 years, invaluable, and now Mr. Todd proposes to bring them
+up-to-date. He writes:
+<q>
+What I would like to do is produce, at first, a hard cover edition which could then be reproduced for cheaper
+sale. I have also come to an agreement with J.M. Dent so that I can buy the electrotypes of the Virgil
+woodcuts which, by a private wangle between myself and the Linnell family, were made directly from the blocks
+in the BM, so that they are <hi rend="u">not</hi> reproductions, but as near to the originals as one can get.
+Then, too, only Keynes and myself have the right to ask for electrotypes of the <hi rend="u">Songs</hi> which
+I rediscovered and which are in the BM. I think that these, printed on decent paper, should almost in
+themselves attract a hard-cover public.<lb/>
+                                <lb/>
+I quite realize that I, unaided, cannot hope to make the book as good as it should be, but I am quite sure
+that there must be many scholars who have thought of extra notes and corrections, and who, in return for being
+given full credit, would be willing to help me produce a book which would not again need revising for many
+years. I would welcome all notes, corrections, and so on, and in every case the donor would receive full
+credit for his/ her help. I would like, for instance, not only to acknowledge all corrections, but also, in
+the case of new notes, to sign them by the names of the contributors.
+</q>
+Mr. Todd’s address is: Ca’n Bielo, Galilea, Mallorca, Spain.</p>
+                    </div2>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

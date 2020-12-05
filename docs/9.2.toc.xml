@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Corinne M. Henning</name>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <front>
+      <pb id="p09-33-34" n="33-34"/>
+      <div1 id="cover">
+        <figure n="cover.009.02.bqscan" rend="file" width="258" height="329">
+          <figTranscr>BLAKE<lb/>
+            NEWS-<lb/>
+            LETTER<lb/>
+            34<lb/>
+            Volume 9<lb/>
+          Number 2<lb/>
+          Fall 1975</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-09-2-0001">
+        <table id="contents" rows="20" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">Contents</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>News</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell>
+            	<supplied type="emend"><ref type="article" issue="9.2.interlandi">Editorial Cartoon</ref>,</supplied> 
+            	<ref type="article" issue="9.2.mla">MLA Blake and Moderns Seminar</ref>, 
+            	<ref type="article" issue="9.2.america">New Reproduction of <hi rend="i">America</hi></ref>, 
+            	<ref type="article" issue="9.2.allentuck">Allentuck Lectures on Fuseli</ref>, 
+            	<ref type="article" issue="9.2.journal">New Journal</ref><supplied type="emend">,
+            	<ref type="article" issue="9.2.eldridge">AEthel-Gram</ref></supplied>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Minute Particulars</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>David V. Erdman, <ref type="article" issue="9.2.erdman">Errors in the 1973 Edition of 
+<hi rend="i">The Notebook of William Blake</hi> and in the First Printing of <hi rend="i">The Illuminated
+Blake</hi></ref></cell>
+            <cell>39</cell>
+          </row>
+          <row>
+            <cell>Francis Wood Metcalf, <ref type="article" issue="9.2.metcalf"><hi rend="i">Tiriel</hi>: Two
+Corrected First Readings</ref></cell>
+            <cell>40</cell>
+          </row>
+          <row>
+            <cell>Geoffrey Keynes, <ref type="article" issue="9.2.keynes">Blake in the Provinces</ref></cell>
+            <cell>41</cell>
+          </row>
+          <row>
+            <cell>Warren U. Ober, <ref type="article" issue="9.2.ober">“Poor Robin” and Blake’s “The
+Blossom”</ref></cell>
+            <cell>42</cell>
+          </row>
+          <row>
+            <cell>G. P. Tyson, <ref type="article" issue="9.2.tyson">An Early Allusion to Blake</ref></cell>
+            <cell>43</cell>
+          </row>
+          <row>
+            <cell>Michael Ferber, <ref type="article" issue="9.2.ferber">A Possible Source for “Thel’s
+Motto”</ref></cell>
+            <cell>43</cell>
+          </row>
+          <row>
+            <cell>Donald H. Reiman, <ref type="article" issue="9.2.reiman">A Significant New Blakean
+Fragment</ref></cell>
+            <cell>44</cell>
+          </row>
+          <row>
+            <cell>L. Edwin Folsom, <ref type="article" issue="9.2.folsom">Nobodaddy: Through the Bottomless
+Pit, Darkly</ref></cell>
+            <cell>45</cell>
+          </row>
+          <row>
+            <cell>Eileen Sanzo, <ref type="article" issue="9.2.sanzo">Blake’s Beulah and Beulah Hill,
+Surrey</ref></cell>
+            <cell>46</cell>
+          </row>
+          <row>
+            <cell>Judith Wardle, <ref type="article" issue="9.2.wardle">The Influence of Wynne’s 
+<hi rend="i">Emblems</hi> on Blake</ref></cell>
+            <cell>46</cell>
+          </row>
+          <row>
+            <cell>James C. Evans, <ref type="article" issue="9.2.evans">Blake, Locke, and the Concept of
+“Generation”</ref></cell>
+            <cell>47</cell>
+          </row>
+          <row>
+            <cell>Martin Butlin, <ref type="article" issue="9.2.butlin">The Catalogue of Blake’s Designs
+Completed, and a Last-Minute Inclusion</ref></cell>
+            <cell>48</cell>
+          </row>
+          <row>
+            <cell>Reviews</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Edward J. Rose, on <ref type="article" issue="9.2.rose"><hi rend="i">The Illuminated
+Blake</hi> by David V. Erdman</ref></cell>
+            <cell>50</cell>
+          </row>
+          <row>
+            <cell>Paul Zall, on <ref type="article" issue="9.2.zall"><hi rend="i">William Blake</hi> by Martin
+K. Nurmi</ref></cell>
+            <cell>54</cell>
+          </row>
+          <row>
+            <cell>David Wagenknecht, on <ref type="article" issue="9.2.wagenknecht"><hi rend="i">Supreme
+Fictions</hi> by Brian John</ref></cell>
+            <cell>55</cell>
+          </row>
+        </table>
+        <p>Photo credits. Cover: detail from picture reproduced on p. 49, below. Page 36: editorial cartoon by
+Frank Interlandi, copyright Los Angeles <hi rend="i">Times</hi>, 1 Oct. 1974, reprinted by permission (our
+thanks to Robert F. Gleckner for calling the cartoon to our attention). Page 37: Athel-Gram reproduced by
+permission of Aethelred Eldridge. Page 38: detail from picture reproduced on p. 49, below. Page 41: lines from
+the manuscript of <hi rend="i">Tiriel</hi>, reproduced by permission of the British Library Board. Page 49: “A
+Medieval Battle Scene” by Blake, reproduced by permission of Thomas Agnew and Sons, Ltd.</p>
+      </div1>
+      <div1 id="BQ-09-2-0002">
+        <head>
+          <title>
+            <hi rend="b">Contributors</hi>
+          </title>
+        </head>
+        <p>Martin Butlin is Keeper of the British Collection at the Tate Gallery, London. He writes frequently
+for the <hi rend="i">Newsletter.</hi></p>
+        <p>David V. Erdman is Professor of English at the State University of New York, Stony Brook, and
+Director of Publications for the New York Public Library. He has finished editing the volumes of Coleridge’s
+journalism in the Bollingen series, and is busy preparing a new edition of <hi rend="i">Blake: Prophet Against
+Empire.</hi></p>
+        <p>James C. Evans is Assistant Professor of English at the University of Texas at Austin. He has
+contributed articles on Blake and Shelley to other journals and recently completed his Ph.D. dissertation on
+Blake.</p>
+        <p>Michael Ferber is a graduate student in his final year at Harvard. He is writing a thesis on
+Blake’s political and social ideas.</p>
+        <p>L. Edwin Folsom is an Instructor of English at the University of Rochester. He is investigating the
+metaphorical meaning of America in twentieth-century poetry.</p>
+        <p>Sir Geoffrey Keynes, M.D., F.R.C.S., Consulting Surgeon (retired), is known by his years of work in
+textual criticism and bibliography to all students of Blake.</p>
+        <p>Francis Wood Metcalf is writing a doctoral dissertation at New York University on Blake’s poetic
+technique. He has contributed several articles and a review to the <hi rend="i">Newsletter.</hi></p>
+        <p>Warren U. Ober is Chairman of the Department of English at the University of Waterloo, Waterloo,
+Ontario, Canada. He has coedited several textbooks and published articles on Coleridge, Wordsworth, and
+Southey. He is on the board of editorial advisors for <hi rend="i">Germano-Slavica.</hi></p>
+        <p>Donald H. Reiman usually performs as a harmless drudge in the Shelley Factory at the Carl H.
+Pforzheimer Library. His previous publications range, however, from a review of the <hi rend="i">Creation</hi>
+to an analysis of the <hi rend="i">Apocalypse</hi>, and in an earlier incarnation he was best known for
+parodies that appeared in his college newspaper.</p>
+        <p>Edward J. Rose, Professor of English, University of Alberta, Edmonton, Canada, is one of the
+editors of the forthcoming edition of Blake’s designs for Young’s <hi rend="i">Night Thoughts.</hi> He has
+written a book on Henry George, and his publications on Blake, Melville, Emerson, Thoreau, Shelley, and others
+have appeared in numerous journals.</p>
+        <p>Eileen Sanzo, Albertus Magnus College, New Haven, Conn., has written a doctoral dissertation on
+“William Blake: Poet of the City in the Industrial Age,” published on Blake in <hi rend="i">Thought</hi>, and
+published poetry and reviews on other subjects.</p>
+        <p>G. P. Tyson, in the Department of English at the University of Maryland, is presently preparing a
+book-length study of Joseph Johnson and his circle.</p>
+        <p>David Wagenknecht, Department of English, Boston University, is author of <hi rend="i">Blake’s
+Night: William Blake and the Idea of Pastoral</hi>, published by Harvard in 1973. 
+                </p>
+        <pb id="p09-35" n="35"/>
+        <p>Judith Wardle is a Lecturer in the Department of English, Monash University, Clayton, Victoria,
+Australia.</p>
+        <p>Paul M. Zall, Professor of English at California State University, Los Angeles, edited
+Wordsworth’s critical essays in the Regents Critics series, and contributes “The Cool World of Samuel Taylor
+Coleridge” column to <hi rend="i">The Wordsworth Circle.</hi> He is now editing Benjamin Franklin’s 
+<hi rend="i">Autobiography</hi> from the unique manuscript at the Huntington Library.</p>
+        <p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published four times a year
+under the sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, Boston University.</p>
+        <p>Associate Editor for Great Britain: Frances A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Editorial Assistants: Corinne M. Henning, UCLA, and Virginia Masi, University of New Mexico.</p>
+        <p>Circulation Manager: Debra Sackett, University of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the <hi rend="i">MLA Style Sheet</hi>, to either of the editors: Morris Eaves, Dept. of English, Univ. of New
+Mexico, Albuquerque, N.M. 87131; Morton Paley, Dept. of English, Boston University, Boston, Mass. 02215.</p>
+        <p>Subscriptions are $5 for one year, one volume, four issues. Special rate for individuals, $4 for
+one year, surface mail. For subscribers overseas who want to receive their issues by air mail, $8, U.S.
+currency or international money order if possible. Make checks payable to the <hi rend="i">Blake
+Newsletter.</hi> Address all subscription orders and related communications to Debra Sackett, Dept. of
+English, Univ. of New Mexico, Albuquerque, N.M. 87131.</p>
+        <p>Some back issues are available. Address Debra Sackett. Prices: whole numbers 1-8, bound together,
+$5 (special rate for individuals, $4). Whole numbers 22, 23, 24, 25, 26, 27, 28, 32, 33, 34, $2 each. Whole
+number 20 (<hi rend="i">A Handlist of Works by William Blake in the Department of Prints &amp; Drawings of the
+British Museum</hi>, edited by G. E. Bentley, (Jr.), $3. Whole numbers 14-19 are out of print.</p>
+        <p>The International Standard Serial Number of the <hi rend="i">Blake Newsletter</hi> is
+0006-453X.</p>
+        <p>Design and layout for this issue: Corinne M. Henning and Virginia Masi.
+	<note type="unreferenced" place="footer">Copyright © 1975 by Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.news</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Newsletter and the University of New Mexico</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-33" n="33"/>
+            <div1 id="BQ-04-2-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWS AND WORKS IN PROGRESS</hi>
+                    </title>
+                </head>
+                <p>Our first news item concerns the <hi rend="i">Blake Newsletter</hi> itself. As our readers
+know all too well by now, the <hi rend="i">Newsletter</hi> has suffered from uncertainty about its future
+since its inception in 1967, fourteen issues ago. Now our problems seem to have been solved by the English
+Department of the University of New Mexico, which has generously agreed to meet part of the costs of
+publication. At the same time we welcome as co-editor Morris Eaves, a member of that department. This new
+arrangement enables us to produce an offset-printed issue, to double our run of copies to 500, and to publish
+illustrations. The result should be to make possible a better <hi rend="i">Newsletter</hi> as well as a more
+secure one. We are also now able to make plans to publish a reprint edition of early issues; more on this next
+time.</p>
+                <p>From now on, the <hi rend="i">Newsletter</hi> will be printed and mailed in Albuquerque;
+all correspondence relating to subscriptions should be sent there. Manuscripts for submission or
+correspondence in relation to editorial matters may be sent either to Berkeley or to Albuquerque.</p>
+				<byline>(<docAuthor>MDP</docAuthor>)</byline>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

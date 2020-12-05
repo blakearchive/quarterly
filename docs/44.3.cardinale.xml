@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-44" status="new">
+    <idno>44.3.cardinale</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">A Newly Discovered Blake Book: William Blake’s Copy of Thomas Taylor’s The
+Mystical Initiations; or, Hymns of Orpheus (1787)</title>
+        <author n="Cardinale">Philip J. Cardinale</author>
+        <author n="Cardinale">Joseph R. Cardinale</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2010-11</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2010-2011</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">44.3</biblScope>
+            <biblScope unit="volume">44</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2010-2011"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_44">
+	<body>
+    <pb id="p44-84" n="84"/>
+      <div1 id="BQ-44-3-0006">
+        <head>
+          <title type="section">ARTICLE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">A Newly Discovered Blake Book: William Blake’s Copy of Thomas Taylor’s 
+<hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi> (1787)</title>
+          </head>
+          <byline>BY <docAuthor>PHILIP J. <name>CARDINALE</name></docAuthor> AND <docAuthor>JOSEPH R.
+<name>CARDINALE</name></docAuthor><gap type="emend"/> <ref target="n0" type="note">*</ref></byline>
+          <note id="n0">The late Reginald Alton (1919-2003) gave insightful critique, enthusiasm, and
+encouragement at the earliest stage of this discovery. The article is dedicated to his memory. G. E. Bentley,
+Jr., Paul Betz, and Michael Phillips are also owed great thanks for their thoughtful comments, especially on
+paleographic matters. Jon Mee and Steve Critchley also provided invaluable feedback in response to drafts of
+this essay.</note>
+          <p>THERE is a book in the collection of the Bodleian Library at Oxford University that appears to
+contain marginalia written by the poet and painter William Blake. These marginalia were discovered several
+years ago by one of the authors of this paper during graduate 
+research.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> 
+The book is a first edition, 1787 copy of Thomas Taylor’s
+<hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi> (Bodleian call number Arch. H e.181). Its
+author, sometimes referred to as “Taylor the Platonist,” was the first to translate the complete works of
+Plato and Aristotle into English and has long been considered a Blake associate.</p>
+          <note id="n1">1. They were first noticed by Phil Cardinale in June 2001 during initial research for
+an Oxford English literature dissertation on Virgil and the romantics. The project of identifying,
+authenticating, and publishing the annotations was postponed until his academic studies were complete. His
+brother, Joseph Cardinale, a visiting student at Oxford when the marginalia were discovered, assisted with
+research and drafting, and later revived the project and helped bring it to fruition.</note>
+          <p>Upon the discovery of the marginalia, their style and content prompted a comparison with a
+facsimile of Blake’s prose manuscript <hi rend="i">An Island in the Moon</hi> (c. 1784-85). The handwriting
+is strikingly similar. The annotator of <hi rend="i">Mystical Initiations</hi> left no autograph. The book
+contains one long and two short handwritten comments, as well as numerous passages underscored by the same
+pen. The comments and highlighted passages fit what is known of Blake’s intellectual interests
+            during the period in which he composed <hi rend="i">Songs of Innocence and of Experience</hi> (c.
+1787-94). If this attribution is accepted, it will shed further light on the artist’s association with
+Taylor and likely confirm a suspected source for Blake’s poem “Ah! Sun-Flower” (see transcript, pp.
+75-76). An especially heavily marked page may also record Blake’s receptivity to Taylor’s assertion that
+“in the universe, there is one harmony though composed from contraries” (transcript, p. 70).</p>
+          <p>This article argues for attributing to Blake the marginalia in the Bodleian’s copy of 
+<hi rend="i">Mystical Initiations</hi>. Part I describes the book and accounts for its provenance. Part II
+transcribes the marginalia. A third section delineates Blake’s relationship with Taylor. Part IV compares
+the marginalia with specimens of Blake’s handwriting, and Part V offers initial ideas about how these
+annotations might correlate with Blake’s known thought.</p>
+          <div3>
+            <head>
+              <title><hi rend="b">I. Description and Provenance</hi></title>
+            </head>
+            <p>The Bodleian copy is an octavo-sized, 227-page book bound
+              in brown calfskin. It is in good condition. Gilt letters on the spine read “HYMNS / OF /
+ORPHEUS / TAYLOR / 1787”, and a book stamp inside the front cover marks its entrance into the Bodleian
+collection on 29 September 1928. A librarian’s pencil-written note also inside the front cover records that
+the book was “Bt. from Quaritch” (Bernard Quaritch, bookseller of London, est. 1847). The purchase is
+traceable to the following listing in <hi rend="i">Bernard Quaritch’s Catalogue, Number 414</hi> (London,
+February 1928):<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref>
+			<q>ORPHEUS. The Mystical Initiations, or Hymns of Orpheus, translated from the original Greek:
+With a preliminary Dissertation on the Life and Theology of Orpheus; by THOMAS TAYLOR. Post 8vo., 
+<hi rend="i">newly bound in calf	 Printed for the author</hi>, 1787	 £2, 2s</q>
+              The October 1927 issue of <hi rend="i">Quaritch’s Catalogue</hi> (number 410) advertises
+several of Taylor’s books without including <hi rend="i">Mystical Initiations</hi>, hinting that the
+bookseller may have acquired the book in the intervening months. The description “newly
+bound in calf” implies that Quaritch rebound the volume. In
+response to an inquiry, the bookseller searched its records to
+attempt to trace the original supplier. It appears, however,
+that the firm did not retain a bill of sale due to the relatively low selling price of the 
+item.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref></p>
+            <note id="n2">2. P. 23, item 221. The book is listed in the catalogue’s classics section, which
+is described as “including a choice selection ... from the library of the late Lt. Col. Sir George
+Holford” (18). However, this copy of <hi rend="i">Mystical Initiations</hi> must have a different source, as
+it is not listed in Sotheby’s 1927-28 Holford estate auction catalogues.</note>
+            <note id="n3">3. The authors are grateful to Ted Hofmann, a director at Bernard Quaritch, who
+searched the firm’s records shortly after the marginalia were discovered and concluded that a bill of sale
+had not been retained.</note>
+            <p>According to the August 1788 issue of the <hi rend="i">Monthly Review</hi>,
+<hi rend="i">Mystical Initiations</hi> originally sold for five shillings, “sewed,” with its leaves
+loosely stitched so that buyers could have their copies bound as individual taste and funding
+allowed.<supplied type="spacer"> </supplied><ref target="n4">4</ref> The
+title page states that the volume was originally distributed by “T. Payne and Son, at the Mews-gate; L.
+Davis, Holborn; B. White and Son, Fleet-street; and G. Nichol, Strand.” Since this was Taylor’s first
+philosophical work it can be assumed that the print run was modest, almost certainly fewer than 1,000
+<pb id="p44-85" n="85"/>
+copies. In 1792 the book reached a second printing under the shortened title <hi rend="i">The Hymns of
+Orpheus.</hi></p>
+<note id="n4">4. <hi rend="i">Monthly Review</hi> 79 (Aug. 1788): 133.</note>
+<p>If at some point the Bodleian copy belonged to Blake, it is unclear who, owned the book immediately prior
+to its acquisition in 1918. The artist died in 1827, leaving his property to his wife, Catherine. On her death
+four years later, Blake’s belongings fell into the possession of Frederick Tatham, who over the course of
+more than thirty years sold off or disposed of the artist’s legacy piece by piece. In 1864 Tatham recalled
+that Blake
+<q>had a most consummate knowledge of all the great writers
+in all languages. To prove that, I may say that I have possessed books well thumbed and dirtied by his graving
+hands,
+in Latin, Greek, Hebrew, French, and Italian, besides a large
+collection of works of the mystical writers, Jacob Behmen, Swedenborg, and others. His knowledge was immense
+....<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref></q>
+During the years that he kept Blake’s possessions, Tatham
+became an adherent of the Christian minister Edward Irving
+and it has been said that, convinced by some of that sect that
+Blake’s works were satanic, he destroyed many of the artist’s
+original manuscripts, blocks, plates, and 
+drawings.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> 
+Blake’s library presumably suffered similar cleansing, though many
+of the books survived and have since come to light. Bentley’s
+Blake Records Supplement lists fifty-one books known to have
+been in the poet’s collection, of which twenty-one have been
+traced.<supplied type="spacer"> </supplied><ref target="n7">7</ref> 
+Among that number fifteen contain annotations,
+which are reprinted in Erdman’s <hi rend="i">Complete Poetry and 
+Prose</hi>.<supplied type="spacer"> </supplied><ref target="n8">8</ref> 
+<hi rend="i">Mystical Initiations</hi> is not listed in <hi rend="i">Blake Records Supplement</hi>,
+but the critical work of George Mills Harper, Kathleen Raine,
+and others has established a likelihood that the poet had access to this book in the late 1780s and early
+1790s.<supplied type="spacer"> </supplied><ref target="n9">9</ref></p>
+<note id="n5">5. Letter to Francis Harvey (8 June 1864), quoted in G. E. Bentley, Jr., <hi rend="i">Blake
+Records</hi>, 2nd ed. (New Haven: Yale University Press, 2004) [hereafter <hi rend="i">BR</hi>(2)]
+57fn.</note>
+<note id="n6">6. G. E. Bentley, Jr., <hi rend="i">The Stranger from Paradise: A Biography of William
+Blake</hi> (New Haven: Yale University Press, 2001) 446.</note>
+<note id="n7">7. G. E. Bentley, Jr., <hi rend="i">Blake Records Supplement</hi> (Oxford: Clarendon Press,
+1988) [hereafter <hi rend="i">BRS</hi>] 124-29. <hi rend="i">BRS</hi> rather than the more recent 
+<hi rend="i">BR</hi>(2) is cited here because the latter does not contain an appendix on Blake’s library. 
+<hi rend="i">Blake Books Supplement</hi> (Oxford: Clarendon Press, 1995), in Part V: Books Owned by Blake, lists
+three more titles, and reveals that another in <hi rend="i">BRS</hi> (Homer, #26) has been traced.</note>
+<note id="n8">8. David V. Erdman, ed., <hi rend="i">The Complete Poetry and Prose of William Blake</hi>, newly
+rev. ed. (New York: Anchor-Random House, 1988) [hereafter E] 583-670.</note>
+<note id="n9">9. Harper, <hi rend="i">The Neoplatonism of William Blake</hi> (Chapel Hill: University of North
+Carolina Press, 1961); Raine, <hi rend="i">Blake and Tradition</hi>, 2 vols. (Princeton: Princeton University
+Press, 1968).</note>
+<p>In 1998 a copy of Blake’s 1809 Chaucer prospectus was
+found in the possession of the Bodleian Library, where it had lain unrecorded for 165 years.<supplied
+type="spacer"> </supplied><ref target="n10">10</ref> This discovery makes it plausible that another item
+connected to Blake could have
+remained undetected in the same library.</p>
+<note id="n10">10. J. B. Mertz, “An Unrecorded Copy of Blake’s 1809 Chaucer Prospectus,” 
+<hi rend="i">Blake</hi> 32.3 (winter 1998-99): 73-74.</note>
+          </div3>
+          <div3>
+          <head>
+          <title><hi rend="b">II. Transcription of the Marginalia</hi></title>
+          </head>
+          <p><hi rend="i">Mystical Initiations</hi> is presented in three parts: a preface (iii- xii); “A
+Dissertation on the Life and Theology of Orpheus” (1-106); and a translation from ancient Greek of the
+Orphic hymns (107-227). The “Dissertation” is subdivided into three sections: an account of Orpheus’s
+life (1-12), an interpretation of his theology (12-84), and an introduction to his hymns (85-106).</p>
+          <p>The annotator of the Bodleian copy wrote marginalia on pages vii (see illus. 1 and 3), viii
+(illus. 2), and 69, corrected printer’s errors on pages 89 and 225, and underscored numerous passages,
+primarily in the first two sections of Taylor’s “Dissertation.” All the handwriting and most of the
+underlining in the book appear in orange-brown ink; some underlining and markings are in a darker, brown-black
+shade of ink. Pencil marks appear on pages 14, 30, 44, 68, 70, and 97.</p>
+          <p>The transcription that follows generally gives text on the left side and explanatory details on
+the right. For ease of reading, instances of the long “s” have been changed to the modern short “s.”
+As much of Taylor’s context has been reproduced as space allows, but necessarily only annotated and
+underlined sections are given. The full text of the 1787 edition may be consulted through 
+<hi rend="i">Eighteenth Century Collections Online</hi>
+&lt;http://gdc.gale.com/products/eighteenth-century-collections-online&gt; (subscription required).
+Alternatively, <hi rend="i">Thomas Taylor the Platonist: Selected Writings</hi>, ed. Kathleen Raine and George
+Mills Harper (Princeton: Princeton University Press, 1969), reproduces the 1792 reprint. Readers should note
+that the text of <hi rend="i">The Mystical Hymns of Orpheus</hi> (1824, a second edition), reproduced in 
+<hi rend="i">Hymns and Initiations</hi>, volume 5 of the Thomas Taylor Series (Frome: Prometheus Trust, 1994),
+differs substantially from that of 1787 and 1792.</p>
+		<q>( iii )<lb/>
+<lb/>
+          PREFACE.<lb/>
+<lb/>
+          THERE is doubtless a revolu<lb rend="-"/>tion 
+          in the literary, correspond<lb rend="-"/>ent 
+          to that of the natural world.<lb/>
+          The face of things is continually<lb/>
+          changing; and the perfect, and per<lb rend="-"/>petual 
+          harmony of the universe, sub<lb rend="-"/>sists 
+          by the mutability of its parts.<lb/>
+          In consequence of this fluctuation,<lb/>
+          different arts and sciences have flou<lb rend="-"/>rished 
+          at different periods of the<lb/>
+          world: but the complete circle of<lb/>
+          human
+		</q>
+		<q>( iv )<lb/>
+<lb/>
+          human knowledge has I believe, never<lb/>
+          subsisted at once, in any nation or age.<lb/>
+          <pb id="p44-86" n="86"/>
+            <figure n="marginalia-vii.44.3.bonus" rend="file" width="575" height="923">
+              <figTranscr>There is no instance of a poet writing good Eng.<lb/>
+				Blank verse who has not also written good<lb/>
+				Rhyme: but many have written good rhyme<lb/>
+				( vii )<lb/>
+				who have shewn no capability of writing. good<lb/>
+				Blank verse .<lb/>
+				<lb/>
+				rhyme, which is certainly when well<lb/>
+				executed, far more difficult than blank<lb/>
+				verse, as the following Hymns must<lb/>
+				evince, in an eminent degree.<lb/>
+				<lb/>
+				And, here it is necessary to observe,<lb/>
+				with respect to translation, that<lb/>
+				nothing is more generally mistaken<lb/>
+				in its nature; or more faulty in its<lb/>
+				execution. The author of the Letters<lb/>
+				on Mythology, gives it as his opinion,<lb/>
+				that it is impossible to translate<lb/>
+				an ancient author, so as to do justice<lb/>
+				to his meaning. If he had confined<lb/>
+				this sentiment, to the beauties of<lb/>
+				the composition, it would doubtless<lb/>
+				have been just; but to extend it,<lb/>
+				to the meaning of an author, is to<lb/>
+				make truth and opinion, partial and<lb/>
+				incommunicable. Every person, indeed,</figTranscr>
+              <figDesc>1-2. Thomas Taylor, <hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi>
+(London, 1787), pp. vii (this page) and viii (facing page). The Bodleian Libraries, University of Oxford
+(Arch. H e.181). See illus. 3 for detail of the annotation on p. vii.</figDesc>
+            </figure>
+            <pb id="p44-87" n="87"/>
+            <figure n="marginalia-viii.44.3.bonus" rend="file" width="580" height="956">
+            	<figTranscr>( viii )<lb/>
+            	<lb/>
+				[in]deed, acquainted with the learned languages,<lb/>
+				must be conscious how much<lb/>
+				the beauty of an ancient author generally<lb/>
+				suffers by translation, though<lb/>
+				<lb/>
+				because _<lb/>
+				<lb/>
+				undertaken by men, who have devoted<lb/>
+				the greatest part of their lives to<lb/>
+				the study of words alone. This failure,<lb/>
+				which has more than any thing contributed<lb/>
+				to bring the ancients into contempt<lb/>
+				with the unlearned, can only<lb/>
+				be ascribed to the want of genius in<lb/>
+				the translators: for the sentiment of<lb/>
+				Pythagoras is peculiarly applicable to<lb/>
+				such as these; that many carry the<lb/>
+				Thyrsis, but few are inspired with<lb/>
+				the spirit of the God. But this observation<lb/>
+				is remarkably verified, in<lb/>
+				the translators of the ancient philosophy,<lb/>
+				whose performances are for the<lb/>
+				most part without animation; and consequently</figTranscr>
+            </figure>
+            <pb id="p44-88" n="88"/>
+			<supplied type="emend" rend="plain">
+				<figure n="marginalia-viiidetail.44.3.bonus" rend="file" width="671" height="110">
+					<figTranscr>the beauty of an ancient author generally<lb/>
+					suffers by translation, though<lb/>
+					<lb/>
+					because _<lb/>
+					<lb/>
+					undertaken by men, who have devot[ed]</figTranscr>
+					<figDesc><supplied type="emend">2b. Thomas Taylor, <hi rend="i">The Mystical Initiations; or, Hymns of
+Orpheus</hi> (London, 1787), detail of p. viii. The Bodleian Libraries, University of Oxford (Arch. H
+e.181).</supplied></figDesc>
+				</figure>
+			</supplied>
+            Where accurate and profound re<lb rend="-"/>searches, 
+            into the principles of things<lb/>
+            have advanced to perfection; there,<lb/>
+            by a natural consequence, men have<lb/>
+            neglected the disquisition of particu<lb rend="-"/>lars: 
+            and where sensible particulars<lb/>
+            have been the general object of pur<lb rend="-"/>suit, 
+            the science of universals has<lb/>
+            languished, or sunk into oblivion and<lb/>
+            contempt.
+		</q>
+		<q>
+            <p>Thus <hi rend="u">wisdom</hi>,<supplied type="spacer"> </supplied><ref target="n11"
+type="note">*</ref> the object of all<lb/>
+              true philosophy, <hi rend="u">considered as explor-<lb/>
+              ing the causes and principles of things</hi>,<lb/>
+              <hi rend="u">flourished in high perfection among<lb/>
+                the Egyptians first, and afterwards<lb/>
+                in Greece.</hi> <hi rend="u">Polite literature was the<lb/>
+                pursuit of the Romans</hi>; a<hi rend="u">nd experi-<lb/>
+                  mental enquiries increased without</hi><lb/>
+            end,</p></q>
+            <note id="n11">* The annotator’s ink is orange brown.</note>
+			<q><hi rend="u">end, and accumulated without order,<lb/>
+            are the employment of modern phi<lb rend="-"/>losophy</hi>. 
+            Hence we may justly con<lb rend="-"/>clude, 
+            that the age of true philosophy<lb/>
+            is no more. In consequence of very<lb/>
+            extended natural discoveries, trade<lb/>
+            and commerce have increased; while<lb/>
+            abstract investigations, have necessarily<lb/>
+            declined: so that <hi rend="u">modern enquiries</hi>,<lb/>
+            <hi rend="u">never rise above sense</hi>; <hi rend="u">and</hi> <hi rend="u">every</hi><lb/>
+            <hi rend="u">thing is despised, which does not in<lb/>
+            some respect or other, contribute to<lb/>
+            the accumulation of wealth</hi>;<hi rend="u"> the gra<lb rend="-"/>tification 
+            of childish admiration;</hi> <hi rend="u">or<lb/>
+            the refinements of corporeal delig</hi>ht.<lb/>
+            The author of the following transla<lb rend="-"/>tion, 
+            therefore, cannot reasonably ex<lb rend="-"/>pect, 
+            that his labours will meet with<lb/>
+            the approbation of the many: since<lb/>
+            these Hymns are too ancient, and<lb/>
+            too</q>
+			<q>( vi )<lb/>
+            <lb/>
+            too full of the Greek philosophy, to<lb/>
+            please the ignorant, and the sordid.<lb/>
+            However, he hopes they will be ac<lb rend="-"/>ceptable 
+            to the few, who have drawn<lb/>
+            wisdom from its source; and who<lb/>
+            consider the science of universals, as<lb/>
+            first in the nature of things, though<lb/>
+            last in the progressions of human un<lb rend="-"/>derstanding.
+            <p>The translator has adopted rhyme,<lb/>
+            not because most agreeable to gene<lb rend="-"/>ral 
+            taste, but because he believes it<lb/>
+            necessary to the poetry of the English<lb/>
+            language; which requires something<lb/>
+            as a substitute, for the energetic ca<lb rend="-"/>dence, 
+            of the Greek and Latin Hex<lb rend="-"/>ameters. 
+            Could this be obtained by<lb/>
+            any other means, he would imme<lb rend="-"/>diately 
+            relinquish his partiality for<lb/>
+            rhyme,</p></q>
+			<q><hi rend="gray">There is no instance of a poet writing good 
+			Eng.<supplied type="spacer"> </supplied><ref target="n12" type="note">*</ref><lb/>
+            Blank verse who has not also written good<lb/>
+            Rhyme: but many have written good rhyme<lb/>
+</hi>
+            ( vii )<lb/>
+            <hi rend="gray">who have shewn no capability of writing. good<lb/>
+            Blank verse .<lb/>
+</hi>
+            <hi rend="u">rhyme</hi>, which is certainly <hi rend="u">when well<lb/>
+            executed, far more difficult than blank<lb/>
+            verse</hi>, as the following Hymns must<lb/>
+            evince, in an eminent degree.
+            <p>And, here it is necessary to ob<lb rend="-"/>serve, 
+            with respect to translation, that<lb/>
+            nothing is more generally mistaken<lb/>
+            in its nature; or more faulty in its<lb/>
+            execution. The author of the Letters<lb/>
+            on Mythology, gives it as his opi<lb rend="-"/>nion, 
+            that it is impossible to translate<lb/>
+            an ancient author, so as to do justice<lb/>
+            to his meaning. If he had confined<lb/>
+            this sentiment, to the beauties of<lb/>
+            the composition, it would doubtless<lb/>
+            have been just; but to extend it,<lb/>
+            to the meaning of an author, is to<lb/>
+            make truth and opinion, partial and<lb/>
+            incommunicable. Every person, in<lb rend="-"/>deed,</p></q>
+            <note id="n12">* See illus. 1 and 3.</note>
+			<q>( viii )<lb/>
+            deed, acquainted with the learned lan<lb rend="-"/>guages, 
+            must be conscious <hi rend="u">how much<lb/>
+            the beauty of an ancient author ge<lb rend="-"/>nerally 
+            suffers by translation</hi>, <hi rend="uu">though</hi><ref target="n13">*</ref><lb/>
+            <hi rend="u">undertaken by men</hi>, <hi rend="u">who have devot</hi><lb rend="-"/><hi rend="u">ed 
+            the greatest part of their lives to<lb/>
+            the study of </hi><hi rend="uu">words</hi><hi rend="u"> alone</hi>. This failure,<lb/>
+            which has more than any thing con<lb rend="-"/>tributed 
+            to bring the ancients into con<lb rend="-"/>tempt 
+            with the unlearned, can only<lb/>
+            be ascribed to the want of genius in<lb/>
+            the translators: for the sentiment of<lb/>
+            Pythagoras is peculiarly applicable to<lb/>
+            such as these; that<hi rend="u"> many carry the</hi>
+            <pb id="p44-89" n="89"/>
+            <hi rend="u">Thyrsis</hi>, <hi rend="u">but few are inspired with<lb/>
+            the spirit of the God.</hi> But this ob<lb rend="-"/>servation 
+            is remarkably verified, in<lb/>
+            the translators of the ancient philoso<lb rend="-"/>phy, 
+            whose performances are for the<lb/>
+            most part without animation; and con<lb rend="-"/>sequently ....<lb/>
+            ...</q>
+            <note id="n13">* See illus. 2. “though” is double underlined, and the annotator replaces it
+with the word “because.” (quite faded) in the left margin. “words” is also underscored twice.</note>
+            <p>[There are no further marked passages in the preface.]</p>
+			<q>[1]<lb/>
+            <lb/>
+            A<lb/>
+            DISSERTATION<lb/>
+            ON THE<lb/>
+            Life and Theology of ORPHEUS.<lb/>
+            <lb/>
+            SECT. I.<lb/>
+            <lb/>
+            THE great <hi rend="u">obscurity</hi> and uncertainty<lb/>
+            in which the history of Orpheus is<lb/>
+            involved, <hi rend="u">affords very little matter</hi> for<lb/>
+            our information; and even renders that<lb/>
+            little, inaccurate and precarious. Upon<lb/>
+            surveying the annals of past ages, it<lb/>
+            seems that the greatest <hi rend="u">geniuses</hi>, have<lb/>
+            been <hi rend="u">subject to</hi> this <hi rend="u">historical darkness</hi>;<lb/>
+            as is evident in those great lights of an<lb rend="-"/>tiquity, 
+            Homer and Euclid, whose writ<lb rend="-"/>ings 
+            indeed enrich mankind with per<lb rend="-"/>petual</q>
+			<q>( 2 )<lb/>
+            <lb/>
+            petual stores of knowledge and delight;<lb/>
+            but whose lives are for the most part<lb/>
+            concealed in impenetrable oblivion. But<lb/>
+            this historical uncertainty, is no where so<lb/>
+            apparent, as in the person of Orpheus;<lb/>
+            whose name is indeed acknowledged and<lb/>
+            celebrated by all antiquity (except per<lb rend="-"/>haps 
+            Aristotle alone); while scarcely a<lb/>
+            vestige of his life is to be found amongst<lb/>
+            the immense ruins of time. For who has<lb/>
+            ever been able to affirm any thing with<lb/>
+            certainty, concerning his origin, his age,<lb/>
+            his parents, his country, and condition?<lb/>
+            This alone may be depended on, from ge<lb rend="-"/>neral 
+            assent, that there formerly lived a per<lb rend="-"/>son 
+            named<hi rend="u"> Orp</hi>heus, whose father was Œa<lb rend="-"/>grus, 
+            who lived in Thrace, and who was the<lb/>
+            son of a king, who was the founder of<lb/>
+            theology, among the Greeks; the i<hi rend="u">nsti<lb rend="-"/>tutor</hi> 
+            <hi rend="u">of</hi> their <hi rend="u">life</hi> and morals; the first of<lb/>
+            prophets, and the prince of poets; <hi rend="u">himself<lb/>
+            the offspring of a Mus</hi>e; who taught the<lb/>
+            Greeks</q>
+			<q>( 3 )<lb/>
+            <lb/>
+            Greeks their sacred rites and mysteries, and<lb/>
+            <hi rend="u">from whose wisdom, as from a perpetual<lb/>
+            and abundant fountain, the divine </hi><hi rend="uu">muse</hi><supplied type="spacer"> </supplied><ref target="n14" type="note">*</ref><lb/>
+            <hi rend="u">of Homer, and the philosophy of Pytha<lb rend="-"/>goras, 
+            and Plato, </hi><hi rend="uu">flowed</hi>; <hi rend="u">and, lastly, who<lb/>
+            by the melody of his lyre, drew rocks,<lb/>
+            woods, and wild beasts, stopt rivers in<lb/>
+            their course, and even moved the inexor<lb rend="-"/>able 
+            king of hel</hi>l; <hi rend="u">as every page, and al</hi>l<lb/>
+            <hi rend="u">the writings of antiquity sufficiently evince.</hi><lb/>
+            Since thus much then may be collected<lb/>
+            from universal testimony, let us pursue<lb/>
+            the matter a little farther, by investigat<lb rend="-"/>ing 
+            more accurately the history of the<lb/>
+            original Orpheus; with that of the great<lb/>
+            men who have, at different periods, flou<lb rend="-"/>rished 
+            under this venerable name.<lb/>
+            ...</q>
+            <p>[The next few marked passages are in a brown-black ink; this may or may not be the same
+annotator. The orange-brown ink returns at p. 69.]</p>
+            <note id="n14">* “muse” and “flowed” are underlined twice.</note>
+			<q>( 4 )<lb/>
+            ...<lb/>
+            <p>Our poet, according to fabulous tradi<lb rend="-"/>tion, 
+            was torn in pieces by Ciconian<lb/>
+            women:</p></q>
+			<q>( 5 )<lb/>
+            <lb/>
+            women: on which account, Plutarch af<lb rend="-"/>firms 
+            <hi rend="u">the Thracians were accustomed 
+            to</hi><supplied type="spacer"> </supplied><ref target="n15" type="note">*</ref><lb/>
+            <hi rend="u">beat their wives</hi>, <hi rend="u">that they might revenge<lb/>
+            the death of Orpheus</hi>. Hence, in the vision<lb/>
+            of Herus Pamphilius ....<lb/>
+            ...</q>
+            <note id="n15">* The annotator has made a long dark X in the margins.</note>
+			<q>( 6 )<lb/>
+            <lb/>
+            having recalled Eurydice to life, and not<lb/>
+            being able to detain her, he destroyed<lb/>
+            himself; <hi rend="u">nightingales building their 
+            nests,</hi><supplied type="spacer"> </supplied><ref target="n16" type="note">*</ref><lb/>
+            <hi rend="u">and bringing forth their young upon his<lb/>
+            tomb</hi>; <hi rend="u">whose melody, according to re<lb rend="-"/>port</hi>,<hi rend="u"> 
+            exceeded every other of this spe<lb rend="-"/>cies.</hi> 
+            Others again ascribe his laceration,<lb/>
+            to his having celebrated every divinity<lb/>
+            except Bacchus ....<lb/>
+            ...</q>
+            <note id="n16">The annotator again has made a long X beside this passage.</note>
+            <pb id="p44-90" n="90"/>
+			<q>( 9 )<lb/>
+            ...<lb/>
+            siderable space of time. Afterwards, when<lb/>
+            <hi rend="u">Neanthus, the son of Pittacus the tyran</hi>t,<lb/>
+            found that the lyre drew trees and wild<lb/>
+            beasts with its harmony, he earnestly<lb/>
+            desired its possession; and having cor<lb rend="-"/>rupted 
+            the priest privately with money, he<lb/>
+            t<hi rend="u">ook the Orphean lyr</hi>e, <hi rend="u">and fixed anothe</hi>r<lb/>
+            s<hi rend="u">imilar to it, in the temp</hi>le. But <hi rend="u">Nean</hi><lb rend="-"/>thus 
+            considering that he was not safe in<lb/>
+            the city in the day time, <hi rend="u">departed</hi> from<lb/>
+            it <hi rend="u">by nigh</hi>t;<hi rend="u"> having concealed the lyre in<lb/>
+            his bosom, on which he began to play</hi>.<lb/>
+            <hi rend="u">But as he was a rude and unlearned youth</hi>,<lb/>
+            <hi rend="u">he confounded the chords</hi>; <hi rend="u">yet pleasing<lb/>
+            himself with the sound,</hi> <hi rend="u">and fancying he<lb/>
+            produced a divine harmo</hi>ny, <hi rend="u">he conside</hi>r<lb rend="-"/><hi rend="u">ed 
+            himself as the blessed successor of Or</hi><lb rend="-"/>pheus.</q>
+			<q>( 10 )<lb/>
+            <lb/>
+            <hi rend="u">pheus</hi>. However, in the midst of his<lb/>
+            transports, the neighbouring dogs, roused<lb/>
+            by the sound, fell upon the unhappy harper<lb/>
+            and tore him to pieces.<lb/>
+            ...</q>
+            <p>[On p. 12 “SECT. II” begins, moving the discourse from Orpheus’s life to his
+theology.]</p>
+			<q>( 14 )<lb/>
+            ...<lb/>
+            The belief indeed of the man, who looks<lb/>
+            <hi rend="u">no higher than sense,</hi> must be 
+            necessarily<supplied type="spacer"> </supplied><ref target="n17" type="note">*</ref><lb/>
+            terminated by appearances. Such a one<lb/>
+            introduces a dreadful chasm in the uni<lb rend="-"/>verse; 
+            and <hi rend="u">diffuses the deity through 
+            the</hi><supplied type="spacer"> </supplied><ref target="n18" type="note">*</ref><lb/>
+            <hi rend="u">world like an extended substance</hi>; <hi rend="u">divid<lb rend="-"/>ed 
+            with every particle of matt</hi>er, <hi rend="u">and<lb/>
+            changed into the infinite varieties of sen<lb rend="-"/>sible 
+            forms.</hi> But with the ancient philoso<lb rend="-"/>pher, 
+            the <hi rend="u">deity is an immense and per<lb rend="-"/>petually 
+            exuberant fountai</hi>n; <hi rend="u">whose stream</hi>s<lb/>
+            <hi rend="u">originally filled the continually replenish</hi><lb/>
+            the</q>
+            <note id="n17">* This mark is in a lighter gray shade that may be pencil.</note>
+            <note id="n18">* Brown-black ink here and below.</note>
+			<q>( 15 )<lb/>
+            <lb/>
+            <hi rend="u">the world with life</hi>. Hence the universe<lb/>
+            contains in its ample bosom all general<lb/>
+            natures; divinities visible and invisible ....<lb/>
+            ...</q>
+			<q>( 19 )<lb/>
+            ...<lb/>
+            And hence we con<lb rend="-"/>clude 
+            that there is another certain nature<lb/>
+            exempt from the passivity and imperfection<lb/>
+            of bodies, existing not only in the heavens,<lb/>
+            but in the ever-changing elements, from<lb/>
+            which the motion of bodies is prim<lb rend="-"/>rily 
+            derived. And this nature is no<lb/>
+            other than 
+            <hi rend="uthick">soul</hi>,<supplied type="spacer"> </supplied><ref target="n19" type="note">*</ref> 
+            <hi rend="u">from which animals de<lb rend="-"/>rive 
+            their life and motive power</hi>; and<lb/>
+            which even affords an image of self-motion<lb/>
+            to the unstable order of bodies.
+            <p>If then the self-motive essence is more<lb/>
+            ancient than that which is moved by an<lb rend="-"/>other, 
+            but soul is primarily self-motive,<lb/>
+            hence soul must be more ancient than<lb/>
+            body; and all corporeal motion must be<lb/>
+            the</p></q>
+            <note id="n19">* “soul” is underlined boldly.</note>
+			<q>( 20 )<lb/>
+            <lb/>
+            the progeny of soul, and of her inherent<lb/>
+            energy. <hi rend="u">It is necessary, therefore, that th</hi>e<lb/>
+            <hi rend="u">heavens,</hi> <hi rend="u">with all their boundless content</hi>s,<lb/>
+            and their various natural motions (for a<lb/>
+            circular motion, is natural to such bodies),<lb/>
+            sh<hi rend="u">ould be endued with governing souls</hi>,<lb/>
+            essentially more ancient than their revolv<lb rend="-"/>ing 
+            bodies. According to the Platonic philosophers ....<lb/>
+            ...</q>
+			<q>( 21 )<lb/>
+            ...<lb/>
+            Because it is also<lb/>
+            necessary that the soul, essentially rational,<lb/>
+            should receive intellect by participation,<lb/>
+            and that <hi rend="u">intellectual energy</hi> should be <hi rend="u">of<lb/>
+            two</hi></q>
+			<q>( 22 )<lb/>
+            <lb/>
+            <hi rend="u">two kinds</hi>; <hi rend="u">one primarily subsisting in the<lb/>
+            divine intellect</hi>; <hi rend="u">but the other subsisting<lb/>
+            secondarily in its offspring soul</hi>. You<lb/>
+            may add too, the presence of intellectual<lb/>
+            illumination in body, which is received<lb/>
+            in as great perfection as its unstable and<lb/>
+            obscure nature will admit. For <hi rend="u">how is i</hi>t<lb/>
+            <hi rend="u">possible that the celestial orbs should </hi>be<lb/>
+            f<hi rend="u">or ever circularly moved in one definite<lb/>
+            order</hi>, <hi rend="u">preserving the same form, and th</hi>e<lb/>
+            <hi rend="u">same immutable power</hi>, <hi rend="u">unless they pa</hi>r-<lb/>
+            <hi rend="u">ticipated of an intellectual </hi>nature. For<lb/>
+            soul is indeed the constant supplier of mo-
+            <pb id="p44-91" n="91"/>
+            tion; but the cause of perpetual station,<lb/>
+            of indentity and uniform life, reducing<lb/>
+            unstable motion to a circular revolution,<lb/>
+            and to a condition eternally the same,<lb/>
+            must be more ancient than soul.<lb/>
+            ...</q>
+			<q>( 25 )<lb/>
+            ...<lb/>
+            <p>In consequence of this reasoning, Or<lb rend="-"/>pheus 
+            filled all things with Gods, subor<lb rend="-"/>dinate 
+            to the demiurgus of the whole<lb/>
+            Δημιουργῷ, every one of which performs the<lb/>
+            office destined to his divinity, by his supe<lb rend="-"/>riour</p></q>
+			<q>( 26 )<lb/>
+            <lb/>
+            riour leader. Hence according to his<lb/>
+            theology there are two worlds, the intel<lb rend="-"/>ligible 
+            and the sensible. Hence too his<lb/>
+            <hi rend="u">three demiurgic principles: Jovial</hi>, <hi rend="u">Dio<lb rend="-"/>nysiacal</hi>, 
+            <hi rend="u">and Adonical,</hi> Δΐιος , Διονυσιακὴ,<lb/>
+            Αδωναϊκὴ, <hi rend="u">from whence many orders and<lb/>
+            differences of Gods proce</hi>ed, intelligi<lb rend="-"/>ble 
+            ..., intellectual, super-mundane, mun<lb rend="-"/>dane, 
+            celestial, authors of generation.<lb/>
+            And among these some in the order of<lb/>
+            guardian, demiurgic, elevating and com<lb rend="-"/>prehending 
+            Gods; perfecters of works,<lb/>
+            vivific, immutable, absolute, judicial,<lb/>
+            purgative, &amp;c. and <hi rend="u">besides these to eac</hi>h<lb/>
+            <hi rend="u">particular divin</hi>ity<hi rend="u">, he added a particular<lb/>
+            multitude of ang</hi>els,<hi rend="u"> dæmons</hi>, <hi rend="u">and hero</hi>es;<lb/>
+            for according to Proclus, relating the<lb/>
+            opinion</q>
+			<q>( 27 )<lb/>
+            <lb/>
+            opinion of Orpheus, and the theologists:<lb/>
+            ... “<hi rend="u">About every God there is a kindred<lb/>
+            multitude of angel</hi>s, <hi rend="u">heroes</hi>, <hi rend="u">and dæmons</hi>.<lb/>
+            For every God presides over the form of<lb/>
+            that multitude which receives the divinity.”<lb/>
+            He likewise considered <hi rend="u">a difference of sex<lb/>
+            in these deities</hi>, calling some male, and<lb/>
+            other female ....<lb/>
+            ...</q>
+			<q>( 28 )<lb/>
+            ...<lb/>
+            For<lb/>
+            that we may begin with the extremes, hea<lb rend="-"/>ven 
+            corresponds with earth, in the order<lb/>
+            and proportion of male to female. Since the<lb/>
+            motion of the heavens imparts particular<lb/>
+            properties and powers, to particular things.<lb/>
+            But on the other hand <hi rend="u">earth receiving the<lb/>
+            celestial defluxio</hi>ns, <hi rend="u">becomes pregnant</hi>,<lb/>
+            <hi rend="u">and produces plants and animals of every<lb/>
+            kind</hi>. And of the Gods existing in the<lb/>
+            heavens, some are distinguished by the<lb/>
+            male division, and others by the female ....<lb/>
+            ...</q>
+			<q>( 30 )<lb/>
+            ...<lb/>
+</q>
+			<q>And in the same place, Proclus has pre<lb rend="-"/>served 
+			to us another copy of Orphic<lb/>
+            verses, which are also found in the writer<lb/>
+            (de Mundo); previous to which he ob<lb rend="-"/>serves, 
+            that the demiurgus, or artificer of<lb/>
+            the world, b<hi rend="u">eing full of ideas, compre<lb rend="-"/>hended 
+            by these all things within 
+            himself,</hi><supplied type="spacer"> </supplied><ref target="n20" type="note">*</ref><lb/>
+            as that theologer (Orpheus) declares.<lb/>
+            With these verses we have connected others,<lb/>
+            agreeable to the order of Stephens, Eschen<lb rend="-"/>bach, 
+            and Gesner, as follows.<lb/>
+            ...</q>
+            <note id="n20">* This mark is in the lighter gray shade that is also on p. 14.</note>
+			<q>( 43 )<lb/>
+            ...<lb/>
+            For it is surely astonishing that the<lb/>
+            soul should live immaterially, in material<lb/>
+            concerns; and preserve itself uncontamin<lb rend="-"/>ated 
+            amidst such base defilements; that it<lb/>
+            should drink of the cup of oblivion, and<lb/>
+            not be laid asleep by the intoxicating<lb/>
+            draught; that it should elevate its eye<lb/>
+            above</q>
+			<q>( 44 )<lb/>
+            <lb/>
+</q>
+			<q>above the sordid darkness with which it is<lb/>
+            surrounded; and be able to open the gates<lb/>
+            of truth, which, though contained in 
+            its<supplied type="spacer"> </supplied><ref target="n21" type="note">*</ref><lb/>
+            essence, are guarded and shut by terrene<lb/>
+            and material species. But that it is pos<lb rend="-"/>sible 
+            to know more of such exalted natures<lb/>
+            than is generally believed, by the assistance<lb/>
+            of the ancient philosophy, accompanied<lb/>
+            with a suitable life, is, I am persuaded, true;<lb/>
+            and I would recommend the arduous and<lb/>
+            glorious investigation to every liberal<lb/>
+            mind.</q>
+			<q><p>Let us now consider the nature of sacri<lb rend="-"/>fice 
+			according to Orpheus and the Pla<lb rend="-"/>tonists; 
+			previous to which, I must beg<lb/>
+            leave to inform the reader, that <hi rend="u">the 
+            Greek<supplied type="spacer"> </supplied><ref target="n22" type="note">*</ref><lb/>
+            theologists and philosophers were not</hi> (as<lb/>
+            they are represented by modern writers on<lb/>
+            mythology) <hi rend="u">so stupid as to worship the<lb/>
+            creature instead of the Creator</hi>; <hi rend="u">and to neg</hi>-
+            <pb id="p44-92" n="92"/>
+            <hi rend="u">lect or confound that homage and ven</hi>e<lb rend="-"/>ration,</p></q>
+            <note id="n21">* This and the next five lines are marked with a single vertical stroke, probably
+pencil as on pp. 14 and 30.</note>
+            <note id="n22">* The ink in this section is brownish black.</note>
+			<q>( 45 )<lb/>
+            <lb/>
+            <hi rend="u">ration</hi>, <hi rend="u">which is due to the first cause of all.</hi><lb/>
+            On the contrary, <hi rend="u">they considered the su</hi><lb rend="-"/><hi rend="u">preme 
+            Being as honoured by the reverence<lb/>
+            paid to his most illustrious offspr</hi>ing; and<lb/>
+            carefully distinguished between the worship<lb/>
+            proper to the Deity, and to the subordinate<lb/>
+            Gods ....<lb/>
+            ...<lb/>
+            But<lb/>
+            as I cannot give a better account of the<lb/>
+            nature and antiquity of sacrifice than from<lb/>
+            the writings of <hi rend="u">Porphyry</hi>, I shall present<lb/>
+            the reader with the following paraphrase,<lb/>
+            on</q>
+			<q>( 46 )<lb/>
+            <lb/>
+            on part of the second book of his excellent<lb/>
+            work <hi rend="u">on abstinence</hi>.</q>
+			<q><p>“The period of time appears to have<lb/>
+            been immensely distant, from which, as<lb/>
+            Theophrastus says, <hi rend="u">a nation the </hi><hi rend="uu">most</hi><hi rend="u"> learn<lb rend="-"/>ed 
+			</hi><hi rend="uu">of</hi><hi rend="u"> all 
+			</hi><hi rend="uu">others</hi><hi rend="u">,</hi><supplied type="spacer"> </supplied><ref target="n23" type="note">*</ref>
+			and inhabiting the sacred<lb/>
+            region formed by the Nile, began first of<lb/>
+            all, from the domestic fire, to sacrifice to<lb/>
+            the celestial divinities ....<lb/>
+            For at first<lb/>
+            they performed sacrifices, not with aro<lb rend="-"/>matics,</p></q>
+            <note id="n23">* “most”, “of”, and “others” are underlined twice.</note>
+			<q>( 47 )<lb/>
+            <lb/>
+            matics, but with the first fruits of the<lb/>
+            green herb; plucking it with their hands,<lb/>
+            as a certain soft down or moss of prolific<lb/>
+            nature. <hi rend="u">Indeed the earth produced trees<lb/>
+            before animals</hi>; <hi rend="u">but prior to trees</hi>, <hi rend="u">the an<lb rend="-"/>nually 
+            rising gras</hi>s, t<hi rend="u">he leaves,</hi> <hi rend="u">and roots</hi>,<lb/>
+            and entire produce of which having collect<lb rend="-"/>ed, 
+            they sacrificed with fire ....<lb/>
+            ...[”]</q>
+			<q>( 67 )<lb/>
+            ...<lb/>
+            Besides, since we are as child<lb rend="-"/>ren 
+            torn from the bosom of our parent,<lb/>
+            we</q>
+			<q>( 68 )<lb/>
+</q>
+			<q>we ought on this account to request by<lb/>
+            our prayers that we may return to 
+            the<supplied type="spacer"> </supplied><ref target="n24" type="note">*</ref><lb/>
+            Gods our true intellectual parents. If this<lb/>
+            is the case, do not they who deny that<lb/>
+            prayers are to be offered to the Gods, and<lb/>
+            who prevent their souls from being united<lb/>
+            with the divinities, that is with beings<lb/>
+            more excellent than themselves, appear<lb/>
+            similar to those who are deprived of their<lb/>
+            parents?<lb/>
+            ...</q>
+            <note id="n24">* The first four lines of p. 68 are marked by a single vertical stroke, probably
+made with a pencil.</note>
+			<q>( 69 )<lb/>
+            ...<lb/>
+            <p>For a conversion to the universe pro<lb rend="-"/>cures 
+            safety to every thing which it con<lb rend="-"/>tains. 
+            If therefore you possess virtue, it is<lb/>
+            requisite you should invoke that divinity<lb/>
+            which previously comprehended in 
+            <hi rend="strike">him</hi>self<supplied type="spacer"> </supplied><ref target="n25" type="note">*</ref><lb/>
+            every virtue: for universal good is the<lb/>
+            cause of that good which belongs to you<lb/>
+            by participation. And if you seek after<lb/>
+            some corporeal good, the world is endued<lb/>
+            with a power which contains universal<lb/>
+            body. From hence therefore it is necessary<lb/>
+            that perfection should also extend to the<lb/>
+            parts. Thus far that most excellent philo<lb rend="-"/>sopher 
+            Porphyry; in which quotation, as<lb/>
+            well as the preceding, the reader must<lb/>
+            doubtless confess, that Proclus did not<lb/>
+            without reason admire him, for what he<lb/>
+            calls his τὰ ιεροπρεπῆ νοήματα, or conceptions<lb/>
+            adapted to holy concerns; for surely no<lb/>
+            philo-</p></q>
+            <note id="n25">* In orange-brown ink, the annotator has crossed out “him” and above written
+“it”. This appears to be the same ink and hand as on p. vii.</note>
+			<q>( 70 )<lb/>
+            <lb/>
+            philosopher ever possessed them in a more<lb/>
+            eminent degree.</q>
+			<q><p><hi rend="u">If it should be asked, in what the 
+			power<supplied type="spacer"> </supplied><ref target="n26" type="note">*</ref><lb/>
+            of prayer consists, according to these<lb/>
+            philosophers? I answer, in a certain sym<lb rend="-"/>pathy 
+            and similitude of natures to each<lb/>
+            other</hi>: j<hi rend="u">ust as in an extended chord, where<lb/>
+            when the lowest part is moved, the highest<lb/>
+            presently after gives a responsive motio</hi>n.<lb/>
+            <hi rend="u">Or as in the strings of a musical instrument,<lb/>
+            attempered to the same harmony;</hi> <hi rend="u">one<lb/>
+            chord trembling from the pulsation of<lb/>
+            another, as if it were endued with sensa<lb rend="-"/>tion 
+            from symphon</hi>y. S<hi rend="u">o in the universe,<lb/>
+            there is one harmony though composed<lb/>
+            from contraries;</hi> <hi rend="u">since they are at the<lb/>
+            same time similar and allied to each othe</hi>r.<lb/>
+            <hi rend="u">For from the soul of the world, like an<lb/>
+            immortal self-motive lyre, life every wher</hi>e<lb/>
+            <pb id="p44-93" n="93"/>
+            <hi rend="u">resounds, but in some things more inferi</hi>or<lb/>
+            and</p></q>
+            <note id="n26">* This page is particularly heavily marked; in addition to underscores in
+orange-brown ink, a single vertical line in what appears to be pencil runs down the margin.</note>
+			<q>( 71 )<lb/>
+            <lb/>
+            <hi rend="u">and remote from perfection than in others.</hi><lb/>
+            And with respect to the super-mundane<lb/>
+            Gods, sympathy and similitude subsists in<lb/>
+            these as in their most perfect exemplars;<lb/>
+            from whence they are participated by sen<lb rend="-"/>sible 
+            natures, their obscure and imperfect<lb/>
+            images. Hence (say they) we must not<lb/>
+            conceive, that our prayers cause any ani<lb rend="-"/>madversion 
+            in the Gods, or, properly speak<lb rend="-"/>ing, 
+            draw down their beneficence; but that<lb/>
+            they are rather the means of elevating the<lb/>
+            soul to these divinities, and disposing it<lb/>
+            for the reception of their supernal illumi<lb rend="-"/>nation. 
+            F<hi rend="u">or the divine irradiation, which<lb/>
+            takes place in prayer, shines and energizes<lb/>
+            spontaneously, restoring unity to the soul,<lb/>
+            and causing our energy to become one with<lb/>
+            divine energy</hi>. For such, according to these<lb/>
+            philosophers, is the efficacy of prayer,<lb/>
+            that it unites all inferior with all superior<lb/>
+            beings.</q>
+			<q>( 72 )<lb/>
+            <lb/>
+            beings. Since, as the great Theodorus<lb/>
+            says, all things pray except the first.</q>
+			<q><p><hi rend="u">Indeed so great is the power of simili<lb rend="-"/>tude, 
+			that through its</hi> <hi rend="uthick">unifying</hi> <hi rend="u">nature 
+			all</hi><supplied type="spacer"> </supplied><ref target="n27" type="note">*</ref><lb/>
+            <hi rend="u">things coalesce, and impart their particular<lb/>
+            properties to others</hi>. Whilst primary na<lb rend="-"/>tures 
+            distribute their gifts to such as are<lb/>
+            secondary, by an abundant illumination,<lb/>
+            and effects are established in the causes from<lb/>
+            which they proceed.<lb/>
+            ...</p></q>
+            <note id="n27">* “unifying” is very boldly underlined.</note>
+			<q>( 75 )<lb/>
+            ...<lb/>
+            For<lb/>
+            <hi rend="u">how shall we account for those plants<lb/>
+            called heliotrop</hi>es, <hi rend="u">that is attendants on<lb/>
+            the sun</hi>, <hi rend="u">moving in correspondence with<lb/>
+            the revolution of its or</hi>b;<hi rend="u"> but selenitropes,<lb/>
+            or attendants on the moon, turning in<lb/>
+            exact conformity with her motion</hi>? <hi rend="u">it is<lb/>
+            because all things pray, and compose<lb/>
+            hymns to the leaders of their respective or</hi><lb rend="-"/><hi rend="u">ders</hi>; 
+            but some intellectually, and others<lb/>
+            rationally;</q>
+			<q>( 76 )<lb/>
+            <lb/>
+            rationally; some in a natural, and others<lb/>
+            after a sensible manner. <hi rend="u">Hence the sun<lb rend="-"/>flower, 
+            as far as it is able, moves in a cir<lb rend="-"/>cular 
+            dance towards the sun; so that if<lb/>
+            any one could hear the pulsation made by<lb/>
+            its circuit in the air, he would perceive<lb/>
+            something composed by a sound of this<lb/>
+            kind, in honours of its king, such as a<lb/>
+            plant is capable of framing</hi>. Hence we<lb/>
+            may behold the sun and moon in the earth,<lb/>
+            but according to a terrene quality. But<lb/>
+            in the celestial regions, all plants, and<lb/>
+            stones, and animals, possessing an intellec<lb rend="-"/>tual 
+            life according to a celestial nature.<lb/>
+            Now the ancients having contemplated<lb/>
+            this mutual sympathy of things, applied<lb/>
+            for occult purposes both celestial and ter<lb rend="-"/>rene 
+            natures, by means of which through<lb/>
+            a certain similitude they deduced divine<lb/>
+            virtues into this inferior abode. For in<lb rend="-"/>deed</q>
+			<q>( 77 )<lb/>
+            <lb/>
+            deed similitude itself is a sufficient cause<lb/>
+            of binding things together in union and<lb/>
+            consent. Thus if a piece of paper is<lb/>
+            heated, and afterwards placed near a lamp,<lb/>
+            though it does not touch the fire, the pa<lb rend="-"/>per 
+            will be suddenly inflamed, and the<lb/>
+            flame will descend from the superior to the<lb/>
+            inferior parts. This heated paper we<lb/>
+            may compare to a certain relation of in<lb rend="-"/>feriors 
+            to superiors; and its approxi<lb rend="-"/>mation 
+            to the lamp, to the opportune<lb/>
+            use of things according to time, place,<lb/>
+            and matter. But the procession of fire<lb/>
+            in the paper aptly represents the presence<lb/>
+            of divine light, to that nature which is<lb/>
+            capable of its reception. Lastly, the in<lb rend="-"/>flammation 
+            of the paper may be com<lb rend="-"/>pared 
+            to the deification of mortals, and<lb/>
+            to the illumination of material natures,<lb/>
+            which are afterwards carried upwards like<lb/>
+            the</q>
+			<q>( 78 )<lb/>
+            <lb/>
+            the fire of the paper, from a certain par<lb rend="-"/>ticipation 
+            of divine seed. <hi rend="u">Again, the lo<lb rend="-"/>tus 
+            before the rising of the sun, folds its<lb/>
+            leaves into itself, but gradually expands<lb/>
+            them on its rising</hi>: <hi rend="u">unfolding them in<lb/>
+            <pb id="p44-94" n="94"/>
+            proportion to the sun’s ascent to the<lb/>
+            zenith</hi>; <hi rend="u">but as gradually contracting them<lb/>
+            as that luminary descends to the west.<lb/>
+            Hence this plant by the expansion an</hi>d<lb/>
+            <hi rend="u">contraction of its leaves appears no less<lb/>
+            to honour the sun than men by the<lb/>
+            gesture of their eye-lids, and the motion<lb/>
+            of their lips</hi>. But <hi rend="u">this imitation a</hi>nd cer<lb rend="-"/>tain 
+            participation of supernal light is not<lb/>
+            only visible in plants, which possess<lb/>
+            but a vestige of life, but <hi rend="u">likewise in par</hi><lb rend="-"/><hi rend="u">ticular 
+            stones.</hi> Thus the sun-stone, by<lb/>
+            its golden rays, imitates those of the<lb/>
+            sun; but the stone called the eye of<lb/>
+            heaven, or of the sun, has a figure<lb/>
+            similar</q>
+			<q>( 79 )<lb/>
+            <lb/>
+            similar to the pupil of an eye, and a ray<lb/>
+            shines from the middle of the pupil.<lb/>
+            Thus too <hi rend="u">the lunar stone, which has a<lb/>
+            figure similar to the moon when horned,<lb/>
+            by a certain change of itself, follows the<lb/>
+            lunar motion</hi>. Lastly, the stone called<lb/>
+            Helioselenus, i. e. of the sun and moon,<lb/>
+            imitates after a manner the congress of<lb/>
+            those luminaries, which it images by its<lb/>
+            colour. So that all things are full of<lb/>
+            divine natures ....<lb/>
+            ...</q>
+			<q>( 83 )<lb/>
+            ...<lb/>
+            In consequence of a blind<lb/>
+            and mistaken zeal it is common to ridicule<lb/>
+            the opinions of the ancient philosophers,<lb/>
+            in order to establish the certainty of the<lb/>
+            Christian religion. But surely revelation<lb/>
+            does not require so unwarrantable and<lb/>
+            feeble a support, which in reality only be<lb rend="-"/>trays 
+            the cause it endeavours to defend, by<lb/>
+            giving infidels occasion to suspect, either<lb/>
+            weakness</q>
+			<q>( 84 )<lb/>
+            <lb/>
+            weakness in its evidence, or obscurity in<lb/>
+            its fundamental doctrines. Besides, the<lb/>
+            generality of these uncandid opponents<lb/>
+            know nothing of the Platonical writers,<lb/>
+            from whom alone genuine information<lb/>
+            can be derived on this sublime and intri<lb rend="-"/>cate 
+            subject; and from whose works the<lb/>
+            preceding Dissertation has been so abun<lb rend="-"/>dantly 
+            enriched. Were these invaluable<lb/>
+            books more generally known and under<lb rend="-"/>stood, 
+            if they did not refine our taste, at<lb/>
+            present so depraved, they would at least<lb/>
+            teach us to admire the strength which hu<lb rend="-"/>man 
+            reason is capable of exerting, and to<lb/>
+            be more modest in our pretensions to wis<lb rend="-"/>dom; 
+            they would silence ignorant de<lb rend="-"/>claimers, 
+            and stop <hi rend="u">the immense increase o</hi>f<lb/>
+            <hi rend="u">books on modern philosophy, which are<lb/>
+            so rapidly hastening to the abyss of forget</hi><lb rend="-"/><hi rend="u">fulnes</hi>s, 
+            <hi rend="u">like streams into the ocean from<lb/>
+            which they originally flowed.</hi><lb/>
+            SECT.<lb/>
+            ...</q>
+            <p>[The remainder of the tract, “SECT. III” (pp. 85-106), introduces the Orphic hymns. This
+section features only a correction in brown-black ink on p. 89, and a light, vertical pencil mark on p.
+97.]</p>
+			<q>( 89 )<lb/>
+            ...<lb/>
+</q>
+			<q>It is on this<supplied type="spacer"> </supplied><ref target="n28" type="note">*</ref><lb/>
+            account we have entitled them mystical<lb/>
+            initiations, which is doubtless their pro<lb rend="-"/>per 
+            appellation<hi rend="strike">s</hi>. The author too of the<lb/>
+            Allegories in the Theogony of Hesiod ....<lb/>
+            ...</q>
+            <note id="n28">* In brown-black ink the annotator blots out the “s” in
+“appellations”.</note>
+			<q>( 97 )<lb/>
+            ...<lb/>
+</q>
+			<q>Now Onomacritus 
+			calls<supplied type="spacer"> </supplied><ref target="n29" type="note">*</ref><lb/>
+            Hercules and Vulcan, Καρτεροχειρ, or strong-<lb/>handed; 
+            and he celebrates Hercules and<lb/>
+            Mercury as “having an almighty heart.”<lb/>
+            ...</q>
+            <note id="n29">* A light, vertical pencil mark runs alongside this sentence.</note>
+            <p>[No marks appear in Taylor’s translation (pp. 107-227), except for a correction in
+orange-brown ink at the lower-right corner of p. 225, within a footnote to “To Death.” The annotator adds
+“cted” to a word that should say “contracted” but lacks those letters due to a printing error.]</p>
+			<q>( 225 )<lb/>
+            ...<lb/>
+            You then, as the votaries of truth, will, I doubt not, unite with me in most earnest wishes, that
+every valuable work on the Platonic philosophy was well translated into our native tongue; that we might no
+longer be subject to the toil of learning the ancient languages. The mischief, indeed, resulting from the
+study of words is almost too apparent to need any illustration: as the understanding is generally 
+contra<hi rend="gray">cted,</hi></q>
+			<q>( 226 )<lb/>
+            <lb/>
+            its vigour exhausted; and the genius fettered to verbal criticism, and grammatical trifles.</q>
+            <pb id="p44-95" n="95"/>
+          </div3>
+          <div3>
+            <head>
+              <title><hi rend="b">III. Blake and Taylor: An Overview</hi></title>
+            </head>
+            <p>Taylor (1758-1835) was a believer in ancient Greek theology who in the late 1780s began
+publishing a rapid succession of works that denounced Enlightenment thought and promoted paganism. 
+<hi rend="i">Mystical Initiations</hi> was the first of these works. Taylor ultimately published the first
+complete translations in English of Plato (1804, partly revised from the work of Floyer Sydenham) and
+Aristotle (1806-12), as well as translations of many of the Neoplatonists whose philosophy he preferred.
+Called by contemporaries “Taylor the Platonist” and “Taylor the Pagan,” he was a mathematician and
+metaphysician who taught himself Greek through Plato, and to whom university jobs were closed because of his
+religious dissent. He was one of the great classicists of his time, who presented Greek thought (or distorted
+it, some said) in a new and revolutionary light.</p>
+            <p>Taylor and Blake were six months apart in age and began their literary careers in the same
+intellectual circle. They may have met as early as 1783, probably through the sculptor John Flaxman. 
+<hi rend="i">Poetical Sketches</hi>, Blake’s first work, was published that year in part through Flaxman’s
+patronage, and in 1785 Taylor delivered a series of twelve lectures on Platonic philosophy at Flaxman’s
+home. He also lectured in late 1784 at the Freemasons’ Tavern opposite the residence of James Basire, the
+engraver to whom Blake had been apprenticed. It does not seem improbable that Blake attended some of these
+lectures. Blake is thought to have caricatured Taylor in his fragmentary prose satire <hi rend="i">An Island
+in the Moon</hi> (c. 1784-85), alongside representations of the Unitarian thinker Joseph Priestley, the
+radical bookseller Joseph Johnson, and Blake’s younger brother Robert, among others. Taylor may have
+inspired the character Obtuse Angle, who sings an early version of “Holy Thursday” (from 
+<hi rend="i">Innocence</hi>) and whose arrival, at the point where the manuscript tantalizingly ends, gladdens
+Quid the Cynic (Blake’s pseudonym for himself).</p>
+            <p>Through lecturing in 1784 Taylor met William Meredith, a businessman whose patronage allowed
+him to quit his job as a banker’s clerk and write <hi rend="i">Mystical Initiations</hi>. The book received
+its first notice in June 1787 and was followed within four months by Taylor’s “paraphrase translation”
+of Plotinus’s <hi rend="i">Concerning the Beautiful</hi>.<supplied type="spacer"> </supplied><ref
+target="n30" type="note">11</ref> In February 1787 Blake’s younger brother Robert had died of tuberculosis,
+an event that would be pivotal in William’s career. According to Blake’s first biographer, Alexander
+Gilchrist, Blake nursed his dying brother until, at the last, he said he witnessed the young man’s soul rise
+through the ceiling “clapping its hands for joy.”<supplied type="spacer"> </supplied><ref target="n31"
+type="note">12</ref> Blake claimed that Robert’s spirit soon after appeared to him and taught him the
+secrets of illuminated printing.</p>
+            <note id="n30">11. <hi rend="i">Critical Review</hi> 63 (June 1787): 401-06 and 64 (Oct. 1787):
+286-88.</note>
+            <note id="n31">12. Gilchrist, <hi rend="i">Life of William Blake, “Pictor Ignotus,”</hi> 2
+vols. (London: Macmillan, 1863) 1: 59.</note>
+            <p>It is in the context of Robert’s recent death that we might imagine Blake’s reading 
+<hi rend="i">Mystical Initiations</hi>, which in large part passionately expounds Neoplatonic ideas of the soul.
+There is reason to suppose that Taylor may have been the sort of person with whom Blake could have conversed
+about the soul at that time. In addition to possibly having known Robert (alter egos of both men appear in 
+<hi rend="i">An Island in the Moon</hi>), Taylor would likely not have dismissed Blake’s claim of seeing his
+brother’s spirit. Though he does not affirm it in his public writing, in private marginalia Taylor refers to
+his own mystical experience. He suggests that the soul, in such a state, “will spontaneously utter musical
+sounds, as indications of the harmony 
+within.”<supplied type="spacer"> </supplied><ref target="n32" type="note">13</ref></p>
+            <note id="n32">13. Quoted in S. Foster Damon, <hi rend="i">A Blake Dictionary</hi>, rev. ed.
+(Hanover: University Press of New England, 1988) 396. The quoted passage appears in Taylor’s 
+<hi rend="i">The Philosophical and Mathematical Commentaries of Proclus</hi>, 2 vols. (London, 1788) 2: 277. In
+Taylor’s own copy, his comment beside this passage states “I wrote this from my own experience at the
+time. T. T.”</note>
+            <p>S. Foster Damon first posited Blake’s connection with Taylor in 1924, four years before the
+Bodleian bought its copy of Mystical Initiations.<supplied type="spacer"> </supplied><ref target="n33"
+type="note">14</ref> Harper thoroughly investigated that link in the 1950s. His <hi rend="i">The Neoplatonism
+of William Blake</hi> devotes several pages to <hi rend="i">Mystical Initiations</hi>, asserting that
+			<q>Blake may have found much that excited him, including a metaphysical discussion, based upon
+the Theory of Forms and the Theory of Emanation, of the participation of all earthly things in the divine
+order and an explanation of several Neoplatonic symbols. Chief among these was the sun .... The immediate
+product most likely was Blake’s “Ah! Sunflower.”<supplied type="spacer"> </supplied><ref target="n34"
+type="note">15</ref></q></p>
+            <note id="n33">14. See <hi rend="i">William Blake: His Philosophy and Symbols</hi> (Boston:
+Houghton Mifflin, 1924) 32, where Damon states of Taylor: “Blake, we imagine, was alternately shocked and
+delighted at this ‘philosophical polytheist’; but at first he could only laugh.”</note>
+            <note id="n34">15. Harper 119 (discussion on 119-23).</note>
+            <p>Bibliographic evidence confirming Blake and Taylor’s friendship did not come to light until
+the early 1970s.<supplied type="spacer"> </supplied><ref target="n35" type="note">16</ref> It took the form of
+two anecdotes, the first written between 1867 and 1869 in the <hi rend="i">Reminiscences</hi> of Taylor’s
+longtime friend Alexander Dyce (1798-1869):
+			<q>Taylor, so absurd himself in many aspects, was ready enough to laugh at the strange fancies
+of others,—for instance, at those of that half-crazed man of real genius, Blake the artist. “Pray, Mr.
+Taylor,” said Blake one day, “did you ever find yourself, as it were, standing close beside the vast and
+luminous orb of the moon”?—[“]Not that I remember, Mr. Blake: did you ever?”—“Yes, frequently; and
+I have felt an almost irresistible desire to throw myself into it headlong.”—“I think, Mr. Blake, you
+had better not; for if you were to do so, you most probably would never come out of it 
+again.”<supplied type="spacer"> </supplied><ref target="n36" type="note">17</ref></q>
+              Dyce may have had in mind the passage in <hi rend="i">The Marriage of Heaven and Hell</hi>
+(1790) where the narrator throws himself
+            <pb id="p44-96" n="96"/>
+              <figure n="marginalia-viidetail.44.3.bonus" rend="file" width="667" height="199">
+              	<figTranscr>There is no instance of a poet writing good Eng.<lb/>
+				Blank verse who has not also written good<lb/>
+				Rhyme: but many have written good rhyme<lb/>
+				( vii )<lb/>
+				who have shewn no capability of writing. good<lb/>
+				Blank verse .<lb/>
+				<lb/>
+				rhyme, which is certainly when well</figTranscr>
+                <figDesc>3. Thomas Taylor, <hi rend="i">The Mystical Initiations; or, Hymns of Orpheus</hi>
+(London, 1787), detail of p. vii. The Bodleian Libraries, University of
+                  Oxford (Arch. H e.181).</figDesc>
+              </figure>
+into the sun (pl. 19).<supplied type="spacer"> </supplied><ref target="n37" type="note">18</ref> 
+William Meredith (1804-31), the nephew of Taylor’s patron of the same name, recalled in
+1829 another incident:
+			<q>T. Taylor gave Blake, the artist, some lessons in mathematics &amp; got as far as the 
+5<hi rend="s">th</hi>. proposit<hi rend="s">n</hi>. wch proves that any two angles at the base of an isoceles
+triangle must be equal. Taylor was going thro the demonstration, but was interrupted by Blake, exclaiming,
+“ah never mind that—what’s the use of going to prove it, why I see with my eyes that it is so, &amp; do
+not require any proof to make it clearer.”<supplied type="spacer"> </supplied><ref target="n38">19</ref></q>
+              Both anecdotes are of undetermined chronology and may date as early as the 1780s, though a diary
+entry by George Cumberland implies that Taylor and Blake were in contact late in life. Cumberland breakfasted
+with Taylor on 15 October 1825 and spoke of old friends, after which he wrote in his diary “The Duke of
+Sussex is also Taylor’s friend—memo to see Blake.”<supplied type="spacer"> </supplied><ref target="n39"
+type="note">20</ref></p>
+            <note id="n35">16. James King, “The Meredith Family, Thomas Taylor, and William Blake,” 
+<hi rend="i">Studies in Romanticism</hi> 11 (1972): 153-57, and Richard J. Schrader, ed., <hi rend="i">The
+Reminiscences of Alexander Dyce</hi> ([Columbus]: Ohio State University Press, 1972) 134-35, established that
+Blake and Taylor were acquainted.</note>
+            <note id="n36">17. Quoted in Bentley, <hi rend="i">BR</hi>(2) 500.</note>
+            <note id="n37">18. See Bentley, <hi rend="i">BR</hi>(2) 500fn.</note>
+            <note id="n38">19. Quoted in Bentley, <hi rend="i">BR</hi>(2) 500.</note>
+            <note id="n39">20. Quoted in Geoffrey Keynes, <hi rend="i">Blake Studies</hi>, 2nd ed. (Oxford:
+Clarendon Press, 1971) 247-48.</note>
+          </div3>
+          <div3>
+            <head>
+              <title><hi rend="b">IV. Handwriting Authentication</hi></title>
+            </head>
+            <p>Only one annotation in <hi rend="i">Mystical Initiations</hi> is longer than a
+              word, but in certain ways it is a very desirable sample. Several words recur, displaying the
+writer’s variations on particular letter pairings, and it is in a distinctive shade of ink. The annotation,
+which appears above the text of page vii (see illus. 3), reads:
+			<q>There is no instance of a poet writing good Eng.<lb/>
+                Blank verse who has not also written good<lb/>
+                Rhyme: but many have written good rhyme<lb/>
+                who have shewn no capability of writing. good<lb/>
+                Blank verse .</q>
+                The best bases for comparative analysis with Blake’s handwriting, according to G. E.
+Bentley, Jr., an authority on Blake’s handwriting who reviewed this article prior to publication, are
+capital letters (“B,” “E,” “R,” and “T”) and letters that have ascenders and descenders (as in
+“good,” “many,” “of,” “poet,” “who,” “writing,” and “capability”).</p>
+            <p>If it is accepted as plausible that the marginalia date to around the same time as the
+publication of <hi rend="i">Mystical Initiations</hi>, the best comparative source for Blake’s handwriting
+is the manuscript of <hi rend="i">An Island in the Moon</hi> (c. 1784-85). Its first page is reproduced here
+as a sample for comparison (see illus. 4).</p>
+            <p>The table on the following pages compares samples of the annotator’s handwriting in 
+<hi rend="i">Mystical Initiations</hi> with corresponding instances from <hi rend="i">An Island in the
+Moon</hi>.<supplied type="spacer"> </supplied><ref target="n40" type="note">21</ref> The table includes
+capital letters, letters with ascenders and descenders, and finally some additional words paralleled in the
+<hi rend="i">Island</hi> manuscript. The samples have been enhanced in order to provide easier comparisons of
+letter formation.</p>
+            <note id="n40">21. The authors are indebted to G. E. Bentley, Jr., for recommending these specific
+comparisons.</note>
+            <p>Collectively these samples display a likeness between the annotator’s handwriting and
+Blake’s, which supports an attribution of the marginalia to the artist. The shade of the orange-brown ink
+may provide another argument for attribution. The ink is fairly bright and its shade is comparable to the
+orange-brown text in some of Blake’s illuminated prints, although there are differences between writing ink
+and printing ink.<supplied type="spacer"> </supplied><ref target="n41" type="note">22</ref> In addition, the
+somewhat peculiar shade of the ink offers the best evidence that the ink underliner was the author of the
+marginalia. The other underlinings in the book are not as easy to associate with the same person and can only
+be linked through the general consistency of the content underlined.</p>
+            <note id="n41">21. The authors are indebted to G. E. Bentley, Jr., for recommending these specific
+comparisons.</note>
+            <pb id="p44-97" n="97"/>
+            <figure n="bb74.1.1.ms" id="bb74.1.ms.01" work-copy="bb74.1" rend="db" width="605" height="1000">
+              <figTranscr>FITZWILLIAM<lb/>
+              MUSEUM<lb/>
+              <lb/>
+              In the Moon, is a certain Island near by a mighty continent, which small<lb/>
+              island seems to have some affinity to England, &amp; what is more extraordinary the<lb/>
+              people are so much alike &amp; their language so much the same that you would<lb/>
+              think you was among your friends. in this Island dwells three Philosophers<lb/>
+              Suction, the Epicurean, Quid the Cynic, &amp; Sipsop the Pythagorean. I call them<lb/>
+              by the names of those sects tho’ the sects are not ever mentiond there as being<lb/>
+              quite out of date however the things still remain, and the vanities are the<lb/>
+              same. the three Philosophers sat together thinking of nothing. in comes -<lb/>
+              Etruscan Column the Antiquarian &amp; after an abundance of Enquiries to<lb/>
+              no purpose sat himself down &amp; described something that nobody listend to<lb/>
+              so they were employd when Mrs Gimblet came in              the corners of her<lb/>
+              mouth seemd I dont know how. but very odd as if she hoped you had not<lb/>
+              an ill opinion of her. to be sure we are all poor creatures, well she seated<lb/>
+              &amp; seemd to listen with great attention while the Antiquarian seemd<lb/>
+              to be talking of virtuous cats. but it was not so. she was thinking of<lb/>
+              the shape of her eyes &amp; mouth &amp; he was thinking. of his eternal fame<lb/>
+              the three Philosophers at this time were each endeavouring to conceal<lb/>
+              his laughter. (not at them but) at his own imagination, this was the situation<lb/>
+              of this improving company. when in a great hurry, Inflammable Gass<lb/>
+              the Wind finder. enterd. they seemd to rise &amp; salute each other<lb/>
+              Etruscan Column &amp; Inflammable Gass. fixd their eyes on each other. their<lb/>
+              tongues went in question &amp; answer, but their thoughts were otherwise employd<lb/>
+              I dont like his eyes said Etruscan Column. he’s a foolish puppy said<lb/>
+              Inflammable Gass, smiling on him. the 3 Philosophers        the Cynic<lb/>
+              smiling the Epicurean seeming studying the flame of the candle &amp;<lb/>
+              the Pythagorean playing with the cat. listend with open mouths to the<lb/>
+              edifying discourses.<lb/>
+              Sir said the Antiquarian I have seen these works &amp; I do affirm that they<lb/>
+              are no such thing. they seem to me to be the most wretched paltry flimsy Stuff<lb/>
+              that ever ___ What d’ye say What dye say said Inffammable Gass, why<lb/>
+              why I wish I could see you write so. Sir said the Antiquarian. according<lb/>
+              to my opinion. the author is an errant blockhead.__ Your reason Your reason<lb/>
+              said Inflammable Gass_ why why I think it very abominable to call a man<lb/>
+              a blockhead that you know nothing of._ . Reason Sir said the A[n]tiquarian<lb/>
+              I’ll’ give you an example for your reason As I was walking        ng the<lb/>
+                            vast<lb/>
+              street I saw a ^ number of swallows on the rails of an<lb/>
+              old Gothic square they seemd to be going on their passage, as Pliny says<lb/>
+              as I was looking up. a little outré fellow pulling me by the sleeve cries<lb/>
+              pray Sir who do all they belong to, I turnd myself about with great</figTranscr>
+              <figDesc>4. Blake, <hi rend="i">An Island in the Moon</hi>, p. 1. © Fitzwilliam Museum,
+Cambridge. Image courtesy of the <hi rend="i">William Blake Archive</hi>.</figDesc>
+            </figure>
+            <pb id="p44-98" n="98"/>
+            <table>
+              <row>
+                <cell/>
+                <cell><hi rend="b"><hi rend="i">Mystical Initiations</hi></hi></cell>
+                <cell><hi rend="b"><hi rend="i">An Island in the Moon</hi></hi></cell>
+              </row>
+              <row>
+                <cell>Capital letters</cell>
+                <cell>“B” in “Blank” (two instances)</cell>
+                <cell>“Bible” (pp. 3, 4); “Before” (p. 7)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="Blank1.44.3.bqscan" rend="file" width="308" height="100"><figTranscr>Blank</figTranscr></figure><lb/>
+                  <figure n="Blank2.44.3.bqscan" rend="file" width="319" height="100"><figTranscr>Blank</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="Bible1.44.3.bqscan" rend="file" width="117" height="60"><figTranscr>Bible</figTranscr></figure><lb/>
+                  <figure n="Bible2.44.3.bqscan" rend="file" width="103" height="50"><figTranscr>Bible</figTranscr></figure><lb/>
+                  <figure n="Before.44.3.bqscan" rend="file" width="202" height="100"><figTranscr>Before</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“E” in “Eng.”</cell>
+                <cell>“Epicurean,” “Etruscan,” “Enquiries”<lb/>
+                (p. 1, first instances)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="Eng.44.3.bqscan" rend="file" width="129" height="150"><figTranscr>Eng.</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="Epicurean.44.3.bqscan" rend="file" width="145" height="60"><figTranscr>Epicurean</figTranscr></figure><lb/>
+                  <figure n="Etruscan.44.3.bqscan" rend="file" width="154" height="50"><figTranscr>Etruscan</figTranscr></figure><lb/>
+                  <figure n="Enquiries.44.3.bqscan" rend="file" width="135" height="50"><figTranscr>Enquiries</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“R” in “Rhyme”</cell>
+                <cell>“Reason” (p. 1)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="Rhyme.44.3.bqscan" rend="file" width="317" height="125"><figTranscr>Rhyme</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="Reason.44.3.bqscan" rend="file" width="115" height="50"><figTranscr>Reason</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“T” in “There”</cell>
+                <cell>“Tactics,” “Theology,” “Tilly”<lb/>
+                (p. 3, first instances)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="There.44.3.bqscan" rend="file" width="186" height="100"><figTranscr>There</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="Tactics.44.3.bqscan" rend="file" width="124" height="50"><figTranscr>Tactics</figTranscr></figure><lb/>
+                  <figure n="Theology.44.3.bqscan" rend="file" width="143" height="70"><figTranscr>Theology</figTranscr></figure><lb/>
+                  <figure n="Tilly.44.3.bqscan" rend="file" width="83" height="50"><figTranscr>Tilly</figTranscr></figure>
+                </cell>
+              </row>
+            </table>
+            <p>Editor’s note: The words from <hi rend="i">Mystical Initiations</hi> were scanned at 500%
+from the Bodleian’s photograph of page vii, then enhanced with Adobe Photoshop to darken the handwriting and
+lighten the background, and reduced to 350% of the original size. The samples from <hi rend="i">An Island in
+the Moon</hi> were cropped from the <hi rend="i">William Blake Archive</hi>’s scans, then enlarged to 150%
+of the original. The Bodleian Libraries, University of Oxford (Arch. H e.181), and © Fitzwilliam Museum,
+Cambridge, respectively; <hi rend="i">Island</hi> images courtesy of the <hi rend="i">William Blake
+Archive</hi>.</p>
+            <pb id="p44-99" n="99"/>
+            <table>
+              <row>
+                <cell>Ascenders and descenders</cell>
+                <cell>“d” in “good” (four instances)</cell>
+                <cell>“odd” (p. 1)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="good1.44.3.bqscan" rend="file" width="153" height="100"><figTranscr>good</figTranscr></figure><lb/>
+                  <figure n="good2.44.3.bqscan" rend="file" width="192" height="90"><figTranscr>good</figTranscr></figure><lb/>
+                  <figure n="good3.44.3.bqscan" rend="file" width="164" height="100"><figTranscr>good</figTranscr></figure><lb/>
+                  <figure n="good4.44.3.bqscan" rend="file" width="142" height="100"><figTranscr>good</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="odd.44.3.bqscan" rend="file" width="52" height="40"><figTranscr>odd</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“many”</cell>
+                <cell>“many” (pp. 12, 13)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="many1.44.3.bqscan" rend="file" width="256" height="90"><figTranscr>many</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="many2.44.3.bqscan" rend="file" width="102" height="40"><figTranscr>many</figTranscr></figure><lb/>
+                  <figure n="many3.44.3.bqscan" rend="file" width="88" height="40"><figTranscr>many</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“of” (two instances)</cell>
+                <cell>“of” (p. 1, first three instances)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="of1.44.3.bqscan" rend="file" width="91" height="110"><figTranscr>of</figTranscr></figure><lb/>
+                  <figure n="of2.44.3.bqscan" rend="file" width="90" height="100"><figTranscr>of</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="of3.44.3.bqscan" rend="file" width="53" height="55"><figTranscr>of</figTranscr></figure><lb/>
+                  <figure n="of4.44.3.bqscan" rend="file" width="58" height="60"><figTranscr>of</figTranscr></figure><lb/>
+                  <figure n="of5.44.3.bqscan" rend="file" width="55" height="55"><figTranscr>of</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“poet”</cell>
+                <cell>“purpose” (for “p”, p. 1); “Poet” (p. 6)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="poet.44.3.bqscan" rend="file" width="185" height="100"><figTranscr>poet</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="purpose.44.3.bqscan" rend="file" width="132" height="50"><figTranscr>purpose</figTranscr></figure><lb/>
+                  <figure n="Poet2.44.3.bqscan" rend="file" width="99" height="50"><figTranscr>Poet</figTranscr></figure>
+                </cell>
+              </row>
+            </table>
+              <pb id="p44-100" n="100"/>
+            <table>
+              <row>
+                <cell/>
+                <cell>“who” (two instances)</cell>
+                <cell>“who” (p. 1)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="who1.44.3.bqscan" rend="file" width="138" height="60"><figTranscr>who</figTranscr></figure><lb/>
+                  <figure n="who2.44.3.bqscan" rend="file" width="164" height="70"><figTranscr>who</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="who3.44.3.bqscan" rend="file" width="76" height="50"><figTranscr>who</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“writing” (two instances)</cell>
+                <cell>“writing” (p. 17)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="writing1.44.3.bqscan" rend="file" width="230" height="120"><figTranscr>writing</figTranscr></figure><lb/>
+                  <figure n="writing2.44.3.bqscan" rend="file" width="221" height="105"><figTranscr>writing</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="writing3.44.3.bqscan" rend="file" width="125" height="60"><figTranscr>writing</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell>Other words</cell>
+                <cell>“a”</cell>
+                <cell>“a” (p. 1, first three instances)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="a1.44.3.bqscan" rend="file" width="42" height="30"><figTranscr>a</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="a2.44.3.bqscan" rend="file" width="35" height="30"><figTranscr>a</figTranscr></figure><lb/>
+                  <figure n="a3.44.3.bqscan" rend="file" width="38" height="30"><figTranscr>a</figTranscr></figure><lb/>
+                  <figure n="a4.44.3.bqscan" rend="file" width="42" height="30"><figTranscr>a</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“verse” (two instances)</cell>
+                <cell>“verses” (p. 9)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="verse1.44.3.bqscan" rend="file" width="197" height="40"><figTranscr>verse</figTranscr></figure><lb/>
+                  <figure n="verse2.44.3.bqscan" rend="file" width="177" height="45"><figTranscr>verse</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="verses.44.3.bqscan" rend="file" width="111" height="35"><figTranscr>verses</figTranscr></figure>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>“capability”</cell>
+                <cell>“abilities” (p. 17, three instances)</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <figure n="capability.44.3.bqscan" rend="file" width="348" height="100"><figTranscr>ii<lb/> capability</figTranscr></figure>
+                </cell>
+                <cell>
+                  <figure n="abilities1.44.3.bqscan" rend="file" width="177" height="60"><figTranscr>abilities</figTranscr></figure><lb/>
+                  <figure n="abilities2.44.3.bqscan" rend="file" width="134" height="50"><figTranscr>abilities</figTranscr></figure><lb/>
+                  <figure n="abilities3.44.3.bqscan" rend="file" width="152" height="50"><figTranscr>abilities</figTranscr></figure>
+                </cell>
+              </row>
+            </table>
+            <pb id="p44-101" n="101"/>
+          </div3>
+          <div3>
+            <head>
+              <title><hi rend="b">V. Content of the Annotations</hi></title>
+            </head>
+            <p>Blake is perhaps best known for marginalia that are fiery and indignant, such as the scornful
+comments in the margins of his copy of Sir Joshua Reynolds’s <hi rend="i">Discourses</hi>. However, he
+refers to another style of annotation in his copy of Lavater’s 1788 <hi rend="i">Aphorisms on Man:</hi>
+			<q>I hope no one will call what I have written cavilling because he may think my remarks of
+small consequence For I write from the warmth of my heart. &amp; cannot resist the impulse I feel to rectify
+what I think false in a book I love so much. &amp; approve so generally<supplied type="spacer"> </supplied><ref target="n42" type="note">23</ref></q>
+              The marginalia in the Bodleian copy of <hi rend="i">Mystical Initiations</hi> similarly convey a
+tone of friendly correction and general as- sent. Another similarity lies in the long, rough Xs that appear in
+the margins of pages 5 and 6, a feature known to have been used by Blake as his “mark of
+uneasiness.”<supplied type="spacer"> </supplied><ref target="n43" type="note">24</ref> The annotator appears
+to have worked attentively, frequently lifting the pen to underscore or double-underscore particular words and
+clauses rather than quickly running the pen under whole lines at a time. The apparent purpose of the
+underlining was to anthologize passages that aroused the annotator’s interest. There is no way of knowing
+whether the marks in pen and pencil were made by the same person, but the material to which the annotator is
+drawn seems consistent.</p>
+            <note id="n42">23. E 600. See also H. J. Jackson, <hi rend="i">Marginalia: Readers Writing in
+Books</hi> (New Haven: Yale University Press, 2001) 82.</note>
+            <note id="n43">24. See E 583.</note>
+            <p>This concluding section offers some ideas about how the marginalia in <hi rend="i">Mystical
+Initiations</hi>, if accepted as authentic, correlate with Blake’s thought in the late 1780s. Discussion is
+by page number of Taylor’s book, with handwritten annotations and some of the most interesting underlinings
+examined first. Other comments follow in ascending page order.</p>
+            <div4>
+              <p>P. vii (see illus. 1, 3): This annotation has a lilt like Blake’s, and its substance
+carries the conviction of someone who has written poetry.</p>
+              <p>Like many writers of the romantic period, Blake considered blank verse superior to rhyme.
+Geoffrey Hartman notes that Blake’s use of this meter in the <hi rend="i">Poetical Sketches</hi> of 1783 is
+				<q>unusual, not only for its personality (the free enjambments, the energetic beat) but also
+for its very presence in short poems. Not until the 1790’s will Southey, Coleridge, and Wordsworth
+experiment with <hi rend="i">lyrics</hi> in blank verse.	With certain important exceptions, unrhymed lyrics
+before Blake were obvious imitations of the classics or paraphrases of the Psalms, so that Blake’s choice of
+verse may signify an “ancient liberty recover’d” and evoke the prophetic portions of both
+traditions.<supplied type="spacer"> </supplied><ref target="n44" type="note">25</ref></q></p>
+              <note id="n44">25. <hi rend="i">Beyond Formalism: Literary Essays 1958-1970</hi> (New Haven:
+Yale University Press, 1970) 194.</note>
+              <p>Later, in <hi rend="i">Jerusalem</hi> (1804-20), Blake would reject even blank verse as too
+fettered. His introductory statement “To the Public” alludes to “English Blank Verse, derived from ...
+Rhyming” (pl. 3, E 145), perhaps echoing the hierarchy of verse forms suggested in the annotation.</p>
+            </div4>
+            <div4>
+              <p>P. viii (see illus. 2): The annotator attacks translators as pedants, altering Taylor’s
+phrase to say that authors suffer by translation “because [it is] undertaken by men, who have devoted the
+greatest part of their lives to the study of words alone.”</p>
+              <p>Blake’s view of translation might be epitomized by biblical phrases that he imports into
+the first plate of his 1825 <hi rend="i">Illustrations of the Book of Job</hi>, “The Letter Killeth I The
+Spirit giveth Life” (2 Corinthians 3.6) and “It is Spiritually Discerned” (1 Corinthians 2.14). He
+valued translations that conveyed the spiritual more than the literal qualities of their originals, as the
+annotator seems to suggest here.</p>
+              <p>Taylor likely would have sympathized. His translations are notoriously loose, and he argues
+against the mischief of emphasizing words rather than ideas in both the preface to <hi rend="i">Mystical
+Initiations</hi> and, at greater length, in his introduction to Plotinus’s <hi rend="i">Concerning the
+Beautiful</hi>.<supplied type="spacer"> </supplied><ref target="n45" type="note">26</ref> Taylor’s
+diversions from literality provoked great criticism from the intellectuals of his time. However, as one of his
+defenders, G. R. S. Mead, asserted in the late nineteenth century, “what was true of his critics then is
+true of his critics today: though they may know more Greek, he knew more Plato.”<supplied type="spacer"> </supplied><ref target="n46" type="note">27</ref></p>
+              <note id="n45">26. Taylor also directly references “mischief” on page 225 of 
+<hi rend="i">Mystical Initiations</hi>: “The mischief, indeed, resulting from the study of words is almost too
+apparent to need any illustration.”</note>
+              <note id="n46">27. Thomas Taylor, <hi rend="i">Select Works of Plotinus</hi>, ed. Mead (London:
+George Bell &amp; Sons, 1895) ix, quoted in Kathleen Raine and George Mills Harper, eds., <hi rend="i">Thomas
+Taylor the Platonist: Selected Writings</hi> (Princeton: Princeton University Press, 1969) 22-23.</note>
+            </div4>
+            <div4>
+              <p>P. 69: A curious correction: the annotator changes the gender of the being that “previously
+comprehended ... every virtue” from the “divinity ... himself” to the “divinity ... itself,”
+apparently suggesting that androgyny is requisite to such a divinity. If Blake is the annotator, this perhaps
+could be linked to the assertion on plate 11 of <hi rend="i">The Marriage of Heaven and Hell</hi> that “All
+deities reside in the human breast” (E 38). If the “divinity which previously comprehended ... every
+virtue” resides within individuals, its sex cannot be restricted.</p>
+            </div4>
+            <p>Some of the most interesting underlinings are as follows:</p>
+            <div4>
+              <p>P. 1: The annotator has underlined the phrase “<hi rend="u">obscurity</hi> ... 
+<hi rend="u">affords very little matter</hi>,” which is reminiscent of Blake’s annotation to Reynolds,
+“Obscurity is Neither the Source of the Sublime nor of any Thing Else” (E 658).</p>
+              <p>Blake asserts in his Reynolds marginalia that “when very Young” he had rejected Edmund
+Burke’s <hi rend="i">Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</hi>
+(1757), which stresses the value of obscurity in art (E 660).</p></div4>
+              <pb id="p44-102" n="102"/>
+            <div4>
+              <p>P. 70: Some of the most noticeable and continuous underlining in the book highlights
+Taylor’s metaphor for the “power of prayer,” culminating with
+			<q><hi rend="u">one<lb/>
+              chord trembling from the pulsation of<lb/>
+              another, as if it were endued with sensa-<lb/>
+              tion from symphon</hi>y. S<hi rend="u">o in the universe,<lb/>
+              there is one harmony though composed<lb/>
+              from contraries</hi> ....</q>
+                It almost seems redundant to recite Blake’s famous maxim from <hi rend="i">The Marriage of
+Heaven and Hell</hi>, “Without Contraries is no progression” (E 34). Blake describes contraries in
+Jerusalem (pls. 10 and 17) as differences or oppositions that complement rather than negate, and in that sense
+they agree with Taylor’s use of the term here. “Pulsation” is similarly evocative. When Blake describes
+the “Moment” of artistic inspiration in Milton (pls. 28-29, E 126-27) he repeatedly equates it to a
+“pulsation of the artery.”</p>
+              <p>The content of this annotated passage calls to mind Coleridge’s 1795 poem, <hi rend="i">The
+Eolian Harp</hi>. It also has an analogy in the aforementioned reference to Taylor’s mystical experience,
+wherein, he indicates, his soul had “spontaneously utter[ed] musical sounds, as indications of the harmony
+within.”<supplied type="spacer"> </supplied><ref target="n47" type="note">28</ref></p>
+              <note id="n47">28. See note 13, above.</note>
+            </div4>
+            <div4>
+              <p>Pp. 75-76: Taylor’s discussion of heliotropes, or plants that turn toward the sun, is
+largely translated from Proclus. Harper suggests this as the source of Blake’s “Ah! Sun-Flower” in a
+1953 article later incorporated into <hi rend="i">The Neoplatonism of William Blake</hi>. Harper asserts that
+in Taylor’s presentation of the Plotinian doctrine of emanation, “everything in the universe participates
+in the first good—usually symbolized by the sun, the properties of which are everywhere apparent in the
+phenomenal world.”<supplied type="spacer"> </supplied><ref target="n48" type="note">29</ref> This concept of
+an “alliance between ‘natural things’ and occult power” is presented in Blake’s opening verse:
+				<q>Ah Sun-flower! weary of time,<lb/>
+                  Who countest the steps of the Sun:<lb/>
+                  Seeking after that sweet golden clime<lb/>
+                  Where the travellers journey is done.</q>
+                The second stanza extends the concept to “man, who, after all, is separated from the flower
+only in degree, not in kind”:<supplied type="spacer"> </supplied><ref target="n49" type="note">30</ref>
+				<q>Where the Youth pined away with desire,<lb/>
+                  And the pale Virgin shrouded in snow:<lb/>
+                  Arise from their graves and aspire,<lb/>
+                  Where my Sun-flower wishes to go. (E 25)</q>
+                The poem is a pure aspiration, consisting of two exhaled clauses rather than statements
+employing verbs in the usual sense. In Harper’s interpretation the poem likens humanity to the sunflower,
+anchored in the material world yet “aspir[ing] to the sun’s eternality.”<supplied type="spacer"> </supplied><ref target="n50" type="note">31</ref></p>
+              <note id="n48">29. Harper 119.</note>
+              <note id="n49">30. Harper 119, 120.</note>
+              <note id="n50">31. Harper 120.</note>
+              <p>There is no known manuscript of “Ah! Sun-Flower.” If Blake was the annotator, these
+underlinings shed further light on the poem’s philosophical roots.</p>
+            </div4>
+            <p>Some other observations:</p>
+            <div4>
+              <p>P. v: These and other anti-materialistic statements marked in <hi rend="i">Mystical
+Initiations</hi> might be related to Blake’s 1788 tracts <hi rend="i">There is No Natural Religion</hi> and
+<hi rend="i">All Religions are One</hi>.</p>
+            </div4>
+            <div4>
+              <p>Pp. 2-3: This genealogy of theology is reminiscent of that expressed in Blake’s 
+<hi rend="i">The Marriage of Heaven and Hell</hi>, pl. 11.</p>
+            </div4>
+            <div4>
+              <p>Pp. 9-10: The story of a tyrant king’s son unable to control the lyre of Orpheus would have
+had obvious attractions for Blake as a revolutionary poet.</p>
+            </div4>
+            <div4>
+              <p>Pp. 14-15: A passage underlined in brown-black ink likens the deity to “an immense and
+perpetually exuberant fountain; whose streams originally filled and continually replenish the world with
+life.” Harper links this passage to Blake in <hi rend="i">The Neoplatonism of William Blake</hi>.<supplied
+type="spacer"> </supplied><ref target="n51" type="note">32</ref> If the poet was the annotator, this
+underlining lends support to the idea that the same person probably marked the book in brown-black and
+orange-brown ink. (There is also the possibility that the ink is the same, but appears darker where the pen
+was redipped.)</p>
+              <note id="n51">32. Harper 123.</note>
+            </div4>
+            <div4>
+              <p>P. 19: “Soul,” here marked heavily, is underlined five times in this text. The annotator
+seems attracted to passages about animating energies. Could this reflect Blake’s contemplation of
+metempsychosis in the wake of his brother Robert’s death in 1787?</p>
+            </div4>
+            <div4>
+              <p>P. 26: That the annotator does not underline Greek text but marks its English translation is
+consistent with the practice of Blake, who is thought not to have been proficient in Greek until 1803.</p>
+            </div4>
+            <div4>
+              <p>P. 78: Blake uses the lotus as a symbol of evanescence in <hi rend="i">The Book of Thel</hi>
+(1789).<supplied type="spacer"> </supplied><ref target="n52" type="note">33</ref></p>
+              <note id="n52">33. Harper 122.</note>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+    </text>
+      </TEI.2>

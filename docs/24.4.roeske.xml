@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.4.roeske</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="poem">Mrs. Blake Requests Her Portrait</title>
+        <author n="Roeske">Paulette Roeske</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1991</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1991</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.4</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert D. Denham</name>
+              <name>Robert N. Essick</name>
+              <name>Wallace Jackson</name>
+              <name>E.B. Murray</name>
+              <name>Morton D. Paley</name>
+              <name>Paulette Roeske</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1991"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <div1 id="BQ-24-4-0008">
+      	<pb id="p24-157" n="157"/>
+        <head>
+          <title type="section">
+            <hi rend="i">POETRY</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Mrs. Blake Requests Her Portrait</hi>
+            </title>
+          </head>
+		<q>
+He keeps putting her off.<lb/>
+She, in her quiet way, insists.<lb/>
+Knowing he has a way with women,<lb/>
+romancing them in paint<lb/>
+the color of jewels, inventing<lb/>
+their most flattering features,<lb/>
+she expects he will exalt<lb/>
+her wifely figure,<lb/>
+the serviceable hips,<lb/>
+hair ripe with oil and smoke.<lb/>
+Over lunch he takes up<lb/>
+a dull lead stub and sketches<lb/>
+her profile: one miniature eye<lb/>
+downcast, half a mouth<lb/>
+and chin. Still chewing<lb/>
+the last bite of fish pie,<lb/>
+he adds a few squiggles for hair.<lb/>
+Pushing it across the table,<lb/>
+he trusts her to understand<lb/>
+that when he rendered Beatrice<lb/>
+crowned, Eve’s exquisite neck<lb/>
+and Bathsheba disrobed,<lb/>
+his vision was of Catherine.
+</q>
+          <byline>
+            —<docAuthor><hi rend="i">Paulette</hi> <name><hi rend="i">Roeske</hi></name></docAuthor>
+          </byline>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.1</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <front id="issue_01">
+			<pb id="p01-1" n="1"/>
+            <div1 id="cover">
+                <figure n="cover.001.01.bqscan" rend="file" width="258" height="334">
+                    <figTranscr>Blake Newsletter<lb/>
+                        Number 1<lb/>
+                        June 15, 1967<lb/>
+                        The idea of having a Blake Newsletter seems to have sprung like<lb/>
+                        Leutha from the head of Satan; I don’t know who can claim paternity.  The<lb/>
+                        need seemed suddenly obvious.  Much help was given in the early stages by<lb/>
+                        David Erdman, who called a meeting of Blake scholars at the last MLA<lb/>
+                        convention and who also sent out a preliminary announcement.  Gerald E.<lb/>
+                        Bentley, Jr. contributed valuable suggestions and prodding.  Robert<lb/>
+                        Whitehead sent a list of ongoing Blake projects.  There were encouraging<lb/>
+                        letters and contributions from Blake scholars in seven different countries.<lb/>
+                        This modest first issue is the result, and it is now up to you whether<lb/>
+                        the project deserves to be continued.<lb/>
+                        As far as editorial policy is concerned, I think the Newsletter<lb/>
+                        should be just that — not an incipient journal.  (Enough are born, even<lb/>
+                        too many, without these arts).  It will include announcements, queries,<lb/>
+                        controversy, and notes of special interest to Blake scholars — all of an<lb/>
+                        informal nature (a “family wall-newspaper,” as David Erdman puts it).<lb/>
+                        Regarding work-in-progress, my own inclination is to report on ongoing<lb/>
+                        editorial and bibliographical projects, but not on critical or scholarly<lb/>
+                        studies before they are completed.  In that way, I hope to avoid the<lb/>
+                        suggestion of “reserving” subjects.  However, I’d like to have readers’<lb/>
+                        views on this, as well as on other subjects.<lb/>
+                        I’ll undertake to publish issues of the Newsletter on October 15,<lb/>
+                        January 15, and April 15.  The subscription price will be two dollars,<lb/>
+                        which will cover the first four issues, including this one.  New readers<lb/>
+                        will receive back issues as part of their subscription — any other<lb/>
+                        arrangement would involve book-keeping complications that I’m not able to<lb/>
+                        undertake.<lb/>
+                        The second issue of the Newsletter will be dedicated to S. Foster<lb/>
+                        Damon.  Former students and associates of Professor Damon are especially<lb/>
+                        invited to contribute.<lb/>
+                        The BLAKE NEWSLETTER is edited by Morton D. Paley, Dept. of English,<lb/>
+                        University of California, Berkeley, Calif. 94720.  Subscription price:<lb/>
+                        two dollars for one year (four issues).  Please make checks payable to<lb/>
+                        Morton D. Paley.</figTranscr>
+                </figure>
+            </div1>
+			<div1 id="BQ-01-1-0000">
+				<supplied type="emend" rend="plain">
+					<table id="contents" rows="9" cols="2">
+					  <row>
+						<cell><head><title><supplied type="emend">Contents</supplied></title></head></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.introduction">The idea of having a Blake Newsletter</ref></cell>
+						<cell>1</cell>
+					  </row>
+					  <row>
+						<cell><hi rend="b">News</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.sketchbook">Blake-Varley sketchbook, edition of 
+<hi rend="i">Tiriel</hi></ref></cell>
+						<cell>2</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.tsuji">Recent Blake publications</ref><lb/>
+						<hi rend="i">compiled by Amy Tsuji</hi></cell>
+						<cell>2</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.publications">Publications and exhibitions</ref></cell>
+						<cell>4</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.grant">Suggestions for future issues of the Newsletter</ref><lb/>
+						<hi rend="i">John E. Grant, Morton D. Paley</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Notes</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.stevenson">Dura, Countess of Egremont, Cratetos</ref><lb/>
+						<hi rend="i">W. H. Stevenson</hi></cell>
+						<cell>7</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.kolker">Blake’s parody of a couplet from Dryden’s Absalom and
+Achitophel</ref><lb/>
+						<hi rend="i">Robert P. Kolker</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.hoover">Blake’s engravings for Captain John Steadman’s
+Narrative of a five years’ expedition</ref><lb/>
+						<hi rend="i">Suzanne R. Hoover</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><hi rend="b">Queries</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.druids">Druids in Annandale; Flaxman’s parson</ref><lb/>
+						<hi rend="i">W. E. Stevenson</hi></cell>
+						<cell>9</cell>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.miner">Paul Miner on Blake’s star-moon symbolism</ref></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.ostriker">Blake courses</ref><lb/>
+						<hi rend="i">Alicia Ostriker</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.erdman">Nightgowned adult in “The Little Boy Found”; errors and
+emendations</ref><lb/>
+						<hi rend="i">David V. Erdman</hi></cell>
+						<cell/>
+					  </row>
+					  <row>
+						<cell><ref type="article" issue="1.1.nights">Dating of the two Nights VII of the Four Zoas</ref></cell>
+						<cell/>
+					  </row>
+					</table>
+				</supplied>
+			</div1>
+			<div1 id="BQ-01-1-0001">
+				<note type="unreferenced" place="footer">The BLAKE NEWSLETTER is edited by Morton D. Paley, Dept. of
+English, University of California, Berkeley, Calif. 94720. Subscription price: two dollars for one year (four
+issues). Please make checks payable to Morton D. Paley.</note>
+			</div1>
+		</front>
+    </text>
+</TEI.2>

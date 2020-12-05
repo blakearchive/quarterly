@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.2.sculpture</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake, the Sculpture</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.2</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <body>
+      <div1 id="BQ-22-2-0007">
+        <pb id="p22-75" n="75"/>
+        <div2>
+          <div3>
+            <figure n="BlakeSculpture.22.2.bqscan" rend="file" width="500" height="321"></figure>
+            <head>
+              <title type="main">
+                <hi rend="i">BLAKE, THE SCULPTURE</hi>
+              </title>
+            </head>
+            <p>The sculptor Nigel Ellis is showing his figure
+                            “Blake” at St. James’ Church in
+                            Piccadilly, where Blake was christened. The hope is to raise funds so
+                            that the statue can be cast in bronze for a public
+                            monument—perhaps in Bunhill Fields, where Blake is buried.
+                            Ellis says, “I want the sculpture to embody in full, not just
+                            portray, and be elevating and enjoyable with the exuberance of Blake
+                            himself. Elsewhere, Ellis writes, “This is not strictly a
+                            portrait of Blake, although it does refer to both his life mask, the
+                            grimace of which it seeks to translate, and his wife
+                            Catherine’s drawing of him as a youth.” The statue
+                            took more than a year to complete. It was on show from 8 August to 15
+                            September in Piccadilly. For further information contact St.
+                            James’ Church, 197 Piccadilly, London W1V 9LF, or Nigel Ellis
+                            at 44 Redchurch St., Shoreditch E2 7DP England. Photograph by Nigel
+                            Ellis.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

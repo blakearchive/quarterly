@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Blake’s Copy of Dante</title>
+                <author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+		<body>
+	<pb id="p04-49" n="49"/>
+            <div1 id="BQ-04-2-0006">
+                    <byline>2. <docAuthor>
+                            <hi rend="i">RUTHVEN</hi>
+                            <name>
+                                <hi rend="i">TODD</hi>
+                            </name>:
+                        </docAuthor>
+                        <hi rend="i">C’ AN BIELÓ, GALILEA, MALLORCA, SPAIN</hi>
+                    </byline>
+                    <head>
+                        <title type="main">Blake’s Copy of Dante</title>
+                    </head>
+                    <p>“An anonymous visitor,” presumed to be William Carey, wrote an adulatory obituary of
+Blake in the <hi rend="i">Literary Gazette</hi>, 18 August 1827, in which he mentions that he saw Blake
+working from his copy of “Sessi Velutello’s Dante.” Being more optimistic than anyone of my age has any
+right to be, I began to wonder what had happened to this copy. Unless it had been destroyed by fire or by
+“enemy action,” it seemed unlikely to me that a 16th-century folio should have vanished from the face of the
+earth between 1827 and the present day. Probably, it seemed to me, either Mrs. Blake or Frederick Tatham,
+during a lean period, turned it into cash.</p>
+                    <pb id="p04-50" n="50"/>
+                    <p>Then it struck me that, working with the folio, it was more than likely that, besides
+inscribing his name upon the fly-leaf, Blake had annotated the volume. The obvious place to start asking was,
+of course, the British Museum.</p>
+                    <p>Miss Michèle Roberts, of the Bibliographical Service, after much hard work wrote to me
+that: “The British Museum possesses seven copies of <hi rend="i">Dante, con l’Espositioni di Christofero
+Landino et d’Alessandro Vellutello</hi>, two of the editions published in 1544, and one each of the editions
+published in 1551, 1564, 1571, 1578 and 1579 respectively. A copy with associations, such as the one you are
+looking for, would normally be indicated by a note in the Catalogue entry; although I checked each copy no
+trace of ownership or annotation by Blake was discernible in any of them.” Miss Roberts further mentioned that
+the Bodleian Library possesses at least the 1544 edition.</p>
+                    <p>Although I have had no success so far, I have a feeling that some Dante scholar,
+somewhere, is nursing a copy of one of these editions and, being interested in the book only for his own
+purposes, may well be cursing the man who scribbled over the pages notes which, to him, appear arrant
+nonsense. As I live rather remotely on a Spanish island, I have written to my friend Professor Charles
+Singleton, of Johns Hopkins University, Baltimore, and have asked him, as a Dante expert, to spread word of my
+search in a world to which I myself have no other entry, and, to extend the search even farther, I would ask
+all Blakeians who come across any copy of any edition to check it carefully.</p>
+                    <p>In the course of different research, Miss Eunice Williams, of the Fogg Art Museum,
+Harvard University, told me that the Conservation Department had been examining the versos of the Dante
+drawings there. In addition to sketches, there are some most mysterious notes, such as, I pick at random, “N
+18 next at p. 55.” Since then, I have also received, from Dr. Ursula Hoff, transcriptions of the versos of all
+the Dante drawings in the National Gallery of Victoria, Melbourne, which have the same cryptic
+annotations.</p>
+                    <p>Of course, any investigation of these mysteries is quite outside my capabilities, but I
+started wondering whether, considering the elaborate commentary contained in the Vellutello editions, these
+notes might not be connected with one or another of them. By great good fortune, according to a letter from
+Mrs. E. I. Wicks, also of the Melbourne gallery, Mr. Nicholas Draffin, Assistant Curator, Prints and Drawings,
+is at present studying for twelve months at the British Museum.</p>
+                    <p>All I have been able to do so far is to try to pass on my suggestion about the notes
+being, in some way, related to one or another of the Vellutello editions to Mr. Draffin, and all I can do is
+to wish him success in cracking what, to me here on a mountainside, appears a code which would defy a computer
+or the best minds in the Pentagon.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

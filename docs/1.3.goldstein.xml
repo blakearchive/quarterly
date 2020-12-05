@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.3.goldstein</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="poem">Sermon by Mr. Blake</title>
+				<author n="Goldstein">Laurence Goldstein</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.3</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>S. Foster Damon</name>
+                            <name>Alvin H. Rosenfeld</name>
+                            <name>Laurence Goldstein</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <div1 id="BQ-01-3-0003">
+            <pb id="p01-5" n="5"/>
+				<head>
+					<title type="main">SERMON BY MR. BLAKE</title>
+				</head>
+				<p>for S. Foster Damon</p>
+                <p>
+				No man can keep the rose from death;<lb/>
+				by breathing back the borrowed sun<lb/>
+				it makes infirmity of god-<lb/>
+				head rooted in the hoary earth;<lb/>
+				the power lies in what consumes,<lb/>
+				not what is eaten up. Who lives<lb/>
+				in fire praises energy;<lb/>
+				he feels no spider crawl beneath<lb/>
+				the fallen leaf, his eyes intense<lb/>
+				with coming next refuse the sun-<lb/>
+				light as a yellow unguent<lb/>
+				effacing flame. He dwells inside<lb/>
+				a city out of space, a source<lb/>
+				immune from ever stepping back<lb/>
+				(the burning bush before the gate<lb/>
+				returns the timid to a life-<lb/>
+				time of tormenting flies); beside<lb/>
+				the fiery fountains what is wrought<lb/>
+				can never die; enslavement to<lb/>
+				the cycles of the sun becomes<lb/>
+				a dream upon awakening.<lb/>
+				We give its colors to the rose;<lb/>
+				all beauty we adore is what<lb/>
+				we conjure up and sprinkle<lb/>
+				on the grasping soil. Who would lose<lb/>
+				by lack of crossing over all<lb/>
+				creation at its origin?<lb/>
+				The fire, gentlemen, the fire!<lb/>
+				There is nothing in the world<lb/>
+				but what is hammered out of flame.
+				</p>
+				<byline><docAuthor>Laurence <name>Goldstein</name></docAuthor></byline>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

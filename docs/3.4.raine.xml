@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.4.raine</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Blake and Tradition</title>
+				<author n="Raine">Kathleen Raine</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>May, 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.4</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt> 
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-89" n="89"/>
+            <div1 id="BQ-03-4-0006">
+                <div2>
+                    <head>
+                        <title type="main">2. “<hi rend="u">Blake and Tradition</hi>”</title>
+                    </head>
+                    <p>I read with great interest the review of <hi rend="u">Blake and Tradition</hi> in your
+issue of December 15th by Professor Daniel Hughes. In this review Professor Hughes states that Keynes does not
+agree with my interpretation
+<pb id="p03-90" n="90"/>
+of the Arlington Court Tempera as an illustration of Porphyry’s <hi rend="u">de Antro Nympharum</hi>,
+translated by Thomas Taylor. This is not so. Sir Geoffrey Keynes was one of the first Blake scholars to assent
+to this view, which he holds to be conclusive. I remember his asserting - as a doctor he was well able to
+judge - to my description of the gesture of the kneeling figure as that of “throwing with averted face,”
+attributed to Odysseus in this work. He has since confirmed in writing his agreement with my
+interpretation.</p>
+                    <p>I may add that he caught me out badly on another anatomical error - the sex in the
+figure in the lower panel of <hi rend="u">Jerusalem</hi> Plate 33!</p>
+                    <byline>
+                        <docAuthor>Kathleen <name>Raine</name>
+                        </docAuthor> 47 Paulton’s Square London, S. W. 3</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

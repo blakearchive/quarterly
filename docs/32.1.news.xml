@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.1.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Books Being Reviewed for Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.1</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>David Groves</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <div1 id="BQ-32-1-0008">
+      	<pb id="p32-23" n="23"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Books Being Reviewed for <hi rend="i">Blake</hi></title>
+          </head>
+          <p>The following is a list from Nelson Hilton, our Review Editor, of books currently being reviewed
+for <hi rend="i">Blake.</hi></p>
+          <p><hi rend="i">Prints and Engraved Illustrations by and After Henry Fuseli: A Catalogue
+Raisonné</hi><lb/>
+D. H. Weinglass (Scholar Press)</p>
+          <p><hi rend="i">Blake Books Supplement</hi><lb/>
+G. E. Bentley, Jr. (Oxford University Press)</p>
+          <p><hi rend="i">Ideology and Utopia in the Poetry of William Blake</hi><lb/>
+Nicholas M. Williams (Cambridge University Press, 1998)</p>
+          <p><hi rend="i">Blake’s Altering Aesthetic</hi><lb/>
+William Richey (University of Missouri Press, 1998)</p>
+          <p><hi rend="i">Locke and Blake: A Conversation across the Eighteenth Century</hi><lb/>
+Wayne Glausser (University of Florida Press, 1998)</p>
+          <p><hi rend="i">Flexible Design: Revisionary Poetics in Blake’s</hi> Vala or The Four Zoas<lb/>
+John B. Pierce (McGill-Queen’s University Press, 1998)</p>
+          <p><hi rend="i">The Romantic Reformation: Religious Politics in English Literature
+1789-1824</hi><lb/>
+Robert M. Ryan (Cambridge University Press, 1997)</p>
+          <p><hi rend="i">The Age of Caricature: Satirical Prints in the Reign of George III</hi><lb/>
+Diana Donald (Yale University Press, 1997)</p>
+          <p><hi rend="i">The Work of Writing: Literature and Social Change in Britain 1700-1830</hi><lb/>
+Clifford Siskin (Johns Hopkins University Press, 1998)</p>
+          <p><hi rend="i">Blake, Politics, and History</hi><lb/>
+Eds. Disalvo, Rosso, et al. (Garland, forthcoming).</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

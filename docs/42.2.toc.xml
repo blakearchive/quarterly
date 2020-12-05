@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>42.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2008</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2008</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">42.2</biblScope>
+            <biblScope unit="volume">42</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Helen Patricia Bruder</name>
+              <name>Robin Hamlyn</name>
+              <name>Anne K. Mellor</name>
+              <name>Justin Van Kleeck</name>
+              <name>Angus Whitehead</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2008"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_42">
+    <front id="issue_02">
+      <pb id="p42-49-50" n="49-50"/>
+      <div1 id="cover">
+      <figure n="cover.042.02.bqscan" rend="file" width="258" height="332">
+        <figTranscr>BLAKE<lb/>
+          AN ILLUSTRATED QUARTERLY<lb/>
+          From Railway Timetable to Tate Exhibit:<lb/>
+          New Prints from the <hi rend="i">Small Book of Designs</hi><lb/>
+          VOLUME 42<lb/>
+          NUMBER 2<lb/>
+          FALL 2008</figTranscr>
+      </figure>
+      </div1>
+      <div1 id="BQ-42-2-0001">
+        <table id="contents" rows="10" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.2.butlin">Tate Britain Reveals Nine New Blakes and Thirteen
+New Lines of Verse</ref>
+            			<lb/>
+<hi rend="i">By Martin Butlin and Robin Hamlyn</hi></cell>
+            <cell>
+              <hi rend="i">52</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.2.vankleeck">W.H. Stevenson, ed., <hi rend="i">Blake: The
+Complete Poems</hi>, 3rd ed.</ref><lb/>
+<hi rend="i">Reviewed by Justin Van Kleeck</hi></cell>
+            <cell>
+              <hi rend="i">73</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.2.whitehead">“M<hi rend="s">rs</hi> Chetwynd &amp; her
+Brother” and “M<hi rend="s">r</hi>. Chetwynd”</ref><lb/>
+<hi rend="i">By Angus Whitehead</hi></cell>
+            <cell>
+              <hi rend="i">75</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Discussion</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.2.bruder">Response to Anne K. Mellor</ref><lb/>
+<hi rend="i">By Helen P. Bruder</hi></cell>
+            <cell>
+              <hi rend="i">78</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="42.2.mellor">Response to Helen P. Bruder</ref><lb/>
+<hi rend="i">By Anne K. Mellor</hi></cell>
+            <cell>
+              <hi rend="i">79</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-42-2-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Zürich</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p42-51" n="51"/>
+      <div1 id="BQ-42-2-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Helen Patricia Bruder has followed and contributed to debates about Blake and gender since the
+early 1990s. She and Tristanne Connolly hope their collection <hi rend="i">Queer Blake</hi> (Palgrave,
+forthcoming) and conference Blake, Gender and Sexuality in the Twenty-First Century (London, summer 2010) will
+take these vital discussions further still.</p>
+        <p>Martin Butlin, former Keeper of the Historic British Collection at the Tate Gallery and author of
+the standard catalogue of Blake’s paintings and drawings, is at present involved in the Blake Trust
+publication of Blake’s illustrations to Blair’s <hi rend="i">The Grave.</hi></p>
+        <p>Robin Hamlyn became the William Blake specialist at the Tate Gallery when Martin Butlin retired in
+1989. His most recent Blake display at the Tate, in 2007-08, commemorated the 250th anniversary of the
+artist’s birth; he wrote the introductory essay for the facsimile edition of <hi rend="i">Poetical
+Sketches</hi> (copy Q) that accompanied the exhibition. His commentary on Edward Young’s <hi rend="i">Night
+Thoughts</hi> appeared in 2005.</p>
+        <p>Anne K. Mellor is Distinguished Professor of English and Women’s Studies at UCLA. She is the
+author of <hi rend="i">Blake’s Human Form Divine</hi> (1974), <hi rend="i">Romanticism and Gender</hi>
+(1993), and many other books and articles on British romantic-era writing, especially by women, and on
+feminist theory.</p>
+        <p>Justin Van Kleeck is an independent scholar and freelance writer in Charlottesville, Virginia.</p>
+        <p>Angus Whitehead is an assistant professor at Nanyang Technological University, National Institute
+of Education, Singapore, and editor of the <hi rend="i">Blake Journal.</hi> He is currently working on a
+microbiography focusing on William and Catherine Blake’s last years, derived from fresh archival research.
+His essay “Rehabilitating the ‘Bad’ Ancient: The Life and Times of Frederick Tatham” is forthcoming in
+<hi rend="i">Visual Culture in Britain.</hi></p>
+      </div1>
+      <div1 id="BQ-42-2-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu TELEPHONE: 585/275-3820 FAX:
+585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College Street,
+Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-42-2-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+        <p>Manuscripts are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors. No articles will be returned unless accompanied by a stamped self-addressed envelope.
+For electronic submissions, you may send a disk, or send your article as an attachment to an email message;
+please number the pages of electronic submissions. The preferred file format is RTF; other formats are usually
+acceptable.</p>
+        <p>International Standard Serial Number: 0160-628x.</p>
+        <p>Cover: Verso of <hi rend="i">The First Book of Urizen</hi> pl. 19, color printed and hand colored
+by Blake for the second copy (B) of <hi rend="i">Small Book of Designs</hi>, 1796, finished c. 1818. Private
+collection. Photo courtesy of Tate. <note type="unreferenced" place="footer">© 2008 Copyright Morris Eaves
+and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.works</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Works in Progress</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+        <pb id="p04-30" n="30"/>
+            <div1 id="BQ-04-1-0009">
+                <head>
+                    <title type="main">
+                        <hi rend="u">WORKS IN PROGRESS</hi>
+                    </title>
+                </head>
+                <p><corr type="emend">Adlard, John, <hi rend="u">The Sports of Cruelty</hi> (published by Cecil and 
+				Amelia Woolf), primarily about folklore sources of William Blake.</corr></p>
+                <p>Bogen, Nancy, a critical edition of <hi rend="u">The Book of Thel</hi> with a new
+interpretation; a study of Blake’s development as a self-styled prophet in light of 18th century Bible
+study; directing a thesis on Blake and Whitman as Visionaries.</p>
+                <p>Duerksen, Roland A., a book-length study dealing with self and society in the poetry of
+Blake, Coleridge, Keats and Shelley.</p>
+                <p>Hagstrum, Jean, a collection of essays (some already published) on Meaning in Design and
+Word; directing a dissertation: <corr type="emend">Elaine Kauvar,</corr> “Blake’s ‘Vegetable Universe’: A Study of Botanical
+Imagery and its Context.”</p>
+                <p>Helmstadter, Thomas, an article on Blake’s ideas and symbolism in selected 
+<hi rend="u">Night Thoughts</hi> illustrations.</p>
+                <p>Johnson, Mary Lynn, a study of the relationship of the Bard’s song to the rest of the
+poem in <hi rend="u">Milton.</hi>
+                </p>
+                <p>Singer, June, <hi rend="u">The Unholy Bible</hi>, a psychological study of Blake (item
+contributed by Mary Lynn Johnson).</p>
+                <p>Spencer, Jeffry, a study of Blake’s illustrations to Milton’s poetry.</p>
+                <p>Todd, Ruthven, a new, annotated edition of Gilchrist’s <hi rend="u">Life</hi>; a
+“Pictureback” on Blake to be published by Studio Vista/Dutton; a study of Blake’s illustrative techniques to
+be called <hi rend="u">William Blake: The Technical Man.</hi>
+                </p>
+                <p>Tolley, Michael J., Ph.D. thesis: “William Blake’s use of the Bible”; a project to edit
+(for the Clarendon Press) Blake’s <hi rend="u">Night Thoughts</hi> illustrations, co-editor with John E.
+Grant, Edward J. Rose (coordinated by David V. Erdman); articles: one on “The Fly” in the next issue of 
+<hi rend="u">Blake Studies</hi> (an exchange with Hagstrum); one on <hi rend="u">Europe</hi> in the Princeton
+collection edited by Erdman and Grant.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.2.winter</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Winter Issue</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.2</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Donald Fitch</name>
+              <name>Andrew M. Stauffer</name>
+              <name>Mei-Ying Sung</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <body>
+      <div1 id="BQ-35-2-0008">
+		<pb id="p35-63" n="63"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Winter Issue</hi>
+            </title>
+          </head>
+          <p>Upcoming in our winter 2001/2002 issue: Robert N. Essick and Joseph Viscomi undertake “An
+Inquiry into Blake’s Method of Color Printing,” and Martin Butlin details some Blake watercolors that have
+come to light.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

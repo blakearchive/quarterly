@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.4.taylor</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Text for the Enoch Drawings</title>
+                <author n="Taylor">Peter Alan Taylor</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1974</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1974</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.4</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1974"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-4-0002">
+                <pb id="p07-82" n="82"/>
+                <div2>
+                    <byline>
+                        <docAuthor>Peter Alan <name>Taylor</name>
+                        </docAuthor>
+                    <ref target="n26" type="note">*</ref></byline>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">
+                                <hi rend="i">Blake’s Text for the</hi> Enoch <hi rend="i">Drawings</hi>
+                            </hi>
+                        </title>
+                    </head>
+                    <p>Five of William Blake’s drawings after the apocryphal <hi rend="i">Book of
+Enoch</hi>, now housed in the Rosenwald collection of the Library of Congress, were at one time in the
+possession of Allan R. Brown, who attempted to explain the drawings and their relation to one another by
+matching a passage in <hi rend="i">The Book of Enoch</hi> to each of the drawings.<supplied type="spacer"> </supplied><ref target="n11" type="note">1</ref> Brown does not cite the version of <hi rend="i">Enoch</hi> he
+used in his commentary, but his observation that a translation of <hi rend="i">Enoch</hi> was published in
+Blake’s lifetime has led succeeding scholars to believe that Brown had used the translation available to
+Blake. On the contrary, Brown used a translation, by R. H. Charles, that did not appear until some eighty-five
+years after Blake’s death.<supplied type="spacer"> </supplied><ref target="n12" type="note">2</ref> The only
+text available to Blake was one translated by Richard Laurence in 1821.<supplied type="spacer"> </supplied><ref target="n13" type="note">3</ref> Brown, in addition, took liberties with even the Charles
+text, by not indicating omissions in the text he printed and by interpolating some passages into the midst of
+others without indicating that he had done so. Following Brown without comment and also without citing any
+specific <hi rend="i">Enoch</hi> text, Geoffrey Keynes reproduced the five drawings in his 
+<hi rend="i">Blake’s Pencil Drawings, Second Series</hi> (1956). 
+                        <note id="n26">
+                            <hi rend="i">Peter Alan Taylor teaches in the Department of English at the
+University of British Columbia.</hi>
+                        </note>
+                        <note id="n11">
+                            <hi rend="s">1</hi> “Blake’s Drawings for the <hi rend="i">Book of Enoch</hi>,”
+<hi rend="i">The Burlington Magazine</hi>, 78 (1940), 80-[85].</note>
+                        <note id="n12">
+                            <hi rend="s">2</hi><hi rend="i"> The Book of Enoch or 1 Enoch: Translated from the
+Editor’s Ethiopic Text</hi> (Oxford, 1912). Brown may have used, instead, <hi rend="i">The Book of
+Enoch</hi>, ed. <corr type="emend">W. O. E. Oesterley</corr> (London, 1917), which uses Charles’ 1912 text but which was distributed in
+a popular edition by the Society for Promoting Christian Knowledge.</note>
+                        <note id="n13">
+                                <hi rend="s">3</hi><hi rend="i"> The Book of Enoch the Prophet</hi> (Oxford,
+1821). An earlier translation of a portion of <hi rend="i">Enoch</hi> exists in pamphlet form in the British
+Museum: Aristeas, <hi rend="i">The History of the Angels and their Gallantry with the Daughters of Men</hi>,
+trans. Mr. Lewis (London: J. Hooke and T. Caldecott, 1715), pp. 179-96. But since it is mentioned neither by
+Laurence or by Charles, it is unlikely that it was known in Blake’s time.
+                        </note>
+                    </p>
+                    <p>While my note does not offer an alternative interpretation, it does seek to demonstrate
+that Brown’s reading of the <hi rend="i">Enoch</hi> drawings rests on the use of a text that Blake could not
+have seen. Although he may be correct in reading some of the drawings according to passages in the Charles
+translation, Brown’s case for others becomes much less compelling when we compare those passages to
+equivalent passages from the Laurence translation.</p>
+                    <p>The first two drawings, [A] and [B], (as numbered by both Brown and Keynes) might well,
+as Brown claims, represent the descent of the angels, their union with “the daughters of man,” and the
+consequent birth of the giants. But Brown prints as a single, continuous narrative what are actually
+selections from several chapters of the Charles translation and which, in some cases, are worded quite
+differently in the Laurence translation. The following parallel transcription indicates the extent of
+Brown’s alterations of the text: 
+                        <pb id="p07-83" n="83"/>
+                        <figure n="BUT827.1.1.PD" rend="file" width="823" height="1000">
+                            <head>[A] <hi rend="i">The Book of Enoch</hi>: “Two Angels Descending to a
+Daughter of Man” (?).</head>
+                            <figDesc>National Gallery of Art, Rosenwald Collection.</figDesc>
+                        </figure>
+                        <figure n="BUT827.1.2.PD" rend="file" width="768" height="1000">
+                            <head>[B] <hi rend="i">The Book of Enoch</hi>: “An Angel Telling a Daughter of Man
+the Secrets of Sin” (?).</head>
+                            <figDesc>National Gallery of Art, Rosenwald Collection.</figDesc>
+                        </figure>
+                        <table rows="6" cols="2">
+                            <row>
+                                <cell>
+                                    <hi rend="i">Brown’s Text (Charles, 1912)</hi>
+                                    <ref target="n14" type="note">4</ref>
+                                    <note id="n14">
+                                        <hi rend="s">4</hi> I have followed the divisions into chapters and
+verses of both the Laurence and the Charles text.</note>
+                                </cell>
+                                <cell>
+                                    <hi rend="i">Blake’s Text (Laurence, 1821)</hi>
+                                </cell>
+                            </row>
+                            <row>
+                                <cell>[VI.1] And it came to pass in the days when the children of men had
+multiplied that there were born unto them beautiful and comely daughters. [2] And the angels, the children of
+heaven, saw and lusted after them, and said to one another: “Come, let us choose wives for ourselves from
+among the children of men and beget us children.”</cell>
+                                <cell>[VII.1] It happened after the sons of men had multiplied in those days,
+that daughters were born unto them elegant and beautiful. [2] And when the angels, the sons of heaven, beheld
+them, they became enamoured of them, saying to each other; Come, let us select for ourselves wives from the
+progeny of men, and let us beget children.</cell>
+                            </row>
+                            <row>
+                                <cell>[With no indication, Brown here omits verses 3, 4 and 5 of
+Charles’ text.] [6] And they were in all two hundred who descended . . . [Here, Brown omits, again without
+indication, the following words, as well as two further complete verses: “in the days of Jared on the summit
+of Mount Hermon.”]</cell>
+                                <cell>[7] Their whole number was two hundred who descended upon Ardis, the
+summit of Mount Armon.</cell>
+                            </row>
+                            <row>
+                                <cell>[VII.1] . . . took unto themselves wives, and each chose for himself
+one, and they began to go in unto them, . . . and they taught them charms and enchantments, and the cutting of
+roots and made them acquainted with plants.</cell>
+                                <cell>[10] Then they took wives, each choosing for himself; whom they began to
+approach, and with whom they cohabited; teaching them sorcery, incantations, and the dividing of roots and
+trees.</cell>
+                            </row>
+                            <row>
+                                <cell>[Brown goes on to quote at this point a phrase that does not
+appear until two chapters later: IX.8] And revealed to them all kinds of sin. [The context of the passage from
+Ch. IX is a complaint from men to heaven <hi rend="i">after</hi> the depredations of the giants.]</cell>
+                                <cell>[IX.6] They have gone together to the daughters of men; have lain with
+them; have become polluted. [7] And have discovered crimes to them.</cell>
+                            </row>
+                            <row>
+                                <cell>[VII.2] And they became pregnant, and they bore great giants, whose
+height was three thousand ells: [3] Who consumed all the acquisitions of men. And when men could no longer
+sustain them, [4] The giants turned against them and devoured mankind. [5] And they began to sin against
+birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood.</cell>
+                                <cell>[VII.11] And the women conceiving brought forth giants; [12] Whose
+stature was each three hundred cubits. These devoured all which the labour of men produced; until it became
+impossible to feed them; [13] When they turned themselves against men, in order to devour them; [14] And began
+to injure birds, beasts, reptiles, fishes, to eat their flesh after one another, and to drink their
+blood.</cell>
+                            </row>
+                        </table>
+Brown has thus radically simplified the <hi rend="i">Enoch</hi> text, leaving out anything that does not fit
+into what he takes to be a version of the fall in Blake’s myth: the descent into generation, the subsequent
+dominance of the female and the chaos that results.</p>
+                    <p>As further evidence that the two male figures in the first drawing [A] represent the
+angels descending to the daughters of men, Brown, followed by Keynes, calls the puzzling shapes at the loins
+of the male figures “phallic attributes.” In explanation he alludes to one of Enoch’s later visions where
+the angels, as Brown says demurely, “with somewhat disconcerting bluntness are so represented” (p. 83). The
+context of this later vision is an allegory of the history of Israel which recapitulates the story of the
+descent of the angels in terms of animals: the daughters of men as white cows, the angels as stars and the
+<pb id="p07-84" n="84"/>
+                        <figure n="BUT827.1.3.PD" rend="file" width="724" height="1000">
+                            <head>[C] <hi rend="i">The Book of Enoch</hi>: “Daughter of Man as Siren”
+(?).</head>
+                            <figDesc>National Gallery of Art, Rosenwald Collection.</figDesc>
+                        </figure>
+resulting monsters as elephants, camels and asses. Laurence translates this part of the allegory as follows:
+<q>
+[LXXXV.4] . . . I saw many stars which descended and projected themselves where the first star was, [5] Into
+the midst of the young ones; while the cows were with them, feeding in the midst of them. [6] I looked at and
+observed them; when behold, they all protruded their parts of shame like horses, and began to ascend the young
+cows, all of whom became pregnant, and brought forth elephants, camels and asses.
+</q>
+                    </p>
+                    <p>In spite of Brown’s incorrect report of the text available to Blake, then, the first
+<hi rend="i">Enoch</hi> drawing [A] probably does illustrate the descent of the angels to the daughters of
+men. And the second drawing [B], with a descending angel whispering secrets into the ear of an acquiescent
+female figure and with large forms emerging on either side, might further illustrate, as Brown claims, the
+teaching of forbidden knowledge together with the emergence of the giants, as narrated in chapter VII of
+Laurence’s translation, quoted above. Brown’s interpretation of the set of five drawings, though, depends
+upon what he considers a sequence in which the third drawing [C] represents the consequences of the actions
+portrayed in the first two, connecting [B] and [C] by what he sees as a “scaly covering” (p. 83) on the
+descending angel in the second drawing. While the scales on the arising female figure of the third drawing are
+clearly a part of its iconography, the scales that Brown sees on the angel of [B] are, at the most,
+conjectural and motivated more, it seems, by the demands of Brown’s argument than by a close observation of
+the drawing.</p>
+                    <p>The most serious difficulty, however, arises with Brown’s interpretation of the
+drawing that he calls the third of the sequence, [C], which he, followed by Keynes, has entitled, “The
+Daughter of Man become a Siren.” For evidence, Brown prints this part of the Charles text as if it continued
+immediately after the passage about the rampage of the giants, quoted above. But in <hi rend="i">The Book of
+Enoch</hi> the crucial final part of the passage that Brown offers as evidence does not appear until some
+eleven chapters after the episode of the descent of the angels. Brown conflates the passages as follows:
+<q>
+And there arose much godlessness, and they committed fornication and were led astray and become corrupt in all
+their ways. And the whole earth was filled with blood and unrighteousness. And the women also of the angels
+who went astray became sirens. (p. 83)
+</q>
+                    </p>
+                    <p>In both translations, moreover, the episode of the descent of the angels and their
+seduction of the daughters of men is treated as a kind of historical narrative which precedes the actual
+prophetic visions of Enoch. The final sentence that Brown has taken from the Charles translation
+<pb id="p07-85" n="85"/>
+                        <figure n="BUT827.1.4.PD" rend="file" width="748" height="1000">
+                            <head>[D] <hi rend="i">The Book of Enoch</hi>: “Enoch Standing Before the Throne
+of the Great Glory” (?).</head>
+                            <figDesc>National Gallery of Art, Rosenwald Collection.</figDesc>
+                        </figure>
+                        <figure n="BUT827.1.5.PD" rend="file" width="667" height="1000">
+                            <head>[E] <hi rend="i">The Book of Enoch</hi>: “The Son of Man as the Messiah,
+with Four Attendant Spirits” (?).</head>
+                            <figDesc>National Gallery of Art, Rosenwald Collection.</figDesc>
+                        </figure>
+does not appear until one of these later visions in which Enoch is shown by the angel Uriel the place where
+the reprobate angels and the women with whom they have sinned are to be punished. Indicating no interruption
+of text or change of narrative mode here, Brown has conflated three separate passages into one, as revealed by
+the following parallel transcriptions:
+<table rows="4" cols="2">
+                            <row>
+                                <cell>
+                                    <hi rend="i">Charles (1912)</hi>
+                                </cell>
+                                <cell>
+                                    <hi rend="i">Laurence (1821)</hi>
+                                </cell>
+                            </row>
+                            <row>
+                                <cell>[VIII.2] And there arose much godlessness and they committed fornication
+and were led astray and became corrupt in all their ways.</cell>
+                                <cell>[VIII.2] Impiety increased; fornication multiplied; and they
+transgressed and corrupted all their ways.</cell>
+                            </row>
+                            <row>
+                                <cell>[IX.9] . . . And the whole earth has thereby been filled with blood and
+unrighteousness.</cell>
+                                <cell>[IX.9] . . . Thus has the whole earth been filled with blood and
+iniquity.</cell>
+                            </row>
+                            <row>
+                                <cell>[XIX.2] And the women also of the angels who went astray shall become
+sirens.</cell>
+                                <cell>[XIX.2] . . . and their wives also shall be judged, who led them astray
+that they might salute them.</cell>
+                            </row>
+                        </table>
+In identifying the woman of [C] as a siren, then, Brown has reached a conclusion that Blake could not have
+intended from the text available to him, a text that does not use the word <hi rend="i">sirens</hi> or
+anything like it.</p>
+                    <p>If the first three drawings constitute the Blakean version of the fall, according to
+Brown’s interpretation, the next two, [D] and [E], constitute a countervailing movement, the apotheosis of
+the prophet Enoch and the appearance of Jesus as the Messiah. Accordingly, the fourth drawing [D], in which
+two figures kneel before another figure
+seated on a throne, illustrates one of Enoch’s visions wherein he appears, according to Brown’s caption,
+“with an angel before the Great Glory” (p. 83). The passage that Brown quotes, but again does not cite, comes
+from the fourteenth chapter of the Charles translation which ends:
+<q>
+And one of the holy ones came to me and waked me, and He made me rise up and approach the door: and I bowed my
+face [Brown: “head”] downwards. . . .
+</q>
+Although this passage accounts for the two figures before the throne in Blake’s drawing, the equivalent
+passage in Laurence does not admit this second figure:
+<q>
+[XIV.24] Then the Lord with his own mouth called me, saying; Approach hither, Enoch, at my holy word.<lb/>
+[25] And he raised me up, making me draw near even to the entrance.
+</q>
+There are, however, at least two other passages later on in the Laurence translation of 
+<hi rend="i">Enoch</hi> in which the prophet is brought before the throne of the Almighty, and in both of them the
+text portrays Enoch presented by an angel.<supplied type="spacer"> </supplied><ref target="n15"
+type="note">5</ref>
+                        <note id="n15"><hi rend="s">5</hi> Chapters LVIII<hi rend="s">a</hi> and LXXX.</note>
+                    </p>
+                    <p>The last of the five drawings [E], according to Brown’s ordering, with its four
+female figures
+<pb id="p07-86" n="86"/>
+encircling the central, Christ-like figure, might, as Brown proposes, illustrate the passage he suggests from
+the Charles translation:
+<q>
+[XLIX.3] And in him dwells the spirit of wisdom,<lb/>
+And the spirit which gives insight,<lb/>
+And the spirit of understanding and of might,<lb/>
+And the spirit of those who have fallen asleep in righteousness.
+</q>
+Seeing the four figures of [E] as the four spirits enumerated in the Charles text, Brown associates them with
+“counterparts [emanations?] of the four archangels [Zoas?]” (p. 84). Here again, though, Brown has modified
+the Charles text considerably, printing as prose what Charles has rendered as verse, and omitting, without
+indication, some nineteen verses in the middle of the scene that he reports from Charles. The text to which
+Blake had access translates the relevant passage in a slightly different manner:
+<q>
+[XLVIII<hi rend="s">b</hi>.3] With him dwells the spirit of intellectual wisdom, the spirit of instruction and
+of power, and the spirit of those who sleep in righteousness. . . .
+</q>
+Although this passage could be read as distinguishing four separate spirits, the punctuation and the absence
+of a plural on the
+                        <figure n="BUT812.1.11v.PD" rend="file" width="707" height="1000">
+                            <head>[F] <hi rend="i">The Book of Enoch</hi>: the sixth of the series, recently
+discovered by John E. Grant on the verso of Blake’s “Circle of Carnal Sinners,” one of the Dante
+designs.</head>
+                            <figDesc>Reproduced by permission of the Fogg Art Museum, Harvard
+University.</figDesc>
+                        </figure>
+word <hi rend="i">spirit</hi> in the phrase “the spirit of instruction and of power” makes the argument
+somewhat less compelling. Rather than illustrating the triumphant Messiah and “the fourfold nature of man”
+(p. 84), as Brown interprets it, the drawing could as easily illustrate Blake’s notion of the “generation”
+of Jesus by a collective female will, analogous to the Jesus in <hi rend="i">The Four Zoas</hi> who assumes
+“the dark Satanic body in the Virgin’s womb” (8.241).</p>
+                    <p>Considering the five drawings as a complete set, Brown’s interpretation seeks to
+trace through them the whole Blakean cycle from the fall to the triumphant reappearance of the Messiah.
+However, an additional Blake drawing for <hi rend="i">Enoch</hi> [F] has recently been discovered by John E.
+Grant, making the sixth so far to come to light. This discovery renders suspect any such simple correspondence
+as that proposed by Brown, and it suggests that Blake may have done still other drawings, any of which may
+lead us to reformulate our notions about how the individual drawings relate to one another and about how Blake
+interpreted the Laurence translation of <hi rend="i">The Book of Enoch.</hi> Allan Brown may not have been a
+Blake scholar, but his conclusions have for too long been accepted by those who are. Though this note does not
+propose an alternative interpretation of the <hi rend="i">Enoch</hi> drawings, it will at least have begun to
+sweep the interpreter’s parlor.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

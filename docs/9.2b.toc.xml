@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.2b.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>December 28, 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.2b</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">2b</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>David Schnur</name>
+              <name>Jean Stalker</name>
+              <name>Donald Weeke</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+              <resp>Design and layout for this booklet</resp>
+              <name>Virginia Masi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <front>
+	  <pb id="p09-2b-i" n="i"/>
+      <div1 id="cover">
+        <figure n="cover.009.02b.bqscan" rend="file" width="258" height="337">
+          <figTranscr>Blake’s Visions of the Last Judgment<lb/>
+		  <lb/>
+		  MLA Blake Seminar, December 28, 1975<lb/>
+		  Continental Room, Hilton Hotel, San Francisco<lb/>
+		  Discussion Leader, Morton D. Paley, Boston University</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-09-2b-0001">
+        <head>
+          <title type="main">
+            <hi rend="b">Blake’s Visions of the Last Judgment</hi>
+          </title>
+        </head>
+        <p>MLA Blake Seminar, December 28, 1975<lb/>
+		  Continental Room, Hilton Hotel, San Francisco<lb/>
+		  Discussion Leader, Morton D. Paley, Boston University</p>
+		<supplied type="emend" rend="plain">
+        <table id="contents" rows="4" cols="2">
+          <row>
+            <cell>
+            	<head>
+            		<title><supplied type="emend"><hi rend="b">Contents</hi></supplied></title>
+            	</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.2b.paley">MLA Blake Seminar 1975</ref><lb/>
+			<hi rend="i">By Morton D. Paley</hi></cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.2b.plates">Plates and Editorial Note</ref></cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.2b.mitchell">Blake’s Visions of the Last Judgment: Some
+Problems in Interpretation</ref><lb/>
+			<hi rend="i">By W. J. T. Mitchell</hi></cell>
+            <cell>7</cell>
+          </row>
+        </table>
+		</supplied>
+      </div1>
+    </front>
+	<body>
+	  <pb id="p09-2b-1" n="1"/>
+      <div1 id="BQ-09-2b-0002">
+		<note type="unreferenced">This booklet is published by the <hi rend="i">Blake Newsletter, An Illustrated
+Quarterly</hi>. Editors: Morris Eaves, University of New Mexico and Morton D. Paley, Boston University.
+Associate Editor for Great Britain: Frances A. Carey, Assistant Curator, Department of Prints &amp; Drawings,
+British Museum. Editorial Assistants: Virginia Masi, David Schnur, Jean Stalker, and Donald Weeke, University
+of New Mexico. Circulation Manager: Debra Sackett, University of New Mexico. Design and layout for this
+booklet: Virginia Masi.</note>
+	  </div1>
+	</body>
+  </text>
+</TEI.2>

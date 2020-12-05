@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.glasgow</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blakes in Glasgow</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+			<biblScope unit="volIss">08.3</biblScope>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <div1 id="BQ-08-3-0002">
+      	<pb id="p08-52" n="52"/>
+          <head>
+            <title type="main">
+              <hi rend="b">Blakes in Glasgow</hi>
+            </title>
+          </head>
+          <p>The copies of <hi rend="i">Visions of the Daughters of Albion</hi> (Keynes and Wolf, copy C) and
+<hi rend="i">Europe</hi> (Keynes and Wolf, copy B) from the collection of Lord Cunliffe are now on deposit at
+the Glasgow University Library, together with a copy of the <hi rend="i">Descriptive Catalogue</hi> and its
+unique advertisement.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

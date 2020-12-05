@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.1.birthday</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Birthday Wishes to Marià Manent</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1988</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1988</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.1</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Shelley M. Bennett</name>
+              <name>Martin Butlin</name>
+              <name>Aethelred Eldridge</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Janet Warner</name>
+              <name>Joseph Wittreich</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <body>
+      <div1 id="BQ-22-1-0009">
+      	<pb id="p22-30" n="30"/>
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">BIRTHDAY WISHES TO MARIÀ MANENT</hi>
+            </title>
+          </head>
+          <p>John Adlard of Holland Road in London reminds us that 1988 will bring the ninetieth birthday of
+Marià Manent, the man who translated Blake’s prophetic books into Catalan (<hi rend="i">Libres Profètics
+de William Blake</hi>, Barcelona: Edicions 62, 1962). Adlard goes on to say that “Stephen Spender considers
+Manent the finest living Catalan poet.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

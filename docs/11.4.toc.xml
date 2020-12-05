@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.4</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Marietta Barnes</name>
+              <name>Lynn Goldstein</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Susan Fox</name>
+              <name>Laurence Goldstein</name>
+              <name>Janice Lyle</name>
+              <name>Morton D. Paley</name>
+              <name>Ronald Paulson</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <front>
+      <pb id="p11-213-214" n="213-214"/>
+      <div1 id="cover">
+        <figure n="cover.011.04.bqscan" rend="file" width="258" height="327">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 44<lb/>
+            Volume Eleven<lb/>
+            Number Four<lb/>
+            Spring 1978</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-11-4-0001">
+        <table id="contents" rows="13" cols="2">
+        	<row>
+        		<cell>
+        			<head>
+          				<title>
+            				<hi rend="b">CONTENTS</hi>
+          				</title>
+        			</head>
+        		</cell>
+        	</row>
+        	<row> 
+                <cell><ref type="article" issue="11.4.lyle">Handlist of the Essick Blake Collection
+</ref><lb/>
+by Janice Lyle</cell>
+                <cell>216</cell>
+            </row>
+        	<row>
+        		<cell><ref type="article" issue="11.4.essick">Handlist of the Huntington Blake Collection
+</ref><lb/>
+by Robert N. Essick</cell>
+        		<cell>236</cell>
+        	</row>
+            <row>
+            	<cell><ref type="article" issue="11.4.paley">Handlists of Four Blake Collections </ref><lb/>
+ by Morton D. Paley </cell>
+            	<cell>260</cell>
+            </row>
+            <row>
+            	<cell> 
+            		<hi rend="b">REVIEWS</hi> 
+            	</cell>
+            	<cell/>
+            </row> 
+            <row>
+            	<cell><ref type="article" issue="11.4.fischer">The Legacy of English Romanticism: Northrop Frye
+and William Blake, a review-essay </ref><lb/>
+ by Michael Fischer </cell> 
+                <cell>276</cell> 
+            </row>
+            <row> 
+            	<cell><ref type="article" issue="11.4.goldstein">Michael G. Cooke’s <hi rend="i">The Romantic
+Will</hi>  </ref><lb/>
+ reviewed by Laurence Goldstein </cell>
+            	<cell>284</cell>
+            </row>
+            <row> 
+                <cell><ref type="article" issue="11.4.worrall">Joan Evans’ <hi rend="i">A History of the
+Society of Antiquaries</hi></ref> reviewed by David Worrall </cell> 
+                <cell>287</cell>
+            </row>
+            <row>
+            	<cell><ref type="article" issue="11.4.fox">Michael Davis’ <hi rend="i">William Blake: A New
+Kind of Man</hi>  </ref><lb/>
+ reviewed by Susan Fox </cell>
+            	<cell>289</cell>
+            </row>
+            <row> 
+                <cell><ref type="article" issue="11.4.paulson">Joan Dolmetsch’s <hi rend="i">Rebellion and
+Reconciliation</hi> and Gary Kelly’s <hi rend="i">The English Jacobin Novel 1780-1805</hi></ref> reviewed by
+Ronald Paulson  </cell>
+                <cell>291</cell> 
+            </row>
+            <row> 
+                <cell>
+                	<hi rend="b">NEWSLETTER</hi>
+                </cell> 
+                <cell/> 
+            </row>
+            <row>
+            	<cell>
+            		<ref type="article" issue="11.4.theft">Blake Theft Foiled</ref>, 
+            		<ref type="article" issue="11.4.swedenborg">Swedenborg $3000</ref>, 
+            		<ref type="article" issue="11.4.job"><hi rend="i">Job</hi> in Frankfurt Schauspielhaus</ref>, 
+            		<ref type="article" issue="11.4.jefferys">James Jefferys Update</ref>, 
+            		<ref type="article" issue="11.4.mla">MLA Blake Seminar 1979</ref>, 
+            		<ref type="article" issue="11.4.jung">Papers on Jung </ref>
+            	</cell> 
+                <cell>298</cell> 
+            </row>
+        </table>
+        <figure n="NewsletterTOC.11.4.bqscan" rend="file" width="400" height="166"/>
+      </div1>
+      <div1 id="BQ-11-4-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <figure n="ContributorsTOC.11.4.bqscan" rend="file" width="500" height="471"/>
+        <p>ROBERT N. ESSICK is a Professor of English at the California State University, Northridge.</p>
+        <p>SUSAN FOX is Associate Professor of English at Queens College, City University of New York, and the
+author of <hi rend="i">Poetic Form in Blake’s Milton.</hi> Her poetry has appeared in the 
+<hi rend="i">Chicago Review</hi> and <hi rend="i">The Paris Review.</hi></p>
+        <p>LAURENCE GOLDSTEIN is an Associate Professor of English at the University of Michigan. The
+University of Pittsburgh Press has recently published his book, <hi rend="i">Ruins and Empire: The Evolution
+of a Theme in Augustan and Romantic Literature.</hi> He is the editor of the <hi rend="i">Michigan Quarterly
+Review.</hi></p>
+        <p>JANICE LYLE is an advanced graduate student in Art History at the University of California, Santa
+Barbara. She has previously published entries in the exhibition catalogue <hi rend="i">William Blake in the
+Art of His Time</hi> and is currently preparing an article on Blake’s debt to Flaxman, based on a paper
+delivered at the College Art Association in New York in January 1978.</p>
+        <p>MORTON D. PALEY is Co-Editor of <hi rend="i">Blake.</hi> His <hi rend="i">William Blake</hi>, an
+illustrated introduction to Blake’s art, was recently published by Phaidon.</p>
+        <p>RONALD PAULSON, Professor of English at Yale, is writing a book on representations of the French
+Revolution. He is the author of the standard catalogue of Hogarth’s engravings, a book on Rowlandson, and
+<hi rend="i">Emblem and Expression</hi>, a study of eighteenth-century art.</p>
+        <p>DAVID WORRALL teaches at the Royal Grammar School, Newcastle-Upon-Tyne. An article on 
+<hi rend="i">Jerusalem</hi> and British antiquity recently appeared in <hi rend="i">Studies in Romanticism.</hi>
+	<note type="unreferenced" place="footer">Copyright © 1978 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+      <pb id="p11-215" n="215"/>
+      <div1 id="BQ-11-4-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="EditorsTOC.11.4.bqscan" rend="file" width="500" height="849"/>
+      </div1>
+      <div1 id="BQ-11-4-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="InformationTOC.11.4.bqscan" rend="file" width="500" height="414"/>
+        <p>EDITORIAL ASSISTANTS: Marietta Barnes &amp; Lynn Goldstein, Univ. of New Mexico.</p>
+        <p><supplied type="emend">COVER: Drawing by David Levine. Reprinted with permission 
+from <hi rend="i">The New York Review of Books.</hi> Copyright © 1970 New York Review, Inc.</supplied></p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $7 for 1 year, 1 volume, 4 issues. Special rate for individuals, $6, surface
+mail. $10 for subscribers overseas who prefer air mail. U. S. currency or international money order if
+possible. Make checks payable to Blake/ An Illustrated Quarterly. Address all subscription orders &amp;
+related communications to the Circulation Mgr., Jane Welford, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+of New Mexico, Albuquerque, NM 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Jane Welford. Prices: whole numbers 1-8 (bound together),
+#9-13 (bound together), $5 each (individuals, $4). #22-present, $2 each, except #35 (Checklist of Blake
+Material in Rosenwald Collection, ed. Ruth Fine Lehrer), $3. #14-21, 41 &amp; 42 are out of print.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/ An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitston Pub.).</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

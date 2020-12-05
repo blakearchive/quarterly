@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.3.animated</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Animated Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1998/99</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998/99</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.3</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Eugenie R. Freed</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>J.B. Mertz</name>
+              <name>Jennifer Davis Michael</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998/9"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <pb id="p32-86" n="86"/>
+      <div1 id="BQ-32-3-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">The Animated Blake</hi>
+            </title>
+          </head>
+          <p>James Jay is creating a juggling show, “The Animated Blake,” which will premiere at the
+Seattle Fringe Festival in March, 1999. Blake’s work will be illuminated by a variety of physical arts:
+juggling, movement, staff spinning, incense burner swinging, puppetry, and book manipulation. The audience
+will be served a fortune cookie communion featuring the Proverbs of Hell. From Jay’s webpage:
+<q>
+    William Blake was considered a Freak during his lifetime and a Genius after his death. “The Animated
+Blake” embraces both the freak and the genius, illuminating the artist’s visionary poetry with juggling
+and manipulation.<lb/>
+<lb/>
+    The show follows the “routine” format of a poetry reading or musical revue. It has no plot line, but
+is shaped by an aesthetic and conceptual progression. An opposition between Innocence and Experience gives way
+to subtle blends of good and evil through the “Marriage of Heaven and Hell.” To underscore this thematic
+arrangement of the texts, the host has a split personality (a la <corr type="emend">Dr. Jekyll</corr> and Mr.
+Hyde) which merges into a single character during the marriage.<lb/>
+<lb/>
+    In addition to recitations, Blake’s poetry will be presented in musical accompaniment. The Proverbs of
+Hell will be dispensed in fortune cookies during a “communion” ceremony. Slide projections will bring
+Blake’s visual art into the show, and may convey his texts, as well.<lb/>
+<lb/>
+This literary freakshow will be created and performed by James Jay, the inventor of the high-tech Juggling
+Jukebox. The director is Jenny Iacobucci.
+</q></p>
+          <p>For a complete description, see www.jamesjay.com/wordup.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

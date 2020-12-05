@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>43.2.grotz</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="poem">The Ladder</title>
+		<author n="Grotz">Jennifer Grotz</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2009</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">43.2</biblScope>
+            <biblScope unit="volume">43</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2009"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_43">
+    <body>
+      <div1 id="BQ-43-2-0008">     
+		<pb id="p43-79" n="79"/> 
+		<div2>
+			<figure n="gates-child.d.p11" id="gates-child.d.illbk.11" work-copy="gates-child.d" rend="db" width="632" height="906">
+				<figTranscr>9<lb/>
+				I want! I want!<lb/>
+				Pubd by WBlake 17 May 1793</figTranscr>
+				<head>Image of <hi rend="i">For Children: The
+Gates of Paradise</hi> copy D, plate 11 (Library of Congress),
+by permission of the Blake Archive.</head>
+			</figure>
+			<head>
+              <title type="main">The Ladder</title>
+            </head>
+            <byline>BY <docAuthor>JENNIFER <name>GROTZ</name></docAuthor></byline>
+			<p>“I want! I want!” cries the figure climbing up the skinny ladder,<lb/>
+			such a long climb to be filled with wanting, such a long</p>
+			<p>shadow cast onto the surface of the ground<lb/>
+			while the ladder sips like a straw from the moon</p>
+			<p>it leads to, here as tiny as a rind of fingernail, suspended<lb/>
+			in the night William Blake scratched and darkened</p>
+			<p>save for seven fuzzy stars. It looks like punishment:<lb/>
+			you hook your leg on the third rung and look up,</p>
+			<p>such a long climb for what you lack. It <hi rend="i">must</hi> be said twice<lb/>
+			to show how saying does not in fact release it.</p>
+			<p>Perhaps, after climbing, you will reach the reclining crescent<lb/>
+			and sleep upon it like a hammock before you realize that home</p>
+			<p>is the barren moon below: beautiful, light-reflecting,<lb/>
+			but missing you. And if wanting is a ladder between</p>
+			<p>two moons, then the stars will hang neglected.<lb/>
+			Surely Blake made the print no larger than a playing card</p>
+			<p>so that the ladder could lean without tearing<lb/>
+			a paper sky gently pierced by stars.</p>
+			<note type="unreferenced">Reprinted from <hi rend="i">Cusp</hi> (Mariner-Houghton Mifflin, 2003)
+by permission of the author.</note>
+		</div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>41.4.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 2008</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">41.4</biblScope>
+                        <biblScope unit="volume">41</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Sarah Jones</name>
+                            <resp>Bibliographer</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <resp>Review Editor</resp>
+                            <name>Alexander S. Gourlay</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>David Worrall</name>
+                            <resp>Advisory Board</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Martin Butlin</name>
+                            <name>D.W. Dörrbecker</name>
+                            <name>Robert N. Essick</name>
+                            <name>Angela Esterhammer</name>
+                            <name>Nelson Hilton</name>
+                            <name>Anne K. Mellor</name>
+                            <name>Joseph Viscomi</name>
+                            <name>David Worrall</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Anne K. Mellor</name>
+                            <name>Grant F. Scott</name>
+                            <name>Aileen Ward</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of Rochester</publisher>
+                        <pubPlace>Rochester, NY, USA</pubPlace>
+                        <date value="2008"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_41">
+        <front>
+            <pb id="p41-137-138" n="137-138"/>
+            <div1 id="cover">
+                <figure n="cover.041.04.bqscan" rend="file" width="258" height="335">
+                    <figTranscr>BLAKE<lb/>
+                        AN ILLUSTRATED QUARTERLY<lb/>
+                        Blake in the Marketplace, 2007<lb/>
+                        VOLUME 41<lb/>
+                        NUMBER 4<lb/>
+                        SPRING 2008</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-41-4-0001">
+                <table id="contents" rows="11" cols="2">
+                    <row>
+                        <cell>
+							<head>
+								<title>CONTENTS</title>
+							</head>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Article</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.essick">Blake in the Marketplace,
+2007</ref><lb/>
+                            <hi rend="i">By Robert N. Essick</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">140</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Reviews</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.scott">Tracy Chevalier, <hi rend="i">Burning
+Bright</hi>
+                            </ref><lb/>
+                            <hi rend="i">Reviewed by Grant F. Scott</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">163</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.mellor">Helen P. Bruder, ed., <hi rend="i">Women
+Reading William Blake</hi>
+                            </ref><lb/>
+                            <hi rend="i">Reviewed by Anne K. Mellor</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">164</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Discussion</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.bentley">The Dates of 
+<hi rend="i">Jerusalem</hi>
+                            </ref><lb/>
+                            <hi rend="i">By G. E. Bentley, Jr.</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">166</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.ward">Reply to G. E. Bentley, Jr.</ref><lb/>
+                            <hi rend="i">By Aileen Ward</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">166</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Corrigendum</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="41.4.paley">To “<hi rend="i">The Last Judgment</hi>
+by ‘B. Blake,’” <hi rend="i">Blake</hi> 41.3 (winter 2007-08)</ref><lb/>
+                            <hi rend="i">By Morton D. Paley</hi>
+                        </cell>
+                        <cell>
+                            <hi rend="i">163</hi>
+                        </cell>
+                    </row>
+                </table>
+            </div1>
+            <div1 id="BQ-41-4-0002">
+                <head>
+                    <title>ADVISORY BOARD</title>
+                </head>
+                <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+                <p>Martin Butlin, London</p>
+                <p>Detlef W. Dörrbecker, University of Trier</p>
+                <p>Robert N. Essick, University of California, Riverside</p>
+                <p>Angela Esterhammer, University of Zürich</p>
+                <p>Nelson Hilton, University of Georgia</p>
+                <p>Anne K. Mellor, University of California, Los Angeles</p>
+                <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+                <p>David Worrall, The Nottingham Trent University</p>
+            </div1>
+            <pb id="p41-139" n="139"/>
+            <div1 id="BQ-41-4-0003">
+                <head>
+                    <title>CONTRIBUTORS</title>
+                </head>
+                <p>G. E. Bentley, Jr., is a recovering book collector but is still addicted to
+scholarship.</p>
+                <p>Robert N. Essick is a professor emeritus of English at the University of California,
+Riverside. Correspondence should be addressed to: Readers’ Services, Huntington Library, 1151 Oxford Road,
+San Marino, CA 91108.</p>
+                <p>Anne K. Mellor is distinguished professor of English and Women’s Studies at UCLA. She is
+the author of <hi rend="i">Blake’s Human Form Divine</hi> (1974), <hi rend="i">Romanticism and Gender</hi>
+(1993), and many other books and articles on British romantic-era writing, especially by women, and on
+feminist theory.</p>
+                <p>Grant F. Scott is professor of English at Muhlenberg College in Pennsylvania and editor of
+<hi rend="i">Selected Letters of John Keats</hi> (Harvard, 2002), <hi rend="i">Joseph Severn: Letters and
+Memoirs</hi> (Ashgate, 2005) and most recently the online edition <hi rend="i">New Letters from Charles Brown
+to Joseph Severn</hi> &lt;http://www.rc.umd.edu/editions/brownsevern/index.html&gt;. This semester he is
+teaching a senior seminar on Blake which will culminate in a student-curated exhibition of Blake’s work
+titled Wings of Fire: The Illuminated Books of William Blake (Martin Art Gallery at Muhlenberg, 19 March-19
+April 2008).</p>
+                <p>Aileen Ward (Albert Schweitzer Professor of the Humanities, Emeritus, New York University)
+is author of <hi rend="i">John Keats: The Making of a Poet</hi> and of articles and reviews on British
+romantic writers, and editor of selected works by Blake, Keats, and De Quincey. She is currently at work on a
+biography of Blake.</p>
+            </div1>
+            <div1 id="BQ-41-4-0004">
+                <head>
+                    <title>EDITORS</title>
+                </head>
+                <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+                <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+                <p>REVIEW EDITOR: Alexander S. Gourlay</p>
+                <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+                <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+                <p>MANAGING EDITOR: Sarah Jones sarah.jones@rochester.edu TELEPHONE: 585/275-3820 FAX:
+585/442-5769</p>
+                <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+                <p>Morton D. Paley, Department of English, University of California, Berkeley CA
+94720-1030<lb/>
+Email: mpaley@berkeley.edu</p>
+                <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+                <p>Alexander S. Gourlay, Department of English, Rhode Island School of Design, 2 College
+Street, Providence RI 02903-2717<lb/>
+Email: agourlay@risd.edu</p>
+                <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane,
+Nottingham NG11 8NS UK<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+            </div1>
+            <div1 id="BQ-41-4-0005">
+                <head>
+                    <title>INFORMATION</title>
+                </head>
+                <p>
+                    <hi rend="i">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the current volume. Addresses outside the US, Canada, and
+Mexico require a $20 per volume postal surcharge for airmail delivery. Credit card payment is available. Make
+checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and
+related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones for information on issues
+and prices, or consult the web site.</p>
+                <p>Manuscripts are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors. No articles will be returned unless accompanied by a stamped self-addressed envelope.
+For electronic submissions, you may send a disk, or send your article as an attachment to an email message;
+please number the pages of electronic submissions. The preferred file format is RTF; other formats are usually
+acceptable.</p>
+                <p>International Standard Serial Number: 0160-628x. <hi rend="i">Blake/An Illustrated
+Quarterly</hi> is indexed in the Modern Language Association’s International Bibliography, the Modern
+Humanities Research Association’s Annual Bibliography of English Language and Literature, Humanities
+International Complete, Arts and Humanities Citation Index, Current Contents and the Bibliography of the
+History of Art.</p>
+                <p>Cover: William Blake, <hi rend="i">Paolo and Francesca(?)</hi> (see pp. 140, 147, 148).
+Photo courtesy of Bonhams, London. <note type="unreferenced" place="footer">© 2008 Copyright Morris Eaves and
+Morton D. Paley</note>
+                </p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.sambos</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Draw the Line at Sambo’s!</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <div1 id="BQ-17-1-0008">
+        <pb id="p17-39" n="39"/>
+        <div2>
+          <figure n="DrawTheLine.17.1.bqscan" rend="file" width="250" height="313">
+          	<figTranscr>DRAW the LINE AT SAMBO’S!<lb/>
+          	<lb/>
+          	16 out of 19 workers are scheduled by management to be fired<lb/>
+          	on trumped-up charges. New management wants “new blood”;<lb/>
+          	workers who have worked there for years are being fired BECAUSE<lb/>
+          	they have worked there for years. The frivolity of the managers<lb/>
+          	and owners must cease. No one is safe. So Sambo’s workers<lb/>
+          	have chosen to resist — not only for themselves, but for<lb/>
+          	all of us who work for a living or seek work.<lb/>
+          	<lb/>
+          	JOIN THE WORKERS AT THEIR WORKPLACE<lb/>
+          	5th and Harrison<lb/>
+          	8:00 pm Thursday November 11th<lb/>
+          	<lb/>
+          	The line is drawn.</figTranscr>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

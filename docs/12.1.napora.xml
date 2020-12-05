@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.1.napora</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="poem">Trickster’s Song</title>
+                <author n="Napora">Joe Napora</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1978</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.1</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Lynn Goldstein</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Shelley Grieve</name>
+                            <name>Kris Lackey</name>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Mary Clarke</name>
+                            <name>Raymond H. Deck, Jr.</name>
+                            <name>Robert N. Essick</name>
+                            <name>Ruth E. Fine</name>
+                            <name>Frank Graziano</name>
+                            <name>Jean H. Hagstrum</name>
+                            <name>Gunnar Harding</name>
+                            <name>Christopher Heppner</name>
+                            <name>Joe Napora</name>
+                            <name>Martin K. Numri</name>
+                            <name>Morton D. Paley</name>
+                            <name>R. W. Peattie</name>
+                            <name>Marcia Tillotson</name>
+                            <name>Gunnel Tottie</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date value="1978"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <pb id="p12-39" n="39"/>
+            <div1 id="BQ-12-1-0010">
+                <head>
+                    <title type="section">
+                        <hi rend="b">POETRY</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">TRICKSTER’S SONG</hi>
+                        </title>
+                    </head>
+                    <p>After reading E. B. Murray’s “<hi rend="i">Jerusalem</hi>
+                        Reversed” in <hi rend="i">Blake Studies</hi> vol. 7 no. 1, I opened my
+                        copy of Blake—conscious of imitating Blake’s use of
+                        Bysshe—and began reading “The Voice of the Ancient Bard” as
+                        “in a mirror, darkly.” The result is not the finest poetry, but
+                        note the energy of Blake’s words is not destroyed and in some cases
+                        is enhanced with new meaning: “Her perplex roots tangled / there!”
+                        This is not meant as an example of extending Murray’s criticism or of
+                        promoting a Cabbalistic dabbling in Blake’s good book—just one
+                        poet’s playful response to England’s greatest.</p>
+					<q> Videmus nunc per speculum in aenigmate . . .<lb/>
+ Paul, I Corinthians
+                        13:12<lb/>
+                        <lb/>
+ Hither comes delight of youth,<lb/>
+ morn opening to see.
+                        And<lb/>
+ born new truth of Image.<lb/>
+                        <lb/>
+ Reason of clouds!<lb/>
+ And fled
+                        is doubt<lb/>
+ teasing artful, and dispute’s dark<lb/>
+ maze. Endless
+                        is folly’s<lb/>
+ way. Her perplex roots tangled<lb/>
+                        <lb/>
+ there!
+                        Fallen have many how<lb/>
+ dead, the bones over night.<lb/>
+ All stumble.
+                        They<lb/>
+ care but what not know they feel. And<lb/>
+ be led, should they?
+                        When others lead. Wish.<lb/>
+ And </q>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="b">Joe</hi>
+                            <name>
+                                <hi rend="b">Napora</hi>
+                            </name>
+                        </docAuthor>
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

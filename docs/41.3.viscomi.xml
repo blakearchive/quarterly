@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.3.viscomi</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Correction to “Blake’s ‘Annus Mirabilis’: The Productions of
+1795”</title>
+        <author n="Viscomi">Joseph Viscomi</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2007-08</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007-08</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.3</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>C.S. Matheson</name>
+              <name>Jennifer Davis Michael</name>
+              <name>Morton D. Paley</name>
+              <name>Wayne C. Ripley</name>
+              <name>G.A. Rosso</name>
+              <name>Justin Van Kleeck</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007/2008"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+	  <pb id="p41-135" n="135"/>
+      <div1>	
+        <head>
+          <title type="section">CORRIGENDUM</title>
+        </head>
+        <p>In “Blake’s ‘Annus Mirabilis’: The Productions of 1795,” <hi rend="i">Blake</hi> 41.2
+(fall 2007): 52-83, illus. 28b is identified in both the text and caption (65, 66) as <hi rend="i">The Song of
+Los</hi> copy C, plate 3. It is in fact plate 7 of copy E, and the credit should be to the Huntington Library,
+San Marino, California.</p>
+        <byline>
+          <docAuthor>Joseph <name>Viscomi</name></docAuthor>
+        </byline>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

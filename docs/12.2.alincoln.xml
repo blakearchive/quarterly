@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.2.alincoln</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">The Revision of the Seventh and Eighth Nights of The Four Zoas</title>
+        <author n="Lincoln">Andrew Lincoln</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.2</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Lynn Goldstein</name>
+              <name>Cynthia Lewiecki</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Special Design and Pasteup for this issue</resp>
+              <name>David Anderson</name>
+              <name>Kris Lackey</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David V. Erdman</name>
+              <name>Everett Frost</name>
+              <name>Nelson Hilton</name>
+              <name>Terrence Hoagwood</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John Kilgore</name>
+              <name>Mark Lefebvre</name>
+              <name>Andrew Lincoln</name>
+              <name>Cettina Magno</name>
+              <name>Thomas Minnick</name>
+              <name>Jeffry Spencer</name>
+              <name>Brian Wilkie</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <body>
+      <div1 id="BQ-12-2-0011">
+    	<pb id="p12-115" n="115"/>
+        <head>
+          <title type="main">
+            <hi rend="b">THE REVISION OF THE SEVENTH AND EIGHTH NIGHTS OF THE FOUR
+                            ZOAS</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">ANDREW</hi>
+            <name>
+              <hi rend="b">LINCOLN</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>The presence of two Nights headed “Night the Seventh” in <hi rend="i">The Four Zoas</hi> forces
+        			editorial choice of an uncomfortable kind. If we
+                    decide to exclude one we will exclude material which seems necessary for a full
+                    understanding of the poem. If both are included, how should we read them? We
+                    seem to be left with a narrative which is hopelessly confused. In this article I
+                    want first to analyze in detail some of the stages in the poem’s
+                    development, and then to suggest a textual arrangement which will allow the two
+                    Nights to be read as a single and reasonably coherent 
+                    narrative.<supplied type="spacer"> </supplied><ref target="n62" type="note">1</ref>
+	<note id="n62"><hi rend="s">1</hi> All references to <hi rend="i">The Four
+                                Zoas</hi> follow the line-numbering in the facsimile edited by
+                            Gerald E. Bentley, Jr.: <hi rend="i">Vala, or The Four Zoas</hi>
+                            (Oxford: Clarendon, 1963), hereafter referred to in the notes as
+                            “Bentley.” In quotations, <hi rend="i">italics</hi> indicate
+                            an erasure or deletion; additions to the basic text are bracketed
+                            &lt; &gt;.
+                        <p>In the text of my essay, the following abbreviations are used: 
+						<table rows="7" cols="3"><row>
+							<cell>Night</cell>
+							<cell>VIIa1</cell>
+							<cell>ms pages 77-85 (to line 85:22)</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>VIIa2</cell>
+							<cell>85-90 (85:23-98:68)</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>VIIIa</cell>
+							<cell>hypothetical lost draft</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>VIIIb</cell>
+							<cell>a second hypothetical draft, very similar to VIII*</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>VIII*</cell>
+							<cell>ms pages 99-110 before additions</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>VIII</cell>
+							<cell>final ms version</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>IX*</cell>
+							<cell>ms pages 119-39 (from line 119:24)</cell>
+						</row></table></p></note></p>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">NIGHTS VIIa AND VIIb</hi>
+            </title>
+          </head>
+          <p>By considering VIIa (pages 77-90) as a single homogeneous narrative, Sloss
+                        and Wallis helped to establish the critical tradition which has regarded
+                        this Night as later than VIIb (pages 91-98). They asserted that
+                        “Enitharmon’s fear of punishment and utter extinction . . . and
+                        Los’s creation of Bodies from the Spectres” were described
+                        “in the main body of the 
+                        text,”<supplied type="spacer"> </supplied><ref target="n63" type="note">2</ref> 
+                        whereas they are clearly described in a subsequent addition to
+                        the main body of the Night, introduced after two previous Night endings (at
+                        85:22 and 85:31). In order to have a meaningful basis for the discussion of
+                        relative dates, we must first try to distinguish the original form of VIIa
+                        from the subsequent additions. <note id="n63"><hi rend="s">2</hi> D. J.
+                        Sloss and J. P. R. Wallis, eds., <hi rend="i">The Prophetic Writings of
+                        William Blake</hi> (Oxford: Clarendon, 1926), I, 138.</note></p>
+          <p>The first four leaves of VIIa, pages 77-84, have stitch marks which indicate
+                        that they were once bound together with pages 43-76 and 111-12. The presence
+                        of stitch marks on pages 111-12 suggests that this leaf was not originally
+                        designed for its present context in VIII (the rest of which was never bound)
+                        but had some other place in the manuscript. Bentley suggests<supplied type="spacer"> </supplied><ref target="n64" type="note">3</ref> that the leaf, which has a full-page
+                        sketch on page 112, was bound at the end of IV when Blake added the
+                        pencilled instruction “Bring in here the Globe of Blood as in the B of
+                        Urizen” between lines 17 and 18 on page 55. Bentley argues that the
+                        drawing (showing a male looking anxiously at a female howling in horror, the
+                        female trying to break away from the male’s embrace) was intended to
+                        illustrate the lines which follow the Globe of Blood passage in <hi rend="i">Urizen</hi>:
+						<q>
+							But Los saw the Female &amp; pitied<lb/>
+							He embrac’d her, she wept, she refus’d<lb/>
+							In perverse and cruel delight<lb/>
+							She fled from his arms, yet he followd.<lb/>
+							<lb/>
+							(<hi rend="i">Urizen</hi> VI, 1)
+						</q>
+	<note id="n64"><hi rend="s">3</hi> Bentley, p. 200.</note></p>
+          <p>Bentley concludes that the leaf was added after Blake had covered page 56
+                        (originally left blank) with additions; but the two sets of additions which
+                        cover the page contain Christian symbolism of a fairly developed kind, and
+                        so Bentley’s suggestion implies that the binding which once held
+                        pages 43-84 and 111-12 was made after Blake had begun to introduce Christian
+                        material into the poem. As no other page containing Christian symbolism in
+                        the basic text shows any sign of stitch marks, this seems unlikely.</p>
+          <p>As there is no apparent connection between the drawing on page 112 and
+                        anything else at the end of IV, the leaf may have been designed for some
+                        other context within the binding that once held pages 43-84. Although only
+                        the first four leaves of VIIa were bound (pages 77-84), there is no Night
+                        ending on page 84, and the first ending now occurs after line 21 on the
+                        unbound page 85. Bentley comments: “Assuming that the Night was
+                        complete when bound, [Blake] later found it necessary to alter the last 
+<pb id="p12-114" n="114"/>
+		<figure n="BB209.1.112.MS" rend="file" width="772" height="1000">
+			<head><hi rend="i">The Four Zoas</hi>, p. 112.</head>
+	    </figure>
+<pb id="p12-116" n="116"/>
+						leaf so much that the whole leaf had to be removed and a new one 
+                        substituted.”<supplied type="spacer"> </supplied><ref target="n65" type="note">4</ref> 
+                        This rests on the assumption that the Night was complete when
+                        bound, which is open to question. The first Night ending on page 85 comes
+                        after the description of Vala’s rebirth; and page 86 has a full-page
+                        drawing of a female figure who is probably Vala, which may have been
+                        intended to illustrate the Night ending. With this leaf VIIa would have nine
+                        pages of text plus a full-page drawing, in line with the pattern Blake had
+                        established in III, V, and VI, and which he probably intended for IV. As we
+                        have seen, it is unlikely that the leaf containing pages 111-12 was bound at
+                        the end of IV. It seems more likely, in view of the drawing on page 112,
+                        that the leaf was originally designed for the end of VIIa. The relationship
+                        between the Spectre of Urthona and the Spirit of Enitharmon described on
+                        pages 82-84 follows the pattern typical of Los and Enitharmon, the male
+                        tortured by jealousy, the female scornful and elusive: 
+						<q>
+							He turned from side to side in tears he wept &amp; he embracd<lb/>
+							The fleeting image &amp; in whispers mild wood the faint shade.<lb/>
+							<lb/>
+							(82:26-27)
+						</q>
+	<note id="n65"><hi rend="s">4</hi> Bentley, p. 162.</note></p>
+          <p>The drawing on page 112 would have been very suitable for VIIa if the Night
+                        had ended with the tension between the Spectre and Shadow still unresolved.
+                        When Blake bound the leaf with pages 43-84, that may have been his
+                        intention; but in transcribing VIIa he may have begun to feel that
+                        Vala’s birth would make a better climax (deciding, perhaps, to
+                        transfer it from the beginning of the eighth Night?). In that case he would
+                        naturally unbind his manuscript to remove pages 111-12; and he would also
+                        prepare a new sheet which would be exactly like pages 85-86 before the
+                        additions. When it was unbound page 111 was almost certainly still blank,
+                        and it was only written on when Blake decided to use it in VIII. In this
+                        case, then, Blake seems to have bound a leaf and prepared it with a drawing
+                            <hi rend="i">before</hi> anything had been written on it: a surprising
+                        instance which calls into question the assumption that the stitch marks were
+                        made after Blake had completed, or partially completed, a draft of the poem.
+                        This also suggests that the basic text of page 85 may have been the first
+                        ending of VIIa to be transcribed on proof pages, and that it may be regarded
+                        as the original end of VIIa. I shall subsequently refer to the basic text of
+                        pages 77-85 (ending with 85:22) as “VIIa1,” and to the added
+                        material (85:23-90:68) as “VIIa2.”</p>
+          <p>Night VIIa1 contains little that could be regarded as “late” in
+                        relation to pages 43-76. The Shadow of Enitharmon is a new figure, but she
+                        enters the poem through the same kind of division that produced the Spectre,
+                        and her appearance is a natural development in the disintegration of Urthona
+                        rather than a late development in Blake’s symbolism. There are
+                        references to Beulah in the Shadow’s account of the fall on page 83,
+                        but Beulah is also mentioned in the Spectre’s account of the fall on
+                        page 50 in IV. Night VIIa1 has strong narrative links with pages 43-76, as
+                        it describes the confrontation between Urizen and Orc (anticipated at the
+                        end of VI), and the rebirth of Vala (anticipated in V). Taken together, the
+                        narrative of pages 43-85 follows the narrative sequence of 
+                        <hi rend="i">Urizen-Ahania</hi> (the active confrontation between Urizen and Fuzon
+                        becomes a verbal confrontation between Urizen and Orc, but at the end of
+                        both the defeated energy principle is forced to ascend the tree of
+                        Mystery).</p>
+          <p>As Erdman points out in his review of Bentley’s edition of the
+                        facsimile, stitch marks alone are of little help in questions of relative
+                        date.<supplied type="spacer"> </supplied><ref target="n66" type="note">5</ref>
+                        Leaves without stitch marks
+                        could have been superseded and removed before Blake bound the manuscript, or
+                        they could have been added afterwards. Nor can we be sure at what stage in
+                        the process of composition the manuscript was bound. So we must rely on
+                        internal evidence: the coherence of the narrative may be indicative, and the
+                        date of transcription will be suggested by the latest reference in the basic
+                        text. <note id="n66"><hi rend="s">5</hi> David V. Erdman, “The Binding
+                        (<hi rend="i">et cetera</hi>) of <hi rend="i">Vala</hi>,” <hi rend="i">The
+                        Library</hi>, 5th Ser., XIX (1964), 121-22.</note></p>
+          <p>In VIIb there is material which clearly seems to be later than anything in
+                        the basic text of pages 43-76 or VIIa1, namely lines 4-14 on page 95, which
+                        describe the Daughters of Beulah “Waiting with Patience for the
+                        fulfilment of the Promise Divine,” and which conclude with the
+                        appearance of Satan. Once again, the relevance of these lines was obscured
+                        by Sloss and Wallis, who reported that they were “written over a previous draft,
+                        deleted,”<supplied type="spacer"> </supplied><ref target="n67" type="note">6</ref> 
+                        whereas they are clearly part of the basic text. The “Promise” of these
+                        lines is a reference to the story of Lazarus in John 11. Similar references
+                        occur only in recognizably late additions to the poem, on the added page 21
+                        (lines 9-10) and in an added passage on page 56 (line 1). Satan also appears
+                        only in late passages, as on the added page 22 (line 4), in the added
+                        passage on page 56 (line 19), and in the manifestly late eighth Night. 
+<note id="n67"><hi rend="s">6</hi> Sloss and Wallis, I, 337.</note></p>
+          <p>This evidence alone suggests that VIIb is later than VIIa1, but there is also
+                        the fact that VIIb has stronger narrative links with VIIa1 than it has with
+                        VI. The growth of the tree of Mystery, Orc climbing the tree, and
+                        Vala’s birth are all described in VIIa1, and yet all are assumed in
+                        VIIb; and the original beginning of VIIb (on page 91 before the narrative
+                        was rearranged) seems to follow from the end of VIIa1. Bentley suggests that
+                        Blake revised and expanded the eighth Night, rewriting it as two Nights, one
+                        of which was 
+                        VIIb;<supplied type="spacer"> </supplied><ref target="n68" type="note">7</ref> 
+                        this suggestion
+                        merits further consideration, for if VIIb does contain material which was
+                        displaced from the eighth Night we would expect to find some evidence of
+                        this displacement. I believe such evidence does exist. 
+<note id="n68"><hi rend="s">7</hi> Bentley, pp. 162-63.</note></p>
+          <p>In the Lambeth books Blake had developed two different images for the
+                        corruption of Orc: in <hi rend="i">Ahania</hi> crucifixion, and in the
+                        Preludium of <hi rend="i">America</hi> the embrace with the Shadowy female,
+                        whose possessive reaction suggests that she may simply absorb Orc’s
+                        energies. In VIIa1 Blake reconciles the two images. The Spectre draws Vala
+                        to embrace Orc who is stretched on the Tree of Mystery. An elaborate
+                        parallel to the Preludium of <hi rend="i">America</hi> begins with the 
+<pb id="p12-117" n="117"/>
+<figure n="BB209.1.86.MS" rend="file" width="783" height="1000">
+	<head><hi rend="i">The Four Zoas</hi>, p. 86.</head>
+</figure>
+<pb id="p12-118" n="118"/>
+						daughters of Urizen feeding Orc (79:26-28).
+                        Orc’s transformation into a jewelled serpent recalls not only
+                        Fuzon’s corruption on the tree, but also Orc’s growth into
+                        maturity. Vala is born as a spreading cloud at the end of VIIal, and in the
+                        first lines of VIIb she stands before Orc (91:1-2). Directly after these
+                        lines in VIIb, Orc breaks free from his bondage and is embraced by Vala
+                        “that he might lose his rage” (91:4). The embrace completes the
+                        transformation of Orc: “his human form consumd in his own fires”
+                        (93:21) until “No more remaind of Orc but the Serpent round the tree of
+                        Mystery” (93:24). Vala herself is strewn on the abyss. The
+                        confrontation of Vala and Orc is resolved, then, near the beginning of VIIb.
+                        However, there is a passage in VIII (101:10-25) which should, logically,
+                        precede this embrace. In this passage Orc is still in bondage, and his
+                        transformation into a jewelled serpent is still not complete—he is
+                        still “raging,” his form is still partially “human.” The
+                        passage brings us to a point equivalent to the third line of the 
+                        <hi rend="i">America</hi> Preludium, and it is at this point that we might
+                        expect a description of the embrace in which Orc breaks from bondage and
+                        loses his human form completely.</p>
+          <p>There is evidence of similar displacements elsewhere in VIIb. Urizen’s
+                        triumphant proclamation at 95:15-24 was addressed to the Shadowy female in
+                        the basic text, and followed by a line which was immediately deleted:
+                        “The shadowy voice answerd O Urizen Prince of Light.” The speech
+                        that was to have followed here was omitted, but perhaps it is worth pointing
+                        out that Vala addresses Urizen only twice in the rest of the poem, once at
+                        31:4-16 and once in VIII (102:28-103:20) in a speech which begins, as above,
+                        “O Urizen Prince of Light.” It seems possible that the speech in
+                        VIII was once intended as a reply to Urizen’s proclamation. Blake
+                        must have been editing the text from which he was copying when he
+                        transcribed VIIb. After 96:18 half a line was deleted: “Urizen namd it
+                        Pande,” which suggests that Blake was cutting short a longer passage
+                        here. He introduced instead, rather abruptly, the passage 96:20-98:31, which
+                        may have originally had a different context.</p>
+          <p>Urizen’s proclamation is followed by a description of his
+                        preparations—the construction of a slave-based economy and the
+                        erection of a temple of secret religion. More of these preparations are
+                        described in passages which now appear in VIII, and these passages seem to
+                        be leading up to an apocalyptic confrontation like the one described in
+                        96:20-98:31. In the passage 100:27-32 Urizen begins to manufacture the
+                        machinery of warfare, the object of this work being “To undermine the
+                        World of Los &amp; tear bright Enitharmon / To the four winds”
+                        (100:35-101:1). The work is continued in 102:14-22, where Urizen gives
+                        “life &amp; sense . . . To all his Engines of deceit.” The four
+                        lines 101:29-32 apparently describe the culmination of this activity: 
+						<q>
+                            Thus Urizen in self deceit his warlike preparations fabricated<lb/>
+                            And when all things were finishd sudden wavd &lt;among the Stars&gt;<lb/>
+                            &lt;His hurtling&gt; hand gave the dire signal thunderous Clarions blow<lb/>
+                            And all the hollow deep rebellowd with the wondrous war.
+                        </q>
+                        In their present context these lines simply
+                        herald an intensification of the conflict which is seen to be an inherent
+                        feature of the fallen world over which Urizen presides; but the lines
+                        themselves seem to describe a more decisive event. All of Urizen’s
+                        preparations, now described variously in VIIb and VIII, seem to be leading
+                        up to such a moment. The sudden, apocalyptic battle-signal should herald the
+                        eruption of warfare. We might expect the passage 96:20-98:31, describing the
+                        furious response of Los and Tharmas to the outbreak of war, to follow such a
+                        signal. The passage apparently has a climactic significance. The
+                        relationship between Los and Enitharmon is at its lowest ebb. Los, as in 
+                        <hi rend="i">Europe</hi>, rises eagerly to the prospect of war; his
+                        appearance is more wrathful here than at any other point in <hi rend="i">The
+                            Four Zoas</hi>, and his speech, 96:25-28, emphasizes the apocalyptic
+                        dimension of the conflict, closely following Revelation 19:17-18. The last
+                        line of the passage hints at the consequences of the spreading confusion,
+                        for “Urizen’s web vibrated torment on torment.”</p>
+          <p>The collapse of Urizen’s web is described in VIII in a sequence which
+                        now begins with the Shadowy female’s speech. The collapse occurs at
+                        103:21-31, and the description of Urizen’s final degeneration is
+                        continued in 106:17-107:36. In 107:32-35, Tharmas and the Spectre of Urthona
+                        give their strength to Los: 
+						<q>
+							And Tharmas gave his Power to Los Urthona gave his strength<lb/>
+							Into the youthful prophet for the Love of Enitharmon<lb/>
+							And of the nameless Shadowy female in the nether deep<lb/>
+							And for the dread of the dark terrors of Orc &amp; Urizen.
+						</q>
+						These lines seem to anticipate some decisive action by Los, and it is
+                        possible that they were followed originally by the description of Los
+                        rending the heavens, now found in the beginning of IX. Several factors
+                        suggest that this description formed the conclusion of an eighth Night
+                        designed to follow VIIal. Night IX originally began on page 119 with the
+                        words “Without this Universal Confusion . . . ” (119:24). In the
+                        poem as it now stands these words clearly apply to the chaos described in
+                        the new beginning of the Night; but when they were first transcribed they
+                        must have applied to the end of the eighth Night. There is a reference to
+                        Los destroying the heavens in the main body of IX, on page 121: 
+						<q>
+							Let Orc consume let Tharmas rage let dark Urthona give<lb/>
+							All strength to Los &amp; Enitharmon &amp; let Los self cursd<lb/>
+							Rend down this fabric as a wall ruind &amp; family extinct.<lb/>
+							<lb/>
+							(121:23-25)
+						</q>
+                        Here the destruction of the heavens is seen as a direct result of the Spectre of
+                        Urthona’s attempt to give up his strength to Los. When these lines
+                        were transcribed they cannot have referred to the new beginning of IX unless
+                        Blake added the new beginning before he had transcribed three pages of 
+                        <pb id="p12-119" n="119"/> 
+						the Night (the lines occur three pages after the
+                        original beginning). This seems to confirm that when Blake transcribed the
+                        main body of IX, the “Universal Confusion” was described at the
+                        end of the eighth Night, after the description of Urthona giving his
+                        strength to Los.</p>
+          <p>In the new beginning as it now stands, Los’s destructive gesture is
+                        described in a passage of thirteen lines (117:1-13) added over an erasure.
+                        In the added passage Los is watched over by Jesus, so the action appears to
+                        be part of the divine scheme of redemption, and the passage is clearly
+                        related to a late addition near the end of VIII (110:38-41). Without the
+                        Christian framework the significance of Los’s action would be
+                        different. The crucial lines on page 117, in which Los rends “the
+                        heavens across from immense to immense” recall his gesture in <hi rend="i">The Book of
+                        Los</hi>, Chapter II, where he stands “frozen
+                        amidst / The vast rock of eternity”; “The Prophetic wrath,
+                        strug’ling for vent” rends the rock “from immense to
+                        immense,” and he falls into the abyss. This is an example of the
+                        destructive nature of prophetic impatience, marking a further stage in the
+                        fall. As originally transcribed, the corresponding action in <hi rend="i">The Four
+                        Zoas</hi> may have been ironically redemptive, taking the
+                        confusion of Urizen’s empire to its ultimate limit, a collapse
+                        <corr type="emend">analogous</corr> to the destruction of the ego necessary for
+                        Man’s awakening.</p>
+          <p>In lines 117:24-25, 118:1-6 there is an account of the destruction of the
+                        Spectres of Urthona and Enitharmon: 
+						<q>
+							The Spectre of Enitharmon let loose on the troubled deep<lb/>
+							Waild Shrill in the confusion &amp; the Spectre of Urthona<lb/>
+							Recievd her in the darkning South their bodies lost they stood<lb/>
+							Trembling &amp; weak a faint embrace a fierce desire as when<lb/>
+							Two shadows mingle on a wall they wail &amp; shadowy tears<lb/>
+							Fell down &amp; shadowy forms of joy mixd with despair &amp; grief<lb/>
+							Their bodies buried in the ruins of the Universe<lb/>
+							Mingled with the confusion. Who shall call them from the Grave.
+						</q>
+						The “Spectre of Enitharmon” here is clearly an
+                        alternative term for the “Shadow” that appears in VIIal as a
+                        result of a further division of Urthona. The passage seems to be an attempt
+                        to resolve the problem of Urthona’s disintegration. No solution is
+                        offered in VIIal. The added endings of VIIa do not completely resolve this
+                        division, but they do introduce a principle by which unity may be achieved:
+                        the principle of self-annihilation. Compared with the new endings of VIIa,
+                        the solution offered in the passage above seems crudely mechanical. The
+                        outcome would seem to be a separation from Los, rather than integration with
+                        him, as their bodies lie “buried in the ruins of the
+                        Universe.”</p>
+          <p>The additions at the end of VIIal (i.e. in VIIa2) almost seem to take the
+                        situation described above as their starting point. In the additions, the
+                        Spectre speaks to astound Los’s ear with “irresistable
+                        conviction” 
+						<q>
+							Of thy fierce Soul Unbar the Gates of Memory look upon me<lb/>
+							Not as another but as thy real Self I am thy Spectre<lb/>
+							Tho horrible &amp; Ghastly to thine Eyes tho buried beneath<lb/>
+							The ruins of the Universe.<lb/>
+							<lb/>
+							(85:37-40) 
+ 						</q>
+						It seems that the account of
+                        the Spectre of Urthona’s union with the Spirit of Enitharmon now
+                        contained in the new beginning of IX was composed before the additions at
+                        the end of VIIa were conceived. In fact the account may be Blake’s
+                        original solution to the problem of Urthona’s disintegration, a
+                        problem which is prominent in VIIal. Other manifestations of error
+                        introduced in VIIal—Urizen’s books and the Tree of
+                        Mystery—are consumed in the new beginning of IX, so the narrative as
+                        a whole would have formed an appropriate conclusion to an eighth Night
+                        designed to follow on from VIIal.</p>
+          <p>There does seem to be evidence, then, to support Bentley’s suggestion
+                        that in the process of revising the eighth Night, Blake rewrote it as two
+                        Nights, the first of which was VIIb. There are traces of a narrative
+                        sequence which may have been dislocated in the process of revision. This
+                        sequence probably began with the embrace of Vala and Orc, may have described
+                        how Urizen’s empire-building culminated in an apocalyptic
+                        confrontation with Tharmas and Los and in the collapse of Urizen’s
+                        web and the stupefaction of all of Man’s faculties except
+                        Los—who pulled down the heavens. Such a narrative would have formed
+                        an appropriate sequel to VIIal, and I shall subsequently refer to this
+                        (lost) version of the eighth Night as “VIIIa.”</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">NIGHT IX</hi>
+            </title>
+          </head>
+          <p>At this stage, a consideration of the ninth Night may prove helpful, and
+                        Bentley’s comments on this Night make a convenient starting point for
+                        discussion. He suggests that early drafts of the eighth and ninth Nights may
+                        have been bound together with pages 43-84, and “may have described a
+                        titanic war among the Zoas (Night VIIb seems to be a prelude to such a war).
+                        This war would have resulted in ‘Universal Confusion’ (with
+                        which Night IX begins, page 119), and have been resolved perhaps, in the
+                        reunion of the four Zoas in the Eternal Man.” He suggests that as VIII
+                        and IX contain overt Christian references, they are probably later than
+                        VIIb: “They were probably recopied when VIIb was, but Blake’s
+                        rapidly changing ideas may have forced him to transcribe Nights VIII and IX
+                        yet once or twice again.” He suggests that IX is earlier than the
+                        existing VIII, and concludes: “Presumably Blake’s major
+                        alteration from the previous draft of Night IX was in his composition or
+                        rewriting of the great harvest of the vintage which concludes the
+                            Night.”<supplied type="spacer"> </supplied><ref target="n69" type="note">8</ref>
+	<note id="n69"><hi rend="s">8</hi> Bentley, p. 163.</note></p>
+          <p>For convenience I shall refer to the main body of the ninth Night, without
+                        the new beginning (i.e. 119:24-139:10) as “IX*.” It seems that the
+                        absence of stitch marks in IX* leads Bentley to conclude that this Night
+                        must have replaced an earlier copy; it follows from this that IX* must have
+                        evolved 
+<pb id="p12-120" n="120"/>
+						through a major revision of the
+                        “earlier version,” as only such a major revision would justify the
+                        complete retranscription of a Night. But as we have noted, internal evidence
+                        is likely to provide a surer indication of relative date than the absence or
+                        presence of stitch marks. Curiously, Bentley’s hypothesis for the
+                        “original” ninth Night seems quite appropriate to IX*, which does
+                        resolve the Universal Confusion “with the reunion of the four Zoas in
+                        the Eternal Man.” How much of IX*, then, if any, is the product of
+                        subsequent revision?</p>
+          <p>The harvest and vintage sequence begins at 124:6 and continues to the end of
+                        the poem, forming the greater part of the Night. There are obvious
+                        precedents for such a sequence in Revelation 14:14-20, and in 
+                        <hi rend="i">Ahania</hi>, where Urizen is introduced as the eternal sower. The
+                        detail in which the sequence of ploughing, sowing, and harvesting is
+                        described in IX* suggests that Blake was drawing on his observation of the
+                        rural life around Felpham, and the sequence contains none of the Christian
+                        references that might be regarded as conclusive evidence of revision,
+                        although some elements could be regarded as late relative to pages 43-85.
+                        First, there is a development in the presentation of Beulah: Urizen and his
+                        sons, wearied after the sowing, receive visions on the “Couches of
+                        Beulah” (131:21). Their vision is the long pastoral interlude in which
+                        Luvah and Vala, and Tharmas and Enion, are reunited in innocence. However,
+                        this development is anticipated in the Shadow of Enitharmon’s account
+                        of the fall in VIIal, where Beulah is <corr type="emend">identified</corr> as a region of dreams, a
+                        pastoral retreat from Eternity, an enticing world where Man’s fall
+                        began: “he forgot Eternity delighted in his sweet joy / Among his
+                        family his flocks &amp; herds &amp; tents &amp; pastures”
+                        (83:21-22).</p>
+          <p>The denunciation of Mystery on page 134 is clearly a direct allusion to the
+                        archetypal female of Revelation 17 and 18, but it is not certain that when
+                        IX* was transcribed the name Mystery had the specific meaning that it has in
+                        VIII, where it is the name of the most degenerate form of Vala, Rahab. In VI
+                        one of Urizen’s daughters is identified with the female of Revelation
+                        by the writing on her forehead, and the female in IX* may have been
+                        introduced similarly, as a simple personification of Urizenic mystery,
+                        appropriate to the apocalyptic context. The names “Satan,”
+                        “Rahab”, and “Mystery the Harlot” appear only in an
+                        addition to IX* (120: 47,49), suggesting that the specific symbolic meanings
+                        they have in the poem were developed after the Night had been
+                        transcribed.</p>
+          <p>The introduction of the Eternals on page 133 indicates Blake’s growing
+                        sense of the existence of an unfallen reality, a development which
+                        culminated in the introduction of “the Council of God;” and the
+                        reference to the “Mercy Divine” at 125:39 suggests an unequivocal
+                        faith in divine providence. However, there are references to “The ever
+                        pitying one who seeth all things” and to “Providence divine”
+                        in VI (71:25-26, 74:31-32); and the Eternals are to some extent anticipated
+                        in the Shadow of Enitharmon’s account of the fall in VIIal:
+                        “Wonder siezd / All heaven they saw him dark. they built a golden wall
+                        / Round Beulah” (83:9-11). If the Eternals in IX* do indicate a new
+                        concern with divine intervention, they are clearly closer to the Eternals of
+                            <hi rend="i">Urizen</hi> than to the providential Council of God. (As in
+                            <hi rend="i">Urizen</hi>, the intervention of the Eternals described in
+                        133:15-21 contributes to man’s fall.)</p>
+          <p>Finally, the reference to the “crown of thorns” which falls from
+                        Luvah’s head (135:23) as he rises from the Eternal feast may be an
+                        example of the identification of Christ and Luvah which becomes important in
+                        the Christian additions to the poem, although there are no other examples of
+                        this identification in IX*, and as a passing reference the line may simply
+                        describe the risen Orc relinquishing the trappings of the Tree of
+                        Mystery.</p>
+          <p>There seems to be little in the harvest and vintage sequence which can be
+                        identified as the product of a major revision. In fact, the only parts of
+                        IX* which contain symbolism for which there is no precedent in the basic
+                        text of 43-85 are those passages near the beginning of the Night which refer
+                        directly to Christ and Jerusalem.</p>
+          <p>Man’s awakening, as it is described at the beginning of IX*, involves
+                        the gradual reassertion of his will. Responding to the Universal Confusion
+                        he reasons with himself until he recovers first a sense of determination,
+                        and then feelings of wrath (120:27). This active struggle is the natural
+                        sequel to the resignation of will described in the copperplate text
+                        (23:3,5,6). However, after a description of the regeneration of Urizen,
+                        there is a passage in which Man describes his awakening in terms of a divine
+                        intervention. The passage begins: 
+						<q>
+							Behold Jerusalem in whose bosom the Lamb of God<lb/>
+							Is seen tho slain before her Gates he self renewd remains<lb/>
+							Eternal &amp; I thro him awake to life from deaths dark vale.<lb/>
+							<lb/>
+							(122:1-3)
+						</q>
+						These lines introduce a description of
+                        the seasonal revival of Ahania in a harmonious relationship with Urizen,
+                        followed by five lines in which Jerusalem is hailed as the bride of Christ,
+                        “Mother of myriads redeemd &amp; born in her spiritual palaces / By a
+                        New Spiritual birth Regenerated from Death” (122:19-20). This allusion
+                        to Revelation 21 shows a new readiness to use Christian symbolism in a
+                        direct way, but the providential awakening mentioned here seems quite
+                        irrelevant to the awakening actually described, and seems to deny the
+                        importance of Man’s struggle to reassert his will. This suggests that
+                        the eight lines referring to the Lamb of God were not originally an integral
+                        part of the passage in which they now appear, although they must have been
+                        introduced before page 122 was transcribed as they are in the basic text. In
+                        IX* there is no mention of the Council of God, and there is nothing to
+                        connect Jerusalem with Golgonooza, nor with Los (who is mentioned only four
+                        times in the Night), nor with Enitharmon (who is mentioned only twice). The
+                        immediate connection between St. John’s vision and the basic myth of
+                        IX* (apart from the obvious fact that both describe an apocalypse) is the
+                        fact that St. John’s vision involves the ordering of a creative
+                        sexual relationship, a principle of vital importance 
+<pb id="p12-121" n="121"/>
+						in the reintegration of Man’s faculties in
+                        Blake’s poem. The passage framed by the Christian lines on page 122
+                        describes the relationship between Ahania and Urizen in its ideal form.
+                        Blake seems to have introduced the Christian symbolism in a context which
+                        emphasizes the correspondence between the sexual harmony required in his own
+                        myth and that which forms the climax of Revelation.</p>
+          <p>The other example of this kind of Christiann symbolism occurs at the end of a
+                        passage describing how the dead gather, waiting to be delivered. Again,
+                        Blake seems to have introduced references to Revelation in a context which
+                        enables a general analogy to be made: Jerusalem appears as “the
+                        innocent accused before the Judges” (123:22) and, like the crucified
+                        Christ, is identified with the oppressed who now rise to be delivered from
+                        their oppressors. The vision of the Cloud of Blood is seen as the climax of
+                        the violent destruction of the universe, and identifies the destruction with
+                        the Judgment of Christ’s second coming. The vision includes 
+						<q> 
+                        	four Wonders of the Almighty<lb/>
+                        	Incomprehensible. pervading all amidst &amp; round about<lb/>
+                        	Fourfold each in the other reflected they are named Life’s in Eternity.<lb/>
+                        	<lb/>
+                        	(123:36-38) 
+						</q>
+                        Margoliouth, commenting on the word “Life’s” in the last line, writes:
+                        “in spite of the apostrophe I think this is a plural and is a
+                        translation of ζῶα Zoa, the ‘beasts’ or living creatures of
+                        Revelation 4. . . . The four ‘Life’s’ have not here
+                        been identified with Urthona, Luvah, Urizen and Tharmas, so providing a new
+                        title for 
+                        <hi rend="i">Vala.</hi>”<supplied type="spacer"> </supplied><ref target="n70" type="note">9</ref>
+                        As Margoliouth suggests, the symbolism of this passage has not really been
+                        assimilated into the symbolic structure of the Night. The references to
+                        divine intervention are registered as interpolations which remain ultimately
+                        separate from the rest of the Night. This is the fundamental difference
+                        between the Christian references in IX* and those in VIII. In any Night that
+                        had been retranscribed at least once to <corr type="emend">accommodate</corr> material
+                        which would
+                        radically modify the conceptual basis of the poem, we might expect the new
+                        ideas to revise the existing ideas satisfactorily; we might expect their
+                        modifying effect to be dominant, if not complete. This is largely their
+                        effect in VIII. If the first fourteen lines or so of VIII are compared with
+                        the awakening described in IX*, the formalizing effect that the Christian
+                        framework was to have is evident. In the lines at the beginning of VIII the
+                        machinery of divine intervention has been fully developed, but at the
+                        expense of the will: Man responds passively to a regulated scheme of
+                        redemption in which his own will plays no part. In IX* the Christian
+                        references have no such controlling effect, but are subordinate in a
+                        narrative which is otherwise conceptually compatible with the basic text of
+                        pages 43-85. The limited importance of these references suggests that they
+                        were not introduced as part of a carefully planned revision; they seem to
+                        have been introduced more as an immediate response to the major model for
+                        the Last Judgment, the Book of Revelation, and Blake may even have decided
+                        to introduce them while he was actually transcribing the Night. Their extent
+                        is so limited that their inclusion would hardly seem to have justified the
+                        complete retranscription of the Night, or even of the individual leaves on
+                        which they occur. As there seems to be little evidence of major revision
+                        elsewhere in the Night, it seems likely that the Christian references were
+                        included in Blake’s first transcription of his “Last
+                        Judgment,” which survives as the basic text of IX*. <note id="n70"><hi rend="s">9</hi>
+                        H. M. Margoliouth, ed., <hi rend="i">Vala,
+                        Blake’s Numbered Text</hi> (Oxford: Clarendon, 1956), p.
+                        148.</note></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">NEW DEVELOPMENTS</hi>
+            </title>
+          </head>
+          <p>This study of the ninth Night implies that IX*, like VIIa1, was part of a
+                        single draft of the poem which included the basic text of pages 43-76 and a
+                        copy of the eight Night similar to the sequence I have called
+                        “VIIIa”. Within this draft the lengths of the Nights had tended to
+                        increase towards the end of the poem, and there had obviously been some
+                        development in the symbolism. For example, Beulah had become more important
+                        towards the end of the poem, and Christian symbolism had been introduced in
+                        the ninth Night. It has long been recognized that much of the text on the
+                        proof pages may have been composed while Blake was staying with Hayley at
+                        Felpham. Commenting on the proof text, Margoliouth pointed out that
+                        “Some of the Tharmas passages, especially in Nights III and IV, point
+                        to a personal knowledge of the sea which we have no reason to suppose Blake
+                        had before he went to 
+                        Felpham.”<supplied type="spacer"> </supplied><ref target="n71" type="note">10</ref>
+                        As we have noted, Blake may have been influenced by his observation of the
+                        rural countryside around Felpham in his treatment of eternal harvest in the
+                        ninth Night. Blake’s letters from Felpham help to illuminate some of
+                        the developments in the poem. <note id="n71"><hi rend="s">10</hi>
+                        Margoliouth, pp. xxiii-xxiv.</note></p>
+          <p>After the depressing final years at Lambeth, the removal to the peaceful
+                        environment of Felpham and the security of Hayley’s patronage seem to
+                        have given Blake a profound sense of spiritual release. His enthusiasm is
+                        evident in his first letters from Felpham, and a fortnight after his arrival
+                        he sent a poem to Butts which describes his “First Vision of
+                    	Light.”<supplied type="spacer"> </supplied><ref target="n72" type="note">11</ref>
+						The poem relates how,
+                        on the beach at Felpham, he has a vision in which his limbs are infolded in
+                        beams of gold by “One Man.” This is a regeneration visualized in
+                        terms far removed from the fierce, revolutionary apocalypse of the Lambeth
+                        books. The tone and imagery of the poem are mild, the poet is passive, there
+                        is little sense of a determined imaginative effort. This implies an
+                        awareness of divine providence which had largely been absent from
+                        Blake’s work since <hi rend="i">Songs of Innocence</hi>, and the poem
+                        also suggests a new readiness to use direct (as opposed to satirical)
+                        Christian parallels. The “One Man” may be identified readily with
+                        the New Testament “Good Shepherd.” Man’s vision of
+                        Jerusalem on page 122, derived from Revelation 21, has obvious similarities
+                        with the “Vision of Light” that Blake described to Butts: just as
+                        Blake was reborn in a renewed environment at “Female” Felpham, so
+                        Man is awakened by Christ to be reborn in Jerusalem’s “spiritual
+                        palaces.” Blake’s adoption of Christian symbolism in <hi rend="i">The Four Zoas</hi>
+						may have begun with his tentative attempt to
+                        reinterpret the resurrection described in the ninth Night in the light of
+                        his growing awareness of a 
+<pb id="p12-122" n="122"/>
+						divine providence. The
+                        willingness to adopt symbols from both Testaments of the bible, a
+                        willingness apparent in additions to the poem, was undoubtedly stimulated
+                        further by his study first of Greek, and then of Hebrew, begun under
+                        Hayley’s supervision at Felpham. By January 1803 Blake felt confident
+                        of his mastery of Greek, and was looking forward to reading “The Hebrew
+                            bible.”<supplied type="spacer"> </supplied><ref target="n73" type="note">12</ref>
+	<note id="n72"><hi rend="s">11</hi> See the letter to Butts of 2 Oct. 1800:
+                            Geoffrey Keynes, ed., <hi rend="i">Blake: Complete Writings</hi>, rev.
+                            edn. (Oxford: Clarendon, 1969), p. 804-06.</note>
+	<note id="n73"><hi rend="s">12</hi> Keynes, p. 821.</note></p>
+          <p>In a letter to Butts dated 22 November 
+          				1802,<supplied type="spacer"> </supplied><ref target="n74" type="note">13</ref> 
+          				Blake included a poem “composed above a twelve month
+                        ago” which, after dramatizing some of the doubts and uncertainties he
+                        suffered at Felpham, ends triumphantly: 
+						<q> Now I a fourfold vision see<lb/>
+                            And a fourfold vision is given to me.</q>
+                        Whether the word
+                        “Now” in the first line refers to the date of the rest of the
+                        verses, which were composed “above a twelve month ago” (i.e. in
+                        1801), or to the date of the letter (November 1802) is open to question. But
+                        it seems unlikely that Blake could have delayed by a year the announcement
+                        of the gift of fourfold vision, and these last lines may have been added to
+                        the rest of the poem when the letter was written (i.e., Blake was writing of
+                        past difficulties which had now, in November 1802, been resolved). Another
+                        letter to Butts of the same day seems to confirm this, for Blake declared
+                        “I am again Emerged into the light of day; I still &amp; shall to
+                        Eternity Embrace Christianity and Adore him who is the express image of God
+                        . . . My Enthusiasm is still what it was, only Enlarged and
+                        confirm’d.”<supplied type="spacer"> </supplied><ref target="n75" type="note">14</ref> 
+						I think the tone of this letter expresses more than the need to keep in favor with a
+                        more orthodox patron; it suggests that as Blake progressed into fourfold
+                        vision, Christianity assumed a new meaning for him. 
+	<note id="n74"><hi rend="s">13</hi> Keynes, pp. 816-19.</note>
+	<note id="n75"><hi rend="s">14</hi> Keynes, pp. 815-16.</note></p>
+          <p>In the basic text of pages 43-76 the term “Beulah” occurs only
+                        twice, in IV, where the Spectre tells Tharmas “thou Drewst all the Sons
+                        of Beulah into thy dread vortex following / Thy Eddying spirit down the
+                        hills of Beulah” (50:5-6). This reference to the “Sons of
+                        Beulah” is unique: Blake normally refers to the “Sons of
+                        Eden” and the “Daughters of Beulah,” and the reference in IV
+                        may have survived from a time when Blake regarded Beulah as Man’s,
+                        eternal dwelling place, the highest attainable ideal. When he received the
+                        gift of fourfold vision Beulah would naturally come to be seen as a lower
+                        paradise, and the need to distinguish the different degrees of vision in a
+                        coherent symbolic structure must have become apparent. A passage in the
+                        Shadow of Enitharmon’s account of the fall in VIIa1 seems to be an
+                        early attempt to make such a distinction: 
+						<q>
+							Wonder siezd<lb/>
+							All heaven they saw him dark. they built a golden wall<lb/>
+							Round Beulah There he reveld in delight among the Flowers.<lb/>
+							<lb/>
+							(83:9-11)
+						</q>
+						Here Beulah is clearly identified as a lower paradise, distinguished from a
+                        higher ideal identified vaguely as “All heaven.” In IX* there is a
+                        further development, for Beulah is identified as a resting place from
+                        Eternity where Man reposes, entertained by dreams before his
+                        resurrection.</p>
+          <p>There are two descriptions of cyclical relationships in IX*. In the long
+                        pastoral passage Tharmas complains: 
+						<q>
+							the sweet smelling fruit<lb/>
+                            Revives me to new deaths I fade even like a water lilly<lb/>
+                            In the suns heat till in the night on the couch of Enion<lb/>
+                            I drink new life.<lb/>
+                            <lb/>
+                            (131:2-5)
+                        </q>
+                        The recurring cycle described here is
+                        comparable to the cycle which Blake developed more fully in “The Mental
+                        Traveller.” In introducing this myth showing history as a series of
+                        recurring cycles, Blake was beginning to go beyond the original structure of
+                            <hi rend="i">The Four Zoas</hi>, which was concerned with a single cycle
+                        from fall to redemption. As a counterpart to the relationship of Tharmas and
+                        Enion there is a description of an ideal cyclical relationship between males
+                        and females, in which the obedient female sacrifices herself so that the
+                        male remains “Immortal”: 
+						<q> 
+							Then bright Ahania shall awake from death<lb/>
+							A glorious Vision to thine Eyes a Self renewing Vision<lb/>
+                            The spring. the summer to be thine then sleep the wintry days<lb/>
+                            In silken garments spun by her own hands against her funeral.<lb/>
+                            <lb/>
+                            (122:6-9)
+                        </q>
+                        This harmonious relationship is the converse of the
+                        time-bound cycle, and both cycles suggest that when Blake transcribed IX* he
+                        was already beginning to devise a structure in which the different levels of
+                        vision would be characterized by distinct and antithetical modes of
+                        existence.</p>
+          <p>The new developments visible in VIIa1 and IX* are on a small scale and do not
+                        seriously threaten the general coherence of the narrative in which they
+                        occur. Bentley has discovered that page 48 of the manuscript was used as a
+                        backing sheet when Blake was printing engravings for Hayley’s ballads
+                        at Felpham. Engravings for the first ballad are dated 1 June 1802, and, as
+                        it is very unlikely that Blake would temporarily remove a page of his
+                        manuscript to use it as a backing sheet, it is reasonable to conclude, as
+                        Bentley does, <ref target="n76" type="note">15</ref> that the page was not
+                        transcribed until after the end of May 1802. Pages 43-84 may have been bound
+                        together some time after this date; and as we have seen, at least one leaf
+                        (pages 111-12) seems to have been bound before any thing was written on it.
+                        Early in 1803, two months after Blake had written to Butts about
+                        “fourfold vision,” his letters began to refer to the completion of
+                        a major work, and on 6 July he mentioned 
+						<q> a Sublime Allegory, which is
+                            now perfectly completed into a Grand Poem. . . . This poem 
+<pb id="p12-123" n="123"/>
+						shall by Divine Assistance be progressively Printed and Ornamented with 
+						Prints &amp; given to the 
+						Public.<supplied type="spacer"> </supplied><ref target="n77" type="note">16</ref></q>
+						Frye thinks that this “does not literally apply to <hi rend="i">The Four Zoas</hi>, 
+						which was never completed into 
+						anything.”<supplied type="spacer"> </supplied><ref target="n78" type="note">17</ref> 
+						But although the poem was never
+                        “progressively Printed and Ornamented with Prints” there is no
+                        reason to suppose that it was never completed into anything. The poem as it
+                        stands contains revisions almost certainly made after 1803; but Blake could
+                        have been referring to an intermediate stage of composition in which nine
+                        Nights had been completed into a unified and symbolically homogeneous whole.
+                        It is possible that Blake was referring to a single draft of <hi rend="i">The Four
+                        Zoas</hi> which included a revised copperplate text, pages
+                        43-85 and IX*. Blake’s symbolism may have begun to develop in new
+                        directions when his Grand Poem was almost complete. This would explain the
+                        new developments apparent in VIIal and IX*; and it would also explain why
+                        Blake subsequently began to revise the poem, to integrate the new ideas more
+                        fully. <note id="n76"><hi rend="s">15</hi> Bentley, p. 161.</note>
+	<note id="n77"><hi rend="s">16</hi> Keynes, p. 825.</note>
+	<note id="n78"><hi rend="s">17</hi> Northrop Frye, <hi rend="i">Fearful
+                                Symmetry</hi> (Princeton: Princeton Univ. Press, 1947), p.
+                            314.</note></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">THE FIRST REVISION OF THE EIGHTH NIGHT</hi>
+            </title>
+          </head>
+          <p>If VIIb <hi rend="i">was</hi> composed during a revision of
+                        “VIIIa,” what kind of changes were made to the eighth Night at
+                        this stage? The text of VIIb and of the present eighth Night should provide
+                        useful clues. The existence of VIIb suggests that Blake was extremely
+                        reluciant to discard material once it had been used in the poem, and so it
+                        may be possible to find traces in VIII of material introduced in any
+                        previous revision (even if it has been subsequently modified). Night VIII is
+                        manifestly composite, and consists of: (i) six leaves which contain a
+                        continuous narrative running from the title-page (page 99) to page 110, on
+                        which “End of the eighth Night” was twice written and twice
+                        erased; and (ii) three leaves (pages 111-16) which contain material to be
+                        interpolated in or added to pages 99-110. For convenience I shall refer to
+                        the basic text of pages 99-110 as “VIII*.” This text ends at
+                        110:28, “And all his Sorrows till he reassumes his ancient
+                        bliss.”</p>
+          <p>Broadly speaking, VIII* falls into three sections, as the Night is divided by
+                        a sequence describing the descent, judgment, and crucifixion of Christ, the
+                        sequence occuring almost exactly in the middle of the Night (104:5 to
+                        106:6). The last part of the Night begins “Darkness &amp; sorrow
+                        coverd all flesh Eternity was darkend,” and from this point to the end
+                        of VIII* there is nothing in the basic text necessarily later than the basic
+                        text of pages 43-85. Although the rest of VIII* contains highly developed
+                        Christian symbolism, the reference to the Divine Lamb at 107:37-39 and
+                        110:1-2 are both subsequent additions; and there is no mention of the
+                        redemptive labors of Los and Enitharmon in this part of the narrative,
+                        although they are prominent in the rest of the Night. This suggests that the
+                        last section may have been composed before the development of Blake’s
+                        Christian symbolism was advanced, and before Los had begun to assume an
+                        actively redemptive role in the poem. The section ends, after Tharmas and
+                        the Spectre give up their strength to Los, with the final lamentation of
+                        Ahania and Enion’s comforting answer. One of Blake’s first
+                        revisions to VIIIa may have been the addition of the lament with
+                        Enion’s reply, which would have displaced the original ending (Los
+                        rending the heavens), which would then have to be added at the beginning of
+                        the ninth Night. Such a revision, while changing the ending of the eighth
+                        Night from an explosive climax to a passage of elegiac expectation, would
+                        help to re-establish the presence of Enion and Ahania (who are largely
+                        absent from the central Nights of the poem) before their resurrection in the
+                        last Night.</p>
+          <p>The material in the basic text of VIIb which seems manifestly late indicates
+                        that when the Night was composed, Blake was beginning to define the
+                        different degrees of vision in a coherent structure. In VIIal and IX* Beulah
+                        had been distinguished from Eternity; in VIIb two more levels are
+                        distinguished, although they are not named. The Shadowy female extends
+                        through one: 
+						<q>
+							far &amp; wide she stretchd thro all the worlds of Urizens journey<lb/>
+							And was Adjoind to Beulah as the Polypus to the Rock.<lb/>
+							<lb/>
+							(95:1-2)
+						</q>
+						This world has been the scene of most of
+                        the events described in the poem, but now Blake distinguished a lower world
+                        “Beyond the Limit of Translucence,” the world of single vision and
+                        opacity which was subsequently called “Ulro.” As the dead descend
+                        into this world to form Satan, the daughters of Beulah sing songs of
+                        comfort, “Waiting with Patience for the fulfilment of the Promise
+                        Divine.” This passage suggests that when Blake composed VIIb he
+                        envisaged a comprehensive scheme of divine intervention which would control
+                        the events of the fallen world.</p>
+          <p>At the end of IV Blake made two additions, the first of which was twenty-two
+                        lines long, transcribed over the original (erased) Night ending, at the foot
+                        of page 55 and at the top of page 56. It was marked for insertion after 55:9
+                        (i.e., it was designed to follow the description of Los binding Urizen). In
+                        this addition the daughters of Beulah observe the fallen world from
+                        “Beulahs mild moon coverd regions,” and take comfort in the Divine
+                        Vision embodied in the Council of God. The last six lines of the passage,
+                        which were subsequently erased, may have described a measure of divine
+                        intervention by the Council, and, if Erdman’s conjecture for the
+                        fourth line is correct, the founding of the limit of 
+                        Contraction.<supplied type="spacer"> </supplied><ref target="n79" type="note">18</ref> 
+                        The founding of this limit is
+                        described in the passage which replaced these six lines, and also the
+                        founding of the “Limit of Opacity” or Translucence, which suggests
+                        that the erased lines may also have described the founding of the limit of
+                        Translucence. This means that the first addition at the end of IV may have
+                        been designed to prepare for the related passage in VIIb, where the dead
+                        descend below the limit of Translucence to become Satan. (In the first
+                        addition the daughters of Beulah quote Martha’s rebuke to Jesus:
+                        “Lord if thou had’st been here, my brother had not died,”
+                        John 11:21; in VIIb the daughters are comforted by Christ’s reply to
+                        Martha, “Thy brother shall rise again,” v. 23.) <note id="n79"><hi rend="s">18</hi>
+						David V. Erdman, ed., and Harold Bloom, <hi rend="i">The Poetry and Prose of 
+						William Blake</hi>, rev. edn. (New York: Doubleday, 1970), p. 752.</note></p>
+          <pb id="p12-124" n="124"/>
+                      <figure n="BB209.1.55.MS" rend="file" width="820" height="1000">
+            <head><hi rend="i">The Four Zoas</hi>, p. 55.</head>
+          </figure>
+          <p>The passage at the beginning of the eighth Night, in which the Council,
+                        described as a “Vision of all Beulah,” meets to create the fallen
+                        man, brings the scheme initiated at the end of IV to fruition.
+                        Christ’s descent and the final epiphany of Satan in the eighth Night
+                        are seen as the culmination of a divine scheme which has been observed in
+                        all its stages by the daughters of Beulah. The description of the Council of
+                        God in the eighth Night, then, is closely related to the first addition at
+                        the end of IV and to the passage in VIIb describing the formation of Satan,
+                        and it was probably introduced during the revision which produced VIIb. The
+                        passage may have been modified subsequently when Blake composed VIII*, for
+                        it contains Old Testament references and the term “Eden,” for
+                        which there is no precedent in VIIb. Similarly, it seems unlikely that the
+                        second addition at the end of IV, or the reference to the story of Lazarus
+                        on page 21 (lines 9-10) were added at this time; both passages contain
+                        terms, such as “Emanation,” which seem later than anything in the
+                        basic text of either VIIb or VIII*.</p>
+          <p>It seems clear that when Blake composed VIIb he must have planned to include
+                        in the eight Night some kind of sequence describing the epiphany of Satan,
+                        and the incarnation and crucifixion of Christ. The late passage in VIIb
+                        clearly prepares for Satan’s epiphany, and the crucifixion would form
+                        the prelude to the triumphant second coming which had already been described
+                        in the ninth Night. There is little in the account of Satan’s
+                        epiphany described on page 104 in VIII* that is not anticipated in VIIb or
+                        compatible with the Christian passages in IX*, except perhaps the
+                        introduction of the “Sons of Eden.” The last lines on page 104
+                        originally stated that the Lamb of God would “rend the Veil of Mystery
+                        / And the Call Urizen &amp; Luvah &amp; Tharmas &amp; Urthona,”
+                        which prescribes a more directly active role for Christ than he actually has
+                        in the rest of VIII*: they suggest that he will become a kind of divine
+                        caretaker who will assume responsibility for reintegrating the faculties on
+                        Man’s behalf. In VIII* Man’s regeneration depends on the
+                        creative labors of an enlightened Los who is inspired by Christ. The
+                        pencilled addition at 104:31, “Los said to Enitharmon Pitying I
+                        saw,” may be an attempt to maintain the presence of Los in a passage
+                        which was conceived before Los had been seen as an enlightened redeemer.
+                        There may also have been an early version of the judgment and crucifixion
+                        which was subsequently revised to produce the fragment p. 145, and the final
+                        version 105:1 to 106:6.</p>
+          <p>Each of these additions to the eighth Night—the description of the
+                        Council of God, the Christian sequence, the lament of Ahania and
+                        Enion’s answer—would have increased the length of the eighth
+                        Night. This increase in size, together with the fact that the introduction
+                        of a scheme of divine intervention would have a far-reaching effect on the
+                        poem as a whole, may have prompted Blake to undertake a major reorganization
+                        of the narrative sequence of the Night. It was probably at this stage that
+                        Blake decided to add the new beginning to the ninth Night and to compose an
+                        entirely new Night, VIIb, taking from VIIIa the description of the Vala-Orc
+                        embrace, the construction of Urizen’s empire, and the passage
+                        describing how Tharmas, Los, and Enitharmon react to the warfare.</p>
+          <p>In composing VIIb, Blake would have to change the sequence and the
+                        significance of events originally described in the eighth Night. The warfare
+                        was now seen to begin not with Urizen’s apocalyptic battle-signal but
+                        with the Vala-Orc embrace; and the conflict became an inherent feature of
+                        Urizen’s empire, rather than the culmination of his elaborate
+                        preparations. Orc no longer loses his rage completely at the moment of the
+                        embrace with Vala, for although the embrace is now described in VIIb, the
+                        description of Orc’s transformation on the Tree of Mystery is
+                        retained in the eighth Night, the swelling Orc symbolizing enslaved energy
+                        bound in the widening conflict of Urizen’s empire. Orc is thus seen
+                        as an active force in Urizen’s empire. Orc and Urizen are now seen to
+                        be “Communing” (100:33).</p>
+          <p>Night VIIb seems to have been composed before Blake had reassessed the role
+                        of Los, for he appears in the Night as a wrathful figure rather than a
+                        patient, enlightened redeemer. The major difference between the version of
+                        the eighth Night produced at this stage and the present VIII* (apart from
+                        local revisions) would be the absence of the three passages which in VIII*
+                        describe the redemptive labors of Los and Enitharmon (99:20 to 100:26,
+                        101:35-37, 103:32 to 104:4). In other respects the outline of the eighth
+                        Night—beginning with a description of the Council of God, continuing
+                        with chaotic warfare, a central sequence describing the crucifixion, and
+                        concluding with a passage possibly identical to 
+<pb id="p12-125" n="125"/>
+                        106:17 to 110:28—would have been very similar to VIII*. I shall
+                        subsequently refer to this second version of the eighth Night, contemporary
+                        with VIIb, as “VIIIb.”</p>
+          <p>When he transcribed VIIb Blake probably did not intend to exclude VIIal from
+                        the poem, as both Nights contain elements essential to the coherence of the
+                        poem’s narrative, and VIIb seems to have been designed to follow on
+                        from the end of VIIal. As Bentley 
+                        suggests,<supplied type="spacer"> </supplied><ref target="n80" type="note">19</ref> 
+                        it seems likely that Blake intended to conflate the first
+                        seven Nights into six; but whatever revision he had in mind, he
+                        doesn’t seem to have carried it out at this time, and he probably
+                        deferred the problem of reconciling the two seventh Nights. 
+<note id="n80"><hi rend="s">19</hi> Bentley, p. 163.</note></p>
+          <p>Although VIIb had just under 300 lines as originally transcribed (comparable
+                        to VI and VIIal), it was transcribed on four leaves instead of the usual
+                        five, and no room was left for a full-page drawing on the final page. This
+                        suggests that when he transcribed VIIb Blake had used up most of the 
+<hi rend="i">Night Thoughts</hi> proof-leaves, and had started to use them
+                        more sparingly. The new beginning of the ninth Night was probably
+                        transcribed at about the same time. An addition at 118:7 refers to Rahab and
+                        Tirzah, who are mentioned nowhere else in the new beginning, although they
+                        occur in the basic text of VIII*. This suggests that the new beginning was
+                        probably transcribed before VIII* was composed. However, it seems unlikely
+                        that the revised eighth Night (“VIIIb”) was transcribed at this
+                        stage. The last part of VIII* (106:17 to the end), as we have seen, contains
+                        no late symbolism in the basic text, and was probably identical to the last
+                        section of VIIIb. It seems unlikely that Blake would copy out this section
+                            <hi rend="i">twice</hi>, once in VIIIb and again in VIII*, without
+                        making any changes. Before it was transcribed the eighth Night probably
+                        underwent further revision.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">THE SECOND REVISION OF THE EIGHTH NIGHT</hi>
+            </title>
+          </head>
+          <p>In a letter to Hayley of 23 October 1804, Blake suddenly made an unusually
+                        enthusiastic announcement: 
+						<q> I have entirely reduced that spectrous Fiend
+                            to his station, whose annoyance has been the ruin of my labours for the
+                            last passed twenty years of my life. He is the enemy of conjugal love
+                            and is the Jupiter of the Greeks, an iron-hearted tyrant, the ruiner of
+                            ancient Greece. . . . Suddenly, on the day after visiting the
+                            Truchsessian Gallery of pictures, I was again enlightened with the light
+                            I enjoyed in my youth, and which has for exactly twenty years been
+                            closed from me as by a door and by window-shutters. . . . he is become
+                            my servant who domineered over me, he is even a brother who was my
+                            enemy.<supplied type="spacer"> </supplied><ref target="n81" type="note">20</ref>
+	<note id="n81"><hi rend="s">20</hi> Keynes, p. 935.</note></q></p>
+          <p>As John Sutherland has observed, this enlightenment seems similar to the one
+                        experienced by Los in some of the additions to <hi rend="i">The Four
+                            Zoas</hi>: “After 1804, Blake seems more concerned with
+                        communicating a method he had discovered by which men may win free from
+                        individual, internal tyranny—a method by which an individual may free
+                        himself from the domination of one distorted aspect of his own psyche
+                        (either from Urizen, or from the Spectre of his dominant Zoa—in
+                        Blake’s case, from the Spectre of 
+                        Urthona).”<supplied type="spacer"> </supplied><ref target="n82" type="note">21</ref> 
+                        Throughout much of <hi rend="i">The Four Zoas</hi>
+                        Los appears as a spectral figure. In the main body of the ninth Night, for
+                        example, he is mentioned only a few times, once near the very end of the
+                        poem, where he is not clearly distinguished from the Spectre of Urthona: 
+						<q>
+                            Urthona is arisen in his strength no longer now<lb/>
+                            Divided from Enitharmon no longer the Spectre Los<lb/>
+                            Where is the Spectre of Prophecy the delusive phantom.<lb/>
+                            <lb/>
+                            (139:4-6)
+                        </q>
+						The apparent
+                        lack of distinction between Los and the Spectre in parts of the poem
+                        possibly reflects Blake’s own difficulties in freeing his prophetic
+                        voice from its attendant Spectre. In additions at the end of VIIa the
+                        relationship between Los and the Spectre is brought into focus. The original
+                        Night-ending on page 85 [after line 18] was erased to make room for an
+                        addition of six lines in which 
+						<q>
+							Los Embracd the Spectre first as a brother<lb/>
+							Then as another Self; astonishd humanizing &amp; in tears<lb/>
+							In Self abasement Giving up his Domineering lust. 
+ 						</q>
+                        There are echoes in these lines of the extract from the letter quoted above; and
+                        in another letter to Hayley (4 December 1804) Blake writes in similar terms
+                        that he has lived a 
+                        “Divided Existence”<supplied type="spacer"> </supplied><ref target="n83" type="note">22</ref> 
+                        but is no longer at war with himself. The passages
+                        in <hi rend="i">The Four Zoas</hi> in which Los unites with his Spectre to
+                        assume the role of enlightened redeemer were probably suggested by the
+                        dramatic enlightenment that followed Blake’s visit to the
+                        Truchsessian Gallery in the Autumn of 1804. <note id="n82"><hi rend="s">21</hi> John
+Sutherland, “Blake and Urizen,” <hi rend="i">Blake’s Visionary Forms Dramatic</hi>, ed. David V. Erdman
+                            and John E. Grant (Princeton: Princeton Univ. Press, 1970) pp.
+                            250-51.</note>
+	<note id="n83"><hi rend="s">22</hi> Keynes, p. 935.</note></p>
+          <p>The new enlightenment seems to have come after VIIb was transcribed, and
+                        after the Christianization of the poem had begun, but before the second
+                        version of the eighth Night (VIIIb) had been copied out. It was a
+                        development which would cause a peculiar problem of organization. When VIIb
+                        was composed, it seems probable that Christ’s descent in the eighth
+                        Night was to have been the major turning point in the poem, because at this
+                        stage in the poem’s development none of Man’s faculties would
+                        have been capable of enlightened action (Los’s final rending of the
+                        heavens would have been an act of desperation rather than an enlightened
+                        gesture). When Los became an enlightened redeemer, Christ’s descent
+                        would appear as a culmination rather than a turning point. The redemptive
+                        labors of Los would be described most appropriately in the prelude to
+                        Man’s awakening, the eighth Night. But as Los’s reconciliation
+                        with the Spectre provides a partial solution to the problem of
+                        Urthona’s disintegration, a problem which is discussed in some detail
+                        by the Spectre and the Shadow of Enitharmon at the end of VIIal, the
+                        reinterpretation of Los would inevitably strengthen the narrative links
+                        between the end of VIIal and the eighth Night—despite the fact that
+                        the two Nights were now separated by the new Night, VIIb.</p>
+          <pb id="p12-126" n="126"/>
+          <p>The exact nature of this problem will become clear if we examine some of the
+                        elements of the VIIb narrative. At the end of VIIal the rebirth of Vala is
+                        described thus: “a Cloud she grew &amp; grew / Till many of the dead
+                        burst forth from the bottoms of their tombs” (85:17-18). Before later
+                        additions were made to this page, the last line would seem to have had only
+                        a general significance, identifying Vala’s rebirth as an event of
+                        apocalyptic importance. A variant of the same line occurs in VIIb, where the
+                        dead descend beyong the limit of Translucence to form Satan (95:11-14).
+                        There “the Dead” begin to take on a specific importance in the
+                        developing mythology. When Los had been reassessed, the identification of
+                        the Dead as victims of Urizen’s war became important to
+                        Blake’s conception of Los’s redemptive activities. In VIII*,
+                        for example, Los strives to assimilate the chaotic warfare: 
+						<q>
+							Los builds the walls of Golgonooza against the stirring battle<lb/>
+							That only thro the Gates of Death they can enter to Enitharmon.<lb/>
+							<lb/>
+							(101:35-36)
+						</q>
+						The pronoun “they” refers to “the Dead” who are
+                        rescued by Los and Enitharmon as they descend towards the lowest level of
+                        existence “tempted by the Shadowy females sweet / Delusive
+                        cruelty.” The descent described in VIIb thus became an integral part of
+                        the process of redemption.</p>
+          <p>However, in VIIb there is tension rather than cooperation between Los and
+                        Enitharmon. Los responds enthusiastically to the violence, and Golgonooza
+                        seems threatened by his neglect rather than strengthened by his efforts:
+                        Enitharmon cries “O Los unless thou keep my tower the Watchman will be
+                        slain” (98:6). In short, in VIIb the misguided Los contributes eagerly
+                        to the chaos which, as an agent of redemption, he should be striving to
+                        assimilate. When Los had been reassessed, then, part of VIIb became useful
+                        to the developing scheme of salvation, while part became manifestly
+                        inappropriate to that scheme. As long as the narrative of VIIb remained
+                        unchanged between VIIal and the eighth Night, Blake would have difficulty in
+                        introducing an account of Los’s enlightening reconciliation with the
+                        Spectre and Enitharmon where it would be most appropriate—at the end
+                        of VIIal.</p>
+          <p>Another problem in introducing new material to the poem would be the
+                        inevitable strain imposed on the general structure. The basic text of VIII*
+                        had over 400 lines—about 100 more than any other Night except the
+                        ninth; it had six leaves instead of five; and the text continued on the
+                        verso of the sixth leaf, leaving no room for a full.-page drawing. In these
+                        respects the Night was “irregular.” Blake was being forced by the
+                        quantity of his material to abandon some of the formal patterning which had
+                        shaped his earlier Nights. However, the Night was transcribed on <hi rend="i">Night
+                        Thoughts</hi> proof pages in the normal way, and had
+                        approximately the same number of lines per page as the earlier Nights on the
+                        proof pages, which suggests that Blake still maintained some concern for the
+                        general appearance of his manuscript, and was hoping to resolve the problem
+                        of his two seventh Nights within a nine-Night structure. The desire to
+                        preserve the formal structure of the poem obviously conflicted with the
+                        desire to include growing quantities of new material, but Blake may have
+                        maintained a fairly selective attitude towards new material at this
+                        stage.</p>
+          <p>The regularity of VIII* will be appreciated if it is compared with the two
+                        leaves added at the end of VIIal, in which the reuinion of Los with the
+                        Spectre and Enitharmon is described. These leaves, pages 87-90, were formed
+                        by cutting in two a print (of <hi rend="i">Edward &amp; Elenor</hi>, 1793);
+                        the text is written on one side of each leaf (with the print on the other
+                        side), and the number of lines per page is considerably larger than the
+                        average for the rest of the proof-text. The fact that the leaves were made
+                        by destroying a large print would suggest that they were among the very last
+                        to be added to the poem, used when Blake was having difficulty finding paper
+                        of an appropriate size, and when the overall appearance of the manuscript
+                        was less important to him than the inclusion of all relevant material.
+                        However, with one or two local exceptions, the basic text of pages 87 and 90
+                        seems to be contemporary in date of composition with those passages in VIII*
+                        which describe the redemptive labors of Los and Enitharmon. Much of the
+                        material added at the end of VIIal, then, may have been composed before, but
+                        transcribed some time after, VIII* was transcribed.</p>
+          <p>On page 85 Blake erased the original Night ending (of VIIal), adding nine
+                        lines in which Los embraces the Spectre and gives up his “Domineering
+                        Lust,” and a new Night ending which was erased when the Night was
+                        extended further. The final result of the later additions was a continuous
+                        narrative from 85:32 to 90:68. Although as the poem now stands this
+                        narrative <hi rend="i">is</hi> continuous, there is evidence to suggest that
+                        it was originally composed and transcribed as two distinct sections designed
+                        for separate contexts within the poem. The first section runs from 85:32 to
+                        the foot of page 87 (line 59 in the basic text). The text from 85:32 to
+                        86:14 is really a more elaborate version of the previous nine-line addition,
+                        except that it describes Los’s reunion with the Spectre in terms
+                        quite new to the poem, for Los now responds to the Spectre’s doctrine
+                        of “Self annihilation.” Golgonooza, previously featured in IV
+                        (49:18-21), V (59:28; 60:1-3), and VIIb (97:31-32), now becomes prominent,
+                        opening a way to “new heavens &amp; a new Earth” (87:9). In
+                        87:30-35 the Spectre explains that Los’s task will be to ransom the
+                        “Spectres of the Dead,” a phrase which here refers to the dead who
+                        burst from their tombs when Vala is reborn at the end of VIIal. But Los can
+                        find no way to redeem the Spectres until he has been reconciled with
+                        Enitharmon, an event which will complete the second stage of his
+                        enlightenment. In 87:13-29 Enitharmon tempts Los with the fruit of
+                        Urizen’s tree, and Los eats the fruit, sitting down “in
+                        Despair.” This passage ties the narrative firmly to that of VIIal, as
+                        it continues the tension between Los and Enitharmon described on pages 81 to
+                        85. The text of page 87 concludes with Enitharmon still possessed by jealous
+                        fears, still refusing the entreaties of Los and misinterpreting the descent
+                        <pb id="p12-127" n="127"/>
+                        of Christ: “I . . . fear that he / Will
+                        give us to Eternal Death.” At this point Los’s restoration is
+                        incomplete, as he has yet to be reconciled with Enitharmon.</p>
+          <p>Whereas the passage from 85:32 to 87:59 was clearly designed as a
+                        continuation of VIIal, the basic text of page 90 may have been designed
+                        originally for a different context. In 90:5-7 Los pleads once more with
+                        Enitharmon: 
+						<q>
+							Lovely delight of Men Enitharmon shady refuge from furious war<lb/>
+							Thy bosom translucent is a soft repose for the weeping souls<lb/>
+							Of those piteous victims of battle . . .
+						</q>
+						The references
+                        to “war” and the “victims of battle” are explained when
+                        Enitharmon is finally reassured by Los and they are reconciled: Los draws
+                        flames “From out the ranks of Urizens war” (90:30). “Urizens
+                        war” is the chaotic conflict which is described in VIIb and the eighth
+                        Night. On page 90 the identification of the Spectres of the dead as victims
+                        of this battle suggests that this passage may have been designed originally
+                        for some context after the embrace of Vala and Orc, which in VIIb initiates
+                        the conflict.</p>
+          <p>On page 100 in VIII a marginal note “Los stood &amp;c” indicates
+                        that a passage was to be inserted between lines 1 and 2. Erdman suggests
+                        that this refers to 90:2, originally the first line on page 90, which
+                        originally read “Los stood in Golgonooza in the Gate of Luban.”
+                        Erdman observes that “The thematic material of 90, amplified with
+                        marginal additions, seems all an amplification backward from the
+                        ‘Looms in Luban’s Gate’ in 100:2.”<supplied type="spacer"> </supplied><ref
+target="n84" type="note">23</ref> The suggestion of an
+                        “amplification backward” follows from the observation that page 90
+                        is “unquestionably a late addition.” The physical evidence, we
+                        have seen, would certainly suggest that pages 87 to 90 were among the last
+                        additions to the poem, but this does not necessarily apply to the original
+                        date of composition. From the internal evidence the material in VIII*
+                        describing the labors of Los and Enitharmon seems to be a continuation of
+                        the text of page 90. Los’s reunion with the Spectre and with
+                        Enitharmon, and his discovery of a way to redeem the victims of
+                        Urizen’s war, are assumed in VIII*, where there is no mention of the
+                        Spectre, and where Los and Enitharmon start to rescue the Spectres of the
+                        dead at the beginning of the Night. In fact, shortly after Los and
+                        Enitharmon are introduced the focus of attention moves away from Los to the
+                        building and working of Enitharmon’s looms. The shift in emphasis
+                        seems quite natural if VIII* is read as a continuation of page 90, where
+                        full attention is paid to Los’s role and Enitharmon, finally
+                        reassured, begins to assume importance in the scheme of salvation. It seems
+                        more likely that Blake worked out the details of Los’s reunion with
+                        the Spectre and Enitharmon before VIII* was copied out, rather than
+                        composing it afterwards as an “amplification backward.” Old
+                        Testament references occur in the three leaves added to VIII* (pages 113,
+                        115, and 111) and in the added leaves pages 19-20, all of which also seem to
+                        be unquestionably late additions, but there are no comparable references in
+                        pages 87 and 90, which again suggests that the texts of the later pages may
+                        have been composed before Blake had begun to adopt Old Testament references.
+                            <note id="n84"><hi rend="s">23</hi> Erdman, <hi rend="i">Poetry and
+                                Prose</hi>, p. 758.</note></p>
+          <p>When Blake first reassessed the role of Los, he may have composed two related
+                        but distinct passages: (i) a new ending to VIIa, describing the conversion
+                        of Los by the new doctrine of “Self annihilation,” which included
+                        his reunion with the Spectre but did not resolve the tension between Los and
+                        Enitharmon; (ii) a narrative designed to come after VIIb (i.e., to be
+                        included in the eighth Night) which described Los’s reconciliation
+                        with Enitharmon <hi rend="i">and</hi> the construction of
+                        Enitharmon’s looms. By leaving the tension between Los and Enitharmon
+                        unresolved in the new ending of VIIa, Blake may have hoped to explain the
+                        strained relationship in VIIb, although the Spectre-like Los of VIIb is hard
+                        to equate with the humanized Los of page 87, who has already begun his
+                        inspired construction of Golgonooza. When Blake first composed this passage
+                        he was possibly more concerned with developing the myth to his own
+                        satisfaction than with the problem of containing it within the existing
+                        structure of the poem.</p>
+          <p>I have suggested that in his attempts to preserve the formal outline of the
+                        poem Blake probably maintained a fairly selective attitude to new material.
+                        In view of the fact that the new passages were developing beyond the
+                        original scheme of the poem—could provide, in fact, the basis of a
+                        separate poem—Blake may even have considered dropping VIIal from the
+                        poem at this stage. A note on page 91 of VIIb reads, “This Night begins
+                        at line 153 the following comes in at the End”; on page 95 after line
+                        14 a note indicates the “Beginning of the <hi rend="i">Book</hi>
+                        Seventh Night”; and at the foot of page 98 Blake wrote, “Then
+                        follows Thus in the Caverns of the Grave &amp;c as it stands now in the
+                        beginning of Night the Seventh.” When he added these instructions he
+                        clearly intended the seventh Night to begin at 95:15. The sixth Night ends
+                        on page 75 with Urizen’s confrontation with Tharmas and the Spectre,
+                        who impede his progress down the vale of Urthona. In the final lines of the
+                        Night Urizen breaks down their resistance, as his “massy Globes . . .
+                        slow oerwheel / The dismal squadrons of Urthona.” Line 15 on page 95
+                        would follow on quite well from this point as the beginning of the seventh
+                        Night: 
+						<q> 
+						But in the Deeps beneath the <hi rend="i">tree</hi>
+						&lt;Roots&gt; of Mystery in darkest night<lb/>
+						When Urizen sat on his rock the Shadow brooded I <hi rend="i">dismal</hi><lb/>
+						Urizen saw &amp; triumphd &amp; he cried to <hi rend="i">the Shadowy female</hi> &lt;his warriors&gt;<lb/>
+						The time of Prophecy is now revolvd &amp; all<lb/>
+						This Universal Ornament is mine . . .<lb/>
+						<lb/>
+						(95:15-19)
+                        </q>
+                        The “Shadow” in line 16 was the
+                        Shadowy female in the original context. If these lines followed from the end
+                        of VI, however, “Shadow” would refer to the Spectre of Urthona,
+                        who is called the “Shadow of Urthona” in 75:6, where the term was
+                        altered from 
+<pb id="p12-128" n="128"/> 
+						“Shade of Urthona,”
+                        possibly to emphasize this identification. It may have been at this stage
+                        that Blake deleted the last surviving reference to the Shadowy female, in
+                        line 17, and substituted “his warriors.” Urizen’s triumph
+                        in lines 18 and 19 would thus be seen as the consequence of his victory over
+                        Tharmas and the Spectre, and the chaotic warfare that follows would be seen
+                        as a consequence of the confrontation at the end of VI. This may have been
+                        the kind of transition Blake intended when he indicated that the seventh
+                        Night began at 95:15.</p>
+          <p>Blake’s instruction at the original beginning of VIIb clearly states
+                        that “the following [i.e., 91:1 to 95:14] comes in at the end.”
+                        This portion continues the description of the chaotic conflict (but without
+                        featuring Los or Enitharmon) and shows how the Shadowy female, stretching
+                        through the fallen world, creates the conditions necessary for Los’s
+                        redemptive activity in the eighth Night, as the dead descend on her clouds
+                        to form Satan. The portion ends with the description of the descent of the
+                        dead, which would lead appropriately into VIII*, on the first page of which
+                        there is a similar passage (99:24-26).</p>
+          <p>The transposed halves of VIIb, then, would link effectively with both the end
+                        of VI and the beginning of the eight Night, and when he added the
+                        instructions to indicate the transposition, he may have intended to exclude
+                        VIIa1 from the poem. This, however, was probably only a temporary measure,
+                        for the lengthy revisions in VIIa (i.e. the addition of VIIa2) show that
+                        Blake decided to keep the Night after all.</p>
+          <figure n="BB209.1.98.MS.detail" rend="file" width="958" height="627">
+            <head><hi rend="i">The Four Zoas</hi>, p. 98 (detail).</head>
+          </figure>
+          <p>Rather than abandon VIIa1, or further unbalance the poem by introducing the
+                        two new long passages describing the enlightenment of Los and Enitharmon, he
+                        may have decided to edit the new passages in a drastic way. The nine lines
+                        which formed the first new ending to VIIa may have been designed as an
+                        alternative to the longer ending. The lines give a brief summary of
+                        Los’s union with the Spectre without introducing any new terminology:
+                        Los does not respond to the doctrine of Self annihilation, but simply to the
+                        Shadow of Enitharmon’s “tale of Urthona.” After the new
+                        ending Blake wrote “The End of the Seventh Night” indicating that
+                        he still thought of this as the seventh Night. The addition would therefore
+                        supersede the instructions in VIIb, and might even imply that Blake had
+                        decided to drop VIIb from the poem. The new ending would certainly introduce
+                        an anomaly, as the Los of VIIb is almost an epitome of the “Domineering
+                        Lust” which, in the new ending, he gives up. Perhaps he regarded the
+                        new ending as a provisional measure, a concession to the new material he had
+                        decided to exclude at this stage, written at a time when he had found no way
+                        to reconcile the two seventh Nights.</p>
+          <p>Of the second passage, designed for inclusion in the eighth Night, Blake
+                        seems to have decided to introduce only a part at this stage—namely
+                        the three passages describing the labors of Los and Enitharmon and the
+                        weaving of a “Universal female form” identified as Jerusalem
+                        (99:20 to 100:26, 101:35-36 and 103:32-39, 104:1-4). This is the culmination
+                        of their redemptive labors, and relates their activity to the descent of
+                        Christ, already described in the eighth Night. Lines 99:20-23, 
+<pb id="p12-129" n="129"/>
+						which as the manuscript now stands represent the
+                        final stage in a gradual process of enlightenment, would have represented
+                        the moment of enlightenment itself in the absence of the long additional
+                        passages at the end of VIIa. All the references to “Ulro” in VIII*
+                        are contained in the three passages describing the enlightened Los and
+                        Enitharmon; Blake probably adopted the term at this stage. He also further
+                        revised the central Christian sequence at this time, introducing first the
+                        figure of Rahab (as the fragment page 145 shows), and then the song of the
+                        females of Amalek which features Tirzah. At this stage, then, Blake’s
+                        reading of the Old Testament began to influence the poem’s symbolism
+                        more directly. Having introduced this song to the revised Christian
+                        sequence, Blake transcribed VIII* on the proof-pages.</p>
+          <p>The revision which in two stages transformed the original eighth Night into
+                        VIII* reveals a growing tension between the wish to incorporate large
+                        quantities of new material and the wish to preserve the poem’s
+                        original structure; and there is evidence to suggest that Blake’s
+                        symbolism was still developing rapidly when VIII* was composed. The song
+                        which features Tirzah and the passage which introduces Rahab suggest that
+                        Blake was trying to contain as concisely as possible a mythology which was
+                        rapidly developing beyond the original myth of the poem. VIII* was not the
+                        final product of this development, but represents an intermediate stage.</p>
+          <p>Blake made two kinds of revisions to VIII*: (i) local modifications within
+                        the original six leaves of the Night; (ii) additions contained on three
+                        extra proof-leaves, pp. 111-12, 113-14 and 115-16. The three extra leaves
+                        radically change the structure of the Night, but the first revisions to
+                        VIII* were probably the local revisions designed to integrate more
+                        satisfactorily the older and newer elements of the existing mythology,
+                        without introducing any more new ideas. Three Christian additions in the
+                        last section of VIII* have this function, updating part of the narrative
+                        which contained no Christian references when it was copied out. At the
+                        beginning of the Night an addition of twelve lines on page 99 describes the
+                        double female form of the daughters of Beulah, mentioned in the first
+                        addition at the end of IV. The narrative sequence was altered on pages 100
+                        and 101, the passage 100:27-101:3 having a new context between lines 32 and
+                        33 on page 101; and two additions on page 101 were probably made at this
+                        time: a passage of five lines describing the appearance of Satan (written in
+                        the margin without a guideline, but placed by Keynes and Erdman after
+                        101:3), and five lines describing the labors of Los. The description of
+                        Orc’s transformation into a jewelled serpent would now be followed by
+                        the description of Urizen’s instruments of war, in which Urizen is
+                        seen “Communing with the Serpent of Orc.” The rearrangement
+                        restores to Urizen’s battle-signal something of its original
+                        significance, for it is now seen to have special consequences, intensifying
+                        the conflict which begins to take the form of Satan. The new sequence also
+                        suggests that the epiphany of Satan is the culmination of Orc’s
+                        transformation and of the sinister communion between Urizen and Orc. The
+                        added lines describing Los’s redemptive labors, by which the dead are
+                        humanized, emphasize the opposition between Los’s effort and
+                        Urizen’s military campaign which causes the dead to degenerate into
+                        the form of Satan.</p>
+          <p>These revisions make better or wider use of ideas which were already present
+                        in VIII*. However, Blake undertook another series of revisions designed to
+                        integrate the figure of Rahab more successfully into the Night, which led
+                        eventually to major alterations. In the description of the crucifixion in
+                        VIII* the daughters of Amalek, Canaan, and Moab were identified as different
+                        forms of Rahab, and Rahab herself was identified as Mystery (who had been
+                        introduced as a simple personification in the ninth Night). An addition at
+                        105:11-24 attempts to account for the appearance of Rahab in the poem:
+                        “The Synagogue Created her from Fruit of Urizens tree”; and the
+                        addition was subsequently extended by three-and-a-half lines which explain
+                        that she was “hidden within / The bosom of Satan,” and that her
+                        daughters are called Tirzah. Tirzah, who in VIII* had been introduced within
+                        the song of the daughters of Amalek, now entered the main narrative, and her
+                        relationship with Rahab was clarified. Other revisions probably made at
+                        about the same time are the added line 105:13, which describes Vala hidden
+                        in Satan’s bosom “as in an ark &amp; Curtains”; and, at
+                        the foot of page 104, the last one-and-a-half lines, which were deleted and
+                        replaced by a new account of the purpose of Christ’s incarnation:
+                        “to Give his vegetated body / To be cut off &amp; separated that the
+                        Spiritual body may be Reveald.” With these revisions Blake was
+                        apparently preparing to introduce the description of Rahab’s epiphany
+                        after the revelation of Christ’s spiritual body, which had been
+                        included in the fragment page 145, but excluded from VIII*. It was probably
+                        after he had made these additions that he erased the original Night ending
+                        of VIII* and added a new passage (110:30-37) in which he seems to have been
+                        working towards a climactic conclusion describing the final epiphany of
+                        Rahab before the revealed Christ. The passage was not finished, but was
+                        deleted and replaced by a shorter passage (110:38-41) in which Los takes
+                        Christ’s body from the cross and places it “in a Sepulcher which
+                        Los had hewn / For himself.” This action is repeated at the end of a
+                        marginal addition on page 106 (7-16); and the new passage of thirteen lines
+                        introduced on page 117, in the new beginning of the ninth Night, describes
+                        how “Los &amp; Enitharmon builded Jerusalem weeping / Over the
+                        Sepulcher &amp; over the Crucified body.” Both of these revisions were
+                        probably made when Blake revised the ending of VIII*.</p>
+          <p>Clearly, Rahab was becoming increasingly important in this series of local
+                        additions. The new passages show how she managed to absorb the crucifixion
+                        in a religion of mystery. Los, Enitharmon, and Jerusalem weep over the
+                        sepulchre, and their misunderstanding of Christ’s death is
+                        Rahab’s triumph. When Blake added the new ending on page 110 he had
+                        still not introduced a description of Rahab’s epiphany, although
+                        Jerusalem weeps 
+<pb id="p12-130" n="130"/>
+						over the sepulchre “two
+                        thousand years,” suggesting a relationship between Rahab’s
+                        triumph and contemporary history. This relationship is brought into focus in
+                        the text of the added page 111. After explaining that St. John understood
+                        the immediate absorption of Christ’s death into a religion of
+                        mystery, the passage describes the rise of Natural Religion after the
+                        Synagogue of Satan had resolved to burn Mystery: 
+						<q>
+							The Ashes of Mystery began to animate they calld it Deism<lb/>
+                            And Natural Religion as of old so now anew began<lb/>
+                            Babylon again in Infancy Calld Natural Religion.<lb/>
+                            <lb/>
+                            (111:22-24)
+                        </q>
+						This satanic second coming provides
+                        the logical conclusion to the series of local additions made to VIII*, for
+                        it is the final consolidation of error, the final epiphany of Rahab, and the
+                        passage may have been added shortly after Blake made the final additions on
+                        pages 110 and 117. The references to “Ahania weeping on the Void”
+                        and to Enion speaking “from the Caverns of the Grave” indicate
+                        that this text was designed for the end of the eighth Night, and when he
+                        composed it Blake may have intended to add it at the foot of page 110 after
+                        the second Night ending. He chose instead to transcribe it on a separate
+                        leaf, the leaf which may originally have been intended for the end of VIIa
+                        (the engraving of the sorrowful, pierced Christ on the recto of the leaf
+                        would make an appropriate illustration for a text which describes how
+                        Christ’s death was mis-interpreted). The text was first
+                        pencilled—possibly Blake was hesitant about using up a near-exhausted
+                        stock of proof-leaves for revisions of this kind-then it was inked, but
+                        without a new Night ending at the foot of the page. By this time he had
+                        added almost eighty new lines to VIII*, and the night now had seven leaves.
+                        There would be little reason now not to include material which had
+                        previously been exluded on grounds of economy in deference to the
+                        poem’s structure. When page 111 was written he may have omitted a new
+                        night ending because he intended, or felt that he might need, to add more
+                        new material at the end of the Night. For some time the pressure of new
+                        material had been gradually eroding the poem’s structure. At this
+                        point it seems that Blake opened the flood-gates, and the original structure
+                        was overwhelmed.</p>
+          <p>In the manuscript as it now stands, the texts of pages 113-116 have been
+                        interpolated into the eighth Night at two points: 113:1-39 is inserted on
+                        page 104, in the song of the Sons of Eden; and 113:40-116:6 is inserted on
+                        page 106 after the description of the crucifixion. Both passages have been
+                        modified to suit their present contexts. The text on page 113 originally
+                        began with an invocation to Blake’s muse, “Daughter of Beulah
+                        describe . . . ,” but this was subsequently changed to “We behold
+                        with wonder” so that the narrative could become part of the song of the
+                        Sons of Eden. The added line 24 beginning “We look down into Ulro . . . ”
+                        and the alteration in line 33 have the same effect. An ink line was
+                        drawn after line 39, and the passage below the line was modified to
+                        introduce Rahab, while on page 115 the third-person description in the basic
+                        text was altered to become part of Los’s speech to Rahab. Before
+                        these changes were made pages 113 and 115 may have formed a single
+                        narrative, but it would have been a passage unlike the narrative of the rest
+                        of the poem: it would have been a digression amplifying the main narrative
+                        by providing an historical perspective. The description of the geography of
+                        Golgonooza and Udan Adan, and the myth of Rintrah, Palamabron, and Satan
+                        seem to be the result of independent experiments rather than developments
+                        designed for a specific context in the poem. The pages have more lines of
+                        text than any of the other proof-leaves used in the manuscript, which again
+                        suggests that Blake’s stock of proofleaves was dwindling. Page 114
+                        has a full-page engraving of the risen Christ, and page 116 has a full-page
+                        drawing which may represent the risen Man. The illustrations may indicate
+                        that the narrative was originally intended for the end of the eighth Night,
+                        but as there is no Night ending on page 115, the pages may have been
+                        interpolated in the rest of the Night shortly after they were
+                        transcribed.</p>
+          <p>Blake interpolated the pages by modifying the passages as we have said; by
+                        adding a marginal direction after 104:10, “We behold with wonder
+                        &amp;c,” to indicate where 113:1-39 should be inserted; by adding a
+                        note after the six lines at the top of page 116, “Darkness &amp;
+                        sorrow &amp;c turn over leaf”; and by adding after 106:16 the
+                        instruction, “But when Rahab &amp;c turn back 3 leaves.” This
+                        marked another departure from the regularity of the manuscript. Not only was
+                        the length of the eighth Night further increased, but the leaves of the
+                        manuscript were no longer in a strictly sequential order. In other words, at
+                        this stage the manuscript was beginning to look more like a rough draft than
+                        a fair copy. There would be little reason now not to make any other major
+                        alterations that seemed necessary by annotating existing leaves instead of
+                        recopying the revised text; and there would be little reason not to include
+                        material previously excluded to preserve the shape of the poem. In short,
+                        there would be little reason to exclude the full account of Los’s
+                        enlightenment, and Blake probably decided to introduce this material after
+                        he had added pages 113-16.</p>
+          <p>He seems to have used up his last <hi rend="i">Night Thoughts</hi> proofs in
+                        pages 113-16, for to accommodate the new material about Los he had to cut a
+                        large print of <hi rend="i">Edward &amp; Elenor</hi> in two. When he used
+                        these sheets he may still have intended to introduce the account of
+                        Los’s enlightenment as two separate passages. Erdman notes that
+                        “90:1 is probably an addition, the text originally starting within the
+                        platemark”—and it is this line that now links the narratives of
+                        pages 87 and 90. Line 90:2 originally began “Los stood in Golgonooza 
+                        . . . ” and between lines 1 and 2 on page 100 in the eighth Night a
+                        marginal note, “Los stood &amp;c,” calls for an insertion which,
+                        as Erdman notes, “probably refer[s] to 90:2 before revision.”
+                        Erdman concludes that “Blake wrote the 
+<pb id="p12-131" n="131"/>
+<figure n="BB209.1.116.MS" rend="file" width="772" height="1000">
+	<head><hi rend="i">The Four Zoas</hi>, p. 116.</head>
+</figure>
+<pb id="p12-132" n="132"/>
+<figure n="BB209.1.111.MS" rend="file" width="786" height="1000">
+	<head><hi rend="i">The Four Zoas</hi>, p. 115.</head>
+</figure> 
+						two pages 87 and 90 as a sequence, considered using the second
+                        page as a second page for Night VIII (i.e. inserting it on p 100), but then
+                        chose to tighten the sequence (with additions at the bottom of 87 and top of
+                        90) and insert it (unquestionably a late addition) at the end of
+                        VII.”<supplied type="spacer"> </supplied><ref target="n85" type="note">24</ref>
+                        However, when Blake
+                        added 90:1 he may have been creating rather than tightening a sequence, and
+                        as originally transcribed page 90 may have been intended as an addition to
+                        the eighth Night, to be interpolated like pp. 113, 115, and 116. (The
+                        reference to Rintrah and Palamabron in 90:45-58 may have been introduced as
+                        the page was transcribed to account for the appearance of these characters
+                        in the myth described on page 115.) <note id="n85"><hi rend="s">24</hi>
+                            Erdman, <hi rend="i">Poetry and Prose</hi>, p. 758.</note></p>
+          <p>We have seen that although VIIb seems to follow logically from the end of
+                        VIIal, the scenes describing the tension between Los and Enitharmon would
+                        seem completely out of place if made to follow an account of their
+                        enlightened reunion. This may be why the description of the reunion on page
+                        90 was originally designed for inclusion in the eighth Night. When Blake
+                        moved page 90 from VIII to the end of VIIa, he must have felt that he had
+                        overcome this problem. Presumably, when he moved the page, he had decided to
+                        drop VIIb from the poem, thus removing the anomaly.</p>
+          <p>As we have seen, he may have considered removing VIIb earlier, when he added
+                        the first new ending of nine lines to VIIa. But the fact that VIIb has
+                        survived in the manuscript suggests that Blake was never finally committed
+                        to excluding it, although he left no indication of how the Night should be
+                        fitted into the poem. However, as VIIb had been rearranged so that the
+                        second half (95:15-98:31) would follow on directly from VI, and the first
+                        half (91:1-95:14) would lead into the eighth Night, it is possible to
+                        conflate the two versions of the seventh Night simply by inserting the whole
+                        of VIIa between the transposed halves of VIIb. The scenes describing the
+                        tension between Los and Enitharmon would thus be placed in a context which
+                        would allow a relatively coherent narrative sequence to develop, describing
+                        a steady progress in the relationship of Los and Enitharmon, from disharmony
+                        to unity.</p>
+          <p>We have already seen how the transition from VI to 95:15 would work. The new
+                        beginning of the seventh Night would describe Urizen’s initial
+                        triumph over Tharmas and the Spectre (following their confrontation at the
+                        end of VI), the preparations for Urizen’s Universal Empire, Los and
+                        Tharmas rallying to the battle, the consequent degeneration of Los’s
+                        relationship with Enitharmon, and the universal conflict of the natural
+                        world: 
+						<q>
+							sullen the wooly sheep<lb/>
+							Walks thro the battle Dark &amp; fierce the Bull his rage<lb/>
+							Propagates thro the warring Earth the Lion raging in flames<lb/>
+							The Tyger in redounding smoke.<lb/>
+							<lb/>
+                            (98:17-20)
+                        </q>
+                        The transition from this part of VIIb to the beginning
+                        of VIIa would be assisted by the similarities between the lines above and
+                        77:6-9. Urizen, having conducted his preparations while sitting on a rock
+                        (95:16) now rises, causing Tharmas and the Spectre to flee once more.
+                        Leaving the battle, Urizen descends to the caves of Orc. After the
+                        confrontation with Orc, the narrative focuses on the disordered relationship
+                        of Los and Enitharmon. Vala is reborn, and is given charge over the howling
+                        Orc, an event which underlines the urgency of the problem of
+                        Urthona’s divided personality. On page 87 the narrative continues
+                        with an account of Los’s reunion first with the Spectre and then with
+                        Enitharmon. After the reconciliation (on page 90), which sets another part
+                        of the scheme of redemption in motion, the narrative would return to the
+                        confrontation between Vala and Orc, prepared for in 85:22. VIIb pages 91-95
+                        would follow effectively from the end of VIIa2. On page 90 Tharmas is
+                        heartened by the first signs of recovery: 
+						<q>
+							But Tharmas most rejoicd in hope of Enions return<lb/>
+							For he beheld new Female forms born forth upon the air<lb/>
+							<lb/>
+							(90:55-56)
+						</q>
+						But in pages 91-95, after Vala
+                        has embraced Orc she mocks this hope and attempts to deceive Tharmas
+                        (94:12-23), while the Dead descend upon her clouds and begin to take up the
+                        form of Satan, thus preparing for the epiphany of Satan in the eighth
+                        Night.</p>
+          <pb id="p12-133" n="133"/>
+          <p>This arrangement produces a seventh Night of about 790 lines, compared with
+                        about 620 in the eighth Night and about 850 in the ninth Night. The total
+                        sequence is inevitably rather disjointed, but Blake had used a comparable
+                        patchwork method when composing VIIb and VIII. Furthermore, the arrangement
+                        tends to reduce serious anomalies in the text rather than create them.</p>
+          <p>It seems that here, as elsewhere in the poem, Blake did not finally complete
+                        his revisions. We have no authority for this textual arrangement, but
+                        neither do we have authority to exclude VIIb from the poem. As I said at the
+                        beginning of this article, the problem compels editorial choice of an
+                        uncomfortable kind. I suggest we adopt an arrangement which includes all the
+                        available material necessary for a full understanding of the poem, and which
+                        introduces order to the narrative.</p>
+			  <figure n="BB209.1.82.MS.detail" rend="file" width="958" height="423">
+				<head><hi rend="i">The Four Zoas</hi>, p. 82 (detail).</head>
+			  </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>27.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1993-1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993/94</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">27.3</biblScope>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Interns</resp>
+              <name>Lauren Raimondi</name>
+              <name>Stacy Nabors</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Angela Esterhammer</name>
+              <name>Paula R. Feldman</name>
+              <name>Nelson Hilton</name>
+              <name>Robert Kiely</name>
+              <name>Anne K. Mellor</name>
+              <name>Morton D. Paley</name>
+              <name>George Anthony Rosso</name>
+              <name>Chris Rubinstein</name>
+              <name>David Simpson</name>
+              <name>Warren Stevenson</name>
+              <name>Dennis M. Welch</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993-1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_27">
+    <front>
+      <pb id="p27-65-66" n="65-66"/>
+      <div1 id="cover">
+        <figure n="cover.027.03.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 27<lb/>
+            NUMBER 3<lb/>
+            WINTER 1993/94</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-27-3-0001">
+        <table id="contents" rows="20" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">Contents</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Minute Particulars</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.butlin">Another Rediscovered Color Print by William
+Blake</ref><lb/>
+Martin Butlin</cell>
+            <cell>68</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.feldman">Felicia Hemans and the Mythologizing of Blake’s
+Death</ref><lb/>
+Paula R. Feldman</cell>
+            <cell>69</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.stevenson">The Image of Canada in Blake’s 
+<hi rend="i">America a Prophecy</hi></ref><lb/>
+Warren Stevenson</cell>
+            <cell>72</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Discussion</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.rubinstein">William Blake: A Man without Marx. .
+.?</ref><lb/>
+Chris Rubinstein</cell>
+            <cell>75</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Reviews</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.esterhammer">D. W. Dörrbecker, <hi rend="i">Konvention und
+Innovation: Eigenes und Entliehenes in der Bildform bei William Blake und in der britischen Kunst seiner
+Zeit</hi></ref>, reviewed by Angela Esterhammer</cell>
+            <cell>76</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.mellor">Gary Kelly, <hi rend="i">Revolutionary Feminism: The
+Mind and Career of Mary Wollstonecraft</hi></ref>, reviewed by Anne Mellor</cell>
+            <cell>78</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.bentley">Peter Canon-Brookes, ed. <hi rend="i">The Painted
+Word: British History Painting, 1750-1830</hi></ref>, reviewed by G. E. Bentley, Jr.</cell>
+            <cell>79</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="27.3.hilton">Laura 
+<corr type="emend" rend="plain">Dabundo,</corr> ed. <hi rend="i">Encyclopedia of Romanticism</hi>; and Jean Raimond, and J. R.
+Watson, eds. <hi rend="i">A Handbook to English Romanticism</hi></ref>,</corr> reviewed by Nelson
+Hilton</cell>
+            <cell>81</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.kiely">George Cumberland, <hi rend="i">The Captive of the
+Castle of Sennaar: An African Tale in Two Parts</hi>, ed. G. E. Bentley, Jr.</ref>, reviewed by Robert
+Kiely</cell>
+            <cell>82</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.cox">Stephen Cox, <hi rend="i">Love and Logic: The Evolution
+of Blake’s Thought</hi></ref>, reviewed by Angela Esterhammer</cell>
+            <cell>84</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.paley">Jon Mee, <hi rend="i">Dangerous Enthusiasm: William
+Blake and the Culture of Radicalism in the 1790s</hi></ref>, reviewed by Morton D. Paley</cell>
+            <cell>86</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.rosso">Linda Lewis, <hi rend="i">The Promethean Politics of
+Milton, Blake and Shelley</hi></ref>, reviewed by George Anthony Rosso</cell>
+            <cell>88</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.welch">Stephen C. Behrendt, <hi rend="i">Reading William
+Blake</hi></ref>, reviewed by Dennis M. Welch</cell>
+            <cell>91</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="27.3.simpson">David Worrall, <hi rend="i">Radical Culture:
+Discourse, Resistance, and Surveillance, 1790-1820</hi></ref>, reviewed by David Simpson</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Newsletter</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+            	<ref type="article" issue="27.3.huntington"><hi rend="i">Blake at the Huntington, Fall
+1994</hi></ref>, 
+            	<ref type="article" issue="27.3.conference"><hi rend="i">William Blake 1794-1994
+Conference</hi></ref>, <gap type="emend"/>
+            	<ref type="article" issue="27.3.soul"><hi rend="i">“States of the Human Soul: William Blake’s
+Songs of Innocence and of Experience,”</hi></ref> 
+            	<ref type="article" issue="27.3.index"><hi rend="i">The 1993</hi> Blake <hi rend="i">Cumulative
+Index</hi></ref>, 
+            	<ref type="article" issue="27.3.correction"><hi rend="i">Correction</hi></ref>
+            </cell>
+            <cell>98</cell>
+          </row>
+        </table>
+        <p>Cover photo: “‘Oh! Flames of Furious Desires,’ Plate 3 of <hi rend="i">Urizen</hi>,” c.
+1796. Private collection, Great Britain. <note type="unreferenced" place="footer">© 1994 Copyright Morris
+Eaves and Morton D. Paley</note></p>
+      </div1>
+      <pb id="p27-67" n="67"/>
+      <div1 id="BQ-27-3-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">G. E. BENTLEY, JR.</hi> of University College, University of Toronto, is finishing
+proofs of the <hi rend="i">Blake Books Supplement</hi> and, as the bibliographer of <hi rend="i">Blake</hi>,
+would much like to receive information about or copies of publications by or about Blake, particularly
+obscure, ephemera, or non-English ones.</p>
+        <p><hi rend="b">MARTIN BUTLIN</hi> retired as Keeper of the Historic British Collection at the Tate
+Gallery in June 1989. He is author of <hi rend="i">The Paintings and Drawings of William Blake</hi> (Yale UP,
+1981), and other works on Blake and J. M. W. Turner.</p>
+        <p><hi rend="b">ANGELA ESTERHAMMER</hi>, Assistant Professor in the Departments of English and Modern
+Languages at the University of Western Ontario, is completing a book on performative language and verbal
+authority in the work of Milton and Blake.</p>
+        <p><hi rend="b">PAULA R. FELDMAN</hi> is Professor of English at the University of South Carolina,
+co-editor of <hi rend="i">The Journals of Mary Shelley</hi> 2 vols. (Oxford: Clarendon Press, 1987), and
+editor of <hi rend="i">British Poetry by Women 1770-1840</hi>, forthcoming from the University Press of New
+England.</p>
+        <p><hi rend="b">NELSON HILTON</hi>’s <hi rend="i">Lexis Complexes: Literary Interventions</hi> will
+be published later this year by the University of Georgia Press.</p>
+        <p><hi rend="b">ROBERT KIELY</hi>, Loker Professor of English at Harvard, has recently published 
+<hi rend="i">Reverse Tradition: Postmodern Fictions and the Nineteenth-Century Novel</hi> (Harvard UP, 1993).</p>
+        <p><hi rend="b">ANNE K. MELLOR</hi> is Professor of English and Women’s Studies at UCLA. Her most
+recent books are <hi rend="i">Mary Shelley: Her Life, Her Fiction, Her Monsters</hi> (1988), and 
+<hi rend="i">Romanticism and Gender</hi> (1993). She is currently compiling a teaching anthology of male and
+female romantic writers and working on a study of Joanna Baillie.</p>
+        <p><hi rend="b">MORTON D. PALEY</hi> is co-editor (with Tim Fulford) of <hi rend="i">Coleridge’s
+Visionary Languages</hi>, a festschrift in honor of John Beer.</p>
+        <p><hi rend="b">GEORGE ANTHONY ROSSO</hi> has recently published <hi rend="i">Blake’s Prophetic
+Workshop: A Study of The Four Zoas</hi> (Bucknell University Press, 1993), and is co-editing an anthology with
+Jackie Di Salvo called <hi rend="i">Blake, Politics, and History.</hi></p>
+        <p><hi rend="b">CHRIS RUBINSTEIN</hi>, a solicitor by profession, and an active member of the Blake
+Society at St. James’s, London, England, has made a particular study of Blake’s philosophy.</p>
+        <p><hi rend="b">DAVID SIMPSON</hi>, Professor of English at the University of Colorado, Boulder is
+author of <hi rend="i">Romanticism, Nationalism and the Revolt Against Theory</hi> (Chicago UP, 1993).</p>
+        <p><hi rend="b">WARREN STEVENSON</hi>, University of British Columbia, is the author of 
+<hi rend="i">Poetic Friends: A Study of Literary Relations During the English Romantic Period.</hi> He has
+recently completed a study of “Romanticism and the Androgynous Sublime.”</p>
+        <p><hi rend="b">DENNIS M. WELCH</hi> is an Associate Professor of English at Virginia Tech; his
+article on <hi rend="i">Songs of Experience</hi> is forthcoming in <hi rend="i">English Studies.</hi></p>
+      </div1>
+      <div1 id="BQ-27-3-0003">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Interns:</hi> Lauren Raimondi, Stacy Nabors</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $50 for institutions, $25 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $8 per volume postal surcharge for surface mail, a $18 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Only one copy will be returned to authors.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0160-628x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">The Romantic Movement: A Selective and Critical Bibliography</hi> (ed. David V.
+Erdman et al.), American Humanities Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

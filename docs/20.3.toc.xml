@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1986-87</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986-87</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.3</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Stewart Crehan</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Stuart Peterfreund</name>
+              <name>Michael J. Tolley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <front>
+      <pb id="p20-73-74" n="73-74"/>
+      <div1 id="cover">
+        <figure n="cover.020.03.bqscan" rend="file" width="258" height="332">
+          <figTranscr>Blake<lb/>
+ AN ILLUSTRATED QUARTERLY<lb/>
+ VOLUME 20<lb/>
+ NUMBER 3<lb/>
+ WINTER
+            1986-87</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-20-3-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+            <cell>
+              <head>
+                <title>
+                  <hi rend="b">
+                    <hi rend="i">CONTENTS</hi>
+                  </hi>
+                </title>
+              </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.3.dorrbecker">Blake and His Circle: A Checklist of
+                Recent Publications</ref> by Detlef W. Dörrbecker</cell>
+            <cell>76</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.3.tolley">The <hi rend="i">Allegorical Female
+                  Figure</hi>: She Cometh With Clouds</ref> by Michael J. Tolley</cell>
+            <cell>101</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.3.heppner">The New Jerusalem Defended</ref> by
+              Christopher Heppner</cell>
+            <cell>102</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.3.crehan">Blake, Context and Ideology</ref> by
+              Stewart Crehan</cell>
+            <cell>104</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="20.3.peterfreund">Reply to Stewart Crehan</ref> by
+              Stuart Peterfreund</cell>
+            <cell>108</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="20.3.defaced"><hi rend="i">De-Faced Blake</hi></ref>, 
+                <ref type="article" issue="20.3.errata"><hi rend="i">Errata’s Errata</hi></ref>, 
+                <ref type="article" issue="20.3.play"><hi rend="i">Call for Plays</hi></ref>, 
+                <ref type="article" issue="20.3.energy"><hi rend="i">Energy and the
+                Imagination</hi></ref>
+            </cell>
+            <cell>110</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-20-3-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">STEWART CREHAN</hi> teaches in the Department of Literature and Languages,
+          University of Zambia. He is the author of <hi rend="i">Blake, Context and
+          Ideology.</hi></p>
+        <p><hi rend="b">D. W. DÖRRBECKER</hi>, an art historian at the University of Trier, is
+          presently preparing a notice of four hitherto unrecorded copies of Blake’s illuminated
+          books, which he located among the holdings of what used to be the royal collections of the
+          Austrian and Bavarian courts.</p>
+        <p><hi rend="b">CHRISTOPHER HEPPNER</hi>, Associate Professor of English at McGill
+          University, Montreal, has published articles on several aspects of Blake’s work.</p>
+        <p><hi rend="b">STUART PETERFREUND</hi> is the editor of <hi rend="i">Romanticism Past and
+            Present</hi> (which will become <hi rend="i">Nineteenth-Century Contexts</hi> with its
+          next volume), <hi rend="i">PSLS: The Newsletter of the Society for Literature and
+            Science</hi> (of which he is a founding member), and the <hi rend="i">Proceedings</hi>
+          of the Northeastern University Center for Literary Studies. He is working on a book that
+          studies the emergence of energy as a cultural concept in English during the period
+          1775-1825.</p>
+        <p><hi rend="b">MICHAEL J. TOLLEY</hi>, Reader in English at the University of Adelaide, is
+          currently at work on the page-by-page <hi rend="i">Night Thoughts</hi> commentary. He
+          postpones to another year or ten his massive study of Blake’s use of the Bible.</p>
+        <figure n="GrasshopperFish.20.3.bqscan" rend="file" width="600" height="103"/>
+      </div1>
+      <pb id="p20-75" n="75"/>
+      <div1 id="BQ-20-3-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley,
+          University of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West
+          Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant
+          Curator, Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of
+          Rochester, Rochester, NY 14627, <hi rend="b">Telephone</hi> 716/275-3820.<lb/>
+ Morton D.
+          Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+ Detlef W.
+          Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+          Germany. Nelson Hilton, Department of English, University of Georgia, Athens, GA
+          30602.<lb/>
+ Frances A. Carey, Department of Prints and Drawings, British Museum, Great
+          Russell Street, London WC1B 3DG, United Kingdom.</p>
+      </div1>
+      <div1 id="BQ-20-3-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of
+          the Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All
+          subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue.
+          Subscription payments received after the summer issue will be applied to the 4 issues of
+          the current volume. Foreign addresses (except Canada and Mexico) require a $3 per volume
+          postal surcharge for surface mail, a $10 per volume surcharge for air mail delivery. U.S.
+          currency or international money order necessary. Make checks payable to <hi rend="i">Blake
+            / An Illustrated Quarterly.</hi> Address all subscription orders and related
+          communications to Patricia Neill, <hi rend="i">Blake</hi>, Department of English,
+          University of Rochester, Rochester, NY 14627, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia
+          Neill for a list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented
+          according to the forms suggested in the MLA Style Sheet, 2nd ed., to either of the
+          editors: Morris Eaves, Dept. of English, University of Rochester, Rochester, NY 14627;
+          Morton D. Paley, Dept. of English, University of California, Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake /
+            An Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language
+          Associations International Bibliography, the Modern Humanities Research Association’s
+          Annual Bibliography of English Language and Literature, <hi rend="i">English Language
+            Notes’</hi> annual Romantic Bibliography, ART bibliographies MODERN, American Humanities
+          Index, and the Arts and Humanities Citation Index.</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p20-110" n="110"/>
+    	<figure n="bb421.1.19-18.ps.detail" id="bb421.1.spb.19" work-copy="bb421.1" rend="file" width="958" height="322">
+    		<figTranscr>I have heard thee with the hearing of the Ear but now my Eye seeth thee<lb/>
+    		<lb/>
+    		He that hath seen me hath seen my Father also<lb/>
+    		I &amp; my Father are One<lb/>
+    		<lb/>
+    		If you had known<lb/>
+    		me ye would<lb/>
+    		have known my<lb/>
+    		Father also and<lb/>
+    		from henceforth<lb/>
+    		ye know him &amp;<lb/>
+    		have seen him<lb/>
+    		<lb/>
+    		Believe me that<lb/>
+    		I am in the Father<lb/>
+    		&amp; the Father in me<lb/>
+    		He that loveth me<lb/>
+    		shall be loved of<lb/>
+    		my Father<lb/>
+    		For he dwelleth in<lb/>
+    		you &amp; shall be with<lb/>
+    		you<lb/>
+    		<lb/>
+    		He that loveth<lb/>
+    		me shall be loved<lb/>
+    		of my father &amp; I<lb/>
+    		will love him &amp;<lb/>
+    		manifest myself<lb/>
+    		unto him<lb/>
+    		And my Father<lb/>
+    		will love him &amp; we<lb/>
+    		will come unto him<lb/>
+    		&amp; make our abode<lb/>
+    		with him<lb/>
+    		<lb/>
+    		And the Father<lb/>
+    		shall give you<lb/>
+    		Another Comforter<lb/>
+    		that he may abide<lb/>
+    		with you for ever<lb/>
+    		Even the Spirit of<lb/>
+    		Truth whom the<lb/>
+    		World Cannot<lb/>
+    		recieve<lb/>
+    		<lb/>
+    		At that day ye shall know that I am in<lb/>
+    		my Father &amp; you in me &amp; I in you<lb/>
+    		If ye loved me ye would rejoice<lb/>
+    		because I said I go unto the Father<lb/>
+    		<lb/>
+    		WBlake<lb/>
+    		inv &amp; sculp</figTranscr>
+    	</figure>
+    </body>
+  </text>
+</TEI.2>

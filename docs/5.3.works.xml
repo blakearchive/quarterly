@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>5.3.works</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Works in Progress</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter, 1971-72</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971-72</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/an illustrated quarterly</title>
+                        <biblScope unit="volIss">05.3</biblScope>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Roberta Goetsch</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971-72"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_05">
+        <body>
+            <div1 id="BQ-05-3-0002">
+					<pb id="p05-165" n="165"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">WORKS IN PROGRESS</hi>
+                        </title>
+                    </head>
+                    <p>Hoover, Suzanne (Sudbury, Mass.): a group of essays on unexplored aspects of Blake’s
+reputation in the nineteenth century. Mrs. Hoover will be in England as an NEH Fellow for the academic year
+1972-73 to study British art and literature with particular reference to Blake.</p>
+                    <p>Mills, A. C. (Newnham College, Cambridge): a detailed study of the illustrations to 
+<hi rend="i">Jerusalem</hi>, their imagery and their relation to the text and to other of Blake’s works.</p>
+                    <p>Paley, Morton D. (University of California, Berkeley): a book on 
+<hi rend="i">Jerusalem.</hi> Paley has been named a Guggenheim Fellow for the academic year 1972-73 in order to
+enable him to complete his book.</p>
+                    <p>Peterson, Jane E. (Dallas, Texas): a Ph.D. dissertation, “William Blake:
+Experimentation in Form and Structure in the Works of 1788-95, Excluding the Manuscript Poems,” directed by T.
+C. Duncan Eaves at the University of Arkansas.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

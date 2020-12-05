@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.1.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Songs facsimile</title>
+				<author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 1, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.1</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Anne T. Kostelanetz</name>
+                            <name>Karen Walowit</name>
+                            <name>Alvin Rosenfeld</name>
+                            <name>Michael J. Tolley</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Joseph Anthony Wittreich, Jr.</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority/>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+			<pb id="p02-14" n="14"/>
+            <div1 id="BQ-02-1-0005">
+                <head>
+                    <title type="section">
+                        <hi rend="u">QUERIES</hi>
+                    </title>
+                </head>
+                <p>Ruthven Todd suggests: “The early facsimile of the <hi rend="u">Songs</hi> seems to be to
+be the work of one of the Linnell boys, unless, and this is pure guessing, it was made by Tatham for his own
+use. He is the only one of the Ancients who would fit in, and, on second thoughts, the Linnells were much more
+competent. Tommy Butts was out of the picture by 1821. . . . In addition, the engraving of the old man’s
+head on the verso of the fragment of <hi rend="u">America</hi> copper-plate suggests that Tommy was just a
+little more competent than the description would suggest. My only other suggestion would be to look into the
+Wilkinson family. Did he have daughters? He was enough of an enthusiast to have set a member of his family to
+work. As for the date of the paper, 1821, that doesn’t matter except as a date showing the work to have been
+done later.”</p>
+                <p>Do any readers know of other contemporary or near-contemporary Blake facsimiles?</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>39.1.jacobson</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake’s Proverbs of Hell: St. Paul and the Nakedness of Woman</title>
+        <author n="Jacobson">Howard Jacobson</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2005</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2005</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">39.1</biblScope>
+            <biblScope unit="volume">39</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Justin Van Kleeck</name>
+              <name>Robert N. Essick</name>
+              <name>Dr. David Groves</name>
+              <name>Howard Jacobson</name>
+              <name>Alexander Gourlay</name>
+              <name>Warren Stevenson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2005"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_39">
+    <body>
+	<pb id="p39-48" n="48"/>
+      <div1 id="BQ-39-1-0007">
+        <div2>
+          <head>
+            <title type="main">Blake’s Proverbs of Hell: St. Paul and the Nakedness of Woman</title>
+          </head>
+          <byline>By <docAuthor>Howard <name>Jacobson</name></docAuthor></byline>
+          <p>Blake’s <hi rend="i">Marriage of Heaven and Hell</hi> contains a section entitled Proverbs of
+Hell. This section, like the work as a whole, contains sharp satiric, even parodic, elements directed against
+the Bible, Blake’s devotion to Scripture notwithstanding.
+<pb id="p39-49" n="49"/>
+One of the proverbs therein is “The nakedness of woman is the work of God.”<supplied type="spacer"> </supplied><ref target="n87" type="note">1</ref> Strangely, as far as I know, no one has noted the sharp—one
+might say polemical—relationship of this aphorism to a famous passage in Paul’s first Letter to the
+Corinthians: “Every woman that prayeth or prophesieth with her head uncovered dishonoureth her head; for
+that is even all one as if she were shaven. For if the woman be not covered, let her also be shorn; but if it
+be a shame for a woman to be shorn or shaven, let her be covered. For a man indeed ought not to cover his
+head, forasmuch as he is the image and glory of god: but the woman is the glory of the man”
+(11:5-7).<supplied type="spacer"> </supplied><ref target="n88" type="note">2</ref> “The woman is the glory
+of the man.” Paul’s aphoristic structure is kept by Blake: “The nakedness of woman is the work of
+God.”<supplied type="spacer"> </supplied><ref target="n89" type="note">3</ref> Paul’s injunction that
+women need to keep their hair covered is countered by Blake’s overriding praise of the naked woman. While
+Paul condemns the baring of a woman’s head, Blake lauds her presence with no coverings at all. This
+rejection of Paul is another example of what Bloom calls “Blake’s Proverbs exist[ing] to break down
+orthodox categories of thought and morality.”<supplied type="spacer"> </supplied><ref target="n90"
+type="note">4</ref>
+	<note id="n87">1. Proverbs 25.</note>
+	<note id="n88">2. King James Version.</note>
+	<note id="n89">3. Verbal and structural (and perhaps satiric) echoes of Paul’s passage are already present
+in Blake three lines earlier, “The pride of the peacock is the glory of God” (22).</note>
+	<note id="n90">4. Harold Bloom, <hi rend="i">Blake’s Apocalypse</hi> (Ithaca, NY: Cornell UP, 1963)
+85.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.conference</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Conference on British Romantic Art and Europe</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">08.3</biblScope>
+                        <biblScope unit="volume">8</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <div1 id="BQ-08-3-0002">
+      	<pb id="p08-51" n="51"/>
+          <head>
+            <title type="main">
+              <hi rend="b">Conference on British Romantic Art and Europe</hi>
+            </title>
+          </head>
+          <p>A conference on “British Romantic Art and Europe” was held at the Courtauld Institute, London, on
+12, 13, and 14 December 1974, coinciding with the Turner exhibition at the Royal Academy. Five sessions were
+scheduled for the conference: three to discuss the relationship between British art and Italy, Germany, and
+France respectively; one devoted exclusively to the Turner exhibition; one to encompass archival material,
+photographic schemes, and other tools of research relevant to the subject. Each session was to include three
+half-hour papers given by invited speakers, followed by a discussion and brief contributions from two or three
+research students working in the field. Scheduled speakers were: David Irwin, Basil Skinner, and Francis
+Haskell on “Italy”; David Bindman, William Vaughan, and <corr type="emend">Rüdiger Joppien</corr> on “Germany”; Michael Kitson on
+“France.”</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

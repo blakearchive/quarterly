@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.4.shelley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Shelley Bicentenary UNISA</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.4</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Peter Otto</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <body>
+      <pb id="p25-174" n="174"/>
+      <div1 id="BQ-25-4-0007">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">SHELLEY BICENTENARY UNISA INTERNATIONAL CONFERENCE</hi>
+            </title>
+          </head>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">CALL FOR PAPERS</hi>
+              </title>
+            </head>
+            <p>The Department of English at the University of South Africa will hold a three-day international
+conference from 15 to 17 October 1992 to mark the bicentenary of the birth of Percy Bysshe Shelley. The title
+of the conference, “The Most Unfailing Herald,” refers to the role of poetry as the precursor of
+enlightenment and reform. According to the organizers, there will be scope for those who wish to relate
+Shelley’s thought to conditions prevailing in South Africa. Wellknown scholars from overseas will be
+participating in the conference. The conference fee, which includes lunch and tea, will be R100 (approx. $35)
+per delegate. Those interested in delivering a paper should contact the convener, Dr. Alan Weinberg, at: Dept.
+of English, PO Box 392, University of South Africa, 0001 Pretoria, South Africa. Tel: (012) 429-6294. Fax:
+(012) 429-3221.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

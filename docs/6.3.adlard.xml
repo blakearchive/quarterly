@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.adlard</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">The Age and Virginity of Lyca</title>
+        <author n="Adlard">John Adlard</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0004">
+        <pb id="p06-73" n="73"/>
+        <div2>
+          <head>
+            <title type="main">THE AGE AND VIRGINITY OF LYCA</title>
+          </head>
+          <byline>
+            <docAuthor>John <name>Adlard</name></docAuthor>
+          </byline>
+          <p>In Blake’s “The Little Girl Lost” Lyca is a virgin seven years old and Kathleen Raine finds the
+choice of age “inexplicable” (<hi rend="i">Blake and Tradition</hi>, I, 145). But the Commentary of Hierocles
+on the Golden Verses of Pythagoras tells us that the number seven itself is a virgin, a surprising statement
+explained in a single sentence from a translation Blake could well have read:
+<q>
+Now, the powers and properties of the unit, and of the septenary, are very great and excellent: for the unit,
+as the principle of all the numbers, contains in itself the powers of them all; and the seven being a virgin,
+and without any mother [Lyca had lost both father and mother], holds, in the second place, the virtue and the
+perfection of the unit, because it is not ingendered by any number within the interval of ten, as four is
+produced by twice two, six by twice three, and eight by twice four, nine by three times three and ten by twice
+five: neither does it produce any number within that interval, as the number two produces four, the
+<figure n="vda.j.p1" id="vda.j.illbk.01" work-copy="vda.j" rend="db" width="712" height="1000">
+	<figTranscr/>
+	<head>Left <hi rend="i">Visions of the Daughters of Albion</hi>, frontispiece.</head>
+	<figDesc>Rosenwald Collection, Library of Congress. Reproduced by permission.</figDesc>
+</figure>
+three nine, and the five ten.<lb/>
+<hi rend="i">The Commentary of Hierocles upon the Golden Verses of Pythagoras, translated from the Greek. The
+Second Edition, Corrected and Improved</hi> (Glasgow, 1756), p. 154. (The following page has a passage on the
+“quaternion,” which “contains and binds together all beings whatsoever, the elements, numbers, seasons, ages,
+societies, or communities,” of great relevance to Blake’s concept of the Four Zoas.)
+</q>
+It may be significant that a cloud tells another virgin, Thel, that he passes away “to tenfold life, to love,
+to peace and raptures holy” (<hi rend="i">The Book of Thel</hi> 3:11), since virginity in Hierocles is
+represented by an inability to “produce any number within that interval.” 
+<note type="unreferenced" place="footer"><hi rend="i">John Adlard edited the</hi> Blake <hi rend="i">volume in the Studio Vista Pocket
+Poets series (1970), and he authored a biography of Yeats’ early friend Count Eric Stenbock (1970), as well
+as</hi> The Sports of Cruelty <hi rend="i">(1972), a book mainly about Blake and folklore.</hi></note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

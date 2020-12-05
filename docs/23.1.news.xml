@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.1.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">New Newsletter</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.1</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert Essick</name>
+              <name>Michael Fischer</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>Marsha Keith Schuchard</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <div1 id="BQ-23-1-0008">
+      	<pb id="p23-42" n="42"/>
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">NEW NEWSLETTER</hi>
+            </title>
+          </head>
+          <p>The <hi rend="i">Northrop Frye Newsletter</hi>, a new biannual edited by Robert D. Denham,
+publishes articles about Frye and his work and reviews of his books. Each issue also includes a bibliographic
+supplement. Copies are free. Address submissions and inquiries to Robert D. Denham, <hi rend="i">Northrop Frye
+Newsletter</hi>, Box D, Emory, VA 24327.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

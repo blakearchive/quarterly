@@ -1,0 +1,4909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.3.lehrer</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">A Checklist of Blake Material in The Lessing J. Rosenwald Collection,
+Alverthorpe Gallery, Jenkintown, Pennsylvania</title>
+        <author n="Lehrer">Ruth Fine Lehrer</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1975-76</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975-76</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.3</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>David Schnur</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <front id="issue_03">
+      <pb id="p09-57-58" n="57-58"/>
+      <div1 id="BQ-09-3-0001">
+        <head>
+          <title type="main">
+            <hi rend="b">A Checklist of Blake Material in The Lessing J. Rosenwald Collection, Alverthorpe
+Gallery, Jenkintown, Pennsylvania</hi>
+          </title>
+        </head>
+        <byline>COMPILED BY <docAuthor>RUTH FINE <name>LEHRER</name>,</docAuthor> CURATOR</byline>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Contents</hi>
+            </title>
+          </head>
+          <table id="article-contents" rows="34" cols="3">
+            <row>
+              <cell>I.</cell>
+              <cell>Blake’s Works</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. Manuscripts</cell>
+              <cell>60</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Letters</cell>
+              <cell>60</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>C. Works Printed in Ordinary Type</cell>
+              <cell>60</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>D. Illuminated Books</cell>
+              <cell>60</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>E. Line Engravings</cell>
+              <cell>61</cell>
+            </row>
+            <row>
+              <cell>II.</cell>
+              <cell>Book Illustrations</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. Engraved by Blake from His Own Designs</cell>
+              <cell>62</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Designed by Blake, Engraved by Others</cell>
+              <cell>63</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>C. Engraved by Blake after Designs by Others</cell>
+              <cell>64</cell>
+            </row>
+            <row>
+              <cell>III.</cell>
+              <cell>Separate Plates</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. Engraved by Blake from His Own Designs</cell>
+              <cell>70</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Engraved by Blake after Designs by Others</cell>
+              <cell>71</cell>
+            </row>
+            <row>
+              <cell>IV.</cell>
+              <cell>Drawings and Water Colors</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. National Gallery of Art, Rosenwald Collection</cell>
+              <cell>72</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. The Library of Congress, Rosenwald Collection</cell>
+              <cell>75</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>C. Lessing J. Rosenwald Collection</cell>
+              <cell>76</cell>
+            </row>
+            <row>
+              <cell>V.</cell>
+              <cell>Color Printed Drawings and Paintings</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. Color Printed Drawings</cell>
+              <cell>78</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Paintings</cell>
+              <cell>78</cell>
+            </row>
+            <row>
+              <cell>VI.</cell>
+              <cell>Copper Plates</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. Engraved by Blake from His Own Designs</cell>
+              <cell>79</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Designed by Blake, Engraved by Others</cell>
+              <cell>79</cell>
+            </row>
+            <row>
+              <cell>VII.</cell>
+              <cell>Drawings by Others for Engravings by Blake</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. The Library of Congress, Rosenwald Collection</cell>
+              <cell>79</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Lessing J. Rosenwald Collection</cell>
+              <cell>79</cell>
+            </row>
+            <row>
+              <cell>VIII.</cell>
+              <cell>Miscellaneous Related Works</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. National Gallery of Art, Rosenwald Collection</cell>
+              <cell>80</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. The Library of Congress, Rosenwald Collection</cell>
+              <cell>80</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>C. Lessing J. Rosenwald Collection</cell>
+              <cell>82</cell>
+            </row>
+            <row>
+              <cell>IX.</cell>
+              <cell>Restrikes</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>A. National Gallery of Art, Rosenwald Collection</cell>
+              <cell>82</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B. Lessing J. Rosenwald Collection</cell>
+              <cell>82</cell>
+            </row>
+            <row>
+              <cell>Index</cell>
+              <cell>83</cell>
+              <cell/>
+            </row>
+          </table>
+          <note type="unreferenced" place="footer">Copyright ©1976 Morris Eaves and Morton D. Paley</note>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Introduction</hi>
+            </title>
+          </head>
+          <p>The checklist includes works by William Blake and works closely related to Blake’s oeuvre
+collected by Lessing J. Rosenwald. Currently housed at Alverthorpe Gallery, Jenkintown, Pennsylvania, most of
+the items are part of the collections of the Library of Congress and the National Gallery of Art, Washington,
+D. C. A few items remain in the private collection of Mr. Rosenwald.</p>
+          <p>Without assistance from numerous persons, the problems of compiling the checklist would have been
+magnified. Sincere appreciation is extended to the following: Martin Butlin, Larry Day, Robert N. Essick, and
+Lois Fern, who repeatedly offered information and advice; at Alverthorpe Gallery: Elizabeth J. Glassman,
+Kathleen T. Hunt, Florence H. Larson, Mildred C. Mackie, Anthony Rosati, Florence R. Schmidt, and Starr
+Siegle; at the Library of Congress: Thomas D. Burney and William Matheson; at the National Gallery: Peter
+Davidock and H. Diane Russell; at the University of New Mexico: Morris Eaves, Corinne Henning, Virginia Masi,
+and David Schnur.</p>
+          <p>Most importantly, appreciation goes to Lessing J. Rosenwald, whose farsightedness and generosity
+as a collector have made the checklist both necessary and possible. R.L.</p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Illustrations</hi>
+            </title>
+          </head>
+          <p>cover: The Ghost of Samuel Appearing to Saul, water color, listed p. 73. The four-color
+reproduction was made possible through the generous assistance of Lessing J. Rosenwald.</p>
+          <p>page 60: The Soul Hovering over the Body, color-printed relief etching, listed p. 61</p>
+          <p>page 62: St. Augustine Converting King Ethelbert of Kent (?), drawing, listed p. 73</p>
+          <p>page 63, column 1: Figure on knees, drawing, listed p. 74</p>
+          <p>page 63, column 2: Male figure, seated, drawing, listed p. 72</p>
+          <p>page 68: Figure stretched along the ground, drawing, recto, listed p. 76</p>
+          <p>page 69: Figure stretched along the ground, drawing, verso, listed p. 76</p>
+          <p>page 70: Reverend Robert Hawker, D. D., engraving, listed p. 71</p>
+          <p>page 71: Edmund Pitts, Esq., stipple engraving, listed p. 71</p>
+          <p>page 72: The Resurrection, drawing, listed p. 72 (B 4204)</p>
+          <p>page 73: And Saul Said Unto David, “Go and the Lord be with you,” drawing, listed p. 72</p>
+          <p>page 74: Seven figures seated, drawing, listed p. 72</p>
+          <p>page 75, column 1: Verso of <hi rend="i">The Eagle</hi> (for Hayley’s 
+<hi rend="i">Ballads</hi>); possibly the study for a frontispiece, drawing, listed p. 75</p>
+          <p>page 75, column 2: Variation of the above, listed p. 75</p>
+          <p>page 76, column 1: A woman with snaky locks, drawing, listed p. 76</p>
+          <p>page 76, column 2: Winged creature, drawing, listed p. 76</p>
+          <p>page 77, top: Several figures and horse in landscape, recto, drawing, listed p. 76</p>
+          <p>page 77, bottom: Variation of the above, verso, listed p. 76</p>
+          <p>page 78: Job and his Three Daughters, painting, listed p. 78</p>
+          <p>page 79: Figure in center of clouds, drawing, listed p. 74</p>
+          <p>pages 80-81: Lear and Cordelia, Butts Sr. or Jr. after Blake, engraving, five proofs, states 1-5,
+listed p. 80</p>
+          <p>page 82, column 1: The Death of Demosthenes (Kneeling figure leaning over a reclining figure),
+drawing, listed p. 82</p>
+          <p>page 82, column 2: Several studies for a monument, drawing, listed p. 82</p>
+          <p>page 84: Los in His Rage, drawing squared for etching, listed p. 73</p>
+        </div2>
+        <pb id="p09-59" n="59"/>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">Key</hi>
+            </title>
+          </head>
+          <table rows="19" cols="2">
+            <row>
+              <cell>B&amp;K</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job by William Blake.</hi> Lawrence Binyon and
+Geoffrey Keynes. New York: Pierpont Morgan Library, 1935.</cell>
+            </row>
+            <row>
+              <cell>B&amp;N</cell>
+              <cell><hi rend="i">A Blake Bibliography.</hi> G. E. Bentley, Jr., and Martin K. Nurmi.
+Minneapolis: Univ. of Minnesota Press, 1964.</cell>
+            </row>
+            <row>
+              <cell>BS</cell>
+              <cell><hi rend="i">Blake Studies</hi>, second ed. Geoffrey Keynes. Oxford: Clarendon Press,
+1971.</cell>
+            </row>
+            <row>
+              <cell>E&amp;E</cell>
+              <cell><hi rend="i">William Blake: Book Illustrator</hi>, Volume 1. Roger R. Easson and Robert N.
+Essick. Normal, Ill.: American Blake Foundation, 1972.</cell>
+            </row>
+            <row>
+              <cell>K</cell>
+              <cell><hi rend="i">A Bibliography of William Blake.</hi> Geoffrey Keynes. New York: Grolier
+Club, 1921.</cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="i">K</hi>
+              </cell>
+              <cell><hi rend="i">Engravings by William Blake: The Separate Plates.</hi> Geoffrey Keynes.
+Dublin: Emery Walker, 1956.</cell>
+            </row>
+            <row>
+              <cell>K<hi rend="s">†</hi></cell>
+              <cell><hi rend="i">Blake’s Pencil Drawings</hi>, second series. Geoffrey Keynes. London:
+Nonesuch Press, 1956.</cell>
+            </row>
+            <row>
+              <cell>K&amp;W</cell>
+              <cell><hi rend="i">William Blake’s Illuminated Books: A Census.</hi> Geoffrey Keynes and Edwin
+Wolf II. New York: Grolier Club, 1953.</cell>
+            </row>
+            <row>
+              <cell>L</cell>
+              <cell><hi rend="i">The Letters of William Blake.</hi> Ed. Geoffrey Keynes. Oxford: Clarendon
+Press, 1968.</cell>
+            </row>
+            <row>
+              <cell>LC</cell>
+              <cell>The Library of Congress, Washington, D.C.</cell>
+            </row>
+            <row>
+              <cell>LC#</cell>
+              <cell>The Library of Congress, Rosenwald Collection, catalogue number.</cell>
+            </row>
+            <row>
+              <cell>LJR</cell>
+              <cell>Lessing J. Rosenwald Collection (entered in LC column to save space).</cell>
+            </row>
+            <row>
+              <cell>NGA</cell>
+              <cell>National Gallery of Art, Washington, D.C.</cell>
+            </row>
+            <row>
+              <cell>NGA#</cell>
+              <cell>National Gallery of Art, Rosenwald Collection, accession number.</cell>
+            </row>
+            <row>
+              <cell>NGA 1957</cell>
+              <cell><hi rend="i">The Art of William Blake.</hi> Elizabeth Mongan. Washington, D.C.: National
+Gallery of Art, 1957.</cell>
+            </row>
+            <row>
+              <cell>R</cell>
+              <cell><hi rend="i">The Engravings of William Blake.</hi> Archibald G. B. Russell. Boston and New
+York: Houghton Mifflin, 1912.</cell>
+            </row>
+            <row>
+              <cell>r</cell>
+              <cell>recto.</cell>
+            </row>
+            <row>
+              <cell>v</cell>
+              <cell>verso.</cell>
+            </row>
+            <row>
+              <cell>2x, 3x</cell>
+              <cell>“two impressions,” “three impressions”: indicates that the print is held in two or three
+impressions without a difference in state unless a difference is noted. 2x may indicate two impressions
+belonging to LC under one catalogue number, or under two numbers (both numbers are then listed side by side),
+or one belonging to LC and one to NGA (numbers are then listed in both columns).</cell>
+            </row>
+          </table>
+          <p>Works in Part I (Blake’s Works) and Part II (Separate Plates) are listed by arabic numbers that
+precede the Keynes number: 1., 2., etc. If more than one item is held under one title, the numbering proceeds
+2/1, 2/2, 2/3, etc.</p>
+          <p>Works in Part II (Book Illustrations) are listed as follows: bound volumes are listed by arabic
+numbers that precede the Keynes number: 1., 2., etc.</p>
+          <p>a single print taken from a bound volume is listed by a number and a letter if it is the 
+<hi rend="i">first</hi> item of a numbered entry: 2a., 3a., etc.</p>
+          <p>all subsequent single prints in an entry are listed by letter only: a., b., etc.</p>
+          <p>an LC catalogue number for the first in a group of these single prints from books covers 
+<hi rend="i">all prints under that numbered entry</hi> unless otherwise noted; an NGA accession number covers only
+the item next to which it appears.</p>
+          <p>Titles in parentheses are descriptive.</p>
+          <p>* marks entries for which information was received from Martin Butlin.<gap type="emend"/></p>
+        </div2>
+      </div1>
+    </front>
+    <body>
+      <pb id="p09-60" n="60"/>
+      <div1 id="BQ-09-3-0002">
+        <figure n="bb136.a.5.ps" id="bb136.a.spb.05" work-copy="bb136.a" rend="db" width="958" height="398">
+	<figTranscr/>
+</figure>
+        <head>
+          <title>
+            <hi rend="b">I. Blake’s Works</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. Manuscripts</title>
+          </head>
+          <table rows="3" cols="5">
+            <row>
+              <cell>K #</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. 24:4</cell>
+              <cell><hi rend="i">A Fairy Leapt Upon My Knee</hi> (see IV, A, 21)</cell>
+              <cell>c. 1793</cell>
+              <cell/>
+              <cell>B 11,072</cell>
+            </row>
+            <row>
+              <cell>2. note: K, p. 126 note: K&amp;W, p.63</cell>
+              <cell>Ms. Index (2 leaves) for <hi rend="i">Songs of Innocence and of Experience</hi> (bound
+with proofs: I, D, 5/4)</cell>
+              <cell>c. 1818</cell>
+              <cell>RC ms. no. 7</cell>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">B. Letters</hi>
+            </title>
+          </head>
+          <table rows="5" cols="5">
+            <row>
+              <cell>K #</cell>
+              <cell>L #</cell>
+              <cell>RECIPIENT</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+            </row>
+            <row>
+              <cell>1. 57:8</cell>
+              <cell>14</cell>
+              <cell>George Cumberland</cell>
+              <cell>2 July 1800</cell>
+              <cell>RC ms. no. 6,1</cell>
+            </row>
+            <row>
+              <cell>2. 60:23</cell>
+              <cell>31</cell>
+              <cell>James Blake</cell>
+              <cell>30 January 1803</cell>
+              <cell>RC ms. no. 6,2</cell>
+            </row>
+            <row>
+              <cell>3. 64:47</cell>
+              <cell>59</cell>
+              <cell>William Hayley</cell>
+              <cell>28 September 1804</cell>
+              <cell>RC ms. no. 6,3</cell>
+            </row>
+            <row>
+              <cell>4. 71:80</cell>
+              <cell>142</cell>
+              <cell>John Linnell</cell>
+              <cell>February 1827?</cell>
+              <cell>RC ms. no. 6,4</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">C. Works Printed in Ordinary Type</hi>
+            </title>
+          </head>
+          <table rows="4" cols="7">
+            <row>
+              <cell>K #</cell>
+              <cell>REFERENCE</cell>
+              <cell>TITLE</cell>
+              <cell>COPY</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. 77:26</cell>
+              <cell>BS, p.45</cell>
+              <cell><hi rend="i">Poetical Sketches</hi> (with corrections in Blake’s hand on pp.4, 15, 24,
+44, 46, 64; bound with <hi rend="i">A Descriptive Catalogue of Pictures</hi> and <hi rend="i">A Catalogue of
+the Orleans’ Italian Pictures.</hi> London [1798] in 2 parts: I, C, 2/2)</cell>
+              <cell>T</cell>
+              <cell>1783</cell>
+              <cell>ND1942.B55A25 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2/1. 85:30</cell>
+              <cell>BS, p.72</cell>
+              <cell><hi rend="i">A Descriptive Catalogue of Pictures</hi> (annotated in Blake’s hand:
+addition on title page, correction on p.64)</cell>
+              <cell>L</cell>
+              <cell>1809</cell>
+              <cell>ND1942.B55A25</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2/2. 85:30</cell>
+              <cell>BS, p.72</cell>
+              <cell><hi rend="i">A Descriptive Catalogue of Pictures</hi> (bound with <hi rend="i">Poetical
+Sketches</hi> and <hi rend="i">A Catalogue of the Orleans’ Italian Pictures.</hi> London [1798] in 2 parts:
+I, C, 1)</cell>
+              <cell>K</cell>
+              <cell>1809</cell>
+              <cell>ND1942.B55A25 Copy 2</cell>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">D. Illuminated Books</hi>
+            </title>
+          </head>
+          <table rows="33" cols="6">
+            <row>
+              <cell>K # &amp; COPY</cell>
+              <cell>K&amp;W COPY</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1/1. 90:32 C</cell>
+              <cell>C</cell>
+              <cell>
+                <hi rend="i">There is No Natural Religion</hi>
+              </cell>
+              <cell>c. 1788</cell>
+              <cell>PR4144.T5 1790</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>1/2. 90:32 E</cell>
+              <cell>F (not noted as K copy E in K&amp;W)</cell>
+              <cell>
+                <hi rend="i">There is No Natural Religion</hi>
+              </cell>
+              <cell>c. 1788</cell>
+              <cell>PR4144.T5 1790 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. 97:34 E</cell>
+              <cell>B</cell>
+              <cell>
+                <hi rend="i">Songs of Innocence</hi>
+              </cell>
+              <cell>1789</cell>
+              <cell>PR4144.S6 1789b</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3/1. 103:35 F</cell>
+              <cell>H</cell>
+              <cell>
+                <hi rend="i">The Book of Thel</hi>
+              </cell>
+              <cell>1789</cell>
+              <cell>PR4144.B6 1789b</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3/2. 103:35 L</cell>
+              <cell>F</cell>
+              <cell>
+                <hi rend="i">The Book of Thel</hi>
+              </cell>
+              <cell>1789 (1794)</cell>
+              <cell>PR4144.B6 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3/3. 103:35</cell>
+              <cell>O*</cell>
+              <cell><hi rend="i">The Book of Thel</hi> (bound with <hi rend="i">Milton, A Poem</hi>: I, D,
+14)</cell>
+              <cell>1789 (1815)</cell>
+              <cell>PR4144.M6 1815</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>4. 107:36 E</cell>
+              <cell>D</cell>
+              <cell>
+                <hi rend="i">The Marriage of Heaven and Hell</hi>
+              </cell>
+              <cell>1790-93</cell>
+              <cell>PR4144.M3 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>5/1. 114:38 B</cell>
+              <cell>C</cell>
+              <cell>
+                <hi rend="i">Songs of Innocence and of Experience</hi>
+              </cell>
+              <cell>1794</cell>
+              <cell>PR4144.S6 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>5/2. 114:38 S</cell>
+              <cell>Z</cell>
+              <cell>
+                <hi rend="i">Songs of Innocence and of Experience</hi>
+              </cell>
+              <cell>1794 (182[5])</cell>
+              <cell>PR4144.S6 1826</cell>
+              <cell/>
+            </row>
+          </table>
+          <pb id="p09-61" n="61"/>
+          <table>
+            <row>
+              <cell>K # &amp; COPY</cell>
+              <cell>K&amp;W COPY</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>5/3. 114:38 g</cell>
+              <cell>g<hi rend="s">2</hi></cell>
+              <cell>
+                <hi rend="i">Songs of Experience</hi>
+              </cell>
+              <cell>1794 (1831)</cell>
+              <cell>PR4144.S5 1831</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>5/4. 114:38</cell>
+              <cell/>
+              <cell><hi rend="i">Songs of Innocence and of Experience</hi> 9 pls. on 8 leaves, K &amp; W p.
+50: 11, 30 31, 32, 37, 45, 47, r:40 (printed 2x on one side of sheet), v:50, partly cut off (bound with Ms.
+Index: I, A, 2)</cell>
+              <cell>1794</cell>
+              <cell>RC ms. no. 7</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>6/1. 129:39 G</cell>
+              <cell>J</cell>
+              <cell>
+                <hi rend="i">Visions of the Daughters of Albion</hi>
+              </cell>
+              <cell>1793 (1810?)</cell>
+              <cell>PR4144.V5 1810</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>6/2. 129:39 Q</cell>
+              <cell>a</cell>
+              <cell>
+                <hi rend="i">Visions of the Daughters of Albion</hi>
+              </cell>
+              <cell>1793 (4?)</cell>
+              <cell>PR4144.V5 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>7/1. 133:40 D</cell>
+              <cell>E</cell>
+              <cell><hi rend="i">America, A Prophecy</hi> (see VI, A, 1)</cell>
+              <cell>1793 (4?)</cell>
+              <cell>PR4144.A5 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>7/2. 133:40</cell>
+              <cell>a*(proofs)</cell>
+              <cell>
+                <hi rend="i">America, A Prophecy</hi>
+              </cell>
+              <cell>1793</cell>
+              <cell>NE642.B5A42</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>8/1. 139:41 E</cell>
+              <cell>E</cell>
+              <cell><hi rend="i">Europe, A Prophecy</hi> (see III, A, 4)</cell>
+              <cell>1794</cell>
+              <cell>PR4144.E8 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>8/2. 139:41</cell>
+              <cell>c*</cell>
+              <cell><hi rend="i">Europe, A Prophecy</hi> 4 proof sheets: 1, r pl. ii, v 
+<hi rend="i">Jerusalem</hi> pl. 8 2. r pl. 2, v pl. 7 3. r pl. 6, v blank 4. r pl. 9, v pl. 8</cell>
+              <cell>1794</cell>
+              <cell>NE2047.6 B55A47</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>8/3. 139:41</cell>
+              <cell/>
+              <cell>*<hi rend="i">Europe, A Prophecy</hi> pl. 15(2x) (bound with 9 pls. from 
+<hi rend="i">Jerusalem</hi>: I, D, 15/2)</cell>
+              <cell>1794</cell>
+              <cell>PR4144.J4 1832z</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>9. 144:42 F</cell>
+              <cell>G</cell>
+              <cell><hi rend="i">The</hi> [<hi rend="i">First</hi>] <hi rend="i">Book of Urizen</hi></cell>
+              <cell>1794 (1815)</cell>
+              <cell>PR4144.F5 1815</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>10. 149:43 B</cell>
+              <cell>B,5</cell>
+              <cell>From <hi rend="i">A Small Book of Designs</hi>, The Soul Hovering Over the Body (from pl.
+14, <hi rend="i">The Marriage of Heaven and Hell</hi>)</cell>
+              <cell>c. 1794</cell>
+              <cell/>
+              <cell>B 11,054</cell>
+            </row>
+            <row>
+              <cell>11. 152:44 B</cell>
+              <cell/>
+              <cell>From <hi rend="i">A large Book of Designs:</hi></cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>B,2</cell>
+              <cell>1. The Accusers of Theft, Adultery, Murder (War)</cell>
+              <cell>1793-95</cell>
+              <cell/>
+              <cell>B 11,038</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B,6</cell>
+              <cell>2. Joseph of Arimathea Preaching to the Inhabitants of Britain</cell>
+              <cell>c. 1794</cell>
+              <cell/>
+              <cell>B 11,053</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>B,8</cell>
+              <cell>3. Dream of Thiralatha (from <hi rend="i">America</hi>, pl. d)</cell>
+              <cell>1793</cell>
+              <cell/>
+              <cell>B 11,059</cell>
+            </row>
+            <row>
+              <cell>12. 153:45 B</cell>
+              <cell>B</cell>
+              <cell>
+                <hi rend="i">The Song of Los</hi>
+              </cell>
+              <cell>1795</cell>
+              <cell>PR4144.S47 1795</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>13. 155:46 (intaglio)</cell>
+              <cell>A</cell>
+              <cell>
+                <hi rend="i">The Book of Ahania</hi>
+              </cell>
+              <cell>1795</cell>
+              <cell>PR4144.B55 1795</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>14. 157:48 D</cell>
+              <cell>D</cell>
+              <cell><hi rend="i">Milton, A Poem</hi> (bound with <hi rend="i">The Book of Thel</hi>: I, D,
+3/3)</cell>
+              <cell>1804 (1815)</cell>
+              <cell>PR4144.M6 1815</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>15/1. 161:49 H</cell>
+              <cell>I</cell>
+              <cell><hi rend="i">Jerusalem</hi> (see IV, A, 12 r &amp; 18; IV, B, 5)</cell>
+              <cell>1804-1818 (1832)</cell>
+              <cell>PR4144.J4 1832</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>15/2. 161:49</cell>
+              <cell/>
+              <cell><hi rend="i">Jerusalem</hi> 9 pls.: 9, 19, 20, 38(2x), 48, 50, 58, 78 (bound with pl.
+15[2x] of <hi rend="i">Europe</hi>: I, D, 8/3)</cell>
+              <cell>1804-1818</cell>
+              <cell>PR4144.J4 1832z</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>15/3. 161:49</cell>
+              <cell/>
+              <cell><hi rend="i">Jerusalem</hi> pl. 8 (on v of <hi rend="i">Europe</hi>, pl. ii: I, D,
+8/2)</cell>
+              <cell>1804-1818</cell>
+              <cell>NE2047.6 B55A47</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>16. 170:50 A</cell>
+              <cell>A</cell>
+              <cell><hi rend="i">On Homer’s Poetry</hi> (and) <hi rend="i">On Virgil</hi></cell>
+              <cell>c. 1818-22</cell>
+              <cell/>
+              <cell>B 4203</cell>
+            </row>
+            <row>
+              <cell>17. 171:51 A</cell>
+              <cell>A</cell>
+              <cell>
+                <hi rend="i">The Ghost of Abel</hi>
+              </cell>
+              <cell>1822</cell>
+              <cell>PR4144.G5 1822</cell>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>E. Line Engravings</title>
+          </head>
+          <table rows="4" cols="7">
+            <row>
+              <cell>K #</cell>
+              <cell>REFERENCE</cell>
+              <cell>COPY</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1/1. 173:52</cell>
+              <cell>Blake Trust Facsimile, <hi rend="i">The Gates of Paradise</hi>, Keynes’ census of
+copies, 1968, Vol. I, p.47.</cell>
+              <cell>A</cell>
+              <cell>
+                <hi rend="i">For Children: The Gates of Paradise</hi>
+              </cell>
+              <cell>1793</cell>
+              <cell>PR4144.F6 1793a</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>1/2. 173:52</cell>
+              <cell>Blake Trust Facsimile, <hi rend="i">The Gates of Paradise</hi>, Keynes’ census of
+copies, 1968, Vol. I, p.48.</cell>
+              <cell>D</cell>
+              <cell>
+                <hi rend="i">For Children: The Gates of Paradise</hi>
+              </cell>
+              <cell>1793</cell>
+              <cell>PR4144.F6 1793</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. 175:53</cell>
+              <cell>Blake Trust Facsimile, <hi rend="i">The Gates of Paradise</hi>, Keynes’ census of
+copies, 1968, Vol. I, p.51.</cell>
+              <cell>K</cell>
+              <cell>
+                <hi rend="i">For the Sexes: The Gates of Paradise</hi>
+              </cell>
+              <cell>1805-10</cell>
+              <cell>PR4144.F65 1810</cell>
+              <cell/>
+            </row>
+          </table>
+          <table rows="15" cols="5">
+            <row>
+              <cell>K #</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>3/1. 179:55 i-iv, vi; see B&amp;K for sts.</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job</hi> (66 impressions on various papers and
+vellum including proofs drawn into by Blake; see IV, A, 27, 28, 31 and V, B, 2)</cell>
+              <cell>1825</cell>
+              <cell/>
+              <cell>B 4136-4201</cell>
+            </row>
+            <row>
+              <cell>3/2. 179:55 ii</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job</hi> (22 impressions on sheets, some of
+which bear a partial “T” watermark, measuring 256-57 × 195-98 mm., unbound but apparently bound at one
+time)</cell>
+              <cell>1825</cell>
+              <cell/>
+              <cell>B 4285-4307</cell>
+            </row>
+            <row>
+              <cell>3/3. 179:55 iv</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job</hi> (22 impressions on India paper laid
+onto J. Whatman Turkey Mill 1825 measuring 430-35 × 327-37 mm., unbound)</cell>
+              <cell>1825</cell>
+              <cell>NC1115.B6 1826 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3/4. 179:55 iv</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job</hi> (22 impressions on unwatermarked paper
+measuring 408-17 × 268-76 mm. and bound in [original] grey boards with label pasted on cover)</cell>
+              <cell>1825</cell>
+              <cell>NC1115.B6 1826 Copy 4</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3/5. 179:55 vi</cell>
+              <cell><hi rend="i">Illustrations of the Book of Job</hi> (regular issue, 22 impressions on India
+paper laid onto unwatermarked paper measuring 500-05 × 323-30 mm., bound in leather)</cell>
+              <cell>1825</cell>
+              <cell>NC1115.B6 1826 Copy 3</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>4/1. 182:56</cell>
+              <cell><hi rend="i">Blake’s Illustrations of Dante</hi> (7 impressions on India paper laid onto
+unwatermarked paper, with printed label; see VI, A, 2)</cell>
+              <cell>1827(1838?)</cell>
+              <cell>NE642.B5A45</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>4/2. 182:56 (titles correspond to those on the label noted in 4/1)</cell>
+              <cell>Blake’s <hi rend="i">Illustrations of Dante</hi> (NGA #’s marked * are printed on
+India paper laid onto unwatermarked paper; ** on unwatermarked paper similar to <hi rend="i">Job</hi> 3/2,
+above; *** on India paper laid onto [J. Whatman] 1822)</cell>
+              <cell>1827</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.I and like a corse fell to the ground.</cell>
+              <cell/>
+              <cell/>
+              <cell>B 7893*</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.II seiz’d on his arm,/And mangied bore away the sinewy part. (2x)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 7894** B 7895***</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.III so turn’d/His talons on his comrade.</cell>
+              <cell/>
+              <cell/>
+              <cell>B 7896**</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.IV lo! a serpent with six feet/Springs forth on one, (2x)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 7897* B 7898**</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.V lacking</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.VI Then two I mark’d, that sat/Propp’d ‘gainst each other,</cell>
+              <cell/>
+              <cell/>
+              <cell>B 8033**</cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>pl.VII “Wherefore dost bruise me?” weeping he/exclaim’d. (2x)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 7899* B 8034**</cell>
+            </row>
+          </table>
+        </div2>
+      </div1>
+      <pb id="p09-62" n="62"/>
+      <div1 id="BQ-09-3-0003">
+        <head>
+          <title>
+            <hi rend="b">II. Book Illustrations</hi>
+            <ref target="p62u2" type="note">†</ref>
+            <note id="p62u2"><hi rend="s">†</hi> For information regarding states we are indebted to Robert
+N. Essick.</note>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. Engraved by Blake from His Own Designs</title>
+          </head>
+          <table rows="25" cols="7">
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. 199:69 (all pls. are E&amp;E st. 1)</cell>
+              <cell>421A</cell>
+              <cell>
+                <hi rend="i">Original Stories from Real Life</hi>
+              </cell>
+              <cell>Wollstonecraft</cell>
+              <cell>1791</cell>
+              <cell>PZ6.W7 Or Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i(2x, NC1115.B656 is E&amp;E st. 2; NE642.B5A44, #1 is E&amp;E st. 3)</cell>
+              <cell>421B</cell>
+              <cell>Look what a fine</cell>
+              <cell/>
+              <cell>1796 ed.?</cell>
+              <cell>NE642.B5A44 #1</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>NC1115.B656 (includes 10 drawings: IV, B, 2; and 7 letters to H. B. Forman [5 from H. H.
+Gilchrist, 1 each from R. A. Potts and A. W. Drake] and 1 to A. E. Newton from G. Keynes)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii(2x, both impression E&amp;E st. 3)</cell>
+              <cell/>
+              <cell>The dog strove</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x, both impressions E&amp;E, st. 2)</cell>
+              <cell/>
+              <cell>Indeed we are</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv(E&amp;E st. 2)</cell>
+              <cell/>
+              <cell>Be calm, my child</cell>
+              <cell/>
+              <cell/>
+              <cell>Lacking</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v(2x, both impressions E&amp;E st. 2)</cell>
+              <cell/>
+              <cell>Trying to trace the sound</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vi(2x, both impressions E&amp;E st. 2)</cell>
+              <cell/>
+              <cell>Economy and self denial</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+        </table>
+          <figure n="BUT58.1.1.PD" rend="file" width="958" height="667"/>
+        <table>
+        	<row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>2/1. 200:70</cell>
+              <cell>422</cell>
+              <cell><hi rend="i">The Complaint, and The Consolation; or, Night Thoughts</hi> (hand colored by
+Blake; see II, B, 3)</cell>
+              <cell>Young</cell>
+              <cell>1797</cell>
+              <cell>NC1115.B7 1797</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2/2. 200:70</cell>
+              <cell>422</cell>
+              <cell><hi rend="i">The Complaint, and The Consolation; or, Night Thoughts</hi> (hand colored,
+possibly by Catherine Blake)</cell>
+              <cell>Young</cell>
+              <cell>1797</cell>
+              <cell>NC1115.B7 1797 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. r xii</cell>
+              <cell/>
+              <cell>A Man Measuring an Infant</cell>
+              <cell/>
+              <cell>1797</cell>
+              <cell>NE642.B5A44 #2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>v xiv</cell>
+              <cell/>
+              <cell>Time Creeping Along</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. 204:72</cell>
+              <cell>375</cell>
+              <cell><hi rend="i">Designs to a Series of Ballade</hi> (in original parts, lacking general
+title-page; see IV, B, 1 r)</cell>
+              <cell>Hayley</cell>
+              <cell>1802</cell>
+              <cell>PR3506.H9A6 1802 (includes an engraved portrait of Hayley by Ridley after Romney and
+original Ms. for “Ballad the Fourth, The Dog”)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>4a. 207:74 i (all impressions—4a-4e—E&amp;E st. 1)</cell>
+              <cell>374</cell>
+              <cell><hi rend="i">Ballads</hi>: The Dog</cell>
+              <cell>Hayley</cell>
+              <cell>1805</cell>
+              <cell>NE642.B5A44 #3</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii(2x)</cell>
+              <cell/>
+              <cell>The Eagle (see IV, B, 1 r)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>The Lion</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv(2x)</cell>
+              <cell/>
+              <cell>The Hermit’s Dog</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>The Horse</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>5. 209:75</cell>
+              <cell>359</cell>
+              <cell><hi rend="i">The Prologue and Characters of Chaucer’s Pilgrims</hi> (see III, A,
+8)</cell>
+              <cell>Chaucer</cell>
+              <cell>1812</cell>
+              <cell>PR1867.B55</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>6a. 211:77 B i-xiii; xvii-xx (woodcuts)</cell>
+              <cell>411</cell>
+              <cell><hi rend="i">The Pastorals of Virgil</hi> (Blake plates cut out, laid down and
+bound)</cell>
+              <cell>Thornton</cell>
+              <cell>1821</cell>
+              <cell/>
+              <cell>B 4826</cell>
+            </row>
+        </table>
+            <pb id="p09-63" n="63"/>
+        <table>
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>b. 211:77 B ii-v; vi-ix (woodcuts)</cell>
+              <cell/>
+              <cell><hi rend="i">The Pastorals of Virgil</hi> (8 proofs on 2 uncut sheets)</cell>
+              <cell/>
+              <cell>1821</cell>
+              <cell/>
+              <cell>B 11,086</cell>
+            </row>
+            <row>
+              <cell>7a. 215:78</cell>
+              <cell>400</cell>
+              <cell><hi rend="i">Remember Me!</hi> The Hiding of Moses (proof before pl. cut down)</cell>
+              <cell/>
+              <cell>1825</cell>
+              <cell/>
+              <cell>B 11,052</cell>
+            </row>
+            <row>
+              <cell>8. see II, C, 26d</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>9. see II, C, 32 d&amp;f</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. Designed by Blake, Engraved by Others</title>
+          </head>
+          <table rows="5" cols="9">
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE DESIGNS</cell>
+              <cell>ENGRAVER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. 216:79</cell>
+              <cell>356</cell>
+              <cell>
+                <hi rend="i">Leonora</hi>
+              </cell>
+              <cell>Bürger</cell>
+              <cell>1796</cell>
+              <cell>3</cell>
+              <cell>Perry</cell>
+              <cell>PT1829.L4E6 1796</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. 217:80</cell>
+              <cell>391</cell>
+              <cell><hi rend="i">A Father’s Memoirs of his Child</hi> (in original brown boards,
+rebacked)</cell>
+              <cell>Malkin</cell>
+              <cell>1806</cell>
+              <cell>1</cell>
+              <cell>Cromek (after Blake, Paye)</cell>
+              <cell>CT788.M2145M3</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i(also ii-iv by Cromek after T. W. Malkin)</cell>
+              <cell/>
+              <cell>Frontispiece</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Cromek (after Blake, Paye)</cell>
+              <cell>NE642.B5A44 #4</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. 221:82</cell>
+              <cell>3500</cell>
+              <cell><hi rend="i">The Grave, A Poem</hi> (inserted are a large number of impressions from
+Young’s <hi rend="i">The Complaint, and The Consolation; or, Night Thoughts</hi>: II, A, 2, cut and pasted
+down; see VI, B, 1)</cell>
+              <cell>Blair</cell>
+              <cell>1813 (quarto)</cell>
+              <cell>12</cell>
+              <cell>Schiavonetti</cell>
+              <cell>PR3318.B7A7 1813</cell>
+              <cell/>
+            </row>
+          </table>
+          <figure n="BUT229.1.1v.PD.reversed" rend="file" width="617" height="1000"/>
+          <figure n="BUT118.1.1v.PD" rend="file" width="695" height="1000"/>
+        </div2>
+        <pb id="p09-64" n="64"/>
+        <div2>
+          <head>
+            <title>C. Engraved by Blake after Designs by Others</title>
+          </head>
+          <table rows="130" cols="9">
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. 225:89</cell>
+              <cell>364D</cell>
+              <cell>
+                <hi rend="i">The Speaker</hi>
+              </cell>
+              <cell>Enfield</cell>
+              <cell>1780 (1795 ed.)</cell>
+              <cell>1</cell>
+              <cell>Stothard</cell>
+              <cell>PN4200.E6 1795</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2a. 226:91 ii</cell>
+              <cell>386</cell>
+              <cell><hi rend="i">The Lady’s Pocketbook:</hi> The Morning Amusements of her Royal
+Highness</cell>
+              <cell>Printed for Dodsley and Johnson</cell>
+              <cell>1782</cell>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell>B 4825</cell>
+            </row>
+            <row>
+              <cell>3a. 227:92 i</cell>
+              <cell>395A</cell>
+              <cell><hi rend="i">The Novelist’s Magazine</hi>, <hi rend="b">Vol. VIII</hi>: Don Quixote and
+the barber’s bason (st. 1)</cell>
+              <cell/>
+              <cell>1782 (83)</cell>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #5</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>The Last Testament of Don Quixote (st. 1)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>4a. 227:93 (frontispiece)</cell>
+              <cell>358</cell>
+              <cell><hi rend="i">The Poetical Works of Geoffrey Chaucer</hi>, Vol. XIII: Samson and
+Delila</cell>
+              <cell>Chaucer</cell>
+              <cell>1782 (83?)</cell>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #6</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>5. 228:94</cell>
+              <cell>404A</cell>
+              <cell><hi rend="i">The Poetical Works of John Scott Esq.</hi> (lacking illustration on
+p.89)</cell>
+              <cell>Scott</cell>
+              <cell>1782</cell>
+              <cell>4</cell>
+              <cell>Stothard</cell>
+              <cell>PR3671.S3 1782 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i</cell>
+              <cell/>
+              <cell>vignette: Two Shepherds listening to Damon’s complaint</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #7</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii(2x, one impression a proof before letters)</cell>
+              <cell/>
+              <cell>Contenment and the four seasons</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x, one impression a proof before letters)</cell>
+              <cell/>
+              <cell>Olmedo, Chaplain to Cortez</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell><corr type="emend">vignette:</corr> A female figure . . . “Sacred to Simplicity”</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>6a. 229:95</cell>
+              <cell>381</cell>
+              <cell><hi rend="i">Memoirs of Albert de Haller, M.D.</hi>; Frontispiece: Albert de Haller</cell>
+              <cell>Compiled by Henry</cell>
+              <cell>1783</cell>
+              <cell/>
+              <cell>Dunker</cell>
+              <cell>NE642.B5A44 #8</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>7a. 229:96 (2x, both impressions are st. I)</cell>
+              <cell>335(A)</cell>
+              <cell><hi rend="i">Orlando Furioso</hi>; Vol. III; facing p. 164 (see VII, A, 1)</cell>
+              <cell>Trans. of Ariosto with notes by Hoole</cell>
+              <cell>1783</cell>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #9</cell>
+              <cell>B 6426</cell>
+            </row>
+            <row>
+              <cell>8a. 230:97 1 (lacking Vol. II, ix)</cell>
+              <cell>401</cell>
+              <cell><hi rend="i">A Select Collection of English Songs</hi>, Vol. I: Headpiece to Love Songs,
+Class I: Lover kneeling before his lady</cell>
+              <cell>Ritson</cell>
+              <cell>1783</cell>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #10 (includes title page for Vol. The First and 2 vignettes not by
+Blake)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. r ii</cell>
+              <cell/>
+              <cell>Tailpiece to Love Songs, Class I: Woman on rock looking out to sea</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>v iii</cell>
+              <cell/>
+              <cell>Headpiece to Love Songs, Class II: Cupid playing lute</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iv</cell>
+              <cell/>
+              <cell>Headpiece to Love Songs, Class III: Lover parting from angry mistress</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. v</cell>
+              <cell/>
+              <cell>Tailpiece to Love Songs, Class III: Group dancing around maypole</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. vi</cell>
+              <cell/>
+              <cell>Headpiece to Love Songs, Class IV: Woman writing at desk</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vii</cell>
+              <cell/>
+              <cell>Tailpiece to Love Songs, Class IV: Cupids fly away from seated woman</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>g. viii</cell>
+              <cell/>
+              <cell>Headpiece to Love Songs, Class V: Two lovers in arbour</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>9. 231:98</cell>
+              <cell>420</cell>
+              <cell><hi rend="i">The Wit’s Magazine</hi>, Vols. 1&amp;2 (2 vols. in 1)</cell>
+              <cell/>
+              <cell>1784-85</cell>
+              <cell>5</cell>
+              <cell>Stothard &amp; Collings</cell>
+              <cell>AP3.W55 Copy 3</cell>
+              <cell/>
+            </row>
+          </table>
+    	  <pb id="p09-65" n="65"/>
+    	  <table>
+    	    <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>a. i(2nd version?; the existence of 2 versions published in different copies of the book
+was brought to our attention by Robert N. Essick)</cell>
+              <cell/>
+              <cell>Vol. I: Temple of Mirth (a proof before letters, see note K p.231) </cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell>NE642.B5A44 #11</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>Tythe in Kind; or the Sow’s Revenge</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Collings</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>The Discomfited Duellists</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Collings</cell>
+              <cell/>
+              <cell>B 4309</cell>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>The Blind Beggars Hats</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Collings</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v(2x)</cell>
+              <cell/>
+              <cell>May-Day in London</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Collings</cell>
+              <cell/>
+              <cell>B 4308</cell>
+            </row>
+            <row>
+              <cell>10a. 232: 100 i</cell>
+              <cell>386</cell>
+              <cell><hi rend="i">The Whole Genuine and Complete Works of Flavius Josephus</hi>: The Parting of
+Lot and Abraham (st. 2)</cell>
+              <cell>Indexes, etc. by Maynard</cell>
+              <cell>c.1786</cell>
+              <cell/>
+              <cell>Metz</cell>
+              <cell>NR642.B5A44 #12</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>The Battle of Ain (st. 2; see VII, B, 1)</cell>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. ii note</cell>
+              <cell/>
+              <cell>The Battle of Ain (impression of above subject from another plate with design
+reversed)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stothard</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iii</cell>
+              <cell/>
+              <cell>The Fugitive Shechemites (st. 2)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Metz</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>11. 233:101</cell>
+              <cell>389C</cell>
+              <cell><hi rend="i">Aphorisms On Man</hi> (in original boards, rebacked; with st.1 of pl.)</cell>
+              <cell>Lavater</cell>
+              <cell>1788 (1794 ed.)</cell>
+              <cell>1</cell>
+              <cell>Fuseli</cell>
+              <cell>PT2392.L2A3 1794 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. (3x, all st. 1)</cell>
+              <cell/>
+              <cell>Frontispiece</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #13</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>12a. 233:102 i(2x)</cell>
+              <cell>390</cell>
+              <cell><hi rend="i">Essays On Physiognomy</hi>: Democritus</cell>
+              <cell>Lavater</cell>
+              <cell>1789</cell>
+              <cell/>
+              <cell>Rubens</cell>
+              <cell>NE642.B5A44 #14 (includes a reduced copy, not by Blake, from later ed.)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>vignette: Hand with Candle (full sheet)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>LJR</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. ii</cell>
+              <cell/>
+              <cell>vignette: Hand with Candle (engraving only)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iii</cell>
+              <cell/>
+              <cell>vignette: Head of Spalding in Profile (full sheet)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. iii</cell>
+              <cell/>
+              <cell>vignette: Head of Spalding in Profile (engraving only)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>13a. 234: 103 i(3x)</cell>
+              <cell>363 A or B</cell>
+              <cell><hi rend="i">The Botanic Garden</hi> Fertilization of Egypt</cell>
+              <cell>Darwin</cell>
+              <cell>1791</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #15</cell>
+              <cell>B 4310</cell>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>The Portland Vase</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii</cell>
+              <cell/>
+              <cell>The First Compartment</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>The Second Compartment</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>Handle and Bottom of the Vase</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>14. 235:104</cell>
+              <cell>402A (adding pl. 33 to the 16 accepted by K)</cell>
+              <cell><hi rend="i">Elements of Morality</hi> (3 vols.)</cell>
+              <cell>Salzman</cell>
+              <cell>1791</cell>
+              <cell>16 (in K)</cell>
+              <cell>Chodowiecki</cell>
+              <cell>BJ1633.S17</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i(lacking Vol. 1: pls. iii, iv, vi-viii; Vol. II: pls. ix, x; Vol. III: pl. xi)</cell>
+              <cell>402B</cell>
+              <cell>Vol. I: Health is dearer to me</cell>
+              <cell/>
+              <cell>1792 ed. (all st. 2)</cell>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell>NE642.B5A44 #16 (includes impressions of pls. not attributed to Blake in K. Vol. I: pls.
+3, 10, 14; Vol. III: pls. 33-35, 38, 40, 42-46, 48, 50, as numbered on pls.)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>Stop! Stop!</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+          <pb id="p09-66" n="66"/>
+          <table>
+    	    <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>c. v</cell>
+              <cell/>
+              <cell>Patience can soften every pain</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. xii</cell>
+              <cell/>
+              <cell>Vol. III: A wicked man is more to be pitied</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. xiii</cell>
+              <cell/>
+              <cell>See how much good a single man can do!</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. xiv</cell>
+              <cell/>
+              <cell>How happy it is that</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>g. xv</cell>
+              <cell/>
+              <cell>Oh God! Thou art just!</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>h. xvi</cell>
+              <cell/>
+              <cell>See children how powerful God is!</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Chodowiecki</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>15a. 237: 105</cell>
+              <cell>373</cell>
+              <cell><hi rend="i">Observations on Man</hi>: Frontispiece: Bust of Hartley (proof impression
+lacking Blake’s name as engraver)</cell>
+              <cell>Hartley</cell>
+              <cell>1791</cell>
+              <cell/>
+              <cell>Shackleton</cell>
+              <cell>NE642.B5A44 #17</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>16/1. 238: 106</cell>
+              <cell>371A</cell>
+              <cell><hi rend="i">Fables</hi> (2 vols.)</cell>
+              <cell>Gay</cell>
+              <cell>1793</cell>
+              <cell>12</cell>
+              <cell/>
+              <cell>PR3473.F3 1793 Copy 3</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>16/2. 238: 106</cell>
+              <cell>371A</cell>
+              <cell><hi rend="i">Fables</hi> (2 vols., uncut and in original boards)</cell>
+              <cell>Gay</cell>
+              <cell>1793</cell>
+              <cell>12</cell>
+              <cell/>
+              <cell>PR3473.F3 1793 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i</cell>
+              <cell>371B(?)</cell>
+              <cell>Vol. I: Shepherd and Philosopher</cell>
+              <cell/>
+              <cell>1793 (worn and thus likely to be from 2nd, 1811, ed.)</cell>
+              <cell/>
+              <cell/>
+              <cell>NE642.B5A44 #18</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>The Miser and Plutus</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii</cell>
+              <cell/>
+              <cell>The Tame Stag</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>Pin and Needle</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>Goat Without a Beard</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vi</cell>
+              <cell/>
+              <cell>Butterfly and Snail</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>g. vii</cell>
+              <cell/>
+              <cell>The Persian, The Sun &amp; The Cloud</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>h. viii</cell>
+              <cell/>
+              <cell>Sitting-dog and Partridge</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>i. ix</cell>
+              <cell/>
+              <cell>The Owl and the Farmer</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>j. x</cell>
+              <cell/>
+              <cell>Vol. II: The Dog and the Fox</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>k. xi</cell>
+              <cell/>
+              <cell>Pan and Fortune</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>1. xii</cell>
+              <cell/>
+              <cell>The Ravens, the Sexton and the Earthworm</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>17. 239:108(2x) (see II, C, 23a)</cell>
+              <cell>363C&amp;D</cell>
+              <cell><hi rend="i">The Botanic Garden</hi> (3rd ed. of Part I; 4th ed. of Part II, in 2
+vols.)</cell>
+              <cell>Darwin</cell>
+              <cell>1794-95</cell>
+              <cell>6</cell>
+              <cell>various, see below</cell>
+              <cell>LJR</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a.</cell>
+              <cell>363(C)</cell>
+              <cell>Tornado</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #15</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>18. 240: 109</cell>
+              <cell>354</cell>
+              <cell><hi rend="i">Elements of Medicine of John Brown, M.D.</hi> (2 vols.; Samuel Coleridge’s
+copy)</cell>
+              <cell>Brown</cell>
+              <cell>1795</cell>
+              <cell>1</cell>
+              <cell>Donaldson</cell>
+              <cell>R733.B954 1795a</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a.</cell>
+              <cell/>
+              <cell>Frontispiece: Portrait of Dr. Brown</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Donaldson</cell>
+              <cell>NE642.B5A44 #19</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>19. 241: 111</cell>
+              <cell>408A</cell>
+              <cell><hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . . <hi rend="i">Surinam</hi>
+(2 vols.; Vol. II, 2x)</cell>
+              <cell>Stedman</cell>
+              <cell>1796</cell>
+              <cell>16</cell>
+              <cell>Stedman</cell>
+              <cell>F2410.S81 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i</cell>
+              <cell/>
+              <cell>Vol. I: A Coromantyn Free Negro</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell>NE642.B5A44 #20 (lacking Vol. I, i and Vol. II, xi)</cell>
+              <cell>B 4311</cell>
+            </row>
+            <row>
+              <cell>b. ii(2x)</cell>
+              <cell/>
+              <cell>A Negro hung alive</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4312</cell>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>A private Marine</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4313</cell>
+            </row>
+          </table>
+          <pb id="p09-67" n="67"/>
+          <table>
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>d. iv(2x)</cell>
+              <cell/>
+              <cell>The Mecoo and Kishee Kishee Monkeys</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4314</cell>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>The skinning of the Aboma Snake</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vi(2x)</cell>
+              <cell/>
+              <cell>Group of Negros</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4315</cell>
+            </row>
+            <row>
+              <cell>g. vii(2x)</cell>
+              <cell/>
+              <cell>The Sculls of Lieut. Leppar and Six of his Men</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4316</cell>
+            </row>
+            <row>
+              <cell>h. viii(2x)</cell>
+              <cell/>
+              <cell>Flagellation of a Female Samboe Slave</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4317</cell>
+            </row>
+            <row>
+              <cell>i. ix</cell>
+              <cell/>
+              <cell>Vol. II: The Quato &amp; Saccawinkee Monkeys</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>j. x(2x)</cell>
+              <cell/>
+              <cell>A Surinam Planter</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4318</cell>
+            </row>
+            <row>
+              <cell>k. xii(2x)</cell>
+              <cell/>
+              <cell>March thro’ a swamp</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4319</cell>
+            </row>
+            <row>
+              <cell>l. xiii(2x)</cell>
+              <cell/>
+              <cell>Family of Negro Slaves</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4320</cell>
+            </row>
+            <row>
+              <cell>m. xiv(2x)</cell>
+              <cell/>
+              <cell>The Execution</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell>B 4321</cell>
+            </row>
+            <row>
+              <cell>n. xv</cell>
+              <cell/>
+              <cell>The Celebrated Graman Quacy</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>o. xvi</cell>
+              <cell/>
+              <cell>Europe supported</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stedman</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>20a. 243:114</cell>
+              <cell>392</cell>
+              <cell><hi rend="i">The Monthly Magazine</hi>, Vol. IV: The late Mr. Wright of Derby</cell>
+              <cell/>
+              <cell>1797(98)</cell>
+              <cell/>
+              <cell/>
+              <cell>NE642.B5A44 #21</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>21a. 244:115 i</cell>
+              <cell>333</cell>
+              <cell><hi rend="i">The New and Improved History of England</hi>: Alfred and the Neat-Herd’s
+wife</cell>
+              <cell>Allen</cell>
+              <cell>1798</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #22</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>King John absolved by Pandulph</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii</cell>
+              <cell/>
+              <cell>Wat Tyler and the Tax-gatherer</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>Queen Elizabeth and Essex</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>22a. 244:116 i(3x)</cell>
+              <cell>334</cell>
+              <cell><hi rend="i">A New and Improved Roman History</hi> (2nd ed.): Mars and Rhea Silvia</cell>
+              <cell>Allen</cell>
+              <cell>1798</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #23</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii(2x)</cell>
+              <cell/>
+              <cell>The Death of Lucretia</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>C. Marius at Minturnum</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv(2x)</cell>
+              <cell/>
+              <cell>The Death of Cleopatra</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>23a. 245:118 i(2x) (see II, C, 17)</cell>
+              <cell>3630</cell>
+              <cell><hi rend="i">The Botanic Garden</hi> (4th ed.): Fertilization of Egypt</cell>
+              <cell>Darwin</cell>
+              <cell>1799</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #15 (includes impression by another hand for 1824 ed.; see K 246:118
+note)</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>The Portland Vase</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii</cell>
+              <cell/>
+              <cell>The First Compartment</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>The Second Compartment</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>Handle and Bottom of the Vase</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>24. 246:119</cell>
+              <cell>369</cell>
+              <cell><hi rend="i">A Letter to the Committee . . . Naval Pillar</hi> (uncut and unbound; see
+VIII, C, 1)</cell>
+              <cell>Flaxman</cell>
+              <cell>1799</cell>
+              <cell>3</cell>
+              <cell>Flaxman</cell>
+              <cell>NB497.F5A28</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>25a. 248:122 ii</cell>
+              <cell>370</cell>
+              <cell><hi rend="i">Lectures on Painting</hi> Ancora Imparo/M. Angelo Bonarroti</cell>
+              <cell>Fuseli</cell>
+              <cell>1801</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #24</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>26. 249:124</cell>
+              <cell>377A</cell>
+              <cell><hi rend="i">The Life, and Posthumous Writings, of William Cowper, Esq.</hi> (3 vols.) 1st
+ed. (inserted in Vol. I is letter from Hayley to Miss Fanny Meyer)</cell>
+              <cell>Hayley</cell>
+              <cell>1803 (04)</cell>
+              <cell>6</cell>
+              <cell>various, see below</cell>
+              <cell>PR3383.H4 1803</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i</cell>
+              <cell/>
+              <cell>Vol. I: William Cowper (see IV, B, 4)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Romney</cell>
+              <cell>NE642.B5A44 #25</cell>
+              <cell/>
+            </row>
+          </table>
+          <pb id="p09-68" n="68"/>
+          <table>
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>Mrs. Cowper</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Heins</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>Vol. II: William Cowper</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Lawrence</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv(2x, one impression is st. 1 from 1st ed.; the other is st. 2, probably from 2nd
+ed.)</cell>
+              <cell/>
+              <cell>design below Motto on a Clock</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Blake</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>Vol. III: A View of St. Edmund’s Chapel</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Stone</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vi</cell>
+              <cell/>
+              <cell>A sketch of the Monument</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Flaxman</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>27. 251:125</cell>
+              <cell>380A</cell>
+              <cell>
+                <hi rend="i">The Triumphs of Temper</hi>
+              </cell>
+              <cell>Hayley</cell>
+              <cell>1803</cell>
+              <cell>6</cell>
+              <cell>Maria Flaxman</cell>
+              <cell>LJR</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. i(2x)</cell>
+              <cell/>
+              <cell>Canto I, Verse 29</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell>NE642.B5A44 #26</cell>
+              <cell>B 4323</cell>
+            </row>
+            <row>
+              <cell>b. ii(2x)</cell>
+              <cell/>
+              <cell>Canto II, Verse 471</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell/>
+              <cell>B 4324</cell>
+            </row>
+            <row>
+              <cell>c. iii(2x)</cell>
+              <cell/>
+              <cell>Canto III, Verse 201</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell/>
+              <cell>B 4325</cell>
+            </row>
+            <row>
+              <cell>d. iv(2x)</cell>
+              <cell/>
+              <cell>Canto IV, Verse 328</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell/>
+              <cell>B 4327b</cell>
+            </row>
+            <row>
+              <cell>e. v(2x)</cell>
+              <cell/>
+              <cell>Canto V, Verse 43</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell/>
+              <cell>B 4326</cell>
+            </row>
+            <row>
+              <cell>f. vi(2x)</cell>
+              <cell/>
+              <cell>Canto VI, Verse 294</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Maria Flaxman</cell>
+              <cell/>
+              <cell>B 4327a</cell>
+            </row>
+        </table>
+          <figure n="BUT203.1.1r.PD" rend="file" width="700" height="741">
+          	<figTranscr/>
+          </figure>
+        <pb id="p09-69" n="69"/>
+          <figure n="BUT203.1.1v.PD" rend="file" width="700" height="742"/>
+        <table>
+            <row>
+              <cell>K # &amp; PL. #</cell>
+              <cell>B&amp;N #</cell>
+              <cell>TITLE</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>IF BOUND VOL., NO. OF BLAKE ENGRAVINGS</cell>
+              <cell>DESIGNER</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>28a. 253:128 i (3x, 1 impression of a proof with signatures before all other
+inscriptions)</cell>
+              <cell>407B</cell>
+              <cell><hi rend="i">The Plays of William Shakespeare</hi>, Vol. VII: Queen Katherine’s Dream
+(see IV, A, 12 v)</cell>
+              <cell>Shakespeare</cell>
+              <cell>1805</cell>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell>NE642.B5A44 #27</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii(2x, 1 impression of a proof with signatures before all other inscriptions)</cell>
+              <cell/>
+              <cell>Vol. X: Romeo and the Apothecary</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Fuseli</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>29a. 254:129</cell>
+              <cell>383</cell>
+              <cell><hi rend="i">An Inquiry into the Requisite Civilization . . . of the Arts of Design in
+England</hi>: Frontispiece: The Graphic Muse</cell>
+              <cell>Hoare</cell>
+              <cell>1806</cell>
+              <cell/>
+              <cell>Reynolds</cell>
+              <cell>NE642.B5A44 #28</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>30a. 254:130(2x)</cell>
+              <cell>378</cell>
+              <cell><hi rend="i">The Life of George Romney, Esq.</hi>: Sketch of a Shipwreck</cell>
+              <cell>Hayley (see VIII, B, 1)</cell>
+              <cell>1809</cell>
+              <cell/>
+              <cell>Romney</cell>
+              <cell>NE642.B5A44 #29</cell>
+              <cell>B 4328</cell>
+            </row>
+            <row>
+              <cell>31. 256:131</cell>
+              <cell>367A</cell>
+              <cell>
+                <hi rend="i">Compositions from the Works Days and Theogony of Hesiod</hi>
+              </cell>
+              <cell/>
+              <cell>1817</cell>
+              <cell>37</cell>
+              <cell>Flaxman</cell>
+              <cell>NC1115.F77 Copy 2</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>32a. 256:132 i</cell>
+              <cell>399</cell>
+              <cell><hi rend="i">The Cyclopaedia.</hi> Vol. I: Armour</cell>
+              <cell>Rees</cell>
+              <cell>1820</cell>
+              <cell/>
+              <cell/>
+              <cell>NE642.B5A44 #30</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. ii</cell>
+              <cell/>
+              <cell>Vol. II: Basso Relievo</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. iii</cell>
+              <cell/>
+              <cell>Vol. III: Miscellany (figs. 16, 17, 18)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Farey</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. iv</cell>
+              <cell/>
+              <cell>Vol. IV: Sculpture, pl. I (see IV, B, 3)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Blake</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. v</cell>
+              <cell/>
+              <cell>Sculpture, pl. II</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. vi</cell>
+              <cell/>
+              <cell>Sculpture, pl. III</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Blake</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>g. vii</cell>
+              <cell/>
+              <cell>Sculpture, pl. IV</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>33. not listed in K or B&amp;N</cell>
+              <cell/>
+              <cell>
+                <hi rend="i">Proposition for a New Order in Architecture</hi>
+              </cell>
+              <cell>
+                <hi rend="i">Emlyn</hi>
+              </cell>
+              <cell>1781</cell>
+              <cell>1(2?)</cell>
+              <cell/>
+              <cell>LJR</cell>
+              <cell/>
+            </row>
+          </table>
+          <pb id="p09-70" n="70"/>
+          <figure n="ESWBAXLI.1.1D.SP" rend="file" width="500" height="694"/>
+        </div2>
+      </div1>
+      <div1 id="BQ-09-3-0004">
+        <head>
+          <title>
+            <hi rend="b">III. Separate Plates</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. Engraved by Blake from His Own Designs</title>
+          </head>
+          <table rows="15" cols="7">
+            <row>
+              <cell>K #</cell>
+              <cell>R #</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. I, st. 2</cell>
+              <cell>1</cell>
+              <cell>
+                <hi rend="i">Joseph of Arimathea Among the Booke of Albion’</hi>
+              </cell>
+              <cell>1773</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,046</cell>
+            </row>
+            <row>
+              <cell>2. IIA</cell>
+              <cell>3</cell>
+              <cell>
+                <hi rend="i">The Dance of Albion (Glad Day)</hi>
+              </cell>
+              <cell>c. 1780-90</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,055</cell>
+            </row>
+            <row>
+              <cell>3/1. VIIA, st. 3</cell>
+              <cell>10c</cell>
+              <cell>
+                <hi rend="i">War (The Accusers of Theft, Adultery, Murder)</hi>
+              </cell>
+              <cell>1793-1810</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,037</cell>
+            </row>
+            <row>
+              <cell>3/2. VIIB</cell>
+              <cell>10c</cell>
+              <cell><hi rend="i">War (The Accusers of Theft, Adultery, Murder)</hi> (from <hi rend="i">A Large
+Book of Designs</hi>: see I, D, 11, 1)</cell>
+              <cell>1793-95</cell>
+              <cell>engraving, color printed</cell>
+              <cell/>
+              <cell>B 11,038</cell>
+            </row>
+            <row>
+              <cell>4. IX</cell>
+              <cell>15</cell>
+              <cell><hi rend="i">God Creating the Universe (The Ancient of Days)</hi> (see I, D, 8/1)</cell>
+              <cell>1794-95</cell>
+              <cell>relief etching, hand colored</cell>
+              <cell>NE2047.6 B55A423 1794</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>5. X</cell>
+              <cell>5</cell>
+              <cell><hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi> (from 
+<hi rend="i">A Large Book of Designs</hi>: see I, D, 11, 2)</cell>
+              <cell>c. 1794</cell>
+              <cell>relief etching, color printed</cell>
+              <cell/>
+              <cell>B 11,053</cell>
+            </row>
+            <row>
+              <cell>6. Xi, st. 2(2x)</cell>
+              <cell>31</cell>
+              <cell>
+                <hi rend="i">The Man Sweeping the Interpreter’s Parlor</hi>
+              </cell>
+              <cell>(1794)-1822</cell>
+              <cell>engraving</cell>
+              <cell>NE642.B5A46</cell>
+              <cell>B 11,049</cell>
+            </row>
+            <row>
+              <cell>7/1. XIV</cell>
+              <cell>22</cell>
+              <cell>unnamed print (Let Him look up into the Heavens and laugh in the bright air)</cell>
+              <cell>c. 1805</cell>
+              <cell>relief etching</cell>
+              <cell/>
+              <cell>B 11,039</cell>
+            </row>
+            <row>
+              <cell>7/2. XIV</cell>
+              <cell>22</cell>
+              <cell>unnamed print (Let Him look up into the Heavens and laugh in the bright air)</cell>
+              <cell>c. 1805</cell>
+              <cell>above plate, printed intaglio</cell>
+              <cell/>
+              <cell>B 24,255</cell>
+            </row>
+          </table>
+          <pb id="p09-71" n="71"/>
+          <table>
+            <row>
+              <cell>K #</cell>
+              <cell>R #</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>8/1. XVII, st. 1</cell>
+              <cell>24</cell>
+              <cell><hi rend="i">The Canterbury Pilgrims</hi> (see II, A, 5)</cell>
+              <cell>1810</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,058</cell>
+            </row>
+            <row>
+              <cell>8/2. XVII, st. 2</cell>
+              <cell>24</cell>
+              <cell>
+                <hi rend="i">The Canterbury Pilgrims</hi>
+              </cell>
+              <cell>1810</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,056</cell>
+            </row>
+            <row>
+              <cell>8/3. XVII, st. 4</cell>
+              <cell>24</cell>
+              <cell>
+                <hi rend="i">The Canterbury Pilgrims</hi>
+              </cell>
+              <cell>1810</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,057</cell>
+            </row>
+            <row>
+              <cell>9. XVIII</cell>
+              <cell>26</cell>
+              <cell>
+                <hi rend="i">The Chaining of Orc</hi>
+              </cell>
+              <cell>1812</cell>
+              <cell>relief etching</cell>
+              <cell/>
+              <cell>B 11,040</cell>
+            </row>
+            <row>
+              <cell>10. XXI (2x, one impression printed in sepia; one impression printed in black)</cell>
+              <cell>36</cell>
+              <cell>
+                <hi rend="i">George Cumberland’s Card</hi>
+              </cell>
+              <cell>1827</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 11,047 B 11,048</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. Engraved by Blake after Designs by Others</title>
+          </head>
+          <table rows="8" cols="7">
+            <row>
+              <cell><hi rend="i">K</hi> #</cell>
+              <cell>R #</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>AFTER</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. XXXII, st. 1</cell>
+              <cell>71</cell>
+              <cell>
+                <hi rend="i">Beggar’s Opera, Act III</hi>
+              </cell>
+              <cell>1788-90</cell>
+              <cell>Hogarth</cell>
+              <cell>engraving</cell>
+              <cell/>
+              <cell>B 13,957</cell>
+            </row>
+            <row>
+              <cell>2. XXXVI</cell>
+              <cell>76</cell>
+              <cell>
+                <hi rend="i">Edmund Pitts, Esq.</hi>
+              </cell>
+              <cell>c. 1790</cell>
+              <cell>Earle</cell>
+              <cell>stipple engraving</cell>
+              <cell>NE642.B5A464 #1</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. XXXVII (2x, LC impression is st. 2; NGA impression is cut above inscription)</cell>
+              <cell>92</cell>
+              <cell>
+                <hi rend="i">John Caspar Lavater</hi>
+              </cell>
+              <cell>1800</cell>
+              <cell/>
+              <cell>engraving</cell>
+              <cell>NE642.B5A464 #2 (includes a reduced and reversed version of subject engraved by J.
+Chapman, 1813, above 2nd vignette of figure seated at table in chamber)</cell>
+              <cell>B 4322</cell>
+            </row>
+            <row>
+              <cell>4. XLII</cell>
+              <cell>108</cell>
+              <cell>
+                <hi rend="i">Mrs. Q.</hi>
+              </cell>
+              <cell>1820</cell>
+              <cell>Villiers</cell>
+              <cell>stipple engraving printed in color</cell>
+              <cell/>
+              <cell>B 11,051</cell>
+            </row>
+            <row>
+              <cell>5. XLIII (2x, LC impression inscribed to Mr. Tatham from C. Blake)</cell>
+              <cell>not in R</cell>
+              <cell>
+                <hi rend="i">Reverend Robert Hawker, D.D.</hi>
+              </cell>
+              <cell>1820</cell>
+              <cell>Ponsford</cell>
+              <cell>engraving</cell>
+              <cell>NE642.B5A464 #4</cell>
+              <cell>B 4329</cell>
+            </row>
+            <row>
+              <cell>6. XLIV, st. 4(2x)</cell>
+              <cell>109</cell>
+              <cell>
+                <hi rend="i">Wilson Lowry</hi>
+              </cell>
+              <cell>1825</cell>
+              <cell>Linnell</cell>
+              <cell>engraving (by Blake &amp; Linnell)</cell>
+              <cell>NE642.B5A464 #5</cell>
+              <cell>B 4330</cell>
+            </row>
+          </table>
+          <figure n="ESXXXVI.1.2C.SP" rend="file" width="716" height="1000">
+          	<figTranscr>ad viv: del: J. Earle: Armig.<lb/>
+          	Guliels Blake sculp:<lb/>
+          	<lb/>
+          	Edmund Pitts, Esq.</figTranscr>
+          </figure>
+          <pb id="p09-72" n="72"/>
+          <figure n="BUT115.1.1r.WD" rend="file" width="958" height="772"/>
+        </div2>
+      </div1>
+      <div1 id="BQ-09-3-0005">
+        <head>
+          <title>
+            <hi rend="b">IV. Drawings and Water Colors</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. National Gallery of Art, Rosenwald Collection</title>
+          </head>
+          <table rows="49" cols="5">
+            <row>
+              <cell>TITLE</cell>
+              <cell>K<hi rend="s">†</hi> #</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. r <hi rend="i">The Resurrection</hi></cell>
+              <cell/>
+              <cell>1780’s</cell>
+              <cell>r pen &amp; ink with wash</cell>
+              <cell>B 4204</cell>
+            </row>
+            <row>
+              <cell><supplied type="spacer"> </supplied><ref target="p72u1" type="note">*</ref> v (Muscular
+torso seen from the rear and a foot, studies, probably after a piece of sculpture)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. r <hi rend="i">And Saul Said Unto David, “Go and the Lord be with you.”</hi></cell>
+              <cell/>
+              <cell/>
+              <cell>r pen &amp; ink over pencil</cell>
+              <cell>B 4205</cell>
+            </row>
+            <row>
+              <cell>v (Male figure, seated)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. r (Seven figures, seated)</cell>
+              <cell/>
+              <cell/>
+              <cell>r pen &amp; ink with wash</cell>
+              <cell>B 4206</cell>
+            </row>
+            <row>
+              <cell>v (Two figures, walking [?], a brief sketch)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="b">*</ref>4. r <hi rend="i">Whirlwind of Lovers</hi>
+(?); (Spiral of figures with figures standing at right; landscape and architectural detail)</cell>
+              <cell>51</cell>
+              <cell>c. 1826</cell>
+              <cell>r pencil</cell>
+              <cell>B 4207</cell>
+            </row>
+            <row>
+              <cell>v (Male figure, standing, and brief sketches)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="c">*</ref>5. Book of Enoch: <hi rend="i">Two Angels
+Descending to a Daughter of Man</hi></cell>
+              <cell>45</cell>
+              <cell>c. 1824-27</cell>
+              <cell>pencil</cell>
+              <cell>B 4833</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="d">*</ref>6. Book of Enoch: <hi rend="i">An Angel
+Telling a Daughter of Man the Secrets of Sin</hi></cell>
+              <cell>46</cell>
+              <cell>c. 1824-27</cell>
+              <cell>pencil</cell>
+              <cell>B 4834</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="e">*</ref>7. Book of Enoch: <hi rend="i">Daughter of
+Man as Siren Rising Exultant from a Prone Figure</hi></cell>
+              <cell>47</cell>
+              <cell>c. 1824-27</cell>
+              <cell>pencil</cell>
+              <cell>B 4835</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="f">*</ref>8. Book of Enoch: <hi rend="i">Enoch Standing
+Before the Throne of the Great Glory</hi></cell>
+              <cell>48</cell>
+              <cell>c. 1824-27</cell>
+              <cell>pencil</cell>
+              <cell>B 4836</cell>
+            </row>
+        </table>
+            <pb id="p09-73" n="73"/>
+          <figure n="BUT118.1.1r.PD.reversed" id="but118r.1.penink.01" work-copy="pid" rend="file" width="958" height="678"/>
+        <table>
+            <row>
+              <cell>TITLE</cell>
+              <cell>K<hi rend="s">†</hi> #</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="g">*</ref>9. Book of Enoch: <hi rend="i">The Son of Man
+as Messiah with Four Attendant Spirits</hi></cell>
+              <cell>49</cell>
+              <cell>c.1824-27</cell>
+              <cell>pencil</cell>
+              <cell>B 4837</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="h">*</ref>10. <hi rend="i">The Ghost of Samuel
+Appearing to Saul</hi></cell>
+              <cell/>
+              <cell>c.1800-05</cell>
+              <cell>watercolor</cell>
+              <cell>B 11,061</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="i">*</ref>11. <hi rend="i">And Power was Given Him Over
+all Kindreds and Tongues and Nations</hi>; or <hi rend="i">The Seven Headed Beast of the
+Apocalypse</hi></cell>
+              <cell/>
+              <cell>c.1800-05</cell>
+              <cell>watercolor</cell>
+              <cell>B 11,062</cell>
+            </row>
+            <row>
+              <cell>12. r <hi rend="i">Los in His Rage</hi> (study for I, D, 15/1, pl. 6, squared for
+etching), for <hi rend="i">Jerusalem</hi></cell>
+              <cell/>
+              <cell>1804</cell>
+              <cell>pencil</cell>
+              <cell>B 11,063</cell>
+            </row>
+            <row>
+              <cell>v <hi rend="i">Queen Katherine’s Dream</hi> (study for II, C, 28a; after a design by
+Fuseli, squared for etching; see IV, A, 32)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="j">*</ref>13. <hi rend="i">Great Red Dragon and Woman
+Clothed with the sun</hi></cell>
+              <cell/>
+              <cell>c.1800-05</cell>
+              <cell>watercolor</cell>
+              <cell>B 11,064</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="k">*</ref>14. <hi rend="i">Visionary Head of Wat
+Tyler’s Daughter</hi></cell>
+              <cell>32</cell>
+              <cell>c.1819</cell>
+              <cell>pencil</cell>
+              <cell>B 11,065</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="l">*</ref>15. <hi rend="i">Visionary Portrait of King
+Canute</hi></cell>
+              <cell/>
+              <cell>c.1819</cell>
+              <cell>pencil</cell>
+              <cell>B 11,066</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="m">*</ref>16. <hi rend="i">Visionary Head of King
+Edward III</hi> (inscription by Varley)</cell>
+              <cell/>
+              <cell>c.1819</cell>
+              <cell>pencil</cell>
+              <cell>B 11,067</cell>
+            </row>
+            <row>
+              <cell>17. r <hi rend="i">A Warring Angel</hi></cell>
+              <cell/>
+              <cell/>
+              <cell>r pencil</cell>
+              <cell>B 11,068</cell>
+            </row>
+            <row>
+              <cell>v (Man with arms upraised, The Resurrection?)</cell>
+              <cell/>
+              <cell>c.1780-90?</cell>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>18. r <hi rend="i">Time’s Triple Bow</hi> (study for I, D, 15/1, pl. 39), for 
+<hi rend="i">Jerusalem</hi></cell>
+              <cell>28</cell>
+              <cell/>
+              <cell>r pencil</cell>
+              <cell>B 11,069</cell>
+            </row>
+            <row>
+              <cell>v (Figures in a spiral [?], brief sketch)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="n">*</ref>19. (Seven figures, three seated at center,
+one standing to the left, and three standing to the right; possibly a re-working of the 1779 water-color 
+<hi rend="i">St. Augustine Converting King Ethelbert of Kent</hi>)</cell>
+              <cell/>
+              <cell>c.1793</cell>
+              <cell>pencil</cell>
+              <cell>B 11,070</cell>
+            </row>
+            <row>
+              <cell>20. <hi rend="i">Pestilence</hi></cell>
+              <cell>11</cell>
+              <cell>c.1805</cell>
+              <cell>pencil</cell>
+              <cell>B 11,071</cell>
+            </row>
+        </table>
+            <pb id="p09-74" n="74"/>
+          <figure n="BUT148.1.1r.WD" rend="file" width="958" height="779"/>
+        <table>
+            <row>
+              <cell>TITLE</cell>
+              <cell>K<hi rend="s">†</hi> #</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>21. r <hi rend="i">The Infant Hercules Throttling the Serpents</hi></cell>
+              <cell>5</cell>
+              <cell>c.1793</cell>
+              <cell>r pencil</cell>
+              <cell>B 11,072</cell>
+            </row>
+            <row>
+              <cell>v Ms.: <hi rend="i">A Fairy Leapt Upon My Knee</hi> (I, A, 1)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>22. r (Two legs, studies; vouched by Tatham)</cell>
+              <cell/>
+              <cell>after 1802</cell>
+              <cell>r pencil</cell>
+              <cell>B 11,073</cell>
+            </row>
+            <row>
+              <cell>v printed: Ballad The First of Hayley’s <hi rend="i">Designs to a Series of
+Ballads</hi>, 1802, p.9</cell>
+              <cell/>
+              <cell/>
+              <cell>v type</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>23. r <hi rend="i">Descent of Peace</hi> (sketch for Milton’s ode <hi rend="i">On the
+Morning of Christ’s Nativity</hi>; vouched by Tatham)</cell>
+              <cell>26</cell>
+              <cell>1809</cell>
+              <cell>r pencil</cell>
+              <cell>B 11,074</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="o">*</ref> v (Upper torso of male figure, possibly a
+rough sketch for <hi rend="i">Adam Naming the Beasts</hi>)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>24. (Figure in center of clouds; vouched by Tatham)</cell>
+              <cell/>
+              <cell/>
+              <cell>pencil</cell>
+              <cell>B 11,075</cell>
+            </row>
+            <row>
+              <cell>25. r (Two figures, standing)</cell>
+              <cell/>
+              <cell/>
+              <cell>r pencil</cell>
+              <cell>B 11,076</cell>
+            </row>
+            <row>
+              <cell>v (Border design; vouched by Tatham)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>26. r (Figures in a spiral of clouds)</cell>
+              <cell/>
+              <cell/>
+              <cell>r pencil</cell>
+              <cell>B 11,077</cell>
+            </row>
+            <row>
+              <cell>v (Figure seated, with open book on lap; vouched by Tatham)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>27. <hi rend="i">Job Recounting his Experiences to his Daughters</hi> (study for I, E, 3,
+pl. 20; see V, B, 2)</cell>
+              <cell>42</cell>
+              <cell>1824</cell>
+              <cell>pencil</cell>
+              <cell>B 11,078</cell>
+            </row>
+            <row>
+              <cell><ref target="p72u1" type="note" n="p">*</ref>28. <hi rend="i">Lord Torrens and Family</hi>
+	<note id="p72u1">* For suggestions regarding subjects and/or dates of entries marked *, we are indebted to
+Martin Butlin.</note>
+	</cell>
+              <cell/>
+              <cell>c.1820?</cell>
+              <cell>pen &amp; ink</cell>
+              <cell>B 11,079</cell>
+            </row>
+            <row>
+              <cell>29. <hi rend="i">Illustrations of the Book of Job</hi>, Title Page, a study (vouched by
+Tatham with a note by Rossetti on v; see I, E, 3)</cell>
+              <cell/>
+              <cell>1824</cell>
+              <cell>pencil</cell>
+              <cell>B 11,080</cell>
+            </row>
+            <row>
+              <cell>30. <hi rend="i">Portrait of John Linnell</hi> (inscription by Linnell)</cell>
+              <cell>44</cell>
+              <cell>1825</cell>
+              <cell>pencil</cell>
+              <cell>B 11,081</cell>
+            </row>
+            <row>
+              <cell>31. <hi rend="i">A Vision of the Day of Judgment</hi>; or <hi rend="i">The Last
+Judgment</hi></cell>
+              <cell>27</cell>
+              <cell>c.1810</cell>
+              <cell>pencil with pen &amp; ink &amp; wash</cell>
+              <cell>B 11,082</cell>
+            </row>
+            <row>
+              <cell>32. <hi rend="i">Job and his Family Restored to Prosperity</hi> (study for I, E, 3, pl.
+21)</cell>
+              <cell/>
+              <cell>c.1822</cell>
+              <cell>watercolor</cell>
+              <cell>B 11,083</cell>
+            </row>
+            <row>
+              <cell>33. <hi rend="i">Queen Katherine’s Dream</hi> (see IV, A, 12 v)</cell>
+              <cell/>
+              <cell>1825</cell>
+              <cell>watercolor</cell>
+              <cell>B 11,197</cell>
+            </row>
+            <row>
+              <cell>34. r <hi rend="i">Los Supporting the Sun</hi></cell>
+              <cell>24</cell>
+              <cell>1815</cell>
+              <cell>r pencil</cell>
+              <cell>B 14,344</cell>
+            </row>
+            <row>
+              <cell>v (Figure on knees, one arm wrapped around legs, the other, stretched overhead, holding
+shield)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>35. Christian Descends the Hill from the Pilgrim’s House (from <hi rend="i">Pilgrim’s
+Progress</hi>)</cell>
+              <cell/>
+              <cell>prior to 1820</cell>
+              <cell>pencil &amp; watercolor</cell>
+              <cell>B 22,228</cell>
+            </row>
+          </table>
+        </div2>
+        <pb id="p09-75" n="75"/>
+        <div2>
+          <head>
+            <title>B. The Library of Congress, Rosenwald Collection</title>
+          </head>
+          <table rows="23" cols="5">
+            <row>
+              <cell>TITLE</cell>
+              <cell>K<hi rend="s">†</hi> #</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+            </row>
+            <row>
+              <cell>1. r <hi rend="i">The Eagle</hi> (on two sheets; study for II, A, 3 and II, A, 4b)</cell>
+              <cell/>
+              <cell>prior to 1802</cell>
+              <cell>r pencil v 2 sheets</cell>
+              <cell>NC1115.B639</cell>
+            </row>
+            <row>
+              <cell>v 2 sheets:</cell>
+              <cell/>
+              <cell/>
+              <cell>1. pen over</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>1. reading from top to bottom: (Figure, seated on sphere, flanked by rearing horses; two
+figures, one at left, one at right, entwined with creatures [one, a serpent?], flanking brief sketches and
+surrounded by stars; figure, standing with arm upraised pointing to sky and next to seated figure, both in
+cave[?]; female figure, reclining [possibly a study for a frontispiece])</cell>
+              <cell/>
+              <cell/>
+              <cell>pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. variation on above</cell>
+              <cell/>
+              <cell/>
+              <cell>2. pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. <hi rend="i">Original Stories from Real Life</hi>, ten related drawings (see K p. 199
+note; and II, A, 1)</cell>
+              <cell/>
+              <cell>c. 1791</cell>
+              <cell>wash</cell>
+              <cell>NC1115.B656 (includes 5 engravings from 1796 ed.: II, A, 1a-d, f; 7 letters to H. B.
+Forman [5 from H. H. Gilchrist, 1 each from R. A. Potts and A. W. Drake] and 1 to A. E. Newton from G.
+Keynes)</cell>
+            </row>
+        </table>
+          <figure n="BUT361.1.1v.PS" rend="file" width="678" height="1000"/>
+          <figure n="BUT361.1.2v.PS" rend="file" width="732" height="1000"/>
+            <pb id="p09-76" n="76"/>
+        <table>
+            <row>
+              <cell>TITLE</cell>
+              <cell>K<hi rend="s">†</hi> #</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+            </row>
+            <row>
+              <cell>a. Look what a fine morning it is (study for II, A, 1a)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>b. The dog strove to attract his attention (study for II, A, 1b)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>c. Indeed we are very happy: (study for II, A, 1c)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>d. Be calm, my <corr type="emend">child (study</corr> for II, A, 1d)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>e. Economy and self denial (study for II, A, 1f)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>f. How delighted the old bird will be</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>g. God sent for him</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>h. Every prospect smiled</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>i. (Children clinging to Mother’s skirt)</cell>
+              <cell/>
+              <cell/>
+              <cell>wash drawing laid onto and covering half of a 2nd sheet bearing a pencil sketch</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>j. She turned her eyes on her cruel master</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. <hi rend="i">Sculpture</hi> (study for II, C, 32d; vouched by Tatham)</cell>
+              <cell/>
+              <cell>c. 1816</cell>
+              <cell>pencil with pen &amp; ink &amp; wash</cell>
+              <cell>NE642.B5A44 #30</cell>
+            </row>
+            <row>
+              <cell>4. <hi rend="i">William Cowper</hi> (after Romney; study for II, C, 26a)</cell>
+              <cell/>
+              <cell>c. 1803</cell>
+              <cell>pencil, ink &amp; wash</cell>
+              <cell>NE642.B5A465</cell>
+            </row>
+            <row>
+              <cell>5. <hi rend="i">Albion and the Letter that Killeth</hi> (study for 1, 0, 15, pl. 41), for
+<hi rend="i">Jerusalem</hi></cell>
+              <cell>29 (wrongly listed as NGA, RC)</cell>
+              <cell>c. 1804-20</cell>
+              <cell>pencil</cell>
+              <cell>NC242.B55A423</cell>
+            </row>
+            <row>
+              <cell>6. r (A woman with snaky locks, draped in a veil, the ends held in her upraised hands;
+flower-forms on either side)</cell>
+              <cell/>
+              <cell>c. 1793?</cell>
+              <cell>r pencil</cell>
+              <cell>NC242.B55A52</cell>
+            </row>
+            <row>
+              <cell>v (Winged creature; inscribed “Father &amp; Mother I return/from flames of fire, tried and
+pure/&amp; white”)</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>7. r (A figure stretched along the ground, another with arms raised in
+astonishment)</cell>
+              <cell/>
+              <cell/>
+              <cell>r pencil</cell>
+              <cell>NC242.B55A43</cell>
+            </row>
+            <row>
+              <cell>v variation on above</cell>
+              <cell/>
+              <cell/>
+              <cell>v pencil with pen &amp; ink &amp; wash</cell>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>C. Lessing J. Rosenwald Collection</title>
+          </head>
+          <table rows="2" cols="2">
+            <row>
+              <cell>1. r (Several figures and horse in landscape)</cell>
+              <cell>r pencil</cell>
+            </row>
+            <row>
+              <cell>v variation of above (sheet recently noted as being by Blake by Robert N. Essick)</cell>
+              <cell>v pencil</cell>
+            </row>
+          </table>
+          <figure n="BUT202.1.1r.PD" rend="file" width="500" height="501"/>
+          <figure n="BUT202.1.1v.PD" rend="file" width="500" height="512"/>
+          <pb id="p09-77" n="77"/>
+          <figure n="BUT80.1.1r.PD" rend="file" width="958" height="666"/>
+          <figure n="BUT80.1.1v.PD" rend="file" width="958" height="656"/>
+        </div2>
+      </div1>
+      <pb id="p09-78" n="78"/>
+      <figure n="but394.1.1.pt" id="but394.1.pt.01" work-copy="biblicaltemperas" rend="db" width="958" height="668">
+	<figTranscr/>
+</figure>
+      <div1 id="BQ-09-3-0006">
+        <head>
+          <title>
+            <hi rend="b">V. Color Printed Drawings and Paintings</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">A. Color Printed Drawings</hi>
+            </title>
+          </head>
+          <table rows="6" cols="5">
+            <row>
+              <cell>TITLE</cell>
+              <cell>NGA 1957#</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">Christ Appearing to His Disciples After the Resurrection</hi></cell>
+              <cell>60</cell>
+              <cell>c. 1795</cell>
+              <cell>monotype &amp; tempera</cell>
+              <cell>B 11,060</cell>
+            </row>
+            <row>
+              <cell>2. see I, D, 10</cell>
+              <cell>74</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>3. see I, D, 11: 1</cell>
+              <cell>68</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>4. see I, D, 11: 2</cell>
+              <cell>70</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>5. see I, D, 11: 3</cell>
+              <cell>75</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">B. Paintings</hi>
+            </title>
+          </head>
+          <table rows="2" cols="5">
+            <row>
+              <cell>1. <hi rend="i">The Last Supper</hi></cell>
+              <cell>1</cell>
+              <cell>c. 1799</cell>
+              <cell>tempera on canvas</cell>
+              <cell>1355</cell>
+            </row>
+            <row>
+              <cell>2. <hi rend="i">Job and his Three Daughters</hi> (see I, E, 3, pl. 20 and IV, A,
+27)</cell>
+              <cell>4</cell>
+              <cell>1823-25</cell>
+              <cell>tempera on canvas</cell>
+              <cell>763</cell>
+            </row>
+          </table>
+        </div2>
+      </div1>
+      <pb id="p09-79" n="79"/>
+      <div1 id="BQ-09-3-0007">
+        <head>
+          <title>
+            <hi rend="b">VI. Copper Plates</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. Engraved by Blake from His Own Designs</title>
+          </head>
+          <table rows="10" cols="4">
+            <row>
+              <cell>TITLE</cell>
+              <cell>REFERENCE</cell>
+              <cell>TECHNIQUE</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">America, A Prophecy</hi>: fragment from cancelled pl. a (see I, D, 7; also
+an electrotype plate made from above); v head of St. John, Baptist, probably engraved by Thos. Butts,
+Sr.</cell>
+              <cell><hi rend="i">Print Collector’s Quarterly</hi>, Vol. 29, No. 3, 1948</cell>
+              <cell>etching</cell>
+              <cell>B 4824</cell>
+            </row>
+            <row>
+              <cell>2. <hi rend="i">Illustrations of Dante</hi> (see I, E, 4)</cell>
+              <cell>K 186:56 (noted in text, p. 184)</cell>
+              <cell>engraving</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. The Circle of the Lustful/Paolo and Francesca (pl. I)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4226</cell>
+            </row>
+            <row>
+              <cell>b. The Circle of the Corrupt Officials/Devils Tormenting Ciampolo (pl. II)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4222</cell>
+            </row>
+            <row>
+              <cell>c. The Circle of the Corrupt Officials/Devils Mauling Each Other (pl. III)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4225</cell>
+            </row>
+            <row>
+              <cell>d. The Circle of Thieves/Agnolo Brunelleschi Attacked (pl. IV)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4224</cell>
+            </row>
+            <row>
+              <cell>e. The Circle of Thieves/Buoso Donati Attacked by a Serpent (pl. V)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4223</cell>
+            </row>
+            <row>
+              <cell>f. The Circle of the Falsifiers/Dante and Virgil holding their Noses (pl. VI)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4221</cell>
+            </row>
+            <row>
+              <cell>g. The Circle of the Traitors/Dante’s Foot Striking (pl. VII)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4220</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. Designed by Blake, Engraved by Others</title>
+          </head>
+          <table rows="14" cols="4">
+            <row>
+              <cell>TITLE</cell>
+              <cell>ENGRAVED BY</cell>
+              <cell>TECHNIQUE</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">The Grave, A Poem</hi> (listed by title as on pl. and impression in 1813
+ed, in order of binding in II, B, 3; holdings include pl. for frontispiece: Portrait of William Blake by
+Schiavonetti after T. Phillips, noted K 219:81 i, NGA # B 4227)</cell>
+              <cell>Schiavonetti</cell>
+              <cell>etching</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. Title Page (The Skeleton Re-animated)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4228</cell>
+            </row>
+            <row>
+              <cell>b. Christ descending into the Grave</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4229</cell>
+            </row>
+            <row>
+              <cell>c. Death of the Strong, Wicked Man</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4232</cell>
+            </row>
+            <row>
+              <cell>d. The Soul hovering over the Body reluctantly parting with Life</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4233</cell>
+            </row>
+            <row>
+              <cell>e. The Soul exploring the recesses of the Grave</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4236</cell>
+            </row>
+            <row>
+              <cell>f. The descent of Man into the Vale of Death</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4234</cell>
+            </row>
+            <row>
+              <cell>g. The Counsellor, King, Warrior, Mother &amp; Child in the Tomb</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4231</cell>
+            </row>
+            <row>
+              <cell>h. The Day of Judgment</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4235</cell>
+            </row>
+            <row>
+              <cell>i. The Death of the Good Old Man</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4237</cell>
+            </row>
+            <row>
+              <cell>j. The Reunion of the Soul &amp; the Body</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4238</cell>
+            </row>
+            <row>
+              <cell>k. The Meeting of a Family in Heaven</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4230</cell>
+            </row>
+            <row>
+              <cell>l. Death’s Door</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4239</cell>
+            </row>
+          </table>
+        </div2>
+      </div1>
+      <div1 id="BQ-09-3-0008">
+        <head>
+          <title>
+            <hi rend="b">VII. Drawings by Others for Engravings by Blake</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. The Library of Congress, Rosenwald Collection</title>
+          </head>
+          <table rows="2" cols="5">
+            <row>
+              <cell>ARTIST</cell>
+              <cell>TITLE</cell>
+              <cell>DATE</cell>
+              <cell>MEDIUM</cell>
+              <cell>LC #</cell>
+            </row>
+            <row>
+              <cell>1. Stothard (study for II, C, 7a)</cell>
+              <cell>
+                <hi rend="i">Orlando Furioso</hi>
+              </cell>
+              <cell>c.1783</cell>
+              <cell>wash</cell>
+              <cell>NE642.B5A44 #9</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. Lessing J. Rosenwald Collection</title>
+          </head>
+          <table rows="1" cols="5">
+            <row>
+              <cell>1. Stothard (study for II, C, 10 ii &amp; ii note)</cell>
+              <cell>
+                <hi rend="i">Battle of Ain</hi>
+              </cell>
+              <cell>c.1781</cell>
+              <cell>wash</cell>
+            </row>
+          </table>
+          <figure n="but619.1.1.pd" id="but619.1.penc.01" work-copy="gravepd" rend="db" width="836" height="1000">
+	<figTranscr>sketched by<lb/>
+	William Blake<lb/>
+	vouched by<lb/>
+	Fred.k Tatham</figTranscr>
+</figure>
+        </div2>
+      </div1>
+      <pb id="p09-80" n="80"/>
+      <div1 id="BQ-09-3-0009">
+        <figure n="ESXLV.1.1A.SP" rend="file" width="958" height="702"/>
+        <head>
+          <title>
+            <hi rend="b">VIII. Miscellaneous Related Works</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>A. National Gallery of Art, Rosenwald Collection</title>
+          </head>
+          <table rows="3" cols="5">
+            <row>
+              <cell>TITLE</cell>
+              <cell>MEDIUM</cell>
+              <cell>ARTIST</cell>
+              <cell>DATE</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">Lear and Cordelia</hi>: 5 proofs, sts. 1-5</cell>
+              <cell>engraving</cell>
+              <cell>Butts (Sr. or Jr.) (after Blake)</cell>
+              <cell/>
+              <cell>B 11,041-11,045</cell>
+            </row>
+            <row>
+              <cell>2. <hi rend="i">The Camp of Stothard, Blake, Ogleby</hi></cell>
+              <cell>etching</cell>
+              <cell>Stothard</cell>
+              <cell>c.1780</cell>
+              <cell>B 11,050</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. The Library of Congress, Rosenwald Collection</title>
+          </head>
+          <table rows="3" cols="5">
+            <row>
+              <cell>TITLE</cell>
+              <cell>MEDIUM</cell>
+              <cell>AUTHOR</cell>
+              <cell>DATE</cell>
+              <cell>LC #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">The Life of George Romney, Esq.</hi> (see II, C, 30)</cell>
+              <cell>manuscript (pp. 1-168, 329-332 of 1809 ed.)</cell>
+              <cell>Hayley</cell>
+              <cell>c.1807</cell>
+              <cell>RC ms. no. 1</cell>
+            </row>
+            <row>
+              <cell>2. <hi rend="i">The Dog</hi> (see II, A, 3&amp;4)</cell>
+              <cell>manuscript</cell>
+              <cell>Hayley</cell>
+              <cell/>
+              <cell>PR3506.H9A6 1802</cell>
+            </row>
+          </table>
+          <pb id="p09-81" n="81"/>
+          <figure n="ESXLV.1.2B.SP" rend="file" width="958" height="767"/>
+          <figure n="ESXLV.1.3D.SP" rend="file" width="958" height="787"/>
+          <figure n="ESXLV.1.4G.SP" rend="file" width="958" height="784"/>
+          <figure n="ESXLV.1.4F.SP" rend="file" width="958" height="785"/>
+        </div2>
+        <pb id="p09-82" n="82"/>
+        <div2>
+          <head>
+            <title>C. Lessing J. Rosenwald Collection</title>
+          </head>
+          <table rows="4" cols="4">
+            <row>
+              <cell>TITLE OR DESCRIPTION</cell>
+              <cell>MEDIUM</cell>
+              <cell>ARTIST</cell>
+              <cell>DATE</cell>
+            </row>
+            <row>
+              <cell>1. (several studies for a monument; the relationship between this sheet and pl. i in 
+<hi rend="i">A Letter to the Committee for Raising the Naval Pillar</hi>, II, C, 24, was noted by Robert N.
+Essick)</cell>
+              <cell>pencil</cell>
+              <cell>Flaxman</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>2. r (Kneeling figure leaning over a reclining figure, a sketch; the relationship between
+this sheet and Blake’s engraving after Thomas Hayley’s design for William Hayley’s <hi rend="i">Essay on
+Sculpture</hi>, 1800, The Death of Demosthenes, [K 247:120 ii; B&amp;N 376] was noted by Robert N. Essick)
+</cell>
+              <cell>pencil</cell>
+              <cell>Flaxman</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+              <cell>v (Figures, brief sketches)</cell>
+              <cell>pencil</cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>3.</cell>
+              <cell><hi rend="i">The Ghost of Abel</hi> (transcription by Algernon Charles Swinburne)</cell>
+              <cell/>
+              <cell/>
+            </row>
+          </table>
+          <figure n="Monuments.9.3.bqscan" rend="file" width="500" height="430"/>
+        </div2>
+      </div1>
+      <div1 id="BQ-09-3-0010">
+        <head>
+          <title>
+            <hi rend="b">IX. Restrikes</hi>
+          </title>
+        </head>
+        <div2>
+          <figure n="RecliningFigure.9.3.bqscan" rend="file" width="250" height="190"/>
+          <head>
+            <title>A. National Gallery of Art, Rosenwald Collection</title>
+          </head>
+          <table rows="5" cols="4">
+            <row>
+              <cell>PLATE</cell>
+              <cell>PRINTER</cell>
+              <cell>DATE OF PRINTING</cell>
+              <cell>NGA #</cell>
+            </row>
+            <row>
+              <cell>1. <hi rend="i">America, A Prophecy:</hi> fragment from cancelled pl. a (VI, A, 1)</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. mounted with pl. at time of purchase was one impression</cell>
+              <cell/>
+              <cell/>
+              <cell>B 4827</cell>
+            </row>
+            <row>
+              <cell>b. six impressions</cell>
+              <cell>Ruthven Todd</cell>
+              <cell>1948 (see <hi rend="i">Print Collector’s Quarterly</hi>, Vol. 29, No. 3, 1948)</cell>
+              <cell>B 14,858-60 B 14,862-64</cell>
+            </row>
+            <row>
+              <cell>one impression from v (by Thos. Butts, Sr.?)</cell>
+              <cell/>
+              <cell/>
+              <cell>B 14,861</cell>
+            </row>
+          </table>
+        </div2>
+        <div2>
+          <head>
+            <title>B. Lessing J. Rosenwald Collection</title>
+          </head>
+          <table rows="2" cols="4">
+            <row>
+              <cell>1. <hi rend="i">Illustrations of Dante</hi> (see VI, A, 2)</cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>a. 25 impressions were printed from each of the seven pls. and signed by Mr. Rosenwald and
+Mr. Hoehn</cell>
+              <cell>Harry Hoehn</cell>
+              <cell>968</cell>
+            </row>
+          </table>
+        </div2>
+      </div1>
+    </body>
+    <pb id="p09-83" n="83"/>
+    <back>
+      <div1 id="BQ-09-3-0011">
+        <head>
+          <title>
+            <hi rend="b">Index</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title>Proper Names Including Those Used Within Titles</title>
+          </head>
+          <p>Abel, 61, 82</p>
+          <p>Abraham, 65</p>
+          <p>Adam, 74</p>
+          <p>Ahania, 61</p>
+          <p>Ain, 65, 79</p>
+          <p>Albion, 61, 70, 76</p>
+          <p>Alfred, 67</p>
+          <p>Allen, Charles, 67</p>
+          <p>Arimathea, 61, 70</p>
+          <p>Ariosto, Ludovico, 64</p>
+          <p>Augustine, St., 73</p>
+          <p>Blair, Robert, 63</p>
+          <p>Blake, Catherine, 62, 71</p>
+          <p>Blake, James, 60</p>
+          <p>Blake Trust, 61</p>
+          <p>Blake, William (portrait of), 79</p>
+          <p>Bonarroti, M. Angelo, 67</p>
+          <p>Britain, 61, 70</p>
+          <p>Brown, Dr. John, 66</p>
+          <p>Brunelleschi, Agnolo, 79</p>
+          <p>Burger, Gottfried Augustus, 63</p>
+          <p>Butts, Thomas, Jr., 80</p>
+          <p>Butts, Thomas, Sr., 79, 80, 82</p>
+          <p>Canute, King, 73</p>
+          <p>Chapman, J., 71</p>
+          <p>Chaucer, Geoffrey, 62, 64</p>
+          <p>Chodowiecki, Daniel N., 65, 66</p>
+          <p>Christ, Jesus, 74, 78, 79</p>
+          <p>Ciampolo, 79</p>
+          <p>Cleopatra, 67</p>
+          <p>Coleridge, Samuel Taylor, 66</p>
+          <p>Collings, S., 64, 65</p>
+          <p>Cordelia, 80</p>
+          <p>Cortez, 64</p>
+          <p>Cowper, Mrs., 68</p>
+          <p>Cowper, William, 67, 76</p>
+          <p>Cromek, R. H., 63</p>
+          <p>Cumberland, George, 60, 71</p>
+          <p>Damon, 64</p>
+          <p>Dante, 61, 79, 82</p>
+          <p>Darwin, Erasmus, 65, 66, 67</p>
+          <p>David, 72</p>
+          <p>Delila, 64</p>
+          <p>Democritus, 65</p>
+          <p>Demosthenes, 82</p>
+          <p>Derby, 67</p>
+          <p>Dodsley, James, 64</p>
+          <p>Donaldson, 66</p>
+          <p>Donati, Buoso, 79</p>
+          <p>Drake, A. W., 62, 75</p>
+          <p>Dunker, 64</p>
+          <p>Earle, James, 71</p>
+          <p>Edward III, King, 73</p>
+          <p>Egypt, 65, 67</p>
+          <p>Elizabeth, Queen, 67</p>
+          <p>Emlyn, 69</p>
+          <p>Enfield, William, 64</p>
+          <p>England, 67, 69</p>
+          <p>Enoch, 72-73</p>
+          <p>Essex, 67</p>
+          <p>Ethelbert, King, 73</p>
+          <p>Farey, 69</p>
+          <p>Flaxman, John, 67, 68, 69, 82</p>
+          <p>Flaxman, Maria, 68</p>
+          <p>Forman, H. Buxton, 62, 75</p>
+          <p>Francesco, 79</p>
+          <p>Fuseli, Henry, 65, 66, 67, 69, 73</p>
+          <p>Gay, John, 66</p>
+          <p>Gilchrist, Herbert H., 62, 75</p>
+          <p>Haller, Albert de, M.D., 64</p>
+          <p>Hartley, David, 66</p>
+          <p>Hawker, Reverend Robert, D.D., 71</p>
+          <p>Hayley, Thomas, 82</p>
+          <p>Hayley, William, 60, 62, 67, 68, 74</p>
+          <p>Heins, D., 68</p>
+          <p>Henry, Thomas, 64</p>
+          <p>Hercules, 74</p>
+          <p>Hesiod, 69</p>
+          <p>Hoare, Prince, 69</p>
+          <p>Hoehn, Harry, 82</p>
+          <p>Hogarth, William, 71</p>
+          <p>Homer, 61</p>
+          <p>Hoole, John, 64</p>
+          <p>Job, 61, 74, 78</p>
+          <p>John, King, 67</p>
+          <p>John the Baptist, St., 79</p>
+          <p>Johnson, Joseph, 64</p>
+          <p>Joseph of Arimathea, 61, 70</p>
+          <p>Josephus, Flavius, 65</p>
+          <p>Katherine, Queen, 69, 73, 74</p>
+          <p>Kent, 73</p>
+          <p>Keynes, Geoffrey, 62, 75</p>
+          <p>Lavater, John Casper, 65, 71</p>
+          <p>Lawrence, Sir Thomas, 68</p>
+          <p>Lear, 80</p>
+          <p>Leppar, Lieut., 67</p>
+          <p>Linnell, John, 60, 71, 74</p>
+          <p>Los, 61, 73, 74</p>
+          <p>Lot, 65</p>
+          <p>Lowry, Wilson, 71</p>
+          <p>Lucretia, 67</p>
+          <p>Malkin, Benjamin Heath, 63</p>
+          <p>Malkin, T. W., 63</p>
+          <p>M. Angelo Bonarroti, 67</p>
+          <p>Marius, C., 67</p>
+          <p>Mars, 67</p>
+          <p>Maynard, George Henry, 65</p>
+          <p>Metz, 65</p>
+          <p>Meyer, Miss Fanny, 67</p>
+          <p>Milton, John, 74</p>
+          <p>Minturnum, 67</p>
+          <p>Moses, 63</p>
+          <p>Newton, A. Edward, 62, 75</p>
+          <p>Ogleby, 80</p>
+          <p>Olmedo, 64</p>
+          <p>Orc, 71</p>
+          <p>Orleans, L. P. J., duc d., 60</p>
+          <p>Pandulph, 67</p>
+          <p>Paolo, 79</p>
+          <p>Paye, 63</p>
+          <p>Perry, 63</p>
+          <p>Phillips, Thomas, 79</p>
+          <p>Pitts, Edmund, 71</p>
+          <p>Ponsford, 71</p>
+          <p>Potts, R.A., 62, 75</p>
+          <p><hi rend="i">Print Collector’s Quarterly</hi>, 79, 82</p>
+          <p>Quacy, Graman, 67</p>
+          <p>Quixote, Don, 64</p>
+          <p>Rees, 69</p>
+          <p>Reynolds, Sir Joshua, 69</p>
+          <p>Rhea Silvia, 67</p>
+          <p>Ridley, 62</p>
+          <p>Ritson, Joseph, 64</p>
+          <p>Roman, 67</p>
+          <p>Romeo, 69</p>
+          <p>Romney, Sir George, 62, 67, 69, 76, 80</p>
+          <p>Rossetti, W. M., 74</p>
+          <p>Rubens, Peter Paul, 65</p>
+          <p>Salzman, Rev. Christian Gotthilf, 65</p>
+          <p>Samson, 64</p>
+          <p>Samuel, 73</p>
+          <p>Saul, 72, 73</p>
+          <p>Schiavonetti, Luigi, 63, 79</p>
+          <p>Scott, John, 64</p>
+          <p><corr type="emend">Shackleton,</corr> 66</p>
+          <p>Shakespeare, William, 69</p>
+          <p>Shechemites, 65</p>
+          <p>Spalding, 65</p>
+          <p>St. Edmund’s Chapel, 68</p>
+          <p>Stedman, Capt. John Gabriel, 66-67</p>
+          <p>Stone, Francis, 68</p>
+          <p>Stothard, Thomas, 64, 65, 79, 80</p>
+          <p>Surinam, 66, 67</p>
+          <p>Swinburne, Algernon Charles, 82</p>
+          <p>Tatham, Frederick, 71, 74, 76</p>
+          <p>Thel, 60, 61</p>
+          <p>Thiralatha, 61</p>
+          <p>Thornton, Robert John, M.D., 62</p>
+          <p>Todd, Ruthven, 82</p>
+          <p>Tornado, 66</p>
+          <p>Torrens, Lord, 74</p>
+          <p>Tyler, Wat, 67</p>
+          <p>Tyler, Wat, daughter of, 73</p>
+          <p>Urizen, 61</p>
+          <p>Varley, John, 73</p>
+          <p>Villiers, Huet, 71</p>
+          <p>Virgil, 61, 62, 63, 79</p>
+          <p>Wollstonecraft, Mary, 62</p>
+          <p>Wright, of Derby, Mr., 67</p>
+          <p>Young, Edward, 62, 63</p>
+        </div2>
+        <div2>
+          <head>
+            <title>Titles</title>
+          </head>
+          <p><hi rend="i">The Accusers of Theft, Adultery, Murder</hi>, color-printed engraving, 61, 70;
+engraving, 70</p>
+          <p><hi rend="i">Adam <corr type="emend">Naming</corr> the Beasts</hi>(?), drawing, 74</p>
+          <p>Albert de Haller (<hi rend="i">Memoirs of Albert de Haller, M.D.</hi>), engraving, 64</p>
+          <p><hi rend="i">Albion and the Letter that Killeth</hi>, drawing, 76</p>
+          <p>Alfred and the Neat-Herd’s wife (<hi rend="i">The New and Improved History of England</hi>),
+engraving, 67</p>
+          <p><hi rend="i">America, A Prophecy</hi>, illuminated book, proofs, plate, 61; copperplate, 79;
+restrikes, 82</p>
+          <p><hi rend="i">The Ancient of Days</hi>, hand-colored relief etching, 70</p>
+          <p>Ancora Imparo, M. Angelo Bonarroti (<hi rend="i">Lectures on Painting</hi>), engraving, 67</p>
+          <p>And like a corse fell to the ground (<hi rend="i">Illustrations of Dante</hi>), engraving, 61</p>
+          <p><hi rend="i">And Power was Given Him over all Kindreds and Tongues and Nations</hi>, watercolor,
+73</p>
+          <p><hi rend="i">And Saul Said Unto David</hi>, “<hi rend="i">Go and the Lord be with you</hi>,”
+drawing, 72</p>
+          <p><hi rend="i">An Angel Telling a Daughter of Man the Secrets of Sin</hi> (Book of Enoch), drawing,
+72</p>
+          <p><hi rend="i">Aphorisms On Man</hi>, bound volume, engraving, 65</p>
+          <p><hi rend="i">Apocalypse</hi> see <hi rend="i">The Seven Headed Beast</hi></p>
+          <p>Armour (<hi rend="i">The Cyclopaedia</hi>), engraving, 69</p>
+          <p>Ballad The First, printed page, 74</p>
+          <p>Ballad The Fourth, The Dog, manuscript, 62</p>
+          <p><hi rend="i">Ballads</hi>, 62</p>
+          <p>Basso Relievo (<hi rend="i">The Cyclopaedia</hi>), engraving, 69</p>
+          <p>The Battle of Ain (<hi rend="i">The Whole Genuine and Complete Works of Flavius Josephus</hi>),
+engravings, 65; drawing, 79</p>
+          <p>Be calm, my child (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62; drawing,
+76</p>
+          <p><hi rend="i">Beggars Opera, Act III</hi>, engraving, 71</p>
+          <p><hi rend="i">Blake’s Illustrations of Dante</hi> see <hi rend="i">Illustrations of
+Dante</hi></p>
+          <p>The Blind Beggars Hats (<hi rend="i">The Wit’s Magazine</hi>), engraving, 65</p>
+          <p><hi rend="i">The Book of Ahania</hi>, illuminated book, 61</p>
+          <p>Book of Enoch, drawings, 72-73</p>
+          <p><hi rend="i">The Book of Job</hi> see <hi rend="i">Illustrations of the Book of Job</hi></p>
+          <p><hi rend="i">The Book of Thel</hi>, illuminated book, 60, 61</p>
+          <p>(Border Design), drawing, 74</p>
+          <p><hi rend="i">The Botanic Garden</hi>, 65, 66, 67</p>
+          <p>Bust of Hartley (<hi rend="i">Observations of Man</hi>), engraving, 66</p>
+          <p>Butterfly and Snail (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>C. Marius at Minturnum (<hi rend="i">A New and Improved Roman History</hi>), engraving, 67</p>
+          <p><hi rend="i">The Camp of Stothard, Blake, Ogleby</hi>, etching, 80</p>
+          <p><hi rend="i">The Canterbury Pilgrims</hi>, engravings, 71</p>
+          <p>Canto I-Canto VI (<hi rend="i">The Triumph of Temper</hi>), engravings, 68</p>
+          <p><hi rend="i">A Catalogue of the Orleans’ Italian Pictures</hi>, bound volume, 60</p>
+          <p>The Celebrated Graman Quacy (<hi rend="i">Narrative, of a Five Years’ Expedition . . .
+Surinam</hi>), engraving, 67</p>
+          <p><hi rend="i">The Chaining of Orc</hi>, relief etching, 71</p>
+          <p>(Children clinging to mother’s skirt) (<hi rend="i">Original Stories from Real Life</hi>),
+drawing, 76</p>
+          <p><hi rend="i">Christ Appearing to His Disciples After the Resurrection</hi>, color printed
+drawing, 78</p>
+          <p>Christ Descending into the Grave (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>Christian Descends the Hill from the Pilgrim’s House from <hi rend="i">Pilgrim’s
+Progress</hi>, watercolor, 74</p>
+          <p>The Circle of the Corrupt Officials/Devils Mauling each Other (<hi rend="i">Illustrations of
+Dante</hi>), copperplate 79</p>
+          <p>The Circle of the Corrupt Officials/Devils Tormenting Ciampolo (<hi rend="i">Illustrations of
+Dante</hi>), copperplate, 79</p>
+          <p>The Circle of the Falsifiers/Dante and Virgil holding their Noses (<hi rend="i">Illustrations of
+Dante</hi>), copperplate, 79</p>
+          <p>The Circle of the Lustful/Paolo and Francesca (<hi rend="i">Illustrations of Dante</hi>),
+copperplate, 79</p>
+          <p>The Circle of the Traitors/Dante’s Foot Striking (<hi rend="i">Illustrations of Dante</hi>),
+copperplate, 79</p>
+          <p>The Circle of Thieves/Agnolo Brunelleschi Attacked (<hi rend="i">Illustrations of Dante</hi>),
+copperplate, 79</p>
+          <p>The Circle of Thieves/Buoso Donati Attacked by a Serpent (<hi rend="i">Illustrations of
+Dante</hi>), copperplate, 79</p>
+          <p><hi rend="i">The Compalint, and The Consolation; or, Night Thoughts</hi>, bound volume,
+engravings, 62</p>
+          <p><hi rend="i">Compositions from the Works Days and Theogony of Hesiod</hi>, bound volume, 69</p>
+          <p>Contentment and the four seasons (<hi rend="i">The Poetical Works of John Scott, Esq.</hi>),
+engraving, 64</p>
+          <p>A Coromantyn Negro (<hi rend="i">Narrative, of a Five Years’ Expedition . . . Surinam</hi>),
+engraving, 66</p>
+          <p>The Counsellor, King, Warrior, Mother &amp; Child in the Tomb (<hi rend="i">The Grave, A
+Poem</hi>), copperplate, 79</p>
+          <p>Cupid Playing Lute (<hi rend="i">A Select Collection of English Songs</hi>), engraving, 64</p>
+          <p>Cupids fly away from seated woman (<hi rend="i">A Select Collection of English Songs</hi>),
+engraving, 64</p>
+          <p><hi rend="i">The Cyclopaedia</hi>, 69</p>
+          <p><hi rend="i">The Dance of Albion</hi>, engraving, 70</p>
+          <p><hi rend="i">Daughter of Man as Siren Rising Exultant from a Prone Figure</hi> (Book of Enoch),
+drawing, 72</p>
+          <p>The Day of Judgment (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>The Death of Cleopatra (<hi rend="i">A New and Improved Roman History</hi>), engraving, 67</p>
+          <p>The Death of Demosthenes (<hi rend="i">Essay on Sculpture</hi>), drawing, 82</p>
+          <p>The Death of Lucretia (<hi rend="i">A New and Improved Roman History</hi>), engraving, 67</p>
+          <p>The Death of the Good Old Man (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>Death of the Strong, Wicked Man (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>Death’s Door (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>Democritus (<hi rend="i">Essays on Physiognomy</hi>), engraving, 65</p>
+          <p>The Descent of Man into the Vale of Death (<hi rend="i">The Grave, A Poem</hi>), copperplate,
+79</p>
+          <pb id="p09-84" n="84"/>
+          <p><hi rend="i">Descent of Peace</hi>, drawing, 74</p>
+          <p><hi rend="i">A Descriptive Catalogue of Pictures</hi>, bound volume, 60</p>
+          <p><hi rend="i">Designs to a Series of Ballads</hi>, bound volumes, 62; printed page, 74</p>
+          <p>The Discomfited Duellists (<hi rend="i">The Wit’s Magasine</hi>), engraving, 65</p>
+          <p>The Dog (<hi rend="i">Ballads</hi>), engraving, 62</p>
+          <p>The Dog (<hi rend="i">Designs to a Series of Ballads</hi>), manuscripts, 62</p>
+          <p>The Dog and the Fox (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>The dog strove (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62; drawing,
+76</p>
+          <p>Don Quixote and the barber’s bason (<hi rend="i">The Novelist’s Magazine</hi>), engraving,
+64</p>
+          <p><hi rend="i">Dream of Thiralatha</hi>, color-printed relief etching, 61</p>
+          <p>The Eagle (<hi rend="i">Ballads</hi>), engraving, 62; drawing, 75</p>
+          <p>Economy and self denial (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62;
+drawing, 76</p>
+          <p><hi rend="i">Edmund Pitts, Esq.</hi>, stipple engraving, 71</p>
+          <p><hi rend="i">Elements of Medicine of John Brown, M.D.</hi>, bound volume, engraving, 66</p>
+          <p><hi rend="i">Elements of Morality</hi>, bound volumes, 65; engravings, 65-66</p>
+          <p><hi rend="i">English Songs</hi> see <hi rend="i">A Select Collection of English Songs</hi></p>
+          <p><hi rend="i">Enoch Standing Before the Throne of the Great Glory</hi> (Book of Enoch), drawing,
+72</p>
+          <p><hi rend="i">Essay on Sculpture</hi>, 82</p>
+          <p><hi rend="i">Essays on Physiognomy</hi>, 65</p>
+          <p><hi rend="i">Europe, A Prophecy</hi>, illuminated book, proofs, plates, 61</p>
+          <p>Europe supported (<hi rend="i">Narrative, of a Five Years’ Expedition . . . Surinam</hi>),
+engraving, 67</p>
+          <p>Every prospect smiled (<hi rend="i">Original Stories from Real Life</hi>), drawing, 76</p>
+          <p>The Execution (<hi rend="i">Narrative, of a Five Years’ Expedition . . . Surinam</hi>),
+engraving, 67</p>
+          <p><hi rend="i">Fables</hi>, bound volumes, engravings, 66</p>
+          <p><hi rend="i">A Fairy Leapt Upon My Knee</hi>, manuscript, 60, 74</p>
+          <p>Family of Negro Slaves (<hi rend="i">Narrative, of a Five Years’ Expedition . . .
+Surinam</hi>), engraving, 67</p>
+          <p><hi rend="i">A Father’s Memoirs of his Child</hi>, bound volume, engraving, 63</p>
+          <p>The Fertilization of Egypt (<hi rend="i">The Botanic Garden</hi>), engravings, 65, 67</p>
+          <p>(Figure in center of clouds), drawing, 74</p>
+          <p>(Figure on knees), drawing, 74</p>
+          <p>(Figure, seated on sphere), drawing, 75</p>
+          <p>(Figure, seated, with open book on lap), drawing, 74</p>
+          <p>(A Figure stretched along the ground), drawing, 76</p>
+          <p>(Figures), drawing, 82</p>
+          <p>(Figures in a spiral [?]), drawing, 73</p>
+          <p>(Figures in a spiral of clouds), drawing, 74</p>
+          <p><hi rend="i">The</hi> [First] <hi rend="i">Book of Urizen</hi>, illuminated book, 61</p>
+          <p>The First Compartment (<hi rend="i">The Botanic Garden</hi>), engravings, 65, 67</p>
+          <p>Flagellation of a Female Samboe Slave (<hi rend="i">Narrative, of a Five Years’ Expedition . .
+. Surinam</hi>), engraving, 67</p>
+          <p><hi rend="i">For Children: The Gates of Paradise</hi>, engravings, 61</p>
+          <p><hi rend="i">For the Sexes: The Gates of Paradise</hi>, engravings, 61</p>
+          <p>The Fugitive Shechemites (<hi rend="i">The Whole Genuine and Complete Works of Flavius
+Josephus</hi>), engraving, 65</p>
+          <p><hi rend="i">The Gates of Paradise</hi>; see <hi rend="i">For Children:</hi> and <hi rend="i">For
+the Sexes:</hi></p>
+          <p><hi rend="i">George Cumberland’s Card</hi>, engraving, 71</p>
+          <p><hi rend="i">The Ghost of Abel</hi>, relief etching, 61; transcription by Swinburne, 82</p>
+          <p><hi rend="i">The Ghost of Samuel Appearing to Saul</hi>, watercolor, 73</p>
+          <p><hi rend="i">Glad Day</hi>, engraving, 70</p>
+          <p>Goat without a Beard (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p><hi rend="i">God Creating the Universe</hi>, hand-colored relief etching, 70</p>
+          <p>God sent for him (<hi rend="i">Original Stories from Real Life</hi>), drawing, 76</p>
+          <p>The Graphic Muse (<hi rend="i">An Inquiry into the Requisite Civilization . . . of the Arts of
+Design in England</hi>), engraving, 69</p>
+          <p><hi rend="i">The Grave, A Poem</hi>, bound volume, 63; copperplates, 79</p>
+          <p><hi rend="i">Great Red Dragon and Woman Clothed with the Sun</hi>, watercolor, 73</p>
+          <p>Group dancing around maypole (<hi rend="i">A Select Collection of English Songs</hi>), engraving,
+64</p>
+          <p>Group of Negros (<hi rend="i">Narrative, of a Five Years’ Expedition . . . Surinam</hi>),
+engraving, 67</p>
+          <p>Hand with Candle (<hi rend="i">Essays on Physiognomy</hi>), engravings, 65</p>
+          <p>Handle and Bottom of the Vase (<hi rend="i">The Botanic Garden</hi>), engravings, 65, 67</p>
+          <p>Head of Spalding in Profile (<hi rend="i">Essays on Physiognomy</hi>), engravings, 65</p>
+          <p>Health is dearer to me (<hi rend="i">Elements of Morality</hi>), engraving, 65</p>
+          <p>The Hermit’s Dog (<hi rend="i">Ballads</hi>), engraving, 62</p>
+          <p>The Hiding of Moses (<hi rend="i">Remember Me!</hi>), engraving, 63</p>
+          <p>The Horse (<hi rend="i">Ballads</hi>), engraving, 62</p>
+          <p>How delighted the old bird will be (<hi rend="i">Original Stories from Real Life</hi>), drawing,
+76</p>
+          <p>How happy it is that (<hi rend="i">Elements of Morality</hi>), engraving, 66</p>
+          <p><hi rend="i">Illustrations of Dante</hi>, engravings, 61; copperplates, 79; restrikes, 82</p>
+          <p><hi rend="i">Illustrations of the Book of Job</hi>, engravings, 61; drawing, 74</p>
+          <p>Indeed we are (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62; drawing, 76</p>
+          <p><hi rend="i">The Infant Hercules Throttling the Serpents</hi>, drawing, 74</p>
+          <figure n="BUT561.1.1v.PD" rend="file" width="784" height="1000"/>
+          <p><hi rend="i">An Inquiry into the Requisite Cultivation and Present State of the Arts of Design in
+England</hi>, 69</p>
+          <p><hi rend="i">Jerusalem</hi>, plates, illuminated book, 61; related drawings, 73, 76</p>
+          <p><hi rend="i">Job and his Family Restored to Prosperity</hi>, drawing, 74</p>
+          <p><hi rend="i">Job and his Three Daughters</hi>, painting, 78</p>
+          <p><hi rend="i">Job Recounting his Experiences to his Daughters</hi>, drawing, 74</p>
+          <p><hi rend="i">John Caspar Lavater</hi>, engraving, 71</p>
+          <p><hi rend="i">Joseph of Arimathea Among the Rocks of Albion</hi>, engraving, 70</p>
+          <p><hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, color-printed
+relief etching, 61, 70</p>
+          <p>King John absolved by Pandulph (<hi rend="i">The New and Improved History of England</hi>),
+engraving, 67</p>
+          <p>(Kneeling figure leaning over a reclining figure), drawing, 82</p>
+          <p><hi rend="i">The Lady’s Pocketbook</hi>, 64</p>
+          <p><hi rend="i">A Large Book of Designs</hi>, 61, 70</p>
+          <p><hi rend="i">The Last Judgment</hi>, drawing, 74</p>
+          <p><hi rend="i">The Last Supper</hi>, painting, 78</p>
+          <p>The Last Testament of Don Quixote (<hi rend="i">The Novelist’s Magazine</hi>), engraving,
+64</p>
+          <p>The late Mr. Wright of Derby (<hi rend="i">The Monthly Magazine</hi>), engraving, 67</p>
+          <p><hi rend="i">Lear and Cordelia</hi>, engravings, 80</p>
+          <p><hi rend="i">Lectures on Painting</hi>, 67</p>
+          <p><hi rend="i">Leonora</hi>, bound volume, 63</p>
+          <p>(Let Him Look up into the Heavens and Laugh in the Bright Air), etching, 70</p>
+          <p><hi rend="i">A letter to the Committee for Raising the Naval Pillar, or Monument</hi>, unbound
+volume, 67; drawing, 82</p>
+          <p><hi rend="i">The Life and Posthumous Writings, of William Cowper, Esq.</hi>, bound volumes, 67;
+engravings, 67-68</p>
+          <p><hi rend="i">The Life of George Romney, Esq.</hi>, 69; manuscript, 80</p>
+          <p>The Lion (<hi rend="i">Ballads</hi>), 62</p>
+          <p>Lo! a serpent with six feet springs forth on one, (<hi rend="i">Illustrations of Dante</hi>),
+engravings, 61</p>
+          <p>Look what a fine (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62; drawing,
+76</p>
+          <p><hi rend="i">Lord Torrens and Family</hi>, drawing, 74</p>
+          <p><hi rend="i">Los in His Rage</hi>, drawing, 73</p>
+          <p><hi rend="i">Los Supporting the Sun</hi>, drawing, 74</p>
+          <p>Lover kneeling before his lady (<hi rend="i">A Select Collection of English Songs</hi>),
+engraving, 64</p>
+          <p>Lover parting from his angry mistress (<hi rend="i">A Select Collection of English Songs</hi>),
+engraving, 64</p>
+          <p>(Male Figure, Seated), drawing, 72</p>
+          <p>(Male Figure, Standing, and brief sketches), drawing, 72</p>
+          <p>A Man Measuring an Infant (<hi rend="i">The Complaint, and The Consolation</hi>), engraving
+62</p>
+          <p><hi rend="i">The Man Sweeping the Interpreter’s Parlor</hi>, engraving, 70</p>
+          <p>(Man with arms upraised, The Resurrection [?]), drawing, 73</p>
+          <p>March thro’ a swamp (<hi rend="i">Narrative, of a Five Years’ Expedition . . . Surinam</hi>),
+engraving, 67</p>
+          <p><hi rend="i">The Marriage of Heaven and Hell</hi>, bound volume, 60; plate, 61</p>
+          <p>Mars and Rhea Silvia (<hi rend="i">A New and Improved Roman History</hi>), engraving, 67</p>
+          <p>May-Day in London (<hi rend="i">The Wit’s Magazine</hi>), engraving, 65</p>
+          <p>The Mecco and Kishee Kishee Monkeys (<hi rend="i">Narrative, of a Five Years’ Expedition . . .
+Surinam</hi>), engraving, 67</p>
+          <p>The Meeting of a Family in Heaven (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p><hi rend="i">Memoirs of Albert de Haller, M.D.</hi>, 64</p>
+          <p><hi rend="i">Milton, A Poem</hi>, illuminated book, 60, 61</p>
+          <p>Miscellany (<hi rend="i">The Cyclopaedia</hi>), engraving, 69</p>
+          <p>The Miser and Plutus (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p><hi rend="i">The Monthly Magazine</hi>, 67</p>
+          <p>The Morning Amusements of her Royal Highness (<hi rend="i">The Lady’s Pocketbook</hi>),
+engraving, 64</p>
+          <p>Motto on a Clock (<hi rend="i">The Life, and Posthumous Writings, of William Cowper, Esq.</hi>),
+engraving, 68</p>
+          <p><hi rend="i">Mrs. Cowper</hi> (<hi rend="i">The Life, and Posthumous Writings, of William Cowper,
+Esq.</hi>), engraving, 68</p>
+          <p><hi rend="i">Mrs. Q.</hi>, stipple engraving, 71</p>
+          <p>(Muscular torso seen from the rear and a foot), drawing, 72</p>
+          <p><hi rend="i">Narrative, of a Five Years’ Expedition, against the Revolted Negroes of
+Surinam</hi>, bound volumes, 66; engravings, 66-67</p>
+          <p>Naval Pillar see <hi rend="i">A Letter to the Committee for Raising the Naval Pillar, or
+Monument</hi></p>
+          <pb id="p09-85" n="85"/>
+          <p>A Negro hung alive (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . . 
+<hi rend="i">Surinam</hi>), engraving, 66</p>
+          <p><hi rend="i">The New and Improved History of England</hi>, 67</p>
+          <p><hi rend="i">A New and Improved Roman History</hi>, 67</p>
+          <p><hi rend="i">Night Thoughts</hi> see <hi rend="i">The Complaint and The Consolation; or</hi></p>
+          <p><hi rend="i">The Novelist’s Magazine</hi>, 64</p>
+          <p><hi rend="i">Observations on Nan</hi>, 66</p>
+          <p>Oh God! Thou art just! (<hi rend="i">Elements of Morality</hi>), engraving, 66</p>
+          <p>Olmedo, Chaplain to Cortez (<hi rend="i">The Poetical Works of John Scott, Esq.</hi>), engraving,
+64</p>
+          <p><hi rend="i">On Homer’s Poetry</hi> [and] <hi rend="i">On Virgil</hi>, relief etching, 61</p>
+          <p><hi rend="i">On the Morning of Christ’s Nativity</hi>, 74</p>
+          <p><hi rend="i">Original Stories from Real Life</hi>, bound volume, engravings, 62; drawings,
+75-76</p>
+          <p><hi rend="i">Orlando Furioso</hi>, engraving, 64; drawing, 79</p>
+          <p>The Owl and the Farmer (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>Pan and Fortune (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>The Parting of Lot and Abraham (<hi rend="i">The Whole Genuine and Complete Works of Flavius
+Josephus</hi>), engraving, 65</p>
+          <p><hi rend="i">The Pastorals of Virgil</hi>, woodcuts, 62-63</p>
+          <p>Patience can soften every pain (<hi rend="i">Elements of Morality</hi>), engraving, 66</p>
+          <p>The Persian, The Sun, and The Cloud (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p><hi rend="i">Pestilence</hi>, drawing, 73</p>
+          <p><hi rend="i">Pilgrim’s Progress</hi>, 74</p>
+          <p>Pin and Needle (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p><hi rend="i">The Plays of William Shakespeare</hi>, 69</p>
+          <p><hi rend="i">The Poetical Works of Geoffrey Chaucer</hi>, 64</p>
+          <p><hi rend="i">The Poetical Works of John Scott, Esq.</hi>, bound volume, engravings, 64</p>
+          <p><hi rend="i">Poetical Sketches</hi>, bound volume, 60</p>
+          <p>The Portland Vase (<hi rend="i">The Botanic Garden</hi>), engravings, 65, 67</p>
+          <p>Portrait of Dr. Brown (<hi rend="i">Elements of Medicine of John Brown, M.D.</hi>), engraving,
+66</p>
+          <p><hi rend="i">Portrait of John Linnell</hi>, drawing, 74</p>
+          <p>Portrait of William Blake (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p>A private Marine (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . . 
+<hi rend="i">Surinam</hi>), engraving, 66</p>
+          <p><hi rend="i">The Prologue and Characters of Chaucer’s Pilgrims</hi>, bound volume, 62</p>
+          <p><hi rend="i">Proposition for a New Order in Architecture</hi>, bound volume, 69</p>
+          <p>The Quato and Saccawinkee Monkeys (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . .
+. <hi rend="i">Surinam</hi>), engraving, 67</p>
+          <p>Queen Elizabeth and Essex (<hi rend="i">The New and Improved History of England</hi>), engraving,
+67</p>
+          <p><hi rend="i">Queen Katherine’s Dream</hi>, drawing, 73; watercolor, 74</p>
+          <p>Queen Katherine’s Dream (<hi rend="i">The Plays of William Shakespeare</hi>), engraving, 69</p>
+          <p>The Ravens, the Sexton and the Earthworm (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p><hi rend="i">Remember Me!</hi>, 63</p>
+          <p><hi rend="i">The Resurrection</hi>, drawings, 72, 73</p>
+          <p>The reunion of the Soul and the Body (<hi rend="i">The Grave, A Poem</hi>), copperplate, 79</p>
+          <p><hi rend="i">Reverend Robert Hawker, D.D.</hi>, engraving, 71</p>
+          <p>Romeo and the Apothecary (<hi rend="i">The Plays of William Shakespeare</hi>), engraving, 69</p>
+          <p>Sacred to Simplicity (<hi rend="i">The Poetical Works of John Scott, Esq.</hi>), engraving,
+64</p>
+          <p>Samson and Delila (<hi rend="i">The Poetical Works of Geoffrey Chaucer</hi>), engraving, 64</p>
+          <p>The Sculls of Lieut, Leppar (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . . 
+<hi rend="i">Surinam</hi>), engraving, 67</p>
+          <p><hi rend="i">Sculpture</hi>, drawing, 76</p>
+          <p>Sculpture (<hi rend="i">The Cyclopaedia</hi>), engravings, 69</p>
+          <p>The Second compartment (<hi rend="i">The Botanic Garden</hi>), engravings, 65, 67</p>
+          <p>See children how powerful God is! (<hi rend="i">Elements of Morality</hi>), engraving, 66</p>
+          <p>See how much good a single man can do! (<hi rend="i">Elements of Morality</hi>), engraving,
+66</p>
+          <p>Seiz’d on his arm, And mangled bore away the sinewy part (<hi rend="i">Illustrations of
+Dante</hi>), engraving, 61</p>
+          <p><hi rend="i">A Select Collection of English Songs</hi>, 64</p>
+          <p>(Seven figures), drawing, 73</p>
+          <p>(Seven figures seated), drawing, 72</p>
+          <p><hi rend="i">The Seven Headed Beast of the Apocalypse</hi>, water-color, 73</p>
+          <p>(Several figures and horse in landscape), drawing, 76</p>
+          <p>(Several studies for a monument), drawing, 82</p>
+          <p>She turned her eyes on her cruel master (<hi rend="i">Original Stories from Real Life</hi>),
+drawing, 76</p>
+          <p>Shechemites <hi rend="i">see</hi> The Fugitive Shechemites</p>
+          <p>Shepherd and Philosopher (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>Sitting-dog and Partridge (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>Skeleton Re-animated (<hi rend="i">The Grave, A Poem</hi>), copper-plate, 79</p>
+          <p>Sketch of a Shipwreck (<hi rend="i">The Life of George Romney, Esq.</hi>), engraving, 69</p>
+          <p>A Sketch of the Monument (<hi rend="i">The Life and Posthumous Writings of William Cowper,
+Esq.</hi>), engraving, 68</p>
+          <p>The Skinning of the Aboma Snake (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . .
+<hi rend="i">Surinam</hi>), engraving, 67</p>
+          <p><hi rend="i">A Small Book of Designs</hi>, 61</p>
+          <p>So turn’d His talons on his comrade (<hi rend="i">Illustrations of Dante</hi>), engraving,
+61</p>
+          <p><hi rend="i">The Son of Man as Messiah with Four Attendant Spirits</hi> (Book of Enoch), drawing,
+73</p>
+          <p><hi rend="i">The Song of Los</hi>, illuminated book, 61</p>
+          <p><hi rend="i">Songs of Experience</hi>, illuminated book, 61</p>
+          <p><hi rend="i">Songs of Innocence</hi>, illuminated book, 60</p>
+          <p><hi rend="i">Songs of Innocence and of Experience</hi>, manuscript index, illuminated book, 60;
+plates, 61</p>
+          <p>The Soul exploring the recesses of the Grave (<hi rend="i">The Grave, A Poem</hi>), copperplate,
+79</p>
+          <p>The Soul Hovering over the Body (<hi rend="i">Small Book of Designs</hi>), color-printed relief
+etching, 61</p>
+          <p>The Soul Hovering over the Body reluctantly parting with Life (<hi rend="i">The Grave, A
+Poem</hi>) copperplate, 79</p>
+          <p><hi rend="i">The Speaker</hi>, bound volume, 64</p>
+          <p><hi rend="i">St. Augustine Converting King Ethalbert of Kent</hi>(?), drawing, 73</p>
+          <p>Stop! Stop! (<hi rend="i">Elements of Morality</hi>), engraving, 65</p>
+          <p>A Surinam Planter (<hi rend="i">Narrative, of a Five Years’ Expedition</hi> . . . 
+<hi rend="i">Surinam</hi>), engraving, 67</p>
+          <p>The Tame Stag (<hi rend="i">Fables</hi>), engraving, 66</p>
+          <p>Temple of Mirth (<hi rend="i">The Wit’s Magazine</hi>), engraving, 65</p>
+          <p>Then two I mark’d, that sat Propp’d ’gainst each other (<hi rend="i">Illustrations of
+Dante</hi>), engraving, 61</p>
+          <p><hi rend="i">There is No Natural Religion</hi>, illuminated book, 60</p>
+          <p>Time Creeping Along (<hi rend="i">The Complaint, and The Consolation</hi>), engraving, 62</p>
+          <p><hi rend="i">Time’s Triple Bow</hi>, drawing, 73</p>
+          <p>Tornado (<hi rend="i">The Botanic Garden</hi>), engraving, 66</p>
+          <p><hi rend="i">The Triumphs of Temper</hi>, bound volume, unbound engravings, 68</p>
+          <p>Trying to trace the sound (<hi rend="i">Original Stories from Real Life</hi>), engraving, 62</p>
+          <p><hi rend="i">Two Angels Descending to a Daughter of Man</hi> (Book of Enoch), drawing, 72</p>
+          <p>(Two figures standing), drawing, 74</p>
+          <p>(Two figures walking [?]), drawing, 72</p>
+          <p>(Two legs), drawing, 74</p>
+          <p>Two lovers in arbour (<hi rend="i">A Select Collection of English Songs</hi>), engraving, 64</p>
+          <p>Two shepherds listening to Damon’s complaint (<hi rend="i">The Poetical Works of John Scott,
+Esq.</hi>), engraving, 64</p>
+          <p>Tythe in Kind; or the Sow’s Revenge (<hi rend="i">The wit’s Magazine</hi>), engraving, 65</p>
+          <p>(Upper torso of a male figure), drawing, 74</p>
+          <p>A View of St. Edmund’s Chapel (<hi rend="i">The Life, and Posthumous Writings, of William
+Cowper, Esq.</hi>), engraving, 68</p>
+          <p><hi rend="i">Vision of the Day of Judgment</hi>, drawing, 74</p>
+          <p><hi rend="i">Visionary Head of King Edward III</hi>, drawing, 73</p>
+          <p><hi rend="i">Visionary Head of Wat Tyler’s Daughter</hi>, drawing, 73</p>
+          <p><hi rend="i">Visionary Portrait of King Canute</hi>, drawing, 73</p>
+          <p><hi rend="i">Visions of the Daughters of Albion</hi>, illuminated book, proofs, 61</p>
+          <p><hi rend="i">War</hi>, color-printed engraving, 61, 70; engraving, 70</p>
+          <p><hi rend="i">A Warring Angel</hi>, drawing, 73</p>
+          <p>Wat Tyler and the Tax-gatherer (<hi rend="i">The New and Improved History of England</hi>),
+engraving, 67</p>
+          <p>Wherefore dost bruise me? weeping he exclaimed (<hi rend="i">Illustrations of Dante</hi>),
+engraving, 61</p>
+          <p><hi rend="i">Whirlwind of Lovers</hi>(?), drawing, 72</p>
+          <p><hi rend="i">The Whole Genuine and Complete Works of Flavius Josephus</hi>, 65</p>
+          <p>A wicked man is more to be pitied (<hi rend="i">Elements of Morality</hi>), engraving, 66</p>
+          <p><hi rend="i">William Cowper</hi>, drawing, 76</p>
+          <p>William Cowper (<hi rend="i">Life, and Posthumous Writings, of William Cowper, Esq.</hi>),
+engravings, 67-68</p>
+          <p><hi rend="i">Wilson Lowry</hi>, engraving, 71</p>
+          <p>(Winged creature), drawing, 76</p>
+          <p><hi rend="i">The Wit’s Magazine</hi>, 64-65</p>
+          <p>Woman on rock looking out to sea (<hi rend="i">A Select Collection of English Songs</hi>),
+engravings, 64</p>
+          <p>(A woman with snaky locks, draped in a veil), drawing, 76</p>
+          <p>Woman writing at desk (<hi rend="i">A Select Collection of English Songs</hi>), engraving, 64</p>
+        </div2>
+      </div1>
+    </back>
+  </text>
+</TEI.2>

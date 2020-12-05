@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>12.2.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA Blake Seminar 1978</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">12.2</biblScope>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Lynn Goldstein</name>
+              <name>Cynthia Lewiecki</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Special Design and Pasteup for this issue</resp>
+              <name>David Anderson</name>
+              <name>Kris Lackey</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David V. Erdman</name>
+              <name>Everett Frost</name>
+              <name>Nelson Hilton</name>
+              <name>Terrence Hoagwood</name>
+              <name>Mary Lynn Johnson</name>
+              <name>John Kilgore</name>
+              <name>Mark Lefebvre</name>
+              <name>Andrew Lincoln</name>
+              <name>Cettina Magno</name>
+              <name>Thomas Minnick</name>
+              <name>Jeffry Spencer</name>
+              <name>Brian Wilkie</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_12">
+    <body>
+      <pb id="p12-159" n="159"/>
+      <div1 id="BQ-12-2-0017">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA BLAKE SEMINAR 1978</hi>
+            </title>
+          </head>
+          <p>The Special Session on “Blake’s Concept of Self” is
+                        scheduled for the annual meeting of the Modern Language Association in New
+                        York this December. Prof. Anne Mellor of Stanford University will be heading
+                        the session. An abstract of each paper to be presented follows:</p>
+          <p>Robert N. Essick, “William Blake: The Printmaker as Poet”</p>
+          <p>The paper will consider some of the ways in which Blake’s profession
+                        influences his poetry. Eighteenth-century etching and engraving involved
+                        procedures, both mental and physical, that shaped the imagery of the
+                        Illuminated Books. In <hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi>,
+Blake’s struggles as a printmaker became part of
+                        the biographical material he transformed into universal myth. A study of
+                        these influences and references offers insights into Blake’s habits
+                        of mind as a poet and into his conception of himself as an artist.</p>
+          <p>Christine Gallant, “Blake’s Presence as First-Person Voice in <hi rend="i">Jerusalem</hi>”</p>
+          <p>Blake is concerned with the unification of the Self—a Self that
+                        includes the unconscious, or Chaos—and he explores the unconscious
+                        throughout his poetry. He strongly desires his reader to understand this
+                        hidden part of the Self as well, as he leads the reader of <hi rend="i">Jerusalem</hi>
+through day-by-day experiences of “the Chaos of
+                        Satan.” We can see this in Blake’s use of the first-person
+                        voice, an unusual tense for him (save in <hi rend="i">Milton</hi>). Jung
+                        helps to understand the use of this tense as he analyzes the authoritative
+                        voice appearing in dreams, a voice seeming to come from outside the
+                        dream’s context. He says that such a voice may be either a spokesman
+                        of the unconscious for the dreamer or (very rarely) a messenger from
+                        “the supraordinate Self.” The first-person voice functions in 
+<hi rend="i">Jerusalem</hi> as does this dream-voice. Blake’s use of
+                        this tense reveals that in these passages he saw himself as such a
+                        spokesman, both for the unconscious and for the unified center of the total
+                        personality which is the Self.</p>
+          <p>John H. Sutherland, “Some Blake Self-Images in <hi rend="i">Milton</hi>
+                        and <hi rend="i">Jerusalem</hi>”</p>
+          <p>The term “self-images” is used to refer to pictures in which Blake
+                        reveals fairly directly something of his own inward state. Five plates from
+                            <hi rend="i">Milton</hi> (<hi rend="i">M</hi> 10, 32, 37, 40, 47) and
+                        three plates from <hi rend="i">Jerusalem</hi> (<hi rend="i">J</hi> 1, 6,
+                        100) are discussed (plates numbered here as in <hi rend="i">The Illuminated
+                            Blake</hi>). It is argued that some of these are pictures connected with
+                        peak experiences in Blake’s life. A pattern of spiritual
+                        auto-biography is suggested, and the question is raised as to whether this
+                        pattern directly reflects Blake’s perception of his own life, or
+                        whether the pattern is a partial fiction designed to enhance the structures
+                        of his two works. Particular attention is given to <hi rend="i">J</hi> 100,
+                        which is taken as an interesting vision, by Blake, of his own spiritual
+                        state late in life.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

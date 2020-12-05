@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.4.spector</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Sources and Etymologies of Blake’s “Tirzah”</title>
+        <author n="Spector">Sheila A. Spector</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.4</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Bidney</name>
+              <name>Christopher Heppner</name>
+              <name>Nelson Hilton</name>
+              <name>Harriet Kramer Linkin</name>
+              <name>Morton D. Paley</name>
+              <name>John B. Pierce</name>
+              <name>Sheila A. Spector</name>
+              <name>Michael Tolley</name>
+              <name>Gunnel Tottie</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <pb id="p23-176" n="176"/>
+      <div1 id="BQ-23-4-0005">
+        <head>
+          <title type="main">Sources and Etymologies of Blake’s “Tirzah”</title>
+        </head>
+        <byline>by <docAuthor>Sheila A. <name>Spector</name></docAuthor></byline>
+        <p>Unlike many of the other names in Blake’s myth, Tirzah has always been considered relatively
+straightforward. Found in two different biblical contexts, the name provides critics with their choice of
+associations by which to measure the development of Blake’s personification. As a woman, Tirzah is the fifth
+of Zelophehad’s daughters (Num. 26.33, 27.1, 36.11; Josh. 17.3), who, along with her four sisters and Rahab,
+is transformed by Blake into Milton’s wives and daughters—“Rahab and Tirzah, &amp; Milcah &amp; Malah
+&amp; Noah &amp; Hoglah.”<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> More
+frequently referred to, though, is the city Tirzah, originally mentioned in Joshua (12.24) as an ancient
+Canaanite city, though later in Kings (2:14.17-18, 2:15.14,16) as a royal city whose beauty is extolled in the
+Song of Solomon (6.4). Thus, in <hi rend="i">Jerusalem</hi>, “Reuben return’d to his place, in vain he
+sought beautiful Tirzah” (32.1, E 178). Because of these biblical sources, critics have been fairly
+confident about their interpretations of the character, especially in the poem “To Tirzah.” In 
+<hi rend="i">Fearful Symmetry</hi>, Northrop Frye combines the two biblical Tirzahs in his interpretation, to
+conclude: “The five daughters represent the five senses and imply the passive dependence on sense experience
+which is symbolized in our being born from a mother. This is the meaning of the little poem ‘To Tirzah’
+which ends the <hi rend="i">Songs of Experience.</hi>”<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> Harold Bloom asserts in <hi rend="i">Blake’s Apocalypse</hi> that “all we need to know
+of her for this poem is in her name. . . . By 1801, Jerusalem, for Blake, symbolizes Milton’s Christian
+Liberty, the spiritual freedom of man. Tirzah therefore stands for man’s bondage to nature.”<supplied
+type="spacer"> </supplied><ref target="n3" type="note">3</ref> And in <hi rend="i">Innocence and
+Experience</hi>, E.D. Hirsch describes Blake’s Tirzah as
+<q>
+an ingenious and imaginative combination of allusions. . . . In this poem Tirzah represents the natural,
+physical world and the natural, physical aspect of man belonging to that world.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref></q>
+	<note id="n1"><hi rend="s">1</hi><hi rend="i"> Milton</hi> 17.11, <hi rend="i">The Complete Poetry and Prose
+of William Blake</hi>, ed. David V. Erdman, newly rev. ed. (Garden City: Doubleday, 1982) 110. All Blake
+citations are from Erdman, hereafter referred to as E. Individual works will be abbreviated as follows: 
+<hi rend="i">The Descriptive Catalogue of 1809, DC</hi>; <hi rend="i">The Four Zoas, FZ</hi>; 
+<hi rend="i">Jerusalem, J</hi>; <hi rend="i">Milton, M</hi>; <hi rend="i">A Vision of the Last Judgment,
+VLJ.</hi></note>
+	<note id="n2"><hi rend="s">2</hi> (Princeton: Princeton UP, 1947) 127.</note>
+	<note id="n3"><hi rend="s">3</hi> (Ithaca: Cornell UP, 1963) 144.</note>
+	<note id="n4"><hi rend="s">4</hi> (New Haven: Yale UP, 1964) 282.</note></p>
+        <p>Influenced by Geoffrey Keynes’s explanation that “The mother’s name, . . . signifies physical
+beauty, that is sex,”<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> Thomas F.
+Berninghausen interprets “To Tirzah” as a poem about “a convergence, a marriage of contrary elements.
+Though the persona remains ignorant of the need for convergence, the poet is fully aware of this
+need.”<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> Finally, in 
+<hi rend="i">Blake’s</hi> Innocence <hi rend="i">and</hi> Experience <hi rend="i">Retraced</hi>, Stanley Gardner
+asserts: “Blake used the Biblical Tirzah, a city in Canaan, as a counter-symbol to Jerusalem, associating
+the name as the degrading labour for bread in the Lambeth Asylum, and with deforming
+self-depression.”<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref>
+	<note id="n5"><hi rend="s">5</hi> Ed., <hi rend="i">The Songs of Innocence and of Experience</hi> (New York:
+Orion, 1967) 154.</note>
+	<note id="n6"><hi rend="s">6</hi> “The Marriage of Contraries in To Tirzah,’” <hi rend="i">Colby
+Library Quarterly</hi> 20 (1984): 195.</note>
+	<note id="n7"><hi rend="s">7</hi> (New York: St. Martin’s, 1986) 152.</note></p>
+        <p>While these interpretations are all good as far as they go, an examination of Blake’s attitude
+towards contemporary linguistics suggests that none goes far enough. It is quite possible that when he
+developed the personification found in “To Tirzah,” <hi rend="i">The Four Zoas, Milton</hi> and 
+<hi rend="i">Jerusalem</hi>, Blake coordinated the biblical sources with a series of what he believed to be
+appropriate Hebraic roots to produce the Tirzah found in his mature work.</p>
+        <p>Historically, most language studies from the Renaissance through the nineteenth century have fallen
+into two basic categories: artificial versus natural language.<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref> Theorists like Bacon and Locke, who believed language to be artificially
+constructed and culturally determined, posited an arbitrary relationship between a word and its meaning
+(signifier and signified), and consequently, a gap between the sign as a whole and the reality it
+represented.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> This distrust of
+language, commonly referred to as the “cheat of words,” became the basis for Bacon’s rejection of
+Aristotelian logic. As he said in the fourteenth statement of the <hi rend="i">Novum Organum: Aphorisms
+Concerning the Interpretation of Nature and the Kingdom of Man</hi>:
+<q>
+The syllogism consists of propositions, propositions of words; words are the signs of notions. If, therefore,
+the notions (which form the basis of the whole) be confused and carelessly abstracted from things, there is no
+solidity in the superstructure. Our only hope is in genuine induction.<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref></q>
+Similarly, Locke’s epistemology can be said to rest on the theory of artificial language. In “Of Words or
+Language in General,” book 3 of his <hi rend="i">Essay Concerning Human Understanding</hi>, Locke says that
+language is the artificially constructed means by which we express our ideas.<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref> Because the ideas signified by words are subjectively
+produced, and because the relationship between a word and its meaning is arbitrary, man is, according to
+Locke, two removes from objective reality.<supplied type="spacer"> </supplied><ref target="n12"
+type="note">12</ref>
+	<note id="n8"><hi rend="s">8</hi> A brief overview of the topic can be found in R. H. Robins, <hi rend="i">A
+Short History of Linguistics</hi>, 2nd ed. (London and New York: Longman, 1979). Also useful is Hans Aarsleff,
+<hi rend="i">The Study of Language in England, 1780-1860</hi> (1966; Minneapolis: U of Minnesota P, 1983), and
+his essays collected in the anthology <hi rend="i">From Locke to Saussure: Essays on the Study of Language and
+Intellectual History</hi> (Minneapolis: U of Minnesota P, 1982); and Stephen K. Land, <hi rend="i">The
+Philosophy of Language in Britain: Major Theories from Hobbes to Thomas Reid</hi> (New York: AMS Press,
+1986).</note>
+	<note id="n9"><hi rend="s">9</hi> While the terminology is that of twentieth-century structuralism, Aarsleff
+points out in his introduction that Ferdinand de Saussure’s theories were preceded by those of Locke in the
+seventeenth century, and Wilhelm von Humboldt in the early nineteenth. However, says Aarsleff, “We need not
+assume that Humboldt had read Locke, though that is possible, or that Saussure had read Locke and Humboldt,
+which would seem unlikely. But the obvious similarity of the three statements and the crucial position of each
+in the writer’s thought cannot be dismissed as merely fortuitous. We are forced to assume that there is a
+demonstrable connection, a course of coherence that links Locke, Humboldt, and Saussure”
+(“Introduction,” <hi rend="i">From Locke to Saussure</hi> 25).</note>
+	<note id="n10"><hi rend="s">10</hi> Published with the <hi rend="i">Advancement of Learning</hi> and 
+<hi rend="i">New Atlantis</hi> (Chicago: Encyclopaedia Britannica, 1952) 107-08.</note>
+	<note id="n11"><hi rend="s">11</hi> Peter H. Nidditch, ed. (Oxford: Clarendon P, 1975) B2.</note>
+	<note id="n12"><hi rend="s">12</hi> Interestingly, the third member of Blake’s infernal trinity, Newton,
+attempted to construct an artificial language (see Ralph W. V. Elliott, “Isaac Newton’s ‘Of an
+Universall Language,’” <hi rend="i">Modern Language Review</hi> 52 [1957]: 1-18).</note></p>
+        <p>In contrast, the proponents of natural language based their theories on the two references to
+language in the Bible: Adam’s naming of the animals (Gen. 2.19), and God’s confounding of language after
+the Tower of Babel (Gen. 11.7). A literal reading of the first reference led to the belief that language was
+not arbitrary but divinely inspired. From this perspective, Adam was not merely assigning arbitrary
+signifiers, but identifying essences when naming the animals. Thus, in contrast to Locke, who repeatedly
+asserted that the relationship between the signifier and its signified
+<pb id="p23-177" n="177"/>
+was as arbitrary as that between the sign as a whole and the concept it represented, Jacob Boehme felt that
+words were literally the divine material out of which the natural world was created:
+<q>
+As the first creation of Adam and all kinds of creatures was so brought to pass, the Verbum Fiat coagulated
+each ens, and the manifested word severed itself in the ens according to its property, and formed the creature
+according to its astrum and kind; where also, in every ens, the matrix was separated from the limbus, and
+formed into a male and female. . . .<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref>
+	<note id="n13"><hi rend="s">13</hi> <hi rend="i">Mysterium Magnum, or An Exposition of the First Book of
+Moses called Genesis</hi>, John Sparrow, tr., C. J. Barker, ed., 2 vols. (London: Watkins, 1924)
+19.26.</note></q>
+The second biblical reference accounted for the existence of so many languages in the world. While Locke
+considered linguistic multiplicity proof of its artificiality and cultural relativism, his opponents asserted
+that post-Babylonian languages were later derivatives of the Adamic language. As Boehme explains in chapter 36
+of the <hi rend="i">Mysterium Magnum</hi>, “Of the Antichristian Babylonical Whore of All Nations, Tongues
+and Speeches; shewing what is contained under the Languages and Tower of Babel”:
+<q>
+[The Tower of Babel] denotes and declares the divided tongues, where every property had brought itself forth
+out of the universal sensual tongue into a selfishness and a peculiar selfly understanding, so that they did
+not any longer understand one another. . . . (36.6)
+</q>
+Therefore, “when we bring all these images [and several semblances] again into one language and speech, and
+mortify them, then the only quickening Word of God, which giveth power and life to all things, is again
+manifest; and strife ceaseth, and God is all in all” (36.40).</p>
+        <p>Almost all linguists of the seventeenth and eighteenth centuries became interested in the origin of
+language, the first group as a measure of the development of civilization, and the second as the means of
+tracing language back to its origins in divine speech.<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref> And most theorists postulated some sort of ur-language from which modern tongues
+developed. In his mammoth six-volume study <hi rend="i">Of the Origin and Progress of Language</hi>
+(Edinburgh, 1772-92), James Burnet, Lord Monboddo asserted that “all the languages spoken in Europe, all
+Asia, . . . and some part of Africa” were all “dialects of one parent-language,” which was “probably
+invented in Egypt.”<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> More germane
+to a study of Blake, Jacob Bryant explained in his three-volume <hi rend="i">New System, or an Analysis of
+Ancient Mythology</hi> (London, 1774-76):
+<q>
+There was once but one language among the sons of men. Upon the dispersion of mankind, this was branched out
+into dialects; and those again were subdivided; all which varied every age; not only in respect to one
+another; but each language differed from itself more and more continually. It is therefore impossible to
+reduce the whole of these to the mode, and standard of any one. (1: 54)
+</q>
+In order to trace language back to its origin, some scholars assembled etymological dictionaries predicated on
+the assumption that cognates found in different languages had to be remnants of the parent tongue. Thus,
+Bryant compiled “A Mythological, Etymological, and Historical Dictionary,” intended to list and define the
+extant roots of the ur-language. While the dictionary was originally included as part of the 
+<hi rend="i">Mythology</hi>, Bryant published it separately in 1793. <note id="n14"><hi rend="s">14</hi> See
+Aarsleff’s essay “An Outline of Language-Origins Theory Since the Renaissance,” 278-92; and Gordon W.
+Hewes, <hi rend="i">Language Origins: A Bibliography</hi> 2 vols. (The Hague: Mouton, 1975).</note>
+	<note id="n15"><hi rend="s">15</hi> (Reprint, New York: Garland Publishing, 1970) 1: 655.</note></p>
+        <p>There was a fairly broad consensus that the most logical choice for the ur-language was Hebrew, the
+language of the Old Testament.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref>
+However, there was less agreement about the nature of the Hebrew spoken by Moses. For a variety of reasons,
+some Christian Hebraists in the eighteenth century questioned the authenticity of rabbinic Hebrew, the most
+extreme critics asserting that what was then accepted as the Hebrew scripture was actually a fabrication by
+the Jews. For example, in <hi rend="i">The Integrity of the Hebrew Text</hi> (London, 1754), the radical
+Julius Bate claimed:
+<q>
+So that the Scriptures, unless we get a better Set of them, by the Help of a Corrupted, interpolated Copy; and
+a vague, loose, irregular, and in many Places unintelligible Version, are lost; and we have no Scripture at
+all since the Jews have played such Tricks with it, and made a new Scripture for themselves, not us. . . . who
+can give us any Security that they have not done unto them [scriptures] whatsoever they listed? and where then
+will their Credit be? (48)
+</q>
+More neutral was Thomas Sharp who, in his <hi rend="i">Discourses Touching the Antiquity of the Hebrew Tongue
+and Character</hi> (London, 1755), advised objectivity, even though “the Rabbinical Jews” produced
+grammars “not only without any authority, but, I think, irrationally”:
+<q>
+I should rather chuse to judge of [the Hebrew tongue] with impartiality, and to speak of it with caution,
+according to the best intelligence we can get concerning it, and according to the most rational conclusions,
+or most probable inferences we can make from thence. (81-82)
+</q>
+	<note id="n16"><hi rend="s">16</hi> The discussion of Hebrew is based on my article “Blake as an
+Eighteenth-Century Hebraist,” in David V. Erdman, ed., <hi rend="i">Blake and His Bibles</hi> (West
+Cornwall, CT: Locust Hill Press, 1990) 179-229. I am currently compiling <hi rend="i">Christian Hebraism: A
+Source Book of English-Language Materials</hi> for Garland Publishing.</note></p>
+        <p>At the other extreme were those who asserted that what passes for Hebrew is not really the
+authentic Hebrew at all. For example, James Parson’s <hi rend="i">Remnants of Japhet: Being Historical
+Enquiries into the Affinity and Origin of the European Languages</hi> (1767) explored the thesis that
+<q>
+those who speak the dialects of the <hi rend="i">Japhetan</hi> language to this day, which are the 
+<hi rend="i">Gomerian</hi> and <hi rend="i">Magogian</hi>, or <hi rend="i">Scotish</hi> languages; and yet these
+are the only unmixed remains of the children of <hi rend="i">Japhet</hi>, upon the Globe; and the King of 
+<hi rend="i">Great Britain</hi>, the only monarch upon the earth who rules the remains of that original people.
+</q>
+Parsons did refer to
+<q>
+a suspicion of its being related to the <hi rend="i">Hebrew</hi>, among some ingenious gentlemen, either as a
+mutilated dialect of it, or as a sister dialect with that of some more ancient antediluvian tongue: . . .
+However this may be, since we cannot think that <hi rend="i">Japhet</hi>’s people, or those of 
+<hi rend="i">Shem</hi>, were at all concerned in the affair of <hi rend="i">Babel</hi>, we must suppose them both
+to have been languages of the antediluvian world, and both in the house of <hi rend="i">Noah.</hi><supplied
+type="spacer"> </supplied><ref target="n17" type="note">17</ref>
+	<note id="n17"><hi rend="s">17</hi> (Reprint, Mentson, England: Scolar P, 1968) x, xix-xx.</note></q></p>
+        <p>While Parson’s thesis is extreme, there is a long history of associating 
+<pb id="p23-178" n="178"/>
+Hebrew and English. In his <hi rend="i">Rights of the Kingdom</hi> of 1649, John Sadler traced the etymology
+of the name Britain back to the Phoenician <hi rend="i">Berat Anac</hi>, meaning “<hi rend="i">the Field of
+Tyn and Lead</hi>” (47); and in <hi rend="i">Court of the Gentiles</hi> (London, 1672), Theophilus Gale took
+the Phoenician back to the Hebrew: “As for the other European Languages, the Italian, Spanish, French,
+German, English, &amp;c. its evident, that they are, as to their present constitution, made up, for the most
+part, of the Latin, and so originally from the Hebrew” (84). Closer to Blake, Edward Davies attempted to
+demonstrate in his <hi rend="i">Celtic Researches on the Origin, Traditions &amp; Language, Of the Ancient
+Britons</hi> (London, 1804), that
+<q>
+the <hi rend="i">Irish</hi> names unite with corresponding terms, in <hi rend="i">Hebrew</hi>, and 
+<hi rend="i">Greek</hi> This union of the import, conveyed by similar sounds, in the names of the letters,
+demonstrates to me the original identity of the languages, and of the conceptions entertained by the several
+nations, respecting their elementary character, or <hi rend="i">symbols</hi> of sounds. (334)
+</q>
+In order to establish the antiquity of English, Davies included in the <hi rend="i">Celtic Researches</hi> an
+“Essay on the Celtic Language: in which its radical principles, are appreciated and compared with
+primitives, and simple terms, in Hebrew, Greek, and Latin” (347-561), showing the commonality of Hebrew and
+English.<supplied type="spacer"> </supplied><ref target="n18" type="note">18</ref>
+	<note id="n18"><hi rend="s">18</hi> This “Anglo-Israelite” tradition, which became intermixed by the
+followers of Richard Brothers with eighteenth-century millenarianism, continues into the twentieth century,
+Anglo-Israelites still compiling dictionaries to demonstrate how English derived from the original Hebrew
+tongue. On Blake and Richard Brothers, see Morton D. Paley, “William Blake, the Prince of the Hebrews, and
+the Woman Clothed with the Sun,” in <hi rend="i">William Blake: Essays in Honour of Sir Geoffrey
+Keynes</hi>, ed. Paley and Michael Phillips (Oxford: Clarendon P, 1973) 260-93.</note></p>
+        <p>As should be expected, the most popular Hebrew-English dictionary of the period, John Parkhurst’s
+<hi rend="i">Hebrew and English Lexicon, without Points</hi> (1762; 4th ed. London 1799), incorporated most of
+this scholarship. Parkhurst explained in the preface to the second edition, reprinted in the fourth:
+<q>
+It appears evident from the Mosaic account of the original formation of Man, that <hi rend="i">Language was
+the immediate Gift of God to Adam</hi>, or that God himself either taught our first parent to speak, or, which
+comes to the same thing, inspired him with language. And the language thus communicated to the first man was,
+notwithstanding the objections of ancient or modern cavillers, no other (I mean as to the main and structure
+of it) than that <hi rend="i">Hebrew</hi> in which Moses wrote. Else what meaneth the inspired historian when
+he saith, Gen. ii. 19, <hi rend="i">Whatever Adam called every living creature that [was] the name
+thereof?</hi> (viii)
+</q>
+Therefore, all languages descend from Hebrew:
+<q>
+Indeed I believe that many other languages, not only the <hi rend="i">Greek</hi> and <hi rend="i">Latin</hi>,
+but even our own, and the rest which are not spoken in <hi rend="i">Europe</hi>, might, notwithstanding their
+apparent confusion, be, by persons properly qualified, reduced to their <hi rend="i">primitive Roots</hi>, and
+by consequence the <hi rend="i">Ideality</hi> (if the term may be allowed) <hi rend="i">of such languages be
+recovered.</hi> (viii)
+</q></p>
+        <p>In compiling and revising his lexicon, the two practices of which Parkhurst was most proud have the
+least foundation in what today is considered to be responsible linguistics. First, he relied almost
+exclusively on orthography for locating roots:
+<q>
+. . . the Hebrew language is ideal, or that from a certain, and that no great, number of primitive, and
+apparently arbitrary, words, called Roots, and usually expressive of some idea or notion taken from nature,
+i.e. from the external objects around us, or from our own constitutions, by our senses or feelings, all the
+other words of that tongue are derived, or grammatically formed; and that wherever the radical letters are the
+same, the leading idea or notion runs through all the deflexions of the word, however numerous or diversified.
+. . . (viii)
+</q>
+Because Parkhurst assumed that words with similar spelling must have derived from a single root, he grouped
+together sometimes linguistically disparate words and then contrived explanations for their relationship. This
+would be comparable to explaining how all English words based on the consonants <hi rend="i">sng</hi> (e.g.,
+sing, snag, snug, singe) developed from a single root. Also, Parkhurst included with many entries so-called
+derivatives, words of other languages which he asserted developed from the Hebrew parent, for he felt it
+“might entertain [the learner] to see so many words still preserved in English, from the common mother of
+all tongues, and set him upon new enquiries of this kind, both in our own and other languages.” This effort
+was so well received that in the second edition of the lexicon, Parkhurst “considerably enlarged this
+etymological part of my Work, by the addition not only of many English, but of many Greek, Latin, and Northern
+words” (xii).</p>
+        <p>Blake probably sided with the biblically oriented linguists.<supplied type="spacer"> </supplied><ref target="n19" type="note">19</ref> Not only did he identify Bacon and Locke, along with Newton,
+as the infernal trinity, but he repeatedly asserted that his language was divinely inspired, writing to Butts
+on 25 April 1803, “I have written this Poem from immediate Dictation twelve or sometimes twenty or thirty
+lines at a time without Premeditation &amp; even against my Will” (E 728-29); and on 6 July 1803, “I may
+praise it since I dare not pretend to be any other than the Secretary the Authors are in Eternity” (E 730).
+Therefore, “Every word and every letter is studied and put into its fit place” (“To the Public,” E
+146), for “Poetry admits not a Letter that is Insignificant” (<hi rend="i">VIJ</hi>, E 560). However,
+while he agreed that there was a single ur-language, Blake apparently questioned the primacy of the language
+of the Jews:
+<q>
+The antiquities of every Nation under Heaven, is no less sacred than that of the Jews. They are the same thing
+as Jacob Bryant, . . . and all antiquaries have proved. How other antiquities came to be neglected and
+disbelieved, while those of the Jews are collected and arranged, is an enquiry, worthy of both the Antiquarian
+and the Divine. All had originally one language, and one religion, this was the religion of Jesus, the
+everlasting Gospel. (<hi rend="i">DC</hi>, E 543)
+</q>
+	<note id="n19"><hi rend="s">19</hi> In “A Wall of Words,” V. A. De Luca asserts the opposite: “Blake
+understands language not only as having human origin but also as being the quintessence and the glory of our
+humanity” (Nelson Hilton and Thomas A. Vogler, eds., <hi rend="i">Unnam’d Forms: Blake and Textuality</hi>
+[Berkely: U of California P, 1986] 239).</note></p>
+        <p>Although Blake may seem to have rejected Hebrew as the original language, there are still several
+reasons for assuming that he used it as the vehicle for deriving the language of “the everlasting Gospel.”
+Historically, regardless of whether or not Hebrew was the original language, its antiquity would have made it
+closer to Adam, so logically, it would contain more remnants of the pre-Babylonian tongue. On a more practical
+level, because most scholars of the time did believe 
+<pb id="p23-179" n="179"/>
+in the primacy of Hebrew, there were more Hebraic resources available, many of them coordinating roots from
+various languages. Therefore, it is conceivable that Blake culled among the different resources so that Los
+could “buil[d] the stubborn structure of the Language” (<hi rend="i">J</hi> 36.59, E 183).<supplied
+type="spacer"> </supplied><ref target="n20" type="note">20</ref> Finally, similarities between Parkhurst’s
+unique definitions for the Hebraic roots <hi rend="i">or</hi> and <hi rend="i">razon</hi>, and Blake’s
+Urizen strongly suggest that Blake consulted Parkhurst’s <hi rend="i">Hebrew and English Lexicon</hi> for
+the etymology of the name Urizen, so it is reasonable to infer that he used the dictionary for other names as
+well.<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n20"><hi rend="s">20</hi> In the same paragraph of the <hi rend="i">Descriptive Catalogue</hi>,
+Blake also asserts the need for scholarly objectivity: “Tell me the Acts, O historian, and leave me to
+reason upon them as I please; away with your reasoning and your rubbish. All that is not action is not . . .
+worth reading. Tell me the What; I do not want you to tell me the Why, and the How; I can find that out
+myself, as well as you can, and I will not be fooled by you into opinions, that you please to impose, to
+disbelieve what you think improbable or impossible” (E 544). It seems reasonable to infer that Blake could
+have used the “facts” without accepting the premises of his sources.</note>
+	<note id="n21"><hi rend="s">21</hi> See my articles “The Reasons for ‘Urizen,’” 
+<hi rend="i">Blake</hi> 21 (1988): 147-49; and “Hebraic Etymologies of Proper Names in Blake’s Myth,” 
+<hi rend="i">Philological Quarterly</hi> 67 (1988): 345-63.</note></p>
+        <p>If Blake did seek Hebraic roots for the names of his personifications, then he probably followed
+the procedure outlined in most Hebrew/English grammars of the time, like Parkhurst’s <hi rend="i">An Hebrew
+and Chaldee Grammar, without Points</hi>, published with the <hi rend="i">Dictionary.</hi> Specifically, the
+grammars advised removing any affixes from a word in order to derive its radical. In the case of Tirzah, Blake
+would have eliminated the prefix <hi rend="i">ti</hi> and the suffix <hi rend="i">ah</hi> to reveal the root
+letters <hi rend="i">rz</hi> (the second letter of the root, <hi rend="i">tsadi</hi>, is often transliterated
+<hi rend="i">z</hi>). He then would have checked the dictionary, where he would have found four different
+entries. In Parkhurst’s alphabetical order, the first is <hi rend="i">ratz</hi>:
+<list type="ordered">
+	<item><p><label>I.</label> <hi rend="i"> . . . To run, move or ride swiftly.... To cause to run, put to
+flight, . . . To move</hi> or <hi rend="i">cause to move hastily or swiftly.... To carry quickly.... A
+running, course . . . Course of action . . . Incursion, invasion . . . </hi> Or, <hi rend="i">Force,
+violence.</hi></p></item>
+	<item><p><label>II.</label> <hi rend="i"> . . . To run, to cause to run, to drive</hi>, or 
+<hi rend="i">force</hi> one thing against another, <hi rend="i">to dash, crush.</hi></p></item>
+	<item><p><label>III.</label> As a N. with a formative [<hi rend="i">alef, eretz</hi>], sometimes masc....but
+much more frequently fem.</p>
+		<list type="ordered">
+			<item><p><label>1.</label> <hi rend="i">The earth</hi> or <hi rend="i">earthy matter</hi>, as distinguished
+from the waters.... Various etymologies have been by learned men proposed of this word; the most probable
+seems to be that which derives it from [<hi rend="i">ratz</hi>] <hi rend="i">breaking in pieces,
+crumbling....</hi> And it is manifest, that on this remarkable property of <hi rend="i">earth</hi>, it’s
+answering the end of it’s creation, or it’s usefulness in continually supplying the waste of vegetable and
+animal bodies, must depend; and it is not improbable that the Greek . . . from Heb....<hi rend="i">to pound,
+beat to pieces</hi>, the Lat. terra, from tero <hi rend="i">to wear away</hi>, and the Eng. 
+<hi rend="i">ground</hi> from <hi rend="i">grind</hi>, all aimed at the same etymological reason.</p></item>
+			<item><p><label>2.</label> <hi rend="i">The compounded chaotic globe of earth and waters</hi>, as
+distinguished from the heavens....</p></item>
+			<item><p><label>3.</label> <hi rend="i">A particular part of the earth, a land</hi>, or 
+<hi rend="i">country....</hi></p></item>
+			<item><p><label>4.</label> <hi rend="i">The ground</hi>, in opposition to somewhat elevated above it....
+Hence German <hi rend="i">Erde</hi> . . . and Eng. <hi rend="i">Earth</hi>, . . . (700)</p></item>
+		</list>
+	</item>
+</list>
+Second, <hi rend="i">rotzeh</hi>:
+<list type="ordered">
+	<item><p><label>I.</label> <hi rend="i"> . . . To be pleased with, to like, affect.... Will, delight....
+Favour, affection.... Desire.... Will, pleasure.... Wilfulness, self-will.</hi></p></item>
+	<item><p><label>II.</label> <hi rend="i"> . . . To be pleased with, enjoy</hi></p></item>
+	<item><p><label>III.</label> <hi rend="i"> . . . To be pleased with, accept kindly or graciously.... To be
+satisfactorily expiated, . . . To make oneself accepted or acceptable.... Acceptableness,
+acceptance.</hi></p></item>
+	<item><p><label>IV.</label> <hi rend="i"> . . . To accept with complacence</hi> and 
+<hi rend="i">patience</hi>, as punishment for sin, <hi rend="i">to acquiesce in.</hi></p></item>
+	<item><p><label>V.</label> <hi rend="i"> . . . To please, conciliate the affections of</hi></p></item>
+	<item><p><label>VI.</label> <hi rend="i"> . . . To agree or consent with....</hi> (701)</p></item>
+</list>
+Third, <hi rend="i">ratzah</hi>:
+<q>
+Denotes <hi rend="i">manslaughter</hi> or <hi rend="i">murder</hi>, i.e. either the accidental or wilful
+taking away of a man’s life. <hi rend="i">To kill, slay, murder . . . To be slain, murdered.... A manslayer
+or murderer....A murdering instrument, a sword</hi>, or the like.<lb/>
+<lb/>
+<corr type="emend">Der. <hi rend="i">Massacre</hi> (702)</corr>
+</q>
+Fourth, <hi rend="i">ratzah</hi>:
+<q><hi rend="i">To pierce through, perforate, bore.... A piercing instrument, an awl, a piercer.</hi> (702)
+</q></p>
+        <p>Evidence of all four roots can be found in the characterization of Tirzah. The first, arguably the
+most significant, is based on one of Parkhurst’s linguistic fancies. The Hebrew word 
+<hi rend="i">eretz</hi>, “earth,” begins with an <hi rend="i">aleph</hi>, a letter frequently used as an affix
+to indicate grammatical relation, though in this case, part of the root. Parkhurst erroneously considers the
+letter a servile and removes it to reveal what he considers to be the root, <hi rend="i">ratz</hi>, the Hebrew
+word for “run.” Though wrong, he provides Blake with the linguistic basis for associating several
+properties of materialism in the single name Tirzah. In its most simple sense, the root involves the idea of
+movement: “To run, move or ride swiftly,” “Runners, running attendants,” “Course of action,”
+“Force, violence.” Thus, in <hi rend="i">Milton</hi>, Los’s “Twelve Sons successive fled away in that
+thousand years of sorrow / . . . were Generated, because / They left me, wandering with Tirzah” (23.62-24.5,
+E 199). Similarly, in <hi rend="i">Jerusalem</hi>, Reuben wanders, “in vain he sought beautiful Tirzah / . .
+. [Los] sent him forth over Jordan / In the love of Tirzah” (32.1-7, E 178). In contrast, her victim in 
+<hi rend="i">The Four Zoas</hi> provokes her complaint, “Why dost thou wander away from Tirzah why me compell to
+bind thee” (8.105.32, E 378). Transitively, <hi rend="i">ratz</hi> becomes “To run, to cause to run, to
+drive or force one thing against another, to dash, crush,” as in “she dashed his skull.” Thus, Tirzah
+operates the looms to “prepare webs of torture / Mantles of despair girdles of bitter compunction shoes of
+indolence / Veils of ignorance covering from head to feet with a cold web” (<hi rend="i">FZ</hi>
+8.113.19-21, E 376-77); and the three classes of men are, in a line deleted from copy CD of 
+<hi rend="i">Milton</hi>, “Spun beneath the Spindle of Tirzah” (7.1, E 807).</p>
+        <p>From the verb “to crush,” Parkhurst derives the nouns “Broken pieces, fragments”—rocks:
+“And the Twelve Daughters of Albion united in Rahab &amp; Tirzah / A Double Female: and they drew out from
+the Rocky Stones / Fibres of Life to Weave” (67.2-4, E 220). This leads to the key of Tirzah’s identity,
+“The earth or earthy matter,” which derives from “breaking in pieces, crumbling.” Specifically, the
+“compounded chaotic globe of earth
+<pb id="p23-180" n="180"/>
+and waters” is to be “distinguished from the heavens,” as indicated in <hi rend="i">Milton</hi> where
+the sons of Los
+<q>
+were Generated, because<lb/>
+They left me, wandering with Tirzah: Enitharmon wept<lb/>
+One thousand years, and all the Earth was in a watry deluge<lb/>
+We calld him Menasseh because of the Generations of Tirzah<lb/>
+(24.3-6, E 119)
+</q>
+(Joseph called his son Manasseh “For God, said he, hath made me forget all my toil, and all my father’s
+house” [Gen. 41.52]).</p>
+        <p>The material earth is associated with the material body in “To Tirzah”: “Whate’er is Born
+of Mortal Birth, / Must be consumed with the Earth / To rise from Generation free” (ll. 1-3, E 30). In 
+<hi rend="i">The Four Zoas</hi>, Tirzah has her sisters bind the human form down,
+<q>
+Come circumscribe this tongue of sweets &amp; with a Screw of iron<lb/>
+Fasten this Ear into the Rock Milcah the task is thine<lb/>
+Weep not so sisters weep not so our life depends on this<lb/>
+Or mercy &amp; truth are fled away from Shechem and Mount Gilead<lb/>
+Unless my beloved is bound upon the Stems of Vegetation<lb/>
+(8.105.49-53, E 379)
+</q>
+for her own sake, reversing the traditional perspective on the Fall. Instead of viewing mortality as the loss
+of immortality, Tirzah explains that her existence requires the vegetation of man. Being thus associated with
+the material body, Tirzah becomes the means through which the incarnation can be achieved. While, as the
+speaker of “To Tirzah” laments, the “Mother of [his] Mortal part. / . . . Didst close [his] Tongue in
+senseless clay / And [him] to Mortal Life betray,” at the same time, “The Death of Jesus set [him] free”
+(ll.9, 13-15, E 30). In <hi rend="i">The Four Zoas</hi>, the Lamb comes “first to Give his vegetated body /
+To be cut off &amp; separated that the Spiritual body may be Reveald,” through his encounter with “The
+false Female . . . /Which christ must rend &amp; her reveal Her Daughters are calld / Tirzah” (8.113.37-38,
+105.25-27, E 378); “Then Jesus Came &amp; Died willing beneath Tirzah &amp; Rahab” (8.115.50, E 381). At
+the Last Judgment,
+<q>
+. . . Jesus stood beside them in the Spirit Separating<lb/>
+Their Spirit from their body. Terrified at Non Existence<lb/>
+For such they deemd the death of the body.<lb/>
+<lb/>
+. . . . . . . . . . . . .<lb/>
+<lb/>
+their bodies lost they stood Trembling &amp; weak a faint embrace a fierce desire<lb/>
+<lb/>
+. . . . . . . . . . . . .<lb/>
+<lb/>
+Their bodies buried in the ruins of the Universe<lb/>
+Mingled with the confusion: Who shall call them from the Grave<lb/>
+<lb/>
+Rahab &amp; Tirzah wail aloud in the wild flames they give up themselves to Consummation<lb/>
+(9.117.4-6, 118.1-2, 5-7, E 386-87)
+</q></p>
+        <p>The second root, <hi rend="i">rotzeh</hi>, seems to reflect Tirzah’s association with the Female
+Will, imposing her will on her victim: “Why dost thou wander away from Tirzah why me compell to bind thee”
+(<hi rend="i">FZ</hi> 8.32, E 379); and taking pleasure in the fulfillment of her willful desires:
+“Therefore bright Tirzah triumphs: putting on all beauty. / And all perfection, in her cruel sports among
+the Victims” (<hi rend="i">M</hi> 19.44-45, E 113).</p>
+        <p>The third root, thematically related to the first, is <hi rend="i">rotsah</hi>, the Hebrew ending
+with a gutteral sound frequently left unvoiced in English transliterations.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref> Denoting “manslaughter or murder,” the word is most
+frequently associated with the seventh commandment, <hi rend="i">lo tirtsah</hi>, “thou shalt not kill,”
+as included by Blake in the early version of “Job’s Evil Dreams,” from the Butts Job series, completed
+around 1805.<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref> The root’s
+association with the name Tirzah is obvious. The “Mother of my Mortal part” who “to Mortal Life
+betray” in “To Tirzah” (ll. 9, 14, E 30), is the same figure who, in <hi rend="i">Milton</hi>, watched
+with Rahab as Milton struggled against Urizen: “Rahab and Tirzah trembled to behold / The enormous strife.
+one giving life, the other giving death” (<hi rend="i">M</hi> 19.28-29, E 113); for “Tirzah &amp; her
+Sisters / Weave the black Woof of Death upon Entuthon Benython” (<hi rend="i">M</hi> 29.55-56, E 128). And
+in <hi rend="i">Jerusalem</hi>, “Tirzah sits weeping to hear the shrieks of the dying: her Knife / Of flint
+is in her hand: she passes it over the howling Victim” (67.24-25, E 220). 
+<note id="n22"><hi rend="s">22</hi> Much of my discussion of this root was anticipated by Thomas A. Reisner in “Blake’s ‘To
+Tirzah,’” <hi rend="i">The Explicator</hi> 33 (1974): item 3.</note>
+	<note id="n23"><hi rend="s">23</hi> Regarding the earlier Job series, Martin Butlin says, “The watercolours
+painted for Thomas Butts have until recently been thought to date from shortly before the Linnell set [1821],
+but in fact stylistically they are much closer to the biblical watercolours of circa 1805; indeed, it is
+difficult to see why Blake would have needed to have had the outlines traced when he painted the second set
+had there not been a considerable lapse of time between them. A further reason for dating the Butts set to
+about 1805 is that some of the watercolours are signed with the ‘WB inv’ monogram, a form of signature
+that Blake seems to have abandoned in 1806” (<hi rend="i">William Blake</hi> [London: Tate Gallery, 1978]
+98).</note></p>
+        <p>The fourth root, <hi rend="i">rotzeh</hi>, closely related to the third, describes the means by
+which Tirzah commits her murders: “To pierce through, perforate, bore,” and as a noun, “A piercing
+instrument, an awl, a piercer.” Thus, in <hi rend="i">Jerusalem</hi>, “The Twelve Daughters in Rahab &amp;
+Tirzah have circumscribd the Brain / Beneath &amp; pierced it thro the midst with a golden pin” (67.41-42, E
+220).</p>
+        <p>Although we cannot derive firm conclusions from a single name, these Hebraic etymologies of Tirzah
+do yield several inferences for further consideration. First, it is possible that Blake was more proficient in
+Hebrew than has heretofore been assumed.<supplied type="spacer"> </supplied><ref target="n24"
+type="note">24</ref> While virtually any Bible dictionary could have provided Blake with a list of passages
+containing the name Tirzah, as well as the traditional attribution of beauty, none would have then broken the
+name down to an Hebraic root. Rather, it would seem that on 30 January 1803, Blake truly was, as he wrote his
+brother James, “now learning my Hebrew” (E 727). During this same period, he added “To Tirzah” to 
+<hi rend="i">The Songs of Experience</hi>, wrote Nights the Eighth and Ninth of <hi rend="i">The Four Zoas</hi>,
+and painted the earlier Job series.<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref>
+Therefore, it is conceivable that, noting a similarity between the name and the Hebrew word from the
+commandment, Blake could have applied the lessons learned from contemporary Hebraists and sought a common
+root. <note id="n24"><hi rend="s">24</hi> Harold Fisch’s original judgment that Blake “knew little or no
+Hebrew” (“William Blake,” <hi rend="i">Encyclopaedia Judaica</hi> [Jerusalem: Keter, 1971] 4: 1071-72),
+has been amended by Arnold Cheskin to “he was not entirely without Hebrew” (“The Echoing Greenhorn:
+Blake as Hebraist,” <hi rend="i">Blake</hi> 12 [1978-79]: 183).</note>
+	<note id="n25"><hi rend="s">25</hi> Regarding “To Tirzah,” Erdman says that “The style of lettering
+points to a date later than 1803, . . . Actually the first copy of <hi rend="i">Songs</hi> that contains ‘To
+Tirzah’ and has any firm evidence of date is copy P (on the paper watermarked Buttanshaw 1802), followed by
+Q (with watermark dates of 1802 and 1804) and E (sold to Butts in 1806)” (E 800). Dating passages from 
+<hi rend="i">The Four Zoas</hi> has always been problematical, but Erdman believes that “the date of 1804 or
+later which has been accepted for Night VIII on the basis of allusions to the renewal of war and of strikingly
+different symbolism or idiom from the main body of the poem . . . may need correction to ‘much later.’ The
+writing of VIII, at least, . . . must have occurred after Blake had begun if not completed 
+<hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi>” (E 817).</note></p>
+        <p>Second, if Blake did distinguish between source and etymology, then the
+<pb id="p23-181" n="181"/>
+names in his myth do mean something. For the past decade or so, several Blake critics, especially those
+dealing with onomastics, have been exploring various formal patterns found in Blake’s work, but without
+associating those structures with the content in any way. For example, V. A. De Luca bases his exploration of
+“Proper Names in the Structural Design of Blake’s Myth-Making” in part on “the principle of the
+autonomy of the names, that is, their frequently arbitrary use and the primacy of their status as
+self-referential and irreducible elements in his poetry.”<supplied type="spacer"> </supplied><ref
+target="n26" type="note">26</ref> Similarly, in “Pictures of Speech: On Blake’s Poetic,” Aaron Fogle
+asserts that the names are not descriptive, but “comprise [Blake’s] own ‘pictures of
+speech.’”<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> Nelson Hilton’s 
+<hi rend="i">Literal Imagination: Blake’s Vision of Words</hi> explores linguistic patterns from the perspective
+that “These constructions, of course, do not disclose anything about the narrative, but they do create
+aspects of the background and frame— . . . the words of the plates have their own plots.”<supplied
+type="spacer"> </supplied><ref target="n28" type="note">28</ref> And the editors of <hi rend="i">Unnam’d
+Forms: Blake and Textuality</hi> pointedly reject “this vision of Blake as a poetic Adam naming his
+creatures . . . of Blake as the founder of a poetry of nouns that must be translated back into their meanings
+through a process of <hi rend="i">definition</hi>” (6). If, as the name Tirzah suggests, Blake did consider
+the Hebraic etymologies when characterizing the personifications found in his myth, then we must carry these
+formal studies to their logical conclusions by considering the ways in which structure and meaning, along with
+pictures in the composite art, all interact with each other. <note id="n26"><hi rend="s">26</hi><hi rend="i">
+Blake Studies</hi> 8 (1978): 6.</note>
+	<note id="n27"><hi rend="s">27</hi><hi rend="i"> Studies in Romanticism</hi> 21(1982): 220.</note>
+	<note id="n28"><hi rend="s">28</hi> (Berkeley: U of California P, 1983) 4.</note></p>
+        <p>Finally, if Blake did incorporate Hebraic etymologies into his work, then he was probably using
+language transformatively as well as descriptively.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref> Had he been concerned simply with describing his vision, Blake would have used language
+that was familiar to his audience. But by exploiting hidden meanings of relatively familiar names or by
+creating entirely new ones, Blake seems deliberately to have placed obstacles in the path of understanding,
+wishing “to evoke a change in the attitudes and mechanisms of apprehension” because “words can function
+either to bind a person to, or release a person from, the world that one is helping to construct” (Streng
+166, 160). As Blake explains in the oft-cited passage from <hi rend="i">Jerusalem</hi>:
+<q>
+(I call them by their English names: English, the rough basement<lb/>
+Los built the stubborn structure of the Language, acting against<lb/>
+Albions melancholy, who must else have been a Dumb despair.)<lb/>
+(36.58-60, E 183)
+</q>
+The biographical William Blake of South Molton Street had no choice but to use “English, the rough
+basement” in the Lockean sense, to describe the subjective ideas produced by his senses. But because he had
+the visionary faculty, named Los, he was able simultaneously to transform English into 
+“<hi rend="i">the</hi> Language, acting against / Albions melancholy, who must else have been a Dumb despair.”
+Thus, he was able to give Albion the words necessary for release from Tirzah’s world, in order to construct
+the New Jerusalem. Ultimately, Blake’s purpose was to transform “the mechanisms of apprehension” so that
+we no longer need words at all:
+<q>
+To open the Eternal Worlds, to open the immortal Eyes<lb/>
+Of Man inwards into the Worlds of Thought: into Eternity<lb/>
+Ever expanding in the Bosom of God. the Human Imagination<lb/>
+(<hi rend="i">J</hi> 5.18-20, E 147)
+</q>
+According to Robert F. Gleckner, Blake recognized that after the Fall, language was a means of “giving of
+from to what otherwise would remain an eternal abstraction (and therefore unredeemable)”; but then,
+<q>
+Words thus become part of the vast machine of the physical world, cogs in a cerebral wheel to turn the adverse
+wheel of the reader’s mind in a kind of perpetual motion machine producing nothing—which is to say,
+producing mere images drawn from Nature. From these, laws are abstracted that men impose upon themselves; and
+gods are invented, as the source of the laws, before which men then prostitute themselves. The viciousness and
+self-enslavement of the reading process could not be made more graphic.<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref></q>
+The name Tirzah seems to have provided Blake with the means of transcending the “viciousness and
+self-enslavement” of words. In the prophecies written before he incorporated Tirzah into his myth, Blake’s
+apocalyptic visions were “eternal abstractions,” vague depictions of conflagration. For example, in 
+<hi rend="i">America</hi>, “the fierce flames burnt round the heavens, &amp; round the abodes of men” (16.23,
+E 58). In <hi rend="i">Europe</hi>:
+<q>
+The sun glow’d fiery red!<lb/>
+The furious terrors flew around!<lb/>
+On golden chariots raging, with red wheels dropping with blood;<lb/>
+The Lions lash their wrathful tails!<lb/>
+The Tigers couch upon the prey &amp; suck the ruddy tide:<lb/>
+And Enitharmon groans &amp; cries in anguish and dismay.<lb/>
+Then Los arose his head he reard in snaky thunders clad:<lb/>
+And with a cry that shook all nature to the utmost pole,<lb/>
+Call’d all his sons to the strife of blood.<lb/>
+(15.3-11, E 66)
+</q>
+In <hi rend="i">The Song of Los</hi>, the capitalized “Grave” seems to be an early name for Tirzah:
+<q>
+Forth from the dead dust rattling bones to bones<lb/>
+Join: shaking convuls’d the shivring clay breathes<lb/>
+And all flesh naked stands: Fathers and Friends;<lb/>
+Mothers &amp; Infants; Kings &amp; Warriors:<lb/>
+The Grave shrieks with delight, &amp; shakes<lb/>
+Her hollow womb, &amp; clasps the solid stem:<lb/>
+Her bosom swells with wild desire:<lb/>
+And milk &amp; blood &amp; glandous wine<lb/>
+In rivers rush &amp; shout &amp; dance,<lb/>
+On mountain, dale and plain.<lb/>
+(7.31-40, E 69-70)
+</q>
+	<pb id="p23-182" n="182"/>
+Though he apparently believed in St. Paul’s mystical assertion of two bodies—“It is sown a natural body;
+it is raised a spiritual body” (1 Cor. 15.44)—until Blake discovered the hebraic etymologies of Tirzah, he
+lacked the vocabulary necessary for translating the abstraction into a concrete image. Thus, the name Tirzah
+seems both to have confirmed the mystical concept and to have verified the authenticity of Blake’s vision.
+With the introduction of the personification, Blake was then able to create poetry that would give form to
+this “eternal abstraction.” However, because the name could also establish a direct link between words and
+the Word, Blake was also able to overcome what Gleckner calls the “viciousness and self-enslavement of the
+reading process” by creating language that would self-destruct. That is, the name Tirzah initially functions
+like a signifier pointing to specific biblical meanings. But because the sign’s underlying reality is so
+obscure, the name ultimately ceases to function descriptively at all. Instead, those who have no access to
+Parkhurst’s <hi rend="i">Lexicon</hi> are forced to contemplate imaginatively the undifferentiated reality
+reflected by the death of Tirzah. After all, as Blake says in his <hi rend="i">Vision of the Last
+Judgment</hi>,
+<q>
+This world of Imagination is the World of Eternity it is the Divine bosom into which we shall all go after the
+death of the Vegetated body. This World &lt;of Imagination&gt; is Infinite &amp; Eternal whereas the World of
+Generation or Vegetation is Finite &amp; [<hi rend="i">for a small moment</hi>] Temporal There Exist in that
+Eternal World the Permanent Realities of Every Thing which we see reflected in this Vegetable Glass of Nature
+(E 555)
+</q>
+Through Tirzah, Blake sows the natural body “that the Spiritual body may be Reveald.” 
+<note id="n29"><hi rend="s">29</hi> The distinction is discussed by Frederick J. Streng in his “Language and Mystical
+Awareness,” in <hi rend="i">Mysticism and Philosophical Analysis</hi>, ed. Steven T. Katz (New York: Oxford
+UP, 1978) 141-69.</note>
+	<note id="n30"><hi rend="s">30</hi> “Most Holy Forms of Thought: Some Observations on Blake and
+Language,” <hi rend="i">ELH</hi> 41 (1974): 569, 574-75. Though with different terminology, Vogler makes
+virtually the same point in “Re:Naming <hi rend="i">MIL/TON</hi>”: “The naming function is associated
+with the acquisition of an alienating identity whose rigid structure (the Selfhood under the Law of the Name)
+limits the subject’s entire mental and emotional development” (<hi rend="i">Unnam’d Forms</hi>
+160).</note></p>
+      </div1>
+	<pb id="p23-183" n="183" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.4.morkan</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Ancient Forests of Europe</title>
+                <author n="Morkan">Joel Morkan</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.4</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-4-0002">
+                <pb id="p06-93" n="93"/>
+                <div2>
+                    <head>
+                        <title type="main">BLAKE’S “ANCIENT FORESTS OF EUROPE”</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Joel <name>Morkan</name>
+                        </docAuthor>
+                    <ref target="n25" type="note">*</ref></byline>
+                    <p>In <hi rend="i">The French Revolution</hi>, Blake’s Moloch, the Duke of Burgundy,
+exhorts the king “To rouze up the ancient forests of Europe, with clarions of cloud breathing war” (1.
+101).<supplied type="spacer"> </supplied><ref target="n10" type="note">1</ref> Burgundy warns that if this is
+not done the nobles will see “the ancient forests of chivalry hewn, and the joys of combat burnt for fuel” (1.
+93). 
+                        <note id="n10"><hi rend="s">1</hi> Geoffrey Keynes, ed., <hi rend="i">Blake: Complete
+Writings</hi> (Oxford: Oxford Univ. Press, 1971), p. 138.</note>
+                    </p>
+                    <p>David Erdman has commented on the power of Blake’s epithet for the feudal
+aristocracy, but he has not chosen to explicate it.<supplied type="spacer"> </supplied><ref target="n11"
+type="note">2</ref> The epithet, however, is another instance of Blake’s careful fusion of history and myth
+in the poem, and it repays examination. On the mythic level the old nobility is Druidic, representing the
+primeval forest and the domination of the natural over the human. The historical reference, in turn,
+reinforces and intensifies the mythic dimension. 
+                        <note id="n11"><hi rend="s">2</hi> David V. Erdman, <hi rend="i">Blake: Prophet
+Against Empire</hi> (Garden City, N. Y.: Doubleday, 1969), p. 167.</note>
+                    </p>
+                    <p>In 1669 Colbert promulgated an ordinance that closed the forests to the
+peasants.<supplied type="spacer"> </supplied><ref target="n12" type="note">3</ref> They were banned from
+hunting in the forests or from gathering fuel wood. In the years just prior to the outbreak of the Revolution,
+the burden of this edict became more onerous. Agents of the nobility exercised “planting rights” by growing
+trees on the road-side property of peasants, and further enforced the laws prohibiting them from the
+forests.<supplied type="spacer"> </supplied><ref target="n13" type="note">4</ref>
+                        <note id="n12"><hi rend="s">3</hi> Georges Lefebvre, <hi rend="i">The Coming of the
+French Revolution, 1789</hi>, trans. Robert R. Palmer (Princeton, N.J.: Princeton Univ. Press, 1947), p.
+122.</note>
+                        <note id="n13"><hi rend="s">4</hi> Lefebvre, p. 14.</note>
+                    </p>
+                    <p>During the weeks and days of turmoil immediately before the Revolution the agrarian
+lower classes vented their rage at these laws and moved to have “the ancient forests hewn, and the joys of
+combat burnt for fuel.” When the Revolution was victorious, in fact, one of the first things the peasants did
+was to invade the forests and lay claim to them.<supplied type="spacer"> </supplied><ref target="n14"
+type="note">5</ref> Furthermore, “forest rights” continued to be a serious political issue well into the
+nineteenth century. As Stendhal shows in Chapter XXIII, “Le Clergé, Les Bois, La Liberté,” of 
+<hi rend="i">Le Rouge et Le Noir</hi>, both the upper clergy and nobility intrigued to repossess <hi rend="i">les
+forets domaniales</hi> after the Restoration. 
+                        <note id="n14"><hi rend="s">5</hi> Lefebvre, p. 129.</note>
+                    </p>
+                    <p>This historical data establishes the precision of Blake’s epithet for the nobility.
+They represent the old world of privilege and dominance that maintains the world of Nature over the human
+world. The revolutionary forces, on the other hand, represent the human urge to liberate mankind from the
+domination of Nature and to subordinate natural forces to human needs. Through this compact and appropriate
+epithet for the aristocracy Blake conflated his mythic and historical intentions into a dense and dramatically
+functional metaphor. <note id="n25">
+                            <hi rend="i">Joel Morkan is an Associate Professor of English at Florida State
+University. He has published essays on Milton and the Romantics.</hi>
+                        </note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

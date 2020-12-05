@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.cards</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Cards</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <pb id="p09-92" n="92"/>
+      <div1 id="BQ-09-4-0002">
+        <div2>
+          <head>
+            <title type="main">BLAKE CARDS</title>
+          </head>
+          <p>Cards 4 ¼ × 6 ½ inches printed with quotations from Blake and decorative cuts are available at
+$2.50 per packet of 10 cards from Robert Denham, Box 28, Emory, Virginia 24327. They are handset in Caslon Old
+Style, printed on an 1885 letterpress.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

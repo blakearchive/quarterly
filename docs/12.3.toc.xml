@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.3.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1978-79</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978-79</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.3</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Thomas L. Minnick</name>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Marietta Barnes</name>
+                            <name>Lynn Goldstein</name>
+                            <name>Kris Lackey</name>
+                            <resp>Contributors</resp>
+                            <name>E. B. Bentley</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>David Bindman</name>
+                            <name>Izak Bouwer</name>
+                            <name>Martin Butlin</name>
+                            <name>Arnold Cheskin</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Martha Winburn England</name>
+                            <name>J. Karl Franson</name>
+                            <name>Christopher Heppner</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Irwin</name>
+                            <name>Paul McNally</name>
+                            <name>Marta Slowikova</name>
+                            <name>Robert R. Wark</name>
+                            <name>Kazumitsu Watarai</name>
+                            <name>Dwight Weber</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1979"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <front>
+            <pb id="p12-161-162" n="161-162"/>
+            <div1 id="cover">
+                <figure n="cover.012.03.bqscan" rend="file" width="258" height="334">
+                    <figTranscr>Blake<lb/>
+                        AN ILLUSTRATED QUARTERLY 47<lb/>
+                        Volume 12<lb/>
+                        Number 3<lb/>
+                        Winter 78-79</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-12-3-0001">
+                <table id="contents" rows="22" cols="2">
+            		<row>
+            			<cell>
+            			    <head>
+                    			<title>
+                        		<hi rend="b">CONTENTS</hi>
+                    			</title>
+                			</head>
+            			</cell>
+            		</row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.franson">The Serpent-Driving Females in
+Blake’s <hi rend="i">Comus</hi> 4</ref><lb/>
+                            by J. Karl Franson</cell>
+                        <cell>164</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.cheskin">The Echoing Greenhorn: Blake as
+Hebraist</ref><lb/>
+ by Arnold Cheskin</cell>
+                        <cell>178</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.bouwer">“The Mental Traveller”: Man’s Eternal
+Journey</ref><lb/>
+                                by Izak Bouwer &amp; Paul McNally</cell>
+                        <cell>184</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.heppner">Another “New” Blake Engraving : More
+About Blake &amp;
+                            William Nicholson</ref><lb/>
+ by Christopher Heppner</cell>
+                        <cell>193</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">CHECKLISTS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.doerrbecker">Some Minor Additions to Bentley’s
+“Blake Among the
+                            Slavs”</ref><lb/>
+ by Detlef W. <corr type="emend">Dörrbecker</corr> &amp; Marta Slowikova</cell>
+                        <cell>198</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.watarai">A Bibliography of William Blake in
+Japan, 1969-1977</ref><lb/>
+ by Kazumitsu
+                            Watarai</cell>
+                        <cell>198</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">MINUTE PARTICULARS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.butlin">An Illustration to Robert
+Bage</ref><lb/>
+ by Martin Butlin</cell>
+                        <cell>202</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.hilton">A Note on Cowper and <hi rend="i">A
+Poison Tree</hi></ref>
+                            <lb/>
+ by Nelson Hilton</cell>
+                        <cell>203</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.weber">William Blake’s <hi rend="i">Visions of
+the Daughters of
+                            Albion</hi>: A Poem Based on Doubt</ref><lb/>
+ by Dwight E. Weber</cell>
+                        <cell>203</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.bentley">“New” Blake Engravings After Blake’s
+Designs,
+                            1837, 1859, 1861</ref><lb/>
+ by G.E. Bentley, Jr.</cell>
+                        <cell>204</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.bindman">A New Blake Drawing in the Boston
+Museum of Fine Art</ref><lb/>
+ by David Bindman</cell>
+                        <cell>205</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.gebentley">Echoes of Blake’s 
+<hi rend="i">Grave</hi> Design in 1838</ref><lb/>
+ by G.E. Bentley, Jr.</cell>
+                        <cell>207</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.ebbentley">Vision in Fiction: Two Novels About
+William Blake</ref><lb/>
+ by E.B. Bentley</cell>
+                        <cell>209</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">REVIEWS</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.wark">Morton Paley’s <hi rend="i">William
+Blake</hi></ref>
+                            <lb/>
+reviewed by Robert R. Wark</cell>
+                        <cell>211</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.irwin">Joseph Burke’s <hi rend="i">English Art
+1714-1800</hi></ref>
+                            <lb/>
+reviewed by David Irwin</cell>
+                        <cell>212</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="12.3.england">Donald Davie’s <hi rend="i">A
+Gathered Church: The Literature of the English Dissenting Interest, 1700-1930</hi></ref>
+                            <lb/>
+reviewed by Martha W. England</cell>
+                        <cell>215</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">NEWSLETTER</hi>
+                        </cell>
+                        <cell>218</cell>
+                    </row>
+                    <row>
+                    	<cell>
+                    		<supplied type="emend">
+                    		<ref type="article" issue="12.3.mla">MLA Blake 1979</ref>, 
+                    		<ref type="article" issue="12.3.blake">MLA Blake 1978</ref>, 
+                    		<ref type="article" issue="12.3.letter">Letter to the Editor</ref>
+                    		</supplied>
+                    	</cell>
+                    </row>
+                </table>
+            </div1>
+            <div1 id="BQ-12-3-0002">
+                <head>
+                    <title>
+                        <hi rend="b">CONTRIBUTORS</hi>
+                    </title>
+                </head>
+                <p>E. B. BENTLEY teaches high school English in Toronto and does research on 18th
+                    century books and manuscripts.</p>
+                <p>G. E. BENTLEY, JR., of the University of Toronto, has edited Blake’s
+                    complete writings, which will be published in two volumes by Oxford later this
+                    year.</p>
+                <p>DAVID BINDMAN (Westfield College, University of London) is the author of <hi rend="i">Blake
+as an Artist</hi> (Phaidon, 1977) and editor of <hi rend="i">The Complete Graphic Works of William Blake</hi>
+(Thames &amp; Hudson,
+                    1978).</p>
+                <p>IZAK BOUWER, Professor of Mathematics at the University of New Brunswick, is
+                    author of various mathematical papers and organizer of a Blake Workshop.</p>
+                <p>MARTIN BUTLIN is Keeper of the British Collection of the Tate Gallery, London,
+                    author of numerous works on Blake and Turner, and frequent contributor to 
+<hi rend="i">Blake.</hi>
+                </p>
+                <p>ARNOLD CHESKIN received an award from the English Department at Rutgers
+                    University, where he is a Ph.D. candidate, for his article on Blake’s
+                    Hebrew. He thanks Owen Rogal for his suggestions.</p>
+                <p>DETLEF W. <corr type="emend">DÖRRBECKER</corr> is a doctoral candidate at Frankfurt
+University. He has
+                    been assisting Thomas L. Minnick with the annual checklists of Blake scholarship
+                    during the last two years.</p>
+                <p>MARTHA WINBURN ENGLAND (Queens College, City University of New York) has written
+                    on the history of theater, theater music, hymnody, translations, and opera
+                    libretti.</p>
+                <p>J. KARL FRANSON (University of Maine, Farmington), edited <hi rend="i">Milton
+                        Reconsidered</hi> (1976). <hi rend="i">Milton Quarterly</hi> published his
+                    study of one of Blake’s <hi rend="i">Paradise Regained</hi>
+                    illustrations (1976).</p>
+                <p>CHRISTOPHER HEPPNER (McGill University) has published essays on Blake in the 
+<hi rend="i">Colby Library Quarterly</hi> and <hi rend="i">Blake.</hi>
+                </p>
+                <p>NELSON HILTON has recently completed a dissertation on Blake at the University of
+                    California, Santa Cruz.</p>
+                <p>DAVID IRWIN is Chairman of the History of Art Department at the University of
+                    Aberdeen, Scotland. His books include <hi rend="i">English Neoclassical Art,
+                        Winckelmann: Writings on Art</hi>, and <hi rend="i">Scottish Painters: At
+                        Home and Abroad 1700 to 1900</hi>, coauthored with his wife. Recently he
+                    finished a monograph on John Flaxman.</p>
+                <p>PAUL MCNALLY is Assistant Professor of English at Queen’s University
+                    in Kingston, Ontario.</p>
+                <p>MARTA SLOWIKOVA, born at Vsetin (Czechoslovakia), is currently studying both the
+                    history of art and Slavic languages at the Johann Wolfgang Goethe University in
+                    Frankfurt.</p>
+                <p>ROBERT R. WARK is Curator of Art at the Henry E. Huntington Library and Art
+                    Gallery and has authored numerous books on British art of the Georgian period,
+                    particularly drawings and watercolors.</p>
+                <p>KAZUMITSU WATARAI is Head Librarian of Reitaku University Library, Japan.</p>
+                <p>DWIGHT WEBER, a teaching fellow at Miami University of Chio, is writing his
+                    dissertation on Henry James. <note type="unreferenced" place="footer">© 1979 by Morris
+Eaves &amp; Morton D. Paley</note>
+                </p>
+            </div1>
+            <pb id="p12-163" n="163"/>
+            <div1 id="BQ-12-3-0003">
+                <head>
+                    <title>
+                        <hi rend="b">EDITORS</hi>
+                    </title>
+                </head>
+                <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of
+                    California, Berkeley.</p>
+                <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+                <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator,
+                    Department of Prints and Drawings, British Museum.</p>
+                <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+                    Albuquerque, NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department
+                    of English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L.
+                    Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus,
+                    Ohio, 43210.<lb/>
+ Frances A. Carey, Department of Prints and Drawings, British
+                    Museum, Great Russell Street, London WC1B 3DG, England.</p>
+                <figure n="EditorsTOC.12.3.bqscan" rend="file" width="900" height="1000"/>
+            </div1>
+            <div1 id="BQ-12-3-0004">
+                <head>
+                    <title>
+                        <hi rend="b">INFORMATION</hi>
+                    </title>
+                </head>
+                <figure n="InformationTOC.12.3.bqscan" rend="file" width="958" height="864"/>
+                <p>EDITORIAL ASSISTANT IN CHARGE: Cynthia Lewiecki, Univ. of New Mexico. EDITORIAL
+                    ASSISTANTS: David Anderson, Marietta Barnes, Lynn Goldstein, and Kris Lackey,
+                    Univ. of New Mexico.</p>
+                <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the
+                    Department of English, University of New Mexico.</p>
+                <p>SUBSCRIPTIONS are $12 for 1 year, 1 volume, 4 issues. Special rate for
+                    individuals, $10, surface mail. $15 for subscribers overseas who prefer air
+                    mail. U.S. currency or international money order if possible. Make checks
+                    payable to Blake/An Illustrated Quarterly. Address all subscription orders
+                    &amp; related communications to the Circulation Mgr., LuAnn Baca, <hi rend="i">Blake</hi>,
+Dept. of English, Univ. of New Mexico, Albuquerque NM
+                    87131 USA.</p>
+                <p>Some BACK ISSUES are available. Address LuAnn Baca for a list of issues and
+                    prices.</p>
+                <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131;
+                    Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+                <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is
+                    INDEXED in the Modern Language Association’s International
+                    Bibliography, the Modern Humanities Research Association’s Annual
+                    Bibliography of English Language and Literature, <hi rend="i">English Language
+                        Notes</hi>’ annual Romantic bibliography, ARTbibliographies
+                    MODERN, and the American Humanities Index (Whitston Pub.).</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>20.4.ide</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Image Patterns and the Structure of William Blake’s The Four Zoas</title>
+        <author n="Ide">Nancy M. Ide</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1987</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1987</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">20.4</biblScope>
+            <biblScope unit="volume">20</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>P.M.S. Dawson</name>
+              <name>Catherine Haigney</name>
+              <name>Nancy M. Ide</name>
+              <name>Peter Otto</name>
+              <name>Steven Goldsmith</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_20">
+    <body>
+      <pb id="p20-125" n="125"/>
+      <div1 id="BQ-20-4-0006">
+        <head>
+          <title type="main">Image Patterns and the Structure of William Blake’s 
+          <hi rend="i">The Four Zoas</hi></title>
+        </head>
+        <byline>
+          <hi rend="i">BY</hi>
+          <docAuthor>
+            <hi rend="i">NANCY M.</hi>
+            <name>
+              <hi rend="i">IDE</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>To date, structural descriptions of <hi rend="i">The Four Zoas</hi> have invariably
+          treated narrative events as the unit of analysis—that is, the textual feature or features
+          whose location in the text itself is examined, in relation to other similar or identical
+          textual features, to identify an architectural plan. On this basis, both Northrop Frye and
+          Harold Bloom divide the poem into three parts, corresponding to the fall, existence in the
+          fallen state, and return to unfallen existence, although they disagree on where the
+          divisions occur.<supplied type="spacer"> </supplied><ref target="n20" type="note">1</ref> Subsequent
+studies have generally
+          accepted one or the other of these schemes.<supplied type="spacer"> </supplied><ref target="n21"
+type="note">2</ref>	
+            <note id="n20"><hi rend="s">1</hi> Northrop Frye, <hi rend="i">Fearful Symmetry: A Study of
+              William Blake</hi> (Princeton: Princeton Univ. Press, 1947), p. 278; and Harold Bloom,
+              <hi rend="i">Blake’s Apocalypse: A Study in Poetic Argument</hi> (Garden City, N.Y.:
+            Doubleday, 1963), headings on pp. 193, 229, and 244.</note>
+	<note id="n21"><hi rend="s">2</hi> See, for instance, Brian Wilkie and Mary Lynn Johnson, 
+<hi rend="i">Blake’s
+              “Four Zoas”: The Design of a Dream</hi> (Cambridge, Mass.: Harvard Univ. Press, 1978),
+            p. 4.</note></p>
+        <p>Several critics have noted the reflections of Night I in Night IX, which are usually
+          taken to indicate that Night I represents an inversion of the events of the
+            apocalypse,<supplied type="spacer"> </supplied><ref target="n22" type="note">3</ref> or that the
+apocalypse is a completion
+          of the fall.<supplied type="spacer"> </supplied><ref target="n23" type="note">4</ref> All of these
+studies regard structure as
+          a function of a linear progression of narrative events, and most rely on Blake’s full
+          myth, constructed from details scattered throughout the corpus, to provide associative
+          links missing from the fragmentary narrative as well as a framework for the analysis
+          itself. This implies that the reader must be familiar with Blake’s mythic system to fully
+          understand the poem. However, the experience of even novice readers, who comprehend fully
+          the poem’s general or thematic statements and are capable of understanding in some depth
+          the meaning of specific episodes, belies this assumption. More importantly, it indicates
+          that details of narrative, while perhaps providing a loose structural base, cannot alone
+          account for the text’s internal coherence and cohesion, nor for the poem’s powerful effect
+          on readers unfamiliar with the myth. <note id="n22"><hi rend="s">3</hi> See Wilkie and
+            Johnson, p. 11.</note>
+	<note id="n23"><hi rend="s">4</hi> Susan Fox, <hi rend="i">Poetic
+              Form in Blake’s “Milton”</hi> (Princeton: Princeton Univ. Press, 1976), p.
+          13.</note></p>
+        <p>In view of this, I have attempted to identify and examine a feature or set of features
+          other than the narrative that may contribute significantly to the structure of 
+            <hi rend="i">The Four Zoas.</hi> In particular, I have looked at Blake’s use of images as a
+          vehicle for conveying broad, thematic statements within the poem and hence defining the
+          dimensions of meaning that provide the basic framework for the structure of the work. The
+          nature of Blake’s images and symbols has been studied extensively, and while initially
+          Blake’s use of invented and borrowed names and symbols prompted critics to assert that his
+          images are personal creations inaccessible to the reader without familiarity with Blake’s
+          mythic system, several critics—notably, Northrop Frye in <hi rend="i">Fearful
+            Symmetry</hi>—have shown that Blake’s symbols abound in general and archetypal
+          qualities. The terms in which his myth is expressed—such as fire and ice, youth and age,
+          light and darkness—are among those universal images that possess the greatest constancy
+          and efficiency, and so their connotations are strikingly familiar and clear. Thus, as the
+          reader proceeds through the text of the <hi rend="i">Zoas</hi>, a large part of his
+          impression of the fictive world is created by these images, which, because of their
+          overwhelming abundance as well as the accessibility of their connotations, stand in bold
+          relief against the obscurity of the narrative. Without the usual narrative context to
+          supply at least superficial meaning for an image, its effect depends, first, upon its
+          habitual and/or traditional connotations and associations for the reader. So, individual
+          images in the <hi rend="i">Zoas</hi> can be seen as isolatable conceptual elements with
+          identifiable connotations for most readers; their substantial role in determining the
+          reader’s impression of the work suggests that they may contribute significantly to the
+          structure of ideas underlying the text.</p>
+        <p>My effort to get at the ways in which imagery contributes to structure and meaning in 
+            <hi rend="i">The Four Zoas</hi> involved, first, an attempt to identify and locate the
+          important images within the poem—specifically, visual images whose connotations are, for
+          the most part, fixed for the majority of readers. To do this I utilized a multipurpose
+          computer program for text analysis,<supplied type="spacer"> </supplied><ref target="n24"
+type="note">5</ref> which, from a
+          modified version of the machine-readable text of the <hi rend="i">Zoas</hi> prepared by
+          Cornell University for the purpose 
+<pb id="p20-126" n="126"/>
+	<table rows="49" cols="4">
+            <row>
+              <cell>Abyss</cell>
+              <cell>Air</cell>
+              <cell>Animals</cell>
+              <cell>Armor</cell>
+            </row>
+            <row>
+              <cell>Arrow</cell>
+              <cell>Ashes</cell>
+              <cell>Autumn</cell>
+              <cell>Beast</cell>
+            </row>
+            <row>
+              <cell>Bed</cell>
+              <cell>Bee</cell>
+              <cell>Bellows</cell>
+              <cell>Bird</cell>
+            </row>
+            <row>
+              <cell>Birds of prey</cell>
+              <cell>Black</cell>
+              <cell>Blood</cell>
+              <cell>Body parts</cell>
+            </row>
+            <row>
+              <cell>Bonds</cell>
+              <cell>Bone</cell>
+              <cell>Bow</cell>
+              <cell>Boy</cell>
+            </row>
+            <row>
+              <cell>Branch</cell>
+              <cell>Brass</cell>
+              <cell>Bread</cell>
+              <cell>Breath</cell>
+            </row>
+            <row>
+              <cell>Breeze</cell>
+              <cell>Briars</cell>
+              <cell>Brook (spring)</cell>
+              <cell>Bud</cell>
+            </row>
+            <row>
+              <cell>Bulls</cell>
+              <cell>Bush (leaf)</cell>
+              <cell>Cave</cell>
+              <cell>Celestial bodies</cell>
+            </row>
+            <row>
+              <cell>Chariot</cell>
+              <cell>Chain</cell>
+              <cell>Children</cell>
+              <cell>City</cell>
+            </row>
+            <row>
+              <cell>Clay</cell>
+              <cell>Cliff</cell>
+              <cell>Cloud</cell>
+              <cell>Cold</cell>
+            </row>
+            <row>
+              <cell>Cows (goats)</cell>
+              <cell>Crystal</cell>
+              <cell>Cup</cell>
+              <cell>Dark</cell>
+            </row>
+            <row>
+              <cell>Day</cell>
+              <cell>Death</cell>
+              <cell>Den</cell>
+              <cell>Desert</cell>
+            </row>
+            <row>
+              <cell>Dew</cell>
+              <cell>Door</cell>
+              <cell>Dove</cell>
+              <cell>Dry</cell>
+            </row>
+            <row>
+              <cell>Eagle</cell>
+              <cell>Ear</cell>
+              <cell>Earth (ground)</cell>
+              <cell>Earth (element)</cell>
+            </row>
+            <row>
+              <cell>Earth (planet)</cell>
+              <cell>Elephant</cell>
+              <cell>Evening</cell>
+              <cell>Eye</cell>
+            </row>
+            <row>
+              <cell>Face</cell>
+              <cell>Feast</cell>
+              <cell>Fire</cell>
+              <cell>Fish</cell>
+            </row>
+            <row>
+              <cell>Flood</cell>
+              <cell>Floor</cell>
+              <cell>Flower</cell>
+              <cell>Foot</cell>
+            </row>
+            <row>
+              <cell>Forest</cell>
+              <cell>Forehead</cell>
+              <cell>Fountain</cell>
+              <cell>Fruit</cell>
+            </row>
+            <row>
+              <cell>Furnace</cell>
+              <cell>Garden</cell>
+              <cell>Garment</cell>
+              <cell>Gem</cell>
+            </row>
+            <row>
+              <cell>Geometric objs.</cell>
+              <cell>Girl</cell>
+              <cell>Gloom</cell>
+              <cell>Gold</cell>
+            </row>
+            <row>
+              <cell>Grass</cell>
+              <cell>Grave</cell>
+              <cell>Hammer (anvil)</cell>
+              <cell>Hair</cell>
+            </row>
+            <row>
+              <cell>Hand</cell>
+              <cell>Hard</cell>
+              <cell>Harvest</cell>
+              <cell>Head</cell>
+            </row>
+            <row>
+              <cell>Heart</cell>
+              <cell>Heat</cell>
+              <cell>Horse</cell>
+              <cell>House</cell>
+            </row>
+            <row>
+              <cell>Ice (snow)</cell>
+              <cell>Infant</cell>
+              <cell>Insect</cell>
+              <cell>Iron</cell>
+            </row>
+            <row>
+              <cell>Knife</cell>
+              <cell>Lake</cell>
+              <cell>Lead</cell>
+              <cell>Light</cell>
+            </row>
+            <row>
+              <cell>Lily</cell>
+              <cell>Limb</cell>
+              <cell>Lion</cell>
+              <cell>Loin</cell>
+            </row>
+            <row>
+              <cell>Loom</cell>
+              <cell>Machinery</cell>
+              <cell>Maze</cell>
+              <cell>Measurement</cell>
+            </row>
+            <row>
+              <cell>Metal</cell>
+              <cell>Mill</cell>
+              <cell>Moon</cell>
+              <cell>Morning</cell>
+            </row>
+            <row>
+              <cell>Mountain</cell>
+              <cell>Music</cell>
+              <cell>Neck</cell>
+              <cell>Net</cell>
+            </row>
+            <row>
+              <cell>Night</cell>
+              <cell>Nose</cell>
+              <cell>Oak tree</cell>
+              <cell>Palace</cell>
+            </row>
+            <row>
+              <cell>Pastoral</cell>
+              <cell>Plague</cell>
+              <cell>Plow</cell>
+              <cell>Poison</cell>
+            </row>
+            <row>
+              <cell>Prison</cell>
+              <cell>Raven</cell>
+              <cell>Red</cell>
+              <cell>Religion</cell>
+            </row>
+            <row>
+              <cell>Reptile (bat)</cell>
+              <cell>River</cell>
+              <cell>Ruin</cell>
+              <cell>Rock</cell>
+            </row>
+            <row>
+              <cell>Roof (ceiling)</cell>
+              <cell>Root</cell>
+              <cell>Rose (flower)</cell>
+              <cell>Royalty</cell>
+            </row>
+            <row>
+              <cell>Sea</cell>
+              <cell>Sea creatures</cell>
+              <cell>Seed</cell>
+              <cell>Serpent</cell>
+            </row>
+            <row>
+              <cell>Shadow</cell>
+              <cell>Sheep</cell>
+              <cell>Shepherd</cell>
+              <cell>Shore</cell>
+            </row>
+            <row>
+              <cell>Silver</cell>
+              <cell>Skull</cell>
+              <cell>Sky</cell>
+              <cell>Slavery</cell>
+            </row>
+            <row>
+              <cell>Slime</cell>
+              <cell>Smoke</cell>
+              <cell>Social groups</cell>
+              <cell>Soft</cell>
+            </row>
+            <row>
+              <cell>Sow</cell>
+              <cell>Spear</cell>
+              <cell>Spring</cell>
+              <cell>Star</cell>
+            </row>
+            <row>
+              <cell>Steel</cell>
+              <cell>Storm</cell>
+              <cell>Structures</cell>
+              <cell>Summer</cell>
+            </row>
+            <row>
+              <cell>Sun</cell>
+              <cell>Sword</cell>
+              <cell>Tears</cell>
+              <cell>Tent</cell>
+            </row>
+            <row>
+              <cell>Tiger</cell>
+              <cell>Tongue</cell>
+              <cell>Tools</cell>
+              <cell>Torture</cell>
+            </row>
+            <row>
+              <cell>Tree</cell>
+              <cell>Trumpet</cell>
+              <cell>Valley</cell>
+              <cell>Veil</cell>
+            </row>
+            <row>
+              <cell>Vine</cell>
+              <cell>Vintage</cell>
+              <cell>Void</cell>
+              <cell>Wall</cell>
+            </row>
+            <row>
+              <cell>War</cell>
+              <cell>Waste</cell>
+              <cell>Water</cell>
+              <cell>Weapon</cell>
+            </row>
+            <row>
+              <cell>Web</cell>
+              <cell>Weed</cell>
+              <cell>Wet</cell>
+              <cell>Wheat</cell>
+            </row>
+            <row>
+              <cell>Wheel</cell>
+              <cell>White</cell>
+              <cell>Wild animals</cell>
+              <cell>Wilderness</cell>
+            </row>
+            <row>
+              <cell>Wind</cell>
+              <cell>Window</cell>
+              <cell>Wine</cell>
+              <cell>Winepress</cell>
+            </row>
+            <row>
+              <cell>Winter</cell>
+              <cell>Wolf</cell>
+              <cell>Womb</cell>
+              <cell>Worm</cell>
+            </row>
+            <row>
+              <head type="table-header" colspan="4">List of the image categories</head>
+            </row>
+          </table> 
+          of generating the concordance to Blake’s 
+          writings,<supplied type="spacer"> </supplied><ref target="n25" type="note">6</ref> 
+          generated a dictionary of the words in the text as well as a full concordance.
+          Using the dictionary, I identified by hand 196 “image categories” in the text, each of
+          which consists of either single words or a group of words that are felt to constitute
+          textual variations of a single image.<supplied type="spacer"> </supplied><ref target="n26"
+type="note">7</ref> In many cases
+          the categories consist of syntactic variants of a particular image word, such as “lion”
+          and “lions”; in other cases a variety of words are included in a category, as in the
+          category for “fire,” which includes “fire,” “fires,” “fiery,” “fired,”
+“fird” (Blake’s
+          variant spelling of “fired”), “blazed,” “burn,” “burnd,” “burning,” “burnt,”
+“flamd,”
+          “flame,” “flames,” “flaming,” and “inflame.” <note id="n24"><hi rend="s">5</hi> The
+            computer programs used in my study include Random Accessible Text System (RATS) and
+            Archive Retrieval and Analysis System (ARRAS), both written by John B. Smith and
+            distributed through Computer Textual Services, Inc., Chapel Hill, North Carolina. See
+            John B. Smith, “RATS: A Middle-Level Text Utility System,” <hi rend="i">Computers and
+              the Humanities</hi>, 6 (1972), 277-83, for a description of the RATS
+            program.</note>
+	<note id="n25"><hi rend="s">6</hi> David V. Erdman, ed., <hi rend="i">A
+              Concordance to the Writings of William Blake</hi>, 2 vols. (Ithaca: Cornell Univ.
+            Press, 1967). The text was edited to conform to the primary text of <hi rend="i">The
+              Four Zoas</hi>—including Night VIIa only—in the fourth printing of <hi rend="i">The
+              Poetry and Prose of William Blake</hi>, ed. David V. Erdman, commentary by Harold
+            Bloom (Garden City, N. Y.: Doubleday, 1970). In Erdman’s 1982 edition of 
+              <hi rend="i">The Complete Poetry and Prose of William Blake</hi>, the arrangement of Night VII
+            within the text of <hi rend="i">The Four Zoas</hi> is substantially different from that
+            in the earlier edition. However, my work predates the publication of the 1982 edition
+            and is therefore based on Erdman’s earlier arrangement. Although it would be interesting
+            to replicate this study using Erdman’s later text (as well as Night VIIb), I do not
+            believe that the broad patterns of image distribution with which I am concerned here
+            would differ significantly. In any case, the arrangement of Night VII is conjectural,
+            and no clearly superior version of the text has yet been identified.</note>	
+            <note id="n26"><hi rend="s">7</hi> For a list of the 196 categories, see chart 1.</note></p>
+        <p>After establishing the image categories, I once again utilized the computer program to
+          generate frequency distributions across the text for each of them. These distributions
+          were then examined to identify patterns within and among them that might provide insight
+          into the structure of the poem. I approached the distributions with two underlying
+          assumptions: first, that meaning in the poem is determined in part by relationships among
+          images in terms of proximity, where distance between two images defines the degree of
+          relatedness between them, and relative predominance, which is determined by relative
+          frequency among images at a particular location in the text; and, second, that patterns in
+          the appearance and reappearance of particular images or clusters of images and ebb and
+          flow in image density and variety yield insight into the structure of the poem. Therefore,
+          I looked at places in the text where occurrences of specific images tend to be
+          concentrated, assuming that a significant increase in the number of times an image appears
+          in a given passage indicates that it plays a primary role in determining the meaning of
+          that passage. I also examined configurations in the distribution of both individual image
+          categories and groups of related categories across the text, to identify an architectural
+          plan. A detailed analysis of image patterns and of the semantic effects of imagery for
+          each individual passage in <hi rend="i">The Four Zoas</hi> appears elsewhere;<ref
+            target="n27" type="note">8</ref> this paper provides a compressed and selective report
+          of these findings. <note id="n27"><hi rend="s">8</hi> Nancy M. Ide, “Patterns of Imagery
+            in William Blake’s <hi rend="i">The Four Zoas</hi>,” diss., Pennsylvania State
+            University, 1982.</note></p>
+        <p>All of the image categories involved in the analysis represent images that are listed in
+          Juan Eduardo Cirlot’s <hi rend="i">Dictionary of Symbols</hi>, which treats only those
+          images and symbols that have persisted in time and bear some “intrinsic relation” to
+          whatever it is they represent.<supplied type="spacer"> </supplied><ref target="n28"
+type="note">9</ref> Blake’s invented and
+          borrowed names, which serve as complex symbols representing a wide-ranging series of
+          concepts, have not been included because their connotations are not immediately accessible
+          to all readers, and because I feel their meanings are largely defined by relationships
+          established within the text itself. Images such as “drown” and “smile” have also been
+          omitted from the analysis, for while they satisfy the definition of an image by calling up
+          a sensory representation in the reader’s mind, these images participate in meaning
+          primarily at the narrative level, and therefore do not contribute as significantly to
+          meaning at the general or thematic level with which the analysis is concerned; in
+          addition, their connotations are less consistent for a cross-section of readers.<ref
+            target="n29" type="note">10</ref> While some of the decisions I make concerning which
+          images to include and exclude may well be questioned, I feel that the images I have chosen
+          represent most words that could be considered images in the poem. And, finally, I recall
+          Caroline Spurgeon’s argument in which she dismisses objections to her definition of
+          imagery 
+<pb id="p20-127" n="127"/> “because, however much one might discuss it, few would
+          agree as to what constitutes an image, and still fewer as to what constitutes a poetic
+            image.”<supplied type="spacer"> </supplied><ref target="n30" type="note">11</ref>
+	<note id="n28"><hi rend="s">9</hi> Juan
+            Eduardo Cirlot, <hi rend="i">A Dictionary of Symbols</hi>, trans. Jack Sage (New York:
+            Philosophical Library, 1962), p. xxx.</note>
+	<note id="n29"><hi rend="s">10</hi> Complete
+            listings of the contents of the image categories and connotations for each category
+            appear in my dissertation (see note 8, above).</note>
+	<note id="n30"><hi rend="s">11</hi>
+            Caroline Spurgeon, <hi rend="i">Shakespeare’s Imagery and What It Tells Us</hi> (1935;
+            rpt. Cambridge: Cambridge Univ. Press, 1965), p. 8.</note></p>
+        <p>Patterns of image distribution across the text will be discussed here with reference to
+          the nine Nights of the poem, but before doing so it is necessary to clarify the
+          positioning of the Nights along a linear axis representing the text.<supplied type="spacer"> </supplied><ref target="n31"
+            type="note">12</ref> The Nights vary considerably in length, and many of the
+          distributions reveal patterns related to a position along the axis rather than to the
+          Nights themselves. The positioning of the Nights along an axis representing the entire
+          text is as follows: <figure n="Graph.bqscan" rend="file" width="600" height="244"/> Notice that although Night V
+is
+          numerically the central Night of the nine, the first half of the poem in terms of its
+          total length includes Nights I through VI. In fact, the number of words in Nights I
+          through VI differs by only about fifty from the number in Nights VII, VIII, and IX. 
+            <note id="n31"><hi rend="s">12</hi> For the purpose of generating the frequency distributions
+            for images within the text, the <hi rend="i">Zoas</hi> was treated as a seamless whole,
+            without regard for Blake’s division of the poem into nine Nights. I will argue below
+            that there are several good reasons to ignore these divisions, at least when attempting
+            to get at the poem’s structure.</note></p>
+        <p>Patterns of image distribution across the text of <hi rend="i">The Four Zoas</hi> show
+          several kinds of structuring at work in the poem. First of all, in terms of general mood,
+          tone, and atmosphere conveyed through imagery, the poem divides neatly into two sections
+          of equal length, the first including Nights I through VI and the second including Nights
+          VII, VIII, and IX. The imagery of Night VI is the most relentlessly dismal of the poem,
+          dominated by images of fire, deserts and sand, mountains, rocks, lightning and thunder,
+          slime and mold, serpents, monsters, and the abyss. Night VI represents the lowest point in
+          the story of the fall of man, with which the text of the <hi rend="i">Zoas</hi> is
+          concerned; the nights that precede and follow Night VI relate the descent into the depths
+          of fallen existence and the return to the unfallen state, and so it is not surprising that
+          the imagery of both sections becomes more positive as the distance from Night VI
+          increases.</p>
+        <p>In addition to this rather simple pattern, four other significant configurations were
+          revealed. The first is based on the flux in image density across the text; imagery is
+          concentrated in three areas of the text, which are separated by two text segments
+          containing relatively low numbers of images. Patterns indicate a repetition of many of the
+          same images in the three areas of high image density, and a marked shift in the character
+          of 
+          <figure n="ImageDensity.bqscan" rend="file" width="600" height="465">
+          	<figTranscr>FREQUENCY<lb/>
+          	170<lb/>
+          	160<lb/>
+          	150<lb/>
+          	140<lb/>
+          	130<lb/>
+          	120<lb/>
+          	110<lb/>
+          	100<lb/>
+          	90<lb/>
+          	80<lb/>
+          	70<lb/>
+          	60<lb/>
+          	50<lb/>
+          	40<lb/>
+          	TEXT (IN PCT)<lb/>
+          	0<lb/>
+          	10<lb/>
+          	20<lb/>
+          	30<lb/>
+          	40<lb/>
+          	50<lb/>
+          	60<lb/>
+          	70<lb/>
+          	80<lb/>
+          	90<lb/>
+          	100</figTranscr>
+            <head>Distribution of image density across the text of <hi rend="i">The Four
+              Zoas.</hi></head>
+          </figure> 
+          images between areas of high and low image density. Second, although in several
+          areas of the text images from an earlier Night or Nights are repeated, the symmetric
+          reflection of images from the first two Nights of the poem in the scenes of the apocalypse
+          in Night IX is by far the strongest pattern of repetition—this, we must assume, is at
+          least partly responsible for critical assertions of similarities between the poem’s
+          beginning and end. Third, the flux in image density is characterized by a rhythmic
+          alternation that is mimicked in the more rapid alternation of concentrations of images of
+          labor and rest across the text. Finally, the scenes of the apocalypse contain almost every
+          image that appears in the first eight Nights of the poem. This suggests that the
+          apocalypse represents a holistic vision of the events and environment depicted in the
+          earlier sections of the poem.</p>
+        <p>The most dramatic pattern of image distribution in the text, and the one that dominates
+          the imagistic structure of the poem, involves all of the 196 images considered in the
+          analysis. The distributions show that both the number and variety of images increase
+          significantly in three general areas of the text. Based on this flux in image density, the
+          text of <hi rend="i">The Four Zoas</hi> can be roughly divided into five segments. The
+          first segment spans Nights I and II, the second covers Nights III and IV, the third
+          includes Nights V and VI and the first ninety lines of Night VII, the fourth segment spans
+          the remainder of Night VII and most of Night VIII, and the last segment includes the last
+          third of Night VIII and all of Night IX. The first, middle, and last segments contain the
+          highest concentrations of imagery in the poem; in the two intervening segments, both the
+          number and variety of images are considerably 
+          lower.<supplied type="spacer"> </supplied><ref target="n32" type="note">13</ref>
+          These divisions represent <hi rend="i">generalized</hi> fluctuations in image variety 
+          <pb id="p20-128" n="128"/>
+          <figure n="ImageVariety.bqscan" rend="file" width="600" height="464">
+            <figTranscr>FREQUENCY<lb/>
+          	76<lb/>
+          	74<lb/>
+          	72<lb/>
+          	70<lb/>
+          	68<lb/>
+          	66<lb/>
+          	64<lb/>
+          	62<lb/>
+          	60<lb/>
+          	58<lb/>
+          	56<lb/>
+          	54<lb/>
+          	52<lb/>
+          	50<lb/>
+          	48<lb/>
+          	46<lb/>
+          	44<lb/>
+          	42<lb/>
+          	40<lb/>
+          	38<lb/>
+          	36<lb/>
+          	34<lb/>
+          	32<lb/>
+          	30<lb/>
+          	28<lb/>
+          	TEXT (IN PCT)<lb/>
+          	0<lb/>
+          	10<lb/>
+          	20<lb/>
+          	30<lb/>
+          	40<lb/>
+          	50<lb/>
+          	60<lb/>
+          	70<lb/>
+          	80<lb/>
+          	90<lb/>
+          	100</figTranscr>
+            <head>Distribution of image variety across the text of <hi rend="i">The Four
+              Zoas.</hi></head>
+          </figure> 
+          and density, and within each of the segments, variations on these patterns
+          appear. Notably, in each of the areas of high image density, secondary patterns indicating
+          an ebb and flow of image variety and density are evident, especially in the final segment;
+          and in the fourth segment, which contains some of the lowest concentrations of imagery in
+          the entire text, a sudden increase in image levels occurs in Night VIII where Orc’s
+          serpent form and Urizen’s military hardware are described. However, the level achieved in
+          this segment reaches only that of the lowest levels in areas where images are greatest in
+          number and variety. <note id="n32"><hi rend="s">13</hi> See charts 2 and 3.</note></p>
+        <p>The overall pattern of alternation between areas of high and low image density, in
+          itself, affects the reader’s perception of the poem. An increase in image levels will
+          increase the dimensions of meaning and emphasis in a passage, which creates the impression
+          of a broadening of scene amid an expansion of perspective. A decrease in imagery creates
+          the opposite impression; the reader senses that the breadth of his view is constricted,
+          and therefore that his perspective on the events and scenes within the narrative is more
+          limited. In addition, a reduction in imagistic connotations places more emphasis on
+          narrative meaning. Thus, the effect of the fluctuations in image density in the text is a
+          sense of steady alternation between expansion and contraction of view, and between
+          emphasis on the broadened scene and on the action within the narrative itself.</p>
+        <p>This sense is evident within the narrative of the <hi rend="i">Zoas.</hi> Each of the
+          segments of the text characterized by high levels of imagery contains a substantial number
+          of scenes in which the reader is provided with an expanded view of existence from the
+          perspective of the stage of the fall or regeneration of man in which the account appears.
+          The song at the feast and Enion’s first lament in Night I provide a vision of the world of
+          experience, and in Night II, although the scene is less expansive than the one in the song
+          at the marriage feast, the reader is given a full view of Urizen’s Mundane Shell. Enion’s
+          second lament at the end of Night II provides another vision of the world of experience.
+          Nights V and VI include enlarged views in the description of the bound Orc, Urizen’s
+          memory of Eternity in his lament at the end of Night V, and the extended view of Urizen’s
+          dens, in which the horrifying vision of existence under Urizen’s tyranny appears. Early in
+          Night VII, the reader is provided with a view of Orc’s caverns. Ahania’s lament at the end
+          of Night VIII puts forth yet another vision of existence, and in the early lines of Night
+          IX, the first scenes of the apocalypse provide an encompassing picture of the universe in
+          upheaval. The last thirty-one lines of the poem present a sweeping vision of life in
+          Eternity. Even within the pastoral interlude in Night IX, the panorama is enlarged; the
+          reader is provided with a view of Vala’s pastures, hills, and valleys, as well as a
+          description of the house Luvah builds for her, and he sees Vala gathering fruit in her lap
+          and walking to the river where she sees Tharmas. Very few scenes in <hi rend="i">The Four
+            Zoas</hi> provide such details of spatial organization among elements of landscape.</p>
+        <p>The intervening segments of the poem contain far fewer scenes embodying a broadened
+          perspective, and the reader’s viewpoint is instead that of one or more of the Zoas, who
+          are intimately involved in the action and events of the poem. In Night III, where image
+          levels drop dramatically, the narrative focuses on an argument between Urizen and Ahania;
+          Ahania’s lament broadens the scene somewhat, but her focus is on the individuals involved
+          in the events leading to the fall and provides no expansive vision. The subsequent scene
+          of the destruction of the Mundane Shell is limited in scope and meaning by its
+          proliferation of only images of chaos and fragmentation, which continue to dominate into
+          the early lines of Night IV. In the later lines of Night IV, we see Los binding Urizen;
+          the description of the body he forges for Urizen focuses on an individual entity and is,
+          again, limited in scope and meaning by the relatively few images involved. Night VII
+          focuses first on Urizen, Orc, and Urizen’s daughters, and then on the activities of Los,
+          Enitharmon, and the Spectre of Urthona. Los’s lament provides a brief broadening of scene,
+          but not the variety of imagery or scope of the scenes in Nights I, V, and IX. The later
+          lines of Night VII depict the embraces of Enitharmon and the Spectre and Los and the
+          Spectre, and the birth of the Shadowy Female—the reader is given a close view of these
+          events, and no larger view is provided. In the first two-thirds of Night VIII, several
+          scenes involving Urizen’s war efforts and Los’s and Enitharmon’s weaving are presented,
+          but the imagery is generally unvaried and provides no substantial 
+          <pb id="p20-129" n="129"/>
+broadening of perspective. Imagery in the scene of the crucifixion, where
+image levels
+          reach their lowest point in the entire poem, is so sparse that the lack of imagistic
+          meaning heightens the significance of the act itself.</p>
+        <p>The text segments characterized by low image density are, for the most part, more plot
+          oriented than the sections of the poem containing the densest concentrations of imagery.
+          Therefore, the reader’s perception of events is very similar to that of the individuals
+          involved in them. In areas of high image density, plot is interwoven with set pieces
+          providing inclusive visions of existence from the perspective of the current stage of the
+          fall. Thus the reader’s experience of the poem is one of alternation between involvement
+          in the action and stepping outside it to obtain a larger view. These variations contribute
+          significantly to the poem’s meaning—one of Blake’s fundamental tenets concerns the
+          necessity for variation in perspective and the need for alternation between involvement
+          and rest. Here, Blake makes his point, not by exposition, but rather by directly involving
+          the reader in the experience itself.</p>
+        <p>The links established by image density among the first, middle, and last segments of the
+          poem are strengthened by shared images—that is, images that appear in significant
+          concentrations in these three areas of the text, but appear only rarely, if at all, in the
+          segments of the poem characterized by low image density. This symmetrical, three-part
+          pattern is particularly evident in distributions for images of wine, blood, children or
+          youth, the feast, mountains, valleys, and gold; it also shows up in distributions for
+          images of the garden, ivory, insects, the lion, and stars. The most important of these
+          images—in terms of the extent to which they define meaning and atmosphere in the passages
+          in which they appear—are images of wine, blood, youth, and the feast; and each of these
+          images appears in the first two segments only in specific scenes: in Night I at the scene
+          of the marriage feast (including the song at the feast and Enion’s lament), and in Night V
+          in the scenes of Orc’s birth and binding or in Urizen’s lament. Of these, the most
+          significant is the wine image, whose occurrences are concentrated in the scene at the
+          marriage feast, Urizen’s lament, and in Night IX at the feast and in the scene where
+          “Human Wine” is made in Luvah’s winepress. Similarly, the blood image is concentrated in
+          the song at the feast, the description of Orc’s birth and the Demon’s account of the fall
+          that immediately follows, and in the first scenes of the apocalypse in Night IX; and
+          images of children or youth appear significantly in the song at the feast, descriptions of
+          the young Orc in Night V, and in the pastoral interlude in Night IX. The image of the
+          feast appears, of course, in the scenes of feasts in Nights I and IX, and in Urizen’s
+          lament in Night V. None of these images appears in substantial numbers in any other part
+          of the poem.</p>
+        <p>While these images exhibit a three-part distribution in areas of high image density,
+          others exhibit a two-part distributional pattern, appearing in substantial concentrations
+          in either the first and last or middle and last of these three segments. The first and
+          last segments of the text are far more strongly related in terms of shared imagery than
+          any other areas of the text. Each of these two segments contains concentrations of the
+          major agricultural images in the poem—the plow, the harvest, corn, and images related to
+          the sowing of seed. Significant numbers of images of nations, towns, villages, cities,
+          families, ashes, sand, the wilderness and wild animals, the ox, autumn, bees, birds, moon,
+          dew, dove, winter, slaves, thorns and nettles, structures, girls, the sun, and the
+            Earth<supplied type="spacer"> </supplied><ref target="n33" type="note">14</ref> appear in these
+two portions of the poem as
+          well. The middle and last segments of the poem share fewer images; however, the middle
+          segment shares with the opening scenes of the apocalypse a sudden and dramatic increase in
+          the number of images of fire, whose explosion into these scenes is so overwhelming that
+          their character is almost wholly defined by it. The effect in both scenes is so pronounced
+          that the allusion is obvious when the reader encounters the opening lines of Night IX.
+          Elsewhere in the last segment, images of music, castle, palace, crow, and crystal appear,
+          whose only other substantial concentrations occur in the middle segment. 
+              <note id="n33"><hi rend="s">14</hi> For the purposes of image categorization, a distinction was
+made
+            between occurrences of the word “earth” referring to the ground or soil, and of the
+            Earth as a planet or location, as in “the Earth, the sun, and the stars” or “all men on
+            Earth.” References to the Earth as a planet were found to occur primarily in the first
+            and last Nights of the poem.</note></p>
+        <p>The imagery of the first and middle segments of the poem indicates something about the
+          character of the passages themselves, and the reintroduction of some of the most important
+          images from the first segment in the scenes of Nights V and VI, and of images from both of
+          these segments in Night IX, shows Blake at work again manipulating the reader’s perception
+          to make a fundamental point—in this case, that perspective defines meaning, and that
+          moving among a variety of perspectives ultimately enables the holistic vision that
+          characterizes Blake’s idea of imaginative apprehension. In the earliest segment, the major
+          images are of nature, the social order, and agricultural labor, which is basically an
+          integration of society and nature; the general impression is of man existing in the
+          physical world, the world of ordinary experience, which corresponds to Blake’s Generation.
+          In the scene at the marriage feast, images of blood, wine, and youth are introduced,
+          introducing further <corr type="emend">connotations</corr> of human suffering and sacrifice,
+especially the sacrifice
+          of youth and energy to toil in the physical world. In the middle segment, the images of
+          wine, blood, and youth again appear, but here they are coupled with images of fire,
+          primarily, which draws out connotations of the violent and passionate energy of youth.
+          Later, more images of nature, including the mountain and valley images that appear
+          significantly in the first segment of high image density, appear, but again, their
+          coupling with images of fire, rocks, deserts, serpents, monsters, slime and mold,
+          lightnings and 
+          <pb id="p20-130" n="130"/> 
+          thunder, and the abyss shows nature in a
+          different aspect. The imagistic and narrative allusions in the middle segment of the poem,
+          as well as the increase in numbers and variety of images itself, remind the reader of the
+          earlier scene; but the character of the new images substantially alters the meaning of the
+          whole. Thus the reader is forced to reconsider his earlier perception, and by recognizing
+          a second perspective, moves beyond the viewpoint defined by one or the other of these
+          perspectives and subsumes the two. In the final segment of the poem, where images from
+          both the first and middle segments appear along with other images drawn from everywhere in
+          the first eight Nights of the poem, the effect is similar; while the meaning in the scenes
+          of the apocalypse is defined substantially by the images within it and the relationships
+          among them, the appearance of images from earlier portions of the text invokes alternative
+          connotations, and in comparing them the reader moves to a higher level of abstraction and
+          recognizes not only that alternative meanings exist, but also that meaning is
+          substantially defined by context.</p>
+        <p>The particular evocation through both shared imagery and narrative allusion of the
+          earliest Nights of the poem in the scenes of the apocalypse creates the further impression
+          of returning to the beginnings of the poem, but again, the differences in context as well
+          as the experience of the intervening segments of the poem clearly demonstrate how
+          perspective shapes what we see. Obviously, the possibilities for allusion to previous
+          appearances of an image or images are far greater in the final segment than they are at
+          any previous point in the poem, and this basic fact is essential to our understanding of
+          the way the poem works. For it implies that it would be difficult, if not impossible, for
+          the reader to perceive the apocalyptic vision if he had not progressed through the more
+          limited perspectives of the preceding Nights. This demonstrates a fundamental Blakean
+          principle: that progression is necessary to achieve imaginative vision, and that “Without
+          Contraries is no progression.”<supplied type="spacer"> </supplied><ref target="n34"
+type="note">15</ref> It further
+          demonstrates that much of the connotative power of Night IX is achieved through narrative
+          and imagistic allusion—by referring to the connotations of an image in earlier contexts,
+          meaning can be layered upon meaning, and the whole enhanced by recognition of the way in
+          which meaning is conveyed. Thus the two expanded views take on added importance in the
+          scheme of the poem, for they provide the raw material for Blake’s superlative achievement
+          in the poem’s final movement. <note id="n34"><hi rend="s">15</hi><hi rend="i"> The
+              Marriage of Heaven and Hell</hi>, plate 3 (E 34).</note></p>
+        <p>Images in the two areas of lower image saturation are not only fewer in number and
+          variety, but also fundamentally different from those in the other three segments of the
+          poem. Furthermore, unlike the three segments characterized by high image saturation, the
+          two share very few images, and, as a result, the character of each differs significantly.
+          Among those images they do share, the shadow image pervades both segments, as does the eye
+            image,<supplied type="spacer"> </supplied><ref target="n35" type="note">16</ref> and
+concentrations of the image of tears
+          appear at the end of Night III and the beginning of Night IV, and in Night VIII.<ref
+            target="n36" type="note">17</ref> Otherwise, the imagery of the two segments differs
+          entirely. The first area of low image saturation contains substantial concentrations of
+          images of clouds, the sea, storms, water, bones, chains, ice and snow, clearly suggesting
+          the chaos and fragmentation that result from the breaking up of the Mundane Shell. In the
+          second of these segments, images of tree, fruit, pastoral landscape, flower, worm, war,
+          implements of torture, veil, and garment dominate. In both segments, the imagery is
+          fundamentally negative in its connotations; the positive implications of pastoral imagery
+          and images of vegetation in the second segment are undermined by extremely heavy
+          concentrations of images of worm and shadow in Night VII, and the overall impression is of
+          nature that is visually appealing but debased and spoiled. Concealment plays a major role
+          in the thematic implications of both segments, but in the first, concealment is conveyed
+          through images of nature (primarily, the cloud image), whereas in the second it is
+          conveyed more predominantly through images related to that which is specifically human
+          (veil, garment). The imagery of both segments shows a connotative shift at roughly a
+          halfway point: in the first, imagery shifts from formless objects (cloud, water, sea) to
+          forbiddingly solid forms (ice, bone, chain, iron); in the second, imagery moves from the
+          natural and organic to the manmade 
+          (war, veil, garment, gem).<supplied type="spacer"> </supplied><ref target="n37" type="note">18</ref>
+          These marked shifts are indicative of the advances in plot that are evident in
+          these two areas of the text. <note id="n35"><hi rend="s">16</hi> The most significant
+            concentration of the eye image occurs in the pastoral interlude of Night IX.</note>
+            <note id="n36"><hi rend="s">17</hi> Lesser concentrations of the tear image appear in the
+            early lines of Night I and in the pastoral interlude in Night IX. Thus its distribution
+            is roughly symmetrical around the poem’s midpoint.</note>
+            <note id="n37"><hi rend="s">18</hi> While gems are from nature, their meaning derives from the
+value man has
+            attributed to them. Also, human intervention is usually required to produce gems that
+            are used for ornamentation, as are the gems in the description of Orc’s serpent form in
+            Night VIII.</note></p>
+        <p>Several images appear in only one significant concentration, and notably, almost all of
+          these appear in one of the two areas of low image 
+          saturation.<supplied type="spacer"> </supplied><ref target="n38" type="note">19</ref> 
+          The sea image occurs in only one primary concentration, at the end of Night
+          III and in the first third of Night IV, where it is used to characterize the onslaught of
+          chaos that accompanies the destruction of the Mundane Shell. The tree image appears
+          primarily in Nights VII and VIII, in passages dealing with the Tree of Mystery, and the
+          gem image is concentrated in the description of Orc’s serpent form in Night VIII. Again,
+          in areas of high saturation, the variety of images broadens scene and 
+          <figure n="BirdDragon.20.4.bqscan" rend="file" width="250" height="107"/>
+          <pb id="p20-131" n="131"/> 
+          meaning; by contrast, the dominance of individual images in areas
+          of low saturation limits the possible connotations and, consequently, the viewpoint.</p>
+        <p>Distributions for groups of images that fall into a broad conceptual category were also
+          generated during the course of the analysis, and certain clearly defined patterns were
+          revealed. In particular, clusters of images that can be collectively regarded as images of
+          the pastoral—birds, flowers, sheep, shepherd, cattle, hills, pastures, and so on—are
+          distributed symmetrically around the middle point of the poem, and, more importantly,
+          their appearance tends to alternate regularly throughout the text with images of labor,
+          including the loom, furnace and hammer, the winepress, the harvest, the vintage,
+          breadmaking, and the plow.<supplied type="spacer"> </supplied><ref target="n39" type="note">20</ref>
+          This alternation is more
+          rapid than the flux in image density, but the two patterns complement one another. The
+          rapid alternation of images of the pastoral and labor, which are more closely tied to
+          events of the narrative than patterns of image saturation, model the daily alternation of
+          activity and rest in the physical world, while the slower and more dramatic pulsation of
+          image saturation more closely reflects yearly rhythms and the cycle of death and renewal.
+            <note id="n38"><hi rend="s">19</hi> Exceptions to this are images of houses, grass, and
+            sheep, each of which appears in a single significant concentration in the pastoral
+            interlude of Night IX.</note>
+	<note id="n39"><hi rend="s">20</hi> See chart 4.</note></p>
+        <figure n="PastoralLabor.bqscan" rend="file" width="600" height="469">
+          <figTranscr>FREQUENCY<lb/>
+          	26<lb/>
+          	24<lb/>
+          	22<lb/>
+          	20<lb/>
+          	18<lb/>
+          	16<lb/>
+          	14<lb/>
+          	12<lb/>
+          	10<lb/>
+          	8<lb/>
+          	6<lb/>
+          	4<lb/>
+          	2<lb/>
+          	0<lb/>
+          	TEXT (IN PCT)<lb/>
+          	0<lb/>
+          	10<lb/>
+          	20<lb/>
+          	30<lb/>
+          	40<lb/>
+          	50<lb/>
+          	60<lb/>
+          	70<lb/>
+          	80<lb/>
+          	90<lb/>
+          	100<lb/>
+          	PASTORAL<lb/>
+          	LABOR</figTranscr>
+          <head>Distribution of images of the pastoral and labor across the text of <hi rend="i">The
+              Four Zoas.</hi></head>
+        </figure>
+        <p>The effect of these rhythms on the reader, however subtle it may be, should not be
+          underestimated. Blake’s use of rhythm for effect in individual passages has often been
+          noted by critics, and it is not unreasonable to assume that such rhythms may operate on a
+          larger scale within the <hi rend="i">Zoas.</hi> Anyone familiar with the poem is aware of
+          its power—power that cannot be accounted for in the narrative alone. Some of this may be
+          attributed to the almost subconscious appeal of rhythms revealed in image patterns. In
+          Nights V and VI, which constitute the imagistic center of the poem, such rhythms are
+          brought into the narrative when Urizen searches for the source of the pulsation that
+          “shakes [his] caverns with strong shudders” (V, 65:239; E 344). The pulsation is
+          introduced in Night V at the height of image saturation in the description of the bound
+          Orc, continues through Night VI during Urizen’s search, and finally explodes in fire
+          imagery at the opening of Night VII. The intensity of the reader’s experience of this part
+          of the text may derive in large part from the introduction into the narrative of an
+          element conveyed through image patterns in the earlier Nights of the poem.</p>
+        <p>In the final one thousand lines of the text, from the crucifixion of Christ in Night VIII
+          onwards, the vision of the apocalypse explodes in a sustained concentration of imagery
+          whose variety is unequaled in any other area of the poem. The final vision of the
+          apocalypse is the imaginative view that sees all elements of existence integrated into an
+          inclusive and harmonious whole. Consequently, the images in this segment of the text are
+          drawn from every one of the previous Nights; in fact, among the 196 images examined in
+          this study, only four—cliff, bellows, maze, and sparks—do not appear at least once in the
+          final segment.<supplied type="spacer"> </supplied><ref target="n40" type="note">21</ref> Bloom
+describes Night IX as “Blake’s
+          most exuberant and inventive poetry, probably the most energetic and awesome in the
+            language,”<supplied type="spacer"> </supplied><ref target="n41" type="note">22</ref> and Frye
+offers a similarly superlative
+          comment—“There is nothing like the colossal explosion of creative power in the ninth Night
+          of <hi rend="i">The Four Zoas</hi> anywhere else in English poetry.”<supplied type="spacer"> </supplied><ref target="n42"
+            type="note">23</ref> This exuberance and energy are achieved, in large part, through
+          Blake’s imagistic elaboration that literally overwhelms the reader with its visual and
+          connotative richness. Frye adds that “The poet works with physical images, and hence every
+          successful vision of a state of existence beyond the physical must be an immense triumph
+          of technical skill.”<supplied type="spacer"> </supplied><ref target="n43" type="note">24</ref> One
+of the prime elements of
+          Blake’s achievement is his integration of a multitude of diverse images into a composite
+          vision of Eternity—like Blake’s well-known drawings of the Last Judgment, the final Night
+          of <hi rend="i">The Four Zoas</hi> derives its power as much from the proliferation of
+          images as from their connotations. <note id="n40"><hi rend="s">21</hi> This statistic does
+            not take into account incidental images that were grouped in more inclusive categories
+            for the purposes of the distribution analysis. For example, the snail, which occurs only
+            at one location in the poem in Night II, was grouped with other creatures of the
+            sea.</note>
+	<note id="n41"><hi rend="s">22</hi> Bloom, p. 266.</note>
+	<note id="n42"><hi
+              rend="s">23</hi> Frye, p. 305.</note>
+	<note id="n43"><hi rend="s">24</hi> Frye, p.
+            306.</note></p>
+        <p>The rhythmic alternation of images of labor and the pastoral, and the slower and more
+          dramatic rhythm of the flux in image density throughout the poem, are reflected in the
+          image patterns of Night IX. The pastoral interlude appears at the midpoint of the last
+          Night, and interrupts the furious activity of the apocalypse. The restful scenes of the
+          interlude are characterized by a reduction in the variety of images, although the number
+          of images remains relatively high, and so in Night IX we see a grand enactment of the
+          rhythmic pulsations that occur throughout the first eight Nights. The interlude 
+            <pb id="p20-132" n="132"/>
+also invokes the perspective of the areas of low image density
+          earlier in the poem: although the scene is broadened and elements of landscape are well
+          defined, the pastoral interlude presents a close view of Vala, Tharmas, and Enion. The
+          reader’s involvement with their activities and perspective is far greater than in the
+          surrounding scenes of apocalyptic fury, and because the variety of images is lower, the
+          connotations are also limited in relation to adjacent passages. Once again, the final
+          lines of the poem both double back to repeat earlier patterns and enlarge upon them, thus
+          providing a substantially enhanced version of both forms of rhythmic pulsation that
+          pervade the earlier Nights of the poem.</p>
+        <p>Image patterns across the text of <hi rend="i">The Four Zoas</hi> reveal that the basic
+          structure of the poem is composed of three parts defined by the flux in image density. The
+          reader is provided with three expansive views of existence from three perspectives, the
+          last of which subsumes the first two. Thus, the structure of the poem is based on multiple
+          views which can be regarded as simultaneous because they present many of the same images
+          in varying contexts. The poem’s structure, then, can be described as “layered.” The
+          structure is also fundamentally symmetrical, since many of the poem’s images are
+          distributed symmetrically around its midpoint. However, the integration of imagery from
+          the first eight Nights into the final vision of the last movement suggests a linear
+          organization, where images are accumulated across the text for their combined presentation
+          in the last lines of the poem.</p>
+        <p>The structural configuration of <hi rend="i">The Four Zoas</hi> revealed by image
+          patterns differs from descriptions based on narrative—such as those of Frye and Bloom—in
+          three respects. First, linearity assumes a secondary role in the overall structure; even
+          if the first eight Nights are regarded as a sequence of viewpoints leading to apocalypse,
+          the notion of linearity is destroyed in the last thousand lines, which in subsuming images
+          from the previous Nights double back and reflect earlier patterns. Second, while the
+          pattern of image density across the text indicates a fundamentally three-part
+          configuration, these three parts coincide only partially with structural divisions
+          outlined by Frye and Bloom. Both critics see a structural division that falls somewhere
+          between the first and second segments characterized by high image density, but Frye puts
+          the division following Night IV, and Bloom puts it after Night III. Frye’s second division
+          occurs at the end of Night VIII, with the third area of maximum density, while Bloom’s
+          second division at the end of Night VI falls within the second segment of dense imagery.
+          Neither Frye nor Bloom recognizes any subdivision within the sections he outlines, whereas
+          my interpretation sees an alternation between expansion and contraction of view in the
+          first eight Nights of the poem.</p>
+        <p>Finally, the flux in image density suggests an organizational scheme that in most
+          instances violates the divisions among the nine Nights. Until now, critics have regarded
+          the individual Nights as inviolable units of the poem’s structure. It is impossible to
+          argue that the division into Nights is insignificant, since Blake himself imposed the
+          scheme on the poem, but this does not mean that the poem’s organization, at least on some
+          level, is not based on an alternative scheme—perhaps one that is superimposed on the more
+          intricate division into Nights, and which complements the poem’s narrative structure. Even
+          within the poem, the divisions between Nights rarely indicate a break in the action or a
+          thematic shift; in fact, in most cases Blake seems to have made an effort to obscure these
+            divisions.<supplied type="spacer"> </supplied><ref target="n44" type="note">25</ref> Even if the
+narrative is used as a
+          guide for determining the poem’s structural components, we do not find nine clearly
+          delineated segments defined by the nine Nights; and, because of the confusion of narrative
+          chronology in the poem, even Frye and Bloom cannot agree on a scheme for grouping the
+          Nights. Whatever the significance of Blake’s divisions, they have not yet yielded a clear
+          structural scheme, except in very general terms. Based on the evidence provided by
+          patterns of image distribution across the text, it seems necessary to consider that in its
+          broader dimensions, the poem’s organization may not have its basis in the divisions among
+          the nine Nights. <note id="n44"><hi rend="s">25</hi> Five Nights begin with conjunctions
+            or conjunctive adverbs that link the opening lines with the ending of the previous
+            Night: Night IV begins with “But,” Night VI with “So,” Nights VII and VIII with
+“Then,”
+            and Night IX with “And.” In the opening lines of Night V, the dance of Los begun at the
+            end of Night IV is continued.</note></p>
+        <p>The reader’s experience of <hi rend="i">The Four Zoas</hi> is fundamentally one of
+          variation and expansion of perspective. Repetitions and variations of image patterns
+          provide the reader with different perspectives on the condition of man at various points
+          in the fall, and these perspectives are later integrated into the larger vision that both
+          includes and evolves from them. When he sees the same images repeated in varying contexts,
+          the reader recognizes that perspective defines meaning—and this is one of the fundamental
+          tenets of Blake’s philosophy. The domination of certain images and types of images in
+          various passages demonstrates the effects on perspective of emphasis of one element over
+          the other; the harmonious integration of images in the scenes at the end of Night IX
+          provides the balanced view that is characteristic of imaginative vision. Alternating
+          patterns of image density and of images of labor and rest almost subconsciously establish
+          a heightened appreciation of rhythmic alternation that is most dramatically apparent in
+          the interposition of the pastoral interlude amid the furious activity of Night IX, and
+          which, again, is a fundamental aspect of Blake’s vision of life in Eternity. Thus, meaning
+          and method in the poem overlap, for the underlying theme is certainly that the separation
+          of the four Zoas, and the resulting fragmentation of vision, created the fall, and that
+          the imaginative act of reintegration reestablished Edenic bliss. The reader not only finds
+          this meaning in the narrative, but also participates in a similar imaginative act in his
+          apprehension of the poem’s images and their dramatic patterning across the text.</p>
+      </div1>
+	<pb id="p20-133" n="133" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

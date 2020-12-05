@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.3.mla</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">MLA Blake 1979</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1978-79</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978-79</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.3</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Thomas L. Minnick</name>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Marietta Barnes</name>
+                            <name>Lynn Goldstein</name>
+                            <name>Kris Lackey</name>
+                            <resp>Contributors</resp>
+                            <name>E. B. Bentley</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>David Bindman</name>
+                            <name>Izak Bouwer</name>
+                            <name>Martin Butlin</name>
+                            <name>Arnold Cheskin</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Martha Winburn England</name>
+                            <name>J. Karl Franson</name>
+                            <name>Christopher Heppner</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Irwin</name>
+                            <name>Paul McNally</name>
+                            <name>Marta Slowikova</name>
+                            <name>Robert R. Wark</name>
+                            <name>Kazumitsu Watarai</name>
+                            <name>Dwight Weber</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1979"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <pb id="p12-218" n="218"/>
+            <div1 id="BQ-12-3-0012">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWSLETTER</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">MLA BLAKE 1979</hi>
+                        </title>
+                    </head>
+                    <figure n="MLA.11.3.bqscan" rend="file" width="150" height="67">
+                    	<figTranscr>MLA</figTranscr>
+                    </figure>
+                    <p>W. J. T. Mitchell of the University of Chicago will be discussion leader for
+                        the 1979 Special Session on Blake at the MLA Annual Meeting. The topic will
+                        be “Blake on Language and Writing.” Those interested in
+                        being on a panel should send Mitchell a paper of not more than fifteen pages
+                        by 30 March 1979 at the latest, sooner if possible.</p>
+                    <p>The topic for the 1979 meeting of the English Romantics Group of the MLA will
+                        be “Death &amp; Dying in the Romantics.” Papers
+                        should have a reading time of 20 minutes, and they should be submitted
+                        before 15 April to David V. Erdman, Crane Neck Point, Setauket, New York
+                        11733.</p>
+                    <p>At the next meeting of the Modern Language association of America (San
+                        Francisco, 27-30 December 1979), the Division of Literature and the Other
+                        Arts will sponsor a meeting on the subject of literary illustration. If you
+                        or any of your colleagues would like to submit a paper to be considered for
+                        inclusion on the program for this meeting, I would be very grateful for your
+                        interest and participation.</p>
+                    <p>By literary illustration, the Executive Committee means visual art designed
+                        to be viewed and interpreted in conjunction with literary texts. The texts
+                        may be written in any of the languages normally represented at the MLA, and
+                        may date from any period. Medieval manuscript illuminations are no less
+                        eligible than, say, the Boydell Shakespeare Gallery or the works of Phiz.
+                        The Executive Committee does <hi rend="i">not</hi> encourage the submission
+                        of papers on pictorialist texts which are not actually illustrated.</p>
+                    <p>Three or four papers will be selected for oral presentation by the authors in
+                        San Francisco. Papers should be 15-20 minutes in length, and should be
+                        submitted in full rather than in abstract. If slides are included in the
+                        presentation, please send them with the manuscript or describe them on an
+                        accompanying list. (Projection facilities will be provided at the meeting.)
+                        Papers should be sent to me at the Department of English, University of New
+                        Mexico, Albuquerque, New Mexico 87131, by April 20 (March 20 for non-members
+                        of the MLA which has some travel funds for distinguished speakers in fields
+                        other than those directly represented by the MLA (such as art history), and
+                        for speakers who reside outside the United States and Canada. The Division
+                        must request such funds no later than April 15, and is not certain to
+                        receive them). Results will be announced by May 20. HUGH WITEMEYER,
+                        UNIVERSITY OF NEW MEXICO, CHAIRMAN, EXECUTIVE COMMITTEE, DIVISION OF
+                        LITERATURE AND THE OTHER ARTS, MLA.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1998/99</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998/99</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.3</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Eugenie R. Freed</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>J.B. Mertz</name>
+              <name>Jennifer Davis Michael</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998/9"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <front>
+      <pb id="p32-57-58" n="57-58"/>
+      <div1 id="cover">
+        <figure n="cover.032.03.bqscan" rend="file" width="258" height="330">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            EUGENIE R. FREED ON <hi rend="i">JERUSALEM</hi> 78<lb/>
+            VOLUME 32<lb/>
+            NUMBER 3<lb/>
+            WINTER 1998/99</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-32-3-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+      		  <head>
+          		<title>CONTENTS</title>
+      		  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.freed">“In the Darkness of Philisthea”: The Design of
+Plate 78 of <hi rend="i">Jerusalem</hi></ref><lb/>
+<hi rend="i">by Eugenie R. Freed</hi></cell>
+            <cell>
+              <hi rend="i">60</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particular</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.mertz">An Unrecorded Copy of Blake’s 1809 Chaucer
+Prospectus</ref><lb/>
+<hi rend="i">by J. B. Mertz</hi></cell>
+            <cell>
+              <hi rend="i">73</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.donald">Diana Donald, <hi rend="i">The Age of Caricature:
+Satirical Prints in the Reign of George III</hi></ref><lb/>
+<hi rend="i">Reviewed by Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">74</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.gourlay">William Blake, <hi rend="i">The Urizen Books.</hi>
+Edited with introductions and notes by David Worrall</ref><lb/>
+<hi rend="i">Reviewed by Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">76</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.michael">William Richey, <hi rend="i">Blake’s Altering
+Aesthetic</hi></ref><lb/>
+<hi rend="i">Reviewed by Jennifer Davis Michael</hi></cell>
+            <cell>
+              <hi rend="i">77</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.ferber">Nicholas M. Williams, <hi rend="i">Ideology and
+Utopia in the Poetry of William Blake</hi></ref><lb/>
+<hi rend="i">Reviewed by Michael Ferber</hi></cell>
+            <cell>
+              <hi rend="i">81</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.3.hoagwood">Wayne Glausser, <hi rend="i">Locke and Blake: A
+Conversation across the Eighteenth Century</hi></ref><lb/>
+<hi rend="i">Reviewed by Terence Allan Hoagwood</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="32.3.apocalypse"><hi rend="i">The Apocalypse and the Shape of Things
+to Come</hi></ref>, 
+              <ref type="article" issue="32.3.animated"><hi rend="i">The Animated Blake</hi></ref>, 
+              <ref type="article" issue="32.3.direction"><hi rend="i">New Directions in Blake Scholarship and
+Teaching</hi></ref>, 
+              <ref type="article" issue="32.3.update"><hi rend="i">William Blake Archive Update</hi></ref>
+            </cell>
+            <cell>
+              <hi rend="i">86</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p32-59" n="59"/>
+      <div1 id="BQ-32-3-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Michael Ferber is Professor of English and Humanities at the University of New Hampshire. His most
+recent book is <hi rend="i">A Dictionary of Literary Symbols</hi>, forthcoming from Cambridge University
+Press.</p>
+        <p>Eugenie R. Freed retired recently from the University of the Witwatersrand, Johannesburg, and is
+now thinking seriously about Blake’s <hi rend="i">Jerusalem</hi> and other matters.</p>
+        <p>Alexander S. Gourlay teaches English at the Rhode Island School of Design.</p>
+        <p>Terence Allan Hoagwood is Professor of English at Texas A&amp;M University. His recent books
+include <hi rend="i">Politics, Philosophy, and the Production of Romantic Texts</hi> (1996), 
+<hi rend="i">British Romantic Drama</hi> (coedited with Daniel P. Watkins, 1998), and an edition, with Cody Fife,
+of Emily Pfeiffer’s <hi rend="i">Sonnets and Songs</hi> (1998). Current projects include a book, 
+<hi rend="i">Scholarship in a Society of Simulation</hi>, and an edition of the poems of A. Mary F. Robinson.</p>
+        <p>J. B. Mertz is a D. Phil. student at University College, Oxford, writing a thesis on William Blake
+and the Johnson circle. He lives and works in Washington, D.C.</p>
+        <p>Jennifer Davis Michael teaches English at the University of the South and has an article on Blake
+forthcoming in <hi rend="i">Studies in Eighteenth-Century Culture.</hi></p>
+      </div1>
+      <div1 id="BQ-32-3-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-32-3-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: <hi rend="i">Jerusalem</hi> plate 78, copy D. By permission of the Houghton
+Library, Harvard University, detail. <note type="unreferenced" place="footer">© 1999 Copyright Morris Eaves
+and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

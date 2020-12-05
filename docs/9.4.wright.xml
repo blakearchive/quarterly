@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.wright</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="note">Blake’s Relief-Etching Method</title>
+        <author n="Wright">John W. Wright</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <pb id="p09-94" n="94"/>
+      <div1 id="BQ-09-4-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">NOTES</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Blake’s Relief-Etching Method</hi>
+            </title>
+          </head>
+          <byline>BY <docAuthor>JOHN W. <name>WRIGHT</name></docAuthor></byline>
+          <figure n="SchoolBoy.9.4.bqscan" rend="file" width="400" height="549">
+            <head>“The School Boy”: An over-inked print from John
+Wright’s fascimile plate (see <hi rend="i">Blake Newsletter</hi> 26) showing shadow line effects where
+platform edges picked up ink from the roller used and transferred them to the paper during printing which was
+done by rubbing the reverse side of the paper with a wooden spoon. Much fainter traces of this kind can be
+found in many copies of the Illuminated Books.</head>
+          </figure>
+          <pb id="p09-95" n="95"/>
+          <div3>
+            <head>
+              <title>
+                <hi rend="i">Introduction</hi>
+              </title>
+            </head>
+            <p>The unique medium of Blake’s Illuminated Books involves aesthetically crucial relationships
+not only between words and pictures, as is now being more generally appreciated, but also between these
+“forms” of design and other still unfamiliar characteristics which are embedded in effects of the 
+<hi rend="i">means</hi> by which these works were produced.<supplied type="spacer"> </supplied><ref target="n0"
+type="note">*</ref>
+	<note id="n0">John Wright, University of Michigan, is the author of <hi rend="i">Shelley’s Myth of
+Metaphor</hi> (1970) and <hi rend="i">Poems and Woodcuts</hi> (1976). He thanks Virginia Masi for
+exceptionally fine editorial assistance on the present essay, and he is grateful for financial support in the
+research from ACLS, NEH, and the Horace H. Rackham Foundation.</note> We cannot really appreciate the
+qualities of Blake’s pages without knowing more than we do now about the technical means of their
+production, because technique generates qualities and sets limits to what is attempted as design and is the
+source of basic variables in the virtually alchemical matrix of his production process. Individual elements
+and qualities of Blake’s work are decided features of concrete designs and should be seen as forms made
+particularly and as specific to his medium. They can and ought also to be distinguished from one another as
+forms potential in his varied treatments of the pages, lest we continue to discuss them as if they were only
+instances of “art” or “vision” in general (including Blake’s general theory of art, which is a critical
+fiction) or of “pictorial and verbal” compositions or of “graphic and poetic genres.”</p>
+            <p>Part of the uniqueness of Blake’s medium is the potential variety of relationships between
+the prints and pages, and the technical and physical base of their production, the plates. My main purposes
+here are to describe these plates as artifacts (and the difficulties of “reading” them to recover the method
+of their production), to explain their character and their significance as part of Blake’s special medium,
+and to interpret their possible contribution to the development of his vision. Specifically, this essay
+describes and analyzes some of the signs of etching techniques which appear in the Gilchrist electrotypes and
+in the only surviving Blake plate, the fragment of a rejected version of <hi rend="i">America</hi> a, now in
+the Rosenwald collection.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="i">Current Opinion and the New Hypothesis</hi>
+              </title>
+            </head>
+            <p>Geoffrey Keynes and others have written of Blake’s relief-etched plates as if the
+electrotypes and the <hi rend="i">America</hi> a fragment were the same sort of artifact; and, in fact, no
+account of their relationship or the differences between them has appeared. As illustrations 1 and 6 readily
+show, they both do have the look of relief-etched plates, but they have very different aspects too; not only
+because the <hi rend="i">America</hi> design is less dense and a fragment, but also because there the plate
+area surrounding the design and the general contours of the background copper are much less worked and are
+more evenly flat. Even simple comparison like this would suggest that Blake has worked in two different ways
+on these plates. Perhaps that alone accounts for the fact that their differences have not been remarked as
+particularly significant. But the current, generally circulated opinion about Blake’s process implies that
+these plates have a much simpler appearance and actual structure than they do.</p>
+            <p>Of the electrotypes Keynes has written, “The interest of these blocks is very great because,
+being electrotypes, they are exact reproductions of Blake’s plates so that something can be learnt from them
+of his technique” (<hi rend="i">Blake Studies</hi>, 2nd ed., p. 124). Then, however, he goes on to say of the
+etching process only that
+<q>
+The plate was then etched with acid to no very great depth, but deeply enough to allow the text to stand out
+in relief. Blake then gouged out some of the larger spaces more deeply to prevent unwanted ink from showing in
+the print, and finally added more or less detail to the designs by means of the graver (124).
+</q>
+But <hi rend="i">America</hi> a, which is certainly a Blake plate, shows no gouging (which would be a terrible
+waste of time across such a large background that could have been much more quickly etched away), and the
+electrotypes themselves actually show very little systematic gouging in the more open areas (see, for example,
+the inside of the hoop in <hi rend="i">The Echoing Green</hi> [illustration 3]); and many of these marks are
+attributable to the electrotypists. Nor is such gouging evident in the areas of the plates which, as the
+prints from them show, were most in need of that treatment. <hi rend="i">The Divine Image</hi> illustrates
+this very well. The surface characters of each design sit on platforms of fairly ragged and not gouged copper;
+these in turn rise above the relatively smooth background copper of the basin of the plate. There is
+considerable variation among the electrotypes in these characteristics, but the primary structure is
+distinctly uniform and much different from that suggested by Keynes’ description of a shallow etching
+process supplemented by gouging. Actually, the electrotypes show clearly the effects of a process of etching
+away the unwanted copper by stages in the manner I described in <hi rend="i">Blake Newsletter</hi> 26.</p>
+            <p>Because I could not get good results by etching the facsimile <hi rend="i">Songs</hi> and other
+trial plates in single bites for various lengths of time in acids of different strengths, I went back to the
+Victoria and Albert Museum with a stronger magnifying glass to have a closer look at the electrotypes and
+discovered the process Blake invented for surmounting those difficulties in making his plates.</p>
+            <p>After a relatively brief initial bite to lower the copper surface around the design which had
+been laid down in acid resistant varnish, he removed the plates from the acid bath. He then minutely repainted
+the unbitten surface with maximum 
+                            <pb id="p09-96" n="96"/>
+fidelity to the contours of the design to protect each character during further biting. This process was
+(usually) repeated twice more; first to produce the more readily visible and ragged platforms around the base
+of the characters, and finally to produce the basin areas most deeply recessed from the plate surface.</p>
+            <p>Evidence of these protective recoverings of the design during the etching process is
+consistently but not uniformly evident in the sixteen electrotypes. The first of these three recoverings is so
+faithful to the surface of the design it covers that it is always very hard to see, even on the enlargements
+used here for illustration. Part of the reason for this difficulty is simple. Where the repainting exactly
+recovers the surface of the first, shallowly-etched design (which it then better protects from foul-biting:
+one of the primary reasons for the second application of the varnish), it does not extend into the lowered
+area immediately adjacent to the surface. In such areas subsequent etching simply continues lowering the
+sidewall of the character. In many areas, and usually on only one side of a character, however, there is a
+slight overlap, which is evidence of Blake’s method.</p>
+            <p>Before the structural characteristics of the electrotypes are considered more fully, however,
+it is important to attend to some of the procedural and methodological problems which bear on the present
+analysis (and will bear on future explorations in this area), and also to raise again the matter of the
+different appearance of the <hi rend="i">America</hi> fragment.</p>
+            <p>(1) Because there are no standards to describe the physical characteristics of the sort of
+artifact these plates represent, some special terminology will be needed. It will even then not be easy to see
+what physical conditions are being referred to. Lengthy and minute examination of the plates is the best
+remedy for this difficulty, but that is itself bewildering if one does not know what sort of map to apply to
+the terrain. Even when one knows what to look for—because one has seen it repeatedly before and thought
+about what the signs mean—one can still be overwhelmed by the countless small differences that fly into view
+as one moves the glass from area to area or plate to plate. Hence, the aim of this hypothesis about Blake’s
+method is to serve as a map for the terrain of those sculptures and hopefully to be useful in ordering
+observation.</p>
+            <p>(2) A second difficulty is related to this first one. The descriptions above and the diagrams
+that follow refer to “structural” features of the plates—that is, to their manner of construction. The
+plates are illustrated here by photographic enlargements which simplify these features of the terrain from
+three dimensions to two and from varied available light to black and white reproduction. This alters one’s
+sense of the designs and their functional elements, and the scale of the plates themselves. But “reading”
+these aerial photographs of that terrain affords very useful practice nonetheless in deciphering the causes of
+and the kinds of physical traces on the plates and on Blake’s pages. Where appropriate hereafter, I will try
+to indicate how the characteristics of the photographs translate to the appearances of the plate surfaces.</p>
+            <p>(3) The third difficulty relates to the observational problems posed by (1) and (2). During
+close study of the surviving relief-etched plates, one sees that they are timeworn and now have
+characteristics which they did not have when they were first made and used: oxidation, cleaning, scratching
+and corrections in the case of the electrotypes, and these and hammering too in the case of 
+<hi rend="i">America</hi> a, have in some places so altered the metal as to make it practically impossible to tell
+without complex metallurgical and graphic analysis whether Blake’s or a later process has been the cause of
+the various characteristics.</p>
+            <p>This general textural problem is logically independent of the structural characteristics I will
+be considering, but practically it does bear on them in the case of the electrotypes. “Reading” the
+electrotypes means interpreting relationships between texture and structure in always individually handled
+plates. Up to a point, the more one becomes able to notice, the greater is one’s uncertainty about the types
+of effects observed in the textural field of the plate. At first sight nearly everything is “textural,” and it
+is all too easy to impose a simple explanation for the causes of texture and to distort the complexity of the
+actual characteristics of these artifacts.</p>
+            <p>Not only are the plates timeworn in various ways (which causes uncertainty about the
+significance of many particular signs); two of the electrotypes differ significantly in surface design from
+the printed and painted pages of the copies of the <hi rend="i">Songs</hi> I have seen, and the electrotypes
+generally have a textural appearance markedly different from the <hi rend="i">America</hi> fragment. These
+last two facts raise the question of whether the electrotypes were actually made from Blake’s plates: from
+fourteen he regularly used and one or two others he did not, or whether they might not have been made from
+another set of plates.</p>
+            <p>One of the electrotypes, the title plate to <hi rend="i">Songs of Experience</hi>, differs in
+its characters, as Keynes noted, from the plate Blake always used for that page in the 
+<hi rend="i">Songs.</hi> Erdman, finding signs of “forger’s tremble” in this design, has disputed Keynes’
+assumption that it represents an extra, rejected plate which somehow turned up among the survivors given for
+electrotyping. He concludes that it comes “from a redrawing of the page made for Gilchrist’s need” 
+(<hi rend="i">The Illuminated Blake</hi>, p. 72). For two reasons this conclusion is not acceptable. The variant
+plate omits certain characters that the copyist could not easily have overlooked (including the date, 1794),
+adds others not in Blake’s pages, and shows quite “perfect” handling elsewhere. More important still, it was
+etched in the same manner as the other plates, though more deeply. Its more open design required that for
+printing. That being true we
+<pb id="p09-97" n="97"/>
+would have to suppose with the Erdman view that the plate from which this electrotype was taken was itself
+made exactly in Blake’s minutely careful manner and indeed more carefully than the “trembling” design
+itself—a conclusion not likely given the requirements of the whole task.</p>
+            <p>The etching signatures being the same for all the plates, another possibility arises: that the
+whole series was produced from a set of plates other than Blake’s. I have wrestled often with the idea of
+another means of production for the electrotypes and have concluded that it is not feasible, even though the
+evident differences between their textural and structural characteristics and those of 
+<hi rend="i">America</hi> a might seem to support that possibility.</p>
+            <p>The only process that could have been used to produce plates with such accurate surfaces and
+the same genuine sort of step-bitten structure shown in the electrotypes is photoengraving, a process invented
+but not widely used between 1859 and 1862 (see the <hi rend="i">Encyclopedia Britannica</hi>,
+“Photoengraving”). But irregularities and variable characteristics of the substructure of the electrotype
+plates mark them as handmade; photoengraving produces more mechanical and uniform etching effects. Thus, I
+reject the idea of other plates and will not examine the subject further here, except to say that the very
+structural characteristics which show Blake’s own work most fully on the electrotypes do draw attention to
+the different textural qualities of the <hi rend="i">America</hi> fragment. The hypothesis being developed
+here will explain these relations.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="i">Relief-Etching Signatures in the Electrotypes</hi>
+              </title>
+            </head>
+            <p>From their experiments in 1947, reported in <hi rend="i">Print Collectors Quarterly</hi>, 29
+(Nov., 1948), pp. 25-37, Ruthven Todd, S. William Hayter and Joan Miro concluded that Blake probably used a
+transfer method to get the text of his design from a sheet of paper where they were first painted in varnish
+onto the copper plates for etching, and that, judging from the extreme shallowness of the relief on the 
+<hi rend="i">America</hi> fragment, he could not have used a roller to ink the plates but must have transferred
+ink from another plate to the surface of the one to be printed. In support of these ideas they observed that
+Blake’s prints and pages frequently show a distinctive reticulation in the printed areas which they regarded
+as characteristic of plate rather than roller inking. They also noted that certain pages show tilting and/or
+curvature in the lines of text which might result from their being hand placed and pressed onto the copper by
+the transfer process. I have found, however, that some pages vary considerably from this rule. For example,
+the plate containing <hi rend="i">My Pretty Rose Tree, Ah, Sun Flower</hi>, and <hi rend="i">The Lilly</hi>
+seems to show a slightly different direction of curvature for each text, and it would not be reasonable to
+suppose that Blake applied the texts to the copper successively to produce that effect. In other plates, too,
+the curvature of the text often may be an expressive part of the design, making distinct its spatial form and
+screen-like qualities.</p>
+            <p>On the question of roller versus plate inking, Todd and Hayter did not explain how Blake could
+have prepared the inking plate smoothly enough to give even coverage and to prevent small masses of ink from
+spreading out under pressure into subsurface areas, particularly into broad open areas and the special high
+platforms, which are even closer to the printing surface, as the <hi rend="i">America</hi> fragment clearly
+shows. Still more important perhaps, their hypothesis neglects to consider the facts that the proof Blake took
+of <hi rend="i">America</hi> a shows a distinct roller-inking trace and that many of his pages and proofs do
+not show significant reticulation of inking texture but rather a smoother surface more consistent with the
+effect of roller-inked plates. These and other considerations make it likely that Blake worked in all these
+ways and very experimentally. The relatively greater relief of the electrotypes supports that possibility and
+suggests that the <hi rend="i">America</hi> fragment was probably not given the usual one or two final etching
+stages.</p>
+            <p>Much work remains to be done before these discrepancies are explained, but at this point it is
+important to use a diagram to describe the etching method which Blake invented for his singular medium.</p>
+            <p>The traces or signatures of the first repainting are necessarily very slight marks and very
+hard to detect because they often cover exactly the surface characters of the design (as shown here at 
+<hi rend="i">i</hi> in diagram I). This technique both adds a further protective coating to the characters before
+foul-biting has time to do much damage to the lines, and as far as possible avoids getting the varnish used in
+the repainting out so far beyond the edge of the very shallow first bite as to start a platform that will pick
+up ink. Two rules about this practice should be kept in mind: (1) the larger the open area around a character,
+the greater the likelihood that it will draw ink during the painting; and therefore the deeper its eventual
+relief will have to be. (Plate inking reduces this problem, but Blake’s pages frequently show platform
+traces and background dots which indicate the roller effects.) (2) A first repainting must be general, not
+local; the more so if it is done very early, as Blake did. The invisibility of traces of repainting does not,
+normally, mean that it was only local, but only that traces or the ledges left by it are evident only where
+the brush went over the side of the character by accident or by design.</p>
+            <p>Diagram II (<hi rend="i">a</hi>) represents this ledging problem as a platform extending from
+the vertical axis of a character. Blake often and with marvelous control painted very slightly over the edge
+of the original character, and from these traces we know that the first repainting occurred over the whole
+surface of the design.</p>
+            <p>On the plates these traces are virtually invisible to the naked eye—unlike those of the
+<pb id="p09-98" n="98"/>
+<figure n="Schematic.9.4.bqscan" rend="file" width="600" height="254">
+	<figTranscr>Stages<lb/>
+	1<lb/>
+	2<lb/>
+	3<lb/>
+	4<lb/>
+	5<lb/>
+	(rare)<lb/>
+	<lb/>
+	c d e f<lb/>
+	a<lb/>
+	b<lb/>
+	j h<lb/>
+	g<lb/>
+	n i<lb/>
+	m<lb/>
+	p l k o<lb/>
+	<lb/>
+	a. plate surface<lb/>
+	b. plate side<lb/>
+	c. original varnish on character in design<lb/>
+	d. varnish area of first repainting<lb/>
+	e. varnish area of second repainting<lb/>
+	f. varnish area of third repainting<lb/>
+	g. character platform from first etch<lb/>
+	h. foul-bite area in character<lb/>
+	i. ledge from varnish overlap of first<lb/>
+	repainting<lb/>
+	j. unledged platform from open bite through<lb/>
+	stages 2 and 3<lb/>
+	k. ledges from varnish overlap of second<lb/>
+	repainting<lb/>
+	l. ledge from varnish overlap of third<lb/>
+	repainting<lb/>
+	m. groove from strong etch at join of<lb/>
+	basin and sidewall<lb/>
+	n. underbitten area from prolonged etch<lb/>
+	(see j.)<lb/>
+	o. ring mound, basin area<lb/>
+	p. striated basin area from strong final<lb/>
+	etch</figTranscr>
+	<head>Diagram I: Schematic representation in cross-section of plate etched by Blake’s method: showing
+different kinds of effects of that process as ennumerated to the right.</head>
+</figure>
+<figure n="Cross-Section.9.4.bqscan" rend="file" width="600" height="139">
+	<figTranscr>Stages<lb/>
+	1<lb/>
+	2<lb/>
+	3<lb/>
+	3a<lb/>
+	4<lb/>
+	<lb/>
+	e<lb/>
+	b<lb/>
+	d a d<lb/>
+	c<lb/>
+	<lb/>
+	e<lb/>
+	f<lb/>
+	d<lb/>
+	c<lb/>
+	<lb/>
+	a. set I traces<lb/>
+	b. set II traces<lb/>
+	c. set III traces<lb/>
+	d. strong etch grooves<lb/>
+	e. surface character<lb/>
+	f. flat sidewall of character perfectly overpainted<lb/>
+	through stage 4</figTranscr>
+	<head>Diagram II: Schematic representation in cross-section of two characters as etched in the 
+<hi rend="i">America</hi> a fragment: showing particularly and roughly in proportion the difference between the
+large problematic ledges of the mended characters (on the left) and the straight sidewalls of the characters
+more exactly overpainted during the etching stages (see diagram I).</head>
+</figure>
+<pb id="p09-99" n="99"/>
+second repainting (the third stage of the process), which are visible. They can, however, be seen with a
+strong glass (and will be found, thin as they are, still to vary in thickness from plate to plate). They can,
+with a little practice, be discerned as a pattern in the enlargements at the locations listed below. In
+looking for or at these fine traces, two things should be noted: (1) details become less sharp the further
+they are from the center of the camera’s focus. (2) It is helpful to look for grades of shadow between the
+surface lights and the basin lights; among these tones the platform made by the first repainting is recorded
+as a faint shadow between the illuminated side walls above and below it.</p>
+            <p><hi rend="i">The Lamb</hi> (illus. 1 and 5): see the bottom edge of (1) the title words, (2)
+the upper right-most inward curving branch of the tree at the left, and (3) the long horizontal line just
+below the boy and sheep.</p>
+            <p><hi rend="i">The Divine Image</hi> (illus. 2): see the bottom edge of (1) the top margin line
+(especially the center of its right half), which shows well that the traces are discontinuous; (2) the curved
+area dividing the stanzas, which represents well how evenly Blake could follow the edge of the character while
+overpainting it very slightly; and (3) the similar line above “The Divine” in the title. Area (3) and the line
+below “Divine” are good places to look for the whole range of main steps.</p>
+            <p><hi rend="i">The Echoing Green</hi> (illus. 3): see the bottom edge of the baseline of the
+upper half of the plate, especially above <hi rend="i">G</hi> and slightly to its right, and also the vine
+line below “Green.” Below the lines forming the shoulders of the woman nearest the center of the tree, the
+first traces of repainting are particularly clear, as are those of the second (to be considered in a
+moment).</p>
+            <p><hi rend="i">A Cradle Song</hi> (illus. 4): see the inside edge of the two right-most curves
+opposite the space dividing stanzas two and three. These lines indicate particularly well the problem posed by
+the photographic lighting conditions and the extreme thinness of the first repainting traces. Generally the
+first repainting of the plate was done with exceptional fidelity to character surface. (Note that the 
+<hi rend="i">d</hi> of “dreams” in line three is missing on the plate and in the electrotype prints. It appears in
+Blake’s pages, and, when examined under a strong magnifying glass in several copies, it proves to be the
+same shape and the same quality of pigment as the rest of the print. It was, therefore, not added to the
+prints as a character lost through foul-biting or undercutting would have been; probably it was lost
+accidentally in the moulding phase of the electrotyping process.)</p>
+            <p>One effect of the first repainting with varnish over the edge of the surface platform is
+usually a very slight flow of varnish down the side of the character and out into the basin, which at that
+point in the process is very shallow. This spreading of the varnish means that during
+<pb id="p09-100" n="100"/>
+<figure n="TheLamb.9.4.bqscan" rend="file" width="400" height="596">
+	<head>1 “The Lamb,” I: The plate has been photographically reversed to facilitate reading it.</head>
+	<figDesc>References in the text are to the plate as printed here.) For this print and for the three prints
+following the photographic exposure was made with the bottom of the plate tilted up slightly from a horizontal
+position to bring out the terraced effect of the platforms produced by Blake’s reliefetching
+method.</figDesc>
+</figure>
+<pb id="p09-101" n="101"/>
+<figure n="DivineImage.9.4.bqscan" rend="file" width="400" height="579">
+	<head>2 “The Divine Image”: (Plate photographically reversed.)</head>
+	<figDesc>Platforms are particularly evident along some of the horizontal lines bounding some of the more open
+basin areas.</figDesc>
+</figure>
+<pb id="p09-102" n="102"/>
+<figure n="EcchoingGreen.9.4.bqscan" rend="file" width="400" height="591">
+	<head>3 “The Ecchoing Green”: (Plate photographically reversed.)</head>
+	<figDesc>The centric focus of the camera has made the area of the lower half of the plate more distinct and
+the etching signatures can be discerned best in the upper and middle portions of that area.</figDesc>
+</figure>
+<pb id="p09-103" n="103"/>
+<figure n="CradleSong.9.4.bqscan" rend="file" width="400" height="606">
+	<head>4 “A Cradle Song”: (Plate photographically reversed.)</head>
+	<figDesc>Reading the features of this photograph is easier when it is remembered that the plate has been
+tilted slightly up from its bottom and that the light source comes down approximately from the “A” corner. The
+potential for optical reversal of figure-ground relations on a revarnished plate during the later stages of
+repainting and re-etching is particularly evident in this one. See also diagram III for the stages leading to
+the emergence of such hieroglyphs from between the lines of the positive design.</figDesc>
+</figure>
+<pb id="p09-104" n="104"/>
+<figure n="LambRepeat.9.4.bqscan" rend="file" width="400" height="600">
+	<head>5 “The Lamb,” II: (Plate photographically reversed.)</head>
+	<figDesc>Same plate as “The Lamb,” I, photographed with camera angle centered on horizontally positioned
+plate.</figDesc>
+</figure>
+<pb id="p09-105" n="105"/>
+<figure n="AmericaFragment.9.4.bqscan" rend="file" width="400" height="542">
+	<head>6 <hi rend="i">America</hi> a fragment: (Plate photographically reversed.)</head>
+	<figDesc>Enlargement of whole fragment showing different condition of this incompletely etched plate as
+compared with the electrotypes. See also illus. 7 and 9.</figDesc>
+</figure>
+<pb id="p09-106" n="106"/>
+the second bite the acid will lower the copper from the wavy line of the second coat of varnish, not from the
+original smooth edges of the character. The signature of this second stage of etching is clearly evident as
+the outer edge and wall below all the traces already noted.</p>
+            <p>But, of course, to re-emphasize the key point about structure, wherever the first repainting
+has covered only the surface of the character, the second biting is virtually invisible (necessarily so on the
+photographs). It can be detected only as a slightly greater underbiting of the character (which is often
+impossible to see in the photographs; <hi rend="i">n</hi> and <hi rend="i">j</hi> on diagram I), with beaded
+traces of copper sometimes jutting out from the face of the platform cliff. See, for example, the inside edges
+of the <hi rend="i">o</hi> of “Song” in the title of <hi rend="i">A Cradle Song.</hi> Generally, Blake’s
+second bite was also fairly shallow, not twice the depth of the first.</p>
+            <p>After the second bite (stage 3), all the denser passages of the design have enough relief for
+printing. At that point Blake could simplify the repainting process by selectively painting over whole groups
+of characters <hi rend="i">as local conditions permitted</hi> for protection during the later stages of
+biting. Diagram III represents these effects, and
+<figure n="LambRevarnished.9.4.bqscan" rend="file" width="700" height="508">
+	<head>Diagram III: “The Lamb” A and B: Replicas of a revarnished design showing on A and B respectively
+typical effects of the repainting process at stages III and IV of the etching process (see diagram I).</head>
+</figure>
+they can be seen in the photographs around the first “little” of the second stanza of <hi rend="i">The
+Lamb</hi>, “pity” and <corr type="emend">“Peace”</corr> in the first line of <hi rend="i">The Divine Image</hi> 
+and “divine” in line 11.
+(These effects should be compared with the similar but, as I shall indicate later, probably functionally
+different platforms evident in the <hi rend="i">America</hi> fragment: there see especially “[b]urns.”) See
+also “Among the old folk” in the last line of <hi rend="i">The Echoing Green</hi> and the area around “Song”
+in the title and “Hover” in line 8 of <hi rend="i">A Cradle Song.</hi></p>
+            <p>After the second repainting has preserved the (usually) double relief of the primary
+characters, more selective and varied ways of repainting are possible. Because of this, the texture and
+structure of the electrotypes vary greatly within the plates and from one plate to another at the level
+designated stage 4 in the diagram. Part of this variety was caused by numerous places where Blake’s brush
+did not extend the varnish significantly
+<pb id="p09-107" n="107"/>
+over the edge of the platform established by the second bite; so the second bite traces were only
+inconsistently preserved by the third repainting. Examples of the relatively flat-wall effect of this narrower
+repainting (which is always apt to become more pronounced because of the sideways action of the acid) can be
+seen clearly at the lower edge of “pleasant” in line 3 of <hi rend="i">A Cradle Song</hi> (contrast this with
+“smiles” in line 9) and the outer edge of the curve of the main branch of the flame next to line 8 of 
+<hi rend="i">The Divine Image</hi> (contrast this with the traces of the second repainting immediately above the
+opposite lines 5 and 6).</p>
+            <p><hi rend="i">The Echoing Green</hi> illustrates well the technique of generally repainting
+groups of characters after the second bite. The two areas of text stand on a general plateau (later routed and
+perhaps etched further) above the primary basin evident at the left of the first stanza by the boy and beside
+the wavy line dividing the stanzas. The extra etching and gouging around this line and the etched (not, as it
+may appear, gouged) area below the last stanza, show the method of lowering the basin by continuing the third
+and/or initiating a fourth bite in the open areas most likely to receive ink from a plate or roller.</p>
+            <p>In contrast to the general plateau of <hi rend="i">The Echoing Green, The Divine Image</hi>
+shows how Blake applied the second repainting locally, along lines of text to word groups as well as singly to
+characters and then, as a final stage, deepened the basin around them. The three-stage etching process is
+particularly fine and distinct throughout this plate. In the enlargement, “divine” in line 11 shows clearly
+the second ledges of repainting. As illustrations of Blake’s process, they are important because they extend
+so far beyond the characters at some points that they would have printed had they been made at the time and
+depth characteristic of the first repainting (again compare “[b]urns” in <hi rend="i">America</hi>).</p>
+            <p>This plate shows another characteristic effect of Blake’s process: a dark dot below the 
+<hi rend="i">c</hi> of “Peace” in line 12 is all the information the photograph can provide about a marked
+undercutting or erosion of the sidewall of that area during the third bite. Caves such as this (which appear
+elsewhere at that level in this plate and others) are particularly important because they indicate that the
+third bite was a prolonged one, a fact which helps to account for the unusually rounded or beaded quality of
+many of the traces of the third repainting. There is also much evidence of foul-biting on the surface
+characters; the upper curves of the flame below the last line in the lower left hand corner of the plate show
+it clearly, and the broken pattern appears in the electrotype prints and in some of Blake’s pages.</p>
+            <p>The undulating contours of the basin’s surface (confused by the lights of the photograph) are
+read more easily if one focuses on two similar areas which have slightly different light qualities; say on the
+space immediately to the right and the one immediately below the striding, pointing figure just to the right
+of the second stanza. The center area of the one to the right is, contrary to appearance, raised slightly at
+the center within the ring mound; the one below is a smoother contour across the central area within the ring
+mound whose edge is marked by the area of dark. That darker region itself, incidentally, is the shadow of a
+slightly deeper area (caused by the greater force of the acid in the space around the platforms where more
+copper is exposed during the biting).</p>
+            <p>I’m not sure what produced these undulations; they appear more locally in a number of the
+electrotype plates and in a slightly less pronounced form at the right, margin area of the 
+<hi rend="i">America</hi> a fragment. I think they resulted from a relatively long and somewhat weaker final etch
+than Blake used in basin areas like those of <hi rend="i">A Cradle Song</hi>, where a strong fourth etch has
+cleaned out certain areas. But as the London electrotype in the Victoria and Albert Museum has these
+undulations in a somewhat less pronounced form than the copy in the Fitzwilliam Museum, it may be that they
+are exaggerated by the moulding process used in making the electrotypes.</p>
+            <p>It is, incidentally, a great loss that Messrs. Clay and Sons destroyed the original
+electrotypes from which these sets and the other one now owned by Trianon Press were made, because numerous
+small differences between the two sets I have looked at cannot easily be traced to Blake’s work or that of
+the first or second electrotypist without comparison with the original electrotypes.</p>
+            <p>Of the plates illustrated here, <hi rend="i">A Cradle Song</hi> shows most clearly the
+technique of strong local biting of the basin areas. The texture of these deepest areas and their location in
+many places where there would, for printing, be no need of gouging—because the surrounding characters
+provide more than adequate support for the inked printing surfaces, as above the second “sleep” of “Sleep
+sleep happy child”—would seem to indicate that these areas are mainly etching (rather than gouging) effects.
+Moreover, many of these areas show a relatively deep undercutting of the platform walls not characteristic of
+the routing process. In this case Blake repainted all the characters once to establish the top platform in the
+usual way, bit it a second time quite shallowly, and then generally repainted certain areas, like the lower
+right hand corner (see the edges of the wheat or leaf). He then repainted the other characters individually or
+in groups for a third etching (but the details of this are hard to determine from the photograph and my notes
+on the plate are not sufficiently clear about it). After the third etching he repainted nearly all the
+characters, grouping them in various ways under the varnish and, as just noted, bit much more strongly the
+deepest areas which generally appear as the brightest (nearest) lights in the photograph.</p>
+            <p>The observations made thus far on the technique Blake used in making the plates for his 
+<hi rend="i">Songs</hi> provide sufficient evidence to establish the fact and the character of the repainting and
+stepped-biting process. I hope they will prove useful as a guide for “reading” the photographs and the plates
+themselves, from which there is still much to learn.</p>
+          </div3>
+          <pb id="p09-108" n="108"/>
+          <div3>
+            <head>
+              <title><hi rend="i">Relief-Etching Signatures in the</hi> America 
+<hi rend="i">Fragment</hi></title>
+            </head>
+            <p>The enlargements (illustrations 6 and 7) indicate how the <hi rend="i">America</hi> fragment
+appears to differ significantly as a relief-etching from the electrotypes of the <hi rend="i">Songs.</hi> They
+are somewhat more deeply bitten and generally worked over as plates and show, as we have seen, use of the
+stepped-biting method throughout. The less deeply bitten fragment has been etched in stages in a few areas,
+those of the bird, the flying figure, “[b]urns,” “Albion’s,” “fiery,” “Prince” and the like; but the rest of
+the plate (even in the enlargement), probably at first sight appears to have been bitten in a single step. But
+this general appearance is misleading: knowing what to look for in the substructure of a relief-etched plate
+(using a strong glass if one is looking at the actual plate), one can find in addition to the immediately
+obvious platforms, other sorts of traces of repainting. From these different traces it is possible to
+reconstruct in part the etching process Blake used on this plate and to show its consistency with the method
+recorded in the electrotypes. Because the physical particulars are difficult to discern and because their kind
+and degree are essential to an interpretation, I shall first present detailed evidence of the three classes of
+characteristics and then discuss their significance. To clarify this procedure I shall use the term “set” now
+for each group of physical traces sharing similarities of location and treatment and, as before, the terms
+“character” and “characteristic” for any component of the surface design, distinguishing where necessary
+between figure, letter and word.</p>
+            <p>The first of the sets of physical traces of the etching process includes the immediately
+evident and comparatively spread-out platforms already noted. They appear within and around “[b]urns,”
+“nightly,” “[gl]ow,” “America’s,” “shore,” “nightly,” “Gates,” “&amp;,” “Albion’s,” “fiery,” “Prince,” the
+bird and the interior portions of the flying figure near the bottom. These platforms are the effect of
+repainting areas already etched to the depth greater than that allowed for the first bite in the electrotypes
+and about half or a bit more of the total depth of the bite of the plate (see diagram II).</p>
+            <p>Another striking difference between these platform areas in the <hi rend="i">America</hi> plate
+and the electrotypes is easily seen in the enlargements. The characters around or within these platforms were
+not repainted singly as Blake had done earlier to optimize relief for the printing process, but in clusters.
+The nearness of these platforms to the surface risks drawing ink down into the space immediately around the
+characters. Some of them, those around “[b]urns,” the <hi rend="i">G</hi> of “Gates” and the ampersand, for
+example, would produce the shadow line effect noted earlier (see <hi rend="i">a</hi> in diagram II). When
+Blake could do such fine repainting as we have seen already, why did he here work so much more crudely? Ink
+does indeed spread around these character groups easily and all Blake’s earlier plates would have provided a
+more than sufficient awareness of that problem. Most likely these areas involve a special local mending
+process and reflect a mistake of judgment rather than a purposeful exercise of his usual method and skill. The
+mistake probably has two main elements. First, the fact that the other characters were not given this heavy
+repainting points to the possibility that something went wrong in certain areas during the etching process,
+requiring special local treatment—some of the varnish began to break down for some reason, for example. In
+correcting this local breakdown, Blake made an error in repainting the trouble spots, the second element of
+the mistake. Where he should have repainted each character singly, he misjudged the depth of relief
+established and repainted characters in groups as though they were ready for a third etching.</p>
+            <p>One problem apt to occur during relief-etching clarifies further the physical and technical
+basis of this situation. Areas along the edges and vertical sides of the characters which are missed or are
+too thinly covered with the repainting varnish break down (progressively) under the action of the acid. Areas
+which are too thickly overpainted cause too wide a platform (“[b]urns”) to appear next to the character; its
+edge will pick up ink and the thick area of varnish must be scraped back to the vertical wall of the character
+or platform before the etching can continue. Scraping back such areas is more practicable in a relatively open
+design like this one, but it risks minutely scratching or puncturing the protective blanket of varnish,
+resulting in foul-biting or erosion of the critical edges of the characters. Any of these minute accidents are
+likely to escape detection in work of this scale.</p>
+            <p>If a plate is watched constantly while in the acid bath (which is perhaps unlikely, considering
+the length of time required for etching with a mordant of reasonably safe strength), the effervescent action
+of the nitric acid Blake used would show bubbling in areas supposedly protected by varnish and so signal
+trouble. However, in designs like this one particularly, the proximity of the relatively large areas of the
+plate undergoing open biting to the sides of the protected characters would make it considerably more
+difficult to trace bubbles to (minute) areas defectively painted or otherwise opened (especially for fine
+lines with bubbling arising on both sides). The very density of design in most of the <hi rend="i">Songs</hi>
+makes it likely that such erosions would go unnoticed for some time, and the condition of the surface bears it
+out as a constant problem. The fact, too, that some of the repainting was done partially, across the
+characters rather than evenly over them in the usual way, points to remedy of local problems.</p>
+            <p>It is also possible that a defective batch of varnish or some unnoticed grease on the plate
+itself might have caused the painted design to lift off the surface (and require local repainting to repair
+it). There are also signs that the acid used after this local repainting, and possibly before it, was
+unusually strong.</p>
+            <pb id="p09-109" n="109"/>
+            <figure n="AmericaRepeat.9.4.bqscan" rend="file" width="400" height="345">
+              <head>7 <hi rend="i">America</hi> a fragment: (Plate photographically reversed.)</head>
+              <figDesc>Enlargement of the central portion of the plate to make visible the slight signatures
+of the etching process. See also illus. 6 and 9.</figDesc>
+            </figure>
+            <pb id="p09-110" n="110"/>
+            <p>All the signs, then, point to the conclusion that the traces of set I are the effects of
+repainting done in the course of a mending process when (untypically, judging from the electrotypes) Blake’s
+first repainting began to give way under the action of the acid.</p>
+            <p>The second set of etching characteristics cannot at first be detected by normal eyesight, or
+usually, even with a strong glass, unless one has practiced looking for things of that kind. Set II consists
+of a number of minute traces of a repainting prior to the areas marked out by the obvious platforms of set I
+and preserved within them. That these traces are not more widely in evidence does not tell against the fact
+that a general first stage repainting occurred. In relatively open areas like those of the 
+<hi rend="i">America</hi> design, it is essential to minimize the ledging effect of the first repainting and cover
+only the character surface wherever possible. What counts as a trace is the presence of any distinctive
+contour of copper which, given the action of the acid, should not be present unless protected by varnish.</p>
+            <p>In their depth and exactness these set II traces resemble closely the stage 2 repainting
+signatures of the electrotypes. Some of them can be seen (where the photographic lighting has permitted) in
+the enlargements reproduced here. By a very close examination of the plate with a 7-X lens (a stronger one
+would be better), I found them around <hi rend="i">r</hi> and <hi rend="i">s</hi> of “[b]urns,” the 
+<hi rend="i">s</hi> of “his,” the <hi rend="i">A</hi> of “America’s,” the <hi rend="i">bi</hi> of “Albion’s,”
+the <hi rend="i">fi</hi> of “fiery,” the <hi rend="i">ri</hi> of “Prince,” notably within the circles of the
+<hi rend="i">g</hi> and at the upper side of the tail of the <hi rend="i">t</hi> of “night,” and elsewhere. On
+the enlargement, illustration 6, these traces appear most clearly within the triangle at the top of the 
+<hi rend="i">A</hi> of “America’s,” within the <hi rend="i">g</hi> of “nightly” and “night,” at the bottom left
+edge of the <hi rend="i">i</hi> of “Albion’s,” at the bottom of the tail of the <hi rend="i">i</hi> and at
+the right outside edge within the platform area of the <hi rend="i">y</hi> of “fiery.” Minute though they are,
+marks of this kind cannot occur accidentally in the etching process and must, therefore, be the effects of a
+general repainting prior to that of the heavier platform areas within which they were preserved. In every case
+these traces are so close to the edge of the surface of the characters or in positions so well guarded from
+contact with a roller or inked plate that, unlike the edges and interval areas of the set I traces, they
+present no printing problem despite their nearness to the surface. A moderate excess of ink on an inking plate
+or roller would spread first to the set I edges as is shown by “[b]urns” and several other heavy characters in
+Blake’s proof (illustration 8). In shape, location and depth, these traces bear the signature of the first
+repainting process.</p>
+            <p>The third set of etching signatures poses a more difficult problem of interpretation.
+Physically they vary considerably in area and form; they are in several instances more evident than the traces
+of set II, and they are located below the platforms of set I, which might signify that they were made at a
+later stage of the etching process. Their extreme shallowness (making them useless as relief platforms),
+however, as well as their absence from areas where they might be expected to occur if they belonged to a later
+etching stage, could tell against that presumption. To make these problematic characteristics clear and useful
+for further study, it seems advisable to treat the interpretive questions raised by them in the form of a pair
+of qualified hypotheses based on the physical characteristics of these traces and the technical means by which
+they might have been produced. These traces are, in any case, actual effects produced by Blake’s process,
+and either of these hypotheses confirms the account given earlier of his use of stepped-biting and repainting.
+According to one of the hypotheses the traces belong with those of set II (that is, to the first repainting);
+according to the other, they signify an interrupted and unfinished second general repainting (stage 3)
+undertaken in the usual way after the mending process evidenced by the set I traces had been completed. (They
+cannot belong to set I.)</p>
+            <p>The signs of etching that compose set III are to be found spread around on the basin of the
+plate at the sides of the characters and nowhere else. On the complete enlargement, illustration 6, they can
+be seen around the loops of the letters of “Prophecy,” cut off at the top, around and within the human figure
+and, especially around the line trailing from that figure. They are also to be found around such letter groups
+as “silent,” the <hi rend="i">s</hi> of “his,” “nightly,” “tent,” the <hi rend="i">s</hi> of “America’s,”
+“shore,” the <hi rend="i">t</hi> of “to,” the <hi rend="i">e</hi> of “rise,” the first “in,” “silent,”
+“gates,” and with singular thickness around the <hi rend="i">A</hi> of “Albion’s,” and so on. In
+illustration 7 they appear most clearly around the flying figure, the first “in,” “tent,” “gates,” and the 
+<hi rend="i">A</hi> of “Albion’s.”</p>
+            <p>Like the traces of set II these marks are all but invisible to the unpracticed or unaided eye.
+On the enlargements, again, as the angle and lighting permit, they appear as a discontinuous series of
+irregular and very slightly raised mounds of copper; they are uniformly located outside the deep (dark) groove
+which marks generally the base of the etched characters and platforms. That groove marks the place where the
+acid, characteristically, has bitten in more fiercely than elsewhere because it worked on the larger area of
+exposed copper formed by the intersection of the sides of the characters and the basin area. It is physically
+impossible for traces of a wanted repainting
+<pb id="p09-111" n="111"/>
+<figure n="AmericaProof.9.4.bqscan" rend="file" width="400" height="543">
+	<head>8 Blake’s proof print taken from original, cancelled plate for <hi rend="i">America</hi> a: Effects
+of ink spreading out under pressure of printing from the too shallow or incompletely mended characters can be
+found at several places.</head>
+	<figDesc>See, in addition to those appearing in the fragment and discussed in the text, the heavy ink look of
+“Albion’s” and “cliffs” (1. 8), “future” and “times” (1.12), and “Albion’s” (1.15). For shadow-line or
+double contour effect of platform edges which print as dots paralleling the character lines, see especially
+the right tail of the bird at the left and the lower portion of the initial curve of the capital at the
+top.</figDesc>
+</figure>
+<pb id="p09-112" n="112"/>
+prior to that etching stage to appear outside the groove; wherever the varnish is put down, the plate below is
+preserved as a platform, unless some unwanted varnish is scraped back to allow the acid to bite. The traces to
+be explained do exist outside that boundary, and the first hypothesis requires seeing them as effects of such
+a scraping process. It will be useful first to describe a few of them together with the circumstances of
+painting by which they were produced.</p>
+            <p>The top and bottom sides particularly of the line trailing from the figure at the bottom show
+signs of relatively slight overpainting of a type which occurs characteristically around such long, thin, wavy
+lines. The brush hairs spread over the edge where the line curves change or the hand shifts and the load of
+varnish tends to run off the narrow plateau. By contrast, the broader curved lines at the top of the plate
+supported the movement of the brush more securely, and the traces of the scraped areas are really marked only
+at the points where the line sharply changes direction. (Again, the spillage proves the line was repainted.)
+The even character of the rest of that line indicates that Blake aimed, in his usual and necessary way, at an
+overpainting which did not extend significantly beyond the area of the varnish of the first bite. Something
+more like a slip of the brush is evident at several other points: at the second <hi rend="i">t</hi> of “tent,”
+and where the bottom trailing line meets the hip of the figure, for example. That same effect or perhaps the
+effect of an overloaded brush is evident around the bottom leading line of the <hi rend="i">A</hi> of
+“Albion’s.”</p>
+            <p>We have already seen in the electrotypes that the traces of a first repainting are evident only
+where the varnish spreads over the edge of a repainted character, thereby preserving some of the copper at the
+base of this very shallow platform as a ledge. Some plates show more of this second stage effect, 
+<hi rend="i">The Divine Image</hi>, for example; some less, as in <hi rend="i">On Another’s Sorrow.</hi> The
+question didn’t occur to me when I was looking at the electrotypes, but I have not yet found on the
+photographs of them any signs of a first repainting done as crudely as some of the set III traces of 
+<hi rend="i">America</hi> are. But that should not automatically tell against the first repainting hypothesis: the
+repainting of “[b]urns” and “fiery” and the like is also poor by the electrotype standards, as are some of the
+other characters on the proof but not on the plate fragment. The absence of this sort of undesirable trace
+from the electrotypes might be owing to the fact that those plates were etched twice after the first
+repainting. Had such big slips occurred they would have been scraped away before or after the etching. Traces
+of a scraping process prior to further etching would probably have been reduced very considerably by
+subsequent etchings; as would those of the <hi rend="i">America</hi> plate had it been deepened further in the
+usual way.</p>
+            <p>The physical properties of the varnish, copper, and acid, and the relationship between them are
+important technical circumstances which bear on the possibility that the set III traces really belong,
+<figure n="AmericaActual.9.4.bqscan" rend="file" width="400" height="578">
+	<head>9 <hi rend="i">America</hi> a fragment: (Plate photographically reversed.)</head>
+	<figDesc>Photograph in actual size of plate and print in Rosenwald collection. The incompleteness of coverage
+and reticulation of the ink of this print indicate that it was produced by the method of plate to plate
+inking—a condition required, as I see it, by the extreme shallowness of the partial relief established when
+Blake in this case took his proof from a plate that was going wrong. See also illus. 6 and 7.</figDesc>
+</figure>
+<figure n="AmericaPrint.9.4.bqscan" rend="file" width="400" height="575"/>
+<pb id="p09-113" n="113"/>
+with those of set II, to the first repainting. Varnish has oil as its vehicle, and the presence of any oil or
+grease on a plate impedes the action of any mordant (an effect frequently found in the electrotypes). The
+visible traces of excess varnish can be scraped away if one wants to correct an area on a painted
+plate—i.e., open it for biting—but the scraping process is tricky both because of the risk of damaging the
+design and because of the likelihood of leaving an oily residue. (Even the grease from fingers will form a
+mild resist on the surface of a plate and permit a fingerprint to be etched into the surface. One such
+fingerprint appears above “nightly” on the <hi rend="i">America</hi> plate.) As the acid lowers the surface of
+the copper, the greasy area is lowered as well, but at a rate slower than the area around it, resulting in the
+slightly raised areas of copper which constitute the traces of set III.</p>
+            <p>It is possible that the set III traces were scraped back during the first repainting process
+because, had they been etched, they would have caused ledging even worse than that evident in the set I
+traces. The chief objection, beyond the delicacy of the scraping process, to this conclusion is comparative;
+the width and crude form of many of the set III traces is unlike the effects of Blake’s usual masterful
+first stage repainting. But accidents will happen. The real force of the first hypothesis must be determined
+in part by the qualifications which must attend the second one, according to which the traces are effects of a
+typical, general, second repainting made after the mending operation of set I had been established in
+relief.</p>
+            <p>The set III traces appear in the basin area as the lowest raised material on the plate, as well
+as outside the etching grooves; their shapes and general qualities resemble the effects produced by the third
+repainting and etching effects on the electrotype plates. (Compare, for example, the traces below “gates” and
+around the line trailing from the trumpeter with the lines dividing the stanzas in <hi rend="i">The Echoing
+Green</hi> and <hi rend="i">The Lamb.</hi>) The fact, however, that they do not appear more frequently outside
+the primary platforms of the characters raises a question about their function which must qualify acceptance
+of the second hypothesis.</p>
+            <p>Many of the finer lines used as tailpieces or as the ends of the letters—the top of final 
+<hi rend="i">s</hi>’s or the bottom curves of the <hi rend="i">t</hi>’s, for example— are already at a limit
+of thinness. Without another repainting they could easily be damaged by undercutting during the stage 3
+etching to follow. The electrotypes show that the second general repainting frequently covered the sides of
+the characters needing special protection. So Blake was probably more particular in repainting some characters
+at this stage than he was in repainting those actually marked by the set III traces. More difficult is the
+question why he gave the plate so brief an etch at that point, because the bite was obviously interrupted
+before it had lowered the basin significantly, and the plate was then, presumably, cleared of the varnish so
+laboriously applied to take the proof.</p>
+            <p>Actually the relief he had already obtained by the first bite plus the special bite used to
+establish the mending platforms is nearly as deep as the relief obtained by the first two stages of etching in
+the plates for the <hi rend="i">Songs.</hi> He could have taken the proof with much the same effect after the
+etch of the mending process. Could he have miscalculated this and wasted the considerable amount of time
+required for so fine a general repainting as must be supposed according to our second hypothesis? I think not.
+It is much more plausible that he meant to complete the second general etch (stage 3) in the usual way but
+interrupted it for a reason which I will formulate with the conclusion.</p>
+            <p>In summary now, the location, width and ragged-edge characteristics of the set III traces
+closely resemble the signatures of the second general repainting of the electrotypes, but their frequent
+absence from areas where such repainting would be most needed, and the oddity of a (hypothetically) very
+careful repainting not etched to a significant degree, weigh against the second hypothesis that the set III
+traces really belong to the usual stage 3 treatment of the plates.</p>
+            <p>I conclude that the <hi rend="i">America</hi> plate was not completely etched before it was
+abandoned. The technical problems that doomed it probably included physical ones, such as a bad batch of
+varnish or too strong an acid, and spiritual ones, such as doubt about the design itself. These problems,
+along with the different etching requirements of the more open design of the fragment, caused Blake to vary
+the repainting and stepped-biting techniques (also used for the <hi rend="i">Songs</hi>) that he had invented
+for his relief-etching process.</p>
+            <p>If we accept the first set III hypothesis about the manner of etching the plate, we can only
+conjecture that further biting was planned. We might then suppose that the three- to four-stage etching
+process was not a general rule. (Perhaps the surface characteristics of various sets of pages can bear that
+out eventually.) But the hypothetical scraping and the uncharacteristic crudeness of the traces of, in that
+case, the first repainting process tell against that conclusion; whereas according to the second set III
+hypothesis the scraping is eliminated and the quality of the traces is comparable to the electrotype
+<pb id="p09-114" n="114"/>
+traces. It seems simpler and more consistent with this other evidence to suppose that doubts about the design
+were primary in his decision not to continue the second general etching to the usual depth. Had he wanted to
+use the plate, he could have scraped away the set I problems after all the etching was completed; no
+convenience of technique or amount of labor is sufficient explanation for abandoning a work.</p>
+            <p>The first <hi rend="i">America</hi> plate, then, was stopped because Blake saw it didn’t work
+as a design. The second general repainting had been done. The etching problems he had encountered—plus
+perhaps the new design formed by the varnish at that point—led him to see his original design differently
+and then to make the one he printed in <hi rend="i">America.</hi> By comparing the prints of these two
+versions of the <hi rend="i">America</hi> plates with other related designs, one can see why Blake changed his
+mind in this case.</p>
+            <p>The significance of the evidence of Blake’s repainting and stepped-biting technique for
+making the <hi rend="i">America</hi> fragment has many sides. It confirms the hypothesis formulated from the
+electrotype evidence and clarifies the method his medium required. The fragment may eventually provide a
+broader basis than the electrotypes alone for discerning and appreciating what went on in the course of making
+the later Illuminated Books. Broadly speaking, this whole range of evidence has a geological or archeological
+relation to the finished pages. This relationship could help us determine, for example, which plates or prints
+Blake had trouble with and why; it could provide considerable evidence about the care with which copies were
+made. Correlating the etching signatures with printing signatures will provide a whole new kind of evidence
+about what was made; hence, we may be able to discover the state of the plates from the presence or absence of
+patterns of ledge or basin marks in prints.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="i">Conclusion</hi>
+              </title>
+            </head>
+            <p>But more immediately, the general hypothesis of a uniform or usual method of production
+involves, as we have seen, at least two and normally three minutely particular paintings of a plate. Sometimes
+every character and always each of the more distinct (isolated) details of every design were recovered twice.
+A third or sometimes even a fourth painting at the lower levels of their substructure produced radical
+transformations of the imagery of the plates as he worked on them. With those changes of configuration came a
+special awareness of a process in the method. Chronometrically, as a count of the number of times he applied
+himself to painting his designs, Blake’s plate production might be reckoned at two and one half to three
+times what it has been thought to be; horologically, the reflexive, practical effect of the method on the
+artist who used it can be estimated qualitatively in terms of the cumulative effect of light-years of most
+intimate communion with the golden land, burning sea, and bright, reflecting sky of his technical environment.
+Patterns of perseverent individuality in his minutely expressive forms became known to their painstaking and
+inspired creator as a family of visionary figures whose real life is by no means confined to the illusive
+heaven of his problematical “meanings.” The self-reflexive, gestural quality of the final plate of 
+<hi rend="i">Jerusalem</hi>, for example, should be appreciated not only in relation to the other ninety nine
+designs of that work, but also in relation to all the other plates, prints and pages of the Illuminated Books
+and beyond: it speaks of the hammer and foreps of the labor of the process of coming and going in the spirit
+through which, in Blake’s polymorphous freedom of verbal and visual metaphor, all the Illuminated Books were
+realized in a medium of visionary re-enactment whose technical base lay in the archtropal matrix of his
+plate-making process.</p>
+            <p>From the beginning Blake was aware of a many-sided practical symbolism in the antithetical
+modality of his newly invented means of production. Aspects of that initial awareness can be constructed or
+inferred from the evidence we have. But Blake would certainly not then have envisioned a cumulative symbolism
+in the minute particulars of the medium itself; for it was only by his ardorous and immense labors in that
+medium that he could have come to see, as I believe he did, in the stages of his process and in the
+cosmography of his sculptural plates an analogue or emblem of the layered structure of the hierarchic,
+allegorical system of the cultural world he sought to anatomize and to represent by transfiguration. The
+pertinence of his later thematic system of wordings to the <hi rend="i">Songs of Innocence</hi> and other
+earlier works has been doubted many times (without any attention to their visual relations). But 
+<hi rend="i">The Book of Thel</hi> itself makes specific use of the layered and polysemous structure of
+allegorical design, and its pictorial forms hover between being symbols and emblems. That is another story,
+but it may help call attention to the influence very early of Blake’s method of making one by one his
+revisionary plates for the <hi rend="i">Songs of Innocence.</hi> From that process, I am convinced, he became
+aware of a poetics of inscription inherent in the means of production in his medium. Its conditions enabled
+his visions to be “printed” and his readers’ “perceptions” of them to be seen in a new light, one which
+could treat metaphorically as tropisms the familiar modes of artistic production and response.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

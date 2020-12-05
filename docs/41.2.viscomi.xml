@@ -1,0 +1,2638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.2.viscomi</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s “Annus Mirabilis”: The Productions of 1795</title>
+        <author n="Viscomi">Joseph Viscomi</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.2</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Joseph Viscomi</name>
+              <name>Karen Mulhallen</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>M. Crosby</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+    <pb id="p41-52" n="52"/>
+      <div1 id="BQ-41-2-0006">
+        <head>
+          <title type="section">ARTICLE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake’s “Annus Mirabilis”: The Productions of 1795</hi>
+            </title>
+          </head>
+          <byline>By <docAuthor>Joseph <name>Viscomi</name></docAuthor></byline>
+          <note type="unreferenced" place="footer">
+            <hi rend="i">Author’s note: An online version of this article, with six more illustrations, all
+illustrations in color, and a slightly longer first section, is available on the journal’s web 
+site<corr type="emend">.</corr> Illustrations that appear only online are indicated in the print
+version by the online illustration number preceded by an “e” (e.g., illus. e4).</hi>
+          </note>
+          <p>IN 1795, Blake produces <hi rend="i">The Song of Los, The Book of Ahania</hi>, and 
+<hi rend="i">The Book of Los</hi>, executes 12 large color-printed drawings, color prints a few etchings, reprints
+8 copies of <hi rend="i">Songs of Innocence and of Experience</hi>, reprints most of his illuminated canon to
+date in a deluxe, large-paper set, and begins the 537 watercolor drawings of <hi rend="i">Night
+Thoughts.</hi><supplied type="spacer"> </supplied><ref target="n00" type="note">*</ref> The first period of
+illuminated book production, 1789-95, culminates, new experiments in combining printmaking and painting are
+begun and perfected, and work as designer and painter begins to dominate Blake’s energies and time for the
+next 10 years. In this essay, the second of a two-part study, I focus on the last of Blake’s illuminated
+books from this period, <hi rend="i">The Song of Los, The Book of Los</hi>, and <hi rend="i">The Book of
+Ahania</hi>, trying to sequence them from a purely materialist perspective—by recreating the large copper
+sheets from which the individual plates were cut—to see how Blake’s creative process, including changes of
+mind and false starts, unfolded through production and how these particular works and their techniques might
+relate to one another, to the color-printed drawings, and to the experiments in color printing that lie behind
+them both.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref>
+	<note id="n00">*I would like to thank Robert Essick for reading an early draft of this essay and Todd
+Stabley, multimedia consultant, formerly of the Center for Instructional Technology, University of North
+Carolina at Chapel Hill, for his assistance in digitally recreating Blake’s copper sheets and virtual
+designs.</note>
+	<note id="n1">1. Part 1, “Blake’s Virtual Designs and Reconstruction of <hi rend="i">The Song of
+Los</hi>,” uses digital imaging to recreate Blake’s original designs for the text plates of 
+<hi rend="i">The Song of Los</hi> and to realize the virtual designs in this and a few other illuminated books.
+Blake’s virtual designs are designs we create mentally by recombining an illuminated book’s related
+images.</note></p>
+          <p><hi rend="i">The Song of Los</hi> is generally thought to precede the two other books, which is
+to say, Blake is thought to have returned to <hi rend="i">America a Prophecy</hi> (1793) and 
+<hi rend="i">Europe a Prophecy</hi> (1794) with “Africa” and “Asia,” the two parts of <hi rend="i">The
+Song of Los</hi>, rather than continuing <hi rend="i">The First Book of Urizen</hi> (1794), because he began
+the “continental” books before the “Urizen” books.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref><hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi> are thought to
+be last because they are intaglio and short, supposedly representing a decreased focus on illuminated book
+production. An easy symmetry and progression, from large format to small, relief etching to intaglio—and
+then no more illuminated books until <hi rend="i">Milton</hi> (c. 1804-11)—helps make this sequence
+attractive. But when examined in terms of their production, these books reveal a much different sequence, one
+in which <hi rend="i">The Song of Los</hi> is executed last, the “Urizen” project is completed
+uninterrupted, and the return to the “continental” project is possibly an afterthought. <note id="n2">2.
+<hi rend="i">Europe</hi> and <hi rend="i">Urizen</hi> are both dated 1794 by Blake, but the order in which he
+produced them is not immediately clear. Keynes sequences the books <hi rend="i">America, Urizen, Europe, The
+Song of Los, The Book of Ahania</hi>, and <hi rend="i">The Book of Los</hi> (222-48). By placing 
+<hi rend="i">Urizen</hi> between <hi rend="i">America</hi> and <hi rend="i">Europe</hi>, he implies that the
+continental cycle was Blake’s most recent project when working on <hi rend="i">The Song of Los</hi> and that
+he postponed work on the subsequent books of <hi rend="i">Urizen.</hi> Erdman and other editors are less clear
+about the sequence of the 1794 and 1795 books; they group the related books together, even though that means
+placing <hi rend="i">Urizen</hi> after <hi rend="i">The Song of Los</hi> so it can be read with 
+<hi rend="i">The Book of Ahania</hi> and <hi rend="i">The Book of Los</hi> and <hi rend="i">The Song of Los</hi>
+can be read with <hi rend="i">America</hi> and <hi rend="i">Europe.</hi> In the Blake Archive, we place 
+<hi rend="i">Europe</hi> before <hi rend="i">Urizen</hi>, assuming a chronological contiguity with 
+<hi rend="i">America</hi> because the works are physically, visually, and thematically alike, but also because the
+<hi rend="i">Urizen</hi> plates were executed in terms of color printing, the printing technique Blake had
+begun using in 1794, and the <hi rend="i">Europe</hi> plates were not (see Viscomi, <hi rend="i">Blake and the
+Idea of the Book</hi>, chapter 29).</note></p>
+          <p>I will begin by recapitulating the main argument of my bibliographical analysis of 
+<hi rend="i">The Song of Los</hi>, in which I realize digitally the book’s virtual designs and original format,
+then proceed to examine the technique of the color-printed drawings, reconstruct the sheet of copper from
+which Blake cut <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi>, provide new
+information about the trial proof for <hi rend="i">Pity, Albion rose</hi>, and the <hi rend="i">Large</hi> and
+<hi rend="i">Small Book of Designs</hi>, and conclude by speculating on the sequence of the three illuminated
+books and their relations to the large color-printed drawings.</p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">I. Blake’s Reconstruction of <hi rend="i">The Song of Los</hi></hi>
+              </title>
+            </head>
+            <p><hi rend="i">The Song of Los</hi>, dated 1795 on its title page, is Blake’s most oddly shaped
+illuminated book, consisting of four full-page illustrations (including the title page) and four text plates,
+which are about 4 cm. narrower than the illustrations and 1 to 2 cm. shorter. As I have shown elsewhere,
+illuminated plates are never perfectly uniform or square, because Blake cut most from larger sheets by
+hand.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> But the variance among plates is
+greatest in <hi rend="i">The Song of Los</hi>—and, as we shall see, is actually much greater than it first
+appears. The frontispiece (illus. 1), picturing Urizen kneeling at an altar under a globe inscribed with
+strange markings, is the exact same size as the endplate (illus. 2), picturing Los kneeling above the sun,
+hammer in hand. Figures with globes in mirrored position pair the designs visually and thematically and
+suggest a new, conflated virtual design (illus. 3). Plates 1 and 8 are the same size because 
+              <pb id="p41-53" n="53"/>
+              <figure n="s-los.b.p1" id="s-los.b.illbk.01" work-copy="s-los.b" rend="db" width="763" height="1000">
+	<figTranscr/>
+	<head>1. <hi rend="i">The Song of Los</hi> copy B, plate 1.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+<figure n="s-los.b.p8" id="s-los.b.illbk.08" work-copy="s-los.b" rend="db" width="753" height="1000">
+	<figTranscr>
+                11
+              </figTranscr>
+<head>2. <hi rend="i">The Song of Los</hi> copy B, plate 8.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+<figure n="3.sl.1.8.100" rend="file" width="397" height="802">
+	<head>3. <hi rend="i">The Song of Los</hi>, virtual design of plates 1 and 8, based on copy E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+<pb id="p41-54" n="54"/>
+<figure n="s-los.b.p2" id="s-los.b.illbk.02" work-copy="s-los.b" rend="db" width="716" height="1000">
+	<figTranscr>
+                2<lb/>
+                THE<lb/>
+                SONG of<lb/>
+                LOS<lb/>
+                Lambeth    Printed by W Blake    1795
+              </figTranscr>
+<head>5. <hi rend="i">The Song of Los</hi> copy B, plate 2.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+<figure n="s-los.b.p5" id="s-los.b.illbk.05" work-copy="s-los.b" rend="db" width="735" height="1000">
+	<figTranscr>
+                7
+              </figTranscr>
+                <head>6. <hi rend="i">The Song of Los</hi> copy B, plate 5.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+they are executed on the front and back of the same copper plate. This may not be apparent comparing just the
+height and width of the plates, but four measurements reveal their shared shape. The copy B impression of
+plate 1 is 23.6 cm. left side, 23.6 cm. right, 17.8 cm. top, and 17.5 cm. bottom. Plate 8 has the same
+measurements, indicating that it is the verso of plate 1 (illus. e4). <note id="n3">3. See Viscomi, 
+<hi rend="i">Blake and the Idea of the Book</hi>, chapter 5, and “Evolution” 306-07.</note></p>
+            <p>Blake typically etched both sides of relief-etched plates: <hi rend="i">Experience</hi> plates
+are on the versos of <hi rend="i">Innocence, Europe</hi> on <hi rend="i">America, Urizen</hi> on 
+<hi rend="i">Marriage.</hi> Thus, discovering that plates 1 and 8 were etched recto/verso was not surprising.
+Finding plates 2 (illus. 5) and 5 (illus. 6), the other two full-page illustrations, apparently not
+recto/verso, however, was surprising. They have the same shape and width, but plate 5 is 9 mm. shorter. The
+discrepancy is an illusion, however, caused by the top of plate 5’s having been masked 9 mm. upon
+printing.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> The plates are recto/verso,
+with the top of plate 5 being the bottom of plate 2. Together, this recto/verso pair form a virtual design in
+which Urizen is imprisoned behind the leaves of the lilies holding Titania and Oberon (illus. 8), calling to
+mind the imprisonment of another eternal in <hi rend="i">Urizen</hi> plate 4 (illus. 9) and the body behind
+              <figure n="8.sl.2.5.100" rend="file" width="609" height="800">
+	<head>8. <hi rend="i">The Song of Los</hi>, virtual design of plates 2 and 5, based on copy A.</head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+              <pb id="p41-55" n="55"/>
+              <figure n="urizen.G.P4" rend="file" width="958" height="598">
+	<figTranscr>-tals<lb/>
+              Have written the secrets of wisdom<lb/>
+<lb/>
+              In whirlwinds of sulphurous smoke:<lb/>
+              And enormous forms of energy;<lb/>
+              All the seven deadly sins of the soul</figTranscr>
+<head>9. <hi rend="i">The Book of Urizen</hi> copy G, plate 4.</head>
+<figDesc>Collection of Robert N. Essick. © Copyright 2005, William Blake Archive. Used with
+permission.</figDesc>
+</figure>
+              <figure n="but313.1.1.cpd" id="but313.1.cprint.01" work-copy="cpd" rend="db" width="958" height="689">
+	<figTranscr/>
+	<head>10. Small <hi rend="i">Pity.</hi></head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+              <pb id="p41-56" n="56"/>
+              <figure n="s-los.b.p6" id="s-los.b.illbk.06" work-copy="s-los.b" rend="db" width="614" height="1000">
+	<figTranscr>8<lb/>
+                ASIA<lb/>
+                The Kings of Asia heard<lb/>
+                The howl rise up from Europe!<lb/>
+                And each ran out from his Web;<lb/>
+                From his ancient woven Den;<lb/>
+                For the darkness of Asia was startled<lb/>
+                At the thick-flaming, thought-creating fires of Orc.<lb/>
+<lb/>
+                And the Kings of Asia stood<lb/>
+                And cried in bitterness of soul.<lb/>
+<lb/>
+                Shall not the King call for Famine from the heath?<lb/>
+                Nor the Priest, for Pestilence from the fen?<lb/>
+                To restrain! to dismay! to thin!<lb/>
+                The inhabitants of mountain and plain;<lb/>
+                In the day of full-feeding prosperity;<lb/>
+                And the night of delicious songs.<lb/>
+<lb/>
+                Shall not the Councellor throw his curb<lb/>
+                Of Poverty on the laborious?<lb/>
+                To fix the price of labour;<lb/>
+                To invent allegoric riches:<lb/>
+<lb/>
+                And the privy admonishers of men<lb/>
+                Call for Fires in the City<lb/>
+                For heaps of smoking ruins,<lb/>
+                In the night of prosperity &amp; wantonness<lb/>
+<lb/>
+                To turn man from his path,<lb/>
+                To restrain the child from the womb,</figTranscr>
+<head>11. <hi rend="i">The Song of Los</hi> copy B, plate 6.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <figure n="s-los.b.p7" id="s-los.b.illbk.07" work-copy="s-los.b" rend="db" width="630" height="1000">
+	<figTranscr>10<lb/>
+                To cut off the bread from the city,<lb/>
+                That the remnant may learn to obey.<lb/>
+<lb/>
+                That the pride of the heart may fail;<lb/>
+                That the lust of the eyes may be quench’d:<lb/>
+                That the delicate ear in its infancy<lb/>
+                May be dull’d; and the nostrils clos’d up:<lb/>
+                To teach mortal worms the path<lb/>
+                That leads from the gates of the Grave.<lb/>
+<lb/>
+                Urizen heard them cry;<lb/>
+                And his shudd’ring waving wings<lb/>
+                Went enormous above the red flames<lb/>
+                Drawing clouds of despair thro’ the heavens<lb/>
+                Of Europe as he went:<lb/>
+                And his Books of brass iron &amp; gold<lb/>
+                Melted over the land as he flew,<lb/>
+                Heavy-waving, howling, weeping.<lb/>
+<lb/>
+                And he stood over Judea;<lb/>
+                And stay’d in his ancient place;<lb/>
+                And stretch’d his clouds over Jerusalem;<lb/>
+<lb/>
+                For Adam, a mouldering skeleton<lb/>
+                Lay bleach’d on the garden of Eden;<lb/>
+                And Noah as white as snow<lb/>
+                On the mountains of Ararat.<lb/>
+                Then the thunders of Urizen bellow’d aloud<lb/>
+                From his woven darkness above.<lb/>
+<lb/>
+                Orc raging in European darkness<lb/>
+                Arose like a pillar of fire above the Alps<lb/>
+                Like a serpent of fiery flame!<lb/>
+                The sullen Earth<lb/>
+                Shrunk!<lb/>
+                Forth from the dead dust rattling bones to bones<lb/>
+                Join: shaking convuls’d the shivring clay breathes<lb/>
+                And all flesh naked stands; Fathers and Friends;<lb/>
+                Mothers &amp; Infants; Kings &amp; Warriors;<lb/>
+<lb/>
+                The Grave shrieks with delight, &amp; shakes<lb/>
+                Her hollow womb, &amp; clasps the solid stem;<lb/>
+                Her bosom swells with wild desire;<lb/>
+                And milk &amp; blood &amp; glandous wine,<lb/>
+                In rivers rush &amp; shout &amp; dance,<lb/>
+                On mountain, dale and plain.<lb/>
+                The SONG of LOS is Ended.<lb/>
+                Urizen Wept.</figTranscr>
+<head>12. <hi rend="i">The Song of Los</hi> copy B, plate 7.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <figure n="s-los.b.p3" id="s-los.b.illbk.03" work-copy="s-los.b" rend="db" width="660" height="1000">
+	<figTranscr>4<lb/>
+<lb/>
+                AFRICA<lb/>
+<lb/>
+                I will sing you a song of Los, the Eternal Prophet:<lb/>
+                He sung it to four harps at the tables of Eternity.<lb/>
+                In heart-formed Africa.<lb/>
+                Urizen faded! Ariston shudderd!<lb/>
+                And thus the Song began<lb/>
+<lb/>
+                Adam stood in the garden of Eden:<lb/>
+                And Noah on the mountains of Ararat;<lb/>
+                They saw Urizen give his Laws to the Nations<lb/>
+                By the hands of the children of Los.<lb/>
+<lb/>
+                Adam shudderd! Noah faded! black grew the sunny<lb/>
+                African<lb/>
+                When Rintrah gave Abstract Philosophy to Brama in the East.<lb/>
+                (Night spoke to the Cloud!<lb/>
+                Lo these Human form’d spirits in smiling hipocrisy. War<lb/>
+                Against one another; so let them War on; slaves to the<lb/>
+                eternal Elements)<lb/>
+                Noah shrunk beneath the waters:<lb/>
+                Abram fled in fires from Chaldea;<lb/>
+                Moses beheld upon Mount Sinai forms of dark delusion;<lb/>
+<lb/>
+                To Trismegistus. Palamabron gave an abstract Law;<lb/>
+                To Pythagoras Socrates &amp; Plato.<lb/>
+<lb/>
+                Times rolled on o’er all the sons of Har, time after time<lb/>
+                Orc on Mount Atlas howld. chain’d down with the Chain of Jealousy<lb/>
+                Then Oothoon hoverd over Judah &amp; Jerusalem<lb/>
+                And Jesus heard her voice (a man of sorrows) he recievd<lb/>
+                A Gospel from wretched Theotormon.<lb/>
+<lb/>
+                The human race began to wither. for the healthy built<lb/>
+                Secluded places, fearing the joys of Love<lb/>
+                And the disease’d only propagated;<lb/>
+                So Antamon call’d up Leutha from her valleys of delight:<lb/>
+                And to Mahomet a loose Bible gave.<lb/>
+                But in the North, to Odin, Sotha gave a Code of War.<lb/>
+                Because of Diralada thinking to reclaim his joy.</figTranscr>
+<head>13. <hi rend="i">The Song of Los</hi> copy B, plate 3.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <figure n="s-los.b.p4" id="s-los.b.illbk.04" work-copy="s-los.b" rend="db" width="690" height="1000">
+	<figTranscr>6<lb/>
+<lb/>
+                These were the Churches: Hospitals: Castles; Palaces;<lb/>
+                Like nets &amp; gins &amp; traps to catch the joys of Eternity<lb/>
+                And all the rest a desart;<lb/>
+                Till like a dream Eternity was obliterated &amp; erased.<lb/>
+<lb/>
+                Since that dread day when Har and Heva fled.<lb/>
+                Because their brethren &amp; sisters liv’d in War &amp; Lust;<lb/>
+                And as they fled they shrunk<lb/>
+                Into two narrow doleful forms:<lb/>
+                Creeping in reptile flesh upon<lb/>
+                The bosom of the ground:<lb/>
+                And all the vast of Nature shrunk<lb/>
+                Before their shrunken eyes.<lb/>
+<lb/>
+                Thus the terrible race of Los &amp; Enitharmon gave<lb/>
+                Laws &amp; Religions to the sons of Har binding them more<lb/>
+                And more to Earth: closing and restraining:<lb/>
+                Till a Philosophy of Five Senses was complete<lb/>
+                Urizen wept &amp; gave it into the hands of Newton &amp; Locke<lb/>
+<lb/>
+                Clouds roll heavy upon the Alps round Rousseau &amp; Voltaire:<lb/>
+                And on the mountains of Lebanon round the deceased Gods<lb/>
+                Of Asia; &amp; on the desarts of Africa round the Fallen Angels<lb/>
+                The Guardian Prince of Albion burns in his nightly tent</figTranscr>
+<head>14. <hi rend="i">The Song of Los</hi> copy B, plate 4.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <pb id="p41-57" n="57"/>
+              <figure n="15.SL3.4.E.100" rend="file" width="900" height="720">
+	<figTranscr>AFRICA<lb/>
+<lb/>
+                I will sing you a song of Los, the Eternal Prophet:<lb/>
+                He sung it to four harps at the tables of Eternity.<lb/>
+                In heart-formed Africa.<lb/>
+                Urizen faded! Ariston shudderd!<lb/>
+                And thus the Song began<lb/>
+<lb/>
+                Adam stood in the garden of Eden:<lb/>
+                And Noah on the mountains of Ararat;<lb/>
+                They saw Urizen give his Laws to the Nations<lb/>
+                By the hands of the children of Los.<lb/>
+<lb/>
+                Adam shudderd! Noah faded! black grew the sunny<lb/>
+                African<lb/>
+                When Rintrah gave Abstract Philosophy to Brama in the East.<lb/>
+                (Night spoke to the Cloud!<lb/>
+                Lo these Human form’d spirits in smiling hipocrisy. War<lb/>
+                Against one another; so let them War on; slaves to the<lb/>
+                eternal Elements)<lb/>
+                Noah shrunk beneath the waters:<lb/>
+                Abram fled in fires from Chaldea;<lb/>
+                Moses beheld upon Mount Sinai forms of dark delusion;<lb/>
+<lb/>
+                To Trismegistus. Palamabron gave an abstract Law;<lb/>
+                To Pythagoras Socrates &amp; Plato.<lb/>
+<lb/>
+                Times rolled on o’er all the sons of Har, time after time<lb/>
+                Orc on Mount Atlas howld. chain’d down with the Chain of Jealousy<lb/>
+                Then Oothoon hoverd over Judah &amp; Jerusalem<lb/>
+                And Jesus heard her voice (a man of sorrows) he recievd<lb/>
+                A Gospel from wretched Theotormon.<lb/>
+<lb/>
+                The human race began to wither. for the healthy built<lb/>
+                Secluded places, fearing the joys of Love<lb/>
+                And the disease’d only propagated;<lb/>
+                So Antamon call’d up Leutha from her valleys of delight:<lb/>
+                And to Mahomet a loose Bible gave.<lb/>
+                But in the North, to Odin, Sotha gave a Code of War.<lb/>
+                Because of Diralada thinking to reclaim his joy.<lb/>
+<lb/>
+                These were the Churches: Hospitals: Castles; Palaces;<lb/>
+                Like nets &amp; gins &amp; traps to catch the joys of Eternity<lb/>
+                And all the rest a desart;<lb/>
+                Till like a dream Eternity was obliterated &amp; erased.<lb/>
+<lb/>
+                Since that dread day when Har and Heva fled.<lb/>
+                Because their brethren &amp; sisters liv’d in War &amp; Lust;<lb/>
+                And as they fled they shrunk<lb/>
+                Into two narrow doleful forms:<lb/>
+                Creeping in reptile flesh upon<lb/>
+                The bosom of the ground:<lb/>
+                And all the vast of Nature shrunk<lb/>
+                Before their shrunken eyes.<lb/>
+<lb/>
+                Thus the terrible race of Los &amp; Enitharmon gave<lb/>
+                Laws &amp; Religions to the sons of Har binding them more<lb/>
+                And more to Earth: closing and restraining:<lb/>
+                Till a Philosophy of Five Senses was complete<lb/>
+                Urizen wept &amp; gave it into the hands of Newton &amp; Locke<lb/>
+<lb/>
+                Clouds roll heavy upon the Alps round Rousseau &amp; Voltaire:<lb/>
+                And on the mountains of Lebanon round the deceased Gods<lb/>
+                Of Asia; &amp; on the desarts of Africa round the Fallen Angels<lb/>
+                The Guardian Prince of Albion burns in his nightly tent</figTranscr>
+<head>15. <hi rend="i">The Song of Los</hi>, digitally recreated design for plates 3-4, based on copy
+E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+the tall grasses in the trial proof for <hi rend="i">Pity</hi> (illus. 10), which I will refer to throughout
+this essay as small <hi rend="i">Pity</hi> and which, as we will see below, was executed before 
+<hi rend="i">The Song of Los.</hi>
+	<note id="n4">4. The masking is very difficult to detect, but the plate’s embossment is visible in the
+verso of the copy C impression, which reveals the plate’s true size as well as a 4-5 mm. dent in the
+plate’s edge (illus. e7), which would have been unsightly and distracting had it been printed as part of the
+heavily color-printed plate 5. The bottom of plate 2, however, was not color printed and thus could be printed
+without showing the dent. This is not the first time Blake masked top or bottom of a design. He had masked the
+bottom of <hi rend="i">America</hi> plate 4 in its first printings of 1793 so that the last five lines did not
+print (Bentley, <hi rend="i">Blake Books</hi> 87).</note></p>
+            <p>Erdman sees a virtual design formed of plates 6 (illus. 11) and 7 (illus. 12). He notes that
+plate 7 “seems to continue the forest of plate 6; the boughs that crowd the left margin—an unusual
+effect—can be the ends of those bent down in the right margin of 6” (<hi rend="i">Illuminated Blake</hi>
+180). Envisioning plate 7 to the right side of plate 6 actually corresponds to Blake’s design as originally
+executed. These two plates, which form the poem or section entitled “Asia,” are actually the left and
+right sides of one horizontal design, as are plates 3 (illus. 13) and 4 (illus. 14), which form the poem or
+section entitled “Africa.” The “Africa” design is 21.5 cm. left, 21.5 cm. right, 27.3 cm. top, 27.2
+cm. bottom; the “Asia” design is 22.2 cm. left, 22.2 cm. right, 27.2 cm. top, 27.4 cm. bottom. Instead of
+being recto/verso, as one would expect, the text plates are actually only half their original designs; as
+conceived and etched, “Africa” and “Asia” are autonomous designs clearly related to one another
+visually but not materially. I discovered these interesting material facts in 1991 and published them two
+years later 
+<pb id="p41-58" n="58"/>
+              <figure n="16.s-los.6.7.E.100" rend="file" width="900" height="767">
+	<figTranscr>ASIA<lb/>
+                The Kings of Asia heard<lb/>
+                The howl rise up from Europe!<lb/>
+                And each ran out from his Web;<lb/>
+                From his ancient woven Den;<lb/>
+                For the darkness of Asia was startled<lb/>
+                At the thick-flaming, thought-creating fires of Orc.<lb/>
+<lb/>
+                And the Kings of Asia stood<lb/>
+                And cried in bitterness of soul.<lb/>
+<lb/>
+                Shall not the King call for Famine from the heath?<lb/>
+                Nor the Priest, for Pestilence from the fen?<lb/>
+                To restrain! to dismay! to thin!<lb/>
+                The inhabitants of mountain and plain;<lb/>
+                In the day of full-feeding prosperity;<lb/>
+                And the night of delicious songs.<lb/>
+<lb/>
+                Shall not the Councellor throw his curb<lb/>
+                Of Poverty on the laborious?<lb/>
+                To fix the price of labour;<lb/>
+                To invent allegoric riches:<lb/>
+<lb/>
+                And the privy admonishers of men<lb/>
+                Call for Fires in the City<lb/>
+                For heaps of smoking ruins,<lb/>
+                In the night of prosperity &amp; wantonness<lb/>
+<lb/>
+                To turn man from his path,<lb/>
+                To restrain the child from the womb,<lb/>
+<lb/>
+                To cut off the bread from the city,<lb/>
+                That the remnant may learn to obey.<lb/>
+<lb/>
+                That the pride of the heart may fail;<lb/>
+                That the lust of the eyes may be quench’d:<lb/>
+                That the delicate ear in its infancy<lb/>
+                May be dull’d; and the nostrils clos’d up:<lb/>
+                To teach mortal worms the path<lb/>
+                That leads from the gates of the Grave.<lb/>
+<lb/>
+                Urizen heard them cry;<lb/>
+                And his shudd’ring waving wings<lb/>
+                Went enormous above the red flames<lb/>
+                Drawing clouds of despair thro’ the heavens<lb/>
+                Of Europe as he went:<lb/>
+                And his Books of brass iron &amp; gold<lb/>
+                Melted over the land as he flew,<lb/>
+                Heavy-waving, howling, weeping.<lb/>
+<lb/>
+                And he stood over Judea;<lb/>
+                And stay’d in his ancient place;<lb/>
+                And stretch’d his clouds over Jerusalem;<lb/>
+<lb/>
+                For Adam, a mouldering skeleton<lb/>
+                Lay bleach’d on the garden of Eden;<lb/>
+                And Noah as white as snow<lb/>
+                On the mountains of Ararat.<lb/>
+                Then the thunders of Urizen bellow’d aloud<lb/>
+                From his woven darkness above.<lb/>
+<lb/>
+                Orc raging in European darkness<lb/>
+                Arose like a pillar of fire above the Alps<lb/>
+                Like a serpent of fiery flame!<lb/>
+                The sullen Earth<lb/>
+                Shrunk!<lb/>
+                Forth from the dead dust rattling bones to bones<lb/>
+                Join: shaking convuls’d the shivring clay breathes<lb/>
+                And all flesh naked stands; Fathers and Friends;<lb/>
+                Mothers &amp; Infants; Kings &amp; Warriors;<lb/>
+<lb/>
+                The Grave shrieks with delight, &amp; shakes<lb/>
+                Her hollow womb, &amp; clasps the solid stem;<lb/>
+                Her bosom swells with wild desire;<lb/>
+                And milk &amp; blood &amp; glandous wine,<lb/>
+                In rivers rush &amp; shout &amp; dance,<lb/>
+                On mountain, dale and plain.<lb/>
+                The SONG of LOS is Ended.<lb/>
+                Urizen Wept.</figTranscr>
+<head>16. <hi rend="i">The Song of Los</hi>, digitally recreated design for plates 6-7, based on copy
+E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+(<hi rend="i">Blake and the Idea of the Book</hi> 287), and Detlef Dörrbecker, in his 1995 edition of the
+poem, was the first to arrange black and white photographs of the conjunct pages to give an idea of what the
+original relief-etched plates looked like (320n29, 345-46). The digital recreations here (illus. 15, 16),
+however, are the first reproductions to join the plates seamlessly and present them color printed in their
+entirety.<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref>
+	<note id="n5">5. Why not etch both sides of plates 3-4 and 6-7, or cut the plates in half instead of masking?
+Putting the two text plates on separate plates freed the versos for <hi rend="i">Pity</hi>-size color prints.
+Masking instead of cutting the plates kept the versos intact should Blake ever want to use them for
+designs.</note></p>
+            <p>Blake initially divided his text into two columns, but very unlike the columns in 
+<hi rend="i">Urizen</hi>, these being very loosely placed across a horizontal—or “landscape”—format, a
+format used for paintings and prints but not the text of books. By masking one side of the design, probably
+with a sheet of paper, he was able to print each text column separately. Hence, he transformed a coherent
+design 27.2 cm. wide into two seemingly independent designs/pages approximately 13.6 cm. wide, which is nearly
+4 cm. narrower than the four illustration pages. He produced <hi rend="i">The Song of Los</hi> using just four
+plates, but two are portrait format and executed recto/verso and two are landscape format and apparently
+executed using one side only. Why create pages in oblong folio format, with double columns, so visually
+different from the pages of <hi rend="i">America</hi> and <hi rend="i">Europe</hi>? Why print the columns of
+text separately after composing and etching them as part of the same design?</p>
+            <pb id="p41-59" n="59"/>
+            <p>Given the two distinct sets of plates, <hi rend="i">The Song of Los</hi> appears to have
+emerged from two distinct stages of production, with the text plates coming first. This sequence seems the
+most likely, because if Blake had the two portrait plates on hand, intending to use them for the designs of
+his new book, then he would have acquired plates for texts to match. If, along with the portrait plates, he
+also had the 27.2 cm. plates on hand, then he probably would have cut them approximately 17.5 cm. wide and
+etched both sides to create four text plates to match the width of his illustrations, thereby producing a book
+of eight pages much nearer in size and shape to <hi rend="i">America</hi> and <hi rend="i">Europe.</hi> It
+seems reasonable to assume, then, that the two portrait plates were not yet on hand, that the two 27.2 cm.
+wide plates were acquired first, and that the text plates preceded the illustrations. (As we shall see, the
+shared width of these plates is not a coincidence; at least four other plates from 1795 share the exact
+measurement of 27.2 cm., including the sheets that yielded the plates for <hi rend="i">The Book of Los</hi>
+and <hi rend="i">The Book of Ahania.</hi>) Moreover, from this perspective, Blake appears to have set out to
+fuse poetry, painting, and printmaking in ways even more radical than the illuminated books. “Africa” and
+“Asia,” as originally executed, function autonomously as painted poems or written paintings, with text
+superimposed on a landscape design. Each design could have been matted, framed, viewed, and read like a
+separate color print or painting. They do not, however, function as book pages.</p>
+            <p>Blake created relief etching as a way to work as a printmaker with the tools of the poet and
+painter, that is to say, with pens, brushes, liquid ink, and colors, rather than the burins and needles
+conventionally required of metal. Blake worked <hi rend="i">on</hi> rather than <hi rend="i">in</hi> the metal
+surface, as though it were paper, with tools that enabled him to work outside the conventions and codes of
+printmaking and indulge his love of drawing and writing. His new medium encouraged the autographic gesture,
+the calligraphic hand of the poet with the line and
+                            <figure n="17.SL3-4_6-7.E.100" rend="file" width="958" height="455">
+	<figTranscr>AFRICA<lb/>
+                            ASIA</figTranscr>
+<head>17. <hi rend="i">The Song of Los</hi>, digitally recreated design for plates 3-4 and 6-7 as pages
+stitched together to form a diptych, based on copy E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+brushwork of the painter. As he says in his prospectus (1793), his is a “method of Printing which combines
+the Painter and the Poet,” but he notes also that it is a “method of Printing both Letter-press and
+Engraving” (Erdman, <hi rend="i">Complete Poetry</hi> 692), by which he means printing text and illustration
+in the service of book production. Between 1789 and 1794, Blake printed illuminated plates as book pages; in
+his later style, beginning with the color-printed designs of 1794, he printed the plates more like miniature
+paintings. But whether he printed them as poems or elaborately colored them as miniatures, Blake designed
+illuminated plates with reference to the codex form and in portrait format.</p>
+            <p>Blake did not, however, design “Africa” and “Asia” as book pages; he transformed them
+into book pages through a trick of printing. Horizontal formats were commonly used for print series,
+particularly aquatints of picturesque views, but also for works like George Cumberland’s 
+<hi rend="i">Thoughts on Outline</hi>, eight of whose illustrations Blake engraved in late 1795 and 1796. But, as
+mentioned, horizontal formats were not used for texts of books, nor does any book in oblong folio before 1795
+with pages in double columns come readily to mind. Even stitched together to form a long open diptych (illus.
+17), the two designs seem less like facing pages in a book than a long panel, pair of broadsides, or a
+horizontal scroll. Perhaps Blake used a non-Western book format to evoke Africa and Asia. For example, the
+Chinese horizontal scroll, usually on silk or paper, fuses calligraphy and painted image. It reads right to
+left, starting with the title panel, which names the work, and has a colophon panel, at the end of the scroll
+or juxtaposed over the image, which contains the poem or notes pertaining to the work. Blake titles his poems
+“Africa” and “Asia” and thus does not need a title page, which is a book convention. If he meant the
+poems to be read as parts of one work entitled “The Song of Los,” then that too is effected without a
+title page. “Africa” begins with “I will sing you a song of Los, the Eternal
+<pb id="p41-60" n="60"/>
+              <figure n="19.sl.3-4.6-7.B.100" rend="file" width="958" height="427">
+	<figTranscr>AFRICA<lb/>
+                ASIA</figTranscr>
+<head>19. <hi rend="i">The Song of Los</hi>, digitally recreated design for plates 3-4 and 6-7 as horizontal
+scroll or two-part broadside, based on copy E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+Prophet,” and “Asia” ends with “The Song of Los is Ended. / Urizen Wept.” Moreover, if treating the
+poems as autonomous designs or parts of the same panel or scroll, Blake could have signed and dated the work
+in pen and ink on its surface as he did paintings and color-printed drawings (usually with “WB inv.” in
+monogram, with a date; illus. e18). Thus, these works did not need a title page for date and author.</p>
+            <p>Perhaps the two designs were meant to be joined and printed on one sheet to form a panorama, a
+format the landscape painters Paul Sandby and Francis Towne were experimenting with in the 1780s and 1790s,
+or, as noted, to suggest an ancient scroll, the predecessor of the printed codex, and thus a fitting medium
+for the Eternal Prophet. Indeed, “in the context of Romantic textual ideology,” according to Mitchell,
+“the scroll is the emblem of ancient revealed wisdom, imagination, and the cultural economy of hand-crafted,
+individually expressive artifacts” (65). For Blake, “the scroll represents writing as 
+<hi rend="i">prophecy</hi>: it is associated with youthful figures of energy, imagination, and rebellion” (65).
+Printed together on one sheet of paper the designs form a long, narrow, perpetually open composition
+approximately 22.5 × 54.5 cm., which is half the size of most of the color-printed drawings; if given a
+centimeter between and around the images (illus. 19), the resulting two-part panel would be approximately half
+the size of <hi rend="i">Newton</hi> (46 × 60 cm.) or <hi rend="i">Good and Evil Angels</hi> (44.5 × 59.4
+cm.), among the largest of the color-printed drawings. As originally designed, however, the two poems
+continuing Blake’s continental myth do not resemble the previous installments in size, shape, number, or
+structure. <hi rend="i">America</hi> with 18 plates and <hi rend="i">Europe</hi> with 17 plates are matched in
+size, shape, and structure: both begin with frontispiece, title page, two-page preludium 
+(<hi rend="i">Europe</hi>’s plate 3 is a late addition, though one that gave <hi rend="i">Europe</hi> 18 pages),
+a heading of “A Prophecy,” and “finis” as the last word. The titles of <hi rend="i">The Song of
+Los</hi> sections clearly connect the poems/panels to the earlier works, but the horizontal format marks a
+break with them as well. The full visual extent of that break was not realized; instead, Blake executed four
+illustration pages exactly the size of <hi rend="i">America</hi> and <hi rend="i">Europe</hi> and printed each
+of the four text columns separately. The resulting eight pages of <hi rend="i">The Song of Los</hi> are
+frontispiece, title page, “Africa,” full-page design, “Asia,” end-piece; headings of “A Prophecy”
+or endings of “finis” are not present. As reconstructed, <hi rend="i">The Song of Los</hi> is unevenly
+shaped and oddly structured, being two poems in one book to form a quartet of continental works within a
+trilogy of artifacts.</p>
+            <p>Proofs of the text plates in their original condition, or “first state,” are not extant,
+which may suggest that Blake abandoned his experiment in rethinking text and image soon after completing the
+text plates. This, however, cannot be proven, since other plates are also without proofs. But it does seem
+reasonable to suggest that Blake reconstructed the text plates to salvage an experiment about which he had
+changed his mind. We can sequence and speculate upon the stages in the production of <hi rend="i">The Song of
+Los</hi>, but can we sequence those stages within the year’s worth of productions and discover the relation
+of the books to one another and to the color-printed drawings? These are the main questions I try to answer in
+the following five sections.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">II. The Large Color Prints</hi>
+              </title>
+            </head>
+            <p>The large color prints are, “as a group, the first really mature individual works in the
+visual arts that Blake created. Moreover they are, as a group, probably the most accomplished,
+<pb id="p41-61" n="61"/>
+forceful, and effective of Blake’s works in the visual arts” (Butlin, “Physicality” 2). Technically,
+they are monotypes, which are in effect printed paintings. Frederick Tatham described the process to Gilchrist
+accurately enough, stating that when Blake
+<q>
+wanted to make his prints in oil . . . [he] took a common thick millboard, and drew in some strong ink or
+colour his design upon it strong and thick. He then painted upon that in such oil colours and in such a state
+of fusion that they would blur well. He painted roughly and quickly, so that no colour would have time to dry.
+He then took a print of that on paper, and this impression he coloured up in water-colours, re-painting his
+outline on the millboard when he wanted to take another print. This plan he had recourse to, because he could
+vary slightly each impression; and each having a sort of accidental look, he could branch out so as to make
+each one different. The accidental look they had was very enticing. (Gilchrist 1: 376)
+</q>
+To W. M. Rossetti, Tatham added that the printing was done
+<q>
+in a loose press from an outline sketched on paste-board; the oil colour was blotted on, which gave the sort
+of impression you will get by taking the impression of anything <hi rend="i">wet.</hi> There was a look of
+accident about this mode which he afterwards availed of, and tinted so as to bring out and favour what was
+there rather blurred. (Rossetti 16-17)
+</q>
+Tatham is mistaken about the medium, which was gum and glue-based colors and not oil-based inks or colors, as
+are commonly used today for monotypes, and Blake would not have had to work too quickly or worry too much if
+his colors dried to the touch on the support, because he almost certainly printed on dampened paper, whose
+moisture would have reconstituted the colors.<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref> The colors, though, he applied “strong and thick” to create a unique spongy opaque
+paint film, but also to enable a second and sometimes a third impression to be pulled from the millboard
+without having to replenish the colors. Generally speaking, depending on the paper’s dampness and thickness
+and the amount of printing pressure, the colors are strongest in first impressions and less intense in
+subsequent pulls. The presence of lighter outline and colors in second impressions is proof that outline and
+colors were both printed together for the first impressions as well, even for the one color-printed drawing
+with a relief-etched outline, as will be demonstrated in illustrations below. Tatham is correct, then, to
+assume that Blake “drew . . . his design . . . [and] then painted upon that . . . [and] then took a print of
+that on paper,” as opposed to printing outline (“design”) and colors separately.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> He is also correct that Blake “tinted” the impressions
+“to bring out and favour what was there rather blurred.” As with his color-printed illuminated book
+impressions, Blake finished the large color-printed drawings in watercolors and pen and ink, clarifying forms
+in the blots and blurs. Translucent and transparent washes over mottled colors could also transform printed
+colors, making more colors appear to have been printed than actually were. Given that the method is primarily
+painting on a flat support and pressing that painting into paper, differences among impressions were
+inevitable if not also intentional, hence the oxymoronic term of monoprint, a print that is unique rather than
+exactly repeatable. <note id="n6">6. Blake used damp paper to print both intaglio plates—which is standard
+practice—as well as his relief etchings (Viscomi, <hi rend="i">Blake and the Idea of the Book</hi> 99-100).
+The facsimile of <hi rend="i">Albion rose</hi> and the color prints (illus. 18, 19, 21) in Essick and Viscomi,
+“Blake’s Method,” were printed on damp paper after the colors had dried. McManus and Townsend come to
+the same conclusion: “The paper was not prepared with any priming, but would have been wetted to make it
+more receptive to printing” (83; see also Ormsby and Townsend 44). For analyses of Blake’s colors in the
+large color prints, see McManus and Townsend 86-99, and Townsend 186.</note>
+	<note id="n7">
+                                7. To print outline and colors separately calls for printing the plate twice.
+For Blake, this would have required printing the outline onto a sheet of paper, somehow fastening the paper in
+place on the press bed, marking the position of the plate, removing the plate to apply its colors, returning
+the plate <hi rend="i">exactly</hi> to its position (a hair-width variance at top or sides will reveal
+itself), and dropping the paper over the plate exactly where it was. Because the shape of the dampened paper
+is slightly altered by its first pass through the press, perfect (i.e., undetectable) registration is near
+impossible under the best of conditions. Evidence of a plate’s having been printed twice by hand is nearly
+always visible if you know where to look; the absence of such evidence signifies single-pull printing and is
+not evidence of Blake’s genius for hiding his hand in color printing. If outline and colors of lighter
+second impressions were printed separately, then both first and second impressions underwent a procedure that
+doubled the likelihood of misregistration. The first impression, instead of being fastened to the press, is
+removed so a second impression can be printed, thus the sheet of paper as well as the plate with colors must
+be aligned exactly, top and sides, to their marked positions, greatly increasing the chances of misalignment.
+No one explicitly argues for this mechanical and labor-intensive procedure for second impressions, which is
+wise, since no second impression among the large color-printed drawings or the <hi rend="i">Large</hi> and 
+<hi rend="i">Small Book of Designs</hi> (see section V of this essay) shows any misalignment of color and outline.
+Yet such a procedure is implied because it is the inevitable and logical result of printing outline and colors
+separately. Hence, the premise of two pulls collapses when tested this far in practice, which in turn supports
+the one-pull hypothesis for both second and first impressions.
+                                <p>For the fullest presentation of the hypothesis that Blake color printed his
+outline (which includes text when it is part of the relief-line system) and colors (which could be printed
+from relief lines and/or shallows) separately, registering the second pull on top of the first exactly,
+consistently, and without traces of this production method, see Phillips’ <hi rend="i">William Blake</hi>
+and “Correction” and Butlin’s “War.” For a refutation, see Essick and Viscomi’s “Inquiry” and
+“Blake’s Method.”</p></note></p>
+            <p>To use millboard to print colors requires at least minimal sealing of its porous surface. Blake
+could have done this with a coating of glue size or gesso, which is chalk or whiting mixed with size and
+painted over panels or canvas to produce a very white ground. Smith, Tatham, and Linnell mention Blake’s
+using this mixture to prepare his tempera paintings. According to Smith, “his ground was a mixture of
+whiting and carpenter’s glue, which he passed over several times in thin coatings” (Bentley, 
+<hi rend="i">Blake Records</hi> 622). In his manuscript on the life of Blake, Tatham says “3 or 4 layers of
+whitening &amp;
+<pb id="p41-62" n="62"/>
+              <figure n="20.striations.demo.100" rend="file" width="716" height="800">
+	<head>20. Paint printed from a gessoed millboard, detail.</head>
+</figure>
+<figure n="21.hectate.striations.det.but318.100" rend="file" width="900" height="863">
+	<head>21. <hi rend="i">The Night of Enitharmon’s Joy</hi>, detail.</head>
+<figDesc>This item is reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+carpenters Glue” were used (Bentley, <hi rend="i">Blake Records</hi> 671). Linnell told Gilchrist that it
+was a “plaster ground (literally glue and whiting); but he always called it either fresco, gesso, or
+plaster. And he certainly laid this ground on too much like plaster on a wall” (1: 368). One can sand gesso
+smooth or leave the striations created by brushing it on for a rougher feel for brushes. Colors printed from
+such a textured ground will replicate that texture if they are thin or pressed hard enough, or hide it if they
+are thick or opaque enough. The sample of three color strips (illus. 20) demonstrates this: at the top of the
+image, the first and second strips (red and yellow ochre) reveal the same striations, indicating that this
+texture is from the millboard and not the paint layers; the opacity of the third strip (green) hides most of
+that texture. At the bottom of the strips, the gesso was applied with a stump brush rather than brushed on,
+and its textures are also revealed in the printed colors.</p>
+            <p>The striations in the surfaces of <hi rend="i">The Night of Enitharmon’s Joy</hi> (illus. 21)
+and <hi rend="i">Christ Appearing to the Apostles</hi> (illus. 22) suggest that Blake painted his large
+color-printed drawings on gessoed grounds. Butlin notices “a striated” effect in <hi rend="i">Pity</hi>,
+as well as in impressions of <hi rend="i">Newton</hi> and <hi rend="i">Nebuchadnezzar</hi> (cat. 311, 307,
+302), but believes it may have been “produced by only partial adherence” of paint to paper “as if the
+paper were slightly oily” (“Physicality” 17). The striations, though, appear not to have been created by
+the paint layer, but by the textured surface of the millboard, because the same striated patterns are visible
+across different printed colors, as is clear
+<pb id="p41-63" n="63"/>
+<figure n="22.striations.christ.enh.326.100" rend="file" width="900" height="772">
+	<head>22. <hi rend="i">Christ Appearing to the Apostles</hi>, detail.</head>
+<figDesc>Yale Center for British Art, Yale Art Gallery Collection.</figDesc>
+</figure>
+in the Metropolitan Museum’s copy of <hi rend="i">Pity</hi> (illus. 23).<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref> Gesso is used in fresco painting, and if Blake “always
+called” his “plaster ground” “fresco, gesso, or plaster,” as Linnell states, then Blake’s writing
+“Fresco” on five of his large color prints in an “Indian-type ink” (McManus and Townsend 82) is
+fitting.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref>
+	<note id="n8">8. The large digital images of the color-printed drawings in the William Blake Archive have
+enabled us to examine details heretofore impossible to see in print reproductions and not always visible in
+the originals to the naked eye.</note>
+	<note id="n9">9. According to J. T. Smith, “Blake’s modes of preparing his ground, and laying them over
+his panels for painting, mixing his colours, and manner of working, were those which he considered to have
+been practised by the earliest fresco-painters . . .” (Bentley, <hi rend="i">Blake Records</hi> 622).
+Apparently, this was, to Blake, true of both the color-printed drawings as well as the temperas. For an
+insightful examination of the meaning Blake attached to the word “fresco” in theory and practice, see
+Hamlyn 20-27, 30-33.</note></p>
+            <p>But whether he used glue size or gesso, or thought of the millboard surface as canvas or panel
+or plaster wall, he needed an outline to know what to paint. Chalk or charcoal serves this purpose in oil
+painting, but lines made with either medium could be ruined in color printing and thus make returning to the
+design years later (as we know Blake did, around 1805) impossible (Butlin, “Newly Discovered Watermark”
+101). He could have perhaps relied on the thin dried colors on the millboard, but it is more likely that he
+had an impervious outline to guide his hand. Some X-radiographs reveal traces of a lead-based paint, which may
+have been used for outlining, while others show no traces of lead, supporting the idea that the outline was
+executed in an ordinary water-based “Indian ink,” which is lead-free and thus not detectable (McManus and
+Townsend 87). Indeed, the “Indian ink” used to sign color
+                            <figure n="23.pity.met.striations.100" rend="file" width="958" height="799">
+	<head>23. <hi rend="i">Pity</hi>, detail.</head>
+<figDesc>Metropolitan Museum of Art, gift of Mrs. Robert W. Goelet, 1958 (58.603). Photograph © copyright
+1979, Metropolitan Museum of Art.</figDesc>
+</figure>
+prints works for the purpose, because when dry it is not disturbed by the wet black paint and colors laid over
+it or by printing (Essick and Viscomi, “Blake’s Method” 62). With a fixed outline, Blake could, as
+Tatham says, return to the design “when he wanted to take another print,” presumably years later, by
+“re-painting his outline on the millboard,” painting in the forms, and printing “that on paper.”</p>
+            <p>What Tatham describes is planographic printing, that is, printing outline and colors not only
+together but also from the same <hi rend="i">flat</hi> surface, with outlines neither raised—as in woodcuts
+or relief etching—nor incised—as in etchings and engravings.<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref> Blake had tried his hand at planographic printing before 1795, possibly as
+early as 1789, in a print entitled <hi rend="i">Charity.</hi> Identified as a “planographic transfer
+print” (Essick, <hi rend="i">Separate Plates</hi> 10), the image was first painted on a sheet of paper or
+millboard and transferred to the paper while the ink was wet. Counterproofing (placing face down) newly
+printed impressions—regardless of matrix—works the same way, wet ink transferred from a flat surface to
+paper, reproducing all marks and forms, albeit in reverse. Blake did not, however,
+<pb id="p41-64" n="64"/>
+systematically experiment with printing <hi rend="i">painted images</hi> until he color printed the etching
+<hi rend="i">Albion rose</hi>, which, as I argue below, was in 1795 and not 1794, as is supposed (Butlin,
+“Physicality” 3; Bindman 476), and which was executed with small <hi rend="i">Pity</hi> (illus. 10), the
+trial proof for the large color print. Until then, Blake had color printed only illuminated books with
+relief-etched plates. He inked outlines with dabbers and on and in small areas added colors, probably with
+stump brushes (brushes with the tips cut off) or <hi rend="i">poupées</hi> (tightly rolled felt), to small,
+well-defined forms. This is, as I have demonstrated elsewhere, a variation on <hi rend="i">à la poupée</hi>
+printing, in which an intaglio plate is inked in numerous colors (<hi rend="i">Blake and the Idea of the
+Book</hi>, chapter 13). It differs from conventional color printing, however, in that Blake put colors in
+spaces meant to be white and negative spaces defining forms, whereas in conventional color printing colors are
+applied to the lines of the design itself and not surfaces or white spaces. Adding colors to shallows and
+printing them with inked outline is radical,
+              <figure n="but294.1.1.cpd" id="but294.1.cprint.01" work-copy="cpd" rend="db" width="958" height="796">
+	<figTranscr>inv<lb/>
+                WB 1795</figTranscr>
+<head>24. <hi rend="i">God Judging Adam.</hi></head>
+<figDesc>© Copyright Tate, London 2006.</figDesc>
+</figure>
+but, in terms of performance, it is still more printing than painting. The result is indeed a monotype, in
+that the prints are never exactly repeatable, but Blake is still thinking—given the medium, size, and
+tools—more like a printmaker coloring plates than a painter working broadly with brushes on a large, flat
+surface, blocking out forms by colors as well as line. <note id="n10">10. Printing <hi rend="i">exactly
+repeatable</hi> images planographically is, of course, lithography, invented accidentally in 1798 by Alois
+Senefelder and initially called “polyautography” to suggest the autographic gestures of writing, drawing,
+and sketching. Senefelder intended initially to etch designs in low relief on metal or limestone and only
+accidentally discovered that designs drawn on soft limestone in a greasy ink absorb the printing ink while all
+untouched areas repel ink if first covered with a thin film of water. The basis of lithography, in other
+words, is the separation of water and oil. For more on Senefelder and lithography’s similarities to
+Blake’s relief etching, see Viscomi, <hi rend="i">Blake and the Idea of the Book</hi> 24-25, 171-72; for
+information on Blake’s lithograph, <hi rend="i">Enoch</hi>, see Essick, <hi rend="i">Separate Plates</hi>
+55-59.</note></p>
+            <p>At least one of the 12 large color-printed drawings, however, was not printed planographically.
+<hi rend="i">God Judging Adam</hi> (illus. 24) has traces of an embossed outline, indicating that the support
+was metal, probably copper, and that the outline was etched in low relief; it also has a platemaker’s mark
+(illus. e25), indicating that it was printed from the sheet’s verso. For the only color-printed drawing
+known for sure to have been relief etched to be on a sheet’s verso suggests that Blake was probably unsure
+of himself, continuing the experiments started with the small trial proof for <hi rend="i">Pity</hi>, which
+was also etched in low relief (see below), and intending to preserve the recto, the side normally used for
+engravings and etchings, should the experiment not work out.
+<pb id="p41-65" n="65"/>
+	<hi rend="i">God Judging Adam</hi> is 43.2 × 53.5 cm. Because it is the only impression certainly to have
+come from a metal plate—and metal is much more expensive than millboard—Essick believes it was most likely
+the first of the large color-printed drawings executed (“Supplement” 139).<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref> This is probably so, as will be shown below, but its place
+in the sequence is suggested by its technical connections to earlier experiments in color printing and not by
+its support, for two other designs may also have been printed from metal. Though printed planographically, 
+<hi rend="i">Satan Exulting over Eve</hi>, at 43.2 × 53.4 cm., and <hi rend="i">elohim Creating Adam</hi>, at
+43.1 × 53.6 cm., are the same size as <hi rend="i">God Judging Adam</hi>, raising the possibilities that one
+of these designs is on its recto and the other on a copper sheet acquired at the same time.<supplied
+type="spacer"> </supplied><ref target="n12" type="note">12</ref> If either <hi rend="i">Satan</hi> or 
+<hi rend="i">Elohim</hi> was printed from a copper matrix, then Blake not only used metal before millboard, but he
+also printed planographically from metal before millboard. <note id="n11">11. Today, an 18 × 24 in. sheet of
+copper (16 gauge) for etching costs almost $100; millboard nearly twice that size is less than $5.</note>
+	<note id="n12">12. These measurements are from Butlin’s catalogue raisonné; I did not have the opportunity
+to measure each side of the impressions, which I assume would vary slightly.</note></p>
+            <p>The detail of the horses’ heads in the first impression of <hi rend="i">God Judging Adam</hi>
+(illus. 26) reveals clearly that Blake applied a black paint to the low relief outline and shallows
+simultaneously and then added a brownish red to the shallows forming the neck and shoulder and a bright red to
+the manes. These steps in the painting process are even clearer in the second impression (illus. 27), which
+is, as noted, proof that both outline and colors were printed simultaneously here as well as in the first
+impression (see note 7). He probably applied the black with a small dabber, as in the illuminated plates,
+touching down in the shallows but not depositing color along the base of the relief lines, which produces a
+thin unpainted line on both sides of the outline. A yellow wash applied over the colors on the second
+impression is very bright in this line because it adheres to the untouched white of the paper. This halo-like
+line is evidence of a relief outline as well as of outline and colors’ having been printed together, as is
+demonstrated by an impression printed in one pull from a design etched in low relief, inked with a dabber in
+black, and painted in brownish red (illus. 28a). Had outline and colors been printed separately, the fine
+white line could not parallel the outline exactly, even with perfect registration, because the paper’s shape
+and dampness are slightly altered by its being pulled through the press, which is particularly noticeable in
+large sheets. Even when paint is deposited with a brush along the base of a relief line, paper is unlikely to
+pick the color up as it bends over the relief line onto the shallow, unless the paint is very thick. On 
+<corr type="emend">plate 7 of <hi rend="i">The Song of Los</hi> copy E,</corr> for example, Blake most likely used a
+brush to apply color to the tendrils dividing the verses, depositing paint on both sides of the relief line
+(illus. 28b), which, when printed, produced the telltale white lines and two tendril-like lines that printed
+from the shallows. Had Blake deposited color on one side of the outline only, the tendril-like
+                            <figure n="26.god.tate.horses.det.100" rend="file" width="885" height="1000">
+	<head>26. <hi rend="i">God Judging Adam</hi>, detail of horses’ heads.</head>
+<figDesc>© Copyright Tate, London 2006.</figDesc>
+</figure>
+              <figure n="27.god.met.horses.det.100" rend="file" width="893" height="1000">
+	<head>27. <hi rend="i">God Judging Adam</hi>, detail of horses’ heads.</head>
+<figDesc>Metropolitan Museum of Art, Rogers Fund, 1916 (16.38). Photograph © copyright 2000, Metropolitan
+Museum of Art.</figDesc>
+</figure>
+<pb id="p41-66" n="66"/>
+              <figure n="28.whiteline.demo.100" rend="file" width="958" height="276">
+	<head>28a. Design etched in low relief, inked with dabber in black and gone over in brownish-red color,
+printed in one pull producing thin white line at base of relief lines, detail.</head>
+</figure>
+              <figure n="28b.sl.E.7.100" rend="file" width="958" height="349">
+              	<figTranscr>That the delicate ear in its infancy<lb/>
+                May be dull’d; and the nostrils clos’d up.<lb/>
+                To teach mortal worms the path<lb/>
+                That leads from the gates of the Grave.<lb/>
+<lb/>
+                Urizen heard them cry;<lb/>
+                And his shudd’ring waving wings<lb/>
+                Went enormous above the red flames<lb/>
+                Drawing clouds of despair thro’ the heavens<lb/>
+                Of Europe as he went:<lb/>
+                And his Books of brass iron &amp; gold<lb/>
+</figTranscr>
+                <head>28b. <hi rend="i">The Song of Los</hi> <corr type="emend">copy E, plate 7,</corr>
+detail.</head>
+                <figDesc><corr type="emend">Huntington Library, San Marino, California.</corr></figDesc>
+              </figure>
+line would appear as the result of a misregistered second pull, an easy misreading of the material
+evidence.</p>
+            <p>As noted, Blake did not need or intend to print outlines separately, not in illuminated books
+or color-printed drawings. In the latter, he only needed <hi rend="i">fixed</hi> guidelines for painting and
+for ensuring that the design, however it was colored in and/or finished, was repeatable. But when and how did
+Blake realize that if he “drew. . .his design. . . [and] then painted upon that” he could take “a print
+of that on paper,” that outline and colors could be on the same surface and he could paint over the outline
+with a brush rather than use a dabber? When did he realize that he was no longer painting a print but printing
+a painting? To answer these questions requires knowing where <hi rend="i">God Judging Adam</hi> fits into this
+evolution and how it connects to <hi rend="i">Albion rose</hi> and the small trial proof of 
+<hi rend="i">Pity</hi>, which have a heretofore unknown connection to Blake’s intaglio books of 1795.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">III. <hi rend="i">The Book of Los, The Book of Ahania</hi></hi>
+              </title>
+            </head>
+            <p>Three color-printed drawings, <hi rend="i">God, Satan</hi>, and <hi rend="i">Elohim</hi>,
+possibly all from metal and the first executed, are approximately 43.2 × 53.5 cm. This is a large but
+apparently not uncommon sheet size. Blake’s engraving of <hi rend="i">Beggar’s Opera Act III</hi> (1788)
+is 40.1 × 54.2 cm.; <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> engravings of 1793 and 1794 are 46 ×
+54 cm. and 46.4 × 54 cm. respectively; the plates for Stedman’s <hi rend="i">Narrative</hi>, 16 executed by
+Blake between 1792-94, average 27 × 20 cm., which suggests that they were quarters of a 40 × 54 cm. sheet of
+copper.<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref> The larger widths, up to
+<pb id="p41-67" n="67"/>
+              <figure n="29.SL3-4_over_SL6-7_final.100" rend="file" width="675" height="1000">
+	<figTranscr>AFRICA<lb/>
+                ASIA</figTranscr>
+<head>29. <hi rend="i">The Song of Los</hi> plates 3-4 and 6-7 as half sheet, based on copy E.</head>
+<figDesc>These items are reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+60 cm. for <hi rend="i">Newton, Lamech, House of Death</hi>, and <hi rend="i">Nebuchadnezzar</hi>, are
+presumably from millboards and likely come later in the series. Recall that the two <hi rend="i">The Song of
+Los</hi> text plates share the same width, 27.2 cm., though they vary in height by about 8 mm. If joined at
+their shared measurement of 27.2 cm., then they formed a sheet of copper approximately 43.5 × 27.2 cm.
+(illus. 29), which is half the size of these large metal sheets. The full sheet would have been 43.5 × 54.4
+cm. That two plates are 27.2 cm. wide is unlikely to be a coincidence. The shared measurement strongly
+suggests that the plates are quarters of a sheet the size of those used for the first color-printed drawings.
+But if so, what were the other two quarters? I initially suspected the quarters were the sheets that yielded
+the plates for <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi>, not because they
+are also 1795 productions, but because both sheets
+              <pb id="p41-68" n="68"/>
+<figure n="30.BL_quarter_with_margins.100" rend="file" width="958" height="716">
+	<figTranscr>THE<lb/>
+                BOOK of<lb/>
+                LOS<lb/>
+<lb/>
+                LAMBETH<lb/>
+                Printed by W Blake 1795<lb/>
+<lb/>
+                LOS<lb/>
+<lb/>
+                Chap. I<lb/>
+<lb/>
+                1: Eno aged Mother.<lb/>
+                Who the chariot of Leutha guides.<lb/>
+                Since the day of thunders in old time<lb/>
+<lb/>
+                2: Sitting beneath the eternal Oak<lb/>
+                Trembled and shook the stedfast Earth<lb/>
+                And thus her speech broke forth.<lb/>
+<lb/>
+                3: O Times remote!<lb/>
+                When Love &amp; Joy were adoration:<lb/>
+                And none impure were deem’d.<lb/>
+                Not Eyeless Covet<lb/>
+                Nor Thin-lip’d Envy<lb/>
+                Nor Bristled Wrath<lb/>
+                Nor Curled Wantonness<lb/>
+<lb/>
+                4: But Covet was poured full:<lb/>
+                Envy fed with fat of lambs:<lb/>
+                Wrath with lions gore:<lb/>
+                Wantonness lulld to sleep<lb/>
+                With the virgins lute.<lb/>
+                Or sated with her love.<lb/>
+<lb/>
+                5: Till Covet broke his locks &amp; bars.<lb/>
+                And slept with open doors:<lb/>
+                Envy sung at the rich mans feast:<lb/>
+                Wrath was follow’d up and down<lb/>
+                By a little ewe lamb<lb/>
+<lb/>
+                And Wantonness on his own true love<lb/>
+                Begot a giant race:<lb/>
+<lb/>
+                6: Raging furious the flames of desire<lb/>
+                Ran thro’ heaven &amp; earth, living flames<lb/>
+                Intelligent, organizd; arm’d<lb/>
+                With destruction &amp; plagues. In the midst<lb/>
+                The Eternal Prophet bound in a chain<lb/>
+                Compell’d to watch Urizens shadow<lb/>
+<lb/>
+                7: Rag’d with curses &amp; sparkles of fury<lb/>
+                Round the flames roll as Los hurls<lb/>
+                his chains<lb/>
+                Mounting up from his fury, condens’d<lb/>
+                Rolling round &amp; round. mounting on high<lb/>
+                Into vacuum: into non-entity.<lb/>
+                Where nothing was! dash’d wide apart<lb/>
+                His feet stamp the eternal fierce-raging<lb/>
+                Rivers of wide flame; they roll round<lb/>
+                And round on all sides making their way<lb/>
+                Into darkness and shadowy obscurity<lb/>
+<lb/>
+                8: Wide apart stood the fires; Los remain’d<lb/>
+                In the void between fire and fire<lb/>
+                In trembling and horror they beheld him<lb/>
+                They stood wide apart, driv’n by his hands<lb/>
+                And his feet which the nether abyss<lb/>
+                Stamp’d in fury and hot indignation<lb/>
+<lb/>
+                9: But no light from the fires all was<lb/>
+<lb/>
+                Dark<lb/>
+<lb/>
+                Darkness round Los: heat was not; for<lb/>
+                bound up<lb/>
+                Into fiery spheres from his fury<lb/>
+                The gigantic flames trembled and hid<lb/>
+<lb/>
+                10: Coldness, darkness, obstruction, a Solid<lb/>
+                Without fluctuation. hard as adamant<lb/>
+                Black as marble of Egypt; impenetrable<lb/>
+                Bound in the fierce raging Immortal.<lb/>
+                And the seperated fires froze in<lb/>
+                A vast solid without fluctuation.<lb/>
+                Bound in his expanding clear senses<lb/>
+<lb/>
+                Chap: II<lb/>
+<lb/>
+                1: The Immortal stood frozen amidst<lb/>
+                The vast rock of eternity; times<lb/>
+                And times; a night of vast durance:<lb/>
+                Impatient, stifled, stiffend, hardned.<lb/>
+<lb/>
+                2: Till impatience no longer could bear<lb/>
+                The hard bondage. rent; rent. the vast<lb/>
+                solid<lb/>
+                With a crash from immense to immense<lb/>
+<lb/>
+                3: Crack’d across into numberless frag-<lb/>
+                -ments<lb/>
+                The Prophetic wrath, strug’ling for vent<lb/>
+                Hurls apart. stamping furious to dust<lb/>
+                And crumbling with bursting sobs; heaves<lb/>
+                The black marble on high into fragments<lb/>
+<lb/>
+                4: Hurl’d apart on all sides, as a falling<lb/>
+                Rock; the innumerable fragments away<lb/>
+                Fell asunder; and horrible vacuum<lb/>
+                Beneath him &amp; on all sides round<lb/>
+<lb/>
+                5: Falling, falling! Los fell &amp; fell<lb/>
+                Sunk precipitant heavy down down<lb/>
+                Times on times, night on night, day on day<lb/>
+                Truth has bounds. Error none; falling<lb/>
+                falling:<lb/>
+                Years on years, and ages on ages<lb/>
+                Still he fell thro’ the void, still a void<lb/>
+                Found for falling day &amp; night without<lb/>
+                end.<lb/>
+                For tho’ day or night was not; their spaces<lb/>
+<lb/>
+                Were measurd by his incessant whirls<lb/>
+                In the horrid vacuity bottomless.<lb/>
+<lb/>
+                6: The Immortal revolving; indignant<lb/>
+                First in wrath threw his limbs, like the<lb/>
+                babe<lb/>
+                New born into our world: wrath subsided<lb/>
+                And contemplative thoughts first arose<lb/>
+                Then aloft his head rear’d in the Abyss<lb/>
+                And his downward-borne fall. chang’d oblique<lb/>
+<lb/>
+                7: Many ages of groans; till there grew<lb/>
+                Branchy forms. organizing the Human<lb/>
+                Into finite inflexible organs.<lb/>
+<lb/>
+                8: Till in process from falling he bore<lb/>
+                Sidelong on the purple air. wafting<lb/>
+                The weak breeze in efforts oerwearied<lb/>
+<lb/>
+                9: Incessant the falling Mind labour’d<lb/>
+                Organizing itself: till the Vacuum<lb/>
+                Became element. pliant to rise.<lb/>
+                Or to fall, or to swim, or to fly:<lb/>
+                With ease searching the dire vacuity<lb/>
+<lb/>
+                Chap: III<lb/>
+<lb/>
+                1: The Lungs heave incessant, dull and<lb/>
+                heavy<lb/>
+                For as yet were all other parts formless<lb/>
+                Shiv’ring: clinging around like a cloud<lb/>
+                Dim &amp; glutinous as the white Polypus<lb/>
+                Driv’n by waves &amp; englob’d on the tide.<lb/>
+<lb/>
+                2: And the unformed part crav’d repose<lb/>
+                Sleep began: the Lungs heave on the wave<lb/>
+                Weary overweigh’d, sinking beneath<lb/>
+                In a stifling black fluid he woke<lb/>
+<lb/>
+                3: He arose on the waters. but soon<lb/>
+                Heavy falling his organs like roots<lb/>
+                Shooting out from the seed, shot beneath;<lb/>
+                And a vast world of waters around him<lb/>
+                In furious torrents began.<lb/>
+<lb/>
+                4: Then he sunk, &amp; around his spent Lungs<lb/>
+                Began intricate pipes that drew in<lb/>
+                The spawn of the waters. Outbranching<lb/>
+<lb/>
+                An<lb/>
+<lb/>
+                An immense Fibrous form, stretching out<lb/>
+                Thro’ the bottoms of immensity raging.<lb/>
+<lb/>
+                5: He rose on the floods: then he smote<lb/>
+                The wild deep with his terrible wrath,<lb/>
+                Seperating the heavy and thin.<lb/>
+<lb/>
+                6: Down the heavy sunk; cleaving around<lb/>
+                To the fragments of solid; up rose<lb/>
+                The thin, flowing round the fierce fires<lb/>
+                That glow’d furious in the expanse.<lb/>
+<lb/>
+                Chap: IV:<lb/>
+<lb/>
+                1: Then Light first began; from the fires<lb/>
+                Beams, conducted by fluid so pure<lb/>
+                Flow’d around the Immense: Los beheld<lb/>
+                Forthwith writhing upon the dark void<lb/>
+                The Back bone of Urizen appear<lb/>
+                Hurtling upon the wind<lb/>
+                Like a serpent! like an iron chain<lb/>
+                Whirling about in the Deep.<lb/>
+<lb/>
+                2: Upfolding his Fibres together<lb/>
+                To a Form of impregnable strength<lb/>
+                Los astonish’d and terrified, built<lb/>
+                Furnaces; he formed an Anvil<lb/>
+                A Hammer of adamant then began<lb/>
+                The binding of Urizen day and night<lb/>
+<lb/>
+                3: Circling round the dark Demon, with<lb/>
+                howlings<lb/>
+                Dismay &amp; sharp blightings; the Prophet<lb/>
+                Of Eternity beat on his iron links<lb/>
+<lb/>
+                4: And first from those infinite fires<lb/>
+                The light that flow’d down on the winds<lb/>
+                He siez’d; beating incessant, condensing<lb/>
+                The subtil particles in an Orb.<lb/>
+<lb/>
+                5: Roaring indignant the bright sparks<lb/>
+                Endur’d the vast Hammer; but unwearied<lb/>
+                Los beat on the Anvil; till glorious<lb/>
+                An immense Orb of fire he fram’d<lb/>
+<lb/>
+                6: Oft he quench’d it beneath in the<lb/>
+                Deeps.<lb/>
+                Then surveyd the all bright mass: Again<lb/>
+                Siezing fires from the terrific Orbs<lb/>
+                He heated the round Globe, then beat<lb/>
+                While roaring his Furnaces endur’d<lb/>
+                The chaind Orb in their infinite wombs<lb/>
+<lb/>
+                7: Nine ages completed their circles<lb/>
+                When Los heated the glowing mass, cast-<lb/>
+                -ing<lb/>
+                It down into the Deeps: the Deeps fled<lb/>
+                Away in redounding smoke; the Sun<lb/>
+                Stood self-balanc’d. And Los smild<lb/>
+                with joy.<lb/>
+                He the vast Spine of Urizen siez’d<lb/>
+                And bound down to the glowing illusion<lb/>
+<lb/>
+                8: But no light. for the Deep fled away<lb/>
+                On all sides. and left an unform’d<lb/>
+                Dark vacuity; here Urizen lay<lb/>
+                In fierce torments on his glowing bed<lb/>
+<lb/>
+                9: Till his Brain in a rock, &amp; his Heart<lb/>
+                In a fleshy slough formed four rivers<lb/>
+                Obscuring the immense Orb of fire<lb/>
+                Flowing down into night: till a Form<lb/>
+                Was completed. a Human Illusion<lb/>
+                In darkness and deep clouds involvd.<lb/>
+<lb/>
+                The End of the<lb/>
+                Book of LOS</figTranscr>
+<head>30. <hi rend="i">The Book of Los</hi> plates 2, 3, 4, and 5 as quarters of a copper sheet, based on copy
+A.</head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+              <figure n="31.BA_quarter_with_margins.100" rend="file" width="958" height="717">
+	<figTranscr>AHANIA<lb/>
+<lb/>
+                Chap: Ist<lb/>
+<lb/>
+                1: Fuzon. on a chariot iron-wing’d<lb/>
+                On spiked flames rose; his hot visage<lb/>
+                Flam’d furious! sparkles his hair &amp; beard<lb/>
+                Shot down his wide bosom and shoulders<lb/>
+                On clouds of smoke rages his chariot<lb/>
+                And his right hand burns red in its<lb/>
+                cloud<lb/>
+                Moulding into a vast globe. his wrath<lb/>
+                As the thunder-stone is moulded<lb/>
+                Son of Urizens silent burnings<lb/>
+<lb/>
+                2: Shall we worship this Demon of smoke.<lb/>
+                Said Fuzon. this abstract non-entity<lb/>
+                This cloudy God seated on waters<lb/>
+                Now seen. now obscur’d; King of sorrow?<lb/>
+<lb/>
+                3: So he spoke. in a fiery flame,<lb/>
+                On Urizen frowning indignant,<lb/>
+                The Globe of wrath shaking on high<lb/>
+                Roaring with fury. he threw<lb/>
+                The howling Globe: burning it flew<lb/>
+                Lengthning into a hungry beam. Swiftly<lb/>
+<lb/>
+                4: Oppos’d to the exulting flam’d beam<lb/>
+                The broad Disk of Urizen upheav’d<lb/>
+                Across the Void many a mile.<lb/>
+<lb/>
+                5: It was forg’d in mills where the winter<lb/>
+                Beats incessant: ten winters the disk<lb/>
+<lb/>
+                Unremitting endur’d the cold hammer.<lb/>
+<lb/>
+                6: But the strong arm that sent it. remem-<lb/>
+                -ber’d<lb/>
+                The sounding beam; laughing it tore through<lb/>
+                That beaten mass: keeping its direction<lb/>
+                The cold loins of Urizen dividing.<lb/>
+<lb/>
+                7: Dire shriek’d his invisible Lust<lb/>
+                Deep groan’d Urizen! stretching his awful hand<lb/>
+                Ahania (so name his parted soul)<lb/>
+                He siez’d on his mountains of Jealousy,<lb/>
+                He groand anguishd &amp; called her Sin,<lb/>
+                Kissing her and weeping over her:<lb/>
+                Then hid her in darkness in silence;<lb/>
+                Jealous tho’ she was invisible.<lb/>
+<lb/>
+                8: She fell down a faint shadow wandring<lb/>
+                In chaos and circling dark Urizen.<lb/>
+                As the moon anguishd circles the earth;<lb/>
+                Hopeless! abhorrd! a death-shadow.<lb/>
+                Unseen. unbodied. unknown,<lb/>
+                The mother of Pestilence.<lb/>
+<lb/>
+                9: But the fiery beam of Fuzon<lb/>
+                Was a pillar of fire to Egypt<lb/>
+                Five hundred years wandring on earth<lb/>
+                Till Los siezd it and beat in a mass<lb/>
+                With the body of the sun.<lb/>
+<lb/>
+                Chap: II:d<lb/>
+<lb/>
+                1: But the forehead of Urizen gathering.<lb/>
+                And his eyes pale with anguish, his lips<lb/>
+                Blue &amp; changing; in tears and bitter<lb/>
+                Contrition he prepar’d his Bow.<lb/>
+<lb/>
+                2: Form’d of Ribs: that in his dark solitude<lb/>
+                When obscur’d in his forests fell monsters.<lb/>
+                Arose. For his dire Contemplations<lb/>
+                Rush’d down like floods from his mountains<lb/>
+                In torrents of mud settling thick<lb/>
+                With Eggs of unnatural production<lb/>
+                Forthwith hatching; some howl’d on his hills<lb/>
+                Some in vales; some aloft flew in air<lb/>
+<lb/>
+                3: Of these: an enormous dread Serpent<lb/>
+                Scaled and poisonous horned<lb/>
+                Approach’d Urizen even to his knees<lb/>
+                As he sat on his dark rooted Oak.<lb/>
+<lb/>
+                4: With his horns he push’d furious.<lb/>
+                Great the conflict &amp; great the jealousy<lb/>
+                In cold poisons: but Urizen smote him<lb/>
+<lb/>
+                5: First he poison’d the rocks with his blood<lb/>
+                Then polish’d his ribs, and his sinews<lb/>
+                Dried: laid them apart till winter;<lb/>
+                Then a Bow black prepar’d; on this Bow.<lb/>
+                A poisoned rock plac’d in silence:<lb/>
+                He utter’d these words to the Bow.<lb/>
+<lb/>
+                6: O Bow of the clouds of secresy:<lb/>
+                O nerve of that lust form’d monster!<lb/>
+                Send this rock swift, invisible thro’<lb/>
+                The black clouds, on the bosom of Fuzon<lb/>
+<lb/>
+                7: So saying, In torment of his wounds.<lb/>
+                He bent the enormous ribs slowly;<lb/>
+                A circle of darkness! then fixed<lb/>
+                The sinew in its rest: then the Rock<lb/>
+                Poisonous source! plac’d with art, lifting dif-<lb/>
+                -ficult<lb/>
+                Its weighty bulk: silent the rock lay.<lb/>
+<lb/>
+                8: While Fuzon his tygers unloosing<lb/>
+<lb/>
+                Thought Urizen slain by his wrath.<lb/>
+                I am God. said he. eldest of things!<lb/>
+<lb/>
+                9: Sudden sings the rock. swift &amp; invisible<lb/>
+                On Fuzon flew. enter’d his bosom;<lb/>
+                His beautiful visage, his tresses.<lb/>
+                That gave light to the mornings of heaven<lb/>
+                Were smitten with darkness. deform’d<lb/>
+                And outstretch’d on the edge of the fo-<lb/>
+                -rest<lb/>
+<lb/>
+                10: But the rock fell upon the Earth,<lb/>
+                Mount Sinai. in Arabia.<lb/>
+<lb/>
+                Chap: III:<lb/>
+<lb/>
+                1: The Globe shook; and Urizen seated<lb/>
+                On black clouds his sore wound anointed<lb/>
+                The ointment flow’d down on the void<lb/>
+                Mix’d with blood; here the snake gets<lb/>
+                her poison<lb/>
+<lb/>
+                2: With difficulty &amp; great pain; Urizen<lb/>
+                Lifted on high the dead corse:<lb/>
+                On his shoulders he bore it to where<lb/>
+                A Tree hung over the Immensity<lb/>
+<lb/>
+                3: For when Urizen shrunk away<lb/>
+                From Eternals, he sat on a rock<lb/>
+                Barren; a rock which himself<lb/>
+                From redounding fancies had petrified<lb/>
+                Many tears fell on the rock,<lb/>
+                Many sparks of vegetation;<lb/>
+                Soon shot the pained root<lb/>
+                Of Mystery. under his heel:<lb/>
+                It grew a thick tree; he wrote<lb/>
+                In silence his book of iron:<lb/>
+                Till the horrid plant bending its boughs<lb/>
+                Grew to roots when it felt the earth<lb/>
+                And again sprung to many a tree.<lb/>
+<lb/>
+                4: Amaz’d started Urizen! when<lb/>
+                He beheld himself compassed round<lb/>
+                And high roofed over with trees<lb/>
+                He arose but the stems stood so thick<lb/>
+                He with difficulty and great pain<lb/>
+                Brought his Books. all but the Book<lb/>
+<lb/>
+                Of<lb/>
+<lb/>
+                Of iron. from the dismal shade<lb/>
+<lb/>
+                5: The Tree still grows over the Void<lb/>
+                Enrooting itself all around<lb/>
+                An endless labyrinth of woe!<lb/>
+<lb/>
+                6: The corse of his first begotten<lb/>
+                On the accursed Tree of Mystery:<lb/>
+                On the topmost stem of this Tree<lb/>
+                Urizen nail’d Fuzons corse.<lb/>
+<lb/>
+                Chap: IV:<lb/>
+<lb/>
+                1: Forth flew the arrows of pestilence<lb/>
+                Round the pale living Corse on the tree<lb/>
+<lb/>
+                2: For in Urizens slumbers of abstraction<lb/>
+                In the infinite ages of Eternity:<lb/>
+                When his Nerves of Joy melted &amp; flow’d<lb/>
+                A white Lake on the dark blue air<lb/>
+                In perturb’d pain and dismal torment<lb/>
+                Now stretching out. now swift conglobing.<lb/>
+<lb/>
+                3: Effluvia vapor’d above<lb/>
+                In noxious clouds: these hover’d thick<lb/>
+                Over the disorganiz’d Immortal.<lb/>
+                Till petrific pain scurfd o’er the Lakes<lb/>
+                As the bones of man, solid &amp; dark<lb/>
+<lb/>
+                4: The clouds of disease hover’d wide<lb/>
+                Around the Immortal in torment<lb/>
+                Perching around the hurtling bones<lb/>
+                Disease on disease, shape on shape.<lb/>
+                Winged screaming in blood &amp; torment.<lb/>
+<lb/>
+                5: The Eternal Prophet beat on his anvils<lb/>
+                Enrag’d in the desolate darkness<lb/>
+                He forg’d nets of iron around<lb/>
+                And Los threw them around the bones<lb/>
+<lb/>
+                6: The shapes screaming flutter’d vain<lb/>
+                Some combin’d into muscles &amp; glands<lb/>
+                Some organs for craving and lust<lb/>
+                Most remain’d on the tormented void:<lb/>
+                Urizens army of horrors.<lb/>
+<lb/>
+                7: Round the pale living Corse on the<lb/>
+                Tree<lb/>
+                Forty years flew the arrows of pestilence<lb/>
+<lb/>
+                8: Wailing and terror and woe<lb/>
+                Ran thro’ all his dismal world:<lb/>
+                Forty years all his sons &amp; daughters<lb/>
+                Felt their skulls harden: then Asia<lb/>
+                Arose in the pendulous deep.<lb/>
+<lb/>
+                9: They reptilize upon the Earth.<lb/>
+<lb/>
+                10: Fuzon groand on the Tree.<lb/>
+<lb/>
+                Chap: V<lb/>
+<lb/>
+                1: The lamenting voice of Ahania<lb/>
+                Weeping upon the void.<lb/>
+                And round the Tree of Fuzon:<lb/>
+                Distant in solitary night<lb/>
+                Her voice was heard. but no form<lb/>
+                Had she: but her tears from clouds<lb/>
+                Eternal fell round the Tree<lb/>
+<lb/>
+                2: And the voice cried: Ah Urizen! Love!<lb/>
+                Flower of morning! I weep on the verge<lb/>
+                Of Non-entity; how wide the Abyss<lb/>
+                Between Ahania and thee!<lb/>
+<lb/>
+                3: I lie on the verge of the deep.<lb/>
+                I see thy dark clouds ascend,<lb/>
+                I see thy black forests and floods,<lb/>
+                A horrible waste to my eyes!<lb/>
+<lb/>
+                4: Weeping I walk over rocks<lb/>
+                Over dens &amp; thro’ valleys of death<lb/>
+                Why didst thou despise Ahania<lb/>
+                To cast me from thy bright presence<lb/>
+                Into the World of Loneness<lb/>
+<lb/>
+                5: I cannot touch his hand:<lb/>
+                Nor weep on his knees, nor hear<lb/>
+                His voice &amp; bow. nor see his eyes<lb/>
+                And joy. nor hear his footsteps, and<lb/>
+                My heart leap at the lovely sound!<lb/>
+                I cannot kiss the place<lb/>
+                Whereon his bright feet have trod,<lb/>
+<lb/>
+                But<lb/>
+<lb/>
+                But I wander on the rocks<lb/>
+                With hard necessity.<lb/>
+<lb/>
+                6: Where is my golden palace<lb/>
+                Where my ivory bed<lb/>
+                Where the joy of my morning hour<lb/>
+                Where the sons of eternity. singing<lb/>
+<lb/>
+                7: To awake bright Urizen my king:<lb/>
+                To arise to the mountain sport,<lb/>
+                To the bliss of eternal valleys:<lb/>
+<lb/>
+                8: To awake my king in the morn:<lb/>
+                To embrace Ahanias joy<lb/>
+                On the breath of his open bosom:<lb/>
+                From my soft cloud of dew to fall<lb/>
+                In showers of life on his harvests.<lb/>
+<lb/>
+                9: When he gave my happy soul<lb/>
+                To the sons of eternal joy:<lb/>
+                When he took the daughters of life.<lb/>
+                Into my chambers of love:<lb/>
+<lb/>
+                10: When I found babes of bliss on my beds.<lb/>
+                And bosoms of milk in my chambers<lb/>
+                Fill’d with eternal seed<lb/>
+                O! eternal births sung round Ahania<lb/>
+                In interchange sweet of their joys.<lb/>
+<lb/>
+                11: Swell’d with ripeness &amp; fat with fatness<lb/>
+                Bursting on winds my odors.<lb/>
+                My ripe figs and rich pomegranates<lb/>
+<lb/>
+                In infant joy at thy feet<lb/>
+                O Urizen sported and sang;<lb/>
+<lb/>
+                12: Then thou with thy lap full of seed<lb/>
+                With thy hand full of generous fire<lb/>
+                Walked forth from the clouds of morning<lb/>
+                On the virgins of springing joy,<lb/>
+                On the human soul to cast<lb/>
+                The seed of eternal science,<lb/>
+<lb/>
+                13: The sweat poured down thy temples<lb/>
+                To Ahania return’d in evening<lb/>
+                The moisture awoke to birth<lb/>
+                My mothers-joys, sleeping in bliss.<lb/>
+<lb/>
+                14: But now alone over rocks. mountains<lb/>
+                Cast out from thy lovely bosom:<lb/>
+                Cruel jealousy: selfish fear!<lb/>
+                Self-destroying: how can delight.<lb/>
+                Renew in these chains of darkness<lb/>
+                Where bones of beasts are strown<lb/>
+                On the bleak and snowy mountains<lb/>
+                Where bones from the birth are buried<lb/>
+                Before they see the light.<lb/>
+<lb/>
+                FINIS</figTranscr>
+<head>31. <hi rend="i">The Book of Ahania</hi> plates 3, 4, 5, and 6 as quarters of a copper sheet, based on
+copy A.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <pb id="p41-69" n="69"/>
+are 27.2 cm. wide. The former sheet was 19.85 cm. left, 19.60 cm. right, 27.2 cm. top, 27.25 cm. bottom; it
+yielded plates 3-2/4-5 (illus. 30), with plate 1 etched on the verso of plate 4. The latter sheet was 19.65
+cm. left, 19.75 cm. right, 27.2 cm. top, 27.25 cm. bottom; it yielded plates 4-3/6-5 (illus. 31), with plates
+1 and 2 on the versos of plates 6 and 3 respectively. <note id="n13">13. Eleven of the 16 plates are between
+27.2 and 27.5 cm. in height, 3 are between 26.5 and 26.9 cm., and 2 are between 25.7 and 26.4 cm. Widths range
+only between 19.6 and 20.5 cm. I am indebted to Robert Essick for measuring his uncut copy of Blake’s
+engravings for Stedman. In most copies, the prints were trimmed to the design and thus shorn of their
+platemarks. If the Stedman plates, which were commissioned by the publisher Joseph Johnson, were quarters,
+then the platemaker from whom Blake bought the plates was most likely responsible for quartering the sheets,
+presumably according to either Johnson’s or Blake’s instructions, and may also have been responsible for
+preparing them for intaglio etching by beveling the sides and rounding the corners. According to Mei-Ying
+Sung, most of the Book of Job plates were cut by the platemaker, but crossing marks on the versos make it
+possible to reassemble them into their original sheets (“Technical and Material Studies of William Blake’s
+Engraved <hi rend="i">Illustrations of the Book of Job</hi> [1826],” Nottingham Trent University PhD, 2005,
+appendix 1). In some cases, in other words, Blake’s plates can be reconstructed into their original sheets
+whether Blake cut the sheets or had them cut for him.</note></p>
+            <p>These plate arrangements are not from <hi rend="i">Blake and the Idea of the Book</hi>, where I
+used just two measurements per plate and thought the sheet was larger and cut into sixths rather than quarters
+(414n26); they are from research done soon afterwards for David Worrall’s <hi rend="i">The Urizen
+Books.</hi> I used four measurements per plate and tracings of their shapes to reconstruct the sheets, the
+technique I had used to reconstruct the sheets that yielded the 27 plates of <hi rend="i">The Marriage of
+Heaven and Hell.</hi><supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> Worrall agreed
+with <hi rend="i">The Book of Ahania</hi> arrangement (191) but not with <hi rend="i">The Book of Los</hi>
+arrangement (223n13), which is understandable since measurements, even with tracings, can support different
+results. With digital imaging, however, and the expert assistance of Todd Stabley, media consultant for my
+university, I was able to verify my earlier findings and to raise the bar for proof. Though it was no easy
+task, we were able to put the pieces back together. We verified the recto/verso plates by superimposing them,
+as with <hi rend="i">The Book of Ahania</hi> plates 3 and 2 (illus. e32), to reveal their matched shapes. We
+demonstrated, by revolving the plates, how their edges fit together, as evinced by the inside edges of 
+<hi rend="i">The Book of Los</hi> plates 3 and 4 (illus. 33) paralleling one another exactly, one curving with the
+other. <note id="n14">14. This information about sheet reconstruction was first presented as a plenary address
+for William Blake 1794/1994, a conference at St. Mary’s College, Strawberry Hill, London, 14 July 1994, and
+later published as “Evolution.”</note></p>
+            <figure n="33.BL3-BL4_intersection.100" rend="file" width="258" height="1000">
+              <figTranscr>[o]wn true love<lb/>
+<lb/>
+                [fla]mes of desire<lb/>
+                [l]iving flames<lb/>
+                [arm]’d<lb/>
+                In the midst<lb/>
+                [boun]d in a chain<lb/>
+                shadow<lb/>
+<lb/>
+                [sp]arkles of fury<lb/>
+                Los hurls<lb/>
+<lb/>
+                condens’d<lb/>
+                [mounti]ng on high<lb/>
+<lb/>
+                wide apart<lb/>
+                fierce-raging<lb/>
+                roll round<lb/>
+                [ma]king their way<lb/>
+                [shadow]y obscurity<lb/>
+<lb/>
+                [fir]es; Los remain’d<lb/>
+                [an]d fire<lb/>
+                [the]y beheld him<lb/>
+                [driv]’n by his hands<lb/>
+                [neth]er abyss<lb/>
+                [in]dignation<lb/>
+<lb/>
+                [fire]s all was<lb/>
+<lb/>
+                Dark<lb/>
+<lb/>
+                Darkness rou[nd]<lb/>
+                bound<lb/>
+                Into fiery sph[eres]<lb/>
+                The gigantic<lb/>
+<lb/>
+                10: Coldness, d[arkness]<lb/>
+                Without fluctu[ation]<lb/>
+                Black as mar[ble]<lb/>
+                Bound in the<lb/>
+                And the seper[ated]<lb/>
+                A vast solid<lb/>
+                Bound in his<lb/>
+<lb/>
+                Ch[ap]<lb/>
+<lb/>
+                1: The Immort[al]<lb/>
+                The vast rock<lb/>
+                And times; a<lb/>
+                Impatient, stif[led]<lb/>
+<lb/>
+                2: Till impatie[nce]<lb/>
+                The hard bon[dage]<lb/>
+                solid<lb/>
+                With a crash<lb/>
+<lb/>
+                3: Crack’d ac[ross]<lb/>
+                -ments<lb/>
+                The Prophetic<lb/>
+                Hurls apart.<lb/>
+                And crumblin[g]<lb/>
+                The black ma[rble]<lb/>
+<lb/>
+                4: Hurl’d apar[t]<lb/>
+                Rock; the inn[umerable]<lb/>
+                Fell asunder;<lb/>
+                Beneath him<lb/>
+<lb/>
+                5: Falling, fa[lling]<lb/>
+                Sunk precipit[ant]<lb/>
+                Times on times<lb/>
+                Truth has bou[nds]<lb/>
+                falling:<lb/>
+                Years on year[s]<lb/>
+                Still he fell<lb/>
+                Found for fal[ling]<lb/>
+                end.<lb/>
+                For tho’ day o[r]</figTranscr>
+              <head>33. <hi rend="i">The Book of Los</hi> copy A, plates 3 and 4, detail of edges fitting
+together within the sheet of copper.</head>
+              <figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake
+Archive. Used with permission.</figDesc>
+            </figure>
+            <p>With four plates 27.2 cm. in width (two for <hi rend="i">The Song of Los</hi>, one each for 
+<hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi>), it seemed reasonable to assume that
+they were quarters of a sheet the size of—and perhaps acquired at the same time as—those used for the
+first color-printed drawings. The problem here, though, was an approximately 8 mm. difference in the heights
+of <hi rend="i">The Song of Los</hi> plates. If the measurements were correct, then one or both did not fit
+into the larger sheet. Moreover, the small, unfinished color print of <hi rend="i">Pity</hi> (illus. 10),
+recorded as 19.7 × 27.5 cm. (Butlin, cat. 313), was the same height as <hi rend="i">The Book of Ahania</hi>
+sheet, though 2 or 3 mm. wider, which I suspected was mistaken. The similarity of its size to the size of 
+<hi rend="i">The Book of Ahania</hi> made small <hi rend="i">Pity</hi> seem likely to have been one of the
+quarters or, possibly, a quarter that was cut up to provide the plates for <hi rend="i">The Book of
+Ahania.</hi> Superimposing small <hi rend="i">Pity</hi> over <hi rend="i">The Book of Ahania</hi> plates
+revealed no convincing traces of small <hi rend="i">Pity.</hi> The digital reconstruction was beginning to
+reveal what combination of quarters was likely and unlikely to have come from the same sheet, as well as to
+reveal exactly what works I needed to reexamine. In the Morgan Library, I reexamined the height of the text
+plates in <hi rend="i">The Song of Los</hi> copy C, along with the size and shape of proofs of 
+<hi rend="i">The Book of Los</hi> plates 4 and 5, and <hi rend="i">The Book of Ahania</hi> plate 5; in the Library
+of Congress, I reexamined <hi rend="i">The Song of Los</hi> copy B and again made tracings of the plates of
+the only complete extant copy of <hi rend="i">The Book of Ahania</hi>; most importantly, in the British
+Museum, I examined <hi rend="i">The Song of Los</hi> copies A and D, traced the plates of the only extant copy
+of <hi rend="i">The Book of Los</hi>, and determined exactly the size of the small <hi rend="i">Pity</hi> and
+<hi rend="i">Albion rose</hi> plates.</p>
+            <p>This new data enabled me to disprove my initial hypothesis that <hi rend="i">The Song of
+Los</hi> plates 3-4 and 6-7 and the plates for <hi rend="i">The Book of Ahania</hi> and <hi rend="i">The Book
+of Los</hi> were quarters of the same large sheet. It enabled me also to ascertain that small 
+<hi rend="i">Pity</hi> was not the <hi rend="i">exact</hi> size of <hi rend="i">The Book of Ahania</hi> sheet but
+that it was one of the quarters. Two measurements for small <hi rend="i">Pity</hi> proved insufficient to see
+this connection, but with four it became clear: 19.75 cm. left, 19.5 cm. right, 27.2 cm. top, 27.4 cm. bottom.
+These are approximately the same measurements as the color-printed impression of <hi rend="i">Albion
+rose</hi>, which are 27.2 cm. left, 27.3 cm. right, 19.75 cm. top, 19.95 cm. bottom.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> Turn small <hi rend="i">Pity</hi> upside down and 
+<hi rend="i">Albion rose</hi> on its left side, place them on top
+<pb id="p41-70" n="70"/>
+of <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi> sheets (illus. 34), and you have
+the four quarters of a sheet that is 39.35 cm. left, 39.7 cm. right, 54.7 cm. top, 54.5 cm. bottom. Along the
+middle, vertically and horizontally, the sheet is 39.4 × 54.4 cm. This sheet was cut exactly in half and each
+half was cut in half, hence each of the four quarters has a side 27.2 cm. wide or high. <note id="n15">15.
+Essick records the plate size as 27.2 × 19.9 cm. (<hi rend="i">Separate Plates</hi> 24); Butlin records the
+Huntington impression as 27.2 × 19.9 cm. and the British Museum impression as 27.5 × 20.2 cm. (cat. 284,
+262.1).</note></p>
+            <p>Why did Blake purchase a 39.4 × 54.4 cm. sheet of copper? At first, it may seem that he needed
+copper plates for his two new poems, <hi rend="i">The Book of Ahania</hi> and <hi rend="i">The Book of
+Los.</hi> The former has 239 lines and the latter has 176 lines, for a total of 415. <hi rend="i">Urizen</hi>
+is on 28 plates, 11 of which, including the title, are full-page illustrations, leaving 17 text plates for 517
+lines. If Blake intended to etch his new poems in relief to match the style and structure of 
+<hi rend="i">Urizen</hi>, then he would have needed at <hi rend="i">least 22 plates for the two books. Quartering
+each quarter of</hi> the large sheet produces 16 plates (or 32 if versos are used), slightly smaller than 
+<hi rend="i">Urizen</hi>, whose size was determined by its being on the verso of <hi rend="i">Marriage</hi>
+plates, the size of which was determined by <hi rend="i">Approach of Doom</hi> quartered (see Viscomi,
+“Evolution” 307).</p>
+            <figure n="34.BL-Ahania-Pity-AR_qtr_no_margins.100" rend="file" width="958" height="707">
+              <figTranscr>THE<lb/>
+                BOOK of<lb/>
+                LOS<lb/>
+<lb/>
+                LAMBETH<lb/>
+                Printed by W Blake 1795<lb/>
+<lb/>
+                LOS<lb/>
+<lb/>
+                AHANIA</figTranscr>
+              <head>34. <hi rend="i">The Book of Ahania, The Book of Los</hi>, small <hi rend="i">Pity</hi>,
+and <hi rend="i">Albion rose</hi> digitally reconstructed as quarters into a sheet of copper.</head>
+            </figure>
+            <p>Deducing motive from end results, however, clearly does not work here. The sheet does not
+produce plates exactly the size of <hi rend="i">Urizen</hi>, forcing one to ask why not if that was Blake’s
+intent. More troubling is that Blake appears to have changed his mind after he quartered the sheet. Three of
+the quarters he intended to use for etchings or engravings, as indicated by their rounded corners and beveled
+sides, features designed to remove sharp edges that could tear the paper when intaglio plates are printed
+under the required pressure. One quarter he intended to use as a relief etching, as indicated by the absence
+of these features, which are unnecessary for relief etchings, because they are printed with less pressure.
+Given the manner in which the quarters were prepared—whether by Blake or a platemaker following Blake’s
+instructions (see note 13)—Blake appears not to have acquired this copper sheet as a poet needing many small
+<hi rend="i">relief-etched plates for an illuminated book; he appears to have</hi> acquired it as a
+printmaker, with at least two designs, <hi rend="i">Albion rose</hi> and small <hi rend="i">Pity</hi>, in
+mind, as a creative graphic artist who, to date, had executed many separate etchings and engravings, including
+<hi rend="i">Head of a Damned Soul</hi> (c. 1790), <hi rend="i">The Accusers (1793), Edward and Elenor</hi>
+(1793), <hi rend="i">Job</hi> (1793), and <hi rend="i">Ezekiel</hi> (1794).</p>
+            <pb id="p41-71" n="71"/>
+            <p>What Blake originally intended for the other two quarters prepared for intaglio designs is not
+known. It is interesting to speculate, though, that the designs may have been <hi rend="i">The Night of
+Enitharmon’s Joy</hi> (24.2 × 27.8 cm.) and <hi rend="i">Newton</hi> (20.4 × 26.3 cm.), which are the only
+other drawings extant that fit the quarters—or could be trimmed to fit—that were also executed, like small
+<hi rend="i">Pity</hi>, approximately four times their size as large color-printed drawings. But whatever the
+original plans were for these quarters, Blake changed his mind. He quartered the two quarters and used the
+resulting plates for <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania.</hi> This sequence
+of events is indicated by the fact that each small plate has just one rounded corner (illus. e35), that of its
+original sheet, which, in addition to the plates’ uneven and rough inside edges (illus. 33), is why the
+plates can be reconstructed like pieces of a puzzle back into their original quarter sheets (illus. 30, 31).
+The edges are rough because Blake did not file them at an angle (the bevel), and though he appears to have
+pounded down the sharp edges of the new corners, he did not round them. In other words, Blake did not prepare
+the small plates for etching.</p>
+            <p>Was he in such a hurry to print his new poems and designs that he ignored these crucial steps
+in preparing plates for intaglio printing? Or did he know that he would print with
+              <figure n="ahania.a.p6" id="ahania.a.illbk.06" work-copy="ahania.a" rend="db" width="742" height="1000">
+	<figTranscr>But I wander on the rocks<lb/>
+                With hard necessity.<lb/>
+<lb/>
+                6: Where is my golden palace<lb/>
+                Where my ivory bed<lb/>
+                Where the joy of my morning hour<lb/>
+                Where the sons of eternity. singing<lb/>
+<lb/>
+                7: To awake bright Urizen my king:<lb/>
+                To arise to the mountain sport,<lb/>
+                To the bliss of eternal valleys:<lb/>
+<lb/>
+                8: To awake my king in the morn:<lb/>
+                To embrace Ahanias joy<lb/>
+                On the breath of his open bosom:<lb/>
+                From my soft cloud of dew to fall<lb/>
+                In showers of life on his harvests.<lb/>
+<lb/>
+                9: When he gave my happy soul<lb/>
+                To the sons of eternal joy:<lb/>
+                When he took the daughters of life.<lb/>
+                Into my chambers of love:<lb/>
+<lb/>
+                10: When I found babes of bliss on my beds.<lb/>
+                And bosoms of milk in my chambers<lb/>
+                Fill’d with eternal seed<lb/>
+                O! eternal births sung round Ahania<lb/>
+                In interchange sweet of their joys.<lb/>
+<lb/>
+                11: Swell’d with ripeness &amp; fat with fatness<lb/>
+                Bursting on winds my odors.<lb/>
+                My ripe figs and rich pomegranates<lb/>
+<lb/>
+                In infant joy at thy feet<lb/>
+                O Urizen sported and sang;<lb/>
+<lb/>
+                12: Then thou with thy lap full of seed<lb/>
+                With thy hand full of generous fire<lb/>
+                Walked forth from the clouds of morning<lb/>
+                On the virgins of springing joy,<lb/>
+                On the human soul to cast<lb/>
+                The seed of eternal science,<lb/>
+<lb/>
+                13: The sweat poured down thy temples<lb/>
+                To Ahania return’d in evening<lb/>
+                The moisture awoke to birth<lb/>
+                My mothers-joys, sleeping in bliss.<lb/>
+<lb/>
+                14: But now alone over rocks. mountains<lb/>
+                Cast out from thy lovely bosom:<lb/>
+                Cruel jealousy: selfish fear!<lb/>
+                Self-destroying: how can delight.<lb/>
+                Renew in these chains of darkness<lb/>
+                Where bones of beasts are strown<lb/>
+                On the bleak and snowy mountains<lb/>
+                Where bones from the birth are buried<lb/>
+                Before they see the light.<lb/>
+<lb/>
+                FINIS</figTranscr>
+<head>36. <hi rend="i">The Book of Ahania</hi> copy A, plate 6.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <figure n="bb85.a.1.ps" id="bb85.a.spb.01" work-copy="bb85.a" rend="db" width="738" height="1000">
+	<figTranscr/>
+	<head>37. <hi rend="i">Albion rose</hi>, from <hi rend="i">The Large Book of Designs</hi> copy A.</head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+less pressure than normal since he planned to use the surface area for color printing, which he did with 
+<hi rend="i">The Book of Ahania</hi> plates 1, 2, and 6 (illus. 36), and <hi rend="i">The Book of Los</hi> plates
+1, 2, and 5?<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> In <hi rend="i">The
+Book of Ahania</hi> and <hi rend="i">The Book of Los</hi> title plates, Blake etched the letters and inked
+them locally, wiping the surface around them clean of ink and painting the image between the inscription and
+title, presumably following a lightly scratched outline. Blake used the same combination of printing from the
+surface and incised lines in the endplates to both books. He knew printing from the surface of an etching
+would work, since—as I argue below—he had already done
+<pb id="p41-72" n="72"/>
+so with <hi rend="i">Albion rose</hi> (illus. 37), and knew also that he could print surface areas with
+incised lines because he had done so in <hi rend="i">Europe</hi> and <hi rend="i">Urizen.</hi>
+	<note id="n16">16. If the platemaker had quartered the sheet and beveled the three quarters for Blake, then
+Blake’s not beveling the small plates may seem less inconsistent, but it is still highly unorthodox behavior
+for an intaglio etcher. I have not encountered intaglio plates with such rough, unbeveled sides before.
+Equally unconventionally, Blake etched three of his new plates recto/verso; as we have seen, in relief etching
+this was his common practice and something Blake could get away with aesthetically because scratches across
+relief lines fill in with ink, whereas scratches across the surface of an intaglio plate fill in with ink and
+print as black lines on a white background. Blake was smart, though, in using the versos for the
+frontispieces, which he very heavily color printed, and for <hi rend="i">The Book of Ahania</hi> title plate,
+whose background he filled with a dense pattern of swirling lines.</note></p>
+            <p>Using the small plates for intaglio etching instead of relief etching enabled Blake to condense
+his texts, averaging 59.5 lines per plate for <hi rend="i">The Book of Ahania</hi> and 58.6 for 
+<hi rend="i">The Book of Los</hi>, versus 30.4 for <hi rend="i">Urizen</hi>, and thus use far fewer copper plates.
+Using two of the quarters initially prepared for single intaglio designs (as is indicated by the four original
+rounded corners per quarter) from this sheet for illuminated plates appears to have been an afterthought,
+perhaps reflecting a decision to enlarge the designs originally intended for the quarters in another medium.
+Blake’s decision to etch the small plates in intaglio rather than in relief appears to reflect the influence
+of another quarter from the sheet, <hi rend="i">Albion rose.</hi> But before we can examine how those three
+quarters as used connect with one another, we need to understand the role played by small 
+<hi rend="i">Pity</hi>, the quarter that appears to have been the first executed.</p>
+            <figure n="urizen.c.p17-19" id="urizen.c.illbk.17" work-copy="urizen.c" rend="db" width="689" height="1000">
+              <figTranscr>They call’d her Pity, and fled<lb/>
+<lb/>
+                11. “Spread a Tent. with strong cur-<lb/>
+                -tains around them<lb/>
+                “Let cords &amp; stakes bind in the Void<lb/>
+                That Eternals may no more behold them”<lb/>
+<lb/>
+                12, They began to weave curtains of<lb/>
+                darkness<lb/>
+                They erected large pillars round the Void<lb/>
+                With golden hooks fastend in the pillars<lb/>
+                With infinite labour the Eternals<lb/>
+                A woof wove. and called it Science<lb/>
+<lb/>
+                Chap: VI.<lb/>
+<lb/>
+                1. But Los saw the Female &amp; pitied<lb/>
+                He embrac’d her, she wept, she refus’d<lb/>
+                In perverse and cruel delight<lb/>
+                She fled from his arms, yet he followd<lb/>
+<lb/>
+                2, Eternity shudder’d when they saw,<lb/>
+                Man begetting his likeness.<lb/>
+                On his own divided image.<lb/>
+<lb/>
+                3, A time passed over, the Eternals<lb/>
+                Began to erect the tent;<lb/>
+                When Enitharmon sick,<lb/>
+                Felt a Worm within her womb.<lb/>
+<lb/>
+                4. Yet helpless it lay like a Worm<lb/>
+                In the trembling womb<lb/>
+                To be moulded into existence<lb/>
+<lb/>
+                5, All day the worm lay on her bosom<lb/>
+                All night within her womb<lb/>
+                The worm lay till it grew to a ser-<lb/>
+                -pent<lb/>
+                With dolorous hissings &amp; poisons<lb/>
+                Round Enitharmons loins folding,<lb/>
+<lb/>
+                6, Coild within Enitharmons womb<lb/>
+                The serpent grew casting its scales<lb/>
+                With sharp pangs the hissings began<lb/>
+                To change to a grating cry,<lb/>
+                Many sorrows and dismal throes,<lb/>
+                Many forms of fish, bird &amp; beast,<lb/>
+                Brought forth an Infant form<lb/>
+                Where was a worm before.<lb/>
+<lb/>
+                7. The Eternals their tent finished<lb/>
+                Alarm’d with these gloomy visions<lb/>
+                When Enitharmon groaning<lb/>
+                Produc’d a man Child to the light,<lb/>
+<lb/>
+                8. A shriek ran thro’ Eternity:<lb/>
+                And a paralytic stroke;<lb/>
+                At the birth of the Human shadow,<lb/>
+<lb/>
+                9. Delving earth in his resistless<lb/>
+                way;<lb/>
+                Howling, the Child with fierce flames<lb/>
+                Issu’d from Enitharmon.<lb/>
+<lb/>
+                10. The Eternals, closed the tent<lb/>
+                They beat down the stakes the cords</figTranscr>
+              <head>38. <hi rend="i">The Book of Urizen</hi> copy C, plate 19.</head>
+              <figDesc>Yale Center for British Art, Paul Mellon Collection.</figDesc>
+            </figure>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">IV. Small <hi rend="i">Pity</hi></hi>
+              </title>
+            </head>
+            <p>For small <hi rend="i">Pity</hi> to have been printed from a quarter of a large copper sheet
+means, of course, that its matrix is copper and not millboard, but neither is it a “completely bare
+plate”. (Butlin, “Physicality” 4). The evidence that small <hi rend="i">Pity</hi> is from a metal plate
+lies also in the faintly embossed lines in the horses’ hind legs, tail, and front leg, and at the head of
+the supine figure (visible in the verso), the very slight embossment of the relief plateau. Knowing that small
+<hi rend="i">Pity</hi> is from a copper plate in slight relief and not completely bare helps to explain an
+apparent anomaly in the sequencing of the large color prints and to verify Butlin’s initial intuition
+regarding their evolution.</p>
+            <p>Butlin initially believed that <hi rend="i">Pity</hi> was Blake’s first large color-printed
+drawing, because it “developed from the small trial print, the only such try-out that is known, and this in
+turn was preceded by two composition sketches . . . the first of which is an upright composition, showing that
+at this stage Blake had
+<pb id="p41-73" n="73"/>
+not yet evolved the format for the series of large prints.” In these works (sketches, trial proof, finished
+impression), “one does seem to see Blake developing a completely new composition in a relatively short time
+from upright drawing to large horizontal color print in a way that suggests a direct evolution rather than the
+reuse of earlier material as found in others of the prints, and hence the real point of origin for the
+series.” And yet, if so, why is small <hi rend="i">Pity</hi>, “the . . . trial print,” followed by 
+<hi rend="i">God Judging Adam</hi>, the first color-printed drawing, and not <hi rend="i">Pity</hi>? This Butlin
+cannot answer: “Whether this origin, in a totally new design, has any significance for the meaning of the
+series as a whole I leave for others to speculate” (“Physicality” 5).</p>
+            <p>Treating small <hi rend="i">Pity</hi> as a sketch that immediately preceded the larger 
+<hi rend="i">Pity</hi> is logical, especially if you think that it too is from a “bare plate.” On the other
+hand, placing the trial proof <hi rend="i">after</hi> the first color-printed drawing makes no sense,
+especially if it is the “real point of origin for the series,” for it then becomes a “try-out” for 
+<hi rend="i">Pity</hi> alone and not the “experiment” in color printing “on a larger scale” that Butlin
+also assumes (cat. 313). The material evidence, however, indicates that both the experimental small 
+<hi rend="i">Pity</hi> and the first color-printed drawing are from copper plates, each etched in very slight to
+low relief, the former leading technically and materially to the latter. Indeed, small <hi rend="i">Pity</hi>
+is the “experiment” and “origin” that Butlin assumes. The mystery, however, lies not in Blake’s
+following small <hi rend="i">Pity</hi> with a “totally new design” (many sketches are not fully realized
+until much later), or moving from “bare plate” to relief outline to bare plates or millboards (that
+progression is an illusion), but rather in his following small <hi rend="i">Pity</hi>’s failure at defining
+form through blocks of color with a return to reliefetched outline, as used in illuminated books, before
+figuring out true planographic printing. As an experiment, small <hi rend="i">Pity</hi> is specifically about
+working out how best to define forms in large color prints, which is to say, less about format and composition
+than technique and style.</p>
+            <p>True, small <hi rend="i">Pity</hi> differs in format and design from everything color printed
+to that point; it is horizontal and a tryout for prints four times its size. It borrows from earlier works,
+though, even while attempting new things. Small <hi rend="i">Pity</hi> is divided into top and bottom halves
+that were inked in different colors (illus. 10). This in itself was not unusual, since two inks, as in sky and
+ground, were commonly used in color printing aquatint landscapes. Moreover, in 1794 Blake had color printed
+<hi rend="i">Urizen</hi> in this style, with page designs divided into texts and vignettes and inked in
+different colors. For example, he inked the bottom half (text) of plate 19 from <hi rend="i">Urizen</hi> copy
+C (illus. 38) in an olive green and the top half (figures) in yellow ochre; one can see that his dabber inked
+the figures’ outlines and touched down in their shallows, creating a wide white line along the base of the
+outline, indicating that he inked shallows and outlines together and that the relief was slightly higher here
+than in <hi rend="i">God Judging Adam.</hi> He went over the background in an olive green ink or color,
+defining the yellow ochre figures as negative spaces, or cavities within the ground. Plate 23 demonstrates
+more clearly this style of defining form (illus. 39).
+              <figure n="urizen.c.p20-23" id="urizen.c.illbk.20" work-copy="urizen.c" rend="db" width="706" height="1000">
+	<figTranscr>1 Urizen. C. VIII.<lb/>
+                Of life on his forsaken mountains<lb/>
+<lb/>
+                2, And his world teemd vast enormities<lb/>
+                Frightning: faithless; fawning<lb/>
+                Portions of life; similitudes<lb/>
+                Of a foot, or a hand, or a head<lb/>
+                Or a heart, or an eye, they swam mis<lb/>
+                -chevous<lb/>
+                Dread terrors! delighting in blood<lb/>
+<lb/>
+                3. Most Urizen sicken’d to see<lb/>
+                His eternal creations appear<lb/>
+                Sons &amp; daughters of sorrow on mountains<lb/>
+                Weeping! wailing! first Thiriel appear’d<lb/>
+                Astonish’d at his own existence<lb/>
+                Like a man from a cloud born, &amp; Utha<lb/>
+                From the waters emerging, laments!<lb/>
+<lb/>
+                Grodna rent the deep earth howling<lb/>
+                Amaz’d! his heavens immense cracks<lb/>
+                Like the ground parch’d with heat; then<lb/>
+                Fuzon<lb/>
+                Flam’d out! first begotten, last born.<lb/>
+                All his eternal sons in like manner<lb/>
+                His daughters from green herbs &amp; cattle<lb/>
+                From monsters, &amp; worms of the pit.<lb/>
+<lb/>
+                4, He in darkness clos’d, view’d all his<lb/>
+                race<lb/>
+                And his soul sicken’d! he curs’d<lb/>
+                Both sons &amp; daughters; for he saw<lb/>
+                That no flesh nor spirit could keep<lb/>
+                His iron laws one moment.<lb/>
+<lb/>
+                5. For he saw that life liv’d upon<lb/>
+                death</figTranscr>
+<head>39. <hi rend="i">The Book of Urizen</hi> copy C, plate 23.</head>
+<figDesc>Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+              <figure n="40.urizen.C.23.100" rend="file" width="679" height="1000">
+	<head>40. <hi rend="i">The Book of Urizen</hi> copy C, plate 23, digitally enhanced to appear as a
+relief-etched copper plate and to emphasize relief areas and cavities.</head>
+<figDesc>Yale Center for British Art, Paul Mellon Collection.</figDesc>
+</figure>
+<pb id="p41-74" n="74"/>
+<figure n="41.BUT313.1.1.CPD.100" rend="file" width="958" height="688">
+	<head>41. Small <hi rend="i">Pity</hi>, digitally enhanced to appear as a shallowly etched relief copper
+plate and to emphasize relief areas and cavities.</head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+Again, Blake inked the plate’s top and bottom halves in different colors and went over the bottom with a
+darker color to differentiate background and figure, carefully leaving the white of the paper to form
+Urizen’s robe (it is finished in white and gray colors in other impressions). Note, from the waist down,
+Urizen is a blank triangular shallow defined by its background, by solid blocks or areas painted in stop-out
+varnish and etched in relief (illus. 40). Blake had used this style of defining form in 
+<hi rend="i">Europe</hi>, also of 1794, plates 5, 8, and 14, and very rudimentarily in <hi rend="i">America</hi>
+plate 2.</p>
+            <p>Small <hi rend="i">Pity</hi> uses this style to define form on a larger scale. Instead of bold
+outlines to delineate figures, it uses blocks of colors, leaving the forms as white or negative space to be
+finished in pen and ink and watercolors (illus. 41). In other words, production is divided into two stages,
+each stage producing a different visual effect: in the print stage, forms are blocked out in thick, mottled
+colors printed from the relief surface; in the finishing stage, forms left unprinted are washed in and defined
+in pen and ink. Small <hi rend="i">Pity</hi> fails as a technical experiment because too much is left
+unprinted—nearly 50% of the composition—leaving too much for finishing, resulting in white areas whose
+flat, thin watercolors contrast poorly with thick, mottled, <hi rend="i">alla prima</hi> paint surfaces. The
+combination of water-colors over or adjacent to thick colors in the smaller illuminated plates works well, but
+here, on the larger surface plane, the allocation of the different media to different areas makes the surface
+visually incoherent.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> In short, small
+<hi rend="i">Pity</hi> printed but left uncolored is incomplete in ways that are not true of illuminated
+plates, etchings, or color-printed drawings. <note id="n17">17. Perhaps Blake’s painting the horse’s rump
+sky blue was sign enough that the forms were poorly defined. He could have fixed the mistake by going over the
+blue in darker colors, but he chose to leave the impression unfinished, probably because even dark washes over
+a relatively large space would have appeared flat next to the thick, mottled paint printed from the
+plate.</note></p>
+            <p>Large color-printed drawings require finishing in pen and ink and watercolors (particularly in
+second impressions), often to keep the images from looking like blots and blurs, but it is just that,
+finishing; printing and coloring are not separate stages, but are instead integrated in the initial execution
+of the design in paint on the plate. Form is defined through line and 
+<pb id="p41-75" n="75"/>
+colors together on the plate and then clarified, strengthened, and/or adorned further on the paper. The design
+on the matrix, in other words, already closely resembles the painting it will become rather than the basis for
+one. Matrix as organically unfolding painting would have described <hi rend="i">God Judging Adam</hi> (though
+of course not if its outline were printed separately from its colors), and most evidently the millboard
+designs that followed. As a design, small <hi rend="i">Pity</hi> could not be realized or completed without an
+inordinate amount of additional work that went far beyond the usual finishing, which is presumably why Blake
+left it unfinished, realizing that constructing designs out of printing and painting produced aesthetically
+inchoate textures and was not analogous to producing illuminated prints, where watercolor washes supplemented
+autonomous designs instead of completing them. His experiment was moving him in the opposite direction from
+the large painterly compositions he was envisioning.<supplied type="spacer"> </supplied><ref target="n18"
+type="note">18</ref>
+	<note id="n18">18. In the Tate’s version of <hi rend="i">Lamech and His Two Wives</hi>, “virtually the
+whole image has been printed, with no reserves of paper left for finishing in watercolour.” This “seems to
+be a considerably more developed form of the technique” than used in <hi rend="i">Naomi Entreating Ruth and
+Orpah</hi>, “which argues that this print [<hi rend="i">Lamech</hi>] was made late in the series” (McManus
+and Townsend 96). In <hi rend="i">Naomi, God Judging Adam</hi>, and other prints, Blake left the figures or
+parts of them unprinted/unpainted to use the white of the paper, often in conjunction with white pigments, for
+highlights and contrast, but these are small areas relative to the composition and do not produce visually
+discordant surface textures.</note></p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">V. <hi rend="i">Albion rose</hi> and the <hi rend="i">Book</hi>[<hi
+rend="i">s</hi>] <hi rend="i">of Designs</hi></hi>
+              </title>
+            </head>
+            <p>Butlin believes that <hi rend="i">Albion rose</hi> also influenced the large color-printed
+drawings, and again he is right, but not entirely as he supposes. <hi rend="i">Albion rose</hi> is one of two
+etchings and 30 illuminated plates with masked-out texts color printed on papers of two different sizes for
+Ozias Humphry. Blake refers to the impressions only as “a selection from the different Books of such as
+could be Printed without the Writing” (Erdman, <hi rend="i">Complete Poetry</hi> 771); we refer to them as
+the <hi rend="i">Small Book of Designs</hi> and the <hi rend="i">Large Book of Designs.</hi><supplied
+type="spacer"> </supplied><ref target="n19" type="note">19</ref><hi rend="i">Albion rose</hi>, from the
+latter, was color printed from the surface, with its incised lines not printed but used as guidelines for
+painting. In the catalogue, Butlin dates copies A of <hi rend="i">Small Book</hi> and <hi rend="i">Large
+Book</hi> 1794 because the date on <hi rend="i">Urizen</hi> plate 1 in the former was left as printed,
+“1794.” He dates copies B of both <hi rend="i">Book</hi>[<hi rend="i">s</hi>] 1796 because the printed
+date was altered in pen to “1796” (cat. 260). Bindman does the same and believes the two copies of 
+<hi rend="i">Small Book</hi> represent different projects and motives years apart, with copy A serving as a
+“sampler of his best designs” to “demonstrate his colour-printing process,” and copy B possibly
+“some kind of emblem book [compiled] out of a selection of his designs” (476). Most of the B impressions,
+however, are second pulls, impressions pulled from the plate while ink and colors were still wet, which means
+they cannot be years apart. Butlin recognizes this fact in a later article (“Physicality” 3), but uses the
+unaltered 1794 date on the <hi rend="i">Urizen</hi> title plate in copy A for both sets of impressions. Thus,
+he considers 1794 as the date when “the illustrations literally broke free” of the accompanying texts. He
+also notes that <hi rend="i">Large Book</hi> included three subjects “based on independent engravings; the
+distinction between books and independent works was beginning to break down” (3). But a printed date does
+not date a printing session, as nearly any reprinted illuminated book demonstrates. The altered date of 1796
+is more trustworthy than the printed “1794” because it bears Blake’s autograph (a similarly penned-in
+date of “1790” on plate 3 of <hi rend="i">Marriage</hi> copy F proved reliable); even if treated like the
+“1795” written on color prints produced c. 1804, it would signify the conception of the series and not the
+individual parts. Moreover, a project such as this one, where a selection of plates was reprinted without
+text, would have been an anomaly in 1794, because Blake was just beginning to reprint books and had not yet
+color printed from the surface of intaglio plates. <note id="n19">19. The <hi rend="i">Small Book</hi>
+consisted of 23 impressions pulled from <hi rend="i">Urizen, Marriage, Thel</hi>, and 
+<hi rend="i">Visions</hi>, on Whatman 1794 paper 26 × 19 cm.; the <hi rend="i">Large Book</hi> consisted of
+plates from <hi rend="i">Urizen, Visions</hi>, separate relief plates of <hi rend="i">America</hi> plate d and
+<hi rend="i">Joseph of Arimathea Preaching</hi>, and two etchings, <hi rend="i">Albion rose</hi> and 
+<hi rend="i">The Accusers</hi>, on Whatman 1794 paper cut to 34.5 × 24.5 cm. Humphry, a renowned miniaturist,
+appears to have already owned color-printed <hi rend="i">Songs</hi> copy H and <hi rend="i">Europe</hi> copy D
+as well as monochrome <hi rend="i">America</hi> copy H, which may explain why plates from these books were not
+in the <hi rend="i">Book</hi>[<hi rend="i">s</hi>] <hi rend="i">of Designs</hi>, despite the obvious
+suitability of <hi rend="i">America</hi> and <hi rend="i">Europe</hi> designs for such a project. For more
+information about the <hi rend="i">Book</hi>[<hi rend="i">s</hi>] <hi rend="i">of Designs</hi> and their
+connection to the large color-printed drawings, see Viscomi, <hi rend="i">Blake and the Idea of the Book</hi>
+302-04.</note></p>
+            <p>Neither color-printed impression of <hi rend="i">Albion rose</hi> could have been printed in
+1794, since the plate appears not to have been cut from its sheet until 1795, along with the plates for small
+<hi rend="i">Pity, The Book of Los</hi>, and <hi rend="i">The Book of Ahania.</hi> Both color-printed
+impressions are in the first state and “were very probably produced in 1795-1796 when Blake seems to have
+done most of his work in that medium” (Essick, <hi rend="i">Separate Plates</hi> 28). No monochrome
+impression of the first state is extant. On the basis of the similarity in style to <hi rend="i">The
+Accusers</hi> (1793) and <hi rend="i">The Gates of Paradise</hi> (1793), Essick dates the first state of 
+<hi rend="i">Albion rose</hi> c. 1793 (<hi rend="i">Separate Plates</hi> 28). This date can now be changed to 1795
+and may explain why no monochrome impressions in the first state are extant: Blake color printed the plate
+before printing it in intaglio (though he probably proofed the plate during its progress and the proofs, like
+most proofs, are not extant). On the basis of textual and graphic evidence, Essick dates the second state of
+the plate (illus. 42a) no earlier than c. 1804 and possibly later than c. 1818. Albion, mentioned in the
+inscription, does not appear as a person in “Blake’s poetry until some of the later revisions of 
+<hi rend="i">The Four Zoas</hi> manuscript, probably made after 1800, and in <hi rend="i">Milton</hi>, begun about
+1803” (<hi rend="i">Separate Plates</hi> 28). Moreover, the inscription has a left-pointing serif on the
+letter g, which, according to Erdman’s hypothesis, Blake used consistently between c. 1791 and
+1803.<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref> However,
+<pb id="p41-76" n="76"/>
+visual effects such as the burnished halo behind Albion’s head Essick associates with the influence of
+Linnell, leading him to suggest a possible post-1818 date as well (private correspondence). <note id="n20">20.
+See David V. Erdman, “Dating Blake’s Script: The ‘g’ Hypothesis,” <hi rend="i">Blake</hi> 3.1
+(1969): 8-13. The inscription reads: “Albion rose from where he labourd at the Mill with Slaves / Giving
+himself for the Nations he danc’d the dance of Eternal Death.” Essick notes that the imagery in the
+inscription echoes that used in a letter to William Hayley, 23 October 1804, in which he likens himself to
+“a slave bound in a mill among beasts and devils” who has been “again enlightened with the light [he]
+enjoyed in [his] youth” (<hi rend="i">Separate Plates</hi> 28). The inscription reveals Blake returning to
+an earlier image and reinterpreting it (or remembering it as an idealized self-portrait), as he did with 
+<hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi> (1773, c. 1810-20), <hi rend="i">The Accusers</hi>
+(1793, c. 1805-10), and <hi rend="i">Mirth</hi> (c. 1816-20, 1820-27).</note></p>
+            <p>Yet something is not quite right here. Because the etched lines are visible in the second,
+lighter color-printed impression when examined in strong light, Essick could ascertain that the first state
+“lacked the bat-winged moth, worm, and shafts of light radiating from the figure .... The horizontal
+hatching lines of the background seem to have extended much closer to the head and shoulders of the figure . .
+.” (<hi rend="i">Separate Plates</hi> 24). He also notes that Blake added a hill under the figure’s right
+foot without deleting the horizontal background lines, as he did when he added the moth. While the inscription
+may be c. 1804 or later, these design changes—halo, shafts of light, and hill—are likely to have been c.
+1795, because they follow the color print’s coloring so closely, as is demonstrated by placing a
+transparency of the color print over the second state (illus. 42b). Blake appears to have used the color print
+as a model for the changes he made in the plate, but he is unlikely to have waited nine or more years to make
+these changes. The copy A impression was in Humphry’s possession by 1796 and the copy B impression appears
+to have been “one of the prints by Blake acquired in August 1797 by Dr. James Curry, a friend of
+Humphry’s” (Essick, <hi rend="i">Separate Plates</hi> 25; see also Bentley, “Dr. James Curry as a Patron
+of Blake,” <hi rend="i">Notes and Queries</hi> 27 [1980]: 71-73). Also, Blake seems to have used scrapers
+and burnishers conventionally, to erase lines and smooth surfaces so he could etch new forms, like the moth,
+and not radically, as he did in the second states of <hi rend="i">Mirth, Job</hi>, and 
+<hi rend="i">Ezekiel</hi>, where he created dramatic and painterly visual effects that do indeed appear to reflect
+the influence of Linnell.<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n21">21. For Blake’s radical use of burnishers to create stark contrasts of blacks and whites and
+its association with Linnell, see Essick, <hi rend="i">Printmaker</hi>, chapters 13 and 16, and Essick,
+“John Linnell.” The technique’s use in <hi rend="i">Albion rose</hi>, however, seems more practical than
+painterly, and the resulting play of light less dramatic than in those others revised late in life.</note></p>
+            <figure n="42a.ESVII.1.2C.SP.100" rend="file" width="743" height="1000">
+              <figTranscr>WB inv 1780</figTranscr>
+              <head>42a. <hi rend="i">Albion rose</hi>, second state.</head>
+              <figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+            </figure>
+            <figure n="42b.albion.rose.cp.mono.100" rend="file" width="743" height="1000">
+              <figTranscr>WB inv 1780</figTranscr>
+              <head>42b. <hi rend="i">Albion rose</hi>, transparency of color print laid over second state of
+the plate to show alignment of colors with changes made in the second state.</head>
+            </figure>
+            <pb id="p41-77" n="77"/>
+            <p>Moreover, the worm, whose significance may be explained by a passage in 
+<hi rend="i">Jerusalem</hi> 55:36-37 (Essick, <hi rend="i">Separate Plates</hi> 29), is visually similar to the
+worms in <hi rend="i">Gates of Paradise</hi> (1793) plates 1 and 18 and in <hi rend="i">The Song of Los</hi>
+plate 3. More interestingly, the bat-winged moth in the second state (illus. 42a) may have been influenced by
+the bat-winged moth in <hi rend="i">The Song of Los</hi> plates 3-4 (illus. 43). This image has heretofore
+been unrecorded because it appears in the middle of the horizontal plate and was masked out during printing;
+it is digitally recreated from traces in the plate 3 impression of copy E and plate 4 of copy B. The first
+state of <hi rend="i">Albion rose</hi> has always been thought to precede <hi rend="i">The Song of Los</hi>,
+but knowing that both works are from 1795 requires rethinking their sequence. If the second state of 
+<hi rend="i">Albion rose</hi> was influenced by <hi rend="i">The Song of Los</hi>’s moth, then the first state
+of <hi rend="i">Albion rose</hi> was executed <hi rend="i">before The Song of Los</hi> text plates, which in
+turn suggests that the plates cut from the same sheet as <hi rend="i">Albion rose</hi>—including those for
+<hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi>—also precede <hi rend="i">The
+Song of Los.</hi> This sequence for the books agrees with other, stronger evidence given below.</p>
+            <p>Blake appears to have color printed <hi rend="i">Albion rose</hi> before printing it in
+intaglio. More importantly, it is the first intaglio plate he color printed. Misdating <hi rend="i">Large
+Book</hi>, with its two etchings, 1794 instead of 1796 has obscured this likelihood and its significance.
+Blake color printed only two other etchings, <hi rend="i">The Accusers</hi> and <hi rend="i">Lucifer and the
+Pope in Hell</hi>, and appears to have done so after <hi rend="i">Albion rose.</hi> The first state of the
+former is dated 5 June 1793; the two color-printed impressions extant are in the second state (Essick, 
+<hi rend="i">Separate Plates</hi> 31) and were part of the <hi rend="i">Large Book</hi>, which Blake appears to
+have put together in 1796 by commission. No monochrome impressions of the second state are extant, which
+suggests that the color printing of <hi rend="i">The Accusers</hi> for <hi rend="i">Large Book</hi> may have
+provided the opportunity to make changes in the plate. <hi rend="i">Lucifer</hi> exists in a touched proof,
+with lots of pencil work in the first state and a monochrome impression in the second state.<supplied
+type="spacer"> </supplied><ref target="n22" type="note">22</ref> The one color-printed impression is
+presumably in the second state (the colors are too thick to see through and the image is pasted down on a
+thick sheet of paper). Essick dates the plate c. 1794 because it seems to share themes and motifs with 
+<hi rend="i">Europe</hi> (1794), but he also recognizes that it differs stylistically from the other political
+prints, <hi rend="i">Albion rose</hi> and <hi rend="i">The Accusers</hi>, in that, while executed in their
+energetic etched 
+              <figure n="43.sl.butterfly.100" rend="file" width="592" height="757">
+	<figTranscr>[Afri]can<lb/>
+<lb/>
+                And all t[he]<lb/>
+                Before th[eir]<lb/>
+<lb/>
+                Thus the terr[ible]<lb/>
+                Laws &amp; Re[ligions]<lb/>
+                And more to<lb/>
+                Till a Philos[ophy]<lb/>
+                Urizen wept<lb/>
+<lb/>
+                Clou[ds]<lb/>
+                And<lb/>
+                Of A[sia]<lb/>
+                The</figTranscr>
+<head>43. <hi rend="i">The Song of Los</hi>, butterfly in recreated design for plates 3-4, detail, based on
+copies E and B.</head>
+</figure>
+style, it makes “more use of enlarged versions of such conventional patterns as worm lines and cross
+hatching, much as in the <hi rend="i">Night Thoughts</hi> plates of 1796-1797” (<hi rend="i">Separate
+Plates</hi> 43). I agree and think <hi rend="i">Lucifer</hi> is c. 1796 and probably color printed that year,
+along with the other works for the <hi rend="i">Large Book</hi> and <hi rend="i">Small Book</hi>, though it
+was not part of either series, no doubt excluded for having a horizontal rather than vertical format. 
+<note id="n22">22. The recently rediscovered proof is in the Essick Collection; it was unknown at the time Essick
+wrote his <hi rend="i">Separate Plates</hi> catalogue, which lists only one state for the plate
+(41-42).</note></p>
+            <p>In 1796, Blake appears to have built a series of color prints around <hi rend="i">Albion
+rose</hi>, taking stock of his etchings and relief etchings and transforming 30 of them into miniature
+paintings to make up the two series for Humphry. Twenty-two years later, in a 9 June 1818 letter to Dawson
+Turner, he remembered the project this way:</p>
+            <p>Those I Printed for M<hi rend="s">r</hi> Humphry are a selection from the different Books of
+such as could be Printed without the Writing tho to the Loss of some of the best things[.] For they when
+Printed perfect accompany Poetical Personifications &amp; Acts without which Poems they never could have been
+Executed[.]</p>
+            <p>He then describes the color-printed drawings as:</p>
+            <p>12 Large Prints Size of Each about 2 feet by 1 &amp; 1/2 Historical &amp; Poetical Printed in
+Colours[.] . . . These last 12 Prints are unaccompanied by any writing[.] (Erdman, <hi rend="i">Complete
+Poetry</hi> 771)</p>
+            <p>For Blake, the illuminated plates “Printed without the Writing” and the large color prints
+“unaccompanied by any writing” are clearly related projects. They are also, as Blake tells Turner,
+“sufficient to have gained me great reputation as an Artist which was the chief thing Intended.” Butlin
+recognizes that the projects are connected and has done more to champion their importance to Blake’s
+reputation as an artist than any other Blake scholar. He has argued, though, that the small works evolved into
+the larger works and thus, as noted, considers 1794 as the start of Blake’s illustrations breaking free of
+text (“Physicality” 3). But, as shown here, the smaller monotypes are from 1796, not 1794, and found their
+precedent and inspiration in the larger monotypes of 1795. And like their prototypes, the later, smaller
+impressions were colored “with a degree of splendour and force, as almost to resemble sketches in
+oil-colours . . . all of which are peculiarly remarkable for their strength and splendour of
+colouring.”<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref> Indeed, the
+color-printed drawings,
+<pb id="p41-78" n="78"/>
+large and small, are to oil sketches what relief etchings are to drawings. They are prints in which Blake
+incorporated the tools and techniques of painting, just as in illuminated prints he used the tools and
+processes of drawing and writing. The prints in the <hi rend="i">Small Book</hi> and <hi rend="i">Large
+Book</hi> are not only “free of text,” but they differ even from the color-printed illuminated plates of
+1794 by having been produced in a more overtly painterly manner, no doubt influenced by the larger prints of
+1795. This painterliness in the small and large monotypes is no mere illusion, as it would be if the
+impressions were assembled from separately printed outline and colors. <note id="n23">23. Richard Thomson’s
+description of the <hi rend="i">Large Book</hi> for J. T. Smith’s <hi rend="i">Nollekens and His Times</hi>,
+as quoted in Bentley, <hi rend="i">Blake Records</hi> 621.</note></p>
+            <p>Butlin’s premise that the large monotypes of 1795 grew out of smaller works is correct, but
+his choice of smaller works is partly mistaken. The candidates are the illuminated books color printed in
+1794, or small <hi rend="i">Pity</hi> and <hi rend="i">Albion rose</hi> of 1795. Blake first prints in colors
+in 1794, printing the <hi rend="i">Experience</hi> sections of <hi rend="i">Songs</hi> copies F, G, H, T, and
+B, C, D, and E (the two sets in that order); <hi rend="i">Europe</hi> copies B, C, D, E, F, and G; 
+<hi rend="i">The Book of Urizen</hi> copies A, C, D, E, F, and J; and possibly <hi rend="i">Visions of the
+Daughters of Albion</hi> copies F and R and <hi rend="i">The Marriage of Heaven and Hell</hi> copies E and F.
+He color printed <hi rend="i">The Book of Los, The Book of Ahania</hi>, and <hi rend="i">The Song of Los</hi>
+in 1795. The last of these, as we shall see, is likely to have been executed concurrently with or after the
+large color-printed drawings and under the influence of their format and technique, whereas the first two
+books are etchings that appear to have been executed before the color-printed drawings but after 
+<hi rend="i">Albion rose</hi>, as indicated by Blake’s change of mind regarding the original quarter sheets used
+to provide their plates. Many significant differences exist between color printing relief etchings and
+intaglio etchings. With the former, Blake is inking plates as prints and adding colors to inked and uninked
+areas. He behaved even more radically with the latter works. Blake is not inking the plate; he is painting it,
+using etched lines as guidelines, but he is also free to improvise at will, as he did with hill and halo in
+<hi rend="i">Albion rose.</hi> Nothing like these had ever been produced before and no analogous printing
+process exists.</p>
+            <p>Recognizing <hi rend="i">Albion rose</hi> as a product of 1795 rather than 1794, as the first
+color-printed intaglio plate, and as cut from the same sheet as small <hi rend="i">Pity</hi> helps us to see
+it and small <hi rend="i">Pity</hi> more clearly as experiments in color printing that reveal the technical
+problem Blake is attempting to solve. He, as intaglio etcher and relief etcher, quarters a large sheet of
+copper and prepares three plates for intaglio and one for relief. He uses the relief etching to experiment
+with creating a matrix capable of being color printed as a relatively large composition. He needs to scale up
+in size his earlier experiments; to date, he has color printed from both the surface and from the surface and
+shallows simultaneously of relief etchings. He needs to figure out how to define forms on larger surfaces in
+the new marriage of print and painting that he was then envisioning. Were forms to be blocked out in low flat
+relief, as in small <hi rend="i">Pity</hi>, in relief outline, as in illuminated plates, or in incised
+outline, as in <hi rend="i">Albion rose? Albion rose</hi> can be printed without colors or finishing, but
+small <hi rend="i">Pity</hi> cannot; the latter work was designed with color printing in mind while the former
+probably was not. As Blake was beginning to experiment with scaling up his color prints, however, he put 
+<hi rend="i">Albion rose</hi> to double use, testing its suitability for large printed paintings by painting the
+design and printing it. The idea to color print <hi rend="i">Albion rose</hi> from its surface instead of
+printing it as an etching may have occurred to Blake during its execution or after recognizing the failure of
+small <hi rend="i">Pity.</hi></p>
+            <p>The basic principle, one could argue, for inventing large monotypes is present in color
+printing relief etchings, but, in practice, Blake is closer to working up flat areas and defining forms
+through colors when color printing intaglio etchings. Does this mean <hi rend="i">Albion rose</hi> was more
+influential in what followed than small <hi rend="i">Pity</hi>? Yes and no. The intaglio etching appears
+directly to have influenced the choice of medium and color printing technique of <hi rend="i">The Book of
+Ahania</hi> and <hi rend="i">The Book of Los</hi>—works one quarter the size of <hi rend="i">Albion
+rose</hi>—but not the color-printed drawings, which are four times its size. Interesting, in this regard, is
+Blake’s never having color printed the intaglio engravings that are the size of the color prints, like 
+<hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi>, perhaps finding the dense line systems unsuited for the open
+and painterly compositions he was then creating—or because such surfaces proved more difficult to use than
+gesso’s striated surfaces. In any event, he apparently decided not to use etched outlines for his large
+printed paintings, following small <hi rend="i">Pity</hi> with <hi rend="i">God Judging Adam.</hi> What, then,
+leads to true planographic printing, which lies, technically speaking, somewhere between small 
+<hi rend="i">Pity</hi> and <hi rend="i">Albion rose</hi>?</p>
+            <p>Blake possibly went from small <hi rend="i">Pity</hi> to <hi rend="i">God Judging Adam</hi> and
+returned to <hi rend="i">Albion rose</hi> to think more on the problem of defining form. The idea of a
+non-printable outline—neither in relief nor intaglio—but paintable along with blocks of colors could have
+grown out of painting and printing <hi rend="i">Albion rose.</hi> Alternatively, it could have grown out of
+painting over a low relief outline of <hi rend="i">God Judging Adam</hi> and realizing that the outline’s
+function could be served planographically, that it was the painting over the outline rather than printing the
+outline that mattered most. Once Blake made that discovery, returning to color print an intaglio etching or
+moving to the planographic printing of <hi rend="i">Elohim</hi> or <hi rend="i">Satan</hi> and then to
+millboards must have come quickly.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">VI. <hi rend="i">The Song of Los</hi> Reconsidered</hi>
+              </title>
+            </head>
+            <p>Determining the exact sequence of development in Blake’s monotyping may be impossible,
+because planographic printing can evolve out of painting the surface of an etching, using the incised lines as
+guidelines, or vice versa. However, the use of one sheet of copper to produce both small 
+<hi rend="i">Pity</hi> and <hi rend="i">Albion rose</hi>, two plates representing different technical solutions to
+defining forms needed for printing large monotypes, does help us sequence the illuminated books of 1795. The
+size of the sheet may have influenced the size of the subsequent sheets acquired for the color prints. Recall
+that Blake described the “Size of Each” of his “12 Large Prints” at “about 2 feet by 1 &amp; 1/2”
+(Erdman, <hi rend="i">Complete Poetry</hi> 771). Since these 
+<pb id="p41-79" n="79"/>
+<figure n="44.song.of.los.B.8.striations.100" rend="file" width="958" height="879">
+	<head>44. <hi rend="i">The Song of Los</hi> copy B, plate 8, detail.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+works are horizontal, we should record this as 18 × 24 in. This is a rough approximation, but each work is
+within one and a quarter inch in height and three inches in width of this approximation. The smallest, 
+<hi rend="i">Pity</hi>, is 16.75 × 21.25 in. (42.5 × 53.9 cm.), approximately the same size as <hi rend="i">God
+Judging Adam</hi>, presumably the first, which is 17 × 21 in. (43.2 × 53.5 cm.); the largest, 
+<hi rend="i">House of Death</hi>, is 19 × 24 in. (48.5 × 61 cm.); the widest, <hi rend="i">Nebuchadnezzar</hi>,
+is 17.5 × 24.4 in. (44.6 × 62 cm.).<supplied type="spacer"> </supplied><ref target="n24"
+type="note">24</ref> At 39.4 × 54.4 cm. (15.5 × 21.4 in.), the copper sheet yielding small 
+<hi rend="i">Pity, Albion rose, The Book of Ahania</hi>, and <hi rend="i">The Book of Los</hi> fits squarely
+within the average of the first color-printed drawings, but is shorter, on average, by 3.5 cm. Assuming the
+copper sheet used for <hi rend="i">The Song of Los</hi> plates 3-4 and 6-7 was a half sheet, then the full
+sheet, at 43.5 × 54.4 cm., fits within both height and width of color-printed drawings. Relative to the
+copper sheets and millboards used in 1795, it fits the series while the shorter sheet, which yielded works
+whose printing directly influenced the technique and printing of the large color-printed drawings, does not.
+Similarly sized sheets for a projected series suggest a similar date of purchase; the shorter sheet appears
+not only to have been worked on before those of the series, but also to have been acquired apart from them,
+which further supports the thesis that <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of
+Ahania</hi> were composed and executed before the larger relief-etched text plates of <hi rend="i">The Song of
+Los</hi>, which in turn preceded their illustrations, plates 1, 2, 5, and 8. <note id="n24">24. The widths
+vary 8.5 cm., ranging from approximately 53.5 cm. (four), 57.5 cm. (one), 58.1 cm. (two), 59.4 cm. (one) to
+60-62 cm. (four); height varies only 6 cm., ranging from 42.5 to 44.6 cm. (ten), and 46 to 48.5 cm.
+(two).</note></p>
+            <p>Assuming Blake treated the sheet yielding <hi rend="i">The Song of Los</hi> plates 3-4 and 6-7
+like the one for <hi rend="i">The Book of Ahania</hi> and <hi rend="i">The Book of Los</hi>, i.e., cutting it
+in half, then the unused half would also be approximately 43.5-8 × 27.2-5 cm. Cutting this half to provide
+the coppers for <hi rend="i">The Song of Los</hi> plates 2/5 and 1/8 appears logical, but to have done so
+would have meant wasting precious metal, because 24.2 × 17.4 cm. (2/5) and 23.6 × 17.5 cm. (1/8) do not fit
+without lots of awkward trimming. Moreover, plates 2/5 and 1/8 do not fit together; they were not conjoined in
+a sheet. Thus, while technically possible, economically it made no sense—and as his recto-verso etching
+demonstrates, Blake was very practical in his use of copper. He may have bought just half the sheet, intending
+to halve it for <hi rend="i">The Song of Los</hi> text plates, or bought the whole sheet and used the other
+half or pieces from it later.<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref>
+However he used it, plates 2/5 and 1/8 appear certainly not to have been cut out of it, which supports the
+evidence below that they were not copper but millboards. <note id="n25">25. Blake’s <hi rend="i">Child of
+Nature</hi> (1818), known from a unique impression, is 43.3 × 27.5 cm., the size of the half sheet. Other
+possible configurations include the <hi rend="i">Moore &amp; Co. Advertisement</hi>, c. 1797-98 (Essick, 
+<hi rend="i">Separate Plates</hi> 47), along with some practice plates for Thomas Butts (see Essick, 
+<hi rend="i">Separate Plates</hi> 211-12). Blake reused parts of the <hi rend="i">Moore</hi> plate years later for
+<hi rend="i">Jerusalem</hi> plate 64, which is the recto of <hi rend="i">Jerusalem</hi> plate 96 (Essick, 
+<hi rend="i">Separate Plates</hi> 48).</note></p>
+            <p>Plates 1 and 8 were planographically printed; no relief lines or marks are present in the
+versos of any impressions from either plate. No traces of incised lines are seen through the impression in
+strong light, as can be seen in the copy B impression of <hi rend="i">Albion rose.</hi> Blake either lightly
+etched or scratched
+<pb id="p41-80" n="80"/>
+<figure n="s-los.a.p5" id="s-los.a.illbk.05" work-copy="s-los.a" rend="db" width="762" height="1000">
+	<figTranscr/>
+	<head>45a. <hi rend="i">The Song of Los</hi> copy A, plate 5.</head>
+<figDesc>© Copyright the Trustees of the British Museum.</figDesc>
+</figure>
+              <figure n="s-los.b.p5" id="s-los.b.illbk.05" work-copy="s-los.b" rend="db" width="735" height="1000">
+	<figTranscr>7</figTranscr>
+<head>45b. <hi rend="i">The Song of Los</hi> copy B, plate 5.</head>
+<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission.</figDesc>
+</figure>
+              <figure n="46.sl.letter.N.100" rend="file" width="958" height="750">
+	<figTranscr>[S]ON[G]<lb/>
+                [S]ON[G]<lb/>
+                [S]ON[G]<lb/>
+                [S]ON[G]<lb/>
+</figTranscr>
+<head>46. <hi rend="i">The Song of Los</hi> copies A, B / D, C, plate 2, detail of the letter “N” from
+title.</head>
+<figDesc>© Copyright the Trustees of the British Museum. Lessing J. Rosenwald Collection, Library of
+Congress. © Copyright 2005, William Blake Archive. Used with permission. Morgan Library and Museum, New York.
+PML 77236.</figDesc>
+</figure>
+the outline in metal, as suggested by Essick (<hi rend="i">Printmaker</hi> 128), or he used millboard, which
+seems more likely, given the very wavy cut of the plate along the top edge (illus. 2), something more likely
+in board than metal. More significant are the striations in clouds and arms visible in plate 8 of copy B
+(illus. 44). These patterns, typical of gessoed millboard, are also in copies E and A and thus are not
+repetitions in the paint layer of a first pull within a second.</p>
+            <p>Plates 2 and 5 are also planographically printed. In plate 5 (illus. 45), figures, lily petals,
+and stems are consistent in each impression and carefully finished in watercolor washes and pen and ink. The
+broad green and brown leaves under the lilies, however, differ in number, form, and placement in each
+impression, signs of improvisation, of having been painted broadly and energetically directly on the plate
+rather than painted within an outline. Here, Blake paints each design anew, creating prints with both the
+miniature’s exactness of form and the freedom and boldness of the oil sketch.</p>
+            <p>Essick was first to recognize that plate 2 is the only illuminated plate with planographic
+lettering, though he acknowledges that the letters may have had “lightly incised” outlines 
+(<hi rend="i">Printmaker</hi> 128). Dörrbecker agrees and adds that the letters
+<pb id="p41-81" n="81"/>
+<figure n="47.sl.2.B.C.L.100" rend="file" width="958" height="496">
+	<figTranscr>L<lb/>
+	L</figTranscr>
+	<head>47. <hi rend="i">The Song of Los</hi> copies B and C, plate 2, detail of letter “L” from
+title.</head>
+	<figDesc>Lessing J. Rosenwald Collection, Library of Congress. © Copyright 2005, William Blake Archive. Used
+with permission. Morgan Library and Museum, New York. PML 77236.</figDesc>
+</figure>
+<figure n="48.sl.C.2.whiteline.100" rend="file" width="958" height="778">
+	<head>48. <hi rend="i">The Song of Los</hi> copy C, plate 2, detail.</head>
+	<figDesc>Morgan Library and Museum, New York. PML 77236.</figDesc>
+</figure>
+of the inscription may have been relief etched (319n28). Comparing all six impressions in great detail,
+however, reveals that the letter forms are too inconsistent to have been outlined or relief etched. Note, for
+example, the letter “N” (illus. 46) in copies A and B (top row) and D and C (bottom row): B and C differ
+slightly from one another but are exactly like A and D respectively, only lighter, because they are second
+impressions.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref> Incised lines and
+relief etching are also ruled out because the matrix is almost certain to have been millboard, as indicated by
+the striated texture under the colors forming the letter “L” in the non-sequential B and C impressions
+(illus. 47). The copy C impression is telling in other ways as well; a second pull, it reveals thin white
+lines (illus. 48) that at first appear to be part of an incised outline, thus suggesting a metal plate. Closer
+inspection, however, reveals the white lines are the spaces between adjoining blocks of colors; we see the
+same effect in the second impression of <hi rend="i">Pity</hi> (illus. 49) and many of the other color-printed
+drawings. <note id="n26">26. The six extant impressions of the title plate can be sequenced: F, A, B, D, C,
+E[?]. The E impression is very poorly and lightly printed and has so much handwork that sequencing is
+difficult and the possibility of a missing impression, of which this is a second or even third pull, is
+raised.</note></p>
+            <p>The accepted sequence of <hi rend="i">The Song of Los, The Book of Ahania</hi>, and 
+<hi rend="i">The Book of Los</hi> has Blake returning to the continental myth before finishing the Urizen cycle.
+It pictures him creatively experimenting in <hi rend="i">The Song of Los</hi> with page format and text design
+and using small color-printed drawings as book illustrations, only to return in the intaglio books to the
+earlier text format of <hi rend="i">Urizen.</hi> We now can see that <hi rend="i">The Song of Los</hi> is last
+in this sequence and that Blake completed the Urizen poems first and without interruption, with two much
+shorter books whose planographically printed images were directly influenced by the color printing of 
+<hi rend="i">Albion rose. The Song of Los</hi> plates 3-4 and 6-7 are horizontal compositions influenced
+apparently by the format of Blake’s new invention, the large
+<pb id="p41-82" n="82"/>
+              <figure n="49.pity.whiteline.but311.100" rend="file" width="900" height="736">
+	<head>49. <hi rend="i">Pity</hi>, detail.</head>
+<figDesc>Metropolitan Museum of Art, gift of Mrs. Robert W. Goelet, 1958 (58.603). Photograph © copyright
+1979, Metropolitan Museum of Art.</figDesc>
+</figure>
+color monotypes. Their double columns were influenced by <hi rend="i">Urizen, The Book of Ahania</hi>, and 
+<hi rend="i">The Book of Los</hi>, but differ significantly, being widely spaced and almost free flowing in a
+format that combined poetry, printmaking, and painting in a new and radical way. <hi rend="i">The Song of
+Los</hi> was Blake’s last illuminated text until <hi rend="i">Milton</hi>, and Blake probably began it while
+working on the color-printed drawings, conceiving of his new texts as paintings with—or of—poems,
+presented as horizontal scrolls, panels, or broadsides.</p>
+            <p>With <hi rend="i">The Song of Los</hi> as originally conceived, Blake returned to his
+continental cycle using the same relief-etched print medium but in a painting format. For whatever reason, he
+changed his mind and decided that his “Africa” and “Asia” needed to be reformatted. He masked one side
+of the horizontal plate when printing to transform texts into book pages. He executed full-page illustrations
+on millboard after the text plates and designed them to match in shape and size the plates of 
+<hi rend="i">America</hi> and <hi rend="i">Europe.</hi> In doing so, he appears to have salvaged an experiment he
+abandoned by extending what he learned about planographic printing from millboard into book production. The
+fact that <hi rend="i">The Book of Los</hi> and <hi rend="i">The Book of Ahania</hi> are not to 
+<hi rend="i">Urizen</hi> as <hi rend="i">Experience</hi> is to <hi rend="i">Innocence</hi>, but are clearly
+related parts differently formatted, may have freed Blake from thinking that “Asia” and “Africa” had
+to match <hi rend="i">America</hi> and <hi rend="i">Europe</hi> exactly. The non-symmetrical relation within
+the Urizen cycle may have enabled him to reconstruct <hi rend="i">The Song of Los</hi> into a book with two
+“continents” and fewer than half the number of pages in <hi rend="i">America</hi> or 
+<hi rend="i">Europe.</hi></p>
+            <p>Butlin is surely correct that “1795 can be seen as a vital year in Blake’s evolution, that
+in which his pictorial art finally achieved maturity with works of the highest quality while, conversely, his
+production of illuminated books suffered a hiatus for over ten years ....” I hope, however, in light of new
+information about how small <hi rend="i">Pity</hi> was designed and executed, when and how <hi rend="i">Albion
+rose</hi> was printed, the size of the copper sheet and manner in which it was cut to yield their plates and
+the plates for <hi rend="i">The Book of Ahania</hi> and <hi rend="i">The Book of Los</hi>, how the small
+intaglio illuminated plates were printed, how the large color prints evolved and were executed and influenced
+the <hi rend="i">Large</hi> and <hi rend="i">Small Book of Designs</hi>, and, mostly, how <hi rend="i">The
+Song of Los</hi> began as texts designed in landscape format and was recreated as a book by the masking of
+these plates during printing and the inclusion of small color-printed drawings, that the last illuminated
+books of this period can be thought of as more than “the three relatively unambitious books of 1795”
+(“Physicality” 6).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Works Cited</hi>
+              </title>
+            </head>
+            <p>Bentley, G. E., Jr. <hi rend="i">Blake Books.</hi> Oxford: Clarendon Press, 1977.</p>
+            <p>—. <hi rend="i">Blake Records.</hi> 2nd ed. New Haven: Yale University Press, 2004.</p>
+            <p>Bindman, David. <hi rend="i">The Complete Graphic Works of William Blake.</hi> London: Thames
+and Hudson, 1978.</p>
+            <p>Butlin, Martin. “‘Is This a Private War or Can Anyone Join in?’: A Plea for a Broader
+Look at Blake’s Color-Printing Techniques.” <hi rend="i">Blake/An Illustrated Quarterly</hi> 36.2 (fall
+2002): 45-49.</p>
+            <p>—. “A Newly Discovered Watermark and a Visionary’s Way with His Dates.” 
+<hi rend="i">Blake/An Illustrated Quarterly</hi> 15.2 (fall 1981): 101-03.</p>
+            <p>—. <hi rend="i">The Paintings and Drawings of William Blake.</hi> 2 vols. New Haven: Yale
+University Press, 1981.</p>
+            <p>—. “The Physicality of William Blake: The Large Color Prints of ‘1795.’” 
+<hi rend="i">Huntington Library Quarterly</hi> 52 (1989): 1-18.</p>
+            <p>Dörrbecker, D. W., ed. <hi rend="i">William Blake: The Continental Prophecies.</hi> Blake’s
+Illuminated Books, vol. 4. Princeton: Princeton University Press/Blake Trust; London: Tate Gallery/Blake
+Trust, 1995.</p>
+            <p>Erdman, David V., ed., with commentary by Harold Bloom. <hi rend="i">The Complete Poetry and
+Prose of William Blake.</hi> Newly rev. ed. New York: Anchor-Doubleday, 1988.</p>
+            <p>—. <hi rend="i">The Illuminated Blake.</hi> Garden City, NY: Anchor-Doubleday, 1974.</p>
+            <p>Essick, Robert N. <hi rend="i">Blake and the Language of Adam.</hi> Oxford: Oxford University
+Press, 1989.</p>
+            <p>—. “John Linnell, William Blake, and the Printmaker’s Craft.” <hi rend="i">Huntington
+Library Quarterly</hi> 46 (1983): 18-32. Also published in <hi rend="i">Essays on the Blake Followers.</hi>
+San Marino: Huntington Library, 1983.</p>
+            <p>—. <hi rend="i">The Separate Plates of William Blake: A Catalogue.</hi> Princeton: Princeton
+University Press, 1983.</p>
+            <pb id="p41-83" n="83"/>
+            <p>—. “A Supplement to <hi rend="i">The Separate Plates of William Blake: A Catalogue.</hi>”
+<hi rend="i">Blake/An Illustrated Quarterly</hi> 17.4 (spring 1984): 139-44.</p>
+            <p>—. <hi rend="i">William Blake, Printmaker.</hi> Princeton: Princeton University Press,
+1980.</p>
+            <p>Essick, Robert N., and Joseph Viscomi. “Blake’s Method of Color Printing: Some Responses
+and Further Observations.” <hi rend="i">Blake/An Illustrated Quarterly</hi> 36.2 (fall 2002): 49-64. Online
+version, with color illustrations, at the journal’s website: &lt;http://www.blakequarterly.org&gt;.</p>
+            <p>—. “An Inquiry into William Blake’s Method of Color Printing.” <hi rend="i">Blake/An
+Illustrated Quarterly</hi> 35.3 (winter 2001-02): 74-103. Online version, with 81 color illustrations, at the
+journal’s website: &lt;http://www.blakequarterly.org&gt;.</p>
+            <p>Gilchrist, Alexander. <hi rend="i">Life of Blake</hi>, “<hi rend="i">Pictor Ignotus.</hi>”
+2 vols. London: Macmillan, 1863.</p>
+            <p>Hamlyn, Robin. “William Blake at Work: ‘Every thing which is in Harmony.’” Townsend
+12-39.</p>
+            <p>Keynes, Geoffrey, ed. <hi rend="i">Blake, Complete Writings.</hi> Oxford: Oxford University
+Press, 1966.</p>
+            <p>McManus, Noa Cahaner, and Joyce H. Townsend. “The Large Colour Prints: Methods and
+Materials.” Townsend 82-99.</p>
+            <p>Mitchell, W. J. T. “Visible Language: Blake’s Wond’rous Art of Writing.” 
+<hi rend="i">Romanticism and Contemporary Criticism.</hi> Ed. Morris Eaves and Michael Fischer. Ithaca, NY:
+Cornell University Press, 1986. 46-86.</p>
+            <p>Ormsby, Bronwyn, and Joyce H. Townsend, with Brian Singer and John Dean. “The State of
+Knowledge on William Blake the Painter.” Townsend 40-44.</p>
+            <p>Phillips, Michael. “Color-Printing <hi rend="i">Songs of Experience</hi> and Blake’s Method
+of Registration: A Correction.” <hi rend="i">Blake/An Illustrated Quarterly</hi> 36.2 (fall 2002):
+44-45.</p>
+            <p>—. <hi rend="i">William Blake: The Creation of the</hi> Songs of Innocence and of Experience
+<hi rend="i">from Manuscript to Illuminated Printing.</hi> London: British Library, 2000.</p>
+            <p>Rossetti, William Michael, comp. <hi rend="i">Rossetti Papers 1862 to 1870.</hi> London: Sands
+&amp; Co., 1903.</p>
+            <p>Townsend, Joyce H., ed. <hi rend="i">William Blake: The Painter at Work.</hi> London: Tate
+Publishing; Princeton: Princeton University Press, 2003.</p>
+            <p>Viscomi, Joseph. <hi rend="i">Blake and the Idea of the Book.</hi> Princeton: Princeton
+University Press, 1993.</p>
+            <p>—. “Blake’s Virtual Designs and Reconstruction of <hi rend="i">The Song of Los.</hi>”
+<hi rend="i">Romanticism on the Net</hi> 41-42 (2006).
+&lt;http://www.erudit.org/revue/ron/2006/v/n41-42/013151ar.html&gt;.</p>
+            <p>—. “The Evolution of <hi rend="i">The Marriage of Heaven and Hell.</hi>” 
+<hi rend="i">Huntington Library Quarterly</hi> 58.3-4 (1997): 281-344.</p>
+            <p><hi rend="i">The William Blake Archive.</hi> Ed. Morris Eaves, Robert N. Essick, and Joseph
+Viscomi. &lt;http://www.blakearchive.org&gt;.</p>
+            <p>Worrall, David, ed. <hi rend="i">William Blake: The Urizen Books.</hi> Blake’s Illuminated
+Books, vol. 6. Princeton: Princeton University Press/Blake Trust; London: Tate Gallery/Blake Trust, 1995.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

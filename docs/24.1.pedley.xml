@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.1.pedley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s Tiger and the Discourse of Natural History</title>
+        <author n="Pedley">Colin Pedley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.1</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>Alexander S. Gourlay</name>
+              <name>John E. Grant</name>
+              <name>David Groves</name>
+              <name>Colin Pedley</name>
+              <name>Marcus Wood</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <pb id="p24-238" n="238"/>
+      <div1 id="BQ-24-1-0006">
+        <head>
+          <title type="main">Blake’s Tiger and the Discourse of Natural History</title>
+        </head>
+        <byline>by <docAuthor>Colin <name>Pedley</name></docAuthor></byline>
+        <p>Blake’s poem “The Tyger,” though its dating has always been a little uncertain, is likely to
+have been completed by 10 October 1793, when Blake advertised the separate <hi rend="i">Songs of
+Experience</hi> in his prospectus.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref>
+This article discusses some of the discourses concerning the tiger which were available to Blake,
+concentrating primarily on the discourse of natural history. <note id="n1"><hi rend="s">1</hi> G. E. Bentley,
+Jr., ed. <hi rend="i">William Blake’s Writings</hi>, 2 vols. (Oxford: Clarendon P, 1978) 1: 682.</note></p>
+        <p>A useful starting point, which serves as a focus for various elements in the discourse, is an
+incident widely reported in the newspapers: the announcement of the death of a son of Sir Hector Munro. On
+Wednesday, 3 July 1793, the <hi rend="i">Times</hi> carried a short paragraph:
+<q>
+A son of Sir Hector Munro has been killed on passage to India. He went ashore with a party at an island where
+they had put in to water; and reclining with his companions under some trees a tiger sprang from an adjoining
+thicket, and seizing him in his mouth, tore the unfortunate young man to pieces.
+</q></p>
+        <p>A more detailed report was published the next day in the <hi rend="i">St. James’s Chronicle</hi>
+2-4 July 1793, and again in the <hi rend="i">Star</hi> 5 July 1793, reproducing part of an eyewitness account
+in a letter written by one of Munro’s companions, which had been published in the <hi rend="i">Calcutta
+Gazette</hi> 1 January 1793, and had now reached London on a ship from India. The event itself had taken place
+about 22 December 1792. The text of one of the letters from an eyewitness follows:
+<q>
+To describe the aweful, horrid, and lamentable accident I have been an eye-witness of, is impossible.
+Yesterday morning Mr Downey, of the Company’s troops, Lieut. Pyefinch, poor Mr Munro (son of Sir Hector) and
+myself, went on shore on Saugur Island to shoot deer. We saw innumerable tracks of tigers and deer, but still
+we were induced to pursue our sport, and did the whole day. About half past three we sat down on the edge of
+the jungle, to eat some cold meat sent us from the ship, and had just commenced our meal, when Mr Pyefinch and
+a black servant told us there was a fine deer within six yards of us. Mr Downey and myself immediately jumped
+up to take our guns; mine was the nearest, and I had just laid hold of it when I heard a roar, like thunder,
+and saw an immense royal tiger spring on the unfortunate Munro, who was sitting down. In a moment his head was
+in the beast’s mouth, and he rushed into the jungle with him, with as much ease as I could lift a kitten,
+tearing him through the thickest bushes and trees, every thing yielding to his monstrous strength.<lb/>
+The agonies of horror, regret, and, I must say, fear (for there were two tigers, male and female) rushed on me
+at once. The only effort I could make was to fire at him, though the poor youth was still in his mouth. I
+relied partly on Providence, partly on my own aim, and fired a musket. I saw the tiger stagger and agitated,
+and cried out so immediately. Mr Downey then fired two shots, and I one more. We retired from the jungle, and,
+a few minutes after, Mr Munro came up to us, all over blood, and fell. We took him on our backs to the boat,
+and got every medical assistance for him from the Valentine East India-man, which lay at anchor near the
+island, but in vain. He lived 24 hours in the extreme of torture; his head and skull were torn, and broke to
+pieces, and he was wounded by the claws all over his neck and shoulders; but it was better to take him away,
+though irrecoverable, than leave him to be devoured limb by limb. We have just read the funeral service over
+the body, and committed it to the deep. He was an amiable and promising youth. I must observe, there was a
+large fire blazing close to us, composed of ten or a dozen whole trees; I made it myself, on purpose to keep
+the tigers off, as I had always heard it would. There were eight or ten natives about us; many shots had been
+fired at the place, and much noise and laughing at the time; but this ferocious animal disregarded all. The
+human mind cannot form an idea of the scene; it turned my very soul within me. The beast was about four and a
+half feet high, and nine long. His head appeared as large as an ox’s, his eyes darting fire, and his roar,
+when he first seized his prey, will never be out of my recollection. We had scarcely pushed our boats from
+that cursed shore when the tigress made her appearance, raging mad almost, and remained on the sand as long as
+the distance would allow me to see her.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref>
+	<note id="n2"><hi rend="s">2</hi> The text of this letter is the same in <hi rend="i">Sporting Magazine</hi>
+2 (July 1793): 200-01, and <hi rend="i">Gentleman’s Magazine</hi> 63 (July 1793): 671.</note></q>
+The provincial newspapers repeated the story. For instance, the <hi rend="i">York Herald</hi> 6 July 1793 on
+one page reproduced the <hi rend="i">Times</hi>’s brief account, though its final sentence (imitating the
+more sensational version in the <hi rend="i">Oracle</hi> 4 July 1793 and the <hi rend="i">Whiteball Evening
+Post</hi> 2-4 July 1793) replaced “tore the unfortunate young man to pieces” with “tore out the heart of
+the unfortunate young man”; and on a later page it reprinted the complete account from the 
+<hi rend="i">Calcutta Gazette.</hi> The <hi rend="i">Northampton Mercury</hi> 6 July 1793 settled for reprinting
+the greater part of the letter in the <hi rend="i">Calcutta Gazette</hi>, while the <hi rend="i">Reading
+Mercury</hi> 8 July 1793 printed the whole of it. In contrast, the <hi rend="i">Bath Chronicle</hi> 11 July
+1793 mixed extract and summary in an edited narration of what it called “this marvellous story.”</p>
+        <p>The event was clearly felt to be newsworthy in 1793, since in addition to the newspapers, both
+London and provincial, it found a place in a number of other publications. It featured in the summary of the
+year’s chief happenings in the <hi rend="i">Annual Register</hi> of both Dodsley, and Rivington, and in the
+<hi rend="i">New Annual Register</hi>, all three quoting extensively from the eyewitness letter.<supplied
+type="spacer"> </supplied><ref target="n3" type="note">3</ref> The extent of the widespread interest was
+demonstrated by the range of periodical publications that felt it worth reproducing for their readers. The 
+<hi rend="i">Universal Magazine</hi>, the <hi rend="i">European Magazine</hi>, the <hi rend="i">Gentleman’s
+Magazine</hi>, and the <hi rend="i">Scots Magazine</hi> among the established magazines all featured very
+similar accounts,<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> all in their July
+issues which appeared about the beginning
+<pb id="p24-239" n="239"/>
+of August 1793. The <hi rend="i">Lady’s Magazine</hi> did not report the incident, but many less well known
+magazines did. The <hi rend="i">Wonderful Magazine</hi>, new in 1793,<supplied type="spacer"> </supplied><ref
+target="n5" type="note">5</ref> included it among its “Marvellous Chronicle of extraordinary productions,
+events, and occurrences, in Nature and Art.”<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref> The <hi rend="i">Thespian Magazine</hi> (begun in 1792) in its August 1793 issue included
+it under its “Monthly chronicle—domestic occurrences.”<supplied type="spacer"> </supplied><ref
+target="n7" type="note">7</ref> Another new magazine, the <hi rend="i">Sporting Magazine</hi> (begun in
+November 1792), went further in two respects, including extensive comment about tigers and their habits, and
+accompanying the text with a full page engraving of the tiger seizing Munro.<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref> The painting was by Richard Corbould, and the engraving by
+Thomas Cook (illus. 1). Engravings were intended as a selling point for the magazine, and featured prominently
+in the advertisement placed in the <hi rend="i">Morning Chronicle</hi> 1 August 1793, under the headline,
+DEATH OF MUNRO.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> The 
+<hi rend="i">Sporting Magazine</hi> also included a second eyewitness letter from the <hi rend="i">Calcutta
+Gazette</hi>, which contributed to the authenticity of the account, but added nothing of substance. From these
+references we can conclude that, at least in London, news of the event had wide currency, and its description
+was widely available. Even outside London, the news was widely disseminated. 
+<note id="n3"><hi rend="s">3</hi><hi rend="i"> Annual Register</hi> (Dodsley) 35 (1793): 31-32 [not published till 1796]; 
+<hi rend="i">Annual Register</hi> (Rivington) 35 (1793) [not published till 1806]; <hi rend="i">New Annual
+Register</hi> 14 (1793): 24-25.</note>
+	<note id="n4"><hi rend="s">4</hi><hi rend="i"> Universal Magazine</hi> 93 (July 1793): 73-74; 
+<hi rend="i">European Magazine</hi> 24 (July 1793): 72-73; <hi rend="i">Gentleman’s Magazine</hi> 63 (July
+1793): 671; <hi rend="i">Scots Magazine</hi> 55 (July 1793): 360.</note>
+	<note id="n5"><hi rend="s">5</hi> The <hi rend="i">Wonderful Magazine</hi> began in January 1793 as a
+monthly, but quickly became a weekly, and was completed in 60 numbers.</note>
+	<note id="n6"><hi rend="s">6</hi><hi rend="i"> Wonderful Magazine</hi> 2 (1793): 116-17.</note>
+	<note id="n7"><hi rend="s">7</hi><hi rend="i"> Thespian Magazine</hi> 2 (August 1793): 167.</note>
+	<note id="n8"><hi rend="s">8</hi><hi rend="i"> Sporting Magazine</hi> 2 (July 1793): 199-202.</note>
+	<note id="n9"><hi rend="s">9</hi> “This day is published, embellished with a most expressive Representation
+of the Unfortunate Death of Mr. Munro, Son of Sir Hector Munro, who was killed by a Royal Tyger, whilst on a
+Hunting Party on the Island of Sauger, in the East Indies. And a beautiful Portrait of a famous Running Horse,
+from a Drawing by SARTORIOUS, No. X of the Sporting Magazine.” The <hi rend="i">St. James’s Chronicle</hi>
+3-5 September 1793, along with an advertisement for <hi rend="i">Sporting Magazine</hi>, number 11, listed
+back numbers and specified the plates they contained, including “Death of Munro,” as did the 
+<hi rend="i">Star</hi> 6 September 1793.</note></p>
+        <p>No doubt some of the interest shown in this gruesome event was due to the celebrity of Sir Hector
+Munro, the victim’s father. He was a soldier whose reputation had been made in India. In October 1764 he had
+been in command of forces which routed the confederated princes of Hindostan at Buxar, in Bihar, and rendered
+the Nawabs of Bengal and Oudh powerless. This battle was ranked by some as among the most decisive ever
+fought, and brought enormous prize money to the victors. In 1778 he captured Pondicherry from the French. He
+was a member of Parliament, and had been a general from 1782. He became a Lieutenant-General in 1793, and died
+<figure n="attack.24.1.bqscan" rend="file" width="500" height="331">
+	<head>1. “The Attack of Mr Munro,” from <hi rend="i">The Sporting Magazine</hi> 2 (1793): 199,
+Vet.A5.e.875/2.</head>
+	<figDesc>Courtesy of The Bodleian Library.</figDesc>
+</figure>
+in 1805.<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref> But the engraving in the
+<hi rend="i">Sporting Magazine</hi> supports the more obvious suggestion that the interest which editors
+exploited so completely was not so much in Munro, as in the tiger. And, indeed, a close examination of the
+article in the <hi rend="i">Sporting Magazine</hi> reveals much that is of interest in establishing current
+attitudes to and knowledge about the tiger which illuminates the discourse available to Blake. 
+<note id="n10"><hi rend="s">10</hi> Mildred Archer, <hi rend="i">India and British Portraiture 1770-1825</hi>
+(London and New York: Sotheby Parke Bernet Publications, 1979) 442n19, reports that a full-length portrait of
+Sir Hector Munro, ascribed to George Willison, and painted when he was in India c. 1780, is in the possession
+of his descendants (but is not reproduced in the book).</note></p>
+        <p>The <hi rend="i">Sporting Magazine</hi> article introduced the letters from the companions of Munro
+by first presenting material describing the ferocious characteristics of the tiger and supplementing this with
+an account of commonly held beliefs about the supposed effect of fire on the animal. The opening paragraph
+stressed the tiger’s ferocity:
+<q>
+The tiger is allowed to be the most rapacious and destructive of all carnivorous animals. Fierce without
+provocation, and cruel without necessity, his thirst for blood is insatiable: though glutted with slaughter,
+he continues his carnage. He fears neither the sight nor the opposition of man, whom he frequently makes his
+prey, and it is generally supposed that he prefers human flesh to that of any other animal. The tiger is,
+indeed, one of the few animals whose ferocity can never be subdued.<supplied type="spacer"> </supplied><ref
+target="n11" type="note">11</ref>
+	<note id="n11"><hi rend="s">11</hi><hi rend="i"> Sporting Magazine</hi> 2 (July 1793): 199.</note></q>
+There is no acknowledgment, but this is taken, with only a few minor alterations, from <hi rend="i">A General
+History of Quadrupeds</hi> by Thomas Bewick, published in 1790. Some of Bewick’s material was omitted
+immediately before the last sentence here quoted; since it stressed the animal’s thirst for blood, it might
+have been judged inappropriate and insensitive when the victim described in the article was a human being. It
+read:
+<q>
+The strength of the animal is so great, that, when it has killed an animal, whether it be a Horse, a Buffalo,
+or a Deer, it carries it off with such ease, that it seems no impediment to its flight. If it be undisturbed,
+it plunges its head into the body of the animal up to its very eyes, as if to satiate itself with
+blood.<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref>
+	<note id="n12"><hi rend="s">12</hi> Thomas Bewick, <hi rend="i">A General History of Quadrupeds</hi>
+(Newcastle-upon-Tyne, 1790) 172.</note></q>
+Of the greatest interest in Bewick’s book are his engravings, and that of the tiger, he notes, was taken
+from life, from a tiger exhibited in Newcastle in 1787 (illus. 2). His text was taken in much of its substance
+and even its phraseology<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref> from the
+English translation and abridgment by William Smellie of Buffon’s <hi rend="i">Natural History, General and
+Particular</hi>, which first appeared in 1780. This is confirmed by Bewick in his autobiographical
+<pb id="p24-240" n="240"/>
+	<hi rend="i">Memoir</hi>,<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> which
+also reveals that the text was compiled for the most part by Ralph Beilby, the engraver he had been
+apprenticed to in Newcastle. Indeed, one of the main reasons for beginning this exploration of tigers in the
+discourse of natural history with the accounts of the death of Munro is that their detailed examination
+reveals the layered intertextuality in the accounts and highlights the extensive ways by which that discourse
+was mediated. A discourse that originates in largely specialist publications is seen to have been diffused and
+to appear in outlets much less technical. <note id="n13"><hi rend="s">13</hi> For example, “Cruel without
+necessity” is taken from Smellie’s Buffon (William Smellie, trans., <hi rend="i">Natural History, General
+and Particular</hi>, 3rd edition [1793] 4: 153), while “He fears neither the sight nor the opposition of
+man” is an alternative translation of what Smellie renders as “the aspect nor the arms of man” (Smellie
+5: 154).</note>
+	<note id="n14"><hi rend="s">14</hi><hi rend="i"> A Memoir of Thomas Bewick, Written by Himself</hi>
+(Newcastle-upon-Tyne and London, 1862) 145. (“Such animals as I knew, I drew from memory on the wood; others
+which I did not know were copied from ‘Dr. Smellie’s Abridgement of Buffon,’ and other naturalists, and
+also from the animals which were from time to time exhibited in itinerant collections.”) Rodney M. Baine,
+with Mary R. Baine, <hi rend="i">The Scattered Portions: William Blake’s Biological Symbolism</hi> (Athens:
+University of Georgia, 1986) 5, points out that twenty-seven volumes of the illustrated <hi rend="i">Histoire
+naturelle</hi> (Paris, 1749-89) by Buffon and others, were in the Library of the Royal Academy where Blake
+could have seen them.</note></p>
+        <p>Buffon’s work is of central importance in an examination of the discourse about tigers that we
+are investigating. Georges Le Clerc, Comte de Buffon (together with others) published his 
+<hi rend="i">Histoire naturelle</hi> in forty-four volumes between 1749 and 1804 (though he himself died in 1788).
+The part of the work we are concerned with had been completed in fifteen volumes by 1767, with a supplement in
+seven volumes appearing between 1774 and 1789. I have used the seven volumes of the <hi rend="i">History of
+Quadrupeds</hi> dated 1775, with two volumes of additions dated 1777. There were a number of English
+translations, both of parts and selections. For our purposes, we can note that a translation by W. Kenrick
+came out in three volumes in 1775, as <hi rend="i">Natural History of Animals, Vegetables and Minerals</hi>,
+while W. Smellie’s translation was published in 1780 by William Creech of Edinburgh, and in nine volumes by
+Strahan and Cadell in London in 1785. Kearsley published the <hi rend="i">Natural History Abridged</hi> in
+1791 (the year of Smellie’s third edition), while an alternative version appeared as <hi rend="i">Barr’s
+Buffon</hi> in a translation by J. S. Barr in 1792. The popularity of Buffon’s work is not in any doubt, if
+the continuing ventures of eager publishers are any indication. That this continued up to the year we are
+discussing, 1793, is shown by the advertisement in December 1793 of an abridged version of Smellie’s
+translation to be issued cheaply in thirty-four weekly numbers, each with four plates.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref>
+	<note id="n15"><hi rend="s">15</hi> Advertisement in the <hi rend="i">St. James’s Chronicle</hi> 7-10
+December 1793. Millar’s edition of “Buffon’s Natural History, with additions and improvements from Dr.
+Goldsmith, Messrs. Pennant Linnaeus, Hill &amp;c” was advertised for publication in 60 weekly parts,
+beginning on 25 February 1792, in the <hi rend="i">York Herald</hi> 18 February 1792.</note></p>
+        <p>Buffon’s work was also the basis of another popular work, known to Bewick, and used by him as a
+source, Thomas Pennant’s <hi rend="i">History of Quadrupeds.</hi> Indeed, Pennant’s work, first issued as
+<hi rend="i">Synopsis of Quadrupeds</hi> (published by J. Monk, Chester) in 1771, had originally been intended
+“for private amusement, and as an Index, for the more ready turning to any particular animal in the
+voluminous history of quadrupeds by the late <hi rend="i">Comte</hi> de Buffon” (preface). His longer 
+<hi rend="i">History of Quadrupeds</hi> was published by W. White in London in 1781, and had reached a third
+edition, in two volumes, in 1793.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref>
+The close relationship between Pennant and Buffon (in Smellie’s translation) can be seen if we compare the
+following passages. Pennant writes of tigers:
+<q>
+If they are undisturbed they plunge their head into the body of the animal up to their very eyes, as if it
+were to satiate themselves with blood, which they exhaust the corpse of before they tear it to pieces. There
+is a sort of cruelty in their devastations, unknown to the generous lion; as well as a poltronery in their
+sudden retreat on any disappointment.<supplied type="spacer"> </supplied><ref target="n17"
+type="note">17</ref>
+	<note id="n16"><hi rend="s">16</hi> It is advertised in the <hi rend="i">St. James’s Chronicle</hi> 26-29
+October, 1793.</note>
+	<note id="n17"><hi rend="s">17</hi> Thomas Pennant, <hi rend="i">History of Quadrupeds</hi>, 2nd ed. (1781)
+1: 258; 3rd ed. (1793) 1: 278-79.</note></q>
+The opening part of this quotation is, as we have already seen, also the same in Bewick. Buffon’s
+description of the tiger’s hunting habits beside rivers used by other animals as drinking places is the
+source of material for both Bewick and Pennant. Smellie’s translation reads:
+<q>
+Here they procure their prey, or rather multiply their massacres; for they often leave the creatures they have
+recently killed to devour others. They delight in blood, and glut themselves with it till they are
+intoxicated. They tear the body for no other purpose than to plunge their head into it, and to drink large
+draughts of blood, the sources of which are generally exhausted before their thirst is appeased.<supplied
+type="spacer"> </supplied><ref target="n18" type="note">18</ref>
+	<note id="n18"><hi rend="s">18</hi> Smellie 5: 156. The translation from the French is very close; only one
+section is worth noting in the original: “il semble qu’il cherche à goûter de leur sang, il le savoure,
+il s’en enivre” (Buffon, <hi rend="i">Histoire des Animaux Quadrupèdes</hi>, 44 vols. [Paris, 1775] 3:
+243).</note></q></p>
+        <p>Buffon characterizes the tiger’s lust for blood in terms of a perpetual rage, as can be seen in a
+number of examples.
+<q>
+The tiger . . . though satiated with carnage, seems to be perpetually thirsting for blood. His fury has no
+intervals, but during the time he is obliged to lie in ambush for prey at the sides of rivers. He seizes and
+tears to pieces a fresh animal with the same rage that he exerted in devouring the first.<supplied
+type="spacer"> </supplied><ref target="n19" type="note">19</ref>
+	<note id="n19"><hi rend="s">19</hi> Smellie 5: 154. The translation here is rather halting. The French reads:
+“Sa fureur n’a d’autre intervalle que ceux du temps qu’il faut pour dresser des embûches” (Buffon
+3: 240).</note></q>
+Or: “He has no instinct but perpetual rage, a blind and undistinguishing ferocity, which often impells him
+to devour his young, and to tear in pieces their mother, when she attempts to defend them.”<supplied
+type="spacer"> </supplied><ref target="n20" type="note">20</ref> Or again (in a passage from which Pennant,
+and Bewick [and the <hi rend="i">Sporting Magazine</hi>] have copied):
+<q>
+The tiger is perhaps the only animal whose violence cannot be subdued. Neither violence nor restraint have any
+effect in softening his temper. He is equally irritated with gentle or rough treatment. The mild influence of
+society makes no impression on the obduracy of his nature. Time, instead of mollifying the ferociousness of
+his humour, only exasperates his rage. With equal wrath he tears the hand which feeds him, as that which is
+lifted up to strike him. He roars at the sight of everything that lives. Every object appears to him as a
+fresh prey, which he devours before hand with the avidity of his eyes, menaces with frightful groans, and the
+grinding of his teeth, and often darts upon it, without regarding his chains which only restrain, but cannot
+calm his fury.<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n20"><hi rend="s">20</hi> Smellie 5: 155. Again Smellie’s “a blind and undistinguishing
+ferocity” has done less than justice to Buffon’s “une fureur aveugle, qui ne connoît, qui ne distingue
+rien”; Buffon stresses rage once more (Buffon 3: 241).</note>
+	<note id="n21"><hi rend="s">21</hi> Smellie 5: 159-60. Smellie translates as “the obduracy of his nature”
+Buffon’s “cette nature de fer.” This is interesting in the light of Blake’s imagery of the forge.
+Buffon also in “malgré les chaînes &amp; les grilles” (Smellie has “without regarding his chains”),
+gives a stronger sense of an animal held in permanent captivity (Buffon 3: 248, 249). In adapting Buffon,
+Goldsmith seems closer than Smellie to the flavor of the French text; he has “their heart of iron,” and
+“bars and chains” (<hi rend="i">History of the Earth, and Animated Nature</hi> [London, 1774] 3:
+238).</note></q>
+Rage is the keyword, as shown in the repeated use of the word itself, together with “fury” and
+“wrath.” 
+                </p>
+        <p>To the material which originated from Buffon, the writer of the article on the death of Munro in
+the <hi rend="i">Sporting Magazine</hi> for July 1793 added details about the general belief that a fire would
+be protection against a tiger. This had an immediate relevance since the hunting party with Munro had built
+such a fire “composed of ten or a dozen whole trees . . .—on purpose to keep the tigers off.” The author
+continued:
+<q>
+We shall not give a decisive judgment either for or against the security which a fire may ensure to any
+persons who wander in Asiatic forests, against the depredations of ferocious animals; but I think I may
+venture to assert, that a fire <hi rend="i">in the day-time</hi> (when the youth in question became the prey
+of the tiger) can be of little use. Fire, or fireworks in broad daylight,
+<pb id="p24-241" n="241"/>
+lose much of their effect, and in some instances are hardly visible; but in the night, when darkness and a
+blaze of light are strongly contrasted, it cannot be a matter of surprise that the fiercest of animals,
+unaccustomed to such an illumination, should flee from its tremendous aspect.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref>
+	<note id="n22"><hi rend="s">22</hi> <hi rend="i">Sporting Magazine</hi> 2 (July 1793): 200.</note></q>
+This was followed by the first letter with its eyewitness account, in which fire has become associated with
+the tiger itself rather than with any protection against it. The shocked observer wrote: “His head appeared
+as large as an ox’s, his eyes darting fire, and his roar, when he first seized his prey, will never be out
+of my recollection.”<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref>
+	<note id="n23"><hi rend="s">23</hi> <hi rend="i">Sporting Magazine</hi> 2 (July 1793): 201; cf. 
+<hi rend="i">St. James’s Chronicle</hi> 2-4 July 1793; <hi rend="i">Star</hi> 5 July 1793; 
+<hi rend="i">Wonderful Magazine</hi> 2 (1793): 116-17; <hi rend="i">Universal Magazine</hi> 93 (July 1793): 73-74;
+<hi rend="i">Scots Magazine</hi> 55 (July 1793): 360; <hi rend="i">European Magazine</hi> 24 (July 1793):
+72-73; <hi rend="i">Gentleman’s Magazine</hi> 63 (July 1793): 671.</note></p>
+        <p>There are many elements in the material described which are recognizable in Blake’s poem “The
+Tyger.” All the works discussed would have been readily available to him in 1793; and his professional
+interest in them might have been stimulated by the engravings which they contained. Without speculating as to
+whether Blake knew any of these accounts, they are evidence of the existence of a variety of discourses
+available for Blake to draw on. What we can be certain of is that between 1791 and 1793 Blake was engaged in
+engravings of illustrations, originally made by the author, for J. G. Stedman’s <hi rend="i">Narrative of a
+Five Years’ Expedition, against the Revolted Negroes of Surinam in Guiana, on the Wild Coast of South
+America; from the Year 1772 to 1777</hi>, which was eventually published in 1796. Three of Blake’s
+engravings are dated 1 December 1792, and the remainder 2 December 1793. Stedman refers to Buffon’s
+assertion that there are “no tygers in America, but animals resembling them, which go by that
+name”<supplied type="spacer"> </supplied><ref target="n24" type="note">24</ref> in his discussion of the
+jaguar. Goldsmith also spoke of jaguars as “tygers.” Stedman’s subsequent discussion highlights elements
+already headlined in the discourse about the tiger; the jaguar also kills for the sake of blood “with which
+this ferocious animal is never glutted.”<supplied type="spacer"> </supplied><ref target="n25"
+type="note">25</ref> Like the tiger “its savage nature and thirst after blood is such that it cannot be
+tamed: it will on the contrary, bite the very hand that feeds it, and very often devours its own
+offspring.”<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref> Stedman also refers to
+fire as something “tygers” are afraid of.<supplied type="spacer"> </supplied><ref target="n27"
+type="note">27</ref>
+	<note id="n24"><hi rend="s">24</hi> Stedman 2: 48-49.</note>
+	<note id="n25"><hi rend="s">25</hi> Stedman 2: 50.</note>
+	<note id="n26"><hi rend="s">26</hi> Stedman 2: 50.</note>
+	<note id="n27"><hi rend="s">27</hi> Stedman 2: 51.</note></p>
+        <p>The forms of discourse additionally in evidence here in a text we are certain Blake knew may well
+lead us to conclude that they are the same discursive practices we see him using and transforming as they
+interlock in his poem. This seems all the more likely when we consider the poem in its two early drafts. The
+first draft, in lines later deleted, echoes Buffon’s stress on the animal’s wanton cruelty. Blake was
+already considering “The cruel fire of thine eyes” as an alternative to “Burnt the fire of thine eyes”
+(Notebook 109),<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref> while the wholly
+deleted lines contained, “In what clay and in what mould / Were thy eyes of fury roll’d,” which made no
+reappearance later. Blake seems in the second draft to have attempted to retain the connection of the eyes
+with both fire and cruelty by transposing “Burnt” to line 5: “Burnt in distant deeps or skies / The
+cruel fire of thine eyes?” (Notebook 108). The tiger’s rage, expressed by “thy eyes of fury” in the
+first draft, is associated in the deleted passage with a line, “In the well of sanguine woe,” which may
+stress its bloodthirstiness, though it may refer instead to the tiger’s being dipped in the temporal and
+finite, the fallen world of blood and woe.<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref>
+	<note id="n28"><hi rend="s">28</hi> Blake references are to <hi rend="i">The Notebook of William Blake</hi>,
+ed. David V. Erdman, rev. ed. (Readex Books, 1977), or to <hi rend="i">Complete Poetry and Prose of William
+Blake</hi>, ed. David V. Erdman, rev. ed. (Berkeley and Los Angeles; U of California P, 1982).</note>
+	<note id="n29"><hi rend="s">29</hi> This would then be an anticipation of Yeats’s line “The fury and the
+mire of human veins” (“Byzantium,” line 8).</note></p>
+        <p>There is even a glimmer of the restraining chains Buffon mentions in “Where the Chain?” in the
+first draft, which eventually became “What the chain?” in line 13 of the final version. The changes Blake
+made show him taking up the ideas of rage and cruelty and impatience of restraint in the discourse of natural
+history in contemporary works, and moving away from any kind of signification determined by this discourse
+alone, or at least minimizing it as the chief point of focus. Nurmi’s explanation of the poem’s evolution
+through its drafts in terms of the resolution by Blake of a dialectical struggle to bring into a “fearful
+symmetry” its “deadly terrors” and its divinely created origin is subtle, but lays unnecessary stress on
+the historical events possibly reflected in the drafts as a means of establishing their date.<supplied
+type="spacer"> </supplied><ref target="n30" type="note">30</ref> Allusive reference back is in any case an
+alternative explanation. Recognition of the existing discourses and their transformation releases the drafts
+from dependence on the date of their possible historical analogues. <note id="n30"><hi rend="s">30</hi> Martin
+K. Nurmi, “Blake’s Revisions of ‘The Tyger,’” <hi rend="i">PMLA</hi> 71 (1956): 669-85. The point is
+well made in Rodney M. Baine “Blake’s ‘Tyger’: The Nature of the Beast,” <hi rend="i">PQ</hi> 46
+(1967): 491n12. Rejecting Nurmi’s explanation of the changes in the drafts as Blake changing his mind as the
+pattern of events unfolded in France, he commented: “There is no cogent evidence to show that Blake’s
+revisions in ‘The Tyger’ were anything but the sensitive and perceptive strengthening of the poem as by
+selecting apter imagery and repressing adjectives and some details, the poet made his Tyger more shocking,
+more mysterious, more effective.” I would not make the point in this way, preferring to stress Blake’s
+movement away from certain elements in the available discourse, and espousal of others.</note></p>
+        <p>It may be that the intense journalistic exposure of the incident of the death of Munro acted as a
+catalyst to fuse elements in these discourses, even to provide, not the occasion of the poem, but an impulse
+in the process of its composition. The eyewitness accounts and the surrounding comment bring into focus
+traditions of the tiger and fire, and his springing from the dark forest. The contrast between fire and
+darkness is also explicit, but the fire now burns bright not only in the tiger’s eyes (“Burnt the fire of
+thine eyes”), though they “dart fire” as when the tiger seized Munro, but in his whole wrathful
+demeanor.<supplied type="spacer"> </supplied><ref target="n31" type="note">31</ref> Perhaps even the
+foreignness of the tiger, known by most only in books of natural history or from journalistic accounts of
+accidents in distant and exotic places,<supplied type="spacer"> </supplied><ref target="n32"
+type="note">32</ref> is drawn on in the poem’s first conception in the “distant deeps or skies,” a
+phrase present from the earliest draft. <note id="n31"><hi rend="s">31</hi><hi rend="i"> Visions of the
+Daughters of Albion</hi> (E 51, pl. 8), also from 1793, speaks of “the glowing tiger.”</note>
+	<note id="n32"><hi rend="s">32</hi> The <hi rend="i">Gentleman’s Magazine</hi> reported two other such
+incidents: one in the news from Calcutta from November 1789 when a tiger seized a man 
+(<hi rend="i">Gentleman’s Magazine</hi> 9 [May 1790]: 462); and again an incident in December 1794, when a native
+was killed by a tiger, which was then hunted by a group of men on elephants, and eventually pinned to the
+ground. Its ferocity was remarked: “Nor were they long in finding out the ferocious animal, who was
+weltering in gore when they came up with him” (<hi rend="i">Gentleman’s Magazine</hi> 65 [August 1795]:
+693). Pennant (1: 259) describes a similar incident: “Another party had not the same good fortune: a tiger
+darted among them while they were at dinner, seized on one gentleman, and carried him off, and he never was
+more heard of.”</note></p>
+        <p>To the discourses we have been examining should be added those of the biblical tradition, and in
+particular its accounts of creation,<supplied type="spacer"> </supplied><ref target="n33" type="note">33</ref>
+and those political discourses which were readily associating revolutionary France with the wrathful
+tiger.<supplied type="spacer"> </supplied><ref target="n34" type="note">34</ref> These both contribute
+substantially to the force of Blake’s poem, and are leading elements in determining how we should read it.
+The discourses of natural history are fused with elements from these other discursive practices. It is worth
+noting that Buffon’s work, and not only aspects of the biblical tradition, bring lamb and tiger into close
+association, the sheep
+<pb id="p24-242" n="242"/>
+and lamb seen as almost wholly dependent on man for survival and the most helpless of creatures, the tiger the
+least susceptible to his domination.<supplied type="spacer"> </supplied><ref target="n35" type="note">35</ref>
+	<note id="n33"><hi rend="s">33</hi> See Morton D. Paley, <hi rend="i">Energy and the Imagination</hi>
+(Oxford: Clarendon P, 1970) 30-60.</note>
+	<note id="n34"><hi rend="s">34</hi> I have commented on both in “Blake, France and the Tiger,” 
+<hi rend="i">N&amp;Q</hi> 35 (1988): 303-05, and in the forthcoming “Blake’s Tyger and Contemporary
+Journalism,” <hi rend="i">British Journal for Eighteenth Century Studies.</hi> Stewart Crehan, in
+“Blake’s <hi rend="i">Tyger</hi> and the ‘Tygerish Multitude,’” <hi rend="i">Literature and
+History</hi> 6 (1980): 155, and in <hi rend="i">Blake in Context</hi> (Dublin: Gill and Macmillan, 1984)
+128-29, points out that the <hi rend="i">Times</hi> 26 July 1793 said of the assassinated Marat: “His eyes
+resembled those of the <hi rend="i">tyger cat</hi>, and there was a kind of ferociousness in his looks that
+corresponded with the savage fierceness of that animal.” This passage (which was repeated in the 
+<hi rend="i">Whitehall Evening Post</hi> 25-27 July 1793) is also cited in Ronald Paulson “Blake’s
+Lamb-Tiger,” <hi rend="i">Representations of Revolution (1789-1820)</hi> (New Haven and London: Yale UP,
+1983) 97. This report follows within three weeks of the account of the death of Munro. To this we might add
+the earlier report printed in the <hi rend="i">York Herald</hi> and the <hi rend="i">Northampton Mercury</hi>
+15 September 1792, which spoke of Madame de Lamballe, at the time of the September Massacres, being brought
+before “the tribunal of tigers,” condemned, and butchered.</note>
+	<note id="n35"><hi rend="s">35</hi> Smellie 3: 462-63.</note></p>
+        <p>For Blake, as for Bewick in 1787, there would have been the occasional opportunity to see a live
+tiger in captivity. He is likely to have visited Pidcock’s menagerie in the Strand, where Stubbs studied the
+rhinoceros in 1772 and from which source he reputedly obtained the tiger studied in his 
+<hi rend="i">Comparative Anatomical Exposition.</hi><supplied type="spacer"> </supplied><ref target="n36"
+type="note">36</ref> In June 1798 three tiger cubs were born in the menagerie, the first reported birth of
+this kind in captivity in England (<hi rend="i">Morning Chronicle</hi> 20 July 1798). This was sufficiently
+remarkable to be reported in the French press (<hi rend="i">Le Moniteur universel</hi> 28 July 1798; 10
+Thermidor). A tiger, in the possession of the Duke of Marlborough, died in the Tower, and might have been seen
+by Blake. It was painted by Stubbs; an engraving by John Dixon was made in 1772, and Stubbs’s own engraving
+was issued in 1788. Stubbs’s painting was exhibited in Somerset Street at the Society of Artists of Great
+Britain in 1769, in the building where Pars’s drawing school was held; at that time, Blake was in his second
+year as a pupil.<supplied type="spacer"> </supplied><ref target="n37" type="note">37</ref> It must be said,
+however, that Stubbs’s painting shows a noble beast in repose, rather than one resembling the “fearful
+symmetry” of Blake’s poem. Goldsmith commented that the tiger in the Tower “appears the most good
+natured and harmless creature in the world; its physiognomy is far from fierce and angry,” yet despite its
+“gentle placid air,” it was “fierce and savage beyond measure; neither correction can terrify it, nor
+indulgence can tame.”<supplied type="spacer"> </supplied><ref target="n38" type="note">38</ref> After
+Blake’s poem was completed, Stubbs began work in 1795 on a <hi rend="i">Comparative Anatomical Exposition of
+the Structure of the Human Body with That of a Tiger and a Common Fowl.</hi> He completed 126 drawings, but
+published only 15 plates for this work before his death.<supplied type="spacer"> </supplied><ref target="n39"
+type="note">39</ref>
+	<note id="n36"><hi rend="s">36</hi> Basil Taylor, <hi rend="i">Stubbs</hi> (London: Phaidon Press, 1971) 30;
+Judy Egerton, <hi rend="i">George Stubbs 1724-1806</hi> (London: Tate Gallery Publications, 1984) 183. Taylor
+reproduces Stubbs’s picture of a recumbent tiger on plate 40.</note>
+	<note id="n37"><hi rend="s">37</hi> Kathleen Raine, <hi rend="i">Blake and Tradition</hi>, Bollingen Series
+35, 2 vols. (Princeton: Princeton UP, 1968) 2: 4. Paul Miner, in “‘The Tyger’: Genesis and Evolution in
+the Poetry of William Blake,” <hi rend="i">Criticism</hi> 4 (1962): 61, lists some tigers exhibited in
+London in the late eighteenth century.</note>
+	<note id="n38"><hi rend="s">38</hi> In <hi rend="i">An Island in the Moon</hi> (E 465), Quid the Cynic tells
+a lady her face is “like that noble beast the Tyger”; Goldsmith 3: 234. Pennant (1: 283) reports a black
+leopard also in the Tower brought to London from Bengal by Warren Hastings.</note>
+	<note id="n39"><hi rend="s">39</hi> Judy Egerton, <hi rend="i">British Sporting and Animal Paintings
+1655-1867</hi> (London: Tate Gallery for Yale Centre for British Art, 1978) 65; also Egerton, 
+<hi rend="i">Stubbs</hi> 183-216, plates 154-58 reproduce tiger studies from this work.</note></p>
+        <p>Other painters showed interest in the tiger, for instance, James Northcote.<supplied type="spacer"> </supplied><ref target="n40" type="note">40</ref>
+<figure n="bewick.24.1.bqscan" rend="file" width="500" height="332">
+	<head>2. “The Tiger,” from Bewick’s <hi rend="i">General History of Quadrupeds</hi> (1790),
+Douce.B.756.P.171.</head>
+	<figDesc>Courtesy of The Bodleian Library.</figDesc>
+</figure>
+In pictures such as Northcote’s, or the tiger hunt in India in 1788 painted by John Zoffany, which showed
+the hunting party on elephants surrounding a tiger wounded and at bay, the attraction seems to be the glimpse
+of sublimity in the revelation of the tiger’s energy and power, and the sense of reassurance in dwelling on
+occasions when the tiger, the animal least capable of control by man, is shown at a moment of
+submission.<supplied type="spacer"> </supplied><ref target="n41" type="note">41</ref> Man is seen in control
+of his universe. Blake would also have had access to information about India from Thomas Banks, who exhibited
+Indian subjects at the Royal Academy in 1789, 1792, and 1800. India was frequently in the news, especially
+because of the trial of Warren Hastings, which lasted from 1788 to 1795. This in no way either explains or
+devalues Blake’s poem, but does show what a great poet can make of those materials rendered available in the
+variety of interlocking discourses which make up any cultural ambience and out of which texts are constructed.
+The materials of the poem lay ready to hand, ready to be taken up and reshaped. 
+<note id="n40"><hi rend="s">40</hi> Northcote’s “Tiger and Crocodile” (painted 1797-99) was among his animal subjects
+engraved (Egerton, <hi rend="i">Paintings</hi> 139); Taylor reproduced a mezzotint of this by C. Turner in
+fig. 16 entitled, “Tiger Attacked by a Crocodile.” He exhibited “Tiger Hunting” at the Royal Academy
+in 1804, and “A Tiger’s Den” in 1817.</note>
+	<note id="n41"><hi rend="s">41</hi> Zoffany’s picture, “Tiger Hunting in the East Indies” was painted
+in 1795. An engraving of this by Earlom from 1802 is reproduced in Archer 169, plate 107.</note></p>
+        <p>That Blake did reshape these materials is clear if we highlight those features in the discourse
+which he does not take up as a point of focus. Buffon emphasizes the tiger’s lack of proportion, and makes
+this the basis of moral disparagement.
+<q>
+The too great length of the body of the tyger, and his disproportionately short limbs, his naked head, his
+haggard eyes and his blood-coloured tongue which always lolls out of his mouth, are marks of ignoble malice
+and insatiable cruelty.<supplied type="spacer"> </supplied><ref target="n42" type="note">42</ref>
+	<note id="n42"><hi rend="s">42</hi> Smellie 5: 155.</note></q>
+(This point is not borne out by the engraving in Buffon’s volume of 1775 [illus. 3], though Corbould’s
+picture of the death of Munro [see illus. 1] shows the tiger’s tongue lolling out of its mouth, and also has
+it facing left. There is, however, a similarity of pose between the tigers of Buffon and Bewick, and that of
+Blake, despite their facing the opposite way, which may relate to the conventions of anatomical display.) With
+a rhetorical flourish, Buffon hopes that the tiger’s occasional practice of devouring its own young will
+eventually lead to the extinction of the species. (“May this excessive thirst for blood never be allayed,
+till he has
+<pb id="p24-243" n="243"/>
+destroyed the whole race of monsters which he produces.”<supplied type="spacer"> </supplied><ref
+target="n43" type="note">43</ref> Comparison with the lion is always to the tiger’s detriment. It is fierce
+and cruel without the lion’s attendant “clemency and generosity.”<supplied type="spacer"> </supplied><ref target="n44" type="note">44</ref> Goldsmith, who confesses to using Buffon as an authority, is
+in this inconsistent, attributing the greatest beauty among quadrupeds to both the tiger and the
+horse.<supplied type="spacer"> </supplied><ref target="n45" type="note">45</ref> He stresses the beauty of the
+tiger’s coloring, and then speaks of “an extremely elegant form, much larger indeed than that of the
+leopard, but more slender, more delicate, and bespeaking the most extreme swiftness and agility.”<supplied
+type="spacer"> </supplied><ref target="n46" type="note">46</ref> But its beauty of form is matched with the
+mischievousness of the animal’s disposition, “as if Providence was willing to shew the small value of
+beauty by bestowing it on the most noxious of quadrupedes.”<supplied type="spacer"> </supplied><ref
+target="n47" type="note">47</ref> The tiger is, within a page, both the most beautiful and the most noxious of
+quadrupeds. <note id="n43"><hi rend="s">43</hi> Smellie 5: 155.</note>
+	<note id="n44"><hi rend="s">44</hi> Goldsmith 3: 235.</note>
+	<note id="n45"><hi rend="s">45</hi> Goldsmith 3: 233; 2: 342.</note>
+	<note id="n46"><hi rend="s">46</hi> Goldsmith 3: 233.</note>
+	<note id="n47"><hi rend="s">47</hi> Goldsmith 3: 233-34.</note></p>
+        <p>Other features are highlighted to the tiger’s discredit. Pennant speaks of the tiger’s
+cowardice, and accuses him of “poltronery” in his “sudden retreat on any disappointment.”<supplied
+type="spacer"> </supplied><ref target="n48" type="note">48</ref> Buffon, followed by others, emphasizes the
+greed of the animal, and how it becomes drunk with blood, and suffers from blind rage. Indeed, we find
+incorporated into this discourse of natural history discursive practices more common in moral and theological
+contexts. Buffon uses the language of disapproval for those characteristics which show reason not in control.
+The tiger is the animal least subject to submission to man’s rational superiority. Man stands at the center
+of Buffon’s universe, and all creatures are seen in relation to man, with reason controlling the instinctual
+passions. Animals such as sheep, were they not useful to man and given his protection, would soon be
+annihilated. “Wherever man has not the dominion, the lion, the tiger, and the wolf reign by the laws of
+force and cruelty.”<supplied type="spacer"> </supplied><ref target="n49" type="note">49</ref> There are
+similarities here with the position of Bishop Butler.
+<q>
+There are several brute creatures of equal, and several of superior strength, to that of men; and possibly the
+sum of the whole strength of brutes may be greater than that of mankind: but reason gives us the advantage and
+superiority over them; and thus man is the acknowledged governing animal upon earth. Nor is this superiority
+considered by any as accidental; but as what reason has a tendency, in the nature of the thing, to
+obtain.<supplied type="spacer"> </supplied><ref target="n50" type="note">50</ref></q>
+This tradition of natural theology is one Blake rejects, as he does the implications of much of Buffon’s
+discourse. In contrast, he concentrates on the sublime power and ferocious energy of the tiger, on the
+tiger’s untameable quality. Blake makes the tiger awesome without moral disparagement, giving value to
+energy and attributing it to the divine Creator. This is the true implication of his “fearful symmetry,”
+in contrast to Buffon’s attribution to the tiger of disproportion. For Blake the tiger is certainly fearful,
+but retains his symmetry. <note id="n48"><hi rend="s">48</hi> Pennant 1: 258.</note>
+	<note id="n49"><hi rend="s">49</hi> Smellie 3: 463.</note>
+	<note id="n50"><hi rend="s">50</hi> Joseph Butler, <hi rend="i">Analogy of Religion, Natural and Revealed, to
+the Constitution and Course of Nature</hi> (1736) 1: iii (London: George Bell &amp; Son, 1897 ed.,
+122).</note></p>
+        <p>In a whole variety of eighteenth century texts, “symmetry” is the mark of that orderliness and
+pattern that reflects the mind of the Creator. This is most obvious in texts of instruction designed for
+children. In 1793, Thomas Bewick provided designs and woodcuts for such a work, <hi rend="i">The Blossoms of
+Morality</hi>, translated by W. D. Cooper from the French of Armand Berquin. An early section of this,
+entitled “The Book of Nature,” teaches how the Creator may be seen in his works; “we ought to study
+nature in every thing that presents itself to our view, and therein trace out the handy works of the great
+Creator.”<supplied type="spacer"> </supplied><ref target="n51" type="note">51</ref> This is evident even in
+plants. “What appears to us mean and despicable, often affords wherewith to astonish the sublimest minds.
+Not a single leaf is neglected by Nature; order and symmetry are obvious in every part of it.”<supplied
+type="spacer"> </supplied><ref target="n52" type="note">52</ref> The same sort of point is implied in
+Goldsmith, when he presents the horse as “the most perfectly formed” of quadrupeds; his perfection is
+exhibited in “the exact symmetry of his shape.”<supplied type="spacer"> </supplied><ref target="n53"
+type="note">53</ref> A poem of Henry Needler from 1728, which in its description of the creation of man uses
+the same kind of rhetorical questions that are a mark of Blake’s poem, makes a similar point.
+<q>
+By what artful Hand<lb/>
+Was the nice Fabrick made? Who plac’d the Bones<lb/>
+In such a well-knit Frame, and with such skill<lb/>
+And Symmetry contriv’d?
+</q>
+The poem provides its own answer to the question; such symmetry is the work of “an Infinite Almighty
+God.”<supplied type="spacer"> </supplied><ref target="n54" type="note">54</ref>
+	<note id="n51"><hi rend="s">51</hi> Berquin, <hi rend="i">The Blossoms of Morality</hi>, trans. W. D. Cooper,
+2nd ed. (London, 1796) 24.</note>
+	<note id="n52"><hi rend="s">52</hi> Berquin 24.</note>
+	<note id="n53"><hi rend="s">53</hi> Goldsmith 2: 342.</note>
+	<note id="n54"><hi rend="s">54</hi> Cited in F. M. J. Doherty, “Blake’s ‘The Tyger’ and Henry
+Needler,” <hi rend="i">PQ</hi> 46 (1967): 566-67.</note></p>
+        <p>Akenside’s <hi rend="i">The Pleasures of Imagination</hi> (1744) claims that the “charm of
+animated things” is a pledge of “The integrity and order of their frame,”<supplied type="spacer"> </supplied><ref target="n55" type="note">55</ref> and he lists the “varied symmetry of parts” among the
+hierarchy of nature’s charms.<supplied type="spacer"> </supplied><ref target="n56" type="note">56</ref> The
+highest form of beauty is when it reveals “the high expression of a mind,” leading us from the created
+object to the Creator:
+<q>
+By steps conducting our enraptur’d search<lb/>
+To that eternal origin, whose power,<lb/>
+Through all the unbounded symmetry of things,<lb/>
+Like rays effulging from the parent sun,<lb/>
+This endless mixture of her charms diffus’d.<supplied type="spacer"> </supplied><ref target="n57"
+type="note">57</ref></q>
+Symmetry is evidence of the Creative Mind. <note id="n55"><hi rend="s">55</hi> Mark Akenside, <hi rend="i">The
+Pleasures of Imagination</hi>, book 1, lines 368, 370.</note>
+	<note id="n56"><hi rend="s">56</hi> Akenside, book 1, l. 453.</note>
+	<note id="n57"><hi rend="s">57</hi> Akenside, book 1, ll. 476-80.</note></p>
+        <p>Apart from “The Tyger,” the only other occasion when Blake used the word “symmetry” was in
+the annotations to Reynolds, of about 1808. Commenting on Reynolds’s remark in the Third Discourse that:
+“There is, likewise, a kind of symmetry, or proportion, which may properly be said to belong to
+deformity,” Blake wrote: “The Symmetry of Deformity is a Pretty Foolery” (E 648). In the next
+annotation, he rejected any thought that symmetry might be an abstract idea, applicable to beauty and
+deformity alike, and to Reynolds’s remark: “When the Artist has by diligent attention acquired a clear and
+distinct idea of
+<pb id="p24-244" n="244"/>
+beauty and symmetry; when he has reduced the variety of nature to the abstract idea . . . ,” Blake snorted,
+“What Folly!” (E 649).</p>
+        <p>From all this we may conclude that the “fearful symmetry” of “The Tyger” is much more than
+the “natural symmetry of ferocity and beauty” which Nurmi suggests.<supplied type="spacer"> </supplied><ref target="n58" type="note">58</ref> Symmetry is inherent in the idea of beauty, but to speak of
+“fearful symmetry” implies a creature which, despite its wrathful aspect, is no less an expression of the
+divine mind of the Creator. It is not just the symbol of an idea, but the realization in a particular beast
+and superficial form of the divine energy available only to the eye of the imagination. Awareness of the
+discourses which intersect in the poem forces consideration of more than its internal tensions. The text is to
+be interpreted in relation to those discourses. <note id="n58"><hi rend="s">58</hi> Nurmi 669; cf. Baine,
+“Tyger” 491.</note></p>
+        <p>The existence of such discourses may also contribute something to our understanding of the Proverb
+of Hell, “The tygers of wrath are wiser than the horses of instruction.”<supplied type="spacer"> </supplied><ref target="n59" type="note">59</ref> Buffon treats the tiger as the animal least capable of being
+subdued; his nature resists all efforts at control. Buffon’s French text is more explicit here than
+Smellie’s translation: “Le tigre est peut-être le seul de tous les animaux dont on ne puisse fléchir le
+naturel; ni la force, ni la contrainte, ni la violence ne peuvent le dompter.”<supplied type="spacer"> </supplied><ref target="n60" type="note">60</ref> Buffon presents the horse as the animal whose nature has
+been conquered by man, who has become docile: “il fléchit sous la main de celui qui le guide”;<supplied
+type="spacer"> </supplied><ref target="n61" type="note">61</ref> “C’est un créature qui renonce à son
+être pour n’exister que par la volonté d’un autre.”<supplied type="spacer"> </supplied><ref
+target="n62" type="note">62</ref>
+	<note id="n59"><hi rend="s">59</hi><hi rend="i"> Marriage of Heaven and Hell</hi> (E 37, pl. 9).</note>
+	<note id="n60"><hi rend="s">60</hi> Buffon 3: 248; for English translation, see Smellie 5: 160.</note>
+	<note id="n61"><hi rend="s">61</hi> Buffon 1: 9; Smellie’s translation has repeated stress on repression;
+“repress,” “groan,” “check” are the verbs he uses, as against “natural vivacity, and fire”
+(Smellie 3: 306-07). The echo in the French text between tiger and horse is focused on the negation of the
+positive use of <hi rend="i">fléchir.</hi></note>
+	<note id="n62"><hi rend="s">62</hi> Buffon 1: 9; for English translation, see Smellie 3: 307.</note></p>
+        <p>A later sentence reads significantly: “C’est par la perte de sa liberté que commence son
+éducation, &amp; par la contrainte qu’elle s’achève.”<supplied type="spacer"> </supplied><ref
+target="n63" type="note">63</ref> Tiger and horse are contrasted in Buffon’s system as those animals who are
+least subject and most subject to the constraining will of man. Ready to hand in the available discourse about
+these animals are the significations that Blake is to use and develop in terms of “the tygers of wrath”
+and “the horses of instruction.” The tiger impatient of constraint, not to be subdued, is aligned with
+energy and with freedom; the horse, docile, subdued, and responsive, is aligned with reason, and freedom’s
+constraint. Buffon concludes that “the manners of a horse originate entirely from his education,”<supplied
+type="spacer"> </supplied><ref target="n64" type="note">64</ref> and the implication of an earlier comment,
+namely, that “in animated beings, liberty of movement constitutes the perfection of their
+existence,”<supplied type="spacer"> </supplied><ref target="n65" type="note">65</ref> serves to confirm
+Blake’s attribution of greater “wisdom” to the creature whose nature is most unconstrained. The same
+point is borne out in Buffon’s earlier and more general discussion of domestic animals, where he points out
+that the naturalist needs to distinguish “those facts which depend solely on instinct, from those that
+originate from education,” and “never to confound the animal with the slave, the beast of burden with the
+creature of God.”<supplied type="spacer"> </supplied><ref target="n66" type="note">66</ref>
+	<note id="n63"><hi rend="s">63</hi> Buffon 1: 10; Smellie 3: 307.</note>
+	<note id="n64"><hi rend="s">64</hi> Smellie 3: 313.</note>
+	<note id="n65"><hi rend="s">65</hi> Smellie 3: 308.</note>
+	<note id="n66"><hi rend="s">66</hi> Smellie 3: 301-02.</note></p>
+        <p>The transformation of “that noble beast the Tyger” in <hi rend="i">An Island in the Moon</hi>,
+in 1784, to “the tygers of wrath” by 1793 in <hi rend="i">The Marriage of Heaven and Hell</hi> seems to
+point to Blake’s awareness of the discourse made available by Smellie’s 1785 translation of Buffon.
+Whether or not Blake knew it, he certainly absorbed its substance,<supplied type="spacer"> </supplied><ref
+target="n67" type="note">67</ref> which by 1793 underwent further transformation, possibly under the impulse
+of the account of the death of Munro. <note id="n67"><hi rend="s">67</hi> Coleman O. Parsons, “Tygers before
+Blake,” <hi rend="i">Studies in English Literature 1500-1900</hi> 8 (1968): 573-92, discusses some of the
+material examined here from natural history, showing that “Blake did not create in a void” (589). His
+conclusions about the significance of “fearful symmetry,” and the implied answer to the poem’s final
+question, are, however, different from mine. He also underestimates the extent to which Goldsmith is heavily
+dependent on Buffon. It is worth pointing out, however, that the third edition of Goldsmith’s work was
+advertised in 1793 (<hi rend="i">York Herald</hi> 4 May, 18 May, 3 August 1793). Goldsmith’s indebtedness to
+Buffon is also not commented on by Baine, who concludes that virtually all Blake’s “biological symbolism
+is traditional” (<hi rend="i">Biological Symbolism</hi> 169), and also points to the influence of Ripa 
+<hi rend="i">Iconologia</hi>, especially in Richardson’s translation of 1777-79, holding that “the natural
+historians . . . often accepted and perpetuated many of the traditional conventions concerning animals; and
+Richardson, in turn, seems sometimes to have paraphrased the contemporary naturalists in his 
+<hi rend="i">Iconology</hi>” (10-11). Baine also claims that the left-facing pose of Blake’s tiger has sinister
+implications relating to the iconographic tradition (19), but this does not explain the opposite pose in
+Buffon and Bewick. John E. Grant, in “This is Not Blake’s ‘The Tyger’ (With Apologies to Rene
+Magritte)” <hi rend="i">The Iowa Review</hi> 19 (1989): 112-55, claims “that Blake provided a coordinated
+rather than a commensurate poem-with-picture” and that “all of Blake’s versions of this picture declare,
+without apology: This is not the Tyger imagined in the poem” (113).</note></p>
+        <pb id="p24-245" n="245"/>
+        <figure n="buffon.24.1.bqscan" rend="file" width="300" height="471">
+          <head>3. “Le Tigre,” from Buffon’s <hi rend="i">Oeuvres Completes</hi> (1775) 3: 258, pl. 7,
+RSL.CR.Q.34/3.</head>
+          <figDesc>Courtesy of The Bodleian Library.</figDesc>
+        </figure>
+      </div1>
+	<pb id="p24-246" n="246" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>30.3.romantic</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Romantic Circles Web Site</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1996/7</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1996/97</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">30.3</biblScope>
+            <biblScope unit="volume">30</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>D.W. Dörrbecker</name>
+              <name>Hilda Hollis</name>
+              <name>Marc Kaplan</name>
+              <name>Deborah McCollister</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1996/97"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_30">
+    <body>
+      <div1 id="BQ-30-3-0008">
+      	<pb id="p30-95" n="95"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Romantic Circles Web Site</hi>
+            </title>
+          </head>
+          <p>This is to announce a new web site for research, Romantic Circles: Byron,
+                        Keats, the Shelleys and Their Contemporaries. Its prototype can be found at
+                        the following URL:</p>
+          <p>http://www.inform.umd.edu/RC/rc.html</p>
+          <p>According to the editors, Romantic Circles is organized as a meta-resource
+                        that will be openended, collaborative, and porous—maintaining and
+                        encouraging many potential links to other sites on the Web. As currently
+                        conceived, the site will be divided into three main entities: Electronic
+                        Editions, Scholarly Resources, and Critical Exchange. The last of these will
+                        include a real-time, interactive MOO, the Villa Diodati.</p>
+          <p>Two general principles will guide the development of the site: “We
+                        will value quality over quantity, mounting only resources produced and
+                        maintained according to high scholarly standards; and we will give priority
+                        to innovative, creatively-conceived resources that take advantage of the
+                        electronic medium in ways that could not be duplicated easily in print. We
+                        invite you to visit the site, read the prospectus, and see what we and our
+                        co-editors have planned for the coming months. Romantic Circles will be
+                        formally launched in November, to coincide with the NASSR conference in
+                        Boston. Until then, users are welcome to watch the site develop as we
+                        construct it and to try out features as they become available, including our
+                        NASSR ’96 Conference pages.” [Neil Fraistat, Steve E. Jones,
+                        and Donald H. Reiman, General Editors; and Carl Stahmer, Design and
+                        Technical Editor.]</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

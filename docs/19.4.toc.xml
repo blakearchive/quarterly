@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>19.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1986</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1986</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">19.4</biblScope>
+            <biblScope unit="volume">19</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Greg Crossan</name>
+              <name>Robert F. Gleckner</name>
+              <name>David Groves</name>
+              <name>Bo Ossian Lindberg</name>
+              <name>Warren Stevenson</name>
+              <name>Anne Williams</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_19">
+    <front>
+      <pb id="p19-125-126" n="125-126"/>
+      <div1 id="cover">
+        <figure n="cover.019.04.bqscan" rend="file" width="258" height="342">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 19<lb/>
+            NUMBER 4<lb/>
+            SPRING 1986</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-19-4-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.bentley">From Sketch to Text in Blake: The Case of 
+<hi rend="i">The Book of Thel</hi></ref> by G. E. Bentley, Jr.</cell>
+            <cell>128</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.groves">Blake, Thomas Boston, and the Fourfold Vision</ref>
+by David Groves</cell>
+            <cell>142</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.crossan">“Infant Sorrow” and Robert Greene’s 
+<hi rend="i">Menaphon</hi></ref> by Greg Crossan</cell>
+            <cell>142</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.williams">Daniel Albright, <hi rend="i">Lyricality in
+English Literature</hi></ref>, reviewed by Anne Williams</cell>
+            <cell>144</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.gleckner">Jackie DiSalvo, <hi rend="i">War of Titans:
+Blake’s Critique of Milton and the Politics of Religion</hi></ref>, reviewed by Robert F. Gleckner</cell>
+            <cell>146</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.lindberg">Kathleen Raine, <hi rend="i">The Human Face of
+God: William Blake and the Book of Job</hi></ref>, reviewed by Bo Ossian Lindberg</cell>
+            <cell>151</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">POETRY</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.stevenson">On Blake’s Painting of Jesus and the Woman
+Taken in Adultery</ref> by Warren Stevenson</cell>
+            <cell>150</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="19.4.butlin">Connoisseurship and the Palmer Fakes</ref> by Martin
+Butlin</cell>
+            <cell>155</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-19-4-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">G.E. BENTLEY, JR.</hi>, of the University of Toronto writes on Blake, Flaxman,
+Cumberland, and illustrated-book makers of their times.</p>
+        <p><hi rend="b">MARTIN BUTLIN</hi>, Keeper of the Historic British Collection at the Tate Gallery,
+London, is the author of numerous books on Blake and Turner and a frequent contributor to 
+<hi rend="i">Blake.</hi></p>
+        <p><hi rend="b">GREG CROSSAN</hi> is a senior lecturer in English at Massey University, New Zealand,
+where he teaches Romantic Literature and Romantic Mythmaking. He has written chiefly on the poetry of John
+Clare.</p>
+        <p><hi rend="b">ROBERT F. GLECKNER</hi>, Professor of English, Duke University, is the author of 
+<hi rend="i">The Piper and the Bard: A Study of William Blake, Blake’s Prelude: “Poetical Sketches,”</hi>
+and <hi rend="i">Blake and Spenser.</hi> He is also the co-author (with Mark Greenberg) of a forthcoming MLA
+volume, <hi rend="i">Approaches to Teaching Blake’s “Songs.”</hi></p>
+        <p><hi rend="b">DAVID GROVES</hi>, a Canadian lecturer working in Scotland, is the author of 
+<hi rend="i">James Hogg: Tales of Love and Mystery</hi> and <hi rend="i">James Hogg and His Art</hi>
+(forthcoming).</p>
+        <p><hi rend="b">BO OSSIAN LINDBERG</hi> is a painter and art historian at the Institute of Art History
+in Lund, Sweden. He is the author of <hi rend="i">William Blake’s Illustrations to the Book of Job.</hi></p>
+        <p><hi rend="b">WARREN STEVENSON</hi>, Associate Professor of English, University of British Columbia,
+has written on the major English Romantics. His most recent book is <hi rend="i">Nimbus of Glory: A Study of
+Coleridge’s Three Great Poems.</hi></p>
+        <p><hi rend="b">ANNE WILLIAMS</hi>, Associate Professor of English, University of Georgia, is the
+author of <hi rend="i">Prophetic Strain: The Greater Lyric in the Eighteenth Century.</hi> Currently an ACLS
+Fellow, she is at work on a study of Romantic allegory and the gothic tradition. 
+<note type="unreferenced" place="footer">© 1986 Morris Eaves and Morton D. Paley</note></p>
+        <figure n="BlakeProfilesDetail.19.4.bqscan" rend="file" width="250" height="115"></figure>
+      </div1>
+      <pb id="p19-127" n="127"/>
+      <div1 id="BQ-19-4-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+        <figure n="WomanReachingDetail.19.4.bqscan" rend="file" width="250" height="290"></figure>
+      </div1>
+      <div1 id="BQ-19-4-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Associations International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes’</hi> annual Romantic Bibliography, ART bibliographies
+MODERN, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <figure n="WorriedFacesDetail.19.4.bqscan" rend="file" width="250" height="137"></figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

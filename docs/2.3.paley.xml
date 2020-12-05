@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.paley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">“Menny wouver”</title>
+				<author n="Paley">Morton D. Paley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-58" n="58"/>
+            <div1 id="BQ-02-3-0006">
+                <div2>
+                    <p>In the final version of Blake’s Notebook poem “English Encouragement of Art,” occurs
+the curious line “Menny wouver both Bunglishness &amp; skill<supplied type="emend">”</supplied> (E 501).
+Erdman suggests that “Menny wouver” is “<hi rend="u">Cromekian</hi> for maneuver” (p. 787). Perhaps; but it
+occurs to me this may also be a pun on <corr type="emend">“Meynheer Wouverman,”</corr> referring to the Dutch
+painter Philips Wouverman.</p>
+                    <byline>
+                        <docAuthor>Morton D. <name>Paley</name>
+                        </docAuthor>
+                    </byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

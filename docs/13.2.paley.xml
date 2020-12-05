@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.2.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">“A New Heaven is Begun”: William Blake and Swedenborgianism</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.2</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>F.R. Duplantier</name>
+              <name>David V. Erdman</name>
+              <name>James King</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+              <name>Shawn Thompson</name>
+              <name>Kazumitsu Watarai</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+    <pb id="p13-64" n="64"/>
+      <div1 id="BQ-13-2-0005">
+        <head>
+          <title type="main">
+            <hi rend="b">“A NEW HEAVEN IS BEGUN”: WILLIAM BLAKE AND SWEDENBORGIANISM</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">MORTON D.</hi>
+            <name>
+              <hi rend="b">PALEY</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p>PREFATORY NOTE: I began work on this subject in 1974 and delivered a paper on Blake and Swedenborg
+at the University of Lund. In the summer of 1978, thanks to a grant from the Nordenskjöld Fund of the Royal
+Swedish Academy of Sciences, I was able to complete my research. I presented the results at a graduate seminar
+at the University of Stockholm in September 1978. In undertaking this task, I was greatly assisted by
+librarians at the Royal Library, Stockholm; the British Library; and Swedenborg House, London. I am also
+grateful for information and advice from G. E. Bentley, Jr., Ray A. Deck, Jr., Morris Eaves, Robert N. Essick,
+Pastor O. Hjern, Inge Jonsson, Peter Lineham, and Edward P. Thompson.</p>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">I</hi>
+            </title>
+          </head>
+          <p>The formative influence of Emanuel Swedenborg on William Blake was once an article of faith among
+Blake scholars and enthusiasts. Blake was supposed to have come from a family of Swedenborgians; William
+Allingham imagined the fourteen-year-old Blake meeting the eighty-four-year-old Swedenborg in the streets of
+London; Alexander Gilchrist declared “of all modern men, the engraver’s apprentice was to grow up likest to
+Emanuel Swedenborg.”<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> We now know that
+the story of Blake’s Swedenborgian background is a myth supported by no verifiable facts,<supplied
+type="spacer"> </supplied><ref target="n2" type="note">2</ref> yet there can be no doubt that Swedenborg’s
+writings and doctrines are of unusual importance in relation to Blake’s. Although much has been written
+about Swedenborg’s influence on Blake, Blake’s complex and shifting attitude toward Swedenborgianism has
+not yet been adequately described. My purpose here is both to reconstruct that attitude in its several phases
+and to define Blake’s relationship to the Swedenborgian milieu of his own day. 
+<note id="n1"><hi rend="s">1</hi> See Alexander Gilchrist, <hi rend="i">Life of William Blake</hi> (1863, rev. ed. 1880), ed.
+Ruthven Todd (London and New York: J. M. Dent and E. P. Dutton, rev. ed., 1945), p. 13.</note>
+	<note id="n2"><hi rend="s">2</hi> See J. G. Davies, <hi rend="i">The Theology of William Blake</hi> (Oxford:
+The Clarendon Press, 1948), pp. 31-53; David V. Erdman, “Blake’s Early Swedenborgianism: a Twentieth-Century
+Legend,” <hi rend="i">Comparative Literature</hi>, V (1953), 247-57; Nancy Bogen, “The Problem of William
+Blake’s Early Religion,” <hi rend="i">Personalist</hi>, XLIX (1968), 509-22.</note></p>
+          <p>What we know factually about Blake’s Swedenborgian interests may be summarized briefly. Blake
+owned and annotated at least three of Swedenborg’s books: <hi rend="i">Heaven and Hell, Divine Love and
+Divine Wisdom</hi>, and <hi rend="i">Divine Providence</hi>; he mentions two others in such a way as to
+suggest that he read them: <hi rend="i">Earths in Our Universe</hi> and <hi rend="i">Universal Theology</hi>
+[<hi rend="i">True Christian Religion</hi>]. He and his wife attended the first General Conference of the New
+Jerusalem Church in 1789. Then, turning sharply against the Swedenborgians, he satirized them and their
+Messenger in <hi rend="i">The Marriage of Heaven and Hell</hi> (1790-93). After that he mentions Swedenborg
+twice in his published writings—in <hi rend="i">A Descriptive Catalogue</hi> (1809) and in 
+<hi rend="i">Milton</hi> (1804-10). At first this may not seem like the chronicle of a major intellectual
+relationship, but the General Conference of 1789 is the only meeting of any organization that Blake is known
+to have attended, and only thirteen books annotated by him have survived. So when we consider these facts in
+relation to the amount of information about Blake available, they bulk relatively large, and it cannot be
+doubted that Blake found Swedenborg a figure of unusual interest. The nature of Blake’s interest in
+Swedenborg can, moreover, be divided into four distinct periods. From the late 1780s until 1790, Blake’s
+attitude was studious and respectful; even in disagreeing with Swedenborg during these years, Blake expresses
+himself so as to put the most optimistic construction upon Swedenborg’s doctrines. In 1790 Blake repudiated
+Swedenborg vehemently in the marginalia to <hi rend="i">Divine Providence</hi>, and he wrote at least part of
+the satire of <hi rend="i">The Marriage of Heaven and Hell.</hi> From 1793, when <hi rend="i">The
+Marriage</hi> was completed,<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> to about
+1800 there is little to indicate interest in Swedenborg on Blake’s part; but after
+<pb id="p13-65" n="65"/>
+1800 Swedenborgian concepts and references began to reappear in Blake’s works, and in 1809 he exhibited a
+picture on a Swedenborgian subject. In this late period, Blake’s view of Swedenborg tends to be ambivalent,
+as typified by the exclamation of Rintrah and Palamabron in <hi rend="i">Milton</hi>: “O Swedenborg! strongest
+of men, the Samson shorn by the Churches!”<supplied type="spacer"> </supplied><ref target="n4"
+type="note">4</ref> Working with the documentary information that we have, and making reasonable inferences
+from what we know of the history of English Swedenborgianism, we can account for some of these changes in
+Blake’s attitude. At the same time, we can hope to illuminate one aspect of the development of Blake’s
+thought which was insufficiently discussed in my book on that subject.<supplied type="spacer"> </supplied><ref
+target="n5" type="note">5</ref>
+	<note id="n3"><hi rend="s">3</hi> On the dating of <hi rend="i">The Marriage</hi>, see David V. Erdman,
+“Dating Blake’s Script: the <hi rend="i">g</hi> Hypothesis,” <hi rend="i">Blake Newsletter</hi>, III (1969),
+8-13; G. E. Bentley, Jr., <hi rend="i">Blake Books</hi> (Oxford: The Clarendon Press, 1977), pp.
+285-88.</note>
+	<note id="n4"><hi rend="s">4</hi><hi rend="i"> M</hi> 22:50, in <hi rend="i">The Poetry and Prose of William
+Blake</hi>, ed. David V. Erdman (Garden City, N.Y.: Doubleday &amp; Co., 4th printing, 1970), p. 117. The
+edition will be cited hereafter as E, followed by plate, line, and page numbers.</note>
+	<note id="n5"><hi rend="s">5</hi><hi rend="i"> Energy and the Imagination: a Study of the Development of
+Blake’s Thought</hi> (Oxford: The Clarendon Press, 1970). Swedenborg is discussed on pp. 11-13, 17-18,
+76-77, and 120.</note></p>
+        </div2>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">II</hi>
+            </title>
+          </head>
+          <p>We do not know precisely when Blake became interested in Swedenborg, but a date c. 1787 seems
+likely. Blake’s annotations to <hi rend="i">Heaven and Hell</hi> include a reference to Swedenborg’s 
+<hi rend="i">Earths in Our Solar System</hi>,<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref> first published in English in 1787; and in that year John Flaxman, who could have
+introduced Blake to Swedenborgian circles, left for a seven-year stay in Italy. An even earlier date is
+possible, for in 1779 a William Blake was among the subscribers to Jacob Duché’s <hi rend="i">Discourses on
+Several Subjects</hi>, and Duché was a Swedenborgian, although he had not yet declared his allegiance
+publicly.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> (Another Swedenborgian,
+William Sharp, engraved the frontispiece after Benjamin West, showing male and female angels.) Duché became
+Chaplain and Secretary of the Society for the Reception of Orphan Girls in 1782, and opened his house in
+Lambeth to meetings of a Swedenborgian group which became known as the Theosophical Society. “As public
+worship had not yet been established in the New Church,” says Robert Hindmarsh, “many of our friends attended
+his ministry on the Sundays.”<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref> It is
+possible that Blake attended some of Duché’s meetings, and Blake’s reference to what “was asserted in the
+society”<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> about the nature of influx
+may refer to a meeting of the Theosophical Society. However, Blake’s first specifically datable contact with
+the Swedenborgians was at the General Conference of April 13-17, 1789, when William and Catherine Blake
+entered their names in the Conference’s Minute Book and so implied assent to the forty-two theological
+propositions which were unanimously approved by the participants.<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref>
+	<note id="n6"><hi rend="s">6</hi> As Blake refers to this book as “Worlds in [the] Universe,” Erdman
+speculates on the possible existence of “a different translation, perhaps of later date” (E 800). But 
+<hi rend="i">Worlds in the Universe</hi> was evidently an alternate title for <hi rend="i">Earths in Our
+Universe</hi>, and the 1787 edition is cited under the former title in <hi rend="i">The Apocalypse
+Revealed</hi> (Manchester: C. Wheeler, 1791), II, # 716.</note>
+	<note id="n7"><hi rend="s">7</hi> On Jacob Duché, see <hi rend="i">DAB</hi>, s.v., and Charles Higham, “The
+Reverend Jacob Duché, M.A.: II. His Later Life and Ministry in England,” <hi rend="i">New Church Review</hi>,
+XXII (1915), 404-20. Duché’s son, Thomas Spence Duché, was a young artist who studied under Benjamin West
+in London and who may have visited the Prophets of Avignon in 1788; see Albert Frank Gegenheimer, “Artist in
+Exile: the Story of Thomas Spence Duché,” <hi rend="i">PMBR</hi>, LXXIX (1955), 3-26.</note>
+	<note id="n8"><hi rend="s">8</hi><hi rend="i"> Rise and Progress of the New Jerusalem Church in England,
+America and Other Parts</hi>, ed. Edward Madely (London, 1861), pp. 40-41. This account by an eyewitness to
+and participant in the early history of the New Jerusalem Church is our most important single source of
+information about the development of Swedenborgianism in England. However, it must be remembered that Robert
+Hindmarsh was not a disinterested party as concerns the schisms within the New Jerusalem Church, and his
+account must be balanced by other, independent ones such as those of Manoah Sibley and, most notably, Thomas
+Robinson (see below).</note>
+	<note id="n9"><hi rend="s">9</hi> Annotations to <hi rend="i">Divine Love and Divine Wisdom</hi>, E
+598.</note>
+	<note id="n10"><hi rend="s">10</hi> Reprinted in <hi rend="i">Rise and Progress</hi>, pp. 98-99.</note></p>
+          <p>Among the propositions (all taken from Swedenborg’s works) which clearly agreed with Blake’s
+own expressed views were those affirming free will, condemning predestination, and declaring that “all have a
+capacity to be regenerated, because all are redeemed, each one according to his state.” Blake would also have
+agreed with Proposition 33: “Now it is allowable to enter into the Mysteries of Faith.” (The words “Now it is
+allowable” were inscribed over the door of the New Jerusalem church in Eastcheap, in contrast to the “Thou
+Shalt Not” to be written over the door of the Chapel in Blake’s “Garden of Love.”) The Conference’s
+reaffirmation of Swedenborg’s declaration that a Last Judgment had taken place in 1757 must have
+particularly interested
+<figure n="PanahandWadstromPortrait.13.2.bqscan" rend="file" width="776" height="1000">
+	<figTranscr>SAPIE[NTI]A ANGELICA<lb/>
+	[DE]<lb/>
+	DVIN[A] PROVIDEN[TIA]<lb/>
+	<lb/>
+	ES</figTranscr>
+	<head>1 Carl Fredrik von Breda: Portrait of Peter Panah and Carl Bernhard Wadström.</head>
+	<figDesc>c. 1789. Nordiska Museet, Stockholm. Photo by courtesy of Svenska Porträttarkivet,
+Stockholm.</figDesc>
+</figure>
+Blake, as that was of course the year of his own birth. Blake would have sympathized with the Conference’s
+endorsement of Swedenborg’s statement that the things seen by the visionary “are not fictions but were
+really seen and heard in a state in which I was broad awake,” for the Swedenborgians had to defend their
+Messenger, just as Blake had to defend himself, against charges of “enthusiasm” and madness. Furthermore, many
+Swedenborgians shared another of Blake’s deepest concerns—opposition to slavery. Swedenborg taught that
+the inhabitants of the interior of Africa had preserved a direct intuition of God, and as a result the first
+abolitionist society was founded by Swedenborgians in Norrköping in 1779.<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref> The founder of that group was one of the most active of
+European abolitionists, Charles Bernhard Wadström; and Wadström with another Swedish delegate, Augustus
+Nordenskjöld, attended the 1789 General Conference. Wadström and Nordenskjöld were deeply involved in a
+plan to set up a free community for whites and blacks on the west coast of Africa, and Blake can hardly have
+been unaware of (or uninterested in) this well publicized project. A spirit of millenarian expectation was
+abroad, and even the pedestrian Hindmarsh was moved to something like poetry: “ . . . The tree of life, whose
+roots are planted in the gardens and streets of the New Jerusalem, as
+<pb id="p13-66" n="66"/>
+<figure n="KrafftSvendenborgPortrait.13.2.bqscan" rend="file" width="805" height="1000">
+	<figTranscr>Apocalypsis.<lb/>
+	Relevata<lb/>
+	in Qua<lb/>
+	Deteguntur Arcana<lb/>
+	Qua ipsi.<lb/>
+	Predicta sunt.</figTranscr>
+	<head>2 Per Krafft, <hi rend="i">Emanuel Svedenborg.</hi></head>
+	<figDesc>Gripsholm Castle.</figDesc>
+</figure>
+<pb id="p13-67" n="67"/>
+well as on either bank of its river, spontaneously sprung up before our eyes, luxuriant in foliage, and laden
+with the sweetest fruits of paradise in endless variety and 
+abundance.”<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref> 
+It must have seemed to Blake as if there were a possibility
+of sharing his own prophetic vision with a community of kindred spirits—as if, indeed, the New Jerusalem
+were descending. <note id="n11"><hi rend="s">11</hi> See R. Sundelin, <hi rend="i">Svedenborgianismens
+Historia i Sverige</hi> (Uppsala: W. Schultz, 1886), p. 259.</note>
+	<note id="n12"><hi rend="s">12</hi><hi rend="i"> Rise and Progress</hi>, p. 107.</note></p>
+          <p>For more concrete evidence of what attracted Blake to Swedenborg’s doctrines, we must go to the
+marginalia to <hi rend="i">Heaven and Hell</hi> and to <hi rend="i">Divine Love and Divine Wisdom.</hi> Those
+to <hi rend="i">Heaven and Hell</hi> are brief.<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref> They begin with a defense of the imagination, addressed not to Swedenborg but to a
+previous owner of the volume. In addition, two paragraphs about the state of little children in heaven are
+scored in a margin, #513 has Blake’s note “See N 73 Worlds in Universe for account of Instructing Spirits”
+(E 591), and #588 has Blake’s note concerning the relationship of heavens to hells. According to Swedenborg,
+“Both Heaven and the World of Spirits may be considered as convexities, under which are arrangements of those
+infernal mansions.” This Blake elucidates: “Under every <hi rend="u">Good</hi> is a hell. i.e. hell is the
+outward or external of heaven. &amp; is of the body of the lord. for nothing is destroyed” (E 591). Here we
+see Blake hopefully pushing Swedenborg’s idea toward a conception of unity according to which Hells are only
+mistakes for Heavens; for Blake Hell (not yet having acquired the subversive sense it bears in 
+<hi rend="i">The Marriage</hi>) is merely negative and therefore redeemable. Later, Blake would have to admit that
+this was not the meaning Swedenborg had intended, and Blake would accordingly condemn Swedenborg’s view as
+predestinarian. <note id="n13"><hi rend="s">13</hi> Blake’s copy (published 1784) is in the Harvard College
+Library. Bentley (<hi rend="i">Blake Books</hi>, p. 696) makes a “plausible guess” that the marginalia were
+written in 1788.</note></p>
+          <p>Blake’s notes to <hi rend="i">Divine Love and Divine Wisdom</hi><supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> once more show Blake working out his own ideas through the
+medium of Swedenborg, finding as many areas of agreement as possible, and reasoning away differences. In these
+marginalia Blake’s chief concern is the same as Swedenborg’s: the relationship of the spiritual and the
+natural worlds, and hence of the spiritual and the natural man. As Blake’s tractates of c. 1788 show, Blake
+believes that although the two can be distinguished there is a unity underlying them, and that this unity is
+perceived by the imagination or Poetic Genius.<supplied type="spacer"> </supplied><ref target="n15"
+type="note">15</ref> Blake hopefully glosses Swedenborg’s “spiritual idea” (#7) as “Poetic idea,” and where
+Swedenborg writes of the Angels’ reception of Love and Wisdom from the Lord (#10), Blake writes: “He who
+Loves feels love descend into him &amp; if he has wisdom may percieve it is from the Poetic Genius which is
+the Lord” (E 592). The idea of Poetic Genius enables Blake to take Swedenborg’s statements as metaphors.
+“The Negation of God constitutes Hell,” Swedenborg writes, “and in the Christian world the Negation of the
+Lord’s Divinity” (#13); Blake notes: “the Negation of the Poetic Genius” (E 593). If Swedenborg’s God can
+be seen as a manifestation of the indwelling human imagination, then Blake can regard himself as in agreement.
+<note id="n14"><hi rend="s">14</hi> London: W. Chalken, 1788. Blake’s copy is in the British Library.
+Bentley (<hi rend="i">Blake Books</hi>, p. 696) asserts that the reference by Blake to “what was asserted in
+the society” suggests a date of annotation after the General Conference of 1789; however, as mentioned above,
+the reference could be to the earlier Theosophical Society. Bentley’s conjectural ?1789 remains a plausible
+date for the annotations nevertheless.</note>
+	<note id="n15"><hi rend="s">15</hi><hi rend="i"> There is No Natural Religion</hi> (2 sets) and 
+<hi rend="i">All Religions are One</hi>, E 1-2. On Poetic Genius, see <hi rend="i">Energy and the
+Imagination</hi>, pp. 24-27.</note></p>
+          <p>On the larger subject of the relations between spiritual and natural worlds, Swedenborg’s
+characteristic view is that they “are so distinct, that they have nothing in common with each other; but
+nevertheless are so created, that they communicate, yea are joined together, by Correspondences” (#83). Blake
+is quick to seize upon passages which emphasize the link, implicit in such a view, between spiritual and
+natural. For example, Swedenborg says that the human mind can only shake off appearances by an investigation
+of the cause, which in turn cannot do “without keeping the Understanding in spiritual Light” (#40). “This Man
+can do while in the body”—notes Blake (E 593). According to Swedenborg, there are “three degrees of
+Altitude” (#237)—Natural, Spiritual, and Celestial: the man in whom the spiritual Degree is open comes into
+divine Wisdom when he dies, “and may also come into it by laying asleep the Sensations of the Body, and by
+Influx from above at the same Time into the Spirituals of his Mind” (#257). Blake comments: “this is while in
+the Body / This is to be understood as unusual in our time but common in ancient” (E 596). Here and in similar
+passages Blake takes Swedenborg’s view to be that the natural man can be irradiated by spiritual light in
+this life. This is of course Blake’s own view, as is the idea, also shared by Swedenborg, that ancient men
+had a greater capacity for spiritual vision than their modern counterparts.</p>
+          <p>At some times, however, Swedenborg emphasizes the discrete natures of the two worlds, and then
+Blake is distinctly uneasy. In the Swedenborgian universe there are two suns, a living sun in the spiritual
+world and a dead one in the material world. “It follows that . . . the dead Sun itself was created by the
+living Sun from the Lord” (#164). “How,” Blake objects, “could life create death” (E 594); “the dead Sun is
+only a phantasy of evil Man.” As with suns, so with souls. Swedenborg explicitly denies the existence of
+portions of divinity in man, regarding such a belief as a sort of spiritual narcissism: “for if there was . .
+. any Thing Divine in them, then it would not be beloved by others, but it would love itself” (#49). Blake
+objects to this because it rules out the divine in man—“for if a thing loves it is infinite” (E 593). Still
+he hopes that the difference is merely a semantic one: “Perhaps we only differ in the meaning of the words
+Infinity &amp; Eternal.”</p>
+          <p>In fact, Swedenborg’s view of the two worlds as discrete but connected by correspondence and
+influx can at times accommodate Blake’s desire for a synthesis of both and at other times appear to
+contradict it. All depends on which aspect of the Swedenborgian psychic model of the universe is stressed. If
+the emphasis is on correspondence and influx, then Blake can enthusiastically agree, as in his series of “Mark
+this” notes in Part V, where the influx of Love is the subject. Such wide areas of agreement prompted Blake to
+explain away some very real differences between Swedenborg’s world view and his own. Characteristically, he
+does so by attempting to assimilate Swedenborg’s doctrines into his own: “Heaven &amp; Hell are born
+together” (E 598); “Good &amp; Evil are here both Good
+<pb id="p13-68" n="68"/>
+&amp; the two contraries Married” (E 594). As this marriage was in part imposed by Blake upon Swedenborg,
+divorce, as can be expected in such a case, was imminent.</p>
+          <p>In Blake’s works of the late 1780s and early 1790s, the effect of Swedenborg’s doctrines can
+only be characterized as pervasive.<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref>
+Blake freely borrowed from Swedenborg’s system of correspondences, adapting it to the purposes of his own
+poetry. Thus, as is widely recognized, Swedenborg’s characteristic symbolic imagery appears throughout the
+<hi rend="i">Songs of Innocence and of Experience</hi>, and certain characteristic Swedenborgian themes are
+given expression there.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> One of these
+themes is the insufficiency of man’s “Proprium,” a term glossed by John Clowes as “his own Propriety, or all
+that he is of himself when separated from Divine Influence. . . .”<supplied type="spacer"> </supplied><ref
+target="n18" type="note">18</ref> In “The Clod &amp; the Pebble,” for example, the Pebble’s view that “Love
+seeketh only Self to please” is that of the Proprium. A society based on such a view, according to Swedenborg,
+can maintain only a spurious order masking its own essential destructiveness:
+<q>
+But the dominion of Self-Love, which is opposite to the Dominion of neighbourly Love, began when Man alienated
+himself from the Lord; for in proportion as Man doth not love and worship the Lord, in the same Proportion he
+loves and worships himself, and in the same Proportion also he loves the World: Then it was that, compelled by
+Motives of Self-Preservation and Security from Injustice, Nations consisting of Families and Houses cemented
+themselves into one Body, and established Governments under various Forms; for in Proportion as Self-Love
+increased, in the same Proportion all kinds of Evil, as Enmity, Revenge, Cruelty, and Deceit increased with
+it, being exercised toward all those who opposed that Love. . . .<supplied type="spacer"> </supplied><ref
+target="n19" type="note">19</ref></q>
+Similarly, Blake writes in “The Human Abstract”:
+<q>
+And mutual fears bring peace;<lb/>
+Till the selfish loves increase,<lb/>
+Then Cruelty knits a snare,<lb/>
+And spreads his baits with care. (E 27)
+</q>
+Swedenborg’s view of the body politic thus agrees with Blake’s, just as his view of the “vastated” state
+of the Christian churches does. Other Swedenborgian themes to be found in the <hi rend="i">Songs</hi> include
+the Africans’ direct intuition of the Divine Humanity (“The Little Black Boy”)<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref> and the manifestation of God in a human form as opposed to
+the idea of a “vapour.” Such similarities as these occur equally in <hi rend="i">Songs of Experience</hi>,
+written after Blake had rejected Swedenborg, as in <hi rend="i">Songs of Innocence</hi>; as Schorer puts it,
+“The striking fact about his use of Swedenborg is that he derived . . . the materials for his myth from the
+dogma that he rejected.”<supplied type="spacer"> </supplied><ref target="n21" type="note">21</ref>
+	<note id="n16"><hi rend="s">16</hi> On the general subject of Swedenborg’s influence on Blake, see Mark
+Schorer, <hi rend="i">William Blake: the Politics of Vision</hi> (New York: Vintage, 1959 [Henry Holt, 1946],
+pp. 93-106; and S. Foster Damon, <hi rend="i">A Blake Dictionary</hi> (Providence: Brown University Press,
+1965), pp. 392-94. The longest published study of Blake and Swedenborg, <hi rend="i">The ‘Heaven’ and
+‘Hell’ of William Blake</hi> by G. R. Sabri-Tabrizi (London: Lawrence and Wishart, 1973), is unfortunately
+so simplistic as to be virtually useless. Ray H. Deck’s unpublished dissertation, <hi rend="i">Blake and
+Swedenborg</hi> (Brandeis University, 1978), which I had the opportunity of reading after completing my own
+study, includes an informative and detailed comparison of the two figures. Also of interest is Jacques Roos,
+<hi rend="i">Aspects Littéraires du Mysticisme Philosophique et l’Influence de Boehme et de Swedenborg au
+début du Romanticisme: William Blake. Novalis. Ballanche.</hi> (Strasbourg, 1951).</note>
+	<note id="n17"><hi rend="s">17</hi> See John Howard, “Swedenborg’s <hi rend="i">Heaven and Hell</hi> and
+Blake’s <hi rend="i">Songs of Innocence</hi>,” <hi rend="i">Papers on Language and Literature</hi>, IV
+(1968), 390-99; Kathleen Raine, <hi rend="i">Blake and Tradition</hi> (Princeton: Princeton University Press,
+1968) I, 3-33; Morton D. Paley, Introduction to <hi rend="i">Twentieth Century Interpretations of Blake’s
+“Songs of Innocence and of Experience”</hi> (Englewood Cliffs, N.J.: Prentice-Hall, 1969), pp. 2-5.</note>
+	<note id="n18"><hi rend="s">18</hi> Note to Clowes’ translation of Swedenborg’s <hi rend="i">True
+Christian Religion</hi> (London, 1781), #189.</note>
+	<note id="n19"><hi rend="s">19</hi><hi rend="i"> Concerning the Earthe in Our Solar System</hi> (London: R.
+Hindmarsh, 1787), # 174.</note>
+	<note id="n20"><hi rend="s">20</hi> Swedenborg’s notion that “The Africans . . . worship the Lord under a
+human form” reappears in <hi rend="i">America</hi>, where the Shadowy Female calls Orc “the Image of God who
+dwells in darkness of Africa” (2:8-9, E 51); cf. the extract headed “That the Lord Now establishes a Church in
+Africa,” <hi rend="i">New Jerusalem Magazine</hi>, I (1790), p. 183.</note>
+	<note id="n21"><hi rend="s">21</hi><hi rend="i"> William Blake</hi>, p. 106.</note></p>
+          <p>Even the idea of two contrary planes of existence, each with its appropriate world of images, can
+be found in Swedenborg as well as in Blake. Yet there is a significant difference between Swedenborg’s
+conception of Heaven and Hell and Blake’s of Innocence and Experience. Many of the correspondences employed
+in Blake’s poems appear, for example, in Swedenborg’s description of Hell:
+<q>
+None of the pleasing Scenery of Heaven is to be seen there, but all things in direct opposition thereto,
+inasmuch as the Affections of Love in its inhabitants, which are the Concupiscences of Evil, are directly
+opposite to the Affections of Love that prevail in the Angels of Heaven. Wherefore amongst the inhabitants of
+Hell, particularly in their Deserts, there appear Birds of Night, as Bats, and Owls, and likewise Wolves,
+Leopards, Tigers, Rats, and Mice, with venomous Serpents of all kinds, as Dragons and Crocodiles; and where
+there is any appearance of Grass, there grow Thorns, Thistles, Briars, and Brambles, and some poisonous Herbs,
+which at times disappear, and then nothing is to be seen but huge Heaps of Stones, and large Fens full of
+croaking Frogs. These things also are Correspondences, but then, as was observed, they are Correspondences
+agreeable to the Affections of Love in the Inhabitants, which are the Concupiscences.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref>
+	<note id="n22"><hi rend="s">22</hi><hi rend="i"> True Christian Religion</hi>, #78.</note></q>
+This paragraph seems like a catalogue of the flora and fauna of <hi rend="i">Experience</hi>, but where
+Swedenborg sees the Affections of Love and their Correspondences to be permanent in Hell, Blake presents his
+images as symbols of the state of the self at a given point in its development. In “The Little Girl Lost” and
+“The Little Girl Found,” “Lovely Lyca” wanders through a landscape of Innocence “hearing wild birds song,”
+becomes lost in a “desart” at night, and falls asleep; then “the beasts of prey, / Come from caverns deep”;
+and she is surrounded by lions, leopards, and tygers which carry her naked to their caves. In Swedenborgian
+terms this lapse from singing birds to beasts of prey, from day to night, from “southern clime” to “desart”
+would mean a fall from Heaven to Hell. But in Blakean terms Lyca has entered a transitional state in which the
+passions are experienced and then discovered to be part of a psychic unity. So Lyca’s parents find that
+there is nothing to fear: the lion is really “a spirit arm’d in gold” and their daughter is safe “among
+tygers wild.” Accepting the life of instinct and emotion,
+<q>
+To this day they dwell<lb/>
+In a lonely dell<lb/>
+Nor feel the wolvish howl,<lb/>
+Nor the lions growl.<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref>
+	<note id="n23"><hi rend="s">23</hi> E 20-22. Raine mistakenly views these poems as a Neo-Platonic allegory,
+resulting in a confused interpretation according to which “why Blake chose to substitute a lion for Pluto will
+be made clear by a further quotation from Macrobius”; when the interpretation breaks down, Blake is seen to be
+at fault—“In Lyca’s cave it seems as though Blake, in attempting to keep all his multiple meanings in mind
+simultaneously, has failed at this point.” (<hi rend="i">Blake and Tradition</hi>, I, 128-49).</note></q>
+Thus, in accordance with his belief that “Good &amp; Evil are here both Good &amp; the two Contraries
+Married,” Blake deliberately corrects Swedenborg. This contrast between their respective uses of
+correspondences indicates the basis of Blake’s quarrel with Swedenborg’s thought.</p>
+        </div2>
+        <pb id="p13-69" n="69"/>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">III</hi>
+            </title>
+          </head>
+          <p>The third, and to our knowledge the last, book by Swedenborg that Blake annotated was 
+<hi rend="i">Angelic Wisdom Concerning the Divine Providence.</hi><supplied type="spacer"> </supplied><ref
+target="n24" type="note">24</ref> Throughout his annotations to this volume, Blake accuses Swedenborg of
+believing in predestination, and perhaps owing to the
+vehemence of Blake’s remarks, some critics have assumed that he was 
+correct.<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref> 
+Yet a reading of <hi rend="i">Divine Providence</hi> hardly bears out Blake’s accusation 
+that Swedenborg’s view concerning predestination is “more abominable than Calvins” (E 
+600). Swedenborg’s view, on the contrary, is that “All who are born Men, in whatever 
+Religion they may be principled, are capable of being saved” (#253) and that 
+“<hi rend="i">They are saved who</hi>
+<figure n="MartinSwedenborgEngraving.13.2.bqscan" rend="file" width="629" height="1000">
+	<head>3 J. F. Martin, engraver.</head>
+	<figDesc><hi rend="i">Eman. Swedenborg.</hi> Reproduced by permission of The Huntington Library, San Marino,
+California. According to James Hyde (<hi rend="i">A Bibliography of the Works of Emanuel Swedenborg</hi>
+[London: Swedenborg Society, 1906, no. 3413] C. B. Wadstrom brought the original copper plate to England and
+presented it to Henry Servanté. This engraving was used as the frontispiece to <hi rend="i">The Delights of
+Wisdom Respecting Conjugal Love</hi> (London, 1790), where the plate bears the additional inscription “From
+the Original Picture in the possession of the Exegetic Society at Stockholm.” The example reproduced here is
+tipped into a copy of <hi rend="i">Letters of James Russell Lowell</hi> in The Huntington Library.</figDesc>
+</figure>
+<figure n="BattersbySwedenborgEngraving.13.2.bqscan" rend="file" width="628" height="1000">
+	<head>4 Battersby, engraver.</head>
+	<figDesc><hi rend="i">The Hon.<hi rend="s">ble</hi> Eman.<hi rend="s">l</hi> 
+	Swedenborg.</hi> Published by J. Sewell, Cornhill, 1786 and in the 
+	<hi rend="i">European Magazine</hi>, XI (1787) between pages 228 and 229,
+	illustrating “An Account of Emanuel Swedenborg.” The same plate was used in an edition 
+	of Alexander Chalmers’ <hi rend="i">General Biographical Dictionary</hi>, 1816, facing 
+	page 44. Henschen suggests that this engraving is based on the portrait by 
+	Loutherbourg. Reproduced by permission of the University of California, 
+	Berkeley.</figDesc>
+</figure>
+<pb id="p13-70" n="70"/>
+	<hi rend="i">acknowledge a God and lead a good Life</hi>” (#325, italics in the original). Indeed, the
+section comprising # 322-30 is headed “<hi rend="i">That every Man may be reformed and that there is no such
+thing as Predestination</hi>”; and Swedenborg even declares “<hi rend="i">That thus all are predestined to
+Heaven, and none to Hell</hi>” (#329). In order to accuse Swedenborg of being a predestinarian, Blake must
+interpret <hi rend="i">Divine Providence</hi> in a deliberately hostile sense. 
+<note id="n24"><hi rend="s">24</hi> London: R. Hindmarsh, 1790. Blake’s copy is in the collection of Sir Geoffrey Keynes. This
+translation is attributed to N. Tucker.</note>
+	<note id="n25"><hi rend="s">25</hi> Harold Bloom writes, “Swedenborg’s own later writings affirm
+predestination and eternal punishment, doctrines abhorrent to Blake” (E 801). Sabri-Tabrizi interprets
+Swedenborg’s supposed predestinarianism as a projection of his supposed class bias: “According to Swedenborg
+the social positions of those in ‘Heaven’ and ‘Hell’ are predestined and thus the social relationship
+is established and fixed.” (<hi rend="i">The ‘Heaven’ and ‘Hell’ of William Blake</hi>, p. 83).
+However, #185 (annotated by Blake) is about <hi rend="i">rich</hi> men who bring hell on
+themselves.</note></p>
+          <p>For Blake the essential problem in Swedenborg’s view is the failure to reconcile man’s free
+will and God’s foreknowledge. Thus when Swedenborg writes, “But the Man who doth not suffer himself to be
+led to, and enrolled in Heaven, is prepared for his place in Hell” (#69), Blake asks “What is Enrolling but
+Predestination?” (E 599). Yet Swedenborg’s “enrolled” is intended to distinguish between divine intention
+and human will; God intends that all men go to heaven, but some choose Hell. Again, Blake asks of #185 “What
+could Calvin say more than is said in this Number” (E 599), but Swedenborg’s point here is that honored,
+worldly men may bring hell on themselves notwithstanding their success in this life. Blake accuses Swedenborg
+of being a “Spiritual Predestinarian” in #277 because Swedenborg says that “every one also is judged according
+to his actions, <hi rend="i">not that they are enumerated</hi> [emphasis mine], but because he returns to
+them. . . .” Blake’s objection seems not to be to predestination as that idea is usually understood, but
+rather to the disposition of spirits after death. Swedenborg teaches that while a man is alive in the world he
+also has an “internal” existence in Heaven or Hell and an “external” existence in the world of Spirits between
+Heaven and Hell. During his life on earth, as a man changes he is correspondingly “translated by the Lord from
+one Society to another” or “led out of hell and introduced into Heaven”; but after his death, “he remains in
+that [Society] in which he is according to his Life; wherefore when a man dies, he is inscribed in his own
+Place” (#307). This is what Blake terms “Predestination” (E 600).</p>
+          <p>It is interesting that one of the Swedenborgians’ most formidable critics, Joseph Priestley,
+far from accusing Swedenborg of Predestinarianism, regards him as an ally who opposes Calvinism as the
+Unitarians do. Priestly says:
+<q>
+<corr type="emend">[Calvinism</corr> is] a system which represents the whole human race 
+as so fatally injured by the sin of Adam, that they retain no natural power of doing the 
+will of God. . . . a system which teaches us that, in order to effect the redemption of 
+a few, God was under a necessity of reversing the known maxims of his conduct, in
+punishing the innocent instead of the guilty; changing his character of 
+<hi rend="i">gracious</hi> and <hi rend="i">merciful</hi>, into that of an inexorable 
+tyrant. . . . Whereas it is justly observed by Mr. Swedenborg, in his 
+<hi rend="i">Doctrine concerning the Lord</hi>, p. 95, “there is nothing of vindictive
+justice in God.”<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref>
+	<note id="n26"><hi rend="s">26</hi><hi rend="i"> Letters to the Members of the New Jerusalem Church, formed
+by Baron Swedenborg</hi> (J. Thompson: Birmingham, 1791; sold in London by Joseph Johnson). Priestley’s view
+that God’s form is “infinite space” (p. 51) would of course have conflicted with Blake’s, while Blake
+continued to retain the Swedenborgian notion of God’s human form; and in general it can be said that Blake
+retained numerous Swedenborgian ideas even during the period in which he repudiated
+Swedenborgianism.</note></q>
+If Swedenborg’s Unitarian opponent could say this, how could Blake assert that Swedenborg’s doctrine was
+“more Abominable than Calvins”? Did Blake misunderstand <hi rend="i">Divine Providence</hi>?</p>
+          <p>The answer of course is that he did not: Blake’s annotations to <hi rend="i">Divine
+Providence</hi> are a rhetorical assault upon Swedenborg, who Blake knows was as far from believing in
+predestination as any Christian who yet affirms the existence of heaven and hell can be; the whole point is
+that that is not far enough. Blake is saying that Swedenborg, who opposed the doctrine of predestination, is
+from a <hi rend="i">Blakean</hi> perspective as much a predestinarian as Calvin. The belief in an omniscient
+God who created human beings knowing that some of them would choose hell is the common denominator. 
+<hi rend="i">Any</hi> Christian theodicy is to be rejected according to such a view, and Blake is consistent in
+the early 1790s in rejecting not some but all churches. It is not a view that he would retain
+consistently—in <hi rend="i">Milton</hi> the Arminian Wesley and the Calvinist predestinarian Whitefield are
+paired as the Christian witnesses foretold in Revelation; presumably Whitefield’s good works and his
+emphasis on inner regeneration outweighed his theology for Blake at that time.<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> But in 1791 Blake was disposed to find the worst in
+Swedenborg’s doctrines, where previously he had tried to accommodate the differences between his views and
+Swedenborg’s. One reason for this <corr type="emend">re-evaluation</corr> was no doubt Blake’s growing
+realization that Swedenborg’s views were in some respects incompatible with his own; at the same time events
+within the New Jerusalem Church c. 1790-91 almost certainly contributed to Blake’s rejection of
+Swedenborgianism. <note id="n27"><hi rend="s">27</hi><hi rend="i"> Milton</hi> 22:55-23:2, E 117. See also 
+<hi rend="i">Jerusalem</hi> 52, E 199, and 72:51, E 225.</note></p>
+          <p>Perhaps the most obvious inference we can draw is that the Revolution that occurred in France
+just three months after the General Conference sent Blake and the majority of English Swedenborgians in
+different directions. Blake’s pro-Revolutionary sympathies are too well known to need re-statement
+here,<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref> while the New Church was
+anxious to disassociate itself from political radicalism. At the General Conference of 1791, says Hindmarsh,
+“a Protest was entered in the Minutes . . . against all such principles of infidelity and democracy as were
+then circulating in this country,”<supplied type="spacer"> </supplied><ref target="n29" type="note">29</ref>
+and Paine was specifically attacked. In Birmingham the Church-and-King mob that had destroyed Priestley’s
+Unitarian chapel (as well as his laboratory and library) went on to the Swedenborgian church; but there the
+minister, Joseph Proud, told them “that the minister and worshippers were not Unitarians, nor inimical to the
+Government. A shout was raised—the New Jerusalem for ever, and the crowd dispersed.”<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref> At the same time the Church was incorporating liturgical
+practices quite opposite to Blake’s view that “The Whole of the New Church is in the Active Life &amp; not
+in Ceremonies at all” (E 595). At the Second General Conference in April 1790 a catechism for children was
+prepared, and Joseph Proud’s hymn book was approved along with a form and order of worship. The necessity of
+living according to the Ten Commandments was also affirmed. At the next year’s General Conference,
+minister’s garments were approved: “an inner
+<pb id="p13-71" n="71"/>
+purple silken vest, and also an outer garment of fine white linen having a golden girdle round the
+heart.”<supplied type="spacer"> </supplied><ref target="n31" type="note">31</ref> Also in 1791 the New Church
+petitioned Parliament for the right to perform all religious ceremonies, saying they were ready to take the
+oaths of allegiance and supremacy but “without being required to describe themselves as Protestants or
+Dissenters.”<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref> Furthermore, two
+dramatic events of 1789-90 must have contributed to Blake’s ironical view of the Swedenborgians as
+“Angels”—the concubinage dispute and the opening of Swedenborg’s tomb. <note id="n28"><hi rend="s">28</hi>
+See David V. Erdman, <hi rend="i">Blake: Prophet Against Empire</hi> (Princeton: Princeton University Press,
+3rd ed., 1977 [1954]).</note>
+	<note id="n29"><hi rend="s">29</hi><hi rend="i"> Rise and Progress</hi>, p. 142</note>
+	<note id="n30"><hi rend="s">30</hi><hi rend="i"> Rise and Progress</hi>, p. 131n.</note>
+	<note id="n31"><hi rend="s">31</hi><hi rend="i"> Rise and Progress</hi>, pp. 111, 118.</note>
+	<note id="n32"><hi rend="s">32</hi><hi rend="i"> Rise and Progress</hi>, p. 126.</note></p>
+          <p>The concubinage dispute has had a shadowy existence in the history of the New Jerusalem Church,
+for there was an attempt, very nearly successful, to cover up its very existence. The entries for the period 4
+May 1789 to 11 April 1790 were torn out of the Minute Book of the Great Eastcheap Society;<supplied
+type="spacer"> </supplied><ref target="n33" type="note">33</ref> and the subject is not mentioned in
+Hindmarsh’s <hi rend="i">Rise and Progress</hi> although Hindmarsh himself was expelled from the Society as
+a result. We know about the dispute only because in 1839 a controversy about which Swedenborgian congregation
+was the oldest led the Reverend Manoah Sibley to publish his recollections of the early New Jerusalem Church.
+In the course of his argument, Sibley relates that in 1789
+<q>
+a very sorrowful occurrence befell the infant New Church, whereby the flood-gates of immorality were in danger
+of being thrown open to her inevitable destruction. The Church held many solemn meetings on the occasion,
+which ended in her withdrawing herself from six of her members, viz. Robert Hindmarsh, Henry Servanté,
+Charles Berns Wadstrom, Augustus Nordenskjold, George Robinson, and Alexander Wilderspin.<supplied
+type="spacer"> </supplied><ref target="n34" type="note">34</ref></q>
+Sibley says no more about the matter except to add that “this grievous circumstance I kept locked up in my own
+bosom for years.” The dispute must nevertheless have attracted considerable attention in Swedenborgian circles
+at the time, since at least four of the expelled members were prominent, active Swedenborgians. The gist of
+the controversy concerned Swedenborg’s view of concubinage, as incorporated by Augustus Nordenskjöld into a
+comprehensive plan of church governance. Nordenskjöld’s complete plan is extant only in Swedish in a little
+book entitled <hi rend="i">Församlings Formen uti det Nya Jerusalem</hi> (Copenhagen, 1790).<supplied
+type="spacer"> </supplied><ref target="n35" type="note">35</ref> Part of Nordenskjöld’s proposal was also
+published in the <hi rend="i">New Jerusalem Magazine</hi> (of which Wadström and Servanté were the editors)
+in 1790; but the parts about concubinage were left out. The Nordenskjöld plan was presented to at least two
+meetings of English Swedenborgians and rejected by both, though whether the matter of concubinage was
+presented is not clear. John Clowes, perhaps the best known of the Swedenborgians who remained within the
+Church of England at this time, later recalled an occasion when “two Swedish gentlemen” presented to the New
+Jerusalem Church in London a plan of worship which Clowes found “opposed to every sentiment of propriety,
+decorum, and common sense of mankind.”<supplied type="spacer"> </supplied><ref target="n36"
+type="note">36</ref> And the minutes of a provincial conference held at <corr type="emend">Keighley,</corr> near Halifax, in 1791 record
+that “a printed plan for organization, recommended by Frederic Nordenskjöld, Esq.” was read and discussed but
+not accepted.<supplied type="spacer"> </supplied><ref target="n37" type="note">37</ref> Thus the Nordenskjöld
+plan gained little support in Britain. <note id="n33"><hi rend="s">33</hi> See Thomas Robinson, 
+<hi rend="i">Remembrances of a Recorder</hi> (Manchester and Boston, 1864), p. 94.</note>
+	<note id="n34"><hi rend="s">34</hi><hi rend="i"> An Address to the Society of the New Church meeting in Friar
+Street, near Ludgate Hill, London</hi>, pp. 3-4.</note>
+	<note id="n35"><hi rend="s">35</hi> The English equivalent would be “The Form of Organization of the New
+Jerusalem.” The book was published in Copenhagen because at this time the Lutheran Church exercised the right
+of censorship in Sweden and effectively prevented the publication of Swedenborgian literature there. A German
+translation was published in the <hi rend="i">Magazin für kirchengesichte und kirchenrecht des Nordens</hi>,
+Altona, 1792, II (3), 102 ff. See Sundelin, <hi rend="i">Svedenborgianismens Historia i Sverige</hi>, pp.
+261-62.</note>
+	<note id="n36"><hi rend="s">36</hi> Letter of 11 September 1820, quoted by C. T. Odhner, “The Early History
+of the New Church in Sweden,” <hi rend="i">New Church Life</hi>, XXXI (1911), 171, from <hi rend="i">The
+Medium</hi>, III (1851), 309.</note>
+	<note id="n37"><hi rend="s">37</hi><hi rend="i"> Minutes of the First Seven Sessions of the New Jerusalem
+Church Reprinted from the Original Editions</hi> (London: James Speirs, 1885), n.p. The “Frederic” referred to
+is undoubtedly Charles Frederick Nordenskjöld, younger brother of Augustus. Charles Frederick was in England
+in 1791, while Augustus left England in that year to take part in the Sierra Leone colony originally projected
+by Wadström. See Appendix A for further information about A. Nordenskjöld and Wadström.</note></p>
+          <p>It must not be thought that Nordenskjöld was primarily concerned with the subject of
+concubinage—this was only one subject of the many taken up in <hi rend="i">Församlings Formen.</hi>
+Nordenskjöld’s proposal is a broad plan of religious practice and goverance for the New Church and for
+civil society as well. It seems to have had its inception in connection with the proposed African colony.
+Wadström was careful, in presenting his project to the public, not to mention the Swedenborgian concerns
+behind the project; no doubt he wished to attract the broadest basis of support possible. But those concerns
+certainly existed, and <hi rend="i">Församlings Formen</hi> appears to be the constitution that the African
+colony would have had if the Swedenborgians alone had possessed the resources to found it.<supplied
+type="spacer"> </supplied><ref target="n38" type="note">38</ref> The plan is a relatively democratic one, with
+all adult members (including women) enfranchised to elect representatives. The body of the presentation
+comprises first fifty-four numbered paragraphs (pp. 2-34), then “Observations” (pp. 35-52). The section
+concerning marriage comprises paragraphs 46-54 (pp. 28-34), and the discussion of concubinage forms only part
+of this section. It was, then, only a small part of Nordenskjöld’s proposal that led to internal dissension
+in the New Jerusalem Church and subsequently to the expulsion of Nordenskjöld, Wadström, and four others.
+<note id="n38"><hi rend="s">38</hi> As suggested by Sundelin, p. 261.</note></p>
+          <p>Marriage, according to Nordenskjöld, would always be the foundation of the New Jerusalem. The
+married would be considered as two-thirds of the whole group and would possess five-sixths of the franchise.
+However, only those marriages in which both man and wife accepted Swedenborg’s doctrines were lawful. If a
+man were to be baptized into the community and were then to marry a woman who did not accept its beliefs, that
+man would have to be expelled. Where there was no spiritual union before the Lord, there was no marriage,
+according to Nordenskjöld, but merely concubinage; yet such merely external unions might be permitted under
+certain circumstances. Likewise there were situations in which concubinage without marriage was acceptable:
+<q>
+As it will happen, of course, that for a long time to come there will be unmarried men in our Church who are
+not able to marry, and married men who have been received among us, but who have unchristian wives, rejecting
+the New Doctrine, and who thus must live in a disharmonious marriage, it follows that when such men are driven
+so strongly by the inborn <hi rend="i">amor sexus</hi> that they cannot contain themselves, it is inevitable,
+for the sake of order, that they be permitted, the former to take a mistress and the latter a concubine. But
+no one is permitted to live thus in our Church who does not report it to the Bishop or the Marriage-Priest.
+These are to examine,
+<pb id="p13-72" n="72"/>
+according to Swedenborg’s rules, <hi rend="i">De Fornicatione et de Concubinato</hi>, if his case is truly
+such as he presents it. After this he is to receive their written permission, in which the conditions are to
+be carefully stated, and he may live with his mistress or concubine. If this be observed, he may still be
+received among us as a dear member and brother, and his life will be no reproach to him. But if he does not
+report it he must be punished, and this in the degree that his life is disorderly; for no kinds of adulteries
+or anti-conjugial life can be tolerated in the New Jerusalem if the Church is to continue and the Lord to find
+an habitation among us.<supplied type="spacer"> </supplied><ref target="n39" type="note">39</ref>
+	<note id="n39"><hi rend="s">39</hi> #54, translated by C. T. Odhner and published in his <hi rend="i">Robert
+Hindmarsh: A Biography</hi> (Philadelphia: Academy Book Room, 1895, pp. 29-30. The rest of 
+<hi rend="i">Församlings Formen</hi> has never been published in English. It is a very rare book; a copy is in
+the Royal Library, Stockholm.</note></q></p>
+          <p>Nordenskjöld’s views were, as he says, based on those of Swedenborg. At the time of the
+concubinage dispute, the Swedenborgian source, <hi rend="i">Conjugial Love</hi>, was available in complete
+form only in Latin; the first complete English translation (by John Clowes) was published by Hindmarsh in
+1794.<supplied type="spacer"> </supplied><ref target="n40" type="note">40</ref> According to Swedenborg, the
+“legitimate causes” of concubinage are the same as those of divorce (#488). These causes can be physical,
+mental, or moral—including among others disease, madness, difference of faith, and adultery. Recognizing
+that in some instances divorce for these reasons may not be practical or even possible, Swedenborg maintains
+“That they, who from causes legitimate, just, and really conscientious, are engaged in this concubinage, may
+be principled at the same time in conjugial love” (#475). This applies only to those who really prefer
+marriage to concubinage and enter into concubinage for the causes Swedenborg describes as legitimate.<supplied
+type="spacer"> </supplied><ref target="n41" type="note">41</ref> (Marital intercourse must of course be
+abandoned.) Thus it can be seen that Nordenskjöld’s views on concubinage are precisely those of Swedenborg,
+with the introduction only of an institutional mechanism. Many respected followers of Swedenborg in Sweden
+shared these views, at least in theory; indeed it is hard to see how they could do otherwise, since Swedenborg
+is so explicit on the subject.<supplied type="spacer"> </supplied><ref target="n42" type="note">42</ref> This
+no doubt accounts for the presence among those expelled of the conservative Hindmarsh, who certainly did not
+share Nordenskjöld’s ideas about other aspects of church governance.<supplied type="spacer"> </supplied><ref target="n43" type="note">43</ref>
+	<note id="n40"><hi rend="s">40</hi><hi rend="i"> Conjugial Love</hi> (<hi rend="i">De Amore</hi>) is not to
+be confused with the extract from <hi rend="i">Apocalypsis Explicata</hi> (# 981-1010) published in English as
+<hi rend="i">A Sketch of the Chaste Delights of Conjugal Love</hi> (London: J. Denew, 1789). Part of 
+<hi rend="i">De Amore</hi> was published in 1790 as <hi rend="i">The Delights of Wisdom Respecting Conjugal
+Love</hi>, first as a serial in the <hi rend="i">New Jerusalem Magazine</hi>, then as a separate volume; but
+this edition comprises only # 1-55 and thus does not include the section on concubinage. However, the
+anonymous Preface does contain what may be an allusion to the concubinage dispute, stating: “In the following
+work the author likewise proves, in the most satisfactory and clear manner, that true Conjugal Love can only
+subsist between one husband and one wife, and thus cautions the mind against that dangerous and Antichristian
+doctrine of a plurality of wives, which has lately been propagated and confirmed from certain passages of the
+Old Testament falsely understood” (p. iii). This is particularly interesting because the edition is likely to
+have been the responsibility of either or both the editors of the <hi rend="i">New Jerusalem Magazine</hi>,
+Henry Servanté and Charles Bernhard Wadström, and both were among those expelled in 1790.</note>
+	<note id="n41"><hi rend="s">41</hi> Nevertheless, concubinage never attains the status of marriage in
+Swedenborg’s view: Concubinage is only “a cloathing, compassing it [conjugial love] round about,” and “this
+cloathing is taken away from them after death” (#475). Neither does Swedenborg seem to have envisioned the
+possibility of a woman’s taking a male concubine.</note>
+	<note id="n42"><hi rend="s">42</hi> See Sundelin, p. 262.</note>
+	<note id="n43"><hi rend="s">43</hi> Hindmarsh, though expelled, continued to participate regularly in the
+meetings for worship of the Great Eastcheap Society until 1792, when he precipitated a new schism on the issue
+of church hierarchy. Hindmarsh and his few adherents advocated an episcopal system of organization; this was
+rejected by the majority, but Hindmarsh obtained the lease of their place of worship, and the majority moved
+to a site in Store Street (near Tottenham Court Road).</note></p>
+          <p>Less than a year after the event, the French surgeon Benedict Chastanier, who had been active in
+Swedenborgian circles since the early days of the Theosophical Society, protested: “No, no, men and brethren,
+they will never send there [in Heaven’s societies] any letter of exclusion or dismission among them to any
+of their fellow members, as did not many years ago a certain society, not one hundred miles distant from the
+monument, to some of its dissentient members, for no other reason than that they were a few degrees deeper
+grounded in the truth than the rest.”<supplied type="spacer"> </supplied><ref target="n44"
+type="note">44</ref> We can easily conceive how Blake would have regarded the affair. In <hi rend="i">The
+Marriage of Heaven and Hell</hi>, at least part of which was etched in 1790, the year of the concubinage
+dispute, Blake proclaims an ethos of libidinal freedom which goes far beyond the narrow doctrinal issues
+involved in that parochial argument. “The nakedness of woman is the work of God” (E 36) and “He who desires
+but acts not, breeds pestilence” (E 35) are assertions of the positive goodness of the fulfillment of desire.
+And in <hi rend="i">Visions of the Daughters of Albion</hi> (1793) Blake, through his heroine Oothoon,
+specifically addresses the question of whether sexual love ought to be limited to the institution of marriage:
+<q>
+I cry, Love! Love! Love! happy happy Love! free as the mountain wind!<lb/>
+Can that be Love, that drinks another as a sponge drinks water?<lb/>
+That clouds with jealousy his nights, with weepings all the day:<lb/>
+To spin a web of age around him. grey and hoary! dark!<lb/>
+Till his eyes sicken at the fruit that hangs before his sight.<lb/>
+Such is self-love that envies all! a creeping skeleton<lb/>
+With lamplike eyes watching around the frozen marriage bed.<lb/>
+<lb/>
+But silken nets and traps of adamant will Oothoon spread,<lb/>
+And catch for thee girls of mild silver, or of furious gold;<lb/>
+I’ll lie beside thee on a bank &amp; view their wanton play<lb/>
+In lovely copulation bliss on bliss with Theotormon:<lb/>
+Red as the rosy morning, lustful as the first born beam,<lb/>
+Oothoon shall view his dear delight, nor e’er with jealous cloud<lb/>
+Come in the heaven of generous love; nor selfish blightings bring. (E 49)
+</q>
+Doctrines such as these sharply distinguish Blake’s views about sex even from those of the expelled
+Swedenborgians, with one possible exception. Augustus Nordenskjöld was reputed to have carried out in life
+what the others merely maintained in theory, and is said to have maintained as his justification that
+Swedenborg himself had had a mistress while in Italy.<supplied type="spacer"> </supplied><ref target="n45"
+type="note">45</ref> Blake himself was the subject of an unattributed story that, according to Mona Wilson,
+“he proposed to add a concubine to his household.”<supplied type="spacer"> </supplied><ref target="n46"
+type="note">46</ref> Whether or not the story has any basis, the concubinage dispute must have made Blake all
+the more aware of the gap that separated him from the majority of English Swedenborgians. 
+<note id="n44"><hi rend="s">44</hi><hi rend="i"> Emanuel Swedenborg’s New-Years Gift to His Readers for MDCCXCI</hi>, p. 21.
+The work is written throughout in the persona of Swedenborg. Elsewhere Chastanier writes, “There is no other
+true religion for rational beings to follow but love, namely, love of the sex, and brotherly 
+love . . . ”—<hi rend="i">A Word of Advice To a Benighted World</hi> (London, 1795), p. 16.</note>
+	<note id="n45"><hi rend="s">45</hi> See R. L. Tafel, <hi rend="i">Documents Concerning the Life and Character
+of Emanuel Swedenborg</hi> (London: Swedenborg Society, 1877), I, 639-44. Another account to this effect was
+published in the <hi rend="i"> Appendix to the New Jerusalem Magazine</hi> (1791), p. 263. According to
+General Tuxen of Denmark, Swedenborg had proposed marriage early in life to the daughter of his superior, the
+engineer Polhem, but she had refused him. “I then enquired, whether in his youth he could keep free from
+temptations with regard to the sex? He replied, not altogether; In my youth I had a mistress in Italy.”</note>
+	<note id="n46"><hi rend="s">46</hi><hi rend="i"> The Life of William Blake</hi>, ed. Geoffrey Keynes (London:
+Oxford University Press, 1971), p. 72.</note></p>
+          <pb id="p13-73" n="73"/>
+          <figure n="CidarisEritAfrico.13.2.bqscan" rend="file" width="672" height="1000">
+            <head>5 Engraving by Metz after Després.</head>
+            <figDesc><hi rend="i">Cidaris Erit Africo.</hi> This was published in the first number of the 
+<hi rend="i">New Jerusalem Magazine</hi> (1790). The design illustrates a Memorable Relation in <hi rend="i">The
+Delights of Wisdom Respecting Conjugal Love</hi> (no. 114). Angels in the spiritual world hold a contest on
+the subject of “<hi rend="i">the true origin, virtue, and power, of Conjugal Love.</hi>” The prize is a golden
+mitre adorned with precious gems. Learned Europeans from different countries are unable to give a correct
+answer; one of a band of Africans then speaks, and a voice from heaven declares “The Mitre shall be for the
+African.”</figDesc>
+          </figure>
+          <pb id="p13-74" n="74"/>
+          <p>A second dramatic event occurred among Swedenborgians c. 1790—the opening of Swedenborg’s
+tomb. The most detailed source of information about the first opening—for the tomb was opened a second time
+shortly afterwards—is an account by Gustav Broling, a Swedish metallurgist and a member of the Royal Academy
+of Sciences who lived in England from 1797 to 1799.<supplied type="spacer"> </supplied><ref target="n47"
+type="note">47</ref> His account is second-hand but it agrees in most respects with shorter reports by Robert
+Hindmarsh and by J. I. Hawkins. According to Broling, an American physician who was enthusiastic about
+Swedenborg’s writings came to London for the purpose of proving that Swedenborg was not really in his coffin
+but rather “must have been removed thence in some extraordinary manner.” With the help of “a follower and
+countryman of Swedenborg, still famous at that time,”<supplied type="spacer"> </supplied><ref target="n48"
+type="note">48</ref> the American, accompanied by ten or twelve “New Jerusalemites,” penetrated the vault of
+the Swedish Church. Swedenborg’s casket was opened, but turned out to contain a second, which in turn
+contained a lead coffin. A solderer was brought in to cut through the lead covering. What followed is worthy
+of one of Blake’s Memorable Fancies: “But there now issued forth effluvia in such abundance and of such a
+sort that the candles went out, and all the observers were obliged to rush head over heels out of the burial
+vault in order not to be smothered.” The investigators were, however, persistent.
+<q>
+The candles [Broling continues] were relighted—the church was fumigated with vinegar—the windows
+opened—and once more a descent was made to continue the investigation. It was found that Swedenborg’s
+remains really still lay in the coffin, without any special ravages of time, which, deprived of the assistance
+of the air, had not greatly changed the features of the face. It was observed as a peculiar fact, and perhaps
+not without reason, that the half of the face nearest the wall of the vault preserved its almost natural
+roundness. But as to whether this examination, for the rest, strengthened or weakened the Doctor’s faith, of
+that Tradition does not say a single word.
+</q>
+A basically similar report of these events was published by J. I. Hawkins in <hi rend="i">The Times</hi> for
+24 April 1823. According to Hawkins, however, the instigator was a learned Swede:
+<q>
+About the year 1790, a Swedish philosopher, then in London, who was a great admirer of Swedenborg’s
+philosophical writings but had no relish for the theological, became acquainted with some of the members of
+the New Church, and warmly opposed Swedenborg’s tenet that the soul takes a final leave of the material body
+at death, and enters on a new scene of superior activity in a spiritual body, more suited to obey its
+energies. The learned Swede endeavored to persuade them, that all great philosophers had, by virtue of their
+profound wisdom, the power of taking with them, into the world of spirits, their natural bodies; and he
+asserted his full conviction, that Swedenborg, whom he considered one of the first philosophers, had taken
+away his body out of the coffin.<supplied type="spacer"> </supplied><ref target="n49" type="note">49</ref></q>
+C. T. Odhner identifies the Swedish philosopher as the poet and critic Thomas Thorild, but there does not
+appear to be any evidence for this.<supplied type="spacer"> </supplied><ref target="n50" type="note">50</ref>
+Thorild was indeed in London from 1788 to 1790, and in 1790 Robert Hindmarsh published Thorild’s 
+<hi rend="i">True Heavenly Religion Restored</hi>, with the author identified only as “a Philosopher of the
+North.” However, Thorild’s book is a pro-Swedenborgian polemic which in no way can be made to conform to
+Hawkins’ description of the instigator as someone who did not admire Swedenborg’s theological writings. On
+the contrary, Thorild concludes “that this true and Divine Religion is, as to the general Character, even that
+of Emanuel Swedenborg: Who, if God, Spirits, a Religion, be at all—has certainly brought us sublime
+Revelations, and may be considered as a Prophet of a third rising Covenant, or that of <hi rend="i">open
+Truth</hi>” (p. 119). <note id="n47"><hi rend="s">47</hi><hi rend="i"> Antechningar under en resa i
+England</hi> (Stockholm, 1811), I, 47. The passage on Swedenborg’s tomb is included in English translation
+in J. V. Hultkrantz, “The Mortal Remains of Emanuel Swedenborg,” <hi rend="i">Nova Acta Regiae Societas
+Scientarum Upsaliensis</hi>, ser. IV, II (1910), 6-7. Although Dr. Hultkrantz’s conclusions concerning
+Swedenborg’s skull were subsequently refuted (see Folke Henschen, “Emanuel Swedenborg’s Cranium: a
+Critical Analysis,” <hi rend="i">Nova Acta Regiae Societas Scientarum Upsaliensis</hi>, ser. IV, XVII, No. 9,
+1960), this does not affect our discussion of the first two openings of the tomb, the skull having been
+removed at a later date. See Appendix C.</note>
+	<note id="n48"><hi rend="s">48</hi> This person is identified by Hultkrantz, without any indication as to
+evidence, as probably either Wadström or Augustus Nordenskjöld.</note>
+	<note id="n49"><hi rend="s">49</hi> Reprinted, with other material concerning the openings of the tomb, by
+David Geroge Goyder, <hi rend="i">The Autobiography of a Phrenologist</hi> (London: Simkin, Marshall, 1857),
+p. 136. Goyder also prints (p. 137) a similar account from <hi rend="i">The Times</hi> signed “Tertius
+Interveniens” and attributed to J. P. Wåhlin account was reprinted in Swedish in 1846, along <corr type="emend">with</corr> those of
+Hawkins and of S. Noble (<hi rend="i">Dägslandor</hi> [Norrköping: Östlund, Berling], pp. 219-225).</note>
+	<note id="n50"><hi rend="s">50</hi><hi rend="i"> Annals of the New Church</hi> (Bryn Athyn, Pa.: Academy of
+the New Church, 1904), p. 150. Odhner cites Hindmarsh, <hi rend="i">Rise and Progress</hi>, and Goyder (see
+below), but neither of these mentions Thorild.</note></p>
+          <p>Yet a third minor variant is provided by Robert Hindmarsh, who says that the instigator was not a
+Swedenborgian at all but “a foreign gentleman who held the absurd tenets of the sect of Rosicrucians.” At a
+dinner at the house of a Swedenborgian, the Rosicrucian declared that Swedenborg had discovered an elixir by
+which he could “protract his existence as long as he pleased.” Then, “desirous to put off the infirmities of
+age, [he] had renewed his existence and withdrawn to some other part of the world, causing a sham funeral to
+be performed to avoid discovery.” This then led to the opening of the tomb and the discovery of Swedenborg’s
+remains therein. Although the three sources differ as to how the opening of the tomb was instigated, they
+agree in presenting the investigation as a test of whether Swedenborg’s body possessed some magical property
+that would have removed it from the coffin altogether—a test which culminated in the discovery that
+Swedenborg’s mortal remains were like anyone elses’s. The experiment was then repeated a few days later by
+Hindmarsh and four or five associates. They found the corpse in a very good state of preservation: “The
+features were still perfect, the flesh firm,” says Hindmarsh; but when he placed his hand on the forehead, he
+found that “the lower part of the nose gave indications of approaching decomposition.” No doubt as a result of
+its exposure to air, the body was “afterwards found . . . speedily being reduced to ashes.”<supplied
+type="spacer"> </supplied><ref target="n51" type="note">51</ref> These two openings of the tomb, the first
+witnessed by perhaps a dozen people and the second by five or six new spectators, can hardly have been kept
+secret. <note id="n51"><hi rend="s">51</hi><hi rend="i"> Rise and Progress</hi>, p. 399.</note></p>
+          <p><hi rend="i">The Marriage of Heaven and Hell</hi> is widely recognized to be a satire directed
+toward Swedenborg and the Swedenborgians.<supplied type="spacer"> </supplied><ref target="n52"
+type="note">52</ref> The title unites what Swedenborg had perceived as divided; Angels and Devils are
+juxtaposed, but with subversive intent. Swedenborg’s static “equilibrium” is displaced by Blake’s dynamic
+interplay of contraries. In <hi rend="i">The Marriage</hi> Memorable Fancies parody Swedenborg’s Memorable
+Relations: marvelous events are related
+<pb id="p13-75" n="75"/>
+matter-of-factly, sudden transitions are made from one world to another, and the narrator always has the last
+word. Even the <hi rend="i">Marriage</hi> of the title may be an ironical allusion to Swedenborg, for in 
+<hi rend="i">A Sketch of the Chaste Delights of Conjugal Love</hi> Swedenborg asserts:
+<q>
+That Hell is formed from Adulteries, is because Adultery is from the Marriage of Evil and False, from which
+Hell in its whole Complex is called Adultery; and that Heaven is formed from Marriages, is because Marriage is
+from the Marriage of Good and Truth, whence also Heaven in its whole complex is called a Marriage. . . . (p.
+20)
+</q>
+This arrogation of libidinal energy to “Evil” and of passive restraint to “Good” is corrected by Blake
+throughout <hi rend="i">The Marriage of Heaven and Hell.</hi> Of course <hi rend="i">The Marriage</hi> is much
+more than an anti-Swedenborgian polemic, but its full significance can only be appreciated in the light of
+Blake’s knowledge of Swedenborg’s doctrines and of the history of the New Jerusalem Church. 
+<note id="n52"><hi rend="s">52</hi> See Martin K. Nurmi, <hi rend="i">Blake’s “Marriage of Heaven and Hell”: a
+Critical Study</hi>, Kent State University Bulletin, Research Series III (1957), pp. 25-30, 45-57; and John
+Howard, “An Audience for <hi rend="i">The Marriage of Heaven and Hell</hi>,” <hi rend="i">Blake Studies</hi>,
+III (1970), 19-52.</note></p>
+          <p>The first page of prose in <hi rend="i">The Marriage</hi> begins:
+<q>
+As a new heaven is begun, and it is now thirty-three years since its advent: the Eternal Hell revives. And lo!
+Swedenborg is the Angel sitting at the tomb; his writings are the linen clothes folded up.<supplied
+type="spacer"> </supplied><ref target="n53" type="note">53</ref>
+	<note id="n53"><hi rend="s">53</hi> E. 34. In copy F (originally the Butts copy, now in the Pierpont Morgan
+Library), the date “1790” is written over the first line.</note></q>
+The first reference is of course to Swedenborg’s declaration that a new heaven was opened in 1757,<supplied
+type="spacer"> </supplied><ref target="n54" type="note">54</ref> and the second sentence alludes to the
+episode in John xx where Christ’s body is found to be gone. from the tomb:
+<q>
+So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre. And he
+stooping down, and looking in, saw the linen clothes lying; yet went he not in. Then cometh Simon Peter
+following him, and went into the sepulchre, and seeth the linen clothes lie, And the napkin, that was about
+his head, not lying with the linen clothes, but wrapped together in a place by itself. (4-7)
+</q>
+For Blake the body of Christ’s teaching is absent from Swedenborg’s writings; the latter are seen as a
+garment which can be discarded. As Damon remarks, “Swedenborg finds himself left behind in his own
+eschatology.”<supplied type="spacer"> </supplied><ref target="n55" type="note">55</ref> The reader conversant
+with the circumstances surrounding the openings of Swedenborg’s tomb could have seen a further ironical
+allusion here. Unlike Christ, Swedenborg was securely in his tomb when his followers came seeking him. Such a
+contrast is of course unfair to Swedenborg, who never claimed any extraordinary powers for his mortal body;
+but Blake’s purpose here is to expose what he perceives as the errors of Swedenborgianism rather than to do
+justice to Swedenborg as a historical figure. <note id="n54"><hi rend="s">54</hi><hi rend="i"> A Treatise
+Concerning the Last Judgment</hi> (London: R. Hindmarsh, 1788), #45.</note>
+	<note id="n55"><hi rend="s">55</hi><hi rend="i"> William Blake: His Philosophy and Symbols</hi> (Boston:
+Houghton Mifflin, 1924), p. 316.</note></p>
+          <p>Blake’s fourth Memorable Fancy both attacks Swedenborg’s doctrine and parodies his
+techniques. The author’s journey through visionary worlds is of course a familiar feature of Swedenborg’s
+writings. When Leviathan is perceived “to the east, distant about three degrees,” we are meant to recall
+Swedenborg’s precise readings of the celestial map: for example, the Sun “appears above the Earths which the
+Angels inhabit, in an Elevation of about forty-five Degrees. . . .”<supplied type="spacer"> </supplied><ref
+target="n56" type="note">56</ref> The interplanetary voyage with Swedenborg’s volumes in hand imitates the
+similar ones in <hi rend="i">Earths in Our Solar System</hi>, while the discussion of “my eternal lot” refers
+to the “enrolling” of <hi rend="i">Divine Providence.</hi> When Blake tells the Angel “Here . . . is your lot,
+in this space, if space it may be called,” he reminds us of Swedenborg’s statement that “the Spaces and
+Distances, and consequent Progressions, which occur in the natural World, are in their Origin and first Cause,
+Changes of the State of Interior things. . . .”<supplied type="spacer"> </supplied><ref target="n57"
+type="note">57</ref> Subsequently, Blake “in my hand brought forth the skeleton of a body, which in the mill
+was Aristotles Analytics”; in <hi rend="i">Earths in Our Solar System</hi> Aristotle is described
+sympathetically, and Swedenborg says, “Afterwards I discoursed with him, concerning the analytic science. . .
+.”<supplied type="spacer"> </supplied><ref target="n58" type="note">58</ref> In the fifth Memorable Fancy,
+where the converted Angel “stretched out his arms embracing the flame of fire &amp; he was consumed and arose
+as Elijah,” there also appears to be a Swedenborgian source; for on Jupiter, according to Swedenborg, “the
+Spirits of that Earth, when they are prepared, are taken up into Heaven and become Angels: On such occasions
+there appear Chariots and bright Horses as of Fire, by which they are carried away in like Manner as Elias. .
+. .”<supplied type="spacer"> </supplied><ref target="n59" type="note">59</ref> In instances such as these,
+Blake uses Swedenborgian material to intensify the irony of his anti-Swedenborgian satire. 
+<note id="n56"><hi rend="s">56</hi> E. 40; <hi rend="i">Divine Love and Divine Wisdom</hi>, #104.</note>
+	<note id="n57"><hi rend="s">57</hi> E. 41; <hi rend="i">Earths in Our Solar System</hi>, #125.</note>
+	<note id="n58"><hi rend="s">58</hi> E. 41; <hi rend="i">Earths in Our Solar System</hi>, #38.</note>
+	<note id="n59"><hi rend="s">59</hi> E. 42; <hi rend="i">Earths in Our Solar System</hi>, #82.</note></p>
+          <p>Of the many other Swedenborgian allusions in <hi rend="i">The Marriage</hi>, several are worth
+particular attention. “Some will say,” Blake writes, “Is not God alone the Prolific? I answer, God only Acts
+&amp; Is, in existing beings or Men.”<supplied type="spacer"> </supplied><ref target="n60"
+type="note">60</ref> This seems to be aimed explicitly at Swedenborg’s admonition in <hi rend="i">Divine
+Love and Divine Wisdom</hi>: “Let every one beware of falling into that execrable Heresy, that God hath
+infused himself into Men, and that he is in them, and no longer in himself.”<supplied type="spacer"> </supplied><ref target="n61" type="note">61</ref> The invidious comparison of Swedenborg to Paracelsus and
+Boehme takes on an added significance when we note that Swedenborg explicitly denied having read Boehme, and
+that this denial was published in the <hi rend="i">New Jerusalem Magazine</hi> early in 1790. Thus when Blake
+says that “Swedenborgs writings are a recapitulation of all superficial opinions, and an analysis of the more
+sublime,” he is probably playing on Swedenborg’s assertion that “I was prohibited reading dogmatic and
+systematic theology, before heaven was opened to me. . . .”<supplied type="spacer"> </supplied><ref
+target="n62" type="note">62</ref> More generally, the erotic mysticism of <hi rend="i">The Marriage</hi> can
+be seen in one aspect as Blake’s response to the concubinage dispute—not that it is in any way limited to
+that meaning. Just as Berkeley’s <hi rend="i">Siris</hi> begins as a disquisition on tar-water and becomes a
+statement about the nature of the universe, so <hi rend="i">The Marriage</hi>, in its inception an
+anti-Swedenborgian satire, develops into Blake’s most comprehensive statement about human existence up to
+the time of its composition. <note id="n60"><hi rend="s">60</hi> E. 39.</note>
+	<note id="n61"><hi rend="s">61</hi> #125.</note>
+	<note id="n62"><hi rend="s">62</hi> E. 42; <hi rend="i">New Jerusalem Magazine</hi>, p. 73.</note></p>
+        </div2>
+        <pb id="p13-76" n="76"/>
+        <figure n="SlaveShipPlan.13.2.bqscan" rend="file" width="958" height="757">
+          <head>6 <hi rend="i">Plan and Sections of a Slave Ship.</hi></head>
+          <figDesc>Plate V of <hi rend="i">An Essay on Colonization</hi> by C. B. Wadström (London, 1794-95).
+This anonymous engraving was originally published as a separate plate in 1789. Reproduced by permission of the
+Royal Library, Stockholm.</figDesc>
+        </figure>
+        <pb id="p13-77" n="77"/>
+        <figure n="SlaveShipSections.13.2.bqscan" rend="file" width="659" height="1000"/>
+        <pb id="p13-78" n="78"/>
+        <div2>
+          <head>
+            <title>
+              <hi rend="b">IV</hi>
+            </title>
+          </head>
+          <p>For about a decade following the beginning of <hi rend="i">The Marriage</hi>, there is little to
+indicate Swedenborgian interests in Blake’s poetry and art. Then, from about the turn of the century and
+well into the nineteenth century, Blake displays a renewed interest in (though by no means a simple attitude
+toward) Swedenborg. Perhaps the most dramatic instance of this interest may be seen in Blake’s 
+<hi rend="i">Descriptive Catalogue</hi> of 1809. Among the sixteen pictures that Blake chose to show in his
+exhibition in that year was one, now unfortunately lost, on a Swedenborgian subject. Its title was “The
+spiritual Preceptor, an experiment Picture,” and it was based on a Memorable Relation in <hi rend="i">True
+Christian Religion.</hi> According to Blake:
+<q>
+This subject is taken from the visions of Emanuel Swedenborg. Universal Theology, No. 623. The Learned, who
+strive to ascend into Heaven by means of learning, appear to Children like dead horses, when repelled by the
+celestial spheres. The works of this visionary are well worthy the attention on of Painters and Poets; they
+are foundations for grand things; the reason they have not been more attended to, is, because corporeal demons
+have gained a predominance; who the leaders of these are, will be shewn below. Unworthy Men who gain fame
+among Men, continue to govern mankind after death, and in their spiritual bodies, oppose the spirits of those,
+who worthily are famous; and as Swedenborg observes, by entering into disease and excrement, drunkenness and
+concupiscence, they possess themselves of the bodies of mortal men, and shut the doors of mind and of thought,
+by placing Learning above Inspiration. O Artist! you may disbelieve all this, but it shall be at your own
+peril.<supplied type="spacer"> </supplied><ref target="n63" type="note">63</ref>
+	<note id="n63"><hi rend="s">63</hi> E 537. <hi rend="i">Universal Theology</hi> is the alternative title for
+<hi rend="i">True Christian Religion.</hi> An almost identical anecdote is related in <hi rend="i">Apocalypse
+Revealed</hi>, #311.</note></q>
+The “experiment picture” may of course have been executed years before the exhibition, but these comments in
+Blake’s <hi rend="i">Descriptive Catalogue</hi> reveal a strong renewal of interest in Swedenborg by 1809.
+Another picture which indicates such interest is <hi rend="i">The Death of the Good Old Man</hi>, engraved
+after Blake by Schiavonetti for Blair’s <hi rend="i">Grave</hi> (1808).<supplied type="spacer"> </supplied><ref target="n64" type="note">64</ref> In this design, the soul of the Good Old Man, identical in
+appearance to his dead body, is escorted upwards by angels. As H. W. Janson points out with respect to
+Flaxman, such a depiction of the “full-bodied soul” immediately after death is based on a Swedenborgian
+conception: “Man rises again immediately after death, and he then appears to himself in a body just as in this
+world, with a similar face, members, arms, hands, feet, breast, belly, and loins; so that when he sees and
+touches himself, he says that he is a man as in the world.”<supplied type="spacer"> </supplied><ref
+target="n65" type="note">65</ref> Janson argues that such a portrayal of the “full-bodied soul” is to be
+distinguished from the depiction of the soul at the Last Judgment, when all shall be resurrected. As we know,
+Blake and Flaxman influenced each other in many ways, and it is possible that <hi rend="i">The Death of the
+Good Old Man</hi> derives from such funerary sculptures as Flaxman’s Agnes Cromwell monument in Chichester
+Cathedral. Nevertheless, given the wide extent of Blake’s reading of Swedenborg, he would have known that in
+<hi rend="i">The Death of the Good Old Man</hi> he was using a specifically Swedenborgian idea. 
+<note id="n64"><hi rend="s">64</hi> For a detailed discussion of this design, see Robert N. Essick and Morton D.
+Paley, <hi rend="i">Robert Blair’s “The Grave” with the Illustrations of William Blake</hi> (London: the
+Scolar Press, forthcoming).</note>
+            <note id="n65"><hi rend="s">65</hi> H. W. Janson, “Thorvaldsen and England,” in <hi rend="i"><corr type="emend">Bertel</corr>
+Thorvaldsen: <corr type="emend">Untersuchungen</corr> zu <corr type="emend">seinem</corr> Werk und zur Kunst seiner Zeit</hi> (Museen der Stadt Köln, 1977), p.
+111. The quotation is from <hi rend="i">Arcana coelestia</hi> #5078, but the idea is encountered frequently in
+Swedenborg’s writings. I am indebted to Dr. David Bindman for calling Janson’s article to my
+attention.</note></p>
+          <p>One source of Blake’s renewed interest in Swedenborg may have been his friendship with Charles
+Augustus Tulk, son of a founding member of the New Jerusalem Church and also a friend of Flaxman’s and of
+Coleridge’s.<supplied type="spacer"> </supplied><ref target="n66" type="note">66</ref> It was Tulk’s copy
+of the <hi rend="i">Songs</hi> that Coleridge borrowed in February 1818, and it was probably information from
+Tulk that led Coleridge to write of Blake, “He is a man of Genius—and I apprehend, a
+Swedenborgian.”<supplied type="spacer"> </supplied><ref target="n67" type="note">67</ref> In the memoir which
+Tulk’s daughter dictated to his grand-daughter, it is said that “William Blake, the Poet &amp; Painter, with
+his wife, were rescued from destitution by Mr. C. A. Tulk, &amp; became much impressed with the Spiritual
+Truths in Swedenborg’s Writings. He made drawings from the Memorable Relations, one of them of a female
+Angel instructing a number of children in the spiritual world.”<supplied type="spacer"> </supplied><ref
+target="n68" type="note">68</ref> Unfortunately, this drawing is not known to exist today; nor is a picture
+which is said to have had a marginal note in Blake’s hand recommending Swedenborg’s <hi rend="i">Worship
+and Love of God</hi>, a work first published in complete English translation in 1799-1801.<supplied
+type="spacer"> </supplied><ref target="n69" type="note">69</ref> Despite the fact that Blake’s pictures on
+Swedenborgian subjects either have not survived or have not been identified, it is clear from the evidence we
+have cited that Swedenborg had once more assumed major importance to Blake by 1809. We can find this interest
+reflected in Blake’s poetic works as well. <note id="n66"><hi rend="s">66</hi> On Tulk, see 
+<hi rend="i">DNB, s. v.</hi>; Geoffrey Keynes, “Blake, Tulk, and Garth Wilkinson,” <hi rend="i">The Library</hi>,
+4th ser., XXVI (1945), 190-92; and Raymond A. Deck, Jr., “New Light on C. A. Tulk, Blake’s Nineteenth
+Century Patron,” <hi rend="i">Studies in Romanticism</hi>, XVI (1977), 217-36.</note>
+	<note id="n67"><hi rend="s">67</hi> Letter to H. F. Cary, 6 February 1818, <hi rend="i">Blake Records</hi>,
+p. 251. If Blake could be called a Swedenborgian, however, it was not because of any affiliation with the New
+Jerusalem Church. According to Crabb Robinson, “He was invited to join the Swedenborgians under Proud, but
+declined, notwithstanding his high opinion of Swedenborg. . . . ”—<hi rend="i">Blake Records</hi>, p. 452,
+from “William Blake,” <hi rend="i">Vaterländisches Museum</hi>, I (January 1811), 107-31. Bentley suggests
+that this undated reference probably refers to the period 1797-99, when Proud was attracting large numbers of
+people to his services in Hatton Garden. Flaxman was a member of Proud’s congregation at this time.—<hi
+rend="i">Blake Records</hi>, p. 440n.6.</note>
+	<note id="n68"><hi rend="s">68</hi><hi rend="i"> Blake Records</hi>, p. 250. The memoir does not give the
+dates of these activities. Bentley places the entry in 1818.</note>
+	<note id="n69"><hi rend="s">69</hi> See H. N. Morris, “Blake and Swedenborg,” <hi rend="i">The Quest</hi>, XI
+(1919), 80. However, the Catalogue of the British Fine Arts Club Exhibition of 1876 (in which exhibition
+Morris claims the picture was shown) indicates no such detail.</note></p>
+          <p>One of the most striking instances of Swedenborgian conceptions in Blake’s later work occurs in
+plate 48 of <hi rend="i">Jerusalem.</hi> Here the condition of man has fallen to its lowest point; on the
+preceding plate, Albion speaks his last words—“Hope is banish’d from me” (E 194). Then the Saviour
+receives Albion and in mercy reposes his limbs on the Rock of Ages.
+<q>
+In silence the Divine Lord builded with immortal labour,<lb/>
+Of gold &amp; jewels a sublime Ornament, a Couch of repose,<lb/>
+With Sixteen pillars: canopied with emblems &amp; written verse.<lb/>
+Spiritual Verse, order’d &amp; measur’d, from whence, time shall reveal.<lb/>
+The Five books of the Decalogue, the books of Joshua &amp; Judges,<lb/>
+Samuel, a double book &amp; Kings, a double book, the Psalms &amp; Prophets<lb/>
+The Four-fold Gospel, and the Revelations everlasting<lb/>
+Eternity groan’d &amp; was troubled, at the image of Eternal Death!<supplied type="spacer"> </supplied><ref
+target="n70" type="note">70</ref>
+	<note id="n70"><hi rend="s">70</hi><hi rend="i"> Jerusalem</hi> 48:5-12, E 194.</note></q>
+As Damon was the first to point out, these books of the Bible—thirty-three in all—are precisely those
+which Swedenborg had declared possessed the internal sense of the Word; and as Bentley has noted, the General
+Conference of 1789 re-affirmed that only these were the “Books of the Word.”<supplied type="spacer"> </supplied><ref target="n71" type="note">71</ref> It cannot be a coincidence that Blake chose these
+<pb id="p13-79" n="79"/>
+books to form that canopy that would shield the sleeping body of man while the work of redemption took place.
+Blake’s notion of Albion the Eternal Man is itself derived from Swedenborg, who conceives of the three
+Heavens as composing a Grand Man, with the various human members and organs having their corresponding
+celestial parts. This doctrine was probably first encountered by Blake in <hi rend="i">Heaven and Hell</hi>
+(#59-67), but it does not appear in his own work until <hi rend="i">The Four Zoas</hi>—which is to say, no
+earlier than the late 1790s. This analogy of the human microcosm with a human macrocosm provided Blake, as
+Schorer puts it, with “the metaphorical tool that enabled him to counter the prevailing mechanical view of man
+and the universe with his own organic 
+view.”<supplied type="spacer"> </supplied><ref target="n72" type="note">72</ref> 
+These important debts to Swedenborg are well established, but others scarcely less
+important have not previously been discussed. 
+<note id="n71"><hi rend="s">71</hi> Damon, <hi rend="i">William Blake: His Philosophy and 
+Symbols</hi>, p. 454, citing <hi rend="i">Arcana Coelestia</hi>, X, #325; Bentley,
+“Blake and Swedenborg,<supplied type="emend">”</supplied> <hi rend="i">Notes and 
+Queries</hi>, CXCIX (N.S. I, 1954), 264-65.</note>
+	<note id="n72"><hi rend="s">72</hi><hi rend="i"> William Blake: The Politics of Vision</hi>, p.
+96.</note></p>
+          <p>The central action of Blake’s <hi rend="i">Milton</hi>, the redemptive descent of Milton to
+“Eternal Death” to deliver the sleeping body of man, is in part an amplification and revision of a
+Swedenborgian doctrine. In his great speech on plate 14, Milton says:
+<q>
+I in my Selfhood am that Satan: I am that Evil One!<lb/>
+He is my Spectre! in obedience to loose him from my Hells<lb/>
+To claim the Hells, my Furnaces, I go to Eternal Death.<supplied type="spacer"> </supplied><ref target="n73"
+type="note">73</ref>
+	<note id="n73"><hi rend="s">73</hi><hi rend="i"> Milton</hi> 14:30-32, E 107.</note></q>
+In <hi rend="i">True Christian Religion</hi> Swedenborg says that the Last Judgment of 1757 involved “the
+Subduing of the Hells, restoring the Heavens to Order, and establishing a new Church” (#115); and elsewhere he
+asserts “That the Lord was to come into the World, to accomplish a complete or final Judgement, and thereby
+subjugate the then prevailing power of the Hells, which was effected by Spiritual Combats, or Temptations
+admitted to assault the Humanity derived from the Mother, and by continual victories then obtained. . .
+.”<supplied type="spacer"> </supplied><ref target="n74" type="note">74</ref> Blake’s Milton likewise
+triumphs over temptations and assaults “in conflict with those Female forms”<supplied type="spacer"> </supplied><ref target="n75" type="note">75</ref> (his wives and daughters), striving with the demon Urizen
+and his codes of Law, tempted by the sons and daughters of Rahab and Tirzah. Milton’s sublime act has as its
+paradigm the Incarnation, and there are parallels in Plato’s fable of the Cave and in Gnostic mythology; but
+in Swedenborg and in Blake we also find a plurality of hells and a putting off of the Maternal Humanity. The
+latter feature also appears in <hi rend="i">Jerusalem</hi>: “by his Maternal Birth he [Christ] is that
+Evil-One / And his Maternal Humanity must be put off Eternally” (90:35-36, E 247). Swedenborg declares “That
+the Lord Successively put off the humanity which was taken from the Mother, and put on the humanity from the
+Divinity in Himself, which is the Divine Humanity and the Son of God.”<supplied type="spacer"> </supplied><ref
+target="n76" type="note">76</ref> For Blake the Maternal Humanity was the purely material aspect of Christ’s
+being; this must be “put off” so that he may “put on” his spiritual body. 
+<note id="n74"><hi rend="s">74</hi><hi rend="i"> The Doctrine of the New Jerusalem Concerning the Lord</hi> (London: R.
+Hindmarsh, 3rd ed., 1791), #3.</note>
+	<note id="n75"><hi rend="s">75</hi> 17:7, E 109.</note>
+	<note id="n76"><hi rend="s">76</hi><hi rend="i"> New Jerusalem</hi>, #35.</note></p>
+          <p>Blake and Swedenborg also share a similar conception of history according to which “Churches”
+succeed one another, each reaching its “period” and
+<figure n="MartinafterPernotinEngraving.13.2.bqscan" rend="file" width="583" height="1000">
+	<figTranscr>EML. SWEDENBORG<lb/>
+	Veritatis Assertor<lb/>
+	&amp; Rationis Ultor.<lb/>
+	<lb/>
+	Natus Holmia die 29a.<lb/>
+	Januarii, A.D. 1689.<lb/>
+	Obiit Londini die 29a.<lb/>
+	Martii, A.D. 1772.<lb/>
+	<lb/>
+	Ejus Cineres depositæ jacent in Ecclesia.<lb/>
+	suecica, prope viam, vulgo Ratcliff.<lb/>
+	Highway nuncupatam.<lb/>
+	Libris vero vivet in æternum.<lb/>
+	<lb/>
+	Pernotin del.<lb/>
+	Miss Martin sculp.</figTranscr>
+	<head>7 Engraving by Miss Martin after B. Pernotin.</head>
+	<figDesc><hi rend="i">Em<hi rend="s">l</hi>. Swedenborg / Veritatis Assertor &amp; Rationis Ultor.</hi>
+Tipped into an extra-illustrated copy of Daniel Lysons, <hi rend="i">The Environs of London</hi>, XXI (1796),
+between pages 160 and 161, relating to the sentence on p. 160: “The celebrated Baron Swedenborg, founder of
+the sect called after him Swedenborgians, lies buried in the Swedish church; he died in the year 1772.” This
+copy of Lysons bears the bookplate of Sir William William Augustus Fraser. Reproduced by permission of The
+Huntington Library, San Marino, California.<lb/>
+<lb/>
+Benézit identifies Pernotin as “peintre d’histoire, de genre, et de portraits à Londres de 1786 à
+1797.”</figDesc>
+</figure>
+<pb id="p13-80" n="80"/>
+then giving way to its successor. As Damon suggests, Blake’s use of Biblical names to denote the Churches of
+history derives from Swedenborg,<supplied type="spacer"> </supplied><ref target="n77" type="note">77</ref> but
+in addition the idea of a crisis in the modern Church leading to its “Consummation” is also common to both. In
+<hi rend="i">Divine Providence</hi>, Swedenborg describes the process by which this happens, declaring, “But
+the successive Vastation of the Christian Church in it’s final Period, is described by the Lord in Matthew
+Chap. xxiv, in Mark, Chap. xiii, and in Luke, Chap. xxi; and the Consummation itself in the
+Apocalypse.”<supplied type="spacer"> </supplied><ref target="n78" type="note">78</ref> This theme was sounded
+at the opening of the General Conference of 1789, where an extract from <hi rend="i">True Christian
+Religion</hi> was read, asserting “that the Christian Church, which is founded on the Word, and is now at
+it’s Period, may again revive and derive Spirit through Heaven from the Lord.”<supplied type="spacer"> </supplied><ref target="n79" type="note">79</ref> In <hi rend="i">Milton</hi>, Blake both appropriates and
+subverts the Swedenborgian idea.
+<q>
+Seeing the Churches at their Period in terror &amp; despair:<lb/>
+Rahab created Voltair; Tirzah created Rousseau;<lb/>
+Mocking the Confessors &amp; Martyrs, claiming Self-righteousness;<lb/>
+With cruel Virtue: making War upon the Lambs Redeemed<supplied type="spacer"> </supplied><ref target="n80"
+type="note">80</ref></q>
+For Blake the “Period” of the Churches culminates in the consolidation of the rationalistic system which he
+calls Deism; this necessarily precedes a Last Judgment in which history will be abolished. Swedenborg
+conceived the New Church to be the result of the vastation of the Christian Church, but Blake perceives
+Swedenborg himself as the victim of the Churches of history—as the passage in <hi rend="i">Milton</hi> goes
+on to say:
+<q>
+O Swedenborg! strongest of men, the Samson shorn by the Churches!<lb/>
+Shewing the Transgressors in Hell, the proud Warriors in Heaven:<lb/>
+Heaven as a Punisher &amp; Hell as One under Punishment:<lb/>
+With Laws from Plato &amp; his Greeks to renew the Trojan Gods,<lb/>
+In Albion; &amp; to deny the value of the Saviours blood.<supplied type="spacer"> </supplied><ref target="n81"
+type="note">81</ref></q>
+This is essentially the same criticism Blake made in <hi rend="i">The Marriage</hi>: that Swedenborg, in
+accepting the necessity of repressive law and in re-affirming the existence of an afterlife of rewards and
+punishments, committed the same errors that the Churches had. But Swedenborg is no longer demeaned as “A man
+[who] carried a monkey about for a shew, &amp; because he was a little wiser than the monkey . . . conceiv’d
+himself as much wiser than seven men” (E 42). Instead, he is the “strongest of men,” the shorn Samson whose
+tragic fate indicates something of Blake’s profound ambivalence toward Swedenborg at this point. 
+<note id="n77"><hi rend="s">77</hi><hi rend="i"> William Blake: His Philosophy and Symbols</hi>, p. 427. Briefly
+Swedenborg postulates five Churches in history, beginning with Adam and Eve. Second comes “the Ancient
+Church,” described by Noah, his three sons and their posterity. Heber, eponymous founder of the Hebrew Church,
+instituted sacrificial worship. The Word was written under the Israelitish and Jewish Church. (Heber and the
+Israelitish Church are at times combined into one by Swedenborg). These four Old Testament Churches are
+represented by Nebuchadnezzar’s dream in Dan. ii. 32,33. The fifth Church is the Christian Church. “And it
+may be seen from the Word, that all these Churches in Process of Time declined, till there was an End of them,
+which is called the Consummation.” <hi rend="i">Divine Providence</hi>, #328.</note>
+	<note id="n78"><hi rend="s">78</hi><hi rend="i"> Divine Providence</hi>, #328.</note>
+	<note id="n79"><hi rend="s">79</hi><hi rend="i"> Minutes</hi>, ed. Speiers, p. 9.</note>
+	<note id="n80"><hi rend="s">80</hi> 22:40-44, E 116.</note>
+	<note id="n81"><hi rend="s">81</hi> 22:50-54, E 117.</note></p>
+          <p>Another Swedenborgian idea which finds itself into Blake’s later work is the special meaning
+attached to Great Tartary. In <hi rend="i">Jerusalem</hi> when Urizen builds his “Mighty Temple,” we are told
+that “his inmost hall is Great Tartary”; and one of the activities of those who consummate bliss and are
+generated on Earth is “Viewing the Winding Worm on the Desarts of Great Tartary.”<supplied type="spacer"> </supplied><ref target="n82" type="note">82</ref> Commentators have generally taken “Great Tartary” to be a
+geopolitical symbol signifying the eastern part of the world: thus the Winding Worm on the deserts of Great
+Tartary has been interpreted as the advance of Napoleon’s armies into Russia.<supplied type="spacer"> </supplied><ref target="n83" type="note">83</ref> But <hi rend="i">Great</hi> Tartary—as distinguished from
+Crimean Tartary—was in Asia,<supplied type="spacer"> </supplied><ref target="n84" type="note">84</ref> and
+of course Napoleon did not attack Asiatic Russia. In order to understand the symbolism of these passages, we
+must turn to Swedenborg, who in <hi rend="i">True Christian Religion</hi> maintains the existence of a Word
+which existed before the Word which the World now possesses. Speaking of “that ancient Word, which was in Asia
+before the Israelitish Word,” he asserts “It is still preserved amongst the People who live in Great Tartary.
+. . .”<supplied type="spacer"> </supplied><ref target="n85" type="note">85</ref> These people, he goes on,
+have the Book of Jasher (mentioned in Joshua x. 12,13 and in II Samuel i. 17,18) and the Wars of Jehovah and
+the Denunciators (the last, according to Swedenborg, being mistranslated as “Composers of Proverbs” in our
+Bibles). Thus we can see why Great Tartary should be the <hi rend="i">inmost</hi> hall of Urizen’s Temple of
+Urizen, representing as it does the primordial Word. Again, the reference to the warrior’s spear and sword
+reaching “from Albion to Great Tartary” indicates that even the wisdom of the ancient Word is threatened by
+the modern code of love and war. When those who consummate bliss regard the generated world, they see an
+aspect of themselves in the Winding Worm reaching to Great Tartary: the Worm of mortality, whose winding also
+suggests the cycle of history, is seen inhabiting the place of the world’s ancient wisdom and presumably
+corrupting it. Blake’s meaning in all three of these instances is particularized by its Swedenborgian
+reference. <note id="n82"><hi rend="s">82</hi> 58:36, E 206; 86:46, E 243. In a third, less important
+reference, the warrior who beholds the beauty of the daughter of Albion is smitten, and “his spear / And sword
+faint in his hand, from Albion to Great Tartary” (68:51-52, E 220).</note>
+	<note id="n83"><hi rend="s">83</hi> Erdman, <hi rend="i">Blake: Prophet</hi>, pp. 464, 466. Blake’s three
+other references to Tartary (unmodified) may have this meaning.</note>
+	<note id="n84"><hi rend="s">84</hi> See Inge Jonsson, <hi rend="i">Emanuel Swedenborg</hi> (Twayne: New York,
+1971), p. 175.</note>
+	<note id="n85"><hi rend="s">85</hi> #265, #278.</note></p>
+          <p>Numerous other examples of references to Swedenborg may be found in Blake’s late writings and
+conversation, but only a few especially interesting examples need be mentioned here. The vortices which figure
+prominently in <hi rend="i">The Four Zoas</hi> and in <hi rend="i">Milton</hi> are likely to have come to
+Blake via Swedenborg; though their ultimate source is Descartes,<supplied type="spacer"> </supplied><ref
+target="n86" type="note">86</ref> it is unlikely that Blake read the Cartesian account directly. Swedenborg
+says that at the Creation Nature “folded herself up into a kind of Vortexes,” and in <hi rend="i">The Four
+Zoas</hi> Vala, who is in one aspect Nature, is personified as “The Nameless Shadowy Vortex.”<supplied
+type="spacer"> </supplied><ref target="n87" type="note">87</ref> The extended account of passing through a
+Vortex in <hi rend="i">Milton</hi> may be indebted to one of Swedenborg’s Memorable Relations.<supplied
+type="spacer"> </supplied><ref target="n88" type="note">88</ref> When Blake told Henry Crabb Robinson that he
+had seen the Spiritual Sun on Primrose Hill, he was clearly alluding to Swedenborg’s
+<pb id="p13-81" n="81"/>
+<figure n="CookeafterShorEngraving.13.2.bqscan" rend="file" width="632" height="1000">
+	<head>8 Engraving by W. &amp; G. Cooke after J. W. Shor.</head>
+	<figDesc><hi rend="i">Emanuel Swedenborg. / Assessor of the Royal Metallic College in the / Kingdom of
+Sweden.</hi> Published by I. M. E. Hodson, Cross Street, Hatton Garden, 1 January 1804. Reproduced by
+permission of The Huntington Library, San Marino, California.</figDesc>
+</figure>
+<pb id="p13-82" n="82"/>
+<figure n="BulamaPlan.13.2.bqscan" rend="file" width="958" height="694">
+	<head>9 <hi rend="i">Plan of the Island of Bulama</hi>, detail.</head>
+	<figDesc>Plate III of <hi rend="i">An Essay on Colonization</hi> by C. B. Wadström (London, 1794-95).
+Reproduced by permission of the Royal Library, Stockholm.</figDesc>
+</figure>
+account of the two suns, one material and one spiritual, in <hi rend="i">Divine Love and Divine
+Wisdom.</hi><supplied type="spacer"> </supplied><ref target="n89" type="note">89</ref> Not so obvious an
+allusion is Blake’s statement to Robinson “I saw nothing but good in <hi rend="i">Calvin</hi>’s house—In
+<hi rend="i">Luther</hi>’s there were Harlots.”<supplied type="spacer"> </supplied><ref target="n90"
+type="note">90</ref> In this instance Blake’s comment is precisely opposite to what Swedenborg maintains: we
+are told in <hi rend="i">True Christian Religion</hi> that after the Last Judgment of 1757, Luther became
+convinced of his errors and renounced them, but “Calvin betook himself to a house frequented by Harlots, and
+there abode for some Time.”<supplied type="spacer"> </supplied><ref target="n91" type="note">91</ref> These
+and other instances<supplied type="spacer"> </supplied><ref target="n92" type="note">92</ref> show that
+Swedenborg was much in Blake’s thoughts in the nineteenth century, sometimes as a source of ideas and of
+subject matter, sometimes as a promulgator of ideas to be opposed, but in either respect as a powerful
+intellectual force. <note id="n86"><hi rend="s">86</hi> See Damon, <hi rend="i">Blake Dictionary</hi>, p. 440.
+On a related Swedenborian source, see Nelson Hilton, “The Sweet Science of Atmospheres in <hi rend="i">The
+Four Zoas</hi>,” <hi rend="i">Blake/An Illustrated Quarterly</hi>, 46(xii,2), p.80.</note>
+	<note id="n87"><hi rend="s">87</hi><hi rend="i"> True Christian Religion</hi>, #79; <hi rend="i">Four
+Zoas</hi>, VIIb, E 395.</note>
+	<note id="n88"><hi rend="s">88</hi> See Appendix B.</note>
+	<note id="n89"><hi rend="s">89</hi> #163-66; for Blake’s annotations, see E 594.</note>
+	<note id="n90"><hi rend="s">90</hi><hi rend="i"> Blake Records</hi>, p. 541.</note>
+	<note id="n91"><hi rend="s">91</hi> #796-98.</note>
+	<note id="n92"><hi rend="s">92</hi> It is likely that Blake’s description of the regenerate Albion
+“speaking the Words of Eternity in Human Forms” (<hi rend="i">Jerusalem</hi> 95:9, E 252) may be indebted to
+Swedenborg’s idea that the speech of spirits “is the universal of all languages, by means of ideas, the
+primitive of words” (<hi rend="i">Arcana Coelestia</hi>, #1641; see D. J. Sloss and J. P. R. Wallis, 
+<hi rend="i">The Prophetic Writings of William Blake</hi> (Oxford: The Clarendon Press, 1926), I, 631n. As John
+Howard points out, “The Writing / Is the Divine Revelation in the Litteral Expression” 
+(<hi rend="i">Milton</hi> 42:13-14, E 142) “is a Swedenborgian concept involving what Swedenborg calls
+‘simultaneous order which is a spiritual order arranged from center to circumference,’ inner to outer”
+(<hi rend="i">Blake’s</hi> Milton: <hi rend="i">a Study in the selfhood</hi> (Rutherford, N.J.: Fairleigh
+Dickinson University Press, 1976), p. 283n.42.</note></p>
+          <p>It is easy to see the reason for Blake’s ambivalence toward Swedenborg. A seer of visions and
+the Messenger of a new age, Swedenborg was yet, for Blake, bound within the same limits that confined other
+founders of “Churches.” Whitefield and Wesley were preferable not necessarily because of their doctrines, but
+because of the active nature of their ministry. Blake appears to have expressed his attitude rather
+diplomatically to Charles Augustus Tulk. According to Dr. J. J. Garth Wilkinson
+<q>
+Blake informed Tulk that he had two different states; one in which he liked Swedenborg’s writings, and one
+in which he disliked them. The second was a state of pride in himself, and then they were distasteful to him,
+but afterwards he knew that he had not been wise and sane. The first was a state of humility, in which he
+received and accepted Swedenborg.<supplied type="spacer"> </supplied><ref target="n93" type="note">93</ref>
+	<note id="n93"><hi rend="s">93</hi> James Spilling, “Blake the Visionary,” <hi rend="i">New Church
+Magazine</hi>, VI (1887), 210.</note></q>
+Blake’s remarks to Crabb Robinson on the same subject were considerably less circumspect. “He was a divine
+teacher,” Robinson reports Blake as saying of Swedenborg in 1825, and continues:
+<q>
+—he has done much and will do much good he has correct<hi rend="s">d</hi> many errors of Popery &amp; also
+of
+<pb id="p13-83" n="83"/>
+Luther &amp; Calvin—Yet he also said that <hi rend="i">Swedenborg</hi> was wrong in endeavour<hi
+rend="s">g</hi> to explain to the <hi rend="i">rational</hi> faculty what the reason cannot comprehend he
+should have left that—As B. mentioned <hi rend="i">Swedenb</hi>: &amp; Dante together I wished to know
+whe<hi rend="s">r</hi> he considered their visions of the same kind As far as I co<hi rend="s">d</hi> collect
+he does—<supplied type="spacer"> </supplied><ref target="n94" type="note">94</ref>
+	<note id="n94"><hi rend="s">94</hi><hi rend="i"> Blake Records</hi>, p. 312.</note></q>
+A further reflection recorded by Robinson reads: “<hi rend="i">Swedenborg</hi> Parts of his scheme are
+dangerous. His sexual religion is dangerous.”<supplied type="spacer"> </supplied><ref target="n95"
+type="note">95</ref> “Sexual” in Blake’s later vocabulary has the special meaning of something’s becoming
+materialized and in so doing betraying its essential quality, and so here again Blake is concentrating on that
+aspect of Swedenborgianism which he sees as resembling historical Christianity—complete with angels, devils,
+an afterlife with rewards and punishments, and a church. In his last known comment on Swedenborg, it is once
+more this aspect which Blake vehemently attacks. On the back of Dante design 7, showing Homer at the center of
+a diagram of the universe, Blake condemns Dante as a worshipper of Nature, adding “Swedenborg does the same in
+saying that this World is the Ultimate of Heaven” (E 668). Perhaps Blake might have more correctly told Tulk
+that in one state he regarded Swedenborg’s visions metaphorically, and then they seemed consistent with his
+own; while in the other state he viewed them literally and as conflicting with his own. In the former state,
+he tended to regard his disagreements with Swedenborg merely as a matter of Swedenborg’s not having gone far
+enough; in the latter, he condemned Swedenborg for the same reason. In this divided attitude, Blake resembles
+another great Romantic, Ralph Waldo Emerson. Emerson, like Blake, accuses Swedenborg of over-literalism,
+“Hebraism,” and want of poetry; and like Blake Emerson compares Swedenborg unfavorably with Boehme, who, says
+Emerson, “is healthily and beautifully wise.”<supplied type="spacer"> </supplied><ref target="n96"
+type="note">96</ref> Emerson’s remarks on Swedenborg’s angels are consonant with Blake’s in 
+<hi rend="i">The Marriage</hi>: “They are all country parsons: their heaven is a <hi rend="i">fête
+champêtre</hi>, an evangelical picnic, or a French distribution of prizes to virtuous peasants.”<supplied
+type="spacer"> </supplied><ref target="n97" type="note">97</ref> Yet in the book where these remarks occur,
+<hi rend="i">Representative Men</hi>, Emerson chooses Swedenborg as his example of “The Mystic.” Likewise for
+Blake, Swedenborg, the Angel sitting at the Tomb, the Samson shorn by the Churches, is a powerful visionary
+figure of pervasive interest. <note id="n95"><hi rend="s">95</hi><hi rend="i"> Blake Records</hi>, p.
+313.</note>
+	<note id="n96"><hi rend="s">96</hi><hi rend="i"> Representative Men: Seven Lectures</hi> (Boston: Phillips,
+Sampson, 1850), p. 142.</note>
+	<note id="n97"><hi rend="s">97</hi> Pp. 141-42.</note></p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">APPENDICES</hi>
+              </title>
+            </head>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">A. Augustus Nordenskjöld and Carl Bernhard Wadström</hi>
+                  <ref target="n98" type="note">98</ref>
+                  <note id="n98"><hi rend="s">98</hi> For this account, my sources of information are: Ellen
+Hagen, <hi rend="i">En frihetstidens son: Carl Bernhard Wadström</hi> (Stockholm: Gothia Aktiebolag, 1946);
+Brian Kingslake, “Charles Berns Wadström,” <hi rend="i">New Church Magazine</hi>, XCV (1976), 45-55; 
+<hi rend="i">New Jerusalem Magazine</hi> (1790); C. T. Odhner, “The Early History of the New Church in Sweden,”
+<hi rend="i">New Church Life</hi>, XXXI (1911), 156-72, 269-308; <hi rend="i">Svenska Män och Kvinnor</hi>
+(Stockholm: Bonniers, 1955), V, 493, VIII, 129-30; R. Sundelin, <hi rend="i">Swedenborgianismens Historia i
+Sverige under förra århundret</hi> (Uppsala: W. Schultz, 1886); R. L. Tafel, <hi rend="i">Documents
+Concerning the Life and Character of Emanuel Swedenborg</hi> (London: Swedenborg Society, 1877), I, 639-46;
+Charles Bernhard Wadström, <hi rend="i">An Essay on Colonization</hi> (London, 1794-95), vols. I-II;
+                                        <p>—, <hi rend="i">Observations on the Slave Trade and a Description
+of Some Parts of the Coast of Guinea</hi> (London, 1789);</p>
+	<p>— with A. Nordenskjöld et al., <hi rend="i">A Plan for a Free Community on the West Coast of
+Africa</hi> (London, 1789).</p></note>
+                </title>
+              </head>
+              <p>Blake had ample opportunity to meet these two extraordinary figures at the General Conference
+of 1789, and, given the congruence of some of their interests with his, it is appropriate that we give some
+further information about each.</p>
+              <p>Nordenskjöld was born in Finland in 1754 and was educated at Åbo Akademi. He then moved to
+Stockholm, where he was active as a chemist, mineralogist, and alchemist. In 1779 he made his first trip to
+England, wrote part of <hi rend="i">A Plain System of Alchymy</hi>, and discovered and published the
+manuscript of Swedenborg’s <hi rend="i">Coronis.</hi> Returning to Sweden in 1780, Nordenskjöld embarked on
+a series of secret experiments at Drottningholm under the sponsorship of Gustav III, to produce gold by
+alchemical means. (According to Tafel, <ref target="n99" type="note">99</ref> Nordenskjöld’s motive was to
+do away with the distinction between rich and poor.) He was one of the members of the Swedenborgian
+“Exegetical and Philanthropic Society,” founded in 1786, and editor of the Swedenborgian periodical 
+<hi rend="i">Aftonbladet.</hi> In 1789 it was discovered that the governor of the palace of Drottningholm, A. F.
+Munck, was using the gold-making operation as a cover for counterfeiting. Nordenskjöld was not touched by
+this scandal, but the experiments were discontinued. <note id="n99"><hi rend="s">99</hi><hi rend="i">
+Documents</hi>, I, 639-46.</note></p>
+              <p>Early in 1789, Nordenskjöld went to England again. With Carl Bernhard Wadström, he attended
+the General Conference of the New Jerusalem Church in April. On 24 June he and Wadström, with several others,
+published <hi rend="i">A plan for a free community on the West Coast of Africa.</hi> Although the authors
+carefully avoid any mention of Swedenborgianism in this publication—no doubt in order to gain a wider basis
+of support—Sundelin is probably right in describing their aim as “to prepare, beneath the old forms of
+social oppression, a new form of social organization, united under the best laws . . . to create the New
+Jerusalem in Africa.”<supplied type="spacer"> </supplied><ref target="n100" type="note">100</ref> A little
+book which Nordenskjöld published in Copenhagen in 1790, <hi rend="i">Församlings Formen uti det Nya
+Jerusalem</hi>, evidently was intended as the constitution for this new society (see above, pp. 71). Although
+dedicated to Gustav III, with an introductory epistle to the king pleading for freedom of expression for
+Swedenborgians, <hi rend="i">Församlings Formen</hi> was banned in Sweden. 
+<note id="n100"><hi rend="s">100</hi><hi rend="i"> Swedenborgianismens Historia i Sverige</hi>, p. 261.</note></p>
+              <p>Nordenskjöld was expelled from the New Jerusalem Church as a result of the concubinage
+dispute, and he subsequently went to Paris in the summer of 1790 and took part in the Revolutionary festivals,
+to the point of dancing on the ruins of the Bastille. Hearing of this, Gustav III ordered him home to Sweden,
+but in 1791 Nordenskjöld was permitted to go back to England in order to take part in the founding of the
+Sierra Leone colony, where blacks and whites alike were to enjoy the benefits of freedom. He embarked for
+Africa on 10 January 1792. According to Wadström, Nordenskjöld was seriously ill at this time, but was
+determined to make the voyage. At Sierra Leone he was again taken ill, but Wadström says, in what is
+evidently a reference to Swedenborg’s idea of Africans in the interior who maintained a direct intuition of
+God, “He signified an ardent desire to penetrate immediately into the country, where he always hoped to find
+an innocent, hospitable people, among whom he could pursue his researches.”<supplied type="spacer"> </supplied><ref target="n101" type="note">101</ref> But his goods were stolen, and Nordenskjöld became too
+ill to continue further. Africans conveyed him by canoe from Port Logo about eighty miles to Freetown, where
+he died on 10 December 1792. <note id="n101"><hi rend="s">101</hi><hi rend="i"> An Essay on Colonization</hi>,
+II, 236.</note></p>
+              <pb id="p13-84" n="84"/>
+              <figure n="SierraLeoneMap.13.2.bqscan" rend="file" width="958" height="917">
+                <head>10 <hi rend="i">Nautical Map . . . Sierra Leone and the Island of Bulama</hi>,
+detail.</head>
+                <figDesc>Plate VI of <hi rend="i">An Essay on Colonization</hi> by C. B. Wadström (London,
+1794-95). Reproduced by permission of the Royal Library, Stockholm.</figDesc>
+              </figure>
+              <p>Carl Bernard Wadström was born in Stockholm in 1746. After completing his studies at Falun
+in 1770, he was employed in the College of Mines, where Emanuel Swedenborg had once held the post of Assessor.
+During the next few years, Wadström distinguished himself in the successful completion of a number of
+technical projects, and he was himself promoted to Assessor. He spent the years 1776-78 traveling in England,
+France, and Germany; one of the projects he undertook upon returning home was the establishment of a spinning
+and carding factory. By 1779 he had become a convert to Swedenborg’s doctrines, and in that year he and
+Augustus Nordenskjöld formed a Swedenborgian anti-slavery group in Norrköping. The idea of a colony in
+Africa which would have as its purpose the abolition of slavery—or at least of providing a free alternative
+to it—germinated in the Norrköping group. They adopted a plan for such a colony, and Gustav III granted a
+charter permitting forty families to emigrate. However, the war between England and France made it impossible
+to pursue
+<pb id="p13-85" n="85"/>
+the plan further at that time. In the meantime, Wadström advanced further in government service and continued
+his Swedenborgian activities, being one of the founders of the Exegetical and Philanthropic Society in
+1786.</p>
+              <p>In 1787 it became possible for Wadström to see Africa for himself. Subsidized by Gustav III,
+he journeyed to Guinea in a French ship, accompanied by the scientists Arrhenius and Sparrman. In a letter,
+Augustus Nordenskjöld urged Wadström to press on into the interior, presumably in order to discover the
+remnant of the Ancient Church, but Wadström only got as far as Senegal. He returned to Paris in March 1788
+and went from there to London for the purpose of gaining support for the projected colony. He met the
+Abolitionist Thomas Clarkson, and he and Sparrman testified before the Privy Council and before Parliament on
+the slave trade. On a short trip to Sweden, he obtained possession of some of Swedenborg’s manuscripts,
+which he wanted to have published in England. These he deposited in London with Benedict Chastanier; they
+later became objects of much contention, and were eventually re-deposited in the Library of the Royal Academy
+of Sciences in Stockholm.</p>
+              <p>In 1788 Wadström was baptized into the New Church along with his protegé Peter Panah, the
+son of an African king, who had been sold into slavery in Sierra Leone and then bought into freedom in England
+by Wadström. The two were the subject of a Swedenborgian portrait by Carl Frederick Breda:<supplied
+type="spacer"> </supplied><ref target="n102" type="note">102</ref> in front of a palm tree, Wadström and
+Panah are reading Swedenborg’s <hi rend="i">Divine Providence.</hi> The painting is in the Nordiska Museet,
+Stockholm, but must have been painted while Breda was in London, as Panah, who died in 1790, never went to
+Sweden.<supplied type="spacer"> </supplied><ref target="n103" type="note">103</ref>
+	<note id="n102"><hi rend="s">102</hi> Breda resided in London from 1787 to 1796 and was a pupil of Sir Joshua
+Reynolds. See Thieme-Becker, <hi rend="i">Kunstler-Lexicon</hi> (Leipzig: Verlag von Vilhelm Engelmann, 1910),
+IV, 561-62.</note>
+	<note id="n103"><hi rend="s">103</hi> An engraving by W. Pyott after Breda’s painting was published in 1792
+under the title <hi rend="i">The Benevolent Effects of Abolishing Slavery, or the Planter instructing his
+Negro.</hi></note></p>
+              <p>In 1789 Wadström published <hi rend="i">Observations on the Slave Trade and a Description of
+Some Parts of Guinea</hi> and (with Nordenskjöld and others) <hi rend="i">A Plan for a Free Community on the
+West Coast of Africa.</hi> Although neither publication mentions Swedenborg, one can often see Swedenborgian
+origins of Wadström’s analysis of slavery, as when he writes: “This detestable abuse may be considered as
+proceeding from a degenerate love of <hi rend="i">dominion</hi>, and <hi rend="i">of possessing</hi> the
+property of others; which, instead of diffusing the genial influence of benevolence and liberty, produces, in
+their state of inversion, all the horrors of tyranny and slavery.”<supplied type="spacer"> </supplied><ref
+target="n104" type="note">104</ref> <hi rend="i">Observations</hi> in particular deserves an honorable place
+in the history of anti-slavery literature; it is a factual and humanitarian account of what Wadström had
+himself observed of the brutality of the slave trade. A painting based on this account, <hi rend="i">The
+kidnapping of the Negroes as described by Mr. Wadström</hi>, was exhibited by Elias Martin at the Royal
+Academy in 1790. <note id="n104"><hi rend="s">104</hi><hi rend="i"> Observations</hi>, p. v.</note></p>
+              <p>Wadström was also the author of <hi rend="i">An Essay on Colonization</hi>, published in two
+parts in 1794 and 1795. These are sumptuous volumes, with foldout maps and other elegantly engraved (but
+mysteriously unsigned) plates. One is an unforgettably graphic plan of how the Africans were packed into the
+various parts of the slave ships; an unsuccessful slave uprising on shipboard is depicted (this alone is
+signed “J. S. Aqua Fortis”); and there are maps and plans of Freetown, its environs, and Bulama. The original
+drawings of Sierra Leone by J. Becket are advertized as on display at the establishment of J. Edwards, Pall
+Mall, and hand colored copies of the seven engraved plates are offered for sale. Among the subscribers listed
+are John Adams, Alderman Boydell, Henry Hoare (who took one hundred copies), Elias Martin, Mungo Park, Joseph
+Priestley, Thomas Roscoe, Earl Stanhope, John Augustus Tulk, and William Wilberforce. As previously, Wadström
+avoids any direct reference to Swedenborg; but once more, his conceptions are colored by Swedenborgianism, as
+is his account of African religion:
+<q>
+They believe simply that there exists one God, the Creator and Preserver of all things; and, in order to fix
+their ideas, they think on God, in some form or other; for, to believe in any thing without form, they seem to
+think, is to believe in nothing. Yet, although some of them appear to consider the sun as the emblem of God,
+for they turn their faces towards it when praying, they seem all to believe, that God must be a man, or in
+human form; as they cannot think of any more perfect or respectable form to compare him with.<supplied
+type="spacer"> </supplied><ref target="n105" type="note">105</ref>
+	<note id="n105"><hi rend="s">105</hi> I, 95, #149.</note></q>
+One has only to compare Swedenborg’s remarks on the religion of the Africans (such as “The Africans . . .
+worship the Lord under a human form”; see above, fn. 20) to see that Wadström looked at the subject through
+Swedenborgian eyes, just as Blake did in “The Little Black Boy.” It is scarcely possible that Blake, who
+engraved such powerful illustrations of the mistreatment of slaves for John Gabriel Stedman’s 
+<hi rend="i">Narrative of a Five Years’ Expedition Against the Revolted Negroes of Surinam</hi> (1796), was
+unacquainted with Wadström’s important and widely circulated books.</p>
+              <p>By the time the Sierra Leone colonists were able to leave for Africa, Wadström had married
+and settled in Manchester, where he had become a cotton manufacturer. Presumably economic considerations kept
+him in England, and thus he was not present at the destruction of Freetown by French privateers in 1794. He
+continued his vigorous anti-slavery activity in England until 1795, publishing, in addition to his writings,
+thousands of impressions of engravings after his own drawings<supplied type="spacer"> </supplied><ref
+target="n106" type="note">106</ref> of the atrocities of slavery. However, he failed in business in
+Manchester, and he left England for France in 1795. His choice of France was evidently politically motivated
+as well: he received the kiss of fraternity and equality before the Directory, took French citizenship, and
+published an <hi rend="i">Adresse au Corps Législatif et au Directoire Executif de la République
+Francaise</hi> (a plea for Britain and France to join in abolishing the slave trade). He founded the Réunion
+des Amis des Noirs et des Colons in 1797, and in 1799 he called the world’s first conference on colonial
+questions. He died in Paris that same year of an asthmatic complaint and was given a state funeral with
+ceremonial honors. <note id="n106"><hi rend="s">106</hi> Some of Wadström’s extraordinary drawings are
+reproduced by Hagen in <hi rend="i">En frihetstidens son.</hi></note></p>
+            </div4>
+            <pb id="p13-86" n="86"/>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">B. Benedict Chastanier</hi>
+                  <ref target="n107" type="note">107</ref>
+                  <note id="n107"><hi rend="s">107</hi> See James Hyde, “Benedict Chastanier and the
+Illumaniti of Avignon,” <hi rend="i">New Church Review</hi>, XIV (1907), 181-205.</note>
+                </title>
+              </head>
+              <p>Benedict Chastanier was a French surgeon educated at the College of St. Barbe, Paris. He
+emigrated to England in 1763 at the age of twenty-three. He was active in the Duché circle, where he met
+Count Grabianka, emissary of the Prophets of Avignon, in 1785. When Wadström brought some of Swedenborg’s
+manuscripts to London in 1788, he deposited them with Chastanier, who had previously translated some of
+Swedenborg’s writings into French.<supplied type="spacer"> </supplied><ref target="n108"
+type="note">108</ref> Some of Chastanier’s writings present interesting parallels with Blake’s. 
+<note id="n108"><hi rend="s">108</hi> Including <hi rend="i">The Heavenly Doctrine of the New Jerusalem</hi> (1782)
+and <hi rend="i">Influx</hi> (1785). Chastanier also contributed to the <hi rend="i">New Jerusalem
+Magazine</hi>, and parts of his translation into English of Swedenborg’s <hi rend="i">Spiritual Diary</hi>
+appeared in this and other periodicals.</note></p>
+              <p><hi rend="i">Emanuel Swedenborg’s New-Year’s Gift to His Readers for MDCXCI</hi> is
+written as if by Swedenborg and addressed to “<hi rend="i">Sons of Liberty, Children of the Free-born
+Woman</hi>!” In this pamphlet “Swedenborg” denies that he “asserted the eternity of Hell’s punishments,” and
+denies predestination as well, asserting “Essential Love’s unbounded power to rescue even from the deepest
+hell . . . ” (p. 14). On developments in France, he writes: “kind Providence has left a door wide open for the
+TRUTH OF THE KINGDOM to enter in and to establish itself with all possible, or even desirable liberty, in
+spiritual matters” (p. 37). Chastanier also translates some extracts from what he calls Swedenborg’s “Diary
+of Memorable Relations,” a manuscript then in Chastanier’s possession. One of these passages, in which
+Swedenborg describes the fall of an angel, has a striking resemblance to Blake’s later account of passing
+through a Vortex in <hi rend="i">Milton.</hi> In Chastanier’s rendition, Swedenborg says:
+<q>
+There first appears a folding-up, as it were, of a veil round the head, at a certain distance: by the
+Angel’s whirling about, the veil is flying up, even as I have seen it somewhere represented in some picture.
+Presently the folding-up becomes swifter and swifter, until the whole veil appears upwards; but by his swift
+whirling about there appeared as a sphere of an horizontal winding, such as is the sphere of the circulating
+atmosphere, and that went from right to left. . . .<lb/>
+The veil thus formed into such a sphere, another that stood close by him, took hold of it, as it were; then
+the sphere of the veil unfolded itself in a contrary direction, so that it was unfolded from that veil, and
+was lessened: yet it lasted pretty long from the peripheries to the central place where he stood; and while it
+came close by him, he fell backwards into a black pool, very filthy, until the Lord delivered him from thence.
+(p. 18)
+</q>
+In <hi rend="i">Milton</hi> the significance attached to the motion is entirely different, but the motion
+itself is essentially similar.
+<q>
+The nature of infinity is this: That every thing has its<lb/>
+Own Vortex; and when once a traveller thro’ Eternity<lb/>
+Has passd that Vortex, he percieves it roll backward behind<lb/>
+His path, into a globe itself infolding; like a sun:<lb/>
+Or like a moon, or like a universe of starry majesty,<lb/>
+While he keeps onwards in his wondrous journey on the earth<lb/>
+Or like a human form, a friend with whom he livd benevolent. (15:21-27, E 108)
+</q>
+In each account of a change of state takes place as the subject passes from “whirling about” or “Vortex” to
+see it become a “sphere” or “globe”; and Swedenborg’s description implies, as Blake’s, that the whole
+process winds itself up again in order to be repeated.</p>
+              <p>In 1795, Chastanier published <hi rend="i">A Word of Advice to a Benighted World</hi>, in
+which the prophet Richard Brothers is rejected and the Avignon Society (or Prophets of Avignon) denounced as
+“the Synagogue of Satan.” Blake also uses this term in late parts of <hi rend="i">The Four Zoas</hi> and in
+<hi rend="i">Milton.</hi> The common source is Revelation ii.9 and iii.9, and as Damon says the basic meaning
+is “the worldly church.”<supplied type="spacer"> </supplied><ref target="n109" type="note">109</ref> In their
+appropriation of a typological symbol from Revelation, both Blake and Chastanier (and Chastanier’s sources,
+identified as H. Jones and Sarah Flaxmer) exhibit the millenarian tendency to interpret contemporary history
+in apocalyptic terms. <note id="n109"><hi rend="s">109</hi><hi rend="i"> Blake Dictionary</hi>, p.
+394.</note></p>
+            </div4>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">C. Swedenborg’s Skull</hi>
+                </title>
+              </head>
+              <p>Some matters concerning Swedenborg’s skull<supplied type="spacer"> </supplied><ref
+target="n110" type="note">110</ref> should be summarized here, as Blake could have seen what was then supposed
+to be the real skull some time between 1819 and 1823. <note id="n110"><hi rend="s">110</hi> See J. Vilk.
+  Hultkrantz, “The Mortal Remains of Emanuel Swedenborg,” <hi rend="i">Nova Acta Regiae Societas <corr type="emend">Scientiarum</corr>
+Upsaliensis</hi>, Ser. IV, Vol. II (1910), 10-15; Folke Henschen, “Emanuel Swedenborg’s Cranium: A Critical
+  Analysis,” <hi rend="i">Nova Acta Regiae Societatis <corr type="emend">Scientiarum</corr> Upsaliensis</hi>, Ser. IV, Vol. XVII (1960).
+Where the two accounts do not agree, Henschen’s is the more accurate.</note></p>
+              <p>In 1817 an impoverished Swedish merchant captain named Ludwig Granholm removed the skull from
+Swedenborg’s coffin in the vault of the Swedish Church in London. His motive evidently was the mistaken
+belief that some Swedenborgian would pay a large amount of money for the skull. Dying in 1819, Granholm
+confessed the theft to the pastor of the Swedish Church, J. P. Wåhlin, and restored the skull to him. <corr type="emend">Pastor
+Wåhlin</corr> announced the recovery of the skull to his Church Council on 4 July 1819. However, probably for
+reasons of security, the pastor did not immediately return the skull to Swedenborg’s coffin. Instead he
+entrusted it to a prominent Swedenborgian—Charles Augustus Tulk. Tulk showed the skull to his acquaintances
+on occasion, and consequently it was examined by John Flaxman. According to “testimony” collected by J. J.
+Garth Wilkinson,
+<q>
+Flaxman examined the skull of Swedenborg at Mr. Charles A. Tulk’s in the presence of Mr. Clowes and Mr.
+Clover, and he said: ‘How beautiful the form—how undulating the line here; here’s no deficiency, Mr.
+Clowes. Smiling he said, ‘Why, I should almost take it for a female head, were it not for the peculiar
+character of the forehead.’<supplied type="spacer"> </supplied><ref target="n111" type="note">111</ref>
+	<pb id="p13-87" n="87"/>
+On the question of whether a cast should be taken, Mr. Flaxman observed ‘that the skull was worthy of it for
+its mere beauty.’<supplied type="spacer"> </supplied><ref target="n112" type="note">112</ref>
+	<note id="n111"><hi rend="s">111</hi> Evidently Flaxman refers to the condition known as scaphocephaly,
+defined by Hultkrantz as a pathological deformity (not, however, linked with any mental disease) characterized
+by a ridge-like vertex and a fusion of the parietal bone, making the skull unusually long and narrow.—See
+“Additional Note to the Mortal Remains of Emanuel Swedenborg,” <hi rend="i">Nova Acta Regiae Societas
+Scientarum Upsaliensis</hi>, Ser. IV, Vol. III (1912). It is interesting that both of the skulls which have
+been considered to be Swedenborg’s are scaphocephalic. The condition would have been disguised by the bag
+wig worn by Swedenborg in his portraits.</note>
+	<note id="n112"><hi rend="s">112</hi> R. L. Tafel, <hi rend="i">Documents Concerning the Life and Character
+of Emanuel Swedenborg</hi> (London: Swedenborg Society, 1877), II, 555-56.</note></q>
+Since Blake was also a friend of Tulk’s and was also greatly interested in phrenology at this time,<supplied
+type="spacer"> </supplied><ref target="n113" type="note">113</ref> it is likely that he too took the
+opportunity to see the skull. It was returned to Swedenborg’s tomb on 25 March 1823. 
+<note id="n113"><hi rend="s">113</hi> See Anne K. Mellor, “Physiognomy, Phrenology, and Blake’s Visionary Heads,” 
+<hi rend="i">Blake in His Time</hi>, ed. Robert N. Essick and Donald Pearce (Bloomington and London: Indiana
+University Press, 1978), pp. 53-74.</note></p>
+              <p>In 1908, Swedenborg’s remains were transported from England to Sweden for entombment in the
+cathedral at Uppsala. This provided an opportunity for the examination of the skeleton by Dr. J. V.
+Hultkrantz, Professor of Anatomy at the University of Uppsala, and two associates. Despite rumors which had
+persisted throughout the nineteenth century as to the existence of another, authentic Swedenborg skull, Dr.
+Hultkrantz saw no reason to doubt the authenticity of the “Granholm skull.” At about this time, letters were
+received from a “Mr. R.” in London, asserting that the true Swedenborg skull had been in the possession of an
+antiquary in the East End of London during the 1870s. However, Mr. R. was confined in an insane asylum and
+therefore could not pursue the matter further. After his release, Mr. R.—whose name was W.
+Rutherford—reported that he had found the true skull. He furnished Dr. Hultkrantz with tracings, photos, and
+a plaster cast; and he published letters on the subject in the <hi rend="i">East London Observer</hi> for 16
+March and 23 March 1912. In an article later published in the <hi rend="i">Journal of Anatomy and
+Physiology</hi>, Rutherford maintained that “Half a century ago a collector of curios in Wellclose Square,
+close to the old Swedish church, exhibited a skull which he claimed to be that of Emanuel
+Swedenborg.”<supplied type="spacer"> </supplied><ref target="n114" type="note">114</ref> Before he died, the
+antiquary gave his collection to a friend, but the friend was unaware that one of the skulls was
+Swedenborg’s. It was that skull, which had the letters “E. S’borg” scratched onto it, which Rutherford now
+claimed to have recovered. Hultkrantz, however, remained unconvinced, dismissed Rutherford’s view, and
+reaffirmed the authenticity of the Granholm skull. There the matter rested for another 35 years. 
+<note id="n114"><hi rend="s">114</hi> W. Rutherford, “A Swedenborg Mystery: the Rival Skulls,” <hi rend="i">Journal
+of Anatomy and Physiology</hi>, XLVII, 3rd Ser., vol. IX (1914), 86-88.</note></p>
+              <p>In 1958, Swedenborg’s remains were re-examined at Uppsala by Dr. Folke Henschen, who also
+had the English skull tested by a number of specialists. As a result of these scientific tests, it was
+established that the Granholm skull did not belong to Swedenborg’s skeleton. In a brilliant feat of
+detective work, Henschen formulated an hypothesis as to what had happened. Granholm had indeed taken a skull
+from Swedenborg’s coffin and had later restored it—but previous to Granholm’s theft the real skull had
+been removed! The successful thief was John Didrik Holm, whom Henschen characterizes as “a wealthy Swedish
+captain and a fanatical phrenologist and owner of a large phrenological museum in London.”<supplied
+type="spacer"> </supplied><ref target="n115" type="note">115</ref> Among other skulls, Holm reportedly owned
+that of Alexander Pope; he later acquired the collections of Gall and of Spurzheim. It was, then, the “Holm
+skull” which Rutherford saw in the 1870s, which he found again in 1908, and which was sold at Sotheby’s in
+1978 to be re-united with the rest of Swedenborg’s remains in Uppsala. <note id="n115"><hi rend="s">115</hi>
+“Emanuel Swedenborg’s Cranium,” p. 9. It is worth noting that all four reports published by <hi rend="i">The
+Times</hi> on this subject in 1823 were wrong. The original account (March 23) said that the skull was removed
+after the original opening of the tomb. The Swedenborgian minister S. Noble corrected this error, adding that
+the thief was a Swedish disciple of Gall still living in England, but Noble accepted the restored skull as
+genuine (March 1). J. I. Hawkins then named Granholm as the thief, saying Granholm had shown Hawkins the
+“Granholm skull” as the real one (April 4). Finally, J. P. Wåhlin, under the name “Tertius Interveniens”
+wrote to the effect that the thief was a phrenologist who died “a few years after” (April 5, and 
+<hi rend="i">Dagsländor</hi>, 1846, pp. 223-225).</note></p>
+              <p>Nevertheless, some questions remain. It seems odd that Rutherford had so little difficulty in
+tracing a skull which he had not seen for some thirty-five years. The tests performed under Henschen’s
+direction proved the Granholm skull to be inauthentic, but they did not positively prove the authenticity of
+the Holm skull. At present all that can be said is that the Holm skull is a likelier candidate than any
+other.</p>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+	<pb id="p13-88-90" n="88-90" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

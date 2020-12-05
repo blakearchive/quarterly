@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.1.subscription</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake’s Subscription Rates Rise</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.1</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>E.B. Bentley</name>
+              <name>Morton D. Paley</name>
+              <name>Michael Srigley</name>
+              <name>Joan K. Stemmler</name>
+              <name>Julia M. Wright</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <body>
+      <pb id="p26-35" n="35"/>
+      <div1 id="BQ-26-1-0008">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake<hi rend="i">’s Subscription Rates Rise</hi></title>
+          </head>
+          <p>Due to the rising production and postage costs, <hi rend="i">Blake</hi> is
+                        raising its subscription rates. For individuals, the rate increase begins
+                        with volume 26, 1992-93. Institution rates will rise for volume 27, 1993-94.
+                        The new rates are as follows: <table rows="4" cols="2"><row>
+	<cell>Individuals:</cell>
+	<cell>$25/year</cell>
+</row>
+<row>
+	<cell>Institutions:</cell>
+	<cell>$50/year</cell>
+</row>
+<row>
+	<cell>Postal surcharges:</cell>
+	<cell>Surface: $8</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Airmail: $18</cell>
+</row></table></p>
+          <p>New advertising rates: <table rows="3" cols="2"><row>
+	<cell>Half-page ad:</cell>
+	<cell>$100</cell>
+</row>
+<row>
+	<cell>Full-page ad:</cell>
+	<cell>$140</cell>
+</row>
+<row>
+	<cell>Inserts:</cell>
+	<cell>$125</cell>
+</row></table></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

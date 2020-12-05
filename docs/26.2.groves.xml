@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.2.groves</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and the Edinburgh Evening Post</title>
+        <author n="Groves">David Groves</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.2</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen Cox</name>
+              <name>David Groves</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>Jeffery D. Parker</name>
+              <name>Marsha Keith Schuchard</name>
+              <name>Irene Taylor</name>
+              <name>Joseph Wittreich</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <body>
+      <div1 id="BQ-26-2-0006">
+      	<pb id="p26-51" n="51"/>
+        <head>
+          <title type="section">
+            <hi rend="i">MINUTE PARTICULAR</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake and the <hi rend="i">Edinburgh Evening Post</hi></title>
+          </head>
+          <byline>
+            <docAuthor>David <name>Groves</name></docAuthor>
+          </byline>
+          <p>The <hi rend="i">Edinburgh Evening Post</hi> was a weekly 8-page newspaper, with a two-page
+section entitled “Scottish Literary Gazette.” The <hi rend="i">Post</hi> is mainly remembered today
+because Thomas De Quincey was one of its regular contributors during the late 1820s.<supplied type="spacer"> </supplied><ref target="n69" type="note">1</ref> With “more original discussion than any [other] newspaper
+in Scotland, the <hi rend="i">Post</hi> apparently “acquired considerable reputation as a journal of
+talent.”<supplied type="spacer"> </supplied><ref target="n70" type="note">2</ref>
+	<note id="n69"><hi rend="s">1</hi> See Stuart M. Tave, <hi rend="i">New Essays by De Quincey; His
+Contributions to the</hi> Edinburgh Saturday Post <hi rend="i">and</hi> Edinburgh Evening Post 
+<hi rend="i">1827-1828</hi> (Princeton: Princeton UP, 1966).</note>
+	<note id="n70"><hi rend="s">2</hi> Anon., “The Edinburgh and Glasgow Newspaper Press,” 
+<hi rend="i">Metropolitan Magazine</hi> 7 (1833): 98.</note></p>
+          <p>When Dr. John Abercrombie’s book, <hi rend="i">Inquiries Concerning the Intellectual Powers and
+the Investigation of Truth</hi>, was published in Edinburgh in 1831, it received a short review in the
+Scottish Literary Gazette section of the <hi rend="i">Post.</hi> Abercrombie’s speculations about ghosts and
+visions inspired the reviewer to include a brief comparison with William Blake. Although the remarks are not
+very enlightening, they at least attest to the spread of Blake’s reputation in Scotland. The reviewer’s
+allusion to Blake follows his discussion of the “visual phantasm[s]” suffered by Dr. Abercrombie’s
+patients:
+<q>
+In Allan Cunningham’s lives of the Painters, our author might have found another curious instance of the
+same thing, in Blake, the eminent artist, who had such visitors, and the appearance of them was so vivid and
+steady, that that writer [<hi rend="i">i.e.</hi>, Cunningham] tells us, that he [<hi rend="i">i.e.</hi>,
+Blake] actually painted them; and that so docile were his spiritual <hi rend="i">sitters</hi>, that they
+appeared at the wish of his friend [<hi rend="i">i.e.</hi>, Blake].<lb/>
+<lb/>
+Sometimes, however, (he adds) the “shape which he desired to draw, was long in appearing, and he sat with
+his pencil and paper ready, and his eyes idly roaming in vacuity, till all at once the 
+<hi rend="i">vision</hi> was upon him, and he began to work like one possessed.”<supplied type="spacer"> </supplied><ref target="n71" type="note">3</ref>
+	<note id="n71"><hi rend="s">3</hi> Anon., “Abercrombie’s Inquiries,” <hi rend="i">Edinburgh Evening
+Post, and Scottish Literary Gazette</hi> 7 May 1831 (150-51). The reviewer quotes from Allan Cunningham’s
+<hi rend="i">Lives of the Most Eminent British Painters, Sculptors, and Architects</hi>, 6 vols. (London:
+Murray, 1829-33) 2: 167.</note></q>
+Whoever the author of these remarks may have been, his attitude towards visions was very different from
+Blake’s. The review ends with a recommendation that readers “receive . . . the solid instruction, that
+those spectral appearances, which terrified our forefathers, are now ascertained to be the results of certain
+states of body and health, of those to whom they appear.” No further mentions of Blake appear in surviving
+issues of the Edinburgh <hi rend="i">Post.</hi></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.2</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>David Bindman</name>
+              <name>Detlef Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas V. Lange</name>
+              <name>Raymond Lister</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>Dennis M. Read</name>
+              <name>Leonard M. Trawick</name>
+              <name>Nicholas O. Warner</name>
+              <name>Kasumitsu Watarai</name>
+              <name>Andrew Wilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <front>
+      <pb id="p14-41-42" n="41-42"/>
+      <div1 id="cover">
+        <figure n="cover.014.02.bqscan" rend="file" width="258" height="318">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY 54<lb/>
+            Volume 14<lb/>
+            Number 2<lb/>
+            Fall 1980</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-14-2-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.warner">Blake’s Moon-Ark Symbolism</ref><lb/>
+                            by Nicholas O. Warner</cell>
+            <cell>44</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.read">A New Blake Engraving: Gilchrist and the Cromek
+Connection</ref><lb/>
+                            by Dennis M. Read</cell>
+            <cell>60</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.labelle">Michelangelo’s Sistine Frescoes and Blake’s
+1795 Color-printed Drawings: A Study in Structural Relationships</ref><lb/>
+                            by Jenijoy La Belle</cell>
+            <cell>66</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.minnick">Blake and His Circle: A Checklist of Recent
+Scholarship</ref><lb/>
+                            by Thomas L. Minnick with the assistance of Detlef W. Dörrbecker and Kasumitsu
+Watarai</cell>
+            <cell>85</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.lange">Blake in American Almanacs</ref><lb/>
+                            by Thomas V. Lange</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.erdman">Leonora, Laodamia, and the Dead Ardours</ref><lb/>
+                            by David V. Erdman</cell>
+            <cell>96</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.lister">A Letter From Benjamin Disraeli to Anne
+Gilchrist</ref><lb/>
+                            by Raymond Lister</cell>
+            <cell>99</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.trawick">Joseph Anthony Wittreich, Jr., 
+<hi rend="i">Visionary Poetics: Milton’s Tradition and His Legacy</hi></ref><lb/>
+                            Reviewed by Leonard Trawick</cell>
+            <cell>100</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.wilton">Richard T. Godfrey, <hi rend="i">Printmaking in
+Britain, A General History from Its Beginnings to the Present Day</hi></ref><lb/>
+                            Reviewed by Andrew Wilton</cell>
+            <cell>102</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.paley">J. C. F. Harrison, <hi rend="i">The Second Coming,
+Popular Millenarianism 1780-1850</hi></ref><lb/>
+                            Reviewed by Morton D. Paley</cell>
+            <cell>104</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="14.2.bindman">Robert N. Essick, <hi rend="i">William Blake’s
+Relief Inventions</hi></ref><lb/>
+                            Reviewed by David Bindman</cell>
+            <cell>106</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>108</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="14.2.yale">Yale/Toronto Exhibition</ref>, 
+          	  <ref type="article" issue="14.2.special">IO Special Issue</ref>, 
+          	  <ref type="article" issue="14.2.rosenwald">Rosenwald Collection at the Library of Congress</ref>,
+          	  <ref type="article" issue="14.2.bentley">Bibliography Award to Bentley</ref>, 
+          	  <ref type="article" issue="14.2.gardner">Gardner on the Songs</ref>, 
+          	  <ref type="article" issue="14.2.milton">Milton and the Romantics</ref>, 
+          	  <ref type="article" issue="14.2.prose">Prose Studies</ref>, 
+          	  <ref type="article" issue="14.2.liu">Blake at LIU</ref>, 
+          	  <ref type="article" issue="14.2.mla">Blake at MLA 1981</ref>, 
+          	  <ref type="article" issue="14.2.editor">Review Editor for Blake</ref>, 
+          	  <ref type="article" issue="14.2.slides">Blake Slides</ref>, 
+          	  <ref type="article" issue="14.2.abel">Abel Production</ref>, 
+          	  <ref type="article" issue="14.2.midwest">Blake in the Midwest</ref>, 
+          	  <ref type="article" issue="14.2.scsecs">Blake at SCSECS</ref>, 
+          	  <ref type="article" issue="14.2.fine">Update to Rosenwald Collection Checklist</ref>
+          	  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-14-2-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>DAVID BINDMAN, Westfield College, University of London, is organizing a Blake exhibition to be held
+at Yale and the University of Toronto in 1982-83.</p>
+        <p>DETLEF W. DÖRRBECKER teaches art history at the University of Trier.</p>
+        <p>DAVID V. ERDMAN, State University of New York at Stony Brook, recently finished a biography of John
+Oswald.</p>
+        <p>JENIJOY LA BELLE is an Associate Professor of Literature at the California Institute of
+Technology.</p>
+        <p>THOMAS V. LANGE, a specialist in illustrated books, is Assistant Curator of Printed Books and
+Bindings at the Pierpont Morgan Library, New York.</p>
+        <p>RAYMOND LISTER is a Fellow of Wolfson College, Cambridge, and the author of several books on Blake
+and his followers.</p>
+        <p>THOMAS L. MINNICK, bibliographer for <hi rend="i">Blake/An Illustrated Quarterly</hi> is Assistant
+Dean of the University College at Ohio State University. He is now working on a book to be called 
+<hi rend="i">A Writers’ Logic.</hi></p>
+        <p>MORTON D. PALEY, University of California at Berkeley, is completing work for his book on 
+<hi rend="i">Jerusalem.</hi></p>
+        <p>DENNIS M. READ is an Assistant Professor of English at Denison University, Granville, Ohio. He has
+embarked upon a literary biography of R. H. Cromek.</p>
+        <p>LEONARD M. TRAWICK is Professor of English at Cleveland State University.</p>
+        <p>NICHOLAS O. WARNER is Assistant Professor of Literature at Claremont Men’s College. He is
+currently working on a book of Blake’s iconography and literary theory.</p>
+        <p>KASUMITSU WATARAI has worked on the Checklist of Recent Blake Scholarship for several years. He is
+Head Librarian at Reitaku University in Japan.</p>
+        <p>ANDREW WILTON is Curator of Prints &amp; Drawings, Yale Center for British Art. He has published
+several works on Turner, articles on Blake, and <hi rend="i">British Watercolours 1750-1850</hi> (Oxford
+1977). Forthcoming: <hi rend="i">Turner and the Sublime; The Art of Alexander and John Robert Cozens.</hi>
+	<note type="unreferenced" place="footer">copyright 1980 by Morris Eaves &amp; Morton D. Paley ©</note></p>
+      </div1>
+      <pb id="p14-43" n="43"/>
+      <div1 id="BQ-14-2-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Nelson Hilton, Dept. of English, University of Georgia, Athens, Georgia 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="NoahsArkIllumination.14.2.bqscan" rend="file" width="400" height="583"></figure>
+      </div1>
+      <div1 id="BQ-14-2-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="JerusalemA24Detail.14.2.bqscan" rend="file" width="400" height="355"></figure>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL ASSISTANTS: Wayne
+Erickson, Wendy Jones, Kris Lackey, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12.00 for 1 year, 1 volume, 4 issues. Special rates for individuals, $10,00,
+surface mail. $15.00 for subscribers overseas who prefer air mail. U.S. currency or international money order
+if possible. Make checks payable to Blake/An Illustrated Quarterly. Address all subscription orders &amp;
+related communications to the Circulation Mgr., Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+of New Mexico, Albuquerque New Mexico, 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque N.M. 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, California 94720</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and literature, <hi rend="i">English Language Notes</hi>’ annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitson Pub.).</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

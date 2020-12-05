@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1998</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.2</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Thomas Dillingham</name>
+              <name>Morton D. Paley</name>
+              <name>Sheila A. Spector</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <front>
+      <pb id="p32-29-30" n="29-30"/>
+      <div1 id="cover">
+        <figure n="cover.032.02.bqscan" rend="file" width="258" height="333">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            MORTON PALEY ON BLAKE,<lb/>
+            THOMAS PAINE, AND BISHOP WATSON<lb/>
+            VOLUME 32<lb/>
+            NUMBER 2<lb/>
+            FALL 1998</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-32-2-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Articles</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.2.paley">“To Defend the Bible in This Year 1798 Would Cost a
+Man His Life”</ref><lb/>
+<hi rend="i">by Morton D. Paley</hi></cell>
+            <cell>
+              <hi rend="i">32</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.2.spector">Robert M. Ryan. <hi rend="i">The Romantic
+Reformation: Religious Politics in English Literature, 1789-1824</hi></ref><lb/>
+<hi rend="i">Reviewed by Sheila A. Spector</hi></cell>
+            <cell>
+              <hi rend="i">43</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.2.worrall">G.E. Bentley, Jr. <hi rend="i">Blake Books
+Supplement: A Bibliography of Publications and Discoveries about William Blake 1971-1992 being a Continuation
+of Blake Books (1977)</hi></ref><lb/>
+<hi rend="i">Reviewed by David Worrall</hi><gap type="emend"/></cell>
+            <cell>
+              <hi rend="i">46</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="32.2.dillingham">Finn Coren, <hi rend="i">The Blake Project</hi>:
+Spring and <hi rend="i">The Blake Project</hi>: Spring: Appendix</ref><lb/>
+<hi rend="i">Reviewed by Thomas Dillingham</hi></cell>
+            <cell>
+              <hi rend="i">49</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="32.2.journal"><hi rend="i">The Blake Journal</hi></ref>,<gap
+type="emend"/> 
+              <ref type="article" issue="32.2.pioneer"><hi rend="i">Pioneers of the Spirit—William
+Blake</hi></ref>, 
+              <ref type="article" issue="32.2.princeton"><hi rend="i">Cruikshank at Princeton</hi></ref>, 
+              <ref type="article" issue="32.2.revelation"><hi rend="i">Romantic Revelations</hi></ref>
+            </cell>
+            <cell>
+              <hi rend="i">51</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p32-31" n="31"/>
+      <div1 id="BQ-32-2-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Thomas Dillingham is a longtime faculty member in the Languages and Literature program at Stephens
+College in Columbia, Missouri, where he teaches folklore, mythology, Milton, Blake, and British romantic
+poetry.</p>
+        <p>Morton D. Paley is the author of <hi rend="i">Portraits of Coleridge</hi> (Oxford). His 
+<hi rend="i">Apocalypse and Millennium in English Romantic Poetry</hi> is in the press and will appear in
+1999.</p>
+        <p>Sheila A. Spector is completing a two-part study of <hi rend="i">Blake as a Kabbalist</hi>: Part
+I—<hi rend="i">The Development of Blake’s Language</hi>; and Part II—<hi rend="i">The Development of
+Blake’s Myth.</hi></p>
+        <p>David Worrall is Reader in English Literature at St. Mary’s University College, Strawberry Hill,
+England. <hi rend="i">Blake in the Nineties</hi> (with Steve Clark) is forthcoming from 
+<corr type="emend">Macmillan</corr>/St. Martin’s Press.</p>
+      </div1>
+      <div1 id="BQ-32-2-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@dbv.cc.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@dbv.cc.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@mailnt.smuc.ac.UK</p>
+      </div1>
+      <div1 id="BQ-32-2-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720-1030.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: Page 1. The annotations around the title “Letter I” and those to the right
+of it were written with a finer nib than the rest. Courtesy of the Huntington Library and Art Gallery. 
+<note type="unreferenced" place="footer">© 1998 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.2.travel</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Travel Notes</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.2</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Manging Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Rodney M. Baine</name>
+              <name>Martin Bidney</name>
+              <name>Martin Butlin</name>
+              <name>V.A. De Luca</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Michael Grenfell</name>
+              <name>Desmond King-Hele</name>
+              <name>Paul Mann</name>
+              <name>Anne K. Mellor</name>
+              <name>Dena Bain Taylor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <pb id="p23-112" n="112"/>
+      <div1 id="BQ-23-2-0009">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">TRAVEL NOTES</hi>
+            </title>
+          </head>
+          <figure n="HongKongStatue.23.2.bqscan" rend="file" width="725" height="1000"></figure>
+          <p>A traveler (Janet Warner) 
+            sent photos of a statue she saw in a Hong Kong park. <corr type="emend">Eduardo
+            Paolizzi</corr> is the artist, and the statue is called <hi rend="i">“Concept of Newton.”</hi>
+            As our correspondent said, “. . . we know whose concept it was, too! I think Blake would
+            have liked the addition of the glasses and the overall machine-like changes to the
+            body.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

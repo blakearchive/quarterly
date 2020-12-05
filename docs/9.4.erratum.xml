@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.erratum</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Erratum: Blake Slides</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <body>
+      <pb id="p09-92" n="92"/>
+      <div1 id="BQ-09-4-0002">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">ERRATUM: BLAKE SLIDES</title>
+          </head>
+          <p>In Everett Frost’s <hi rend="i">Checklist of Blake Slides</hi> (<hi rend="i">Blake Newsletter
+33</hi>), the fourth entry in column 2 of page 28 should read<lb/>
+Rare Book Room, Princeton University Library, Princeton, New Jersey 08540. Slides, $3.75. b&amp;w (neg.
+$3.50), 5×7 $1.75.</p>
+          <p>This should be <hi rend="i">preceded</hi> by<lb/>
+Philip H. &amp; A. S. W. Rosenbach Foundation, 2010 DeLancey Place, Philadelphia, Pennsylvania 19103. Slides,
+$7.50. Color postcard, “The Number of the Beast is 666,” 10¢; 7×6 in. color print of same, 50¢.</p>
+          <p>These two entries were inadvertently conflated when the list was compiled.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

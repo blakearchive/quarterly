@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>36.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2002</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2002</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">36.2</biblScope>
+            <biblScope unit="volume">36</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Robert N. Essick</name>
+              <name>Alexander Gourlay</name>
+              <name>Michael Phillips</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2002"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_36">
+    <front>
+        <pb id="p36-41-42" n="41-42"/>
+        <div1 id="cover">
+            <figure n="cover.036.02.bqscan" rend="file" width="258" height="335">
+                <figTranscr>BLAKE<lb/>
+                    AN ILLUSTRATED QUARTERLY<lb/>
+                    One Pull or Two?<lb/>
+                    Michael Phillips, Martin Butlin, Robert Essick and Joseph Viscomi<lb/>
+                    Revisit Blake’s Method of Color Printing<lb/>
+                    VOLUME 36<lb/>
+                    NUMBER 2<lb/>
+                    FALL 2002</figTranscr>
+            </figure>
+        </div1>
+        <div1 id="BQ-36-2-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+            <cell>
+				<head>
+					<title>CONTENTS</title>
+				</head>
+			</cell>
+		  </row>
+          <row>
+            <cell>
+              <hi rend="b">Discussion</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="36.2.phillips">Color-Printing <hi rend="i">Songs of
+Experience</hi> and
+                            Blake’s Method of Registration: A Correction</ref><lb/>
+<hi rend="i">By Michael Phillips</hi></cell>
+            <cell>
+              <hi rend="i">44</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="36.2.butlin">“Is This a Private War or Can Anyone Join In?”:
+A Plea
+                            for a Broader Look at Blake’s Color-Printing Techniques</ref><lb/>
+<hi rend="i">By Martin Butlin</hi></cell>
+            <cell>
+              <hi rend="i">45</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="36.2.essick">Blake’s Method of Color Printing: Some Responses
+and Further Observations</ref><lb/>
+<hi rend="i">By Robert N. Essick and Joseph Viscomi</hi></cell>
+            <cell>
+              <hi rend="i">49</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><supplied type="emend"><hi rend="b">Further Discussion</hi></supplied><lb/>
+			<supplied type="emend" rend="plain">Online Features</supplied></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><supplied type="emend"><ref type="article" issue="bonus.butlin">William Blake, S. W. Hayter
+and Color Printing</ref></supplied><lb/>
+			<supplied type="emend" rend="plain"><hi rend="i">By Martin Butlin</hi></supplied></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><supplied type="emend"><ref type="article"
+issue="bonus.response">Response</ref></supplied><lb/>
+			<supplied type="emend" rend="plain"><hi rend="i">By Robert N. Essick and Joseph
+Viscomi</hi></supplied></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="36.2.bentley">The Blake Exhibition at Tate Britain, 9 November
+2000-11 February
+                            2001, and at the Metropolitan Museum, 27 March-24 June 2001, and their
+Catalogues</ref><lb/>
+<hi rend="i">Reviewed by G.E. Bentley, Jr.</hi></cell>
+            <cell>
+              <hi rend="i">64</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="36.2.gourlay">Michael Phillips, <hi rend="i">William Blake: The
+Creation of the</hi>
+                            Songs <hi rend="i">from Manuscript to Illuminated Printing</hi></ref><lb/>
+<hi rend="i">Reviewed by Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">66</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-36-2-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p36-43" n="43"/>
+      <div1 id="BQ-36-2-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>G.E. Bentley, Jr. writes about Blake’s life and his books; his <hi rend="i">The Stranger from
+Paradise: A Biography of William Blake</hi> was
+                    published by Yale in 2001, and the second edition of his <hi rend="i">Blake
+                        Records</hi> (1969), incorporating <hi rend="i">Blake Records
+                        Supplement</hi> (1988) and much added matter, is scheduled for publication
+                    by Yale in 2002.</p>
+        <p>Martin Butlin was formerly Keeper of the Historic British Collection at the Tate
+                    Gallery, London. Since retirement, he has continued to work on Blake, J.M.W.
+                    Turner, and other British artists.</p>
+        <p>Robert N. Essick teaches English Literature at the University of California,
+                    Riverside. He is not nearly as good a printmaker as Joe Viscomi.</p>
+        <p>Alexander Gourlay recently edited <hi rend="i">Prophetic Character: Essays on
+                        William Blake in Honor of John E. Grant</hi> (Locust Hill Press, 2002), a
+                    collection of new work on Blake, much of it by regular contributors to 
+<hi rend="i">Blake/An Illustrated Quarterly.</hi> He teaches at the Rhode Island
+                    School of Design.</p>
+        <p>Michael Phillips teaches an interdisciplinary one-year MA course at the Centre
+                    for Eighteenth Century Studies, University of York, on William Blake and the Age
+                    of Revolution. In addition to publication of <hi rend="i">The Creation of
+                        the</hi> Songs, and being guest curator of the recent William Blake
+                    exhibition at Tate Britain, he is completing a biography of Blake in Lambeth
+                    during the anti-Jacobin terror in Britain. The biography will be anticipated by
+                    the Waynflete Lectures he is to deliver as Visiting Fellow at Magdalen College,
+                    Oxford, in Spring 2003.</p>
+        <p>Joseph Viscomi is James G. Kenan Distinguished Professor of English Literature at
+                    the University of North Carolina at Chapel Hill. Unlike Robert Essick, he does
+                    not live ten minutes from <hi rend="i">Songs of Innocence and of Experience</hi>
+                    copy E and other color-printed works by Blake.</p>
+      </div1>
+      <div1 id="BQ-36-2-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey Hall 410, University of
+                    Rochester, Rochester NY 14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sjns@mail.rochester.edu<lb/>
+ TELEPHONE: 585/275-3820
+                    FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY
+                    14627-0451<lb/>
+ Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA
+                    94720-1030<lb/>
+ Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada. The
+                    University of Toronto declines to forward mail.<lb/>
+ Email:
+                    GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+                    Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road,
+                    Twickenham TW1 4SX England<lb/>
+ Email: worralld@smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-36-2-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the
+                    sponsorship of the Department of English, University of Rochester. Subscriptions
+                    are $60 for institutions, $30 for individuals. All subscriptions are by the
+                    volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+                    received after the summer issue will be applied to the 4 issues of the current
+                    volume. Addresses outside the U.S., Canada, and Mexico require a $10 per volume
+                    postal surcharge for surface, and $25 for airmail delivery. Credit card payment
+                    is available. Make checks payable to <hi rend="i">Blake/An Illustrated
+                        Quarterly.</hi> Address all subscription orders and related communications
+                    to Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of
+                    Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah
+                    Jones for information on issues and prices, or consult the web site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies,
+                    typed and documented according to forms suggested in <hi rend="i">The MLA Style
+                        Manual</hi>, and with pages numbered, to either of the editors: Morris
+                    Eaves, Dept. of English, University of Rochester, Rochester NY 14627-0451;
+                    Morton D. Paley, Dept. of English, University of California, Berkeley CA
+                    94720-1030. No articles will be returned unless accompanied by a stamped
+                    self-addressed envelope. For electronic submissions, you may send a diskette, or
+                    you may send your article as an attachment to an email message; please number
+                    the pages of electronic submissions. The preferred file format is RTF; other
+                    formats are usually acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An
+                        Illustrated Quarterly</hi> is indexed in the Modern Language
+                    Association’s International Bibliography, the Modern Humanities Research
+                    Association’s Annual Bibliography of English Language and Literature,
+                    American Humanities Index, Arts and Humanities Citation Index, Current Contents
+                    and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: William Blake, <hi rend="i">The First Book of Urizen</hi>, plate 3. Relief
+                    etching, 15.0 × 10.2 cm., 1794, color printed with touches of hand
+                    tinting with brush and pen and ink c. 1794. Robert N. Essick collection. Detail
+                    of the design. <note type="unreferenced" place="footer">© 2002 Copyright
+                        Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

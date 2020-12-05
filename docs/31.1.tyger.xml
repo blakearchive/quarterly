@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>31.1.tyger</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Tyger and Other Tales</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1997</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">31.1</biblScope>
+            <biblScope unit="volume">31</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Lorenz Becher</name>
+              <name>Wes Chapman</name>
+              <name>David L. Clark</name>
+              <name>Christopher Heppner</name>
+              <name>James McKusick</name>
+              <name>John B. Pierce</name>
+              <name>R. Paul Yoder</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1997"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_31">
+    <body>
+      <div1 id="BQ-31-1-0007">
+      	<pb id="p31-39" n="39"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <figure n="TygerTales.31.1.bqscan" rend="file" width="500" height="417"></figure>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Tyger and Other Tales</hi>
+            </title>
+          </head>
+          <p>Those with a hankering for soft and smooth “art-rock” renderings of romantic poems will be
+interested in <hi rend="i">Tyger and Other Tales: English Romantic Poetry Set to Music</hi>, a new CD with
+vocals by Krysia Kristianne, backed by various combinations of guitars, keyboards, bass, drums, and violin.
+The CD includes a poem each by Blake, Byron, Shelley, Keats, Wordsworth, and Coleridge—plus, less scrutably,
+two Renaissance lyrics, an instrumental, the last paragraph of <hi rend="i">Wuthering Heights</hi>, and an
+abridgment of Tennyson’s “Lady of Shalott.” The CD is available from record shops or direct from
+Sentience Records, 24049 Chestnut Way, Calabasas, CA 91302-2367. $15.98 + $2.00 shipping and handling (+8.25%
+sales tax for CA residents). Telephone (818) 591-2709, fax (818) 843-0301.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

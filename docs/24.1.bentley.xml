@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>24.1.bentley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Blake and Wedgwood</title>
+        <author n="Bentley">G. E. Bentley, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1990</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1990</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">24.1</biblScope>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Ferber</name>
+              <name>Alexander S. Gourlay</name>
+              <name>John E. Grant</name>
+              <name>David Groves</name>
+              <name>Colin Pedley</name>
+              <name>Marcus Wood</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1990"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_24">
+    <body>
+      <div1 id="BQ-24-1-0007">
+        <pb id="p24-249" n="249"/>
+        <div2>
+          <head>
+            <title type="main">Blake and Wedgwood</title>
+          </head>
+          <byline>
+            <docAuthor>G. E. <name>Bentley</name>, Jr.</docAuthor>
+          </byline>
+          <p>William Blake is known to have made engravings for Wedgwood’s catalogue of earthenware and
+porcelain in 1815-16,<supplied type="spacer"> </supplied><ref target="n76" type="note">1</ref> but he is not
+known to have had an earlier contact with the firm or the man, though he did engrave the Wedgwood copy of the
+Portland vase in illustration of Erasmus Darwin’s <hi rend="i">The Botanic Garden</hi> in 1791. Indeed, it
+is commonly believed that “William Blake did not begin his connections with the Wedgwood firm until late in
+his career, probably from 1815 to 1816.”<supplied type="spacer"> </supplied><ref target="n77"
+type="note">2</ref>
+	<note id="n76"><hi rend="s">1</hi><hi rend="i"> Blake Books</hi> (1977) 631-32.</note>
+	<note id="n77"><hi rend="s">2</hi> Shelley Bennett, <hi rend="i">Thomas Stothard: The Mechanisms of Art
+Patronage in England circa 1800</hi> (Columbia: U of Missouri P, 1988) 6.</note></p>
+          <p>However, Blake must have known of Wedgwood from very early in his career, not only because of his
+work on the Wedgwood copy of the Portland vase and the growing fame of the firm, but because his friend John
+Flaxman did a great deal of work for Wedgwood in the 1780s.<supplied type="spacer"> </supplied><ref
+target="n78" type="note">3</ref> Flaxman not only designed pottery for Wedgwood but also decorated his very
+ambitious house called Etruria Hall in Staffordshire. And it seems likely that Flaxman managed to get Blake to
+assist him in this work. <note id="n78"><hi rend="s">3</hi> “Flaxman principally subsisted through his
+employment for the firm of Wedgwood &amp; Company” in 1775-87, according to Samuel Smiles, 
+<hi rend="i">Josiah Wedgwood, F. R. S.: His Personal History</hi> (New York, 1895) 224.</note></p>
+          <p>The account book for Etruria Hall, shows that Wedgwood paid Flaxman in itemized amounts for his
+work (see box).</p>
+          <table rows="7" cols="5">
+            <row>
+              <cell>1785</cell>
+              <cell/>
+              <cell>[£]</cell>
+              <cell>[<hi rend="i">s</hi>]</cell>
+              <cell>[<hi rend="i">d</hi>]</cell>
+            </row>
+            <row>
+              <cell>Dec.<hi rend="s">r</hi> 10 . . .<lb/>
+To John Flaxman Acc<hi rend="s">t</hi> for Mantles in 1781 &amp; Jaumbs of Marble—&amp; designs</cell>
+              <cell>44</cell>
+              <cell>19..</cell>
+              <cell>12..</cell>
+              <cell>3½</cell>
+            </row>
+            <row>
+              <cell>To—D°—Drawings for Saloon in 1782</cell>
+              <cell>44</cell>
+              <cell>1..</cell>
+              <cell>8..</cell>
+              <cell>—</cell>
+            </row>
+            <row>
+              <cell>To—D°—Drawings for Ceiling &amp;c</cell>
+              <cell>67—</cell>
+              <cell>4..</cell>
+              <cell>6..</cell>
+              <cell>6</cell>
+            </row>
+            <row>
+              <cell>To—D°—Chimney piece in Saloon</cell>
+              <cell>67—</cell>
+              <cell>29..</cell>
+              <cell>4..</cell>
+              <cell>4</cell>
+            </row>
+            <row>
+              <cell>To—D°—Blake for painting on Ceiling pictures</cell>
+              <cell>67</cell>
+              <cell>3..</cell>
+              <cell>17..</cell>
+              <cell>—</cell>
+            </row>
+            <row>
+              <cell>To—D°—his own work</cell>
+              <cell>67</cell>
+              <cell>5..</cell>
+              <cell>5..</cell>
+              <cell>—<supplied type="spacer"> </supplied><ref target="n79" type="note">4</ref>
+	<note id="n79"><hi rend="s">4</hi> Quoted from a reproduction of Wedgwood Ledger D (1779-87) 69, in Keel
+University Library (on deposit from the Wedgwood Museum Trust). Christine Fyfe, Keel University Library
+Archivist, tells me that the figures “44” and “67” (before the sums paid) are apparently
+cross-references to other ledgers which do not survive with the Wedgwood materials in Keel University Library.
+                                    <p>The role of “Mr Blake” in this commission is mentioned without
+connecting him to the poet in Bruce Tattersall, “Flaxman and Wedgwood,” <hi rend="i">John Flaxman</hi>
+[catalogue of the Flaxman exhibition at the Royal Academy 26 Oct.-9 Dec. 1979], ed. David Bindman (London:
+Thames and Hudson, 1979) 47.</p></note>
+	</cell>
+            </row>
+          </table>
+          <p>The fact that this “Blake” is a painter suggests that he is Flaxman’s friend the painter
+William Blake. That the payment came through Flaxman rather than to Blake directly and that there is no
+expense money for travel to Staffordshire, etc., suggests that Blake’s work was done in London—perhaps he
+was painting on canvas or on an early version of his own fresco invention which was shipped to Staffordshire
+and affixed to the ceiling. The facts that he was “painting on Ceiling pictures” and that Flaxman had
+already been paid for “Drawings for Ceiling” suggest that Blake was carrying out Flaxman’s designs,
+perhaps transferring sketches to the surface to be put up on the ceiling—Blake was particularly skillful at
+transferring designs from paper to copper, and, years later, the master-engraver John Linnell employed Blake to
+help him by laying in the outlines of designs.<supplied type="spacer"> </supplied><ref target="n80"
+type="note">5</ref> The context, at any rate, suggests that the designs are Flaxman’s and that Blake is
+primarily concerned with transferring Flaxman’s “Drawings” into “painting[s] on Ceiling.” 
+<note id="n80"><hi rend="s">5</hi><hi rend="i"> Blake Records</hi> (1969) 256.</note></p>
+          <p>The design is described in Flaxman’s letter to Wedgwood of 5 February 1784:
+<q>
+I was last night honored by Mr. Byerley with your enquiry concerning the pictures you employed me to paint for
+the drawing-room ceiling. The four divinities heads for the corners have been nearly finished, and the
+allegory for the centre has had the effect roughly laid in some time since, but that I waited for your opinion
+on them, as you were expected in town almost daily for some time since. However, I have now sent two of the
+corners and the centre, accompanied with the difficulties I am under, for your contemplation and decision. I
+think, when you have fastened them with pins in their places and considered the effect, you will find either
+the heads are too large for the centre, or that the figures in the centre are disproportionately small for the
+heads. If you think the heads have a proper effect, and are not too large when seen in their proper places, I
+must reduce the number of figures in the centre and replace them upright in the long way of the oval,
+retaining the allegory, or make them genii children telling the same story; by which means also the whole will
+have a better proportion. If you think the figures in the centre of a proper height and the heads too large
+and heavy, I will alter the corner to whole figures of children (genii) sitting with the same attitude the
+heads have now; and in this case I shall reduce the number of figures in the centre to show the outlines more
+distinctly, like paintings on the Etruscan vases, as this manner has the best effect. When you have determined
+these matters and sent back the paintings, they shall be finished with all possible despatch.<supplied
+type="spacer"> </supplied><ref target="n81" type="note">6</ref>
+	<note id="n81"><hi rend="s">6</hi> Smiles 229-30.</note></q>
+In his reply of 20 February, Wedgwood said of “the paintings for my drawing-room ceiling,” that “The two
+heads of divinities and a sketch of the allegory for the centre came to my hands last night. I have hastily
+looked them over, but am obliged to put them by for the present. . . .”<supplied type="spacer"> </supplied><ref target="n82" type="note">7</ref>
+	<note id="n82"><hi rend="s">7</hi> Smiles 232.</note></p>
+          <p>The date of Blake’s work must be between February 1784 and 10 December 1785, when Flaxman was
+paid, or at least when this account was entered in the ledger.</p>
+          <pb id="p24-250" n="250"/>
+          <p>The paintings for the ceiling are now not in Etruria Hall, and no other record of them is
+known.<supplied type="spacer"> </supplied><ref target="n83" type="note">8</ref>
+	<note id="n83"><hi rend="s">8</hi> They are not mentioned in Martin Butlin, <hi rend="i">The Paintings and
+Drawings of William Blake</hi> (New Haven: Yale UP, 1981).
+                            <p>According to Smiles (222n), the “ceilings were ornamented by drawings in oil
+by Angelica Kauffman. They were removed by the agents of the Duchy of Lancaster, to whom the place belongs, to
+one of their offices in the north, probably in Yorkshire.” (Such easily removable drawings were probably
+painted elsewhere and affixed to the ceilings.) If this is so, there were evidently ceiling paintings in
+Etruria Hall by both Angelica Kauffman and by Flaxman-Blake. Perhaps the Flaxman-Blake paintings suffered the
+same fate as Angelica Kauffman’s.</p>
+	<p>The Duchy of Lancaster acquired Etruria Hall in the late nineteenth century, but the printed
+“Particulars” of the sale (generously provided to me by the agents of the Duchy of Lancaster) under Lot 1
+detailed merely “A handsome, convenient, and well-built <hi rend="i">MANSION</hi>, called ‘ETRURIA
+HALL,’ in good repair, comprising 34 Rooms, besides Entrance . . . ,” plus 44 acres with cottages, crofts,
+outbuildings, and a pool, with no reference to ceiling paintings at all. There appears to be no record with
+the Duchy of Lancaster of what became of the ceiling paintings.</p></note></p>
+          <p>Blake thus worked for two generations of the Wedgwoods. Blake’s disciple Frederick Tatham noted
+that “Mr Flaxman introduced Blake to Mr Wedgwood” in the context of “The Designs of the Pottery,” and
+the introduction has therefore been dated to 1815.<supplied type="spacer"> </supplied><ref target="n84"
+type="note">9</ref> But these new records of work by Blake for Etruria Hall make it virtually certain that the
+elder Josiah Wedgwood knew Blake’s work and saw it as early as 1785. <note id="n84"><hi rend="s">9</hi><hi
+rend="i"> Blake Records</hi> 239.</note></p>
+          <p>But note that in each case Blake is employed not as an original artist, making or copying his own
+designs, but as a reproductive craftsman, transferring the genius of other men to copper or canvas. There is
+no evidence that either Wedgwood knew of Blake as an original artist.<supplied type="spacer"> </supplied><ref
+target="n85" type="note">10</ref> Considering that the younger Josiah Wedgwood later provided an annuity to
+Coleridge, so that his genius would not need to waste itself in mundane tasks, the lost opportunity to
+Blake—and to posterity—for such potential patronage is indeed striking. 
+<note id="n85"><hi rend="s">10</hi> I presume that the last entry in the Wedgwood letter quoted here (£5.5.0 “To—D°—his
+own work”) refers to original work by Flaxman, not by Blake, for the money is paid to Flaxman with no
+indication that the work for which it paid was performed by anyone else than the payee.</note></p>
+          <p>Flaxman’s sponsorship of Blake is quite in keeping with what is known already. He frequently
+introduced Blake to potential patrons, and he solicited commissions for Blake widely. Naturally he endeavored
+to get Blake commissions first for modest and inexpensive work, such as drawings and engravings, rather than
+for finished tempera paintings or Blake’s own books in illuminated printing. Blake’s own style was so
+unusual, not to say eccentric, that patrons had to be introduced to it gradually.<supplied type="spacer"> </supplied><ref target="n86" type="note">11</ref> In most cases, such as this with Josiah Wedgwood, the
+commission was either not repeated at all or was succeeded only by requests for more journeyman labor. Blake
+was a superb craftsman, intensely proud of his craft. He did not repine at such reproductive labor. But what
+he wished for most dearly was commissions for large paintings, for suites of paintings such as Thomas Butts
+gave him, even for suites of large frescoes to decorate churches. But most of his patrons, like Josiah
+Wedgwood, were content to employ him—once—as a reproductive craftsman. It is not so much that they did not
+appreciate his genius as that it probably never occurred to them to consider him in the light of a genius at
+all. <note id="n86"><hi rend="s">11</hi> For the explosive results when a conventional patron was introduced
+too abruptly to Blake’s idiosyncratic style, see the correspondence between Blake and the Rev. Dr. Trusler
+in August 1799.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.tolley</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Some Analogues or Sources</title>
+				<author n="Tolley">Michael J. Tolley</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <div1 id="BQ-01-4-0003">
+                    <pb id="p01-9" n="9"/>
+                    <div2>
+                        <head>
+                            <title type="main">3. Some Analogues or Sources</title>
+                        </head>
+                        <byline>
+                            <docAuthor>Michael J. <name>Tolley</name>
+                            </docAuthor> University of Adelaide</byline>
+                        <p>A curious item, not in the British Museum: <hi rend="u">Cain’s Lamentations Over
+Abel</hi> by R.C. Rogers, London, Sabine &amp; Son, n.d. (1811-25). It is a bad prose-poem-sermon, and fairly
+short; quite readable, being bad. An interesting point is that the words “Is this death?” are twice repeated
+by Cain, and are the words of Adam in <hi rend="u">G.A.</hi>: moreover, they express Cain’s first
+predominant thought, as Adam’s in Blake. Rogers stresses the certainty of divine forgiveness, and his Cain
+becomes penitent, and dies a venerable old man, beloved of his relations, the further progeny of Adam &amp;
+Eve. I’ve been able to find out nothing about the author, who seems to be unknown to the reference books. He
+lived in Warminster, and has a strong scent of parson (or curate).</p>
+                        <p>Joseph Anthony Wittreich, Jr. has an interesting note, “Blake’s Philosophy of
+Contraries: A New Source”, in <hi rend="u">English Language Notes</hi>, Vol. IV, No. 2 (Dec., 1966), pp.
+105-110. The “New Source” is in Milton’s <hi rend="u">Reason of Church-Government</hi>, backed up by other
+statements in Milton’s prose as well as <hi rend="u">Paradise Lost</hi> IX. 120-3. Milton offers a more
+immediate source than Boehme for the doctrine of contraries put forward by Blake in <hi rend="u">The Marriage
+of Heaven and Hell.</hi> Both Boehme and Milton point out that the strife of contraries alone produces motion
+or change; thus they do not stop short at the familiar concept of the contraries as producing harmony. I
+suspect that further sources or analogues may turn up: for what it is worth, I mention an idea in Sir Thomas
+Browne’s <hi rend="u">Religio Medici</hi> (1643: Everyman Edition, p. 71):
+<q>
+They that endeavour to abolish Vice, destroy also Virtue; for contraries, though they destroy one another, are
+yet the life of one another.
+</q>
+                        </p>
+                        <p>In the same note, Wittreich says that <hi rend="u">Areopagitica</hi> (as well as
+<hi rend="u">Doctrine and Discipline of Divorce</hi>) is behind <hi rend="u">The Marriage.</hi> One particular
+hint from <hi rend="u">Areopagitica</hi> may perhaps be seen in proverb 45: “Expect poison from the standing
+water” and its echo in the harper’s song in the fourth “Memorable Fancy”: “The man who never alters his
+opinion is like standing water, &amp; breeds reptiles of the mind.” Milton has a similar idea: “Truth is
+compared in Scripture to a streaming fountain; if her waters flow not in a perpetual progression, they sicken
+into a muddy pool of conformity and tradition.” (Everyman Edition of <hi rend="u">Prose Writings</hi>, 1958,
+p. 172.)</p>
+                    </div2>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

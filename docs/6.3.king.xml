@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.king</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">A New Piece of Tayloriana</title>
+        <author n="King">James King</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0004">
+        <pb id="p06-72" n="72"/>
+        <div2>
+          <head>
+            <title type="main">A NEW PIECE OF TAYLORIANA</title>
+          </head>
+          <byline>
+            <docAuthor>James <name>King</name></docAuthor>
+          </byline>
+          <p>A manuscript notebook closely related to Thomas Taylor has been acquired by the Division of
+Archives and Special Collections, Mills Memorial Library, McMaster University. The notebook, “The only
+fragments which remain of the Writings of the Philosopher Celsus,” seems to be the working notes for the
+Celsus portion of Taylor’s 1830 <hi rend="i">Arguments of Celsus, Porphyry, and the Emperor Julian, Against
+the Christians</hi> . . . (the cover title reads <hi rend="i">Fragments of Porphyry, Julian, &amp;c. against
+the Christians</hi>). The notebook (3 3/4 × 5 3/4 inches, 104 pages, undated with no watermarks) contains a
+translation of all of Celsus’s anti-Christian writings, as preserved by Origen; the Celsus section of
+Taylor’s book contains only a portion of Celsus’s attack against Christianity, frequently interrupted by
+Taylor’s commentary.</p>
+          <p>Although the notebook is not in Taylor’s hand, it might well be a translation prepared on his
+behalf or Taylor’s working notes as transcribed by an amanuensis. Two circumstances make the latter case the
+more likely. First, aside from Taylor, there is no significant interest in Celsus’s religious writings in
+the 1820’s and 30’s. Second, the manuscript was found in the stockroom of the late Donald Berry of Eltham.
+In the same location was recently discovered the 1929-30 commonplace book of W. G. Meredith (1804-31), which
+contains the first positive evidence that Blake knew Taylor (see my “The Meredith Family, Thomas Taylor, and
+William Blake,” <hi rend="i">Studies in Romanticism</hi>, 11 [1972], 153-57). Although one must exercise
+caution in determining the extent of the dependency of <hi rend="i">Arguments of Celsus</hi> on “The only
+fragments . . . ,” the notebook is a piece of evidence of real interest to students of Taylor. 
+<note type="unreferenced" place="footer"><hi rend="i">James King, Assistant Professor of English at McMaster
+University, is the co-editor of the forthcoming edition of Cowper’s correspondence to be published by the
+Clarendon Press, Oxford.</hi></note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

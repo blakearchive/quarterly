@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.2.conference</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">STS Conference</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1984</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.2</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D. W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Mary V. Jackson</name>
+              <name>James McCord</name>
+              <name>Jerome J. McGann</name>
+              <name>Thomas L. Minnick</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <body>
+      <pb id="p18-126" n="126"/>
+      <div1 id="BQ-18-2-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">NEWSLETTER</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">STS CONFERENCE</title>
+          </head>
+          <p>Donald H. Reiman, Program Chair, Society for Textual Scholarship, sends us the following
+announcement:</p>
+          <p>The Society for Textual Scholarship will hold its third biennial International Conference in New
+York City, at the Graduate School and University Center of the City University of New York, 33 West 42nd
+Street, and across the street at The New York Public Library, from Thursday, 25 April, through Saturday, 27
+April 1985.</p>
+          <p>The theme of the 1985 Conference of STS will be “The Limits of Pluralism and the Limits of
+Uniformity in Bibliography and Editing.” This title grows out of the valuable interchanges among scholars
+from various disciplines at past Conferences, which have convinced most of us who attended that the general
+rules now in effect—or even those now being debated—within our individual specialities seem too narrow to
+be prescribed for other disciplines.</p>
+          <p>Those scholars who are members of teams that are engaged in major editorial and bibliographical
+projects may be interested in a new feature of the biennial STS Conferences. Beginning in 1985, the STS will
+accept requests from the chairpersons of such editorial teams to hold meetings of the members of the team and
+other interested individuals.</p>
+          <p>Anyone wishing to propose a paper (by means of a two- or three-page outline or abstract), to
+arrange for an editorial or bibliographical team meeting, or to be placed on the mailing list for further
+announcements should write to:<lb/>
+Dr. Donald H. Reiman<lb/>
+Program Chair, Society for Textual Scholarship<lb/>
+The Carl H. Pforzheimer Library<lb/>
+41 East 42nd Street (Room 815)<lb/>
+New York, NY 10017 (U.S.A.)</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

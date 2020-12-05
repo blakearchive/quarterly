@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.butlin</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">The Inscription on Evening Amusement</title>
+        <author n="Butlin">Martin Butlin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0004">
+        <pb id="p06-74" n="74"/>
+        <div2>
+          <head>
+            <title type="main">THE INSCRIPTION ON <hi rend="i">EVENING AMUSEMENT</hi></title>
+          </head>
+          <byline>
+            <docAuthor>Martin <name>Butlin</name></docAuthor>
+          </byline>
+          <p>Geoffrey Keynes, in his book on <hi rend="i">Engravings by William Blake: The Separate
+Plates</hi> (Dublin, 1956), (p. 64), reconstructs the last line on Blake’s engraving after Watteau’s 
+<hi rend="i">Evening Amusement</hi> on the basis of that on the companion print of <hi rend="i">Morning
+Amusement.</hi> However, the discovery of a third, untrimmed impression in red shows that in fact the wording
+is slightly different. As Keynes’ transcription is not entirely accurate even in the first line, I give the
+full inscription:</p>
+          <p>Watteau pinx<hi rend="s">t</hi>. W. . Blake fecit / EVENING AMUSEMENT / From an Original Picture
+in the Collection of M.<hi rend="s">r</hi>. A. . Maskin. / Pub.<hi rend="s">d</hi>. as the Act directs August
+21. . 1782 by T. . Macklin. N.<hi rend="s">o</hi>. 39 Fleet Street.</p>
+          <p>The punctuation after certain initials and in abbreviations such as “M.<hi rend="s">r</hi>.”,
+which is represented here by two full-stops, is in fact more in the form of two little dashes. It is also
+found in the inscription under <hi rend="i">Morning Amusement</hi> as can be seen from Keynes’ reproduction
+though not from his transcription (<hi rend="i">Separate Plates</hi>, p. 63). In this connection it should be
+pointed out that the “s” of “sculp<hi rend="s">t</hi>” is lower case, not a capital. In addition, at least on
+the copy of the print belonging to me, there is no full-stop at the end of the last line but there are two
+little dashes
+                        above the stop following “Tho” suggesting a slightly fuller form of the abbreviation
+for Thomas, though they do not appear to take the form of an “s”: “Tho<hi rend="s">.</hi>.<hi
+rend="s">.</hi>”</p>
+          <p>It should be noted that the inscription on <hi rend="i">Evening Amusement</hi> gives the name of
+the owner of the original painting as “Maskin” without a concluding “s”. This is in fact correct. However,
+even allowing for the fact that the oval format of the engravings does not necessarily represent the shape of
+the original paintings, it appears that Maskin’s paintings are not those now in the Wallace Collection. The
+provenances of <hi rend="i">Les Champs Elysees</hi> and <hi rend="i">Le <corr type="emend">Rendez-vous</corr> de Chasse</hi> (as the
+paintings related to Blake’s <hi rend="i">Evening Amusement</hi> and <hi rend="i">Morning Amusement</hi> are
+now known) seem to exclude Maskin’s ownership, neither having left France till 1787 at the earliest (see 
+<hi rend="i">Wallace Collection Catalogues: Pictures and Drawings</hi>, 1968 edition, pp. 360, 364-65). 
+<note type="unreferenced" place="footer"><hi rend="i">Martin Butlin is Keeper of the British Collection at the Tate
+Gallery, London, and a specialist on the work of Blake and J. M. W. Turner. He is the author of</hi> William
+Blake: A Complete Catalogue of the Works in the Tate Gallery, <hi rend="i">and he is compiling a complete
+catalogue of Blake’s paintings, watercolors, and drawings.</hi></note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

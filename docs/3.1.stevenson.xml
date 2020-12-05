@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>3.1.stevenson</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Blake and William Frend</title>
+				<author n="Stevenson">W. H. Stevenson</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>June 15, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">03.1</biblScope>
+                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_03">
+        <body>
+            <pb id="p03-19" n="19"/>
+            <div1 id="BQ-03-1-0007">
+                <head>
+                    <title type="section">
+                        <hi rend="i">
+                            <hi rend="u">QUERIES</hi>
+                        </hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">Blake and William Frend</title>
+                    </head>
+                    <p>John Adlard’s reference to Frend [<hi rend="i">BNL</hi> #8, p. 73] is very
+interesting; but I wonder if the influence is not the other way round? Blake uses the idea in several places,
+and it arises in the first place from his belief that in the perfect world perception would be infinite and
+unlimited:</p>
+					<q>
+Earth was not: nor globes of attraction<lb/>
+The will of the Immortal expended<lb/>
+Or contracted his all flexible senses. (Urizen 3: 36-38)
+</q>
+                    <p>Blake seems slightly ambivalent in his treatment of the idea. Sometimes he contrasts
+the infinite variability of the vision of eternity with the restricted sight of natural man, who can only see
+and understand “globes of attraction.” Sometimes he uses the vision of different worlds as globes as one of
+the possible attitudes of infinite vision; and this seems to be the point that Frend has taken. In the passage
+quoted by John Adlard, Blake says that it is a man’s subjective viewpoint that counts, not his generalising
+rationalisations about the universe. Unexpectedly, Blake vindicates the telescope and microscope against their
+scientific users. These instruments assist the mortal eye, and open living worlds that had previously been
+hidden. Newtonic generalisation closes them again, against the evidence of experience.</p>
+                    <p>There are other passages, however, with a rather difficult angle. Also in 
+<hi rend="i">Milton</hi>, plate 15, Blake describes the universe, not in terms of Newtonian globes, but of
+Cartesian vortices:</p>
+					<q>
+when once a traveller thro’ Eternity<lb/>
+Has passd that Vortex, he perceives it roll backward behind<lb/>
+His path, into a globe itself infolding; like a sun:<lb/>
+Or like a moon, or like a universe of starry majesty,<lb/>
+While he keeps onwards in his wondrous journey on the earth<lb/>
+Or like a human form, a friend with whom he livd benevolent.<lb/>
+As the eye of man views both the east &amp; west encompassing<lb/>
+Its vortex; and the north &amp; south, with all their starry host;<lb/>
+Also the rising sun &amp; setting moon he views surrounding<lb/>
+His corn-fields and his valleys of five hundred acres square.<lb/>
+Thus is the earth one infinite plane, and not as apparent<lb/>
+To the weak traveller confin’d beneath the moony shade.<lb/>
+Thus is the heaven a vortex passd already, and the earth<lb/>
+A vortex not yet pass’d by the traveller thro’ Eternity.
+</q>
+                    <p>The world of a man’s present, living experience, is opened out to him like the open
+world of a flower. When he passes beyond it, and ceases to experience it directly, it rolls up into a
+globe.</p>
+                    <p>Again, in “The Mental Traveller,”</p>
+					<q>
+The Cottage fades before his sight<lb/>
+The Garden &amp; its lovely Charms<lb/>
+                        <lb/>
+The Guests are scattered thro’ the land<lb/>
+For the Eye altering alters all.<lb/>
+The Senses roll themselves in fear<lb/>
+And the flat Earth becomes a Ball<lb/>
+                        <pb id="p03-20" n="20"/>
+The Stars Sun Moon all shrink away<lb/>
+A desert vast without a bound . . .
+</q>
+                    <p>Again the emphasis is on the difference between close acceptance of life, and fearful
+shrinking from it: there is a common image in <hi rend="i">Jerusalem</hi> of a sort of “exploding universe” in
+which not only the stars and plan but even the countries of the earth (notably Israel and Britain), are
+alienated from each other (e.g. <hi rend="i">Jerusalem</hi> 66: 40ff). In <hi rend="i">Jerusalem</hi> 83: 33ff
+this restricted vision becomes acceptable to Los after all, as a duty of the now repentant daughters of Albion
+(82: 72-80) to give some kind of shadowy understanding of the truth to “the weak traveller confin’d beneath
+the moony shade:”</p>
+					<q>
+An outside shadowy Surface superadded to the real Surface<lb/>
+Which is unchangeable for ever &amp; ever Amen so be it!<lb/>
+(83: 47-48)
+</q>
+                    <p>In short, Frend’s idea seems to be drawn from Blake, rather than vice versa, and this
+explains the late date. Frend has watered it down, and turned it to a use which Blake would not accept; but
+that is, unfortunately, a common fate of Blake’s particular and more original ideas.</p>
+                    <byline>
+                        <docAuthor>W.H. <name>Stevenson</name>
+                        </docAuthor> University of Ibadan Nigeria</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

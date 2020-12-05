@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.2.dance</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Dances of Albion</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.2</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Robin Tawney</name>
+              <name>Chapel Petty</name>
+              <name>Dennis Kane</name>
+              <name>Karen Sunde</name>
+              <name>Tom Elder</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>James Bogan</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Thomas L. Minnick</name>
+              <name>Dennis M. Read</name>
+              <name>Jon Stallworthy</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <pb id="p17-79" n="79"/>
+      <div1 id="BQ-17-2-0007">
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">DANCES OF ALBION</hi>
+            </title>
+          </head>
+          <p>Monday, 25 July 1983, saw the sixteenth performance—since the first on 27 November 1980—of
+the ballet <hi rend="i">Dances of Albion: Dark Night Glad Day</hi> by the Royal Ballet at the Royal Opera
+House, Covent Garden. The music is Benjamin Britten’s <hi rend="i">Sinfonia da Requiem</hi> (1940) and his
+<hi rend="i">Serenade for tenor, horn and strings</hi> (1942). The <hi rend="i">Serenade</hi>, written
+originally for soloists Peter Pears and Dennis Brain, includes six English poems the imagery of which provides
+the basis for Glen Tetley’s choreography. The poems, linked by the theme of evening, are by an anonymous
+fifteenth-century writer, Blake, Charles Cotton, Ben Jonson, Keats, and Tennyson.</p>
+          <figure n="DanceCouple.17.2.bqscan" rend="file" width="250" height="329"></figure>
+          <figure n="Arabesque.17.2.bqscan" rend="file" width="250" height="329"></figure>
+          <figure n="GroupDance.17.1.bqscan" rend="file" width="250" height="288"></figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

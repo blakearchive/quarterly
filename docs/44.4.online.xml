@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-44" status="new">
+    <idno>44.4.online</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Goes Online</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 2011</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2011</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">44.4</biblScope>
+            <biblScope unit="volume">44</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributor</resp>
+              <name>G.E. Bentley, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2011"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_44">
+    <body>
+      <div1 id="BQ-44-4-0008">
+      	<pb id="p44-143" n="143"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">Blake</hi> Goes Online</title>
+          </head>
+          <p>This year marks the 180th anniversary of the death of Catherine Blake, but a rebirth of sorts for
+<hi rend="i">Blake</hi>: as of the summer 2011 issue (vol. 45, no. 1), our content will be online. We will
+offer two subscription options: online only (at the same price as currently charged for print), or online plus
+print (more expensive). The online and print content will be the same.</p>
+          <p>We are using the open-source Open Journal Systems software and the server space of the library of
+the University of Rochester to accomplish the transition. The address for online access will be our present
+web address &lt;http://www. blakequarterly.org&gt;.</p>
+          <p>Online content will remain by subscription for five years, then will be archived and freely
+available in the <hi rend="i">William Blake Archive</hi> &lt;http://www.blakearchive.org&gt;. We are also
+working to put our back issues online in the archive.</p>
+          <p>Individual subscribers will receive renewal notices or e-mails for vol. 45 as usual, with full
+details.</p>
+        </div2>
+      </div1>
+    </body>
+    </text>
+</TEI.2>

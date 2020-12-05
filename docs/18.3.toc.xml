@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>18.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1984-85</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1984-85</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">18.3</biblScope>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Managing Editor</resp>
+              <name>Robin Tawney</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <resp>Contributors</resp>
+              <name>Shelley M. Bennett</name>
+              <name>James Bogan</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Michael Fischer</name>
+              <name>Christopher Fox</name>
+              <name>John E. Grant</name>
+              <name>W.J.T. Mitchell</name>
+              <name>Morton D. Paley</name>
+              <name>Donald H. Reiman</name>
+              <name>Nicholas O. Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1984-85"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_18">
+    <front>
+      <pb id="p18-129-130" n="129-130"/>
+      <div1 id="cover">
+        <figure n="cover.018.03.bqscan" rend="file" width="258" height="335">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 18<lb/>
+            NUMBER 3<lb/>
+            WINTER 1984-85</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-18-3-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.bennett">A Newly Discovered Blake at the Huntington</ref> by
+Shelley M. Bennett</cell>
+            <cell>132</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULARS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.warner">Visual Analogues to Blake’s “The Dog”</ref> by
+Nicholas O. Warner</cell>
+            <cell>140</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.fox">R.D. Stock, <hi rend="i">The Holy and the Daemonic from
+Sir Thomas Browne to William Blake</hi></ref>, reviewed by Christopher Fox</cell>
+            <cell>144</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.reiman">James King and Charles Ryskamp, eds., 
+<hi rend="i">The Letters and Prose Writings of William Cowper</hi></ref>, reviewed by Donald H. Reiman</cell>
+            <cell>146</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.bogan">John Beer, <hi rend="i">William Blake</hi></ref>,
+reviewed by James Bogan</cell>
+            <cell>151</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.fischer">Jerome J. McGann, <hi rend="i">The Romantic
+Ideology: A Critical Investigation</hi></ref>, reviewed by Michael Fischer</cell>
+            <cell>152</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSION</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.grant">A Re-View of Some Problems in Understanding Blake’s
+<hi rend="i">Night Thoughts</hi></ref> by John E. Grant</cell>
+            <cell>155</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.mitchell">Reply to John Grant</ref> by W.J.T.
+Mitchell</cell>
+            <cell>181</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.paley">Further Thoughts on <hi rend="i">Night
+Thoughts</hi></ref> by Morton D. Paley</cell>
+            <cell>183</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="18.3.dorrbecker">Grant’s “Problems in Understanding”: Some
+Marginalia</ref> by D.W. Dörrbecker</cell>
+            <cell>185</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="18.3.records">Supplement to <hi rend="i">Blake Records</hi></ref>, 
+              <ref type="article" issue="18.3.frye">Frye on Film</ref>
+            </cell>
+            <cell>191</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-18-3-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">SHELLEY M. BENNETT</hi>, Associate Curator of British Art, Henry E. Huntington Library
+and Art Gallery, San Marino, California, publishes on various aspects of British art, particularly eighteenth
+century book illustration.</p>
+        <p><hi rend="b">JAMES BOGAN</hi> is an Associate Professor of Art &amp; Film at the University of
+Missouri-Rolla. With Les Blank he has recently co-edited <hi rend="i">Burden of Dreams</hi> (North Atlantic
+Books), a casebook on the film which features Werner Herzog and the Amazon River.</p>
+        <p><hi rend="b">D.W. DÖRRBECKER</hi>, who teaches art history at the University of Trier in West
+Germany, is presently conducting a course on the etchings of Rembrandt. He feels that—by way of
+contrast—even this can be helpful for one’s attempt to understand the peculiarities of Blake’s graphic
+style.</p>
+        <p><hi rend="b">MICHAEL FISCHER</hi> is an Associate Professor of English at the University of New
+Mexico. He is the author of <hi rend="i">Does Deconstruction Make Any Difference?</hi> (Indiana University
+Press) and co-editor (with Morris Eaves) of <hi rend="i">Romanticism and Contemporary Criticism</hi>
+(forthcoming, Cornell University Press).</p>
+        <p><hi rend="b">CHRISTOPHER FOX</hi> teaches English at Wilkes College, edited <hi rend="i">Psychology
+and Literature in the 18th Century</hi> (AMS Press, forthcoming), and authored “Locke and the Scriblerians:
+The Discussion of Identity in Early Eighteenth-Century England,” which placed third and received an
+honorable mention for the James L. Clifford Prize (1982-83).</p>
+        <p><hi rend="b">JOHN E. GRANT</hi>, Professor of English at the University of Iowa, is co-editor of
+the Norton Critical Edition <hi rend="i">Blake’s Poetry and Designs</hi> and author of numerous articles on
+Blake’s work.</p>
+        <p><hi rend="b">W.J.T. MITCHELL</hi> is the author of <hi rend="i">Blake’s Composite Art</hi> and
+has edited several volumes of essays, including <hi rend="i">The Language of Images</hi> and <hi rend="i">The
+Politics of Interpretation.</hi> He is the editor of <hi rend="i">Critical Inquiry</hi> and Professor of
+English and Art and Design at the University of Chicago. His new book, <hi rend="i">Iconology: Image, Text,
+Ideology</hi>, will be published later this year.</p>
+        <p><hi rend="b">MORTON D. PALEY’s</hi> latest book is <hi rend="i">The Continuing City: William
+Blake’s</hi> Jerusalem, published by Oxford University Press. He is now completing a study of the
+Apocalyptic Sublime in British art.</p>
+        <pb id="p18-131" n="131"/>
+        <p><hi rend="b">DONALD H. REIMAN</hi>, Editor of <hi rend="i">Shelley and his Circle</hi> (Harvard
+Univ. Press) and General Editor of <hi rend="i">The Bodleian Shelley Manuscripts</hi> (Garland), is currently
+preparing the annual review of scholarship on the literature of the nineteenth century for 
+<hi rend="i">Studies in English Literature.</hi></p>
+        <p><hi rend="b">NICHOLAS O. WARNER</hi>, Assistant Professor of Literature at Claremont McKenna
+College, has published articles in <hi rend="i">The Colby Library Quarterly</hi> and <hi rend="i">The
+Explicator</hi>, as well as this and other scholarly journals.</p>
+      </div1>
+      <div1 id="BQ-18-3-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of New Mexico, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State University.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque, NM 87131, <hi rend="b">Telephone</hi> 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+United Kingdom.</p>
+      </div1>
+      <div1 id="BQ-18-3-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Robin Tawney.</p>
+        <p><hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Chapel Petty Schmitt, University of New
+Mexico.</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $ 18 for institutions, $ 15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $ 3 per volume postal surcharge for surface mail, a $ 10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Robin Tawney, 
+<hi rend="i">Blake</hi>, Department of English, University of New Mexico, Albuquerque, NM 87131, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Robin Tawney for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is indexed in the Modern Language Associations International Bibliography, the
+Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, ART bibliographies MODERN, American
+Humanities Index, and the Arts and Humanities Citation Index. <note type="unreferenced" place="footer">© 1984
+Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

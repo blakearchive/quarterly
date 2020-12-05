@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.4.corrections</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="correction">Corrections to Fall Issue and to “‘In the Darkness of
+Philisthea’”</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1999</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.4</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <title/>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Patrick Noon</name>
+              <name>Ian Singer</name>
+              <name>Warren Stevenson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <div1 id="BQ-32-4-0008">
+      	<pb id="p32-150" n="150"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">Corrections</hi>
+            </title>
+          </head>
+          <p>The fall issue of <hi rend="i">Blake</hi> listed a review written by Jennifer Davis Michael of
+<hi rend="i">Blake’s Altering Aesthetic</hi> by William Richey. The review actually appeared in the winter
+issue of <hi rend="i">Blake.</hi></p>
+          <p>In the winter issue of <hi rend="i">Blake</hi>, the caption for illus. 5 of Eugenie Freed’s
+“‘In the Darkness of Philisthea’: The Design of Plate 78 of <hi rend="i">Jerusalem</hi>” should have
+included the following information: Illustration from Hans von Gerssdorff, Feldtbůch der Wundartzney:
+Strassburg: Joannẽ Schott, 1517; Tractat iii. Reproduced from the facsimile of the 1517 edition produced for
+Editions Medicina Rara Ltd. under the supervision of Agathon Presse, Baiersbronn, West Germany, 1970.
+Photograph courtesy of the Centre for Reformation and Renaissance Studies, E.J. Pratt Library; Victoria
+University, Toronto.</p>
+          <p>On page 70, please note a few corrections to the quotations in German. In the quotation of the
+first couplet, na should be nã, güt should be gůt, and rut should be růt. In the second couplet, und
+should be uñ, blonen should be blonẽ, and lyde should be lydt. On page 67, note 21, blonen should again be
+blonẽ.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

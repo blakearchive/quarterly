@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>6.3.duerksen</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">A Crucial Line in Visions of the Daughters of Albion</title>
+        <author n="Duerksen">Roland A. Duerksen</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1972-73</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1972-73</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">06.3</biblScope>
+            <biblScope unit="volume">6</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Executive Editor</resp>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Morris Eaves</name>
+              <resp>Associate Editor</resp>
+              <name>Michael Phillips</name>
+              <resp>Editorial Assistants for Production</resp>
+              <name>Michael Davies</name>
+              <name>Judith Wallick Page</name>
+              <resp>Editorial Assistant for Subscriptions</resp>
+              <name>Graham Conley</name>
+              <resp>Bibliographer</resp>
+              <name>Foster Foreman</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1972-73"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_06">
+    <body>
+      <div1 id="BQ-06-3-0004">
+      	<pb id="p06-72" n="72"/>
+          <head>
+            <title type="main">A CRUCIAL LINE IN <hi rend="i">VISIONS OF THE DAUGHTERS OF ALBION</hi></title>
+          </head>
+          <byline>
+            <docAuthor>Roland A. <name>Duerksen</name></docAuthor>
+          </byline>
+          <p>Perhaps the most elusive while also the most significant line in <hi rend="i">Visions of the
+Daughters of Albion</hi> is plate 2, line 5: “Bound back to back in Bromion’s caves, terror and meekness
+dwell.” Blake’s full-plate illustration for this and the succeeding two lines depicts two human figures
+chained back to back in a cave. They are a rugged male with fear-distorted face and an utterly dejected
+female. Nearby, at the cave’s entrance, another male figure (clearly identified in the text as Theotormon)
+abjectly sits, hiding his face in his folded arms. The generally-accepted interpretation is that the bound
+figures are Bromion and Oothoon.<supplied type="spacer"> </supplied><ref target="n35" type="note">1</ref>
+Neither the characterizations of these two nor the narrative progression of the poem, however, seems to
+support this reading. <note id="n35"><hi rend="s">1</hi> See Mark Schorer, <hi rend="i">William Blake: The
+Politics of Vision</hi> (New York: Henry Holt, 1946), p. 249; Stanley Gardner, <hi rend="i">Infinity on the
+Anvil: A Critical Study of Blake’s Poetry</hi> (Oxford: Basil Blackwell, 1954), p. 51; Harold Bloom, 
+<hi rend="i">Blake’s Apocalypse: A Study in Poetic Argument</hi> (Garden City: Doubleday, 1963), p. 112; Foster
+Damon, <hi rend="i">A Blake Dictionary: The Ideas and Symbols of William Blake</hi> (Providence, R. I.: Brown
+Univ. Press, 1965), pp. 308, 437; and David V. Erdman, <hi rend="i">Blake: Prophet Against Empire</hi>, rev.
+ed. (Garden City: Doubleday, 1969), p. 236.</note></p>
+          <p>An alternate and, in my opinion, more plausible interpretation is that the two bound figures are,
+indeed, terror and meekness. Thus juxtaposed, masculinity terrified and femininity meekly submissive
+constitute the very principle upon which Bromion maintains his position as slave-holder. Throughout the poem
+Bromion is tyrannical and blatantly assertive. Quite the contrary of a prisoner subdued and shackled in his
+own habitat, he has exercised his power to bind terror and meekness together, thus subjecting them totally to
+his will and purposes.</p>
+          <p>As indicated by plate 2, line 22, and the illuminated portion of plate 4 (where the chain about
+her ankle appears loosened), Oothoon is free to hover about the hopeless, weeping, deafened Theotormon at the
+entrance to the cave, presenting the case for liberation as persuasively as she can. In the light of this
+liberated activity on her part, the explanation that Oothoon is bound meekly back to back with Bromion appears
+incongruous with regard to both characterization and narrative continuity. The binding of terror and meekness
+in Bromion’s caves becomes, then, symbolically the oppression of mind and spirit from which Oothoon seeks to
+liberate the enslaved daughters of Albion—and from which Blake seeks to liberate us. 
+<note type="unreferenced" place="footer"><hi rend="i">Roland A. Duerksen, Professor of English at Miami University
+(Oxford, Ohio), has published articles on British and American Romantic writers—including several on Blake.
+His books include</hi> Shelleyan Ideas in Victorian Literature <hi rend="i">(Mouton, 1966) and editions of
+various works by Shelley.</hi></note></p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

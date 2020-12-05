@@ -1,0 +1,2944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.2.fitch</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake Set to Music: Supplement 2001</title>
+        <author n="Fitch">Donald Fitch</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.2</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Donald Fitch</name>
+              <name>Andrew M. Stauffer</name>
+              <name>Mei-Ying Sung</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <body>
+      <div1 id="BQ-35-2-0006">
+        <pb id="p35-40" n="40"/>
+        <div2>
+          <head>
+            <title type="main"><hi rend="i">Blake Set to Music</hi>: Supplement 2001</title>
+          </head>
+          <byline>By <docAuthor>Donald <name>Fitch</name></docAuthor></byline>
+          <p>This supplement—to my <hi rend="i">Blake Set to Music: A Bibliography of Musical Settings of
+the Poems and Prose of William Blake</hi> (Berkeley: U of California P, 1990)—is an attempt to locate and
+describe the Blake-inspired music that has come to light in the past ten years. The proliferation of online
+catalogs in the music information centers of many countries has encouraged composers to publicize their work
+by contributing information about it. For this reason we have citations for many earlier works, sometimes
+dating back several decades, as well as for works created within the last ten years since <hi rend="i">Blake
+Set to Music</hi> was published. Not everything is covered in this way; as one of the directors commented,
+“we are dependent upon what the composers submit to us,” but the search for new material has been very
+rewarding. Blake continues to inspire composers. More than 300 entries make up this report, ranging from the
+mammoth creations of Julia Usher and Kristian Hornsleth to the individual settings of any number of others. In
+this past decade earlier manuscript editions have been printed, or works like Morfydd Owen’s centenary
+editions have been reissued, and these have been duly noted. All the familiar Blake texts still attract; 
+<hi rend="i">The Marriage of Heaven and Hell</hi> was notably popular with at least seven composers in this last
+decade.</p>
+          <p>I am grateful for the opportunity to call attention to a number of Blake settings overlooked by
+my book but included in Gooch and Thatcher’s <hi rend="i">Musical Settings of British Romantic
+Literature.</hi> For most of these I have been able to provide additional details, both descriptive and
+biographical, and, in consulting with the composers and their publishers, have turned up further Blake
+settings. There remain a very few composers from this source, marked with an asterisk, that I have not been
+able to verify in any way.</p>
+          <p>I want to acknowledge here the friendliness and repeated help of staff in the national music
+information centers, especially Anthea Parker (Australia), Jonathan Grimes (Canada), Marianne Horn (Denmark),
+Anni Heino (Finland), Els van Swol (Netherlands), Scilla Askew and Philip Collins (NZ), Alasdair Pettinger
+(Scotland), Peter Bitterli (Switzerland), Imogen Mitchell (UK), and Lyn Liston (AMC:USA). Publishers’
+representatives like David Wordsworth (Schott Music), Hannah Clark (Boosey &amp; Hawkes), David McCleery
+(Chester Music), and Julian Knight (Oxford) were always helpful, and certainly many composers willingly
+responded to my importuning letters with encouragement and information. To all these I am most grateful.
+Finally, Eunice Schroeder, music librarian at UC Santa Barbara, was particularly helpful with the albums of
+several rock artists whose music has taken Blake interpretation off in new directions.</p>
+          <p>The last item in each entry is the initial source (S: —) of information; in most cases other
+details have been added from other and unnamed sources. As much as possible I have attempted to give enough
+information to make the list useful to both musicians and Blake scholars.</p>
+          <table rows="41" cols="2">
+            <head>List of Sources:</head>
+            <row>
+              <cell>AMC</cell>
+              <cell>American Music Center (NY)</cell>
+            </row>
+            <row>
+              <cell>ASCAP</cell>
+              <cell>American Society of Composers, Authors, and Publishers, <hi rend="i">Directory</hi>
+(various eds.)</cell>
+            </row>
+            <row>
+              <cell>AusMC</cell>
+              <cell>Australian Music Centre (Sydney)</cell>
+            </row>
+            <row>
+              <cell>Baker</cell>
+              <cell><hi rend="i">Baker’s Biographical Dictionary of Musicians</hi>, ed. <corr type="emend">Nicolas</corr> Slonimsky,
+8th ed. (Schirmer, 1991)</cell>
+            </row>
+            <row>
+              <cell>Baker 20</cell>
+              <cell><hi rend="i">Baker’s Biographical Dictionary of 20th Century Classical Musicians</hi>,
+ed. Laura Kuhn (Schirmer, 1997)</cell>
+            </row>
+            <row>
+              <cell>B&amp;H</cell>
+              <cell>Boosey &amp; Hawkes, music publishers</cell>
+            </row>
+            <row>
+              <cell>BCM</cell>
+              <cell>
+                <hi rend="i">British Catalogue of Music</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>BDNZC</cell>
+              <cell><hi rend="i">Biographical Dictionary of New Zealand Composers</hi> (Victoria UP,
+1990)</cell>
+            </row>
+            <row>
+              <cell>BMIC</cell>
+              <cell>British Music Information Centre (London)</cell>
+            </row>
+            <row>
+              <cell>Broadstock</cell>
+              <cell>Brenton Broadstock, <hi rend="i">Sound Ideas: Australian Composers born since 1950</hi>
+(AusMC, 1995)</cell>
+            </row>
+            <row>
+              <cell>Brown</cell>
+              <cell>J.D. Brown and S.S. Stratton, <hi rend="i">British Musical Biography</hi> (1897)</cell>
+            </row>
+            <row>
+              <cell>BSM</cell>
+              <cell><hi rend="i">Blake Set to Music</hi> (U of California P, 1990)</cell>
+            </row>
+            <row>
+              <cell>Carman</cell>
+              <cell>Judith Carman, <hi rend="i">Art-Song in the U.S., 1801-1987</hi> (NATS, 1987)</cell>
+            </row>
+            <row>
+              <cell>CMC</cell>
+              <cell>Canadian Music Centre (Toronto)</cell>
+            </row>
+            <row>
+              <cell>CPM</cell>
+              <cell>British Library, <hi rend="i">Catalogue of Printed Music</hi> (Saur, 1981-1987)</cell>
+            </row>
+            <row>
+              <cell>DeVenney</cell>
+              <cell>David DeVenney, <hi rend="i">American Choral Music since 1926</hi> (Fallen Leaf Press,
+1993)</cell>
+            </row>
+            <row>
+              <cell>DMIC</cell>
+              <cell>Danish Music Information Center (Copenhagen)</cell>
+            </row>
+            <row>
+              <cell>Donemus</cell>
+              <cell>Dutch Music Information Center (Amsterdam)</cell>
+            </row>
+            <row>
+              <cell>FMIC</cell>
+              <cell>Finnish Music Information Center (Helsinki)</cell>
+            </row>
+            <row>
+              <cell>GEB</cell>
+              <cell>G.E. Bentley, Jr. (Blake scholar)</cell>
+            </row>
+            <row>
+              <cell>G&amp;T</cell>
+              <cell>B.N.S. Gooch and D.S. Thatcher, <hi rend="i">Musical Settings of British Romantic
+Literature</hi> (New York: Garland, 1982)</cell>
+            </row>
+            <row>
+              <cell>Grove</cell>
+              <cell><hi rend="i">Grove’s Dictionary of Music and Musicians</hi>, 5th ed. (St. Martin’s
+Press, 1960)</cell>
+            </row>
+            <row>
+              <cell>IEWC</cell>
+              <cell><hi rend="i">International Encyclopedia of Women Composers</hi>, ed. Aaron Cohen
+(1987)</cell>
+            </row>
+            <row>
+              <cell>IMIC</cell>
+              <cell>Irish Music Information Centre (Dublin)</cell>
+            </row>
+            <row>
+              <cell>(I)WWM</cell>
+              <cell><hi rend="i">(International) Who’s Who of Music</hi> (annual)</cell>
+            </row>
+            <row>
+              <cell>Larkin</cell>
+              <cell><hi rend="i">Encyclopedia of Popular Music</hi>, ed. Colin Larkin, 3rd ed. (1998)</cell>
+            </row>
+            <row>
+              <cell>Maroney</cell>
+              <cell>J. Maroney, <hi rend="i">Music for Voice and Classical Guitar</hi> (McFarland,
+1997)</cell>
+            </row>
+            <row>
+              <cell>MHH</cell>
+              <cell>
+                <hi rend="i">The Marriage of Heaven and Hell</hi>
+              </cell>
+            </row>
+          </table>
+              <pb id="p35-41" n="41"/>
+          <table>
+            <row>
+              <cell>New Grove</cell>
+              <cell><hi rend="i">New Grove Dictionary of Music and Musicians</hi> (Macmillan, 1980)</cell>
+            </row>
+            <row>
+              <cell>NGDAM</cell>
+              <cell><hi rend="i">New Grove Dictionary of American Music</hi> (Macmillan, 1986)</cell>
+            </row>
+            <row>
+              <cell>NGDWC</cell>
+              <cell><hi rend="i">New Grove Dictionary of Women Composers</hi> (Macmillan, 1994)</cell>
+            </row>
+            <row>
+              <cell>NYWC</cell>
+              <cell>New York Women Composers, <hi rend="i">Catalog of Concert Music</hi> (1994)</cell>
+            </row>
+            <row>
+              <cell>OCLC</cell>
+              <cell>Online Computer Library Center</cell>
+            </row>
+            <row>
+              <cell>OUP</cell>
+              <cell>Oxford University Press</cell>
+            </row>
+            <row>
+              <cell>Poulton</cell>
+              <cell>Alan Poulton, <hi rend="i">A Dictionary-Catalog of Modern British Composers</hi>
+(Greenwood Press, 2000)</cell>
+            </row>
+            <row>
+              <cell>RCM</cell>
+              <cell>Royal College of Music (London)</cell>
+            </row>
+            <row>
+              <cell>RLIN</cell>
+              <cell>Research Libraries Information Network</cell>
+            </row>
+            <row>
+              <cell>SI/SE</cell>
+              <cell>
+                <hi rend="i">Songs of Innocence/Songs of Experience</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>SME</cell>
+              <cell>Swiss Music Edition (Lucerne)</cell>
+            </row>
+            <row>
+              <cell>SMIC</cell>
+              <cell>Scottish Music Information Centre (Glasgow)</cell>
+            </row>
+            <row>
+              <cell>SOUNZ</cell>
+              <cell>New Zealand Music Information Centre (Wellington)</cell>
+            </row>
+          </table>
+          <table rows="15" cols="2">
+            <head>List of Abbrevations:</head>
+            <row>
+              <cell>ca.</cell>
+              <cell>circa, approximately</cell>
+            </row>
+            <row>
+              <cell>CO</cell>
+              <cell>Chamber Orchestra</cell>
+            </row>
+            <row>
+              <cell>comm.</cell>
+              <cell>commissioned</cell>
+            </row>
+            <row>
+              <cell>cond.</cell>
+              <cell>conductor, conducting</cell>
+            </row>
+            <row>
+              <cell>dir.</cell>
+              <cell>director, directing</cell>
+            </row>
+            <row>
+              <cell>dur.</cell>
+              <cell>duration</cell>
+            </row>
+            <row>
+              <cell>incl.</cell>
+              <cell>including</cell>
+            </row>
+            <row>
+              <cell>ms.</cell>
+              <cell>manuscript, unpublished</cell>
+            </row>
+            <row>
+              <cell>n.d.</cell>
+              <cell>no date stated</cell>
+            </row>
+            <row>
+              <cell>n.p.</cell>
+              <cell>no place stated</cell>
+            </row>
+            <row>
+              <cell>pc</cell>
+              <cell>personal correspondence</cell>
+            </row>
+            <row>
+              <cell>PO</cell>
+              <cell>Philharmonic Orchestra</cell>
+            </row>
+            <row>
+              <cell>pub.</cell>
+              <cell>publisher</cell>
+            </row>
+            <row>
+              <cell>S</cell>
+              <cell>Source</cell>
+            </row>
+            <row>
+              <cell>SATB</cell>
+              <cell>Soprano, Alto, Tenor, Bass</cell>
+            </row>
+          </table>
+          <div3>
+            <head>
+              <title>ALLEN, David Len.; USA</title>
+            </head>
+            <p><hi rend="i">Little Lamb</hi>; for SATB chorus and piano. Orem, UT, Jackman Music, c1987. 8 p.
+Dur. 3′15″. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ALWYN, William, 1905-1985.; UK</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; twelve songs for voice and piano. Ms., composed 1930-31,
+1932. Contents: 1. Piping Down the Valley. 2. The Blossom. 3. The Little Lamb. 4. Spring. 5. The Echoing
+Green. 6. Nurse’s Song. 7. The Divine Image (voice and string quartet). 8. The Little Black Boy (1932). 9.
+Infant Joy. 10. Laughing Song. 11. The Little Boy Lost. 12. The Little Boy Found. See also BSM 8-9. S:
+Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(ALWYN)</title>
+            </head>
+            <p><hi rend="i">Tyger, Tyger</hi>; film for BBC-TV, released 1969. Written and directed by
+Christopher Burstall; musical score by William Alwyn. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ANDERSON, Jean Mary, 1939-; CANADA</title>
+            </head>
+            <p><hi rend="i">Two Songs</hi>; for alto and organ. Ms., composed 1997. 13 and 9 p. Dur. 7′.
+Contents: 1. Peace (Vaughan). 2. Reeds of Innocence (Blake). Available from CMC. See also BSM 10. Biog: NGDWC.
+S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ANDERSON, Matthew S., 1965-; USA</title>
+            </head>
+            <p><hi rend="i">Love and Harmony Combine</hi>; song for alto voice and piano. Ms., composed 19—.
+S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ANONYMOUS.</title>
+            </head>
+            <p><hi rend="i">Can I See Another’s Woe</hi>; hymn with four-part harmony. Melody based on Veni,
+creator gentium (Erfurt, 1524); harmonized by Seth Calvisius (1556-1615). In: Singing the Living Tradition
+(Boston, Beacon Press, for The Unitarian Universalist Assn., c1993) no. 127. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ANONYMOUS.; NORWAY</title>
+            </head>
+            <p><hi rend="i">To See the World (in a grain of sand)</hi>; hymn with four-part harmony, arr.
+Edvard Grieg. In: Singing the Living Tradition (Boston, Beacon Press, for the Unitarian Universalist Assn.,
+c1993) no. 398. Melody ca. 1600. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ARKWRIGHT, Marian Ursula, 1863-1922.; UK</title>
+            </head>
+            <p><hi rend="i">Second Album of Songs for Children.</hi> London, Alphonse Cary, ca. 1895. Contains
+nine Blake titles, incl. Laughing Song and Spring. Biog: NGDWC. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ARNELL, Richard Anthony, 1917-; UK</title>
+            </head>
+            <p><hi rend="i">Con Amore</hi>, op. 160; song cycle for soprano, mezzo, SA choir, and piano. Ms.,
+composed 1990. 1st perf. Cantamus, p. Cook, dir. No. 3 of the set is a Blake setting: Never Seek to Tell thy
+Love (6 p.). Biog: IWWM. See also BSM 26. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 31: ARNOLD, Malcolm, Sir, 1921-; UK</title>
+            </head>
+            <p><hi rend="i">Five William Blake Songs</hi> (1966). Now reprinted with piano reduction (London,
+Studio Music, 1990). S: BCM 1992.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(ARNOLD)</title>
+            </head>
+            <p><hi rend="i">Serenade for Tenor and String Quartet</hi>, op. 134. London, Novello, 1989.
+Composed 1988. Dur. of set: 9′. 5 nos., incl. no. 2: Then tell me, what is the material world (Blake). 1st
+perf. Norwich, 11 Apr. 1989, by Robert Tear (dedicatee) with London Sinfonia, Richard Hickox cond. See also
+BSM 31. S: Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>AYRES, Frederick, 1876-1926.; USA</title>
+            </head>
+            <p><hi rend="i">To the Evening Star</hi>; song. Ms., n.d. Biog: ASCAP. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BARLOW, David Frederick, 1927-1975.; UK</title>
+            </head>
+            <p><hi rend="i">Two Unaccompanied Songs</hi>; for solo voice. Ms., n.d. Contents:
+<pb id="p35-42" n="42"/>
+1. Lotus Eaters (Tennyson). 2. Laughing Song (Blake). S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BARNES, Edward Shippen, 1887-1958.; USA</title>
+            </head>
+            <p><hi rend="i">Christmas Nocturne.</hi> New York, H.W. Gray, 1937. “Text by Blake.” Biog:
+Baker. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BARRELL, Bernard, 1919-; UK</title>
+            </head>
+            <p><hi rend="i">Five Hymn Tunes</hi>, op. 71; for SATB voices. Ely, Cambs., Oecumuse, 1984. 6 p.
+Composed 1973. Dedicated to Dr. Martin Shaw and Mrs. Joan Shaw. Texts by Watts, Herbert (2), Chas. Wesley, and
+Blake (To Mercy, Pity, Peace, and Love). S: BMIC; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BAXTER, Garth, 1946-; USA</title>
+            </head>
+            <p><hi rend="i">A Cradle Song</hi>; for soprano voice and guitar. Ms., c1988. 4 p. 1st line: Sweet
+dreams form a shade. 1st perf. Mar. 1993. Available from composer (Westminster, MD). Now (1999) part of a
+group called: Two Songs of Reflection. S: Maroney; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BAYFORD, Frank, 1941-; UK</title>
+            </head>
+            <p><hi rend="i">In Terra Pax</hi>, op. 47; for soprano voice, clarinet, and piano. Enfield,
+Middlesex, Modus Music, 1985. 18 p. Dur. 11′. Dedicated to and 1st perf. by Microcosmus, 14 Oct. 1986. In
+eight movements; No. 1: Prelude, sets Auguries of Innocence (four lines beginning: To see a world in a grain
+of sand); others set traditional children’s rhymes. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BECK, Jeremy, 1960-; USA</title>
+            </head>
+            <p><hi rend="i">Four Songs by Blake</hi>; for soprano voice and bass clarinet. Ms., composed 1987.
+11 p. Dur. 6′. There is also a version for soprano and cello (1989). Contents: 1. Song (How sweet I
+roam’d). 2. Never Seek to Tell thy Love. 3. The Little Boy Found. 4. The Laughing Song. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(BECK)</title>
+            </head>
+            <p><hi rend="i">Four Songs for Baritone</hi>; for baritone voice and piano. Ms., composed 1986.
+Dur. 6′. Only no. 1 is Blake: The Garden of Love. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(BECK)</title>
+            </head>
+            <p><hi rend="i">London</hi>; for SATB chorus. Ms., c1980. Dur. 2′20″. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BEDFORD, David, 1937-; UK</title>
+            </head>
+            <p><hi rend="i">An Island in the Moon</hi>; for SATB (soloists or small choir) a cappella. London,
+Universal Edition, 1988. 13 p. Dur. 8′. Pub. no. UE 18432L. Reproduced from ms. Comm. by Elms Concerts for
+Singcircle, Gregory Rose cond., and 1st perf. by them, 1 Jan 1986, Almeida, London. Biog: Baker 20. See also
+BSM 90-92. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>[BEETHOVEN, Ludwig van, 1770-1827]</title>
+            </head>
+            <p><hi rend="i">When the Green Woods Laugh.</hi> In: The Wonderful Year (London, Paterson’s
+Pbns, 1949). Arr. by J. Michael Diack, from Beethoven’s Piano Trio, op. 1, no. 2 (1795). Blake text:
+Laughing Song. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BERKELEY, Michael, 1948-; UK</title>
+            </head>
+            <p><hi rend="i">The Wild Winds</hi>; for soprano and chamber orchestra or string quartet. London,
+OUP, 1978. 44 p. Dur. 12′. Blake text: Mad Song. 1st perf. 19 Dec. 1979, by Jane Manning, Little Venice CO,
+London, Richard Stamp cond. Biog: Baker 20. See also BSM 101. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BEVAN, Temple, fl. 1915-1954.; UK</title>
+            </head>
+            <p><hi rend="i">In Playtime.</hi> London, Paterson’s Pbns, ca. 1936. Incl. one Blake title: When
+the Green Woods Laugh (Laughing Song). S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BIBERIAN, Gilbert E., 1944-; UK</title>
+            </head>
+            <p><hi rend="i">The Sick Rose</hi>; for high voice and guitar. Ms., c1967. Dur. 30″. Atonal
+setting, available from composer (Cheltenham, Eng.). S: Maroney.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BIELAWA, Lisa.; USA</title>
+            </head>
+            <p><hi rend="i">From The Marriage of Heaven and Hell</hi>; for SSAATBB chorus and two percussion
+players. Ms., c1996. Dur. ca. 11′30″. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BIRTWHISTLE, Harrison, Sir, 1934-; UK</title>
+            </head>
+            <p><hi rend="i">Grimethorpe Aria</hi>; for brass band. London, Universal Edition, 1973. Dur.
+14′. Score pref. with lines from Jerusalem: Let the Indefinite be explored, and let every Man be Judged by
+his own Works. Comm. and 1st perf. by Grimethorpe Colliery Band, 15 Aug. 1973. Recorded 1976 (Decca HEAD 14).
+Biog: IWWM; also Michael Hall, <hi rend="i">HB</hi> (1984). S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(BIRTWHISTLE)</title>
+            </head>
+            <p><hi rend="i">Salford Toccata</hi>; for brass band and bass drum. London, Universal Edition,
+1989. Dur. 16′. Comm. by K. Wilson; 1st perf. 12 Apr. 1989, Salford Colliery Brass Band, Elgar Howarth cond.
+Blake motto: Here mountains of brass promise much riches in their dreadful bosoms. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BITGOOD, Roberta, 1908-; USA</title>
+            </head>
+            <p><hi rend="i">Ye Works of the Lord</hi>; for mixed chorus and organ. Ms., composed 1993. Texts
+from the Bible and Wm. Blake. “Commissioned . . . for a jubilee celebration in her honor in New London,
+CT”—<hi rend="i">Amer. Organist</hi>, 23/3(1993): 10. Biog: NGDWC. Noted American organist and choral
+director.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BLAKE, Howard, 1938-; UK</title>
+            </head>
+            <p><hi rend="i">All God’s Creatures</hi>; song-cycle for children’s voices and orchestra or
+piano. London, Faber Music, 1994. Dur. 24′. Comm. and 1st perf. 22 Mar. 1995, by the Guildford PO, composer
+cond. Texts by eight authors incl. three by Blake: 1. Prologue: A Robin Red Breast in a Cage. 2. The Tiger. 3.
+The Lamb. Biog: IWWM. S: pub.</p>
+          </div3>
+          <pb id="p35-43" n="43"/>
+          <div3>
+            <head>
+              <title>BLYTON, Carey, 1932-; UK</title>
+            </head>
+            <p><hi rend="i">Lachrymae—In Memoriam John Dowland</hi>, op. 23; five songs for high voice and
+acc. Three versions exist: 1958, for high voice and string quartet; 1960, for voice and piano (dur. 10′);
+1967, for high voice and string orch., with prelude, interludes, and postlude (dur. 15′). Contents: five
+texts, no. 4 by Blake: O Rose, thou art sick (composed 1956). Biog: IWWM. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BOWER, Neville.; UK</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for mezzo or baritone and piano. Ms., composed 1995.
+Contents: 1. The Lamb. 2. Nurse’s Song. 3. Infant Joy. 4. A Cradle Song. 5. Spring. 6. The Divine Image. S:
+BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BRACKETT, Geoff (Geoffrey L.).; USA</title>
+            </head>
+            <p><hi rend="i">The Songs of Mr. William Blake</hi> (Cassette album). Storm Records (UK), 1988.
+Dur. 58′30″. Folk/progressive rock music. Instrumentation: guitars, bass, keyboards, drums, violin,
+male/female vocals. Contents: (side 1) Introduction (SI). Infant Sorrow. Infant Joy. The Lamb. The Tyger.
+Spring. Holy Thursday (SE). London. (side 2) The Chimney Sweep (SI). The Chimney Sweep (SE). On Another’s
+Sorrow. The Fly. My Pretty Rose Tree. Ah, Sunflower. The Lilly. The Ecchoing Green. Biog: Prof. English, Pace
+U (NY). S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BRAGG, Billy (Steven William), 1957-; UK</title>
+            </head>
+            <p><hi rend="i">Internationale</hi> (CD album). Elektra Entertainment, 1990. Publ. no. 60960.
+Incl. a setting of Blake’s Jerusalem (And did those feet). Another album, William Bloke (Cooking Vinyl,
+1996), despite its title, does not seem to have any Blake tracks. Biog: Larkin. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BRAEM, Thuering L. M., 1944-; SWITZERLAND</title>
+            </head>
+            <p><hi rend="i">A Cradle Song</hi>; for mixed chorus (24 voices). Ms., composed 1996. Dur. 9′,
+Available from SME, Lucerne. Dedicated to the BBC Singers, London. The presentation is a form of
+musical-choral speech. Biog: IWWM; Swiss conductor and composer. S: SME.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BROMEHEAD, Jerome de, 1945-; IRELAND</title>
+            </head>
+            <p><hi rend="i">Joy</hi>; for soprano and baritone soli and SATB chorus. Ms., composed 1982. Dur.
+6′. Texts by Browning, Monsell, Tolstoy, Wordsworth, Swinburne, and Blake (I have no name . . .). S:
+IMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BROWN, Christopher Roland, 1943-; UK</title>
+            </head>
+            <p><hi rend="i">The Vision of Saul</hi>, op. 59; for SATB soli, SATB chorus, and orch. London,
+Chester Music, 1993. 32 p. Dur. 20′. Texts from the Bible, Blake (Go, therefore, cast out devils in
+Christ’s name . . .), Crashaw, and Donne. Biog: IWWM. See also BSM 192-95. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BROWN, Francis James, 1925-; USA/UK</title>
+            </head>
+            <p><hi rend="i">Nine Songs of Innocence, Experience and Prophecy</hi>; for voice and piano. Ms.,
+composed 1987. 25 p. Contents: 1. Infant Joy. 2. Prophecy, from Jerusalem. 3. A Cradle Song (Sweet dreams form
+a shade). 4. Prophecy, from Milton (The nature of infinity is this). 5. The Tiger. 6. Prophecy, from Europe
+(Shadows of men in fleeing bands). 7. The Human Abstract. 8. Prophecy, from America (Let the slave grinding at
+the mill). 9. Infant Joy (reprise). S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BROZEN, Michael, 1934-1988.; USA</title>
+            </head>
+            <p><hi rend="i">Three Songs to Poems of William Blake</hi>; for medium voice and piano. Ms.,
+c1989. Composed 1952. Contents: 1. Ah! Sun-flower. 2. The Sick Rose. 3. The Lilly. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BRUUN, Peter, 1968-; DENMARK</title>
+            </head>
+            <p><hi rend="i">Flowers of Innocence and Experience</hi>; for bass voice, clarinet, viola, cello,
+and piano. Ms., composed 1992. Dur. 16′. 1st perf. 6 Dec. 1992. Blake texts: 1. The Blossom (6’). 2. The
+Sick Rose (4’). 3. The Sunflower (6’). S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>[BUCHANAN, Dorothy Quita, 1945-; NZ</title>
+            </head>
+            <p><hi rend="i">The Ancient of Days</hi>; for voice and piano (1967). Not Blake: title and text
+are from G.K. Chesterton. Biog: BDNZC. S: SOUNZ.]</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BUCZYNSKI, Walter Joseph, 1933-; CANADA</title>
+            </head>
+            <p><hi rend="i">Cradle Song, vocalise and elegy</hi>; for baritone, violin, and piano. Ms.,
+composed 1983. 27 p. Dur. 20′. Available from CMC. See also BSM 204. Biog: Baker 20. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BULLARD, Alan, 1947-; UK</title>
+            </head>
+            <p><hi rend="i">Four Songs of William Blake</hi>; for SSA choir. Ms., composed 1970. Dur. 6′.
+Contents: 1. The Shepherd. 2. Infant Joy. 3. Echoing Green. 4. The Lamb. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BURGER, John.; USA</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for SATB chorus and piano. Ms., composed 1981. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BURGON, Geoffrey Alan, 1941-; UK</title>
+            </head>
+            <p><hi rend="i">The Sick Rose</hi>; for counter tenor and orchestra. Ms., n.d. From the song cycle
+Merciless Beauty, recorded by the City of London Sinfonia, James Bowman cond. Biog: Baker 20. Noted film
+composer. See also BSM 208. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BURTCH, Mervyn, 1929-; UK</title>
+            </head>
+            <p><hi rend="i">Two Blake Songs.</hi> Ms., composed 1968. Contents: 1. Piping Down the Valleys. 2.
+The Lamb. Biog: WWM (1969). See also BSM 210. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 219: BUTTERLEY, Nigel, 1935-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">Six Blake Songs</hi> (1956). Now publ. in a 2nd rev. ed., for mezzo or baritone
+and piano. Claremont, Western Australia, Hovea Music Press, 1997. 24 p. Dur. 13′. S: AusMC.</p>
+          </div3>
+          <pb id="p35-44" n="44"/>
+          <div3>
+            <head>
+              <title>CALTABIANO, Ronald, 1959-; USA</title>
+            </head>
+            <p><hi rend="i">Metaphor</hi>; for SATB chorus. Bryn Mawr, PA, Merion Music/Th. Presser, c1996.
+Composed 1993. Dur. 6′20″. 1st section (8 p.) is Blake: The Fly. See also BSM 227. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CARDEW, Cornelius, 1936-1981.; UK</title>
+            </head>
+            <p><hi rend="i">Voice from Thel’s Grave</hi>; for voice and piano. Ms., composed 1957. 1st line:
+Why cannot the Ear be closed to its own (Thel, pl. 6). An early work by the noted avant-garde composer. Biog:
+New Grove. See also BSM 231. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CHAPPLE, Brian, 1945-; UK</title>
+            </head>
+            <p><hi rend="i">Two Blake Settings</hi>; for SS choir and piano. London, OUP, 1995. 8 p. Dur. ca.
+4′. (Oxford Church Songs, T122). Contents: 1. The Shepherd. 2. Infant Joy. Comm. for Murray Stewart and the
+Finchley Children’s Music Group by the Lennox Children’s Cancer Fund, and 1st perf. 16 April 1994, at
+Blackheath Concert Halls. Biog: IWWM. See also BSM 246-47. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 248: CHATHAM, Stephen.; CANADA</title>
+            </head>
+            <p><hi rend="i">There Is Sweet Music Here.</hi> Now published: London, Ont., Canada, Jaymar, 1993.
+12 p. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CHENOWETH, Gerald C., 1943-; USA</title>
+            </head>
+            <p><hi rend="i">The Ghost of Abel.</hi> Ms., composed 1970. 1st perf. 15 Mar. 1971, U of
+Massachusetts. Biog: Prof. Music, Rutgers U. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(CHENOWETH)</title>
+            </head>
+            <p><hi rend="i">Scenes from Tiriel.</hi> Ms., composed 1979. Contains at least one Blake text: And
+aged Tiriel stood before the Gates of his beautiful palace. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CHILDS, Barney (Sanford), 1926-; USA</title>
+            </head>
+            <p><hi rend="i">Six Settings for Chorus.</hi> Ms., composed 1953. Incl. one Blake title: The Fly.
+Biog: IWWM. Prof. Music emeritus, U of Redlands. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CLARKE, F.R.C. (Frederick Robert Charles), 1931-; CANADA</title>
+            </head>
+            <p><hi rend="i">The Moth; The Tiger;</hi> two part-songs for SATB a cappella. Ms., c1988. Dur.
+2′ and 2′30″. Available from CMC Toronto. Contents: 1. The Moth (De la Mare). 2. The Tiger (Blake). S:
+CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*COLEGROVE, Suzanne M.</title>
+            </head>
+            <p><hi rend="i">Mad Song.</hi> Ms., composed 1961. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>COLES, Graham, 1948-; CANADA</title>
+            </head>
+            <p><hi rend="i">’Twas When the Hour of Evening Came</hi>; eight songs for soprano and piano, op.
+19. Ms., composed 1979. 52 p. Dur. ca. 26′. Available from CMC. No. 2 is The Voice of the Ancient Bard (Dur.
+2′15″); other texts by Landor, Coleridge, Byron, Beddoes, Keats, and Wordsworth. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CONSTANTINIDES, Dinos (Constantine Demetrios), 1929-; GREECE/USA</title>
+            </head>
+            <p><hi rend="i">Designs for Women’s Voices</hi>; for SSAA chorus and special sound effects. Ms.,
+composed 1975. 17 p. Dur. 4′. (Composers Library LRC 34). Blake text: The Lamb. Also incl. as no. 2 of Two
+Songs for Christmas; for mixed chorus and organ/piano (LRC 46, 1977). Biog: ASCAP. Prof. Music, LSU, Baton
+Rouge. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>COOKE, Arnold Atkinson, 1906-; UK</title>
+            </head>
+            <p><hi rend="i">Five Songs of William Blake</hi>; for baritone, recorder, and piano. London,
+Novello, 1987. Dur. 14′. Contents: 1. To Spring. 2. Spring. 3. To the Muses. 4. Night. 5. The Fly. 1st perf.
+Manchester Royal Exchange Theatre, 3 Mar. 1988, by John Powell (bar), John Turner (rec), and Peter Lawson
+(pf), for whom they were written. See also BSM 278. S: Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(COOKE)</title>
+            </head>
+            <p><hi rend="i">Song of Innocence</hi>; for soprano and recorder. Ms., composed 1990. 1st perf. 26
+Oct. 1996, Winslow Parish Hall, Cheshire, by Alison Wells (sop) and John Turner (rec), Tracy Chadwell Memorial
+Concert. S: Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>COONEY, Cheryl L., 1953-; CANADA</title>
+            </head>
+            <p><hi rend="i">Five English Songs</hi>; a song cycle for soprano and piano. Ms., composed 1980.
+23 p. Dur. 15′. Available from CMC. Three texts by Blake: 1. Song, from Poetical Sketches. 4. The Poison
+Tree. 5. On Another’s Sorrow. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>COPE, David Howell, 1941-; USA</title>
+            </head>
+            <p><hi rend="i">Tyger! Tyger!</hi>; for SSAA chorus. Ms., composed 1975-76. Dur. 9′. 1st perf.
+1976, Miami Choraleers (U of Miami, Ohio). Available from composer, UC Santa Cruz. Biog: NGDAM. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>COREN, Finn, 1961-; NORWAY</title>
+            </head>
+            <p><hi rend="i">The Blake Project</hi> (two-CD album). Oslo, Bard Records, 1997-98 (BCD 1-2). Dur.
+70′5″ and 33′38″. Composed 1983-96. Vocals by Coren with rock and string ensemble. Contents: (BCD-1)
+1. The Ecchoing Green. 2. The Garden of Love. 3. Spring. 4. The Fly. 5. The Tyger. 6. London. 7. The Chimney
+Sweeper. 8. The Voice of the Ancient Bard. 9. Holy Thursday I (SI). 10. Holy Thursday II (SE). 11. Silent
+Melancholy: Song. 12. The Divine Image. 13. The Little Boy Lost. 14. The Little Boy Found. 15. Infant Sorrow.
+16. Cradle Song. 17. A Dream. 18. To Tirzah. 19. Jerusalem. 20. The Sick Rose. (BCD-2) 1. Spring. 2. The
+Little Vagabond. 3. Nurse’s Song. 4. The Wild Flower’s Song. 5. A Poison Tree. 6. The Tyger (‘93
+version). 7. The Lamb. 8. Soft Snow. 9. The Angel. 10. The Fly (Norwegian folk version). 11. Song: How Sweet I
+Roam’d. 12. The Wild Flower’s Song II. Released with support from Fond for utøvende kunstnere and Norsk
+Kassettavgiftsfond.</p>
+            <p>The Smile (composed 1996) was released in 1999 as a CD single: vocal by Coren, strings by Baard
+Slagsvold (dur.
+<pb id="p35-45" n="45"/>
+<figure n="corencover" rend="file" width="280" height="280">
+	<figTranscr>Finn Coren the Blake Project spring</figTranscr>
+	<head>1. Finn Coren, <hi rend="i">The Blake Project</hi> (Bard Records).</head>
+	<figDesc>Booklet cover reproduced by kind permission of Finn Coren.</figDesc>
+</figure>
+4′18″); now incl. on the composer’s album <corr type="emend">Lovecloud</corr> (Bard Records, 1999. BCD-3). The Fly was released
+in three versions on a CD single with accompanying video. The Sick Rose was also issued separately with
+accompanying video. Biog: Norwegian rock artist. S: copies.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CORINA, John H., 1928-; USA</title>
+            </head>
+            <p><hi rend="i">From Songs of Innocence and Experience</hi>; song cycle for mezzo-soprano and
+woodwind quartet. Ms., composed 1976. Dur. 18′. 1st perf. MTNA, Atlanta, GA, 1977. Contents: 1. Introd.
+(SI). 2a. The Shepherd. 2b. The Lamb. 3a. The Blossom. 3b. The Sick Rose. 4a. Spring. 4b. The Fly. 5. The
+Chimney Sweeper. 6a. Infant Joy. 6b. Infant Sorrow. 7. The Lily. Nos. 1, 2b, 3b and 3a extracted from this
+cycle as Four Songs for Mezzo-Soprano and Woodwind Quintet or Piano (1980; dur. 8′). Available from
+composer. Biog: ASCAP. Prof. Music, U of Georgia. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*COULING, Judith A.</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence.</hi> Ms., composed 1954. Incl. Blake: Introd. (SI). S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CRAFTS, Daniel Steven.; USA</title>
+            </head>
+            <p><hi rend="i">Songs of Experience</hi>; for four voices and orchestra. Ms., composed 1982. Dur.
+ca. 2 hours. “A complete setting of the poetic cycle by William Blake. . . . The entire work is . . .
+written in cyclical form, one song often flowing into the next without pause”—DSC. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CROSSE, Gordon, 1937-; UK</title>
+            </head>
+            <p><hi rend="i">Celebration</hi>; for chorus. London, OUP, n.d. 1st perf. 16 Sep. 1974, in London.
+“Text by Blake.” See also BSM 303-04. Biog: Baker 20. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>CRUFT, Adrian Francis, 1921-1987.; UK</title>
+            </head>
+            <p><hi rend="i">Into God’s Kingdom</hi>, op. 80; for baritone and piano. London, Joad, 1977.
+Composed 1975. Various texts, incl. The Door of Death (Blake poem To the Queen, from the dedication to
+Blake’s illustrations for Blair’s Grave). Biog: New Grove. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*CURCHACK, Fred.; USA</title>
+            </head>
+            <p><hi rend="i">The Mental Traveller</hi>; theater piece. Ms., ca. 1979. 1st perf. 9 Feb. 1980,
+Theater of Man Performance Space, San Francisco. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*D’ANGELO, James, 1939-</title>
+            </head>
+            <p><hi rend="i">The Angel.</hi> Ms., composed 1964. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DAVIES, Victor Albert, 1939-; CANADA</title>
+            </head>
+            <p><hi rend="i">Seize the Fire</hi>; dance drama by Donald J. Unruh, created from texts by William
+Blake, with music by Victor Davies. Ms., created 1975-76. 1st perf. 1996 in Winnipeg by Cubiculo Theatre Lab.
+Biog: <hi rend="i">Encyc. of Music in Canada</hi> (c1992). S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DE CORMIER, Robert, 1922-; USA</title>
+            </head>
+            <p><hi rend="i">Little Lamb</hi>; for four-part chorus of mixed voices a cappella. New York,
+Lawson-Gould, c1969. 15 p. (Robert De Cormier choral series, 51426). Text by the composer, but incl. Blake’s
+The Lamb, adapted. Biog: ASCAP. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DE KENESSEY, Stefania M., 1961-; USA</title>
+            </head>
+            <p><hi rend="i">Two Songs from Blake</hi>, op. 20; for soprano voice and piano. Ms., composed
+1987. 20 p. Dur. 12′. Comm. and 1st perf. by Francesca Pannell. Contents: 1. Holy Thursday. 2. On
+Another’s Sorrow. S: NYWC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(DE KENESSEY)</title>
+            </head>
+            <p><hi rend="i">Two Songs of Innocence</hi>, op. 21; for voice and piano. Ms., composed 1987. 24
+p. Dur. 12′. Dedicated to Gina Crusco, sop. Contents: 1. Cradle Song (Sweet dreams form a shade). 2.
+Laughing Song. S: NYWC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DEL TREDICI, David, 1937-; USA</title>
+            </head>
+            <p><hi rend="i">Little Lamb.</hi> In: <hi rend="i">Lessons in Singing</hi>, by Ivan Trusler and
+Walter Ehret (Englewood Cliffs, NJ, Prentice-Hall, 1972). One of 36 songs in this text is a setting by Del
+Tredici of The Lamb. Biog: NGDAM. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DEMIERRE, Jacques, 1954-; SWITZERLAND</title>
+            </head>
+            <p><hi rend="i">Expinnocence</hi>; for voice, two pianos, and cello. Ms., composed 1986. Dur.
+45′. Available from SME Lucerne. “Written for improvisator/reader, these pieces attempt to recreate a
+fantasy world, in honour of some of William Blake’s poems.” Biog: Swiss crossover pianist and composer. S:
+SME.</p>
+          </div3>
+          <pb id="p35-46" n="46"/>
+          <div3>
+            <head>
+              <title>DIACK, John Michael, 1869-1946.; UK</title>
+            </head>
+            <p><hi rend="i">The Wonderful Year.</hi> London, Paterson’s Pbns, 1949. Incl. a setting of
+Blake’s To Autumn. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DIAMOND, Arline, 1928-; USA</title>
+            </head>
+            <p><hi rend="i">Little Lamb</hi>; for medium voice and piano. Ms., composed 1974. Biog: IEWC. S:
+AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(DIAMOND)</title>
+            </head>
+            <p><hi rend="i">Piping</hi>; for medium voice and piano. Ms., composed 1974. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DICKINSON, (Paul) Bruce, 1958-; UK</title>
+            </head>
+            <p><hi rend="i">Chemical Wedding</hi> (CD album). CMC Int’l, 1998. Incl. three Blake titles,
+vocals by the composer: 1. Book of Thel. 2. Gates of Urizen. 3. Jerusalem. Biog: Former lead-singer of Iron
+Maiden (Larkin).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DIEMER, Emma Lou, 1927-; USA</title>
+            </head>
+            <p><hi rend="i">A Feast for Christmas</hi>; for SATB chorus and brass quintet or piano. Santa
+Barbara, Santa Barbara Music Publishing, 1991. Dur. 10′. Composed 1988. Blake text: fourth of five movements
+is A Cradle Song (Sweet dreams form a shade). 1st perf. Central Missouri State Concert Choir, Conan Castle
+cond. See also BSM 362-63. Biog: Baker 20. S: DeVenney; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DOORS, The (rock group, 1965-1971); USA</title>
+            </head>
+            <p><hi rend="i">The End</hi>; song from the album entitled The Doors (Electra, 1967). Dur. 11′.
+One of Jim Morrison’s earliest songs (ca. 1965); used in Francis Ford Coppola’s film 
+<hi rend="i">Apocalypse Now</hi> (1979). Blake text from Auguries of Innocence: Some are born to sweet delight . .
+. some are born to endless night. Album also contains material from MHH. The group’s name is reportedly
+inspired by the Blake quote: If the doors of perception were cleansed, everything would appear to man as it
+is, infinite. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DRING, Madeleine, 1923-1977.; UK</title>
+            </head>
+            <p><hi rend="i">How Sweet I Roamed</hi>; for voice and piano. Ms., n.d. Dur. 4′. Biog: NGDWC. S:
+BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DUNCAN, Chester, 1913-; CANADA</title>
+            </head>
+            <p><hi rend="i">The Shepherd</hi>; for unison choir or single (child-like) voice and piano. Ms.,
+c1997. 3 p. Dur. ca. 2′. Photocopy in CMC Toronto. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>DUNCAN, William Edmondstoune, 1866-1920.; UK</title>
+            </head>
+            <p><hi rend="i">English Songs, Books III and V.</hi> Glasgow, Aird and Coghill, 1919 and 1920.
+Incl. four Blake settings: 1. The Lamb. 2. Mad Song. 3. Memory, hither Come. 4. Song: When Early Morn Walks
+Forth. Biog: Baker. See also BSM 379-80. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(DUNCAN)</title>
+            </head>
+            <p><hi rend="i">Invocation to Spring.</hi> York, Eng., Banks, 1922. Blake text: To Spring. S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>EDDLEMAN, David, 1936-; USA</title>
+            </head>
+            <p><hi rend="i">Sweet Sleep, Sweet Dreams</hi>; for unison or two-part chorus, with optional
+flute. New York, Carl Fischer, 1979. Pub. no. 8075. Text adapted by composer from A Cradle Song. Biog: Sr.
+music editor, Silver Burdett Ginn. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ELLIOTT, Jonathan, 1962-; USA</title>
+            </head>
+            <p><hi rend="i">A Garden</hi>: prologue and four movements; for SATB chorus. Ms., c1991. Dur.
+14′. Composed 1990. Contents: Prologue: A Garden of Love. 1. My Pretty Rose Tree. 2. Ah! Sunflower. 3. The
+Lilly. 4. The Sick Rose. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ELLIS, David, 1933-; UK</title>
+            </head>
+            <p><hi rend="i">An Image of Truth</hi>, op. 35a; for mezzo, flute, and piano. Ms., composed 1972.
+Dur. 4′. Blake text: eight couplets from Proverbs of Hell (MHH). Also an enlarged version, for bass voice,
+SATB chorus, and string orchestra, op. 35b (1975). Dur. 32′. Intermingles Latin mass texts with MHH: A
+Memorable Fancy (As I was walking among the fires of Hell. . .). The work is prefaced with the Blake
+quotation: Everything possible to be believ’d is an image of truth. 1st perf. 1975 with Harrogate CS, I.
+Linford cond. Recorded by ASC Records (CS CD6). Biog: IWWM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>EMERSON, Ethel.; UK</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; tone poem. Stroud, John White, ca. 1885. Sotheby catalogue, 23 Nov.
+1970, lot 39. S: GEB.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 417: FARQUHAR, David, 1928-; NZ</title>
+            </head>
+            <p><hi rend="i">Blake Songs</hi> (1947-49). Now published as Eight Blake Songs; for mezzo-soprano,
+baritone, and piano. Wellington, Waite-ata Press, 1988. 22 p. Dur. 15′. (1988 Music Editions, no. 6). Nos.
+1-6, 8-9 of BSM 417. S: BCM 1991.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FERGUSON, Barry, 1942-; UK</title>
+            </head>
+            <p><hi rend="i">On Another’s Sorrow</hi>; for two treble voices and unison treble chorus.
+Hildenborough, Kent, Encore Pbns, 1997. 2p. Composed 1973. “Dedicated to and 1st perf. by Malcolm and
+Katharine Brown; subseq. taken into the Rochester Cathedral choir repertoire”—BF. Biog: IWWM. English
+organist and choir director. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FERGUSON)</title>
+            </head>
+            <p><hi rend="i">Sweet Babe, in Thy Face</hi> (A Cradle Song); for SATB chorus a cappella. Ms.,
+composed 1973. “For Rachel Ferguson’s christening”—BF. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FINNISSY, Michael, 1946-; UK</title>
+            </head>
+            <p><hi rend="i">above earth’s shadow</hi>, op. 126; for solo violin and chamber group of six
+players. London, United Music Publishers, 1985.
+<pb id="p35-47" n="47"/>
+Dur. 18′. Title from MHH. 1st perf. 22 Nov. 1985, Huddersfield Festival, by Spectrum, Irvine Arditi, vln,
+Guy Protheroe, dir. Biog: IWWM. S: <hi rend="i">Uncommon Ground</hi>, eds. Henrietta Brougham, Christopher
+Fox, and Ian Pace (Aldershot, Eng., Ashgate, c1997).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FINNISSY)</title>
+            </head>
+            <p><hi rend="i">Glad Day</hi>, op. 199; piece for two recorders, two trumpets, organ, harp, and
+strings. Oxford, OUP, 1994. Dur. 13′. Title from Blake painting of same name, also called The Rise of
+Albion. 1st perf. 15 Jan. 1995, Town Hall, Birmingham, by King’s Consort, Robert King, dir. S: 
+<hi rend="i">Uncommon Ground.</hi></p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FINNISSY)</title>
+            </head>
+            <p><hi rend="i">Wild Flowers</hi>, op. 26; for two pianos. Karlsruhe, Ger., Edition Modern, 1974.
+Dur. 10′. Title from Auguries of Innocence. 1st perf. 26 Nov. 1975, ISCM Festival, Paris, by <corr type="emend">Katia and
+Marielle Labèque.</corr> S: <hi rend="i">Uncommon Ground.</hi></p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FINNISSY)</title>
+            </head>
+            <p><hi rend="i">World</hi>, op. 16; for six amplified voices and ensemble of twenty-seven
+instruments. Karlsruhe, Ger., Edition Modern, 1975. Dur. 19′. Composed 1968-74. Comm. by London Sinfonietta.
+1st perf. 23 Mar. 1975, Royon Festival, France. Text by Mayakovsky and six others, incl. Blake: Stars of fire
+rise . . . And one Sun each morning like a New born; section sung by bass and baritone. S: BMIC et al.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FLAVELL, Edwin Mark.; UK</title>
+            </head>
+            <p><hi rend="i">The Child and the Piper.</hi> London, Charles Tuckwood, 1891. (The Winchester
+series of two-part songs). Blake text: Introd. to SI. Biog: Brown. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FONTYN, Jacqueline, 1930-; BELGIUM</title>
+            </head>
+            <p><hi rend="i">Blake’s Mirror</hi>; for mezzo/contralto and wind orchestra. Warmerveer,
+Holland, Molenaar Edition, 1993. 60 p. Dur. ca. 13′. 1st perf. Apr. 1993, Venlo, Nederl. CD recording: WWM
+500.035 (Netherlands). Contents: 1. The Angel. 2. The Tyger. 3. The Fly. 4. Song (Memory, Hither Come). Biog:
+IWWM; NGDWC. Prof. Music, Antwerp (and Brussels) royal conservatories. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FONTYN)</title>
+            </head>
+            <p><hi rend="i">Rosa, Rosae</hi>; song cycle for soprano, contralto, clarinet, violin, harp, and
+piano. Ottignies, Belgium, POM, 1986. 29 p. Incl. optional percussion instruments for the singers. Six texts
+on rose poems by Lorca, Rilke, and others incl. Blake, no. 4 (pp. 14-19): The Sick Rose. S: pc; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 450: FOSTER, Derek.; UK</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi> (1973-75). Now published: Enfield, Eng., Modus Music,
+c1990. Pub. no. MM10. S: BCM 1991.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FOULDS, John Herbert, 1880-1939.; UK</title>
+            </head>
+            <p><hi rend="i">The Ancient of Days</hi> (Music Pictures Group 3: Lento tragico), op. 82b; for
+orchestra of winds, brass, harp, and percussion. Ms., composed 1912. After Blake; some material adapted for
+the composer’s Saint Joan Suite. Biog: Grove. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FRANDSEN, John, 1956-; DENMARK</title>
+            </head>
+            <p><hi rend="i">Songs of Experience</hi>; for tenor voice and guitar. Ms., composed 1991. Dur.
+12′. 1st perf. May 1992. Contents: 1. The Voice of the Ancient Bard. 2. The Garden of Love. 3. The Fly. 4.
+The Sick Rose. 5. Ah, Sun-flower. Biog: IWWM; Danish organist, conductor, and composer. See also BSM 454-55.
+S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FREUND, Don, 1947-; USA</title>
+            </head>
+            <p><hi rend="i">The Chimney Sweeper: Two Songs from William Blake</hi>; for soprano and piano.
+Ms., composed 1967. 12 p. Dur. 10′. Settings of the two Blake poems of this title with connecting instr.
+interlude. 1st perf. 10 Apr. 1968, at Duquesne U, Pittsburgh. Transcr. for soprano, flute, and harpsichord
+(1988) and for soprano, flute, and piano (1997). Now publ. by Freundworks (Bloomington). Biog: Prof. Music,
+Indiana U. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(FREUND)</title>
+            </head>
+            <p><hi rend="i">Three Blake Songs</hi>; for two-part treble choir and Orff Instrumentarium
+(percussion and recorders) or piano. New York, Boosey &amp; Hawkes, 1995. Pub. no. ENB 411. Dur. 9′. Each
+available separately. Contents: 1. The Lamb (6 p.). 2. The Tyger (10 p.). 3. The Divine Image (8 p.). CD
+recordings available from composer. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FRISKIN, Mrs. James.</title>
+            </head>
+            <p>See: CLARKE, Rebecca. BSM 259.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>FUGS, The (rock group, 1965- ); USA</title>
+            </head>
+            <p><hi rend="i">Live from the 60’s</hi> (CD album: Fugs, 1994). Incl. Homage to Catherine and
+William Blake. See also BSM 1071-74, and SANDERS (below). Biog: Larkin.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GALANTE, Carlo.; ITALY</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; otto canzoni da William Blake per voce e pianoforte.
+Milano, Edizione Suvini Zerboni, c1986. 32 p. Pub. no. S. 9571Z. Composed 1985. Contents: 1. Never Seek to
+Tell thy Love. 2. I Asked a Thief. 3. The Fairy. 4. Morning. 5. Motto of The Songs of Innocence. 6. The Wild
+Flower’s Song. 7. Are Not the Joys of Morning Sweeter. 8. Why Was Cupid a Boy. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GILBERT, Anthony John, 1934-; UK</title>
+            </head>
+            <p><hi rend="i">Canticle 2: Anger</hi>; for six male voices soli. London, Schott Music Int’l,
+1974. 11 p. Dur. 6′. Date at end: 8/5/73. 1st perf. July 1974, Cheltenham Festival, by The King’s Singers.
+Blake text: A Poison Tree. Biog: IWWM. S: BMIC; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GLYNN, Gerald, 1943-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">William Blake Triptych</hi>; for SATB choir. Ms., composed 1981. 10 p. Written for
+Nicholas Routley and the Sydney U Chamber
+<pb id="p35-48" n="48"/>
+Choir. Contents: 1. The Sick Rose. 2. The Tyger. 3. A Poison Tree. Biog: IWWM. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GOEHR, Alexander, 1932-; UK</title>
+            </head>
+            <p><hi rend="i">Naboth’s Vineyard</hi>, op. 25; dramatic madrigal for contralto, tenor, bass,
+two mimes, and chamber ensemble. New York, Schott, c1973. 73 p. (Pub. no. 11108). Text in English, German, and
+Latin. “There’s an episode in Blake’s life when he threw a soldier out of his garden; the soldier had
+him put on trial for sedition, and gave false evidence against him. In a similar way, Jezebel gave false
+evidence against Naboth”—AG. Biog: New Grove. See also BSM 499-501. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GRANDISON, Mark, 1965-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">Five Blake Songs</hi>; for soprano and piano. Ms., composed 1990. 34 p. Dur.
+15′. 1st perf. 30 Nov. 1993, by Jeannie Marsh and Greg Roberts at Studio 520, ABC Collinswood. Contents: 1.
+The Human Abstract. 2. Morning. 3. Ah, Sunflower. 4. Never Pain to Tell thy Love. 5. The Sick Rose. Biog:
+IWWM. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GREEN, Ole-Carsten, 1922-; DENMARK</title>
+            </head>
+            <p><hi rend="i">Sange (from Songs of Experience)</hi>; for mezzo soprano and piano. Ms., n.d. Dur.
+20′. 1st perf. 28 Oct. 1990. Contents: 1. The Sick Rose. 2. The Fly. 3. The Tiger. 4. My Pretty Rose Tree.
+5. Ah, Sun Flower. 6. The Garden of Love. 7. London. 8. A Poison Tree. See also BSM 512-16. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(GREEN)</title>
+            </head>
+            <p><hi rend="i">Three Summer Songs</hi>, op. 61.; for mezzo-soprano, flute, viola, and cello. Ms.,
+composed 1980. Dur. 6′. 1st perf. 4 Sep. 1991. Blake texts: 1. How Sweet I Roam’d. 2. My Silks and Fine
+Array. 3. Love and Harmony Combine. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GREGSON, Edward, 1945-; UK</title>
+            </head>
+            <p><hi rend="i">Of Men and Mountains</hi>; for brass band. London, Novello, 1990. Dur. 17′.
+Title after Blake. Comm. for the Netherlands Brass Band Championships, Dec. 1990, Drachten. Dedication: in
+memory of Eric Ball. Biog: IWWM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>GUNDRY, Inglis, 1905-; UK</title>
+            </head>
+            <p><hi rend="i">Four Songs of Experience</hi>; for tenor voice and piano. Ms., composed ca. 1955.
+Dur. 10′. Contents: 1. Hear the Voice of the Bard. 2. Ah! Sunflower. 3. The Sick Rose. 4. The Tiger. BBC
+broadcast, 1956. Part of the composer’s “90th Birthday Celebration,” 7 May 1995, St. John’s, Smith
+Square, Jane Lofthouse, sop, and Michael Dussek, piano. Biog: Baker 20. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HAGEN, Daron Aric, 1961-; USA</title>
+            </head>
+            <p><hi rend="i">Echo’s Songs</hi>; eleven songs for high voice and piano. Boston, E.C. Schirmer,
+c1992. 19 p. Cat. no. ECS 4425. No. 1 (pp. 3-4) is Blake: Never Pain to Tell thy Love. Set recorded by Susan
+Crowder, sop, Bradley Moore, piano, and Sara Stern, fl, on Arsis Audio CD 106: Daren Hagen: Songs. Biog: IWWM
+(1990-91). S: AMC; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(HAGEN)</title>
+            </head>
+            <p><hi rend="i">Love Songs</hi>; a cycle of eight songs for high voice and piano. Boston, E.C.
+Schirmer, c1992. 24 p. Cat. no. ECS 4426. No. 3 (pp. 8-9) is Blake: Ah, Sun-flower. Also recorded on Arsis
+Audio CD 106. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HALE, Vernon, 1946-; UK</title>
+            </head>
+            <p><hi rend="i">The Divine Image</hi>; for organ. Ms., n.d. 1st perf. 5 Sept. 1979 at Brighton, by
+Ian Curror. Title after Blake. S: Composer, Winter 1979-80.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HALL, John Gerald, 1905-1991.; UK</title>
+            </head>
+            <p><hi rend="i">Tiger, Tiger</hi>; song. Ms., n.d. No copy available; Blake text indicated. S:
+BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HANDEL, Darrell.; USA</title>
+            </head>
+            <p><hi rend="i">The Tyger</hi>; for mezzo-soprano, oboe, piano, and string quartet. Ms., composed
+1984. Dur. 8′. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HANSON, Robert Frederic, 1948-; UK</title>
+            </head>
+            <p><hi rend="i">Auguries of Innocence</hi>; song cycle for mezzo and piano. Ms., composed 1988. 28
+p. Dur. 22′. Contents: 1. The Clod and the Pebble. 2. London. 3. Infant Sorrow. 4. Auguries of Innocence.
+Biog: IWWM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HARPER, Edward James, 1941-; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; cantata for soprano, chorus, and orchestra. London, OUP, 1990. 97
+p. Dur. 30′. Vocal score and parts on rental from OUP. Comm. by Bearsden Burgh Choir; 1st perf. Glasgow, 9
+Dec. 1990. Uses Blake’s The Lamb in the final section of the cantata. Biog: IWWM. Prof. Music, U of
+Edinburgh. S: SMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HARRIS, Robert A.; USA</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for SSAA chorus a cappella. New York, OUP, 1988. 8 p. “For the
+Roland-Story High School Treble Choir, Story City, Iowa, Pamela Quick, director.” S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HAWKINS, John B., 1948-; UK</title>
+            </head>
+            <p><hi rend="i">This World</hi>; for SATB chorus, two sopranos, and two trumpets. Ms., composed
+1994. 44 p. Dur. 10′. Available from composer. Text from the Book of Job and Blake (1. Jerusalem: Earth and
+all you behold . . .; and 2. Urizen: His cold horrors silent . . .). Dedicated to the English choir Cryes of
+London, D. Temple dir., and 1st perf. by them; later broadcast and recorded by the BBC Singers, 27 Dec. 1996.
+S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(HAWKINS)</title>
+            </head>
+            <p><hi rend="i">Urizen</hi>; for viola and piano (or orchestra). London, Boosey &amp; Hawkes,
+1995. 16 p. Dur. 9′. Composed 1984. Score and
+<pb id="p35-49" n="49"/>
+parts on rental from B&amp;H. Inspired by Urizen plate titled The Binding of Urizen; score has text beginning
+What Demon hath form’d this abominable void . . . . Comm. and 1st perf. on BBC by British violist Paul
+Silverthorne. Has been choreographed and perf. as a ballet in Chicago. Rev: P. McCarty, 
+<hi rend="i">Strings</hi> 7/5 (1993): 33-36, incl. biog. data and opening cadenza of score. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HEALE, Helene, 1855-; UK</title>
+            </head>
+            <p><hi rend="i">Twelve Two-Part Songs.</hi> London, Augener, 1888. Each pub. separately; incl. one
+Blake title: Night. Biog: IEWC; Brown. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HIATT, Kevin, 19—; USA</title>
+            </head>
+            <p><hi rend="i">Holy Thursdays</hi>; for tenor voice and guitar. Ms., n.d. Dur. 12′. Cycle of
+three Blake songs. “Very difficult.” S: Maroney.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HODDINOTT, Alun, CBE, 1929-; UK</title>
+            </head>
+            <p><hi rend="i">Three Motets</hi>; for SATB chorus and organ. Ms., n.d. 1st perf. 17 Oct. 1993,
+by Emory U chorus. Comm. by Alice Witherspoon Bliss in memory of Evelyn Lee Witherspoon. Contents: 1. Donne
+(Sonnet VI). 2. Blake (Milton). 3. Vaughan (They are all gone . . .). Biog: Baker 20. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOFFMAN, Theodore.; USA</title>
+            </head>
+            <p><hi rend="i">The Lamb and the Tiger.</hi> Ms., composed 1965. 1st perf. 1965, U of South
+Florida. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOIBY, Lee, 1926-; USA</title>
+            </head>
+            <p><hi rend="i">Two Poems of William Blake</hi>; for medium voice and piano. Ms., c1987. 6 p.
+Composed 1987. Contents: 1. The Shepherd. 2. The Lamb. Biog: IWWM. Noted composer of operas on contemporary
+themes. S: Carman.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOLLOWAY, Robin Greville, 1943-; UK</title>
+            </head>
+            <p><hi rend="i">The Spacious Firmament</hi>; ode for chorus and orchestra. London, Boosey &amp;
+Hawkes, 1990. 90 p. Dur. 33′. Facsimile of score available on rental. 1st perf. 21 Jan. 1991, City of
+Birmingham SO, Simon Rattle cond. Texts by Dryden, Tennyson, and Blake (1. Motto: To see a world in a grain of
+sand . . .; and 2. Auguries: A robin redbreast in a cage . . .). S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOLTEN, Bo, 1948-; DENMARK</title>
+            </head>
+            <p><hi rend="i">The Hours of Folly</hi>; for voice, flute, clarinet, and string quartet. Ms.,
+composed 1984. Dur. 4′. Blake text based on Proverbs of Hell (MHH). 1st perf. 25 Sep. 1984. Biog: IWWM. See
+also BSM 600-603. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(HOLTEN)</title>
+            </head>
+            <p><hi rend="i">The Marriage of Heaven and Hell</hi>; for mixed chorus of twelve voices.
+Copenhagen, Ed. Wm. Hansen, n.d. Dur. 29′. Composed 1992-95. 1st perf. May 1995. Title is from the Blake
+poem, but text is six poems from SI and SE: 1. The Sick Rose. 2. The Tyger. 3. A Cradle Song. 4. Spring. 5. A
+Divine Image. 6. Night. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(HOLTEN)</title>
+            </head>
+            <p><hi rend="i">Night</hi>; for mixed twelve-part chorus. Copenhagen, C.W. Hansen, 1992. Dur.
+11′. 1st perf. 24 Nov. 1992. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOMANS, Peter, 1955-; USA</title>
+            </head>
+            <p><hi rend="i">Four Blake Visions</hi>; for solo soprano, SATB chorus, and piano four-hands. Ms.,
+c1997. Dur. ca. 11′8″. Contents: 1. Introd. (SI). 2. The Lamb. 3. The Tyger. 4. Mock on, Mock on,
+Voltaire, Rousseau. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOPKINS, Antony, 1921-; UK</title>
+            </head>
+            <p><hi rend="i">Blake’s Lullaby</hi>; for unison children’s voices and piano. Wendover, Eng.,
+Roberton Pbns, c1990. 4 p. (Roberton unison songs). Blake text: Cradle Song from SI. Biog: IWWM. S: BCM
+1993.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HORNSLETH, Kristian.; DENMARK</title>
+            </head>
+            <p><hi rend="i">Aegteskabet mellem himmel og helvede</hi> [The Marriage of Heaven and Hell]; for
+four solo voices, cello, piano, two guitars, bass, drums, keyboard, and percussion. Ms., n.d. Dur.
+106′46″. 1st perf. 10 Oct. 1994. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOWARD, John Stuart, 1950-; UK</title>
+            </head>
+            <p><hi rend="i">Dream Seven</hi>; for SATB soli, piano, and electronics. Ms., composed 1979. Dur.
+20′. An intermingling of texts from Synesius of Cyrene, Paracelsus, Aquinas, Blake, and Chaucer; appears to
+use words from Blake: There is No Natural Religion. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HOWARTH, Helen C.; USA</title>
+            </head>
+            <p><hi rend="i">Seven Songs of William Blake</hi>; for voice and piano. New York, Breitkopf and
+Haertel, 1909. 2 vols. Each publ. separately. Contents: (I) 1. The Piper (Piping down the valleys wild). 2.
+Cradle Song (Sweet dreams form a shade). 3. The Blossom. 4. A Song (How sweet I roamed). (II) 5. The Shepherd.
+6. The Lamb. 7. The Black Boy. Biog: IEWC. Sometimes listed under her married name: Lemmel. S: RLIN.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HURD, David.; USA</title>
+            </head>
+            <p><hi rend="i">A Cradle Song</hi>; for SATB with organ. Minneapolis, Augsburg/Fortress, c1994. 11
+p. (Augsburg choral library, pub. no. 11-10460). 1st line: Sweet dreams form a shade. Rev: J. McCray, 
+<hi rend="i">Diapason</hi> 87/1041 (Aug. ‘96): 8. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>HUSTON, (Thomas) Scott, 1916-1991.; USA</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for tenor voice and piano. Ms., composed 1979. 1st perf.
+15 July 1979, U of Cincinnati Conservatory. Contents: 1. The Lamb. 2. The Little Black Boy. 3. The Little Boy
+Lost. 4. On Another’s Sorrow. Biog: Baker 20. S: G&amp;T.</p>
+          </div3>
+          <pb id="p35-50" n="50"/>
+          <div3>
+            <head>
+              <title>(HUSTON)</title>
+            </head>
+            <p><hi rend="i">Songs of Experience</hi>; for mezzo and piano. Ms., composed 1981. S: NGDAM.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*HYATT, John B.</title>
+            </head>
+            <p><hi rend="i">Three Songs from William Blake’s Songs of Innocence and of Experience.</hi> Ms.,
+composed 1954. Contents: 1. Earth’s Answer. 2. Introd. to SE. 3. The Little Boy Lost. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>IMBRIE, Andrew Welsh, 1921-; USA</title>
+            </head>
+            <p><hi rend="i">Requiem, in Memoriam John H. Imbrie</hi>; for soprano solo, SATB chorus, and
+orchestra. New York, Malcolm Music/Shawnee Press, n.d. Composed 1984. Full score: 187 p. (Blake: 28 p.). Dur.
+31′47″ (Blake: 4′15″). Texts from Liber Usualis, Blake (To the Evening Star), Donne, and Herbert.
+Comm. (and 1st perf. in 1985) by San Francisco Symphony, Edo De Waart cond.; also perf. by Riverside Symphony,
+Geo. Rothman cond., Jan. 1998, at Alice Tully Hall, NY; available on CD (Bridge 9091) with the composer’s
+3rd piano concerto. Biog: New Grove. S: DeVenney; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>JEFFERS, Ron (Ronald Harrison), 1943-; USA</title>
+            </head>
+            <p><hi rend="i">Two Blake Songs</hi>; for women’s chorus. Ms., composed 1987. 3 p. (close
+score). Contents: 1. A Song of Innocence: The Divine Image. 2. A Song of Experience: A Divine Image. Biog:
+NGDAM. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>JONES, Daniel Jenkyn, 1912-1993.; UK</title>
+            </head>
+            <p><hi rend="i">Laughing Song</hi>; for SATB chorus and brass quartet. Ms., composed 1979. Dur.
+5′. Commissioned by the University College of Wales, Aberystwyth. See also BSM 657-659. S: Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>JONES, Kenneth Victor, 1924-; UK</title>
+            </head>
+            <p><hi rend="i">Four Songs</hi>; for high voice, oboe, and piano. Ms., n.d. No. 3 is Blake:
+Love’s Secret. Biog: IWWM; Prof. Music, RCM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>JORDAN, William, 1951-; CANADA</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for high voice and piano. Calgary, Canadian Music Centre, distr.,
+1987. 4 p. “Grade II boy’s vocal solo.” S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>JUBB, Andrew.; UK</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence and of Experience by William Blake.</hi> Ms., n.d. Perf. 2 May
+1971? by Oxford Pro Musica Theatre Music Ensemble, Andrew Jubb dir., St. Catherine’s College, Oxford. S:
+GEB.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KAGEN, Sergius, 1909-1964.; USA</title>
+            </head>
+            <p><hi rend="i">Tiger.</hi> Ms., composed 1949-64. Blake text: The Tyger. See also BSM 682-3.
+Biog: Baker 20. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KAIPAINEN, Jouni Ilari, 1956-; FINLAND</title>
+            </head>
+            <p><hi rend="i">Lacrimosa</hi>; for mixed double chorus a cappella. Ms., composed 1989. Dur.
+14′29″. Score combines Latin Requiem and Vulgate passages with English Blake texts: I. De Profundis, with
+a fragment from Jerusalem, ch. 1. II. Lacrimosa, with Holy Thursday (SE). III. Recordare, with The Angel (SE).
+IV. Lux Aeterna, with To the Christians (Jerusalem, ch. 3) and a fragment from Auguries of Innocence. Biog:
+IWWM. S: FMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KAMINSKY, Laura, 1956-; USA</title>
+            </head>
+            <p><hi rend="i">Proverbs of Hell</hi>; for soprano, marimba, and piano. Ms., composed 1989. 23 p.
+Dur. 14′. 1st perf. by Christine Schadeberg, NYC. Comm. by Musicians Accord, a new music project, with funds
+from the NY Council on the Arts. Biog: IWWM. S: NGDWC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KEAM, Glenda, 1960-; NZ</title>
+            </head>
+            <p><hi rend="i">Two Songs of Experience</hi>; for medium voice and piano. Ms., composed 1988-90. 4
+and 3 p. Dur. 4′. Contents: 1. A Poison Tree. 2. The Sick Rose. No. 1 was 1st perf. 26 Jan. 1988, by mezzo
+Mary Newman-Bond, for whom the songs were written, and Rosemary Bauer, at Grosvenor Chapel, Mayfair, London;
+1st perf. as a set by Newman-Bond and Nicholas Bosworth, 25 Aug. 1992, at Edinburgh Fringe Festival. S:
+SOUNZ.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(KEAM)</title>
+            </head>
+            <p><hi rend="i">The Tyger</hi>; for voice and piano. Ms., composed 1993. 11 p. Dur. 6′. S:
+pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KECHLEY, David Stevenson, 1947-; USA</title>
+            </head>
+            <p><hi rend="i">With Silent Delight</hi>; for SATB chorus. Ms., n.d. Blake text: The sun
+descending in the west (Night). See also BSM 693. Biog: IWWM (1990-91); Prof. Music, Williams College. S:
+AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KEELING, Andrew, 1955-; UK</title>
+            </head>
+            <p><hi rend="i">Auguries of Innocence</hi>; for SATB choir. Ms., composed 1991. 1st line: To see a
+world in a grain of sand. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KELLETT, Paul, 1966-; UK</title>
+            </head>
+            <p><hi rend="i">Diabolus in Musica</hi>; for two speakers and chamber group of two flutes, two
+pianos, two percussion, two violins, two cellos, and two double bass. Ms., composed 1990. Dur. 20′. Blake
+text indicated. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KING, Anthony, 1900-; UK</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for soprano solo, SATB chorus, and piano. London, Cramer Music,
+c1989. 16 p. (Cramer choral series, pl. no. 2116). S: BCM 1991.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*KING, Norman.; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">The Little Boy.</hi> Sydney, Paling, 1937. Blake text: The Little Boy Found. S:
+G&amp;T.</p>
+          </div3>
+          <pb id="p35-51" n="51"/>
+          <div3>
+            <head>
+              <title>KINGMAN, Daniel C., 1924-; USA</title>
+            </head>
+            <p><hi rend="i">Oh, Mister Blake!</hi>; for SSATB chorus and guitar. Ms., composed 1984. Blake
+texts from MHH. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KNOPF, Michael, 1955-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">The Divine Image</hi>; for SSATTBB choir. White Rock, Qld., Knopf Music, 1996. 6
+p. Biog: IWWM. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KOSELUK, William G., 1958-; USA</title>
+            </head>
+            <p><hi rend="i">The Blake Experience</hi>; for TTBB chorus and tenor solo. Ms., composed 1991.
+Dur. ca. 14′. 1st complete perf. 13 Dec. 1992, Bing Theater, LACMA, Los Angeles, by the Schubertians, Karl
+Zytowski dir. Contents: 1. Introduction (SE). 2. The Fly. 3. Holy Thursday. 4. The Clod and the Pebble. 5.
+Song of the Ancient Bard. 6. The Lily. 7. The Little Vagabond. Biog: UC Santa Barbara faculty. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KOX, Hans, 1930-; NETHERLANDS</title>
+            </head>
+            <p><hi rend="i">Anne Frank Cantata: a child of light</hi>; symphonic cantata for SAB soli, mixed
+chorus, and orchestra. Amsterdam, Donemus, 1985. 54 p. Dur. 45′. Recording: Composers’ Voice Special
+1987/4. Text from many sources, incl. Bible, St. Augustine, Rilke, Blake, Hitler, SS, etc. Blake: three lines,
+beginning The angel that presided o’er my birth . . . . S: Donemus.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KRISTIANNE, Krysia.; USA</title>
+            </head>
+            <p><hi rend="i">The Tyger and Other Tales</hi>; English Romantic poetry set to music (CD album).
+Los Angeles, Sentience Records, 1996. Pub. no. JVC-4010-2. Vocals by Kristianne with instrumental group. New
+Age settings using texts by Keats, Shelley, and Tennyson, as well as Blake’s Tyger. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KUNZ, Alfred Leopold, 1929-; CANADA</title>
+            </head>
+            <p><hi rend="i">Second Book of Solo Songs</hi>; for medium or high voice and piano. Ms., composed
+1978. 26 p. Collection of fourteen songs incl. one with Blake text: Memory, hither come. Available from CMC
+Toronto. Biog: Baker 20. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>KUPFERMAN, Meyer, 1926-; USA</title>
+            </head>
+            <p><hi rend="i">Blind-man’s Buff: a Christmas madrigal</hi>; for SATB chorus. Ms., composed
+1956. Dur.ca.6′20″. See also BSM 723. Biog: NGDAM. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*LANDER, Cyril B.</title>
+            </head>
+            <p><hi rend="i">Love’s Secret.</hi> In: Flores de Mi Primavera (Ms., n.d.). 1st line: I told my
+love. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LANGERT, Jules, 1932-; USA</title>
+            </head>
+            <p><hi rend="i">Defining Moments: four songs to verses by William Blake</hi>; for SATB a cappella.
+Berkeley, CA, Fallen Leaf Press, 1996, c1995. 13 p. Dur. 6′. (Fallen Leaf Pbns. in Contemp. Music, no. 74).
+Contents: 1. Infant Sorrow. 2. Fragment (Mock on, mock on, Voltaire). 3. Auguries of Innocence. 4. The Fly. S:
+AMC; copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LAWRENCE, Mark.; UK</title>
+            </head>
+            <p><hi rend="i">The Echoing Green</hi>; cycle of three songs for SA soli and double chorus. Ms.,
+composed 1993; rev. and shortened 1994. Dur. 17′. 1st perf. Apr. 1993, St. John’s Smith Square, by Voices
+Foundation Chamber Choir, Susan Digby dir., with John Amis reader. Recorded by the New London Chamber Choir,
+James Wood dir. (BMIC cassette 2497). Contents: 6 nos.; nos. 1,4, and 6 consist of verses from The Echoing
+Green. 2. Infant Joy. 3. Infant Sorrow. 5. The Clod and the Pebble. Biog: Specialist in children’s music
+education, Bristol, Eng. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(LAWRENCE)</title>
+            </head>
+            <p><hi rend="i">At the Year’s Turning</hi>; choral cycle. Ms., composed ca. 1995. Incl. a
+setting of Blake’s The Fly. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(LAWRENCE)</title>
+            </head>
+            <p><hi rend="i">Song for Celia</hi>; for children’s chorus and organ. Ms., composed 1995. Comm.
+for the 65th birthday of Peter Hurford. Incl. a setting of Blake’s The Piper. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LEEUW, Charles van der, 1952-; NETHERLANDS</title>
+            </head>
+            <p><hi rend="i">Voices in the Dark</hi>; for soprano solo and chamber group of flute, clarinet,
+three saxes, two horns, two trumpets, two trombones, electric bass, and piano. Amsterdam, Donemus, 1979. 32 p.
+Dur. 15′. Texts from Wilde, Whitman, Jefferson, Karl Bowman, Brecht, and Blake (four lines beginning: We are
+led to believe a lie). S: K. Klaus, <hi rend="i">Chamber Music for Solo Voice</hi> . . . (Fallen Leaf Press,
+c1994); Donemus.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LEIGH, Walter, 1905-1942.; UK</title>
+            </head>
+            <p><hi rend="i">How Sweet I Roamed</hi>; song for voice and piano. Ms., composed 1924. Dur.
+2′30″. Biog: Baker 20. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(LEIGH)</title>
+            </head>
+            <p><hi rend="i">Love’s Secret</hi>; song for voice and piano. Ms., composed 1925. S:
+Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LEIGHTON, Kenneth, 1929-1988.; UK</title>
+            </head>
+            <p><hi rend="i">Laudes Animantium</hi>, op. 61; for solo voices, double chorus and boys’ voices.
+Ms., composed 1972. 1st perf. June 1973, Purcell Room, London. Incl. two Blake titles: 1. The Lamb. 2. The
+Tyger. Biog: Baker 20. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LINDSAY, Caroline Blanche Elizabeth, Lady, d. 1912.; UK</title>
+            </head>
+            <p><hi rend="i">Musical Miniatures</hi>; twelve songs in three books. London, Stanley Lucas,
+Weber, 1878. Bk. I incl. Blake: The Shepherd. One of the earliest Blake settings by this English poet and
+social activist. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LORENTZEN, Bent, 1935-; DENMARK</title>
+            </head>
+            <p><hi rend="i">Choral Songs of Blake</hi>; for SATB chorus. Copenhagen, Ed. Wm. Hansen, 1990.
+Dur. 8′. 1st perf. 19 Nov. 1990. Contents: 1. To the Evening Star. 2. To Morning. Biog: New Grove. S:
+DMIC.</p>
+          </div3>
+          <pb id="p35-52" n="52"/>
+          <div3>
+            <head>
+              <title>LURIE, Evan.; USA</title>
+            </head>
+            <p><hi rend="i">Selling Water by the Side of the River</hi> (CD album). New York, Antilles/Island
+Records, 1990. Tracks incl. Rintrah Roars, instrumental with title from Blake (MHH etc.). Rev: 
+<hi rend="i">Folk Roots</hi> no. 91-92 (Jan.-Feb. 1991): 79. Biog: Larkin. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>LYON, David N., 1938-; UK</title>
+            </head>
+            <p><hi rend="i">Three Spring Songs</hi>, op. 2; for double chorus. Ms., n.d. Contents: 1. Spring
+Song (Blake). 2. The Year’s at the Spring (Browning). 3. May Magnificat (Hopkins). S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MAC DONALD, Andrew P., 1958-; CANADA</title>
+            </head>
+            <p><hi rend="i">Innocence</hi>, op. 26; for high (or low) voice and piano. Ms., composed 1991. 19
+p. Both versions available from CMC Montreal. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MACONCHY, Elizabeth, DBE, 1907-1994.; UK</title>
+            </head>
+            <p><hi rend="i">O Time, Turn Back</hi>; for SATB voices, wind quintet, and cello. London, Chester
+Music, 1984. Dur. 15′. On texts of Shakespeare, Raleigh, Vaughan, Herrick, and Blake (two lines: Hold
+Infinity in the palm of your hand, and Eternity in an hour). Comm. and 1st perf. by BBC Northern Singers,
+Stephen Wilkinson cond., 20 May 1985, BBC Radio 3. Biog: New Grove. S: NGDWC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MARTLAND, Steve, 1959-; UK</title>
+            </head>
+            <p><hi rend="i">Albion</hi>; for tape and film. London, Schott Music Int’l, 1987-88. Title often
+used by Blake (e.g., Four Zoas). Biog: IWWM. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(MARTLAND)</title>
+            </head>
+            <p><hi rend="i">Glad Day</hi>; for voice and ensemble. London, Schott, 1988. Dur. 16′. Title
+after Blake engraving of same name, but text by Stevan Keane. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(MARTLAND)</title>
+            </head>
+            <p><hi rend="i">Horses of Instruction</hi>; for orchestra. London, Schott, 1994-95. Dur. 17′.
+Title from MHH. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(MARTLAND)</title>
+            </head>
+            <p><hi rend="i">Orc</hi>; for horn and small orchestra. London, Schott, 1984. Dur. 20′. Title
+from The Four Zoas. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(MARTLAND)</title>
+            </head>
+            <p><hi rend="i">Summer Rounds</hi>; for double chorus a cappella. London, Schott, 1998. 65 p.
+Composed 1997. Contents: 1. and 5. Summer is a coming in (anon. 13 cent.). 2. To Autumn. 3. Song by an Old
+Shepherd (When silver snow . . .). 4. Spring (Sound the flute). 1st perf. Newbury Spring Festival, by The
+Joyful Company of Singers, Peter Broadbent cond. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MATHIAS, William James, CBE, 1934-1992.; UK</title>
+            </head>
+            <p><hi rend="i">The Echoing Green</hi>, op. 95, no. 2; for SSAA chorus and piano. London, OUP,
+c1987. 11 p. Dur. 4′. (Oxford choral songs for women’s voices, W 105). Date at end: 23-25 Feb. 1985. Comm.
+(and 1st perf. 21 May 1985) by The Lyons Township (Ill.) High School Treble Choir, Lynn Bradley dir, See also
+BSM 838. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MATTHEWS, David John, 1943-; UK</title>
+            </head>
+            <p><hi rend="i">The Golden Kingdom</hi>; song cycle for high voice and piano. London, Faber Music,
+1979-83. Contains a setting of Blake’s Lament of Ahania (Four Zoas). Biog: IWWM. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MC AULIFFE, Mary, 1947-; IRELAND</title>
+            </head>
+            <p><hi rend="i">The Piper</hi>; for SA voices, alto recorder, and piano. Ms., composed 1992. Dur.
+3′. S: IMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MC CABE, John, 1939-; UK</title>
+            </head>
+            <p><hi rend="i">A Summer Garland</hi>; for soprano, flute, oboe, harp, and cello. Ms., composed
+1963. Dur. of set: 10′-11′. 6 nos. incl. no. 3: Song (Blake). Available from Novello. 1st perf. 2 Oct.
+1963, at Bluecoat School Hall, Liverpool, with Emily Maire (sop). Rev: <hi rend="i">Guardian</hi>, 3 Oct.
+1963. Biog: Baker 20. S: S.R. Craggs, <hi rend="i">JM</hi> (Greenwood Press, 1991).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MC LEOD, Jenny (Jennifer Helen), 1941-; NEW ZEALAND</title>
+            </head>
+            <p><hi rend="i">Through the World: a song cycle of 15 poems by William Blake</hi>; for
+mezzo-soprano and piano. Wellington, Wai-te-ata Music Press, c1995. 56 p. Dur. 26′. (1995 music edition, no.
+4). Composed 1982. Contents: 1. Man was Made for Joy and Woe. The Child’s Toys. 2. I Have No Name. 3. Love
+Seeketh Not. 4. Little Lamb. 5. Can I See Another’s Woe. 6. My Mother Groan’d! 7. The Vision of Christ. 8.
+Sound the Flute. 9. Is this a Holy Thing. 10. The Bird, a Nest. 11. Tyger, Tyger. 12. I Love to Rise. 13. I
+Asked a Thief. 14. I Wander Thro’; Who Will Exchange. 15. Mercy, Pity, Peace and Love. Nos. 2 and 11 issued
+separately in 1999 (SOUNZ). Biog: BDNZC. S: RLIN.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MC QUEEN, Ian.; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">Beggarman Thief! An opera in two parts for young people</hi>; for children’s
+chorus, piano, recorders, violins, and percussion. Ms., composed 1983. Dur. 85′. Libretto by composer after
+Sven Wenstrom, with selections from poems by William Blake. S: SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MIALL, David S.; CANADA</title>
+            </head>
+            <p><hi rend="i">Four Blake Songs.</hi> Ms., composed 1971. Contents: 1. I Saw a Chapel All of
+Gold. 2. Nurse’s Song/Experience. 3. The Sick Rose. 4. Silent, Silent Night. Biog: Prof. English, U of
+Alberta. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MIKKELBORG, Palle, 1941-; DENMARK</title>
+            </head>
+            <p><hi rend="i">The Noone of Night</hi> [The Fly]; for mixed chorus and two harps. Copenhagen, Ed.
+Wm. Hansen, 1996. Dur. 35′. 1st perf. 11 Apr. 1997. Recording: Da Capo 8.224144 (the CD 
+<pb id="p35-53" n="53"/>
+<figure n="EchoingGreen.SheetMusic.35.2.bqscan" rend="file" width="328" height="500">
+	<head>2. William Mathias, op. 95, no. 2, “The Echoing Green.”</head>
+	<figDesc>© 1987 Oxford University Press. Used by permission. All rights reserved.</figDesc>
+</figure>
+<pb id="p35-54" n="54"/>
+cover has a drawing by Blake). Biog: Danish jazz trumpeter and composer. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MITCHELL, Janice Misurell, 1946-; USA</title>
+            </head>
+            <p><hi rend="i">Mad Song</hi>; for mixed chorus a cappella. Ms., c1975. Biog: IEWC. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MOORE, J. Chris, 1948-; USA</title>
+            </head>
+            <p><hi rend="i">Infant Joy</hi>; for SATB chorus and keyboard. Columbus, Backenhorst, 1979. 8 p.
+S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 878, 879, 882:<lb/>
+MORAWETZ, Oskar, 1917-; CANADA</title>
+            </head>
+            <p>Three titles now published together as: Three Songs to Poems by William Blake. Toronto, Aeneas,
+1989. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MORRISON, Van (George Ivan), 1945-; IRELAND</title>
+            </head>
+            <p><hi rend="i">A Sense of Wonder</hi> (record album, MERH 54). Mercury, 1984. Ref.: Peter Mills,
+“Into the Mystic: the aural poetry of Van Morrison,” <hi rend="i">Popular Music</hi> (Cambridge, Eng.)
+13:1 (1994): 91-103, discusses the impact of Yeats, Joyce, and Blake on M’s music, citing the text: With
+happiness stretched across the hills (from Blake’s letter to Thomas Butts, 22 Nov. 1802) and the Blake
+painting of Newton as sources of inspiration for this album. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MORYL, Richard, 1929-; USA</title>
+            </head>
+            <p><hi rend="i">An Island in the Moon</hi>; for solo soprano, piano, and slides.
+Hastings-on-Hudson, General Music Publishing, 1978. “This work is a theater piece, in which the singer moves
+about the stage as slides of Blake’s MSS. are projected behind the singer and accompanist”—RM. Biog:
+NGDAM. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MUELLER, Frederick A., 1921-; USA</title>
+            </head>
+            <p><hi rend="i">Five Songs on Blake Texts.</hi> Morehead, F-A-M-E, 1963. Contents: 1. Ah!
+Sunflower! 2. The Fly. 3. Introd. to SI. 4. The Shepherd. 5. Spring. Biog: Prof. Music emeritus, Morehead
+State U, KY. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>MYERS, Peter Joseph, 1962-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">The Sick Rose</hi>; chamber work for two flutes, viola, and cello. Ms., composed
+1982. Title from Blake. Biog: IWWM. S: Broadstock.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>NICHOLS, David Roy, 1955-; UK</title>
+            </head>
+            <p><hi rend="i">Cantata: Jerusalem</hi>; for solo soprano, double choir with double wind band, and
+percussion. Ms., composed 1990-91. Dur. 35′. Comm. by the BBC; dedicated to Tamar Hodes and Stephen
+Plaistow. Recorded by Sarah Leonard, sop, and the BBC Singers, Odaline de la Martinez cond. (BMIC cassette
+2628). Text from various sources, incl. Blake: 1. Vala, or The Four Zoas, Night the ninth. 2. Europe, the
+frontispiece. 3. Jerusalem, ch. 1, pl. 5. 4. Jerusalem, ch. 1, pls. 20 and 24. 5. Jerusalem, ch. 1, pl. 19. 6.
+Jerusalem, ch. 4, pl. 97. 7. Jerusalem, ch. 2, introd. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>NUNN, Philip, 1961-; AUSTRALIA/UK</title>
+            </head>
+            <p><hi rend="i">A Poison Tree</hi>; for orchestra (strings divisi a 64). Ms., composed 1978. Title
+from Blake. S: Broadstock.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*NUTTALL, Michael.; UK</title>
+            </head>
+            <p><hi rend="i">A Cradle Song.</hi> Ms., composed 1957. 1st perf. 21 June 1957, Aldeburgh Festival
+Blake Centenary Competition. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*OGILVIE, Heather A.</title>
+            </head>
+            <p><hi rend="i">Laughing Song.</hi> Ms., composed 1961. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 923-925:<lb/>
+OWEN (later JONES), Morfydd Llwyn, 1891-1918.; UK</title>
+            </head>
+            <p>Three Blake titles now all reprinted 1991 in a Centenary Edition, with English/Welsh texts (tr.
+John Stoddart). S: BCM 1992.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(OWEN)</title>
+            </head>
+            <p><hi rend="i">Mad Song</hi>; for SATB chorus (1912). Biog: NGDWC. Married for a time to the
+noted Freudian psychologist, Sir Ernest Jones; made effective use of Welsh folk melodies. S: NGDWC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(OWEN)</title>
+            </head>
+            <p><hi rend="i">A Song of Sorrow (Galargan)</hi>; for voice and piano. Centenary Edition.
+Caerdydd, Canolfan Hysbysrwydd Cerddoriaeth Cymru, c1991. 3 p. English/Welsh texts (tr. John Stoddart). Blake
+text indicated. S: BCM 1993; RLIN.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PALMER, John C., 1959-; UK</title>
+            </head>
+            <p><hi rend="i">Eternity</hi>; for STB soli and chamber group. Ms., n.d. Dur. 11′. Blake text
+indicated. Biog: IWWM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 934: PARRY, Charles Hubert, 1848-1918.; UK</title>
+            </head>
+            <p><hi rend="i">Jerusalem.</hi> Recordings and republications of this famous setting continue to
+turn up, despite one writer’s recent comment that the symbolism and irony of Blake make his poem unsuitable
+for a congregational hymn (see S.J. Rogel, “Blake’s ‘And Did Those Feet’ as Congregational Hymn,”
+<hi rend="i">The Hymn</hi> 44/3 (1993): 22-25).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PEDERSEN, Fuzzy (Jens Wilhelm), 1939-; DENMARK</title>
+            </head>
+            <p><hi rend="i">Proverbs of Hell</hi>; for baritone solo, reciter, mixed chorus, percussion, tuba,
+and electronics. Copenhagen, Ed. Wm. Hansen, 1999. Dur. 21′. 1st perf. 16 Nov. 1999. Rec’d Wilhelm Hansen
+composer prize, 1999. S: DMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PEITSALO, Peter, 1970-; FINLAND</title>
+            </head>
+            <p><hi rend="i">Three Poems by William Blake</hi>; for mixed chorus accompanied. Ms., composed
+1988-89. Dur. 13′. Tape and score available from FMIC. Contents: 1. The Fly. 2. The Tyger. 3. The Lamb. S:
+FMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title><corr type="emend">PELEGRÍ I MARIMÓN, Maria Teresa,</corr> 1907-; SPAIN</title>
+            </head>
+            <p><hi rend="i">Infant Joy—Spring</hi>; for mixed chorus. Ms., composed 1976.
+<pb id="p35-55" n="55"/>
+Dur. 8′. Music in a very contemporary Second Viennese style. Biog: NGDWC; also Associacio Catalana de
+Compositors, <hi rend="i">68 Compositors Catalans</hi> (Barcelona, 1989).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PETERSON, John Murray, 1957-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">Eternity’s Sunrise</hi>; five songs for mezzo-soprano or contralto and piano.
+Alexandria, NSW, JMP Music Press, c1995. 32 p. Dur. ca. 12′. “Dedicated to the memory of Allan Byrnes.”
+1st perf. 19 Aug. 1995, by Marianne Powles (contralto) and Kellie Dickerson (pf) in a concert at Old
+Darlington School, U of Sydney. Contents: 1. Auguries of Innocence. 2. On Another’s Sorrow. 3. Holy
+Thursday. 4. Endless Night. 5. Eternity. Biog: IWWM. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PIERCE, Alesandra, 1934-; USA</title>
+            </head>
+            <p><hi rend="i">Three Songs of Innocence</hi>; for SSA chorus and tom-tom. N.p., 1988. Contents:
+1. Introd. to SI. 2. The Lamb. 3. Laughing Song. Biog: IEWC. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>PITFIELD, Thomas Baron, 1903-; UK</title>
+            </head>
+            <p><hi rend="i">A Short Community Service</hi>; for chorus and organ. N.p., Ecumenical, 1964. Text
+by the composer and Blake (The Divine Image). Biog: IWWM. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>POSTON, Elizabeth, 1905-1987.; UK</title>
+            </head>
+            <p><hi rend="i">The Lamb.</hi> In: The Children’s Song Book (London: Bodley, 1961). Biog: NGDWC.
+S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>POTTER, Edward Tuckerman, 1831-1904.; USA</title>
+            </head>
+            <p><hi rend="i">The Tyger, Set to Music</hi>; for voice and piano. Newport, RI, C.E. Hammett,
+1878. 4 p. Noted in Grinke and Rodgers catalogue (1969), lot 16. Apparently the earliest American setting of
+any Blake text. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>POUSSEUR, Henri, 1929-; BELGIUM</title>
+            </head>
+            <p><hi rend="i">Tales and Songs from the Bible of Hell</hi>; for voices and instrumental ensemble.
+Milan, Edition Sovini Zerboni, 1979. Dur. 28′. Text by E.E. Cummings, John Dowland, E.A. Poe, and Dylan
+Thomas, but incl. Blake: A Memorable Fancy (MHH). Recording: Electric Phoenix Performs Music by HP (London,
+Wergo, c1982. 1 LP). Biog: New Grove. S: OCLC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RAMEY, Phillip, 1939-; USA</title>
+            </head>
+            <p><hi rend="i">Merlin’s Prophecy</hi>; for high voice and piano. Ms., composed 1966. 2 p. Dur.
+1′. Blake text beginning: The harvest shall flourish . . . . Biog: IWWM. S:AMC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(RAMEY)</title>
+            </head>
+            <p><hi rend="i">A William Blake Trilogy</hi>; for soprano voice and piano. Ms., composed 1980. 37
+p. Dur. ca. 14′. Contents: 1. The Grey Monk. 2. Song: My Silks and Fine Array. 3. A War Song to Englishmen.
+S:AMC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RANDALLS, Jeremy, 1959-; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">The Little Vagabond</hi>; a song cycle of poems by William Blake, for two
+sopranos, flute, oboe, bass-clarinet, horn, piano, viola, and cello. Ms., composed 1984. Dur. 25′. Contents:
+1. Nurse’s Song. 2. The Tyger. 3. The Garden of Love. 4. The School Boy. 5. Infant Joy. 6. A Dream. 7.
+Earth’s Answer. 8. Spring. Biog: Scottish composer now living in Palermo. S: SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(RANDALLS)</title>
+            </head>
+            <p><hi rend="i">Night</hi>; for voice and piano. Ms., composed 1988. Dur. 4′45″. S: SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RASMUSSEN, Geraldine Dorothy, 1926-; USA</title>
+            </head>
+            <p><hi rend="i">In the Bosom of God</hi>; song for high voice and piano, in F. Ms., composed 1987,
+rev. 1990. 3 p. See also BSM 1005-1012. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*RAU, Earl.; USA</title>
+            </head>
+            <p><hi rend="i">Love’s Secret.</hi> Oklahoma City, Oklahoma Music Educators’ Assn., 1967. 1st
+words: I told my love. Score misattributes the text to Robt. Burns. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RAWSTHORNE, Alan, 1905-1971.; UK</title>
+            </head>
+            <p><hi rend="i">Infant Joy</hi>; song for high voice and piano. Ms., composed ca. 1934-37. Dur.
+1′30″. 1st perf. Graham Titus (ten), 22 Sept. 1974. Poulton also notes an unidentified Blake song by AR
+dating from ca. 1920. Biog: New Grove. S: Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RAYMOND, Ralph.; UK</title>
+            </head>
+            <p><hi rend="i">I Told My Love</hi>; song for voice and piano. London, Lublin and Co., 1906. fol.
+S: CPM.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*REES, Elizabeth.</title>
+            </head>
+            <p><hi rend="i">William Blake Fragments.</hi> Ms., composed 1971. Contents: 1. Eternity. 2. Song
+of the Aged Mother (Vala). 3-4. Lines from Jerusalem and MHH. 5. Daughters of Beulah! (Milton). 6. With
+Happiness Stretch’d Across the Hills (Ltr. to Thos. Butts, 22 Nov. 1802). S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>REYNARDSON, Herbert Frederick Birch.; UK</title>
+            </head>
+            <p><hi rend="i">Book of Four Songs.</hi> London, J. and J. Hopkinson, 1889. Incl. one Blake title:
+My silks and fine array. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RITCHIE, John Anthony, 1921-; NZ</title>
+            </head>
+            <p><hi rend="i">Five William Blake Songs of Innocence</hi>; for high voice and guitar. Ms.,
+composed 1994. 23 p. Dur. 12′45″. Written for and 1st perf. by Malcolm McNeill (voice) and Tony Donaldson
+(guitar). Available from SOUNZ. Contents: 1-2. Ah! Sunflower. 3. The Fly. 4. Cradle Song. 5. The Tyger. See
+also BSM 1035. Biog: IWWM. S: SOUNZ.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROCHBERG, George, 1919-; USA</title>
+            </head>
+            <p><hi rend="i">Piping Down the Valleys Wild</hi>; in the composer’s Book of Songs for Voice and
+Piano (Bryn Mawr, PA, Th. Presser, c1969) no. 29. Composed 13 Feb. 1951, rev. 24 May 1969.
+<pb id="p35-56" n="56"/>
+Biog: New Grove. See also BSM 1041-42. S: J.D. Dixon, <hi rend="i">GR</hi> (Pendragon Press, c1992).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(ROCHBERG)</title>
+            </head>
+            <p><hi rend="i">Tyger, Tyger</hi>; in the composer’s Book of Songs for Voice and Piano (Bryn
+Mawr, PA, Th. Presser, c1969) no. 35. 1st version composed 22 June-19 July 1957, 2nd version 23 June-2 July
+1969. One of 35 songs gathered together and publ. from ms. Complete score: 164 p. S: Dixon (see preceding
+entry).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROE, Betty, 1930-; UK</title>
+            </head>
+            <p><hi rend="i">The Heritage of Children</hi>; cantata for soprano solo, SATB chorus, children’s
+choir, oboe, and organ. London, Thames Publishing, 1994. 32 p. 1st perf. 20 Nov. 1994, North Kensington
+Chorale, composer cond. Texts by Blake and five others; Blake: 1. Infant Joy. 2. Holy Thursday. 3. Nurse’s
+Song. 4. Sweet Joy. Biog: NGDWC. S: BMIC; pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROPER, Ramon, 1941-; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">Wings II</hi>; for soprano voice and piano. Halstead, Essex, Anglian Editions,
+1973. A cycle of five songs incl. Blake: The Blossom (dur. 1′). S: SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROSE, John, 1928-; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">The Fly</hi>; for SAB voices and piano. Glasgow, Eden Music Publishing, 1995. Dur.
+45”. Now incl. in the composer’s Two Fly Songs, for children’s voices. Biog: Music educator, founder of
+the St. Alban’s Chamber Choir. S: SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(ROSE)</title>
+            </head>
+            <p><hi rend="i">Three Night Pieces</hi>; for children’s choir, recorder group, and percussion.
+Glasgow, Eden Music Publishing, 1982. Texts by De la Mare, Browning, and Blake: Night (dur. 1′). S:
+SMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROSE, John (Luke), 1933-; UK</title>
+            </head>
+            <p><hi rend="i">Blake’s Songs of Innocence</hi>; for soprano voice and piano. Ms., composed
+1972. 46 p. A setting of the complete SI; “a new revised edition is in preparation”—JLR (1999). Biog:
+IWWM. English music educator and composer. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROUTH, Francis John, 1927-; UK</title>
+            </head>
+            <p><hi rend="i">Scenes I</hi>, op. 36 (rev. ed.); for orchestra. London, Radcliffe, 1978. Dur.
+35′. In five movements of which No. 5: To the Evening Star, appears to be a musical source for the choral
+work publ. 1980 under the same title (see BSM 1062). Biog: New Grove. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROVNER, Anton.; USA</title>
+            </head>
+            <p><hi rend="i">The Tiger</hi>, op. 13, no. 1; for SATB chorus. Ms., composed 1986. Dur. 4′. S:
+AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>ROWLEY, Christopher Edward, b. 1840; UK</title>
+            </head>
+            <p><hi rend="i">6 School Songs</hi>; in two books. London, Joseph Williams, 1899-1905. 2 vols. Bk.
+1 incl. two Blake titles: 1. Little Lamb. 2. Laughing Song. Biog: Brown. Prominent Victorian organist and
+music educator. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>RUSSO, William Joseph, 1928-; USA</title>
+            </head>
+            <p><hi rend="i">Four Songs of Celebration</hi>; cantata for SSTBB soli, double chorus, and
+orchestra. New York, G. Schirmer, 1980. Composed 1971, rev. 1975. Incl. one Blake title: Spring. 1st perf. 21
+Feb. 1973, Peabody Conserv. Music, Baltimore. Also pub. for four-part chorus of mixed and men’s voices, with
+piano and drum acc. Biog: NGDAM. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SAINTE CROIX, Judith.; USA</title>
+            </head>
+            <p><hi rend="i">The Sick Rose</hi>; duet for soprano and contra-bass. Ms., composed 1971. 4 p.
+Dur. 2′. 1st perf. 1974. S: NYWC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 1072: SANDERS, Ed, 1939-; USA</title>
+            </head>
+            <p><hi rend="i">How Sweet I Roamed.</hi> A new version with singer Steve Taylor appears on the
+live reunion album Refuse to Be Burnt Out (The FUGS, 1984), and a third version on the album The Real
+Woodstock Festival (The FUGS, 1995), which also contains two new Blake pieces: 1. Auguries of Innocence, and
+2. Nurse’s Song. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 1081: SAPP, Allen Dwight, 1922-; USA</title>
+            </head>
+            <p><hi rend="i">The Little Boy Lost.</hi> This cantata includes other Blake texts besides the
+title poem: 1. Laughing Song. 2. The Little Boy Lost. 3. The Shepherd. 4. Spring. 5. The Lilly. 6. Epilog: The
+Rose Tree; interspersed with instrumental numbers. Awarded the Samuel Wechsler Award (Berkshire Music Center).
+Biog: NGDAM. S: Alan Green, <hi rend="i">AS</hi> (Greenwood Press, c1996), for reviews and performances.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*SCHIFFMAN, Harold.; USA</title>
+            </head>
+            <p><hi rend="i">The Crystal Cabinet.</hi> Ms., composed 1959. 1st perf. Tallahassee, FL, 1959. S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SCHNEIDER, Gary M., 1957-; USA</title>
+            </head>
+            <p><hi rend="i">A Special Bouquet</hi>; three songs for SATB chorus. New York, American Composers
+Alliance, 1975. Texts by Jose Marti and Blake, of which No. 2 is The Sick Rose. Biog: IWWM. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SCHOONENBEEK, Kees, 1947-; NETHERLANDS</title>
+            </head>
+            <p><hi rend="i">Hear the Voice of the Bard</hi>; for mixed choir and organ. Ms., composed 1989.
+Also a version for mixed choir and piano (1998). 54 p. Dur. 15′. S: Donemus.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SCHURMANN, Gerard, 1924-; JAVA/UK/USA</title>
+            </head>
+            <p><hi rend="i">Nine Poems of Blake</hi>; a song cycle. Ms., composed 1955 (G&amp;T gives 1956).
+Contents: 1. Ah! Sunflower. 2. Eternity. 3. The Fly. 4. I Laid me down upon a Bank. 5. Mad Song. 6. Morning.
+7. Man’s Spectre (My Spectre around me night and day). 8. The Sick Rose. 9. To the Evening Star. “Written
+for Peter
+<pb id="p35-57" n="57"/>
+Pears and Benjamin Britten”—GS. Biog: Baker 20. Noted Hollywood film composer. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SCHURMANN)</title>
+            </head>
+            <p><hi rend="i">Six Songs of William Blake</hi>; for voice and piano. London, Novello, c1997. 23
+p. Pub. no. 170365. Comm. by The Rawsthorne Trust. Contents: 1. Augury (To see a world). 2. Ah! Sun-flower. 3.
+I Laid me down upon a Bank. 4. Eternity. 5. The Sick Rose. 6. To the Evening Star. Date at end: Feb. 1997.
+Incl. three songs revised from the earlier cycle (above). S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SCOTT, Derek B., 1950-; UK</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence and Experience</hi>, op. 11; six Blake part-songs for SAATTB
+chorus. Beverley, Eng., Argus Music, c1988. 24 p. Composed 1981. Contents: 1-2. Two versions of The Chimney
+Sweep. 3-4. Two versions of Nurse’s Song. 5. The Echoing Green. 6. The Garden of Love. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SCOTT, Stuart John, 1949-; UK</title>
+            </head>
+            <p><hi rend="i">The Song of Los</hi>, op. 80; for solo clarinet. Lancaster, Eng., <corr type="emend">Phylloscopus
+Pbns.,</corr> 1996. 5 p. Dur. 4′. “Inspired by and loosely following the ideas behind Blake’s poem”—SJS.
+Biog: IWWM. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SCOTT, S.J.)</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>, op. 53; for mezzo-soprano and piano. Ms., composed 1977.
+8 p. Dur. 5′. Contents: 1. Laughing Song. 2. A Cradle Song. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SCOTT, S.J.)</title>
+            </head>
+            <p><hi rend="i">The Wild Flower’s Song</hi>, op. 77; for two-part female chorus (SS) and piano.
+Manchester, Eng., SJS Pbns., 1997. Dur. 1′30″. 1st perf. 5 Apr. 1997, by Meadway Singers, Joe Agnew cond.,
+Manchester, UK. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>BSM 1102: SEGERSTAM, Leif Selim, 1944-; FINLAND</title>
+            </head>
+            <p><hi rend="i">Mad Song.</hi> Now (1991) also available for SATB chorus with piano and three
+percussion instruments. Dur. 22′. Score available from FMIC. Biog: Baker 20. S: FMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SEGERSTAM)</title>
+            </head>
+            <p><hi rend="i">Spring</hi>; for children’s chorus and chamber ensemble of flute, viola,
+percussion, organ, and piano. Ms., composed 1980. 5 p. Score available from FMIC. S: FMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SEKTBERG, Willard.; USA</title>
+            </head>
+            <p><hi rend="i">A Fog Land.</hi> Boston, Boston Music Co., 1928. Blake text indicated. Biog:
+Professional pianist. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SELBY, Philip, 1948-; UK</title>
+            </head>
+            <p><hi rend="i">Three Blake Fragments.</hi> Ms., composed 1979. Contents: 1. Are Not the Joys of
+Morning Sweeter. 2. Cradle Song. 3. Hear the Voice (Introd. to SE). Biog: IWWM. Guitarist and composer. S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SEWELL, Gregg.; USA</title>
+            </head>
+            <p><hi rend="i">Little Lamb</hi>; for unison chorus, optional two-part, optional flute, and piano.
+Dayton, OH, Triune Music/Lorenz, c1996. 7 p. (Young shepherds choral series, pub. no. 10/1444k). S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SHAFFER, Jeanne Ellison, 1925-; USA</title>
+            </head>
+            <p><hi rend="i">Eternity</hi>; five songs for soprano voice and piano. Washington, DC, Arsis
+Press, c1994. Dur. ca. 7′. Composed 1992. Contents: 1. The Wild flower’s Song. 2. Soft Snow. 3. Infant
+Joy. 4. Infant Sorrow. 5. Eternity. An earlier version, arr. for small chamber group and high voice, less no.1
+(above), is Eternity, op. 136 (1975), dur. 12′; recorded on a Musicians Collective CD, Apr. 1999. S: AMC;
+pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SHAFFER)</title>
+            </head>
+            <p><hi rend="i">Infant Joy</hi>; for SSAA chorus. Montgomery, Ala., Company Press, c1996. Comm.
+for the Women’s Music Festival at Indiana U of Pennsylvania. Tape available. Also arr., with Infant Sorrow,
+for TTBB chorus. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SMIRNOV, Dmitri, 1948-; RUSSIA</title>
+            </head>
+            <p><hi rend="i">Abel (Blake’s Picture III)</hi>, op. 65; for clarinet, violin, cello, and piano.
+Ms., composed 1991. Dur. 14′. 1st perf. 24 June 1992, St. Magnus Cathedral, Orkney, by Chameleon. Boosey
+&amp; Hawkes, London, are the English agents for this composer’s work. See also BSM 1143-54. Biog: Baker 20.
+S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">The Angels of Albion</hi>, op. 64; for piano. Ms., composed 1991. Dur. 18′. 1st
+perf. (pieces from the cycle) Holywell Music Room, Oxford, with Susan Bradshaw. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">From Evening to Morning</hi>, op. 55; for mixed chorus a cappella. Ms., composed
+1990. Dur. 12′. Contents: 1. To the Evening Star. 2. To Morning. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">Jacob’s Ladder (Blake’s Picture II)</hi>, op. 58; for sixteen players. Ms.,
+composed 1990. Dur. 14′. 1st perf. 17 Apr. 1991, Queen Elizabeth Hall, London, London Sinfonietta, <corr type="emend">Gennady
+Rozhdestvensky</corr> cond. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>, op. 83; for counter tenor and six viols (two treble, two tenor, two
+bass). Ms., composed 1995. Dur. 6′. 1st perf. 2 May 1995, Purcell Room, London, with Michael Chance and
+Fretwork. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">Miss Gittipin’s Talk</hi>, op. 98; for solo soprano. Ms., composed 1997. Dur.
+5′. A setting of a prose fragment from: An Island in the Moon. S: B&amp;H.</p>
+          </div3>
+          <pb id="p35-58" n="58"/>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">Nine Pieces for Piano.</hi> Ms., composed 1967-79. Dur. 16′. No. 9 has the Blake
+title: The Crystal Cabinet. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">The River of Life (Blake’s Picture IV)</hi>, op. 66; for sixteen players. Ms.,
+composed 1992. Dur. 13′. 1st perf. 8 Nov. 1992, Queen Elizabeth Hall, London, London Sinfonietta, Oliver
+Knussen cond. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(SMIRNOV)</title>
+            </head>
+            <p><hi rend="i">Three Blake Songs</hi>, op. 61; for soprano and ensemble (cl,bcl,vla,vlc,db). Ms.,
+composed 1991. Dur. 14′. Contents: 1. Silent, Silent Night. 2. The Tyger. 3. To See a World. 1st perf.,
+no.1: 20 July 1991, Cheltenham Festival; nos. 2-3: 13 May 1992, Dartington, with Mary Wiegold, sop, and
+composer’s ensemble. S: B&amp;H.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SMITH, Edith M.; UK</title>
+            </head>
+            <p><hi rend="i">Two Songs.</hi> London, Weekes, 1893. fol. Contents: 1. How Sweet I Roved (Blake).
+2. Ask Me No More Where Jove Bestows (Carew). G&amp;T attributes this set to Lady Edith Euan Smith. S:
+BCM.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SPIES, Claudio, 1925-; CHILE/USA</title>
+            </head>
+            <p><hi rend="i">Three Songs.</hi> Ms., composed 1945. Blake texts indicated. Biog: NGDAM; Baker.
+S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*STEVENS, William.; USA</title>
+            </head>
+            <p><hi rend="i">Four Love Songs and a Hate Song.</hi> Ms., composed 1971. Incl. Blake: Cradle
+Song. 1st perf. 23 Sep. 1974, U of Maryland. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>STILES, Frank, 1924-; UK</title>
+            </head>
+            <p><hi rend="i">The Piper</hi>; for SATB chorus and flute solo. Ms., composed 1977. Dur. 7′.
+Blake text: Introd. to SI. Comm. by Harmworth Choir, Elsie Bernard, cond., and 1st perf. Aug. 1977, at the
+Salisbury Festival (UK). Biog: IWWM. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(STILES)</title>
+            </head>
+            <p><hi rend="i">Love and Harmony</hi>; song for baritone and piano. Ms., composed 1979. Dur. 5′.
+Comm. by Kenneth Park; 1st perf. by Park and Nigel Morley at Sam Newsom Music Centre, Boston, Lincolnshire. S:
+pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>STOCKHAUSEN, Karlheinz, 1928-; GERMANY</title>
+            </head>
+            <p><hi rend="i">Texte der Momente</hi>; für Solosopran, 4 chorgruppen und 13 Instrumentalisten.
+Version 1972. Kursten, Ger., The Author, c1993. 32 p. Incl. Blake text (pp. 21-23): He who kisses the joy as
+it flies lives in Eternity’s sunrise (Eternity), sung by the solo soprano and two women’s choruses, in
+section called Mako. Biog: New Grove. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>SVANE, Randall, 1955-; USA</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for boys’ choir (SSA), mixed chorus, and orchestra.
+Ms., c1985. Dur. 20′. Contents: 1. Introd. 2. A Dream. 3. The Little Boy Lost. 4. The Ecchoing Green. 5.
+Infant Joy. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TAFFS, Anthony J., 1916-; USA</title>
+            </head>
+            <p><hi rend="i">Five Blake Songs</hi>; for medium/high voice and piano. Ms., composed 1960. 18 p.
+Contents: 1. Piping Down the Valleys Wild (2′20). 2. Ah, Sunflower (2′35). 3. Love’s Secret (2′). 4.
+Night (5′30). 5. The Fly (1′20). Recorded Summer 1997 on the CD album Never Seek to Tell Thy Love; songs
+of Joseph Marx and Anthony Taffs (Albion, 1998), with soprano Maureen Balke and pianist Narciso Solero. Biog:
+Prof. Music emeritus, Albion College, Michigan. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(TAFFS)</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for two-part junior choir and piano. Ms., n.d. 2 p. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TATE, Phyllis, 1911-1987.; UK</title>
+            </head>
+            <p><hi rend="i">Beauty Bright</hi>; for unison chorus/solo voice and piano. Wendover, Eng.,
+Roberton, 1980. Dur. 2′. Composed 1980. Dedicated to L.I.F.E. (anti-abortion). See also BSM 1230-1233. S:
+Poulton.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TAVENER, John Kenneth, 1944-; UK</title>
+            </head>
+            <p><hi rend="i">Eternity’s Sunrise</hi>; for solo soprano with baroque orchestra. London,
+Chester Music, 1998. Composed 1997. Dur. 10′. Blake text: To see a world in a grain of sand . . . (Auguries
+of Innocence). Comm. Academy of Ancient Music; 1st perf. 1 July 1998, St. Andrew’s, Holborn, City of London
+Festival, AAM, Paul Goodwin cond., Patricia Rozario, sop. No. 1 of CD recording: Eternity’s Sunrise
+(Harmonia Mundi 907231). See also BSM 1235. Biog: Baker 20. S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(TAVENER)</title>
+            </head>
+            <p><hi rend="i">The Tyger</hi>; for SSSSSAATTTBBB chorus. London, Chester Music, n.d. 12 p. Pub.
+no. CH55906. Composed 1987. Comm. Philip Brunelle; 1st perf. 5 Mar. 1989, Plymouth Congregational Church,
+Minneapolis. S: BMIC; pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TEPPER, Albert, 1921-; USA</title>
+            </head>
+            <p><hi rend="i">Songs: Of Innocence—Of Experience</hi>; for chorus, soloists, and chamber
+ensemble. Ms., composed 1968. Contents: Of Innocence: The Piper. The Lamb. Infant Joy. Holy Thursday. Of
+Experience: The Bard. The Tyger. Infant Sorrow. Holy Thursday. 1st perfs. 24, 26-27 April 1968, with Adelphi
+Dance Theatre, Garden City, NJ, choreography by Harry Bernstein. Also often presented as Meditations on
+Blake’s Songs of Innocence and Experience, a piano solo score (dur. 16′), each part preceded by a reading
+of the poem involved. Biog: ASCAP. Prof. Music emeritus, Hofstra U. S: program; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>THOMAS, Christopher Joseph, 1894-; UK/USA</title>
+            </head>
+            <p><hi rend="i">All the Hills Echoed.</hi> Cincinnati, Willis, 1949. Blake text:
+<pb id="p35-59" n="59"/>
+Nurse’s Song (SI). Biog: ASCAP (1966). See also BSM 1250-54. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>THOW, John, 1949-; USA</title>
+            </head>
+            <p><hi rend="i">When You Were Born</hi>; five songs for soprano, flute, cello, and harp. Ms.,
+composed 1987. 35 p. Blake texts for nos. 1: Infant Joy and 5: Nurse’s Song (SI). 1st perf. San Francisco,
+12 Dec. 1989, by the Earplay Ensemble, with soprano Sarah Ganz, Jonathan Khuner cond.; also at Juilliard, 12
+Nov. 1991, with soprano Barbara Ann Martin, Paul Lustig Dunkel cond. Biog: Prof. Music, UC Berkeley. S:
+pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TIPTON, Clyde.; USA</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for SSA chorus a cappella. Corvallis, OR, Earthsongs,
+c1993. 6 p. (Saint Mary’s College Choral series). Contents: 1. Little Lamb. 2. Spring (Sound the flute). 3.
+The Shepherd. 4. Nurse’s Song (SI). 5. Laughing Song. Five one-page settings with frequent divisi and some
+solos. Biog: Prof. Music, Georgia State U, Milledgeville. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TREHARNE, Bryceson, 1879-1948.; UK/USA</title>
+            </head>
+            <p><hi rend="i">Prepare! Prepare!</hi> New York, Composer’s Music Corp., 1921. Blake text: A War
+Song for Englishmen. Biog: Baker. See also BSM 1269. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>TREMAIN, Ronald, 1923-1998.; CANADA</title>
+            </head>
+            <p><hi rend="i">Four Blake Songs</hi>; for soprano and cello. Ms., composed 1988. 15 p. Dur. 8′.
+Available from CMC. Contents: 1. Ah! Sunflower. 2. The Sick Rose. 3. A Divine Image. 4. Mock On! See also BSM
+1270-71. S: CMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>USHER, Julia, 1945-; UK</title>
+            </head>
+            <p><hi rend="i">Due Canti</hi>; for tenor and ensemble. Ms., composed 1970. Incl. a setting of
+Blake’s Eternity (He who bends to himself a joy). Biog: NGDWC. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(USHER)</title>
+            </head>
+            <p><hi rend="i">A Grain of Sand in Lambeth</hi>; for SATB chorus and orchestra, with sound
+sculptures by Derek Shiel. Ms., composed 1986. 244 p. Dur. 90′. Score available from Primavera Press,
+Colchester, Eng. Comm. by the Blake Society for the William Blake Festival, and 1st perf. 3 June 1987, St.
+James, Piccadilly, with the St. James Singers and the London Brass, Ivor Bolton cond. Text, in sixteen
+movements, combines passages from SI, SE, MHH, Four Zoas, Notebook, Milton, and Jerusalem. S: BMIC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(USHER)</title>
+            </head>
+            <p><hi rend="i">Mercy, Pity, Peace and Love</hi>; for trumpet, clarinet, and strings. Ms.,
+composed 1998. Dur. 6′30″. “Computer-orchestrated version” of material from A Grain of Sand. S:
+pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>VEHAR, Persis Parshall, 1937-; USA</title>
+            </head>
+            <p><hi rend="i">Reflections from Childhood</hi>; for SATB chorus. Ms., c1985. 10 p. Dur. 3′. 1st
+perf. 11 May 1987. A retitled version of BSM 1292, removing a Rossetti setting which was part of that work.
+Blake text: When the voices of children are heard on the green (Nurse’s Song). S: AMC; pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>VERBUGT, Eric, 1966-; NETHERLANDS</title>
+            </head>
+            <p><hi rend="i">Drempel</hi>; for flute, percussion, cello, baritone, piano, and bass clarinet.
+Ms., composed 1995. 58 p. Dur. 15′. Drempel=threshold. Blake text: You never know what is enough unless you
+know what is more than enough. Exuberance is beauty, enough! or too much. S: Donemus.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>VICKERS, Bryan, 1937-; UK</title>
+            </head>
+            <p><hi rend="i">Blake Songs</hi>; for voice and piano. Ms., n.d. Contents: 1. Holy Thursday. 2.
+The Lamb. 3. Divine Image. 4. Vagabond. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>VICTORY, Gerard, 1921-1995.; IRELAND</title>
+            </head>
+            <p><hi rend="i">The Evening Star</hi>; for tenor solo, SATB voices, and orchestra. Ms., n.d. Texts
+by Blake and Browning. See also BSM 1294-96. Biog: Baker 20. S: IMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(VICTORY)</title>
+            </head>
+            <p><hi rend="i">The Tyger</hi>; for SSAA chorus. Ms., composed 1988. Dur. 4′. S: IMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>VOLLRATH, Carl P., 1931-; USA</title>
+            </head>
+            <p><hi rend="i">Five Short Songs by William Blake</hi>; for voice and piano. Ms., composed 1963.
+10 p. Dur. ca. 8′. Contents: 1. The Angel. 2. Eternity. 3. The Fly. 4. The Sick Rose. 5. The Wild Flower’s
+Song. 1st perf. 1963, U of Florida, Gainesville. Biog: Prof. Music, Troy State U (Alabama). S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(VOLLRATH)</title>
+            </head>
+            <p><hi rend="i">Songs of Experience</hi>; for voice and piano. Ms., composed 1966. 20 p. Dur.
+12′. Contents: 1. Ah! Sunflower. 2. The Garden of Love. 3. The Little Vagabond. 4. My Pretty Rose Tree. 5.
+The School Boy. 6. The Shepherd. 1st perf. 1966, Troy State U. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(VOLLRATH)</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for voice and piano. Ms., composed 1960-61. 20 p. Dur.
+12′. Contents: 1. The Ecchoing Green. 2. The Lamb. 3. Nurse’s Song. 1st perf. 1961, Florida State U. All
+available from Troy State U Library. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WALL, Ruth.; UK</title>
+            </head>
+            <p><hi rend="i">On a Cloud</hi>; for SSATBB voices. Ms., composed 1994. Blake text indicated. 1st
+perf. 26 Feb. 1994., London Sinfonietta Voices, SPNM Regional Day, Cardiff. Score withdrawn by composer. S:
+BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WEBB, Peter, 1948-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">Five Blake Songs</hi>; for SATB choir and piano. Ms., composed 
+<pb id="p35-60" n="60"/>
+1988. 41 p. Dur. 18′. Contents: 1. The Piper. 2. The Lamb. 3. A Poison Tree. 4. A Divine Image. 5. The
+Tiger. Arr. for chorus and orchestra (101 p.) and 1st perf. 29 Nov. 1994, Adelaide Harmony Choir and Unley
+Chamber Orchestra, composer cond. No. 5: The Tiger separately arr. for SSA choir and piano (17 p.). Biog:
+IWWM. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WEIDIG, Adolf, 1867-1931.; USA</title>
+            </head>
+            <p><hi rend="i">Mother Sings.</hi> Chicago, H.T. FitzSimons, 1931. Blake text: A Cradle Song.
+Biog: Baker. Prominent Chicago music educator. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WERDER, Felix, 1922-; AUSTRALIA</title>
+            </head>
+            <p><hi rend="i">Blake’s Songs of Innocence</hi>; for piano. Ms., composed 1985. 7 p. “For
+Trevor Barnard,” and recorded by Barnard for the ABC in 1986. Contents: 1. The Sick Rose. 2. Spring. 3.
+Introduction (Piping down the valleys wild). Biog: Baker 20. See also BSM 1314. S: AusMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(WERDER)</title>
+            </head>
+            <p><hi rend="i">Holy Thursday.</hi> Ms., composed 1978. “Inspired by Blake’s poem (from
+SI).” 1st perf. St. Patrick’s Cathedral, Melbourne; recording issued on Move Records (MS 3025.1979). S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WHITCOMB, Robert Butler, 1921-; USA</title>
+            </head>
+            <p><hi rend="i">Three Songs for Soprano.</hi> Ms., composed 1955. Incl. Blake: The Lamb. Biog:
+IWWM. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WHITE, John David, 1931-; USA</title>
+            </head>
+            <p><hi rend="i">Thel Fantasy for Piano.</hi> Ms., n.d. Perf. 26 Nov. 1957 at Kent State U. See
+also BSM 1337-42. S: GEB.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WIENHORST, Richard.; USA</title>
+            </head>
+            <p><hi rend="i">Songs of Innocence</hi>; for SA chorus and piano. Boston, ECS Publishing, c1991.
+26 p. Pub. cat no. 4650. Contents: 1. Introduction: Piping down the valleys wild. 2. The Shepherd. 3. Spring:
+Sound the flute. Biog: Prof. Music, Valparaiso U; composer of the Frank Lloyd Wright opera, 
+<hi rend="i">Shining Brow.</hi> S: pub.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(WIENHORST)</title>
+            </head>
+            <p><hi rend="i">Two Blake Settings</hi>; for unison treble chorus and harp (or piano). Boston,
+Ione Press/ECS, c1992. 2 nos. (8, 11 p.). Available separately. Composed 1988. Contents: 1. Soft Snow (cat.
+no. 4652). 2. The Lamb (cat. no. 4653). Comm. for Sammy Cowen by the Children’s Chorus of Victoria, TX. S:
+copies.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WILDER, Alec, 1907-1980.; USA</title>
+            </head>
+            <p><hi rend="i">Lullabies and Night Songs</hi>; a collection of children’s poems set to music.
+Music by Alec Wilder, pictures by Maurice Sendak, ed. William Engvick. New York, Harper, 1965. Includes one
+Blake poem: Cradle Song (Sleep, sleep, beauty bright). Recorded by Jan De Gaetani, sop, orchestrated and
+conducted by Rayburn Wright (Caedmon TC-1777). Rev: <hi rend="i">Music Journal</hi> 24 (Feb. 1966): 95. Biog:
+Baker 20. S: copy.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(WILDER)</title>
+            </head>
+            <p><hi rend="i">Never Seek to Tell Thy Love (Songbook B)</hi>; song for voice and piano. Ms., n.d.
+Dur. 1′15″. Perf. 13 Feb. 1988, Weill Recital Hall, NY, in the “Fourth Annual Birthday Concert” of the
+Friends of Alec Wilder. S: David Dempsey and <corr type="emend">Ronald Prather,</corr> <hi rend="i">AW</hi> (Greenwood Press,
+c1993).</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WILLIAMS, Christopher a Becket, 1890-1956.; UK</title>
+            </head>
+            <p><hi rend="i">Cupid’s Song</hi>; for voice and piano, in D. London, Curwen, 1924. 1st line:
+Why was Cupid a boy. Biog: WWM (1949/50). S: CPM.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*WILLIAMS, Dorothy.</title>
+            </head>
+            <p><hi rend="i">The Little Black Boy.</hi> Ms., composed 1963. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WILLIAMSON, Malcolm, CBE, 1931-; AUSTRALIA/UK</title>
+            </head>
+            <p><hi rend="i">The Fly.</hi> Ms., composed 1957. 1st perf. 21 June 1957, Aldeburgh Festival Blake
+Bicentenary Competition. Biog: New Grove. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WILLIS, Richard M., 1929-; USA</title>
+            </head>
+            <p><hi rend="i">The Sick Rose.</hi> Wichita, Hoffman, 1972. Biog: ASCAP. See also BSM 1371. S:
+G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WILSON, Jeffery, 1957-; UK</title>
+            </head>
+            <p><hi rend="i">The Lamb</hi>; for SATB chorus and organ. Ms., composed 1982. Combines the Blake
+poem with the liturgical Agnus Dei. S: BMIC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>*WILSON, Ray R.</title>
+            </head>
+            <p><hi rend="i">Night.</hi> Ms., composed 1946. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WOBBLE, Jah (John Warde).; UK</title>
+            </head>
+            <p><hi rend="i">The Inspiration of William Blake</hi> (CD album). Thirsty Ear Recordings, 1997.
+Blake titles in the album: 1. Songs of Innocence. 2. Tyger, Tyger. 3. Holy Thursday. 4. The Angel. 5. Auguries
+of Innocence. Biog: Larkin. English bass player and crossover artist. S: pc.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WOLPE, Stefan, 1902-1972.; USA</title>
+            </head>
+            <p><hi rend="i">The Angel</hi>; for medium voice and piano. Ms., composed 1959. Dur. 1′. Biog:
+NGDAM. S: AMC.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>WORDSWORTH, William Brocklesby, 1908-1988.; SCOTLAND</title>
+            </head>
+            <p><hi rend="i">The Minstrel’s Song</hi>; for tenor and harp. Ms., composed 1950. 5 p. Blake
+text beginning: Their mighty wings shall stretch from east to west, their rest is in the sea, and ending: With
+her eagle’s wings she covereth Fair Albion’s shore and all her families. Biog: Grove. See also BSM
+1392-95. S: SMIC.</p>
+            <pb id="p35-61" n="61"/>
+          </div3>
+          <div3>
+            <head>
+              <title>YOUNG, Douglas, 1947-; UK</title>
+            </head>
+            <p><hi rend="i">Journey Between Two Worlds</hi>; for chorus, rock group, steel band, and
+orchestra. Ms., composed 1979. Text incl. Blake: The Divine Image. 1st perf. 3 Apr. 1979, de Montfort Hall,
+Leicester. Biog: Baker 20. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(YOUNG)</title>
+            </head>
+            <p><hi rend="i">A Little Child Lost and Found.</hi> Ms., composed 1979. Blake texts: 1. A Little
+Girl Lost. 2. The Little Girl Found. 1st perf. Autumn 1979. S: G&amp;T.</p>
+          </div3>
+          <div3>
+            <head>
+              <title>(YOUNG)</title>
+            </head>
+            <p><hi rend="i">Natural Histories.</hi> Ms., composed 1976-79. Blake texts: 1. To See a World in a
+Grain of Sand. 2. For the Sexes (frontispiece: What is Man!). 1st perf. Wales, Autumn 1979. S: G&amp;T.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

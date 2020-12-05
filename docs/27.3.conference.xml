@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>27.3.conference</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">William Blake 1794/1994 Conference</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1993-1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993/94</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">27.3</biblScope>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Interns</resp>
+              <name>Lauren Raimondi</name>
+              <name>Stacy Nabors</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Angela Esterhammer</name>
+              <name>Paula R. Feldman</name>
+              <name>Nelson Hilton</name>
+              <name>Robert Kiely</name>
+              <name>Anne K. Mellor</name>
+              <name>Morton D. Paley</name>
+              <name>George Anthony Rosso</name>
+              <name>Chris Rubinstein</name>
+              <name>David Simpson</name>
+              <name>Warren Stevenson</name>
+              <name>Dennis M. Welch</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993-1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_27">
+    <body>
+      <pb id="p27-98" n="98"/>
+      <div1 id="BQ-27-3-0007">
+        <head>
+          <title type="section">
+            <hi rend="i">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">WILLIAM BLAKE 1794/1994 CONFERENCE</hi>
+            </title>
+          </head>
+          <p>Wednesday, 13 July-Friday, 15 July 1994<lb/>
+St. Mary’s College, Strawberry Hills</p>
+          <p>The occasion of the conference is the anniversary of the <hi rend="i">Songs, Europe</hi>, and 
+<hi rend="i">Urizen</hi>, but papers will be welcome on other areas of concern to Blake’s time and ours.
+Speakers likely to appear include Nelson Hilton, Morton D. Paley, and Joseph Viscomi.</p>
+          <p>The conference will be held at Horace Walpole’s gothic villa at Strawberry Hill close to the
+Thames river. The organizers hope that a limited number of bursaries will be available to students and to the
+unwaged. The conference invites contributions from scholars at the beginning of their careers. The last
+conference produced a collections of papers entitled <hi rend="i">Historicizing Blake</hi> (Macmillan), which
+will be launched at this event.</p>
+          <p>Inquiries and outlines of papers should be sent to:</p>
+          <p>David Worrall and Steve Clark</p>
+          <p>English Department</p>
+          <p>St. Mary’s College</p>
+          <p>Waldegrave Road</p>
+          <p>Strawberry Hill</p>
+          <p>Twickenham TW1 4SX England</p>
+          <p>tel: 081-892-0051</p>
+          <p>fax: 081-744-2080</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

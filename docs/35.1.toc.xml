@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.1</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Tilar Jenon Mazzeo</name>
+              <name>Peter Otto</name>
+              <name>Michael Phillips</name>
+              <name>Sheila A. Spector</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <front>
+      <pb id="p35-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.035.01.bqscan" rend="file" width="258" height="334">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Peter Otto on Phallic Religion in <hi rend="i">The Four Zoas</hi><lb/>
+            VOLUME 35<lb/>
+            NUMBER 1<lb/>
+            SUMMER 2001</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-35-1-0001">
+        <table id="contents" rows="12" cols="2">
+          <row>
+          	<cell>
+        	<head>
+              <title>CONTENTS</title>
+        	</head>
+        	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.otto">A Pompous High Priest: Urizen’s Ancient Phallic
+Religion in <hi rend="i">The Four Zoas</hi></ref><lb/>
+<hi rend="i">By Peter Otto</hi></cell>
+            <cell>
+              <hi rend="i">4</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.ferber">Blake for Children</ref><lb/>
+<hi rend="i">By Michael Ferber</hi></cell>
+            <cell>
+              <hi rend="i">22</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.mazzeo">Verbal Echoes of Cumberland’s 
+<hi rend="i">Thoughts on Outline, Sculpture, and the System that Guided the Ancients</hi> (1796) in 
+<hi rend="i">Jerusalem</hi></ref><lb/>
+<hi rend="i">By Tilar Jenon Mazzeo</hi></cell>
+            <cell>
+              <hi rend="i">24</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.spector">Steve Clark and David Worrall, eds. 
+<hi rend="i">Blake in the Nineties</hi></ref><lb/>
+<hi rend="i">Reviewed by Sheila A. Spector</hi></cell>
+            <cell>
+              <hi rend="i">26</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Corrigenda</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.phillips"><hi rend="i">William Blake The Creation of
+the</hi> Songs <hi rend="i">From Manuscript to Illuminated Printing Corrigenda</hi> and a Note on the
+Publication of Gilbert Imlay’s <hi rend="i">A Topographical Description of the Western Territory of North
+America</hi></ref><lb/>
+<hi rend="i">By Michael Phillips</hi></cell>
+            <cell>
+              <hi rend="i">30</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="35.1.editors">Blake’<hi rend="i">s Managing Editors,
+1986-</hi></ref>; 
+<ref type="article" issue="35.1.news"><hi rend="i">www.rochester.edu/college/eng/blake</hi></ref></cell>
+            <cell>
+              <hi rend="i">31</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-35-1-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, St. Mary’s College</p>
+      </div1>
+      <pb id="p35-3" n="3"/>
+      <div1 id="BQ-35-1-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Michael Ferber is Professor of English and Humanities at the University of New Hampshire. His most
+recent book is <hi rend="i">A Dictionary of Literary Symbols.</hi> His daughter can now play “Jerusalem”
+on the violin.</p>
+        <p>Tilar Jenon Mazzeo teaches at the University of Wisconsin, Oshkosh, where she specializes in travel
+literature and Romantic poetry. She has contributed volumes to the series <hi rend="i">Critical Writings of
+Mary Shelley</hi> and <hi rend="i">Travels, Explorations, and Empires: Middle East</hi> (Pickering and
+Chatto), and published a facsimile edition of Thomas Medwin’s <hi rend="i">Lady Singleton.</hi></p>
+        <p>Peter Otto is the author of <hi rend="i">Constructive Vision and Visionary Deconstruction</hi>
+(Oxford, 1991) and <hi rend="i">Blake’s Critique of Transcendence</hi> (Oxford, 2000). He has recently
+co-edited a microfilm collection of Gothic Fictions to be published by Adam Matthew Publications in 2002. He
+is currently working on a project that explores the relations between Romanticism, Mesmerism and
+Millenarianism.</p>
+        <p>Michael Phillips teaches an interdisciplinary MA, William Blake and the Age of Revolution, at the
+Centre for Eighteenth Century Studies, University of York. In addition to the recent publication of 
+<hi rend="i">The Creation of the</hi> Songs, he was guest curator of the William Blake exhibition at Tate Britain,
+London. He is completing a biography of Blake in Lambeth during the anti-Jacobin terror in Britain.</p>
+        <p>Sheila A. Spector’s two-part study of Blake as a Kabbalist—<hi rend="i">“Glorious
+incomprehensible”: The Development of Blake’s Kabbalistic Language</hi> and <hi rend="i">“Wonders
+Divine”: The Development of Blake’s Kabbalistic Myth</hi>—has just been published by Bucknell University
+Press (2001).</p>
+      </div1>
+      <div1 id="BQ-35-1-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627</p>
+        <p>MANAGING EDITOR: Sarah Jones<lb/>
+TELEPHONE 716/275-3820 FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: sjns@mail.rochester.edu</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2. The University of Toronto
+declines to forward mail.<lb/>
+Email: GBentley@chass.utoronto.ca</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX
+England<lb/>
+Email: worralld@smuc.ac.uk</p>
+      </div1>
+      <div1 id="BQ-35-1-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the 4 issues of the current volume. Foreign addresses
+(except Canada and Mexico) require a $10 per volume postal surcharge for surface, and $25 per volume surcharge
+for air mail delivery. Credit card payment available for non-U.S. subscribers. Make checks payable to 
+<hi rend="i">Blake/An Illustrated Quarterly.</hi> Address all subscription orders and related communications to
+Sarah Jones, <hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester NY 14627. Back
+issues are available; address Sarah Jones for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors:
+Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627; Morton D. Paley, Dept. of
+English, University of California, Berkeley CA 94720-1030. No articles will be returned unless accompanied by
+a stamped self-addressed envelope. For electronic submissions, you may send a diskette, or you may send your
+article as an attachment to an email message. The optimal format is Microsoft Word. Other formats are usually
+acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: Details of figures on pages 13, 16, and 21. <note type="unreferenced" place="footer">© 2001
+Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.3.ward</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Who Was Robert Blake?</title>
+        <author n="Ward">Aileen Ward</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1994/95</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994/95</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.3</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>Alma Bennett</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Mark Lussier</name>
+              <name>Ronald Paulson</name>
+              <name>June Sturrock</name>
+              <name>Aileen Ward</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994/95"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-84" n="84"/>
+      <div1 id="BQ-28-3-0005">
+        <head>
+          <title type="section">ARTICLE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Who Was Robert Blake?</title>
+          </head>
+          <byline>by <docAuthor>Aileen <name>Ward</name></docAuthor></byline>
+          <p>What G. E. Bentley once called “the decent ignorance which still
+                        obscures Blake’s family”<supplied type="spacer"> </supplied><ref target="n1"
+type="note">1</ref>
+                        is still far from dispelled. The ages and even the identities of the Blake
+                        children have been especially problematic. Among his nineteenth-century
+                        biographers, Alexander Gilchrist mentioned only three of Blake’s
+                        siblings and knew the names of only two; J. T. Smith and Allan
+                        Cunningham’s information was still scantier, and B. H. Malkin spoke
+                        only of Blake’s father among his family members.<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> Frederick Tatham in his manuscript <hi rend="i">Life
+                            of Blake</hi> gave the names though not the birthdates of Blake’s
+                        four surviving siblings but got their birth order wrong.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> However, his <hi rend="i">Life</hi> was not known to
+                        Gilchrist and the other early biographers: it did not come to light till
+                        1864, after Gilchrist’s death, and was referred to only casually by
+                        Swinburne and E. J. Ellis; it was in fact not published till A. G. B.
+                        Russell’s 1906 edition of Blake’s <hi rend="i">Letters.</hi><supplied
+type="spacer"> </supplied><ref target="n4" type="note">4</ref> No doubt it was this
+                        publication that spurred Arthur Symons to search the St. James Parish
+                        register, where in 1907 he discovered the names and birthdates of six
+                        children of James and Catherine Blake: James, born 10 July 1753; John, born
+                        12 May 1755; William, born 28 November 1757; a second John, born 20 March
+                        1760; Richard, born 19 June 1762; and Catherine, born 7 January 1764.<supplied
+type="spacer"> </supplied><ref target="n5" type="note">5</ref> All six were duly baptized a few weeks
+                        after birth. But Symons’s discovery raised almost as many questions
+                        as it answered. The duplication of the name John could be 
+<figure n="robertblake.nakedyouth.28.3.bqscan" rend="file" width="300" height="413">
+	<head>1. <hi rend="i">A Naked Youth Seen from the Side, Perhaps Robert
+                                    Blake</hi>, c. 1779-80 (Butlin 71).</head>
+	<figDesc>Reproduced by permission of the Trustees of the British
+                                Museum.</figDesc>
+</figure> explained by the assumption that the first John died in infancy,
+                        though there is no record of his death. Blake himself, in describing the
+                        second John as “the evil one” (E 721), left no doubt of his
+                        existence, but almost nothing is know of his life.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref> The name of Richard is another puzzle, since he is
+                        never mentioned again in the Blake records. If, like the first John, he died
+                        in infancy, this fact is not recorded, although the death or burial dates of
+                        young children are found fairly often in parish registers of the
+                        time—witness those of four young siblings of Catherine Boucher
+                            Blake.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> And
+most puzzling of all,
+                        nowhere in the St. James Parish register is the birth or baptism of
+                        Blake’s beloved younger brother Robert to be found. 
+<note id="n1"><hi rend="s">1</hi> G. E. Bentley, Jr., <hi rend="i">Blake Books</hi>
+                            (Oxford: Clarendon, 1977; hereafter cited as <hi rend="i">BB</hi>)
+                            30.</note>
+	<note id="n2"><hi rend="s">2</hi> Though Gilchrist knew from Blake’s
+                            letter to Flaxman of September 1800 that he had a sister, he referred to
+                            her only as “Miss Blake” (<hi rend="i">Life of William
+                                Blake</hi> ed. Ruthven Todd [London: Everyman, 1945; hereafter cited
+                            as <hi rend="i">LWB</hi>] 357-58).</note>
+	<note id="n3"><hi rend="s">3</hi> G. E. Bentley, Jr., <hi rend="i">Blake
+                                Records</hi> (Oxford: Clarendon, 1969; hereafter cited as 
+<hi rend="i">BR</hi>) 508. Tatham presumably had his information from
+                            Catherine Blake, who was understandably vague about the details of her
+                            husband’s childhood. Bentley provides a full account of the birth
+                            and baptism dates of the Blake children, <hi rend="i">BR</hi>
+                            1-7.</note>
+	<note id="n4"><hi rend="s">4</hi> Deborah Dorfman, <hi rend="i">Blake in the
+                                Nineteenth Century</hi> (New Haven: Yale UP, 1969) 33n11. Ellis
+                            mentioned the “four other children” but actually listed
+                            only the three brothers (“Memoir,” <hi rend="i">The Works
+                                of William Blake</hi>, ed. E. E. Ellis and W. B. Yeats [London:
+                            Quaritch, 1893] I: 4-5); <hi rend="i">BB</hi> 23n1 and 31.</note>
+	<note id="n5"><hi rend="s">5</hi> Arthur Symons, <hi rend="i">William
+                                Blake</hi> (London: Cape, 1907) 22.</note>
+	<note id="n6"><hi rend="s">6</hi> See Tatham in <hi rend="i">BR</hi> 508-09
+                            and Bentley, <hi rend="i">BR</hi> 509n1 and n2.</note>
+	<note id="n7"><hi rend="s">7</hi><hi rend="i"> BR</hi> 5.</note></p>
+          <p>Robert’s absence from the record remains the most controverted
+                        question about the makeup of Blake’s family. Symons answered it by
+                        suggesting that the parish clerk made a careless mistake in entering
+                        Robert’s name as Richard at the time of 
+<pb id="p28-85" n="85"/>
+<figure n="ESIII.1.1.SP.300c" rend="file" width="724" height="1000">
+	<head>2. <hi rend="i">The Approach of Doom.</hi></head>
+	<figDesc>Relief and white-line etching. Reproduced by permission of the
+                                Trustees of the British Museum.</figDesc>
+</figure> his birth in June 1762—as he had previously done in
+                        recording the name of Blake’s father as John, not James, at the birth
+                        of the first John in 1755. This plausible supposition satisfied Blake
+                        scholars—including Mona Wilson and Geoffrey Keynes<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref>—for over 50 years. Then in 1969 Bentley
+                        offered a new explanation of the omission of Robert from the parish records.
+                        In the roster of the Royal Academy Schools he discovered a Robert Blake
+                        enrolled as a student of engraving in April 1782 and described as having
+                        been “14 last 4th August”—i.e., born in 1767. This he
+                        conjectured was in all probability Blake’s youngest brother, five
+                        years younger than hitherto supposed.<supplied type="spacer"> </supplied><ref
+target="n9" type="note">9</ref> To
+              explain why Robert’s name was missing from the St. James 
+<figure n="milton.d.p37-33" id="milton.d.illbk.37" work-copy="milton.d" rend="db" width="683" height="1000">
+	<figTranscr>37<lb/>
+	ROBERT</figTranscr>
+	<head>3. <hi rend="i">Milton</hi> 37.</head>
+	<figDesc>Copy D. Courtesy of the Library of Congress.</figDesc>
+</figure> Parish register, Bentley proposed that some time after his
+                        daughter’s birth in 1764 James Blake Sr. joined the Baptist Church
+                        and so never had the infant Robert baptized. In support of this theory he
+                        noted that one “—Blake” (no Christian name given) was
+                        listed among the members of the Grafton Street Baptist Church from 1769 to
+                            1772<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref>—two years after the
+                        conjectured date of Robert’s birth, it should be noted. While Bentley
+                        thought it possible that the Royal Academy student was not related to Blake,
+                        he dismissed the idea as “unlikely,” seeing “no good
+                        reason to challenge [the] accuracy” of the entry as “the only
+                        record of the birthdate of Blake’s favorite brother.” And from
+                        the time of the publication of his <hi rend="i">Blake Records</hi> this
+                        hypothesis has been almost unanimously accepted as the solution to the
+                        puzzle of Robert’s birthdate and non-baptism.<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref>
+	<note id="n8"><hi rend="s">8</hi> Mona Wilson, <hi rend="i">The Life of
+                                William Blake</hi> (London: None-such, 1927) 2 and 339n; Geoffrey
+                            Keynes, <hi rend="i">Blake Studies</hi>, 1st ed. (London: Hart-Davis,
+                            1949) 3.</note>
+	<note id="n9"><hi rend="s">9</hi><hi rend="i"> BR</hi> 7, 20; see also Sidney C. Hutchison, “The
+                            Royal Academy Schools, 1768-1830,” <hi rend="i">Walpole
+                                Society</hi> 38 (1962): 146. Hereafter, to avoid confusion, this
+                            Royal Academy student will be referred to as “Robert
+                            Blake,” and Blake’s youngest brother simply as
+                            “Robert.”</note>
+	<note id="n10"><hi rend="s">10</hi><hi rend="i"> BR</hi> 7-8.</note>
+	<note id="n11"><hi rend="s">11</hi><hi rend="i"> BR</hi> 20 and n3. Only David V. Erdman (<hi rend="i">Blake:
+Prophet Against Empire</hi> [3rd ed. rev., Princeton:
+                            Princeton UP, 1971] 98) keeps to the earlier conjecture of a 1762
+                            birthdate for Robert, without, however, alluding to Bentley’s
+                            hypothesis.</note></p>
+          <pb id="p28-86" n="86"/>
+            <figure n="BUTR2.1.1r.WD.300c" rend="file" width="958" height="682">
+            <head>4. <hi rend="i">The Approach of Doom.</hi></head>
+            <figDesc>Pen and sepia wash (Butlin R2). Reproduced by permission of the
+                            Trustees of the British Museum.</figDesc>
+          </figure>
+          <p>And yet some doubts remain. A number of small facts or inferences—none
+                        of them decisive evidence taken singly, but certainly suggestive in their
+                        totality—point in another direction. First of all, the assumption
+                        that the Robert Blake who entered the Royal Academy Schools in 1782 was in
+                        fact Blake’s youngest brother is questionable, given the
+                        “hosts of Blakes” living in London at the time.<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref> Bentley himself collected some 23
+                        London contemporaries who bore the name of William Blake, one of whom was
+                        also an engraver, and today “Robert Blakes” are at least as
+                        common as “Williams.”<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref>
+                        This profusion of Blakes also undermines the probability of the nameless
+                        “Blake” of the Grafton Street Baptist Church being
+                        Blake’s father, the premise of Bentley’s explanation for the
+                        absence of a baptismal record for Robert. Furthermore, it is striking that
+                        not one of Blake’s early biographers—neither Malkin, to whom
+                        Blake described his own experience at the Academy, nor Smith, who knew
+                        Robert personally, nor Tatham, who got his information mainly from Catherine
+                            Blake<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref>—spoke of
+                        Robert’s studying at the Royal Academy Schools, certainly a
+                        noteworthy event if it actually occurred. And if, as seems likely, Blake
+                        continued attending the Schools for a full six year term after his admission
+                        in 1779,<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> the
+brothers’
+                        overlapping terms would be a still more notable circumstance—though
+                        if, as is generally assumed, Blake left the Academy in disgust after a few
+                        months, it is hard to see why Robert would have decided to apply there two
+                        years later. Nor can Robert’s surviving drawings be taken as evidence
+                        of Academy tutelage. While his work reveals some genuine talent, not unlike
+                        Blake’s own in theme and mood, it is an undeveloped one, showing
+                        neither the precocious ability that would have gained him admission to the
+                        Academy at the unusually early age of 14 nor the influence of Academy
+                        training thereafter<supplied type="spacer"> </supplied><ref target="n16"
+type="note">16</ref>—though of
+                        course there is no record of how long he remained there if he actually
+                        enrolled. <note id="n12"><hi rend="s">12</hi> See <hi rend="i">BR</hi> 22
+                            and n1, 553-54.</note>
+	<note id="n13"><hi rend="s">13</hi> Bentley, <hi rend="i">N&amp;Q</hi> 210
+                            (1965): 172-78; see also Symons 26-28. Today there are eight Robert
+                            Blakes (plus three Williams) listed in the Manhattan telephone book. The
+                            current London telephone directory unhelpfully identifies most of its
+                            subscribers merely by their initials, but it does list two
+                            “Roberts” among 35 “R. Blakes,” with only
+                            nine “W. Blakes” and no “Williams.”</note>
+	<note id="n14"><hi rend="s">14</hi> It might be noted that Robert’s
+                            supposed admission to the Academy occurred only four months before
+                            Blake’s marriage in August 1782, which would seem to ensure that
+                            Catherine knew of his studying there.</note>
+	<note id="n15"><hi rend="s">15</hi> See Aileen Ward, “Sir Joshua and
+                            His Gang,” <hi rend="i">Huntington Library Quarterly</hi> 52
+                            (1989): 78-79.</note>
+	<note id="n16"><hi rend="s">16</hi> Only eight boys (including John Flaxman)
+                            aged 14 or younger were among the 414 students admitted to the Schools
+                            prior to Robert Blake in 1782 (see Hutchison 313-46). On Robert’s
+                            “barely passable” drawing, as for example in “The
+                            Approach of Doom,” one of his latest works (1785 according to R.
+                            N. Essick, <hi rend="i">The Separate Plates of William Blake</hi>
+                            [Princeton: Princeton UP, 1983] 12), see David Bindman, <hi rend="i">Blake as an
+Artist</hi> (Oxford: Phaidon Press Ltd., 1977)
+                            40.</note></p>
+          <pb id="p28-87" n="87"/>
+          <p>Yet since it appears that Blake at some point tutored Robert in
+                        drawing—“a task which he must have found above all others
+                        delightful”—this has been taken to imply that the older
+                        brother was preparing the younger to qualify for admission to the
+                            Academy.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref>
+This would seem to
+                        strengthen the likelihood that Robert was actually the student of engraving
+                        admitted to the Schools in 1782, and indeed it appears a remarkable
+                        coincidence that two Robert Blakes both born in the 1760s should both be
+                        training as engravers at the same time.<supplied type="spacer"> </supplied><ref
+target="n18" type="note">18</ref> Yet a number of similar duplications occur in the roster of
+                        the Royal Academy Schools which—like that of Blake’s namesake
+                        engraver—considerably diminish the coincidentality.<supplied type="spacer"> </supplied><ref target="n19" type="note">19</ref> As for Blake’s teaching Robert, the story
+                        stems from Smith’s mention that William “considered him
+                        [Robert] his pupil” around the time Blake opened his printshop with
+                            Parker,<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref>
+and since the discovery of
+                        the name of Robert Blake in the Academy roster it has been fortified by
+                        reference to the <hi rend="i">Robert Blake Sketch Book</hi>, first described
+                        by Geoffrey Keynes in 1949.<supplied type="spacer"> </supplied><ref target="n21"
+type="note">21</ref> This
+                        rather decrepit notebook containing about 50 pages of drawings is inscribed
+                        “Robert Blake’s / 1777 Book” on the front cover, with
+                        similar signatures elsewhere and seven occurrences of the date 1778.<supplied
+type="spacer"> </supplied><ref target="n22" type="note">22</ref> Many of the pages contain competent
+                        sketches of various parts of the human body on the left hand side,
+                        apparently by some instructor, with rather hesitant copies filling up the
+                        rest of the page, progressing from lips, noses, eyes, hands, arms and legs
+                        to faces, busts and full figures.<supplied type="spacer"> </supplied><ref target="n23"
+type="note">23</ref>
+                        Despite some awkwardness, especially in the early pages,, the work shows
+                        real ability for a 10 or 11 year old boy. He was evidently aiming at a kind
+                        of academic realism: later pages include heads of women with
+                        eighteenth-century hats and hairstyles as well as carefully detailed
+                        drawings of birds, animals and a rural scene. But his pedestrian manner
+                        contrasts strongly with the abstract and archaic but imaginatively
+                        expressive figures of the authentic drawings by Blake’s brother found
+                        in the Notebook of William Blake and elsewhere, and indeed the drawings that
+                        served as the boy’s models have a more assured and detailed grasp of
+                        human anatomy than Blake’s own work at the time.<supplied type="spacer"> </supplied><ref target="n24" type="note">24</ref> It is hard to see these sketches as the work of
+                        either William or Robert. A final argument against linking the Sketch Book
+                        to Blake’s teaching Robert in 1777-78 is the date implied in
+                        Smith’s account—that the lessons occurred during
+                        Blake’s partnership in the printshop, i.e., around 1784, two years
+                        after Robert’s supposed entrance at the Schools and not, as Bentley
+                        suggests, prior to his enrollment.<supplied type="spacer"> </supplied><ref
+target="n25" type="note">25</ref>
+                        Whatever the instruction amounted to, its purpose was probably to train
+                        Robert as an assistant with his engraving, as Blake later did with
+                        Catherine—a supposition which gives point to the vision of Robert
+                        later providing Blake with his most valuable trade secret. 
+<note id="n17"><hi rend="s">17</hi><hi rend="i"> BR</hi> 29 and 20.</note>
+	<note id="n18"><hi rend="s">18</hi> As G. E. Bentley has argued in
+                            correspondence, noting also that there is no record of either one being
+                            formally apprenticed or later continuing in the profession.</note>
+	<note id="n19"><hi rend="s">19</hi> Counting only students born within a
+                            dozen years of one another and enrolled in the same field, we find the
+                            following pairs: among architects, two Richard Hollands (born 1750 and
+                            1752), two George Moores (born 1806 and 1810), two James Pennethornes
+                            (born 1801 and 1810), two Charles Smiths (born 1790 and 1792), and two
+                            George Smiths (born 1782 and 1790); among painters, two pairs of John
+                            Grahams (born 1755 and 1766 and 1792 and 1795 respectively), two William
+                            Rosses (born 1795 and 1798), two William Turners (born 1763 and 1774),
+                            and two George Wards (born 1789 and 1801). Simple duplications of names
+                            among the 1551 students enrolled between 1768 and 1830 are too numerous
+                            to include (cf. Hutchison 183-91 passim).</note>
+	<note id="n20"><hi rend="s">20</hi><hi rend="i"> BR</hi> 457—a point echoed by Cunningham 
+(<hi rend="i">BR</hi> 482).</note>
+	<note id="n21"><hi rend="s">21</hi> Keynes 4-5.</note>
+	<note id="n22"><hi rend="s">22</hi> Martin Butlin, <hi rend="i">The
+                                Paintings and Drawings of William Blake</hi> (Oxford: Clarendon,
+                            1981) 1: 617; Essick, <hi rend="i">The Works of William Blake in the
+                                Huntington Collections</hi> (San Marino, CA: Huntington Library,
+                            1985) 235-36.</note>
+	<note id="n23"><hi rend="s">23</hi> Butlin 1: cat. R1; 2: pls. 1126-1177.
+                            This procedure echoes the teaching method Blake encountered a decade
+                            earlier at the Pars’s School (where, as Bindman notes [12], he
+                            did not distinguish himself). See the record of Thomas Jones, quoted
+                            Bindman 227n12, and Janet Warner, <hi rend="i">Blake and the Language of
+                                Art</hi> (Montreal: McGill-Queens UP, 1984) chap. 2.</note>
+	<note id="n24"><hi rend="s">24</hi> For Robert’s work, see <hi rend="i">The Notebook of William Blake</hi>,
+ed. David V. Erdman
+                            (Oxford: Clarendon, 1973) NN. 1, 3, 5, 7, 9; Butlin 1: cat. R2-R11, 2:
+                            pls. 176 and 1178-90. For Blake’s early drawings, see Butlin 2:
+                            pls. 71, 73, 106, 107, et seq., and Bindman’s comment (“an
+                            almost complete lack of natural dexterity”), <hi rend="i">Blake</hi>
+16-17.</note>
+	<note id="n25"><hi rend="s">25</hi><hi rend="i"> BR</hi> 20. Both Erdman (<hi rend="i">Prophet</hi> 98) and
+                            Jack Lindsay (<hi rend="i">William Blake</hi> [New York: Braziller,
+                            1978] 33) also accept a date as early as 1777 for the lessons on the
+                            evidence of the Sketch Book.</note></p>
+          <p>Although Keynes and Butlin accept the attribution of the Sketch Book to
+                        Blake’s brother, both Bindman and Essick are quite doubtful.<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref> Apart from its dissimilarity to the
+                        brothers’ work, the provenance of the book, as given in a long note
+                        inside the front cover by an unidentified hand sometime after 1878, is
+                        suspicious. The note claimed 
+<pb id="p28-88" n="88"/>
+onetime friend Thomas
+                        Stothard after his death in 1834 and again in the sale of Sir Alexander
+                        Spearman’s books in 1878; thereafter it disappeared, to surface again
+                        in 1919 when it was purchased for the Huntington Library.<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref> However, it was not listed among the 1500 items in
+                        the catalogue of the Stothard sale or (apparently) in that of the Spearman
+                            sale.<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref>
+Wherever it came from, the
+                        book was not linked to Blake’s brother Robert till a century after
+                        his death by its nameless late nineteenth-century owner, whose note may not
+                        have been a deliberate fabrication so much as a bit of wishful thinking.
+                        Moreover, there is no reason to think that Blake would have given Stothard
+                        such a treasured memento as this Sketch Book if indeed it was his
+                        brother’s: there is no evidence of a close friendship between Robert
+                        and Stothard, but rather a seven if not a 12-year difference in age, and
+                        Blake had ceased collaborating with Stothard a year before Robert’s
+                        death, perhaps as a result of a cooling of their friendship.<supplied type="spacer"> </supplied><ref target="n29" type="note">29</ref> All in all, it is a more likely guess
+                        that the book belonged to the other Robert Blake—the precocious lad
+                        who entered the Royal Academy Schools at 14. <note id="n26"><hi rend="s">26</hi>
+Keynes 4-5; Butlin I: 617; Bindman 232n3; Essick, <hi rend="i">Huntington</hi> 235-36.</note>
+	<note id="n27"><hi rend="s">27</hi> Butlin 1: 617; Keynes 5-6.</note>
+	<note id="n28"><hi rend="s">28</hi><hi rend="i"> BB</hi> 656 and cf. 661, where the Spearman sale is not
+                            included in Bentley’s chronological listing of catalogues
+                            mentioning Blake’s work from 1780 to 1974—though it may
+                            have been omitted as of minor importance (cf. 649).</note>
+	<note id="n29"><hi rend="s">29</hi> See <hi rend="i">BR</hi> 611, also
+                            Blake’s 1803 letter to his brother James (E725) on the break in
+                            their friendship some years earlier.</note></p>
+          <p>If then Blake’s youngest brother was not the Robert Blake enrolled in
+                        the Schools in 1782, who was he, or rather when was he born? The
+                        preponderant evidence seems to point back to Symons’s
+                        conjecture—that he was in fact the mysterious Richard Blake conjured
+                        into being in June 1762 by a slip of the parish clerk’s pen. Several
+                        other considerations support this hypothesis. First of all, the absence of a
+                        death record for Richard Blake (or any other record subsequent to that of
+                        his birth) suggests that a child of that name never existed. That a death
+                        record is also lacking for the first John is not material: he may have died
+                        elsewhere than in London, as Bentley suggests, or even have been the son not
+                        of James but of John Blake, the father’s name given in the entry of
+                        his birth, and lived to maturity for all we know.<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref> Second, Blake’s mother, who was born around
+                        1722, would have been 45 in 1767, the supposed date of Robert’s
+                        birth: a not impossible age for child-bearing, but an improbable one,
+                        especially considering that this would have been her seventh child. Again,
+                        the close intimacy between William and Robert, which probably dates from
+                        Blake’s return home at the end of his apprenticeship in 1779, is far
+                        more likely to have been based on a five than a 10 year’s difference
+                        in age. The “Academy study” of a naked youth seen from the
+                        side, dated c. 1779-80, which Keynes took to be a portrait of Robert
+                        represents a youth of about 17 or 18, not a boy of 12:<supplied type="spacer"> </supplied><ref target="n31" type="note">31</ref> and though both date and identification are
+                        tentative, this too would support a birth date for Robert of 1762 rather
+                        than 1767.<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref>
+	<note id="n30"><hi rend="s">30</hi> Bentley raises this second possibility
+                            only to argue against it (<hi rend="i">BR</hi> 3n3). It should be noted
+                            that eighteenth-century parish records are far from complete, and the
+                            definitive central register at Somerset House of all births and deaths
+                            occurring in Great Britain was not established till the passage of the
+                            Births and Deaths Registration Act in 1836 (<hi rend="i">Encyclopaedia
+                                Britannica</hi>, 11th ed. [Cambridge UP, 1910] 3: 990).</note>
+	<note id="n31"><hi rend="s">31</hi> Butlin 1: cat. 71; Keynes 4 and pl.
+                            1.</note>
+	<note id="n32"><hi rend="s">32</hi> The fact that Robert’s birthdate
+                            is given as 1767 in the London section of the Mormon Genealogical
+                            Register does not prove Bentley’s theory, since the source given
+                            is Bentley’s own <hi rend="i">Blake Records.</hi> Unfortunately
+                            the other Robert Blake (born in August 1767) is not listed anywhere in
+                            England, in London or outside: but this proves nothing, since the
+                            Genealogical Register relies on fragmentary parish records for its
+                            information.</note></p>
+          <p>The most telling argument against the Bentley hypothesis, however, is the
+                        fact that the only two early biographers to mention Robert’s age at
+                        the time of his death in February 1787 both gave it as 24: Tatham, whose
+                        information came from Blake’s widow, and Gilchrist, who never saw
+                        Tatham’s <hi rend="i">Life</hi> and relied on other informants such
+                        as Linnell and Palmer, both of whom knew Blake well.<supplied type="spacer"> </supplied><ref target="n33" type="note">33</ref> By this 
+<pb id="p28-89" n="89"/>
+account, Robert
+                        must have been born sometime between February 1762 and February 1763.
+                        Apparently it was their independent testimony that persuaded Symons that the
+                        name of Richard in the parish register for June 1762 must have been a
+                        clerical error for Robert; and indeed their record of Robert’s age at
+                        death is in the end the only explicit evidence we have for his
+                            birthdate.<supplied type="spacer"> </supplied><ref target="n34"
+type="note">34</ref>
+	<note id="n33"><hi rend="s">33</hi> Tatham in <hi rend="i">BR</hi> 510;
+                            Gilchrist 51. Gilchrist placed Robert’s death “in his
+                            twenty-fifth year,” i.e., a few months before his twenty-fifth
+                            birthday in June. Bentley noted this testimony but was not convinced by
+                            it (<hi rend="i">BR</hi> 31, 510n1); yet the congruence of two
+                            independent records is impressive. That Gilchrist had not seen
+                            Tatham’s <hi rend="i">Life</hi> seems clear from internal
+                            evidence. His few direct citations of Tatham mostly concern matters not
+                            mentioned in Tatham’s own <hi rend="i">Life</hi> (cf. <hi rend="i">LWB</hi> 261,
+366) and often appear to be based on oral
+                            reports (e.g. <hi rend="i">LWB</hi> 352); but where Gilchrist discusses
+                            matters which are included in Tatham’s <hi rend="i">Life</hi> his
+                            account either significantly departs from Tatham’s (cp. <hi rend="i">LWB</hi> 10
+and <hi rend="i">BR</hi> 511, <hi rend="i">LWB</hi> 81 and <hi rend="i">BR</hi> 530, <hi rend="i">LWB</hi> 355
+                            and <hi rend="i">BR</hi> 534) or contradicts it (<hi rend="i">LWB</hi>
+                            85 and <hi rend="i">BR</hi> 521) or is attributable to another source
+                            (cp. <hi rend="i">LWB</hi> 31-32 and <hi rend="i">BR</hi> 517 and 459,
+                                <hi rend="i">LWB</hi> 351 and <hi rend="i">BR</hi> 471). Though
+                            Gilchrist’s account of Blake’s midnight composition seems
+                            to derive from Tatham (cp. <hi rend="i">LWB</hi> 31-32 and <hi rend="i">BR</hi>
+526n1), the unnamed “cordially appreciative
+                            friend” who supplied Gilchrist with this and much of his other
+                            information is almost certainly Samuel Palmer in one of his frequent
+                            discussions with Gilchrist of matters probably familiar to all the
+                            Ancients. Gilchrist’s mentions of Tatham are infrequent and
+                            perfunctory compared with his own many cordial references to Palmer (cf.
+                                <hi rend="i">LWB</hi> 299). Thus, while Tatham’s information
+                            about Robert’s age at death was no doubt supplied by Catherine,
+                            with whom he <corr type="emend">became</corr> familiar after Blake’s death,
+                            Gilchrist’s most probably derived from Blake himself through
+                            Palmer.</note>
+	<note id="n34"><hi rend="s">34</hi> Bentley points out in correspondence
+                            that even the evidence of a death date is not definitive: Blake’s
+                            brother James’s age at death is given wrongly as 71 in the
+                            perfunctory six-word entry in the Bunhill Fields Burial register when he
+                            as actually 73 and a half (cf. <hi rend="i">BR</hi> 340 and n4).
+                            However, James’s death was not the subject of any biographical
+                            interest that would have corrected the record, while Robert’s
+                            death was a matter of concern to Blake’s early biographers.
+                            Unfortunately his age is not given in the Bunhill Fields register as
+                            quoted by Bentley (<hi rend="i">BR</hi> 32). I wish to thank Professor
+                            Bentley for his generosity in reading the final draft of this article
+                            and offering perceptive criticism on this and other matters.</note></p>
+          <p>Thus when all aspects of the question are considered, the conclusion seems
+                        almost inescapable: Robert was born in June 1762, not August 1767, and a
+                        slip of the pen accounts for the confusion over his name. More than merely
+                        revising the record, however, this investigation underscores a basic
+                        principle of biography. A single document, however impressive its
+                        credentials, cannot establish a fact apart from its total narrative context.
+                        The entry from the Schools register remains a tantalizing but isolated item,
+                        unsupported by any firm corroborative evidence, among the myriad minute
+                        particulars which the biographer of Blake must sift and assemble. Written
+                        evidence, while it can provide uniquely valuable information, can also be
+                        mistaken or misleading, and must therefore be scrutinized as carefully as
+                        all other kinds; conversely, non-verbal evidence may be admitted even where
+                        it appears to contradict the written evidence. In short, documentary
+                        evidence should not be privileged to the exclusion of all other kinds; we
+                        should remember how little of any life finds its way into written accounts,
+                        and keep our minds open to the mute testimony of things and circumstances
+                        and inferences from them. Every piece of biographical evidence, documentary
+                        or otherwise, must be viewed against the total experience of the
+                        biographical subject. It is the living context of each event that shapes
+                        isolated records into the semblance of biographical truth.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

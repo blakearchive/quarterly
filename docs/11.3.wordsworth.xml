@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.3.wordsworth</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Summer Wordsworth 1978</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1977-1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977-1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.3</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Michael Hays</name>
+              <name>Lynn Goldstein</name>
+              <name>Marietta Barnes</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>W. J. T. Mitchell</name>
+              <name>Edward J. Rose</name>
+              <name>Corlette Walker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-3-0007">
+        <pb id="p11-208" n="208"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">SUMMER WORDSWORTH 1978</hi>
+            </title>
+          </head>
+          <figure n="Wordsworth.11.3.bqscan" rend="file" width="250" height="610"/>
+          <p>During the two weeks from Saturday, 29 July to Saturday, 12 August 1978, the
+                        Eighth Annual Wordsworth Summer Conference will be held at Grasmere, in the
+                        English Lake District. According to Richard wordsworth, the Conference
+                        Director, “Although the poetry of Wordsworth and Coleridge is
+                        central to our discussions, . . . there is a great deal that would interest
+                        Blake specialists too . . . David Erdman has been with us for the last two
+                        years, and Horst Meller, of Heidelberg University, is another who has
+                        lectured on William Blake.” William Empson, Geoffrey Hartman,
+                        Robert Langbaum, and Thomas McFarland were among last year’s
+                        guest lecturers.</p>
+          <p>The conference is residential. <corr type="emend">Accommodation</corr> is reserved in two hotels
+in
+                        Grasmere village. There are lectures morning and evening, and a daily
+                        seminar. In the afternoons and on weekends there is a program of excursions,
+                        walks, and climbs of varying severity.</p>
+          <p>The inclusive fee for the two weeks is $450, which covers accommodation at
+                        the hotel, all meals, local transportation, and other expenses on all main
+                        excursions, and attendance at all lectures and seminars. For further
+                        information write Richard Wordsworth, Conference Director, at Melford House,
+                        62 Portmore Park Road, Weybridge, Surrey, UK.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

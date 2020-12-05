@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">The Bohn Catalogue and James Vine</title>
+                <author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-4-0006">
+            	<pb id="p04-149" n="149"/>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="i">RUTHVEN</hi>
+                            <name>
+                                <hi rend="i">TODD</hi>
+                            </name>:</docAuthor>
+                        <hi rend="i">C’AN BIELÓ, GALILEA, MALLORCA, SPAIN</hi>
+                    </byline>
+                    <head>
+                        <title type="main">The Bohn Catalogue and James Vine</title>
+                    </head>
+                    <p>I want to lay the ghost of the “1843” Bohn catalogue mentioned in connection with 
+<hi rend="i">Milton</hi> once and for all. During the forties and fifties, I owned a copy of an “1848” Bohn
+catalogue which, so far as I know, is still with my books in store on Martha’s Vineyard. The book was bound
+in red morocco and was about half as fat again, though roughly the same size as <hi rend="i">The Concise
+Oxford Dictionary.</hi> Sir Geoffrey Keynes was shown this and the error is clearly a printer’s typo in
+printing “3” instead of “8,” which unfortunately slipped by the otherwise perfectly proof-corrected copy—I,
+myself, can only hope that one day I will manage to produce a book which does not contain one misprint,
+however trivial. In the second, 1945, edition of Gilchrist’s <hi rend="i">Life of Blake</hi> for
+Everyman’s Library, I had an explanatory note on p. 382. (Dent’s must have printed a very small edition of
+this, as it is now almost impossible to find one. However, I hope that the new edition, again completely
+revised, which I am now making for the Clarendon Press, will make both the 1942 and 1945 Everyman editions
+unnecessary.) To put matters straight, owing to the general inaccessibility of the 1945 Everyman, I think I
+might as well quote the pertinent part of my note:
+<q>
+In <hi rend="i">The Writings of William Blake</hi>, vol. ii, p. 395 [Sir Geoffrey Keynes] records the
+discovery of a copy [of <hi rend="i">Milton</hi>] with fifty plates; this is now in America. When offered for
+sale by Henry G. Bohn in 1848 this copy was stated to have been executed “expressly for his principal patron,
+Mr. Vine of the Isle of Wight.” According to J. L. Roget, <hi rend="i">A History of the “Old Water-Colour”
+Society</hi>, 1891, James Vine, of Puckster, a Russian merchant, was a patron of the early watercolour
+painters, including Joshua Cristall and J. F. Lewis.
+</q>
+It is unfortunate that the resemblance between the figures 3 and 8, and a printer’s carelessness, should
+have caused so much trouble. I hope that this information will help Janet Warner in her researches into James
+Vine, following the hint given by Roget about his relationship with the watercolorists of his time. If James
+Vine did, in fact, purchase <hi rend="i">Milton</hi> from Blake, it seems strange that the only other mention
+of him as a purchaser of Blake’s works should be in connection with the <hi rend="i">Job</hi>, and I wish
+success to those who are now hunting for his descendants.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

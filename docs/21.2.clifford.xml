@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.2.clifford</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">1986-1987 Clifford Prize</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1987</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1987</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.2</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Catherine Haigney</name>
+              <name>Andrew Lincoln</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <div1 id="BQ-21-2-0008">
+        <pb id="p21-79" n="79"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">1986-1987 CLIFFORD PRIZE</hi>
+            </title>
+          </head>
+          <p>The James L. Clifford Prize will award $300 to the best nominated article, an outstanding study
+of some aspect of eighteenth-century culture, interesting to any eighteenth-century specialist, regardless of
+discipline. Rules: • The article should not be longer than 7500 words. • The article must have appeared in
+print in a journal, festschrift, or other serial publication between July 1986 and June 1987. • The article
+may be nominated by a member of the Society, or by its author. • Nominations must be accompanied by an
+offprint or copy of the article, postmarked by 1 February 1988, and sent to the ASECS Office. • The winning
+author must be a member of the Society at the time of the award. Send nominations or inquiries to ASECS, R. G.
+Peterson, Executive Secretary, St. Olaf College, Northfield MN 55057 or call 507/663-3488.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

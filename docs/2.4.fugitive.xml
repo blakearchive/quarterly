@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.fugitive</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">A Fugitive or Apocryphal Blake Engraving</title>
+				<author n="Bentley">G. E. Bentley, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0007">
+                <pb id="p02-74" n="74"/>
+                <div2>
+                    <head>
+                        <title type="main">3. A Fugitive or Apocryphal Blake Engraving</title>
+                    </head>
+                    <p>According to the British Museum Print Room accessions records, on 9 July 1859 Messrs
+Evans sold to the Print Room a Blake engraving of “The World before the Flood. Canto 7. page 136,” which
+evidently formed the “Frontispiece to The Minor’s[?] Pocket Book. 1814.”</p>
+                    <p>No such print is known to Blake scholars. The title suggests that the work is an
+ephemeral publication, which may account for the fact that it does not appear in the catalogues of major
+libraries. Unfortunately, the print itself cannot now be traced in the British Museum Print Room; perhaps it
+has been reattributed in the last century and is now filed under another name. The fact that the entry in the
+Print Room accessions records was made in 1859, when Blake’s reputation was still moribund, suggests that
+the cataloguer was not merely associating the engraving with a well-known name and that he may have had some
+information such as an inscription on which to base his attribution. However, until someone can locate a copy
+of <hi rend="i">The Minor’s Pocket Book</hi>, we will have to presume that the cataloguer was in error.</p>
+                    <byline>
+                        <docAuthor>G. E. <name>Bentley</name>, Jr.</docAuthor> University of Toronto</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

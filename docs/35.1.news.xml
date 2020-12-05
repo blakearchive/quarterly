@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.1.news</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">www.rochester.edu/college/eng/blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.1</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Tilar Jenon Mazzeo</name>
+              <name>Peter Otto</name>
+              <name>Michael Phillips</name>
+              <name>Sheila A. Spector</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <body>
+      <div1 id="BQ-35-1-0010">
+		<pb id="p35-31" n="31"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">www.rochester.edu/college/eng/blake</hi>
+            </title>
+          </head>
+          <p>We began drafting a Web site for <hi rend="i">Blake</hi> at least five years ago. But other more
+urgent matters such as the summer, fall, winter, and spring issues kept getting in our way. Now, at last, we
+have our Web site. You should take a look at it, even in its present skeletal and rudimentary form, because it
+already offers useful resources (such as a complete index of <hi rend="i">Blake</hi> from the beginning to the
+present), and many more are in the works. We’re determined to make the site more than symbolic. Stay
+tuned.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

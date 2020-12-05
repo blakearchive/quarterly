@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.3.taurus</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Taurus Press</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1974-75</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1974-75</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter, An Illustrated Quarterly</title>
+            <biblScope unit="volIss">08.3</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants: for production</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix (in charge)</name>
+              <name>Sharon Stell</name>
+              <name>David Schnur</name>
+              <resp>Editorial Assistants: for subscriptions</resp>
+              <name>Graham Conley</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <body>
+      <div1 id="BQ-08-3-0002">
+        <pb id="p08-55" n="55"/>
+        <div2>
+          <figure n="AmericaWide.8.3.bqscan" rend="file" width="500" height="259">
+            <figTranscr/>
+            <head>From <hi rend="i">America</hi>, Taurus Press</head>
+          </figure>
+          <head>
+            <title type="main">
+              <hi rend="b">Taurus Press</hi>
+            </title>
+          </head>
+          <p>The private press of Paul Peter Piech, Taurus Press of Willow Dene, 2 Willow Dene, Bushey Heath,
+Herts, WD2 1PS, England, publishes the following:
+<q><hi rend="i">The Chimney Sweeper</hi> (1969), 10p. Edition: 200 copies<lb/>
+<hi rend="i">London</hi> (1969), 10p. Edition: 200<lb/>
+<hi rend="i">Auguries of Innocence</hi> (1970), 50p. Edition: 200<lb/>
+<hi rend="i">The Divine Image</hi> (1971), 15p. Edition: 300<lb/>
+<hi rend="i">Holy Thursday</hi> (1971), Cloth: £1, Paperback: 50p. Edition: 225<lb/>
+<hi rend="i">Tyger Tyger</hi> (1972), Cloth only: £5. Edition: 65<lb/>
+<hi rend="i">Proverbs of Hell</hi> (1974), Cloth: £5, Paperback £2. Edition: 100 (To be published in
+1975)<lb/>
+<hi rend="i">America</hi> (1975), Cloth/Slipcase: £50, Prepublication price: £40. Edition: 100
+</q>
+The illustrations on nearby pages are prints from the Taurus Press.</p>
+          <figure n="DivineImage.8.3.bqscan" rend="file" width="250" height="134">
+            <figTranscr/>
+            <head><hi rend="i">Divine Image</hi>, Taurus Press</head>
+          </figure>
+        </div2>
+        <corr type="emend" rend="plain">
+            <pb id="p08-48-49" n="48-49"/>
+			<figure n="TaurusTyger.8.3.bqscan" rend="file" width="700" height="227">
+			  <figTranscr/>
+			  <head><hi rend="i">Tyger</hi>, Taurus Press</head>
+			</figure>
+			<pb id="p08-50" n="50"/>
+			<figure n="HolyThursday.8.3.bqscan" rend="file" width="250" height="276">
+				<figTranscr/>
+				<head><hi rend="i">Holy Thursday</hi>, Taurus Press</head>
+			</figure>
+			<pb id="p08-51" n="51"/>
+			<figure n="BlakePortrait.8.3.bqscan" rend="file" width="250" height="381">
+				<figTranscr/>
+				<head>Blake portrait for <hi rend="i">Proverbs of Hell</hi>, Taurus Press</head>
+			</figure>
+			<pb id="p08-52" n="52"/>
+			<figure n="TaurusHolyThursday.8.3.bqscan" rend="file" width="250" height="375">
+				<figTranscr/>
+				<head><hi rend="i">Holy Thursday</hi>, Taurus Press</head>
+			</figure>
+			<figure n="London.8.3.bqscan" rend="file" width="250" height="413">
+				<figTranscr/>
+				<head><hi rend="i">London</hi>, Taurus Press</head>
+			</figure>
+			<pb id="p08-53" n="53"/>
+			<figure n="America.8.3.bqscan" rend="file" width="350" height="294">
+				<figTranscr/>
+				<head>From <hi rend="i">America</hi>, Taurus Press</head>
+			</figure>
+			<pb id="p08-54" n="54"/>
+			<figure n="AmericaTall.8.3.bqscan" rend="file" width="350" height="684">
+				<figTranscr/>
+				<head><corr type="emend">From <hi rend="i">America</hi>, Taurus Press</corr></head>
+			</figure>
+        </corr>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

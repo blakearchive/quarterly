@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.2.deck</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Mr. Rudall the Flautist</title>
+        <author n="Deck">Raymond H. Deck, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.2</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Associate Editor</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>[Contributors]</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Frances A. Carey</name>
+              <name>Raymond Deck</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Brice Farwell</name>
+              <name>Ruth E. Fine</name>
+              <name>Katharyn R. Gabriella</name>
+              <name>Robert F. Gleckner</name>
+              <name>Mary V. Jackson</name>
+              <name>Thomas L. Minnick</name>
+              <name>Judith Ott</name>
+              <name>Claude Marie Senninger</name>
+              <name>Joseph Anthony Wittreich, Jr.</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <body>
+      <div1 id="BQ-11-2-0006">
+		<pb id="p11-123" n="123"/>
+        <div2>
+          <head>
+            <title type="main">MR. RUDALL, THE FLAUTIST: AN AUTHENTIC BLAKE ANECDOTE</title>
+          </head>
+          <byline>by <docAuthor>Raymond H. <name>Deck</name>, Jr.</docAuthor></byline>
+		<q>
+. . . when Mr. Rudall, the flautist, called upon him at his poor lodging near Clare Market, the mystic told
+his visitor that he had a palace of his own of great beauty and magnificence. On Mr. Rudall’s looking round
+the room for evidence, Blake remarked, “You don’t think I’m such a fool as to think this is it.”
+</q>
+          <p>The residence in question is Blake’s apartment at 3 Fountain Court, where he lived from 1821
+until his death; Clare Market, which has not survived into the twentieth century, is an extension of the Vere
+Street which lies at the extreme right center of that portion of Horwood’s <hi rend="i">Plan of the Cities
+of London and Westminster</hi> reproduced in Bentley’s <hi rend="i">Blake Records</hi> (Plate LIX, pp.
+564-65). For a description of this apartment as it might have appeared to Mr. Rudall’s “corporeal eye,” see
+Bentley’s “William Blake, Samuel Palmer, and George Richardson,” <hi rend="i">Blake Studies</hi>, 2 (Spring
+1970), 43-48.</p>
+          <p>Blake’s encounter with Mr. Rudall is reported by James Spilling, an English Swedenborgian, in
+“Blake the Visionary,” <hi rend="i">New Church Magazine</hi>, 6 (1887), 209. Spilling explains that his source
+for the anecdote is J. J. Garth Wilkinson, the Swedenborgian who published the first letterpress edition of
+Blake’s <hi rend="i">Songs</hi> in 1839. Spilling’s report begins: “He saw and drew his own residence at
+Felpham differently to what it appeared to anyone else. It was in this spirit that, as we are informed by Dr.
+Wilkinson, when Mr. Rudall, the flautist. . . . ” Wilkinson in turn probably had his information from Charles
+Augustus Tulk, Blake’s Swedenborgian patron during the last decade of the poet’s life, who in 1838
+introduced Wilkinson to Blake’s work and loaned him the copy of the <hi rend="i">Songs</hi> used as the copy
+text for the 1839 edition.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

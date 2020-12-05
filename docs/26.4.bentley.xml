@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.4.bentley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Blake as Craftsman and Artist: Two Exhibitions in Tokyo</title>
+        <author n="Bentley">G. E. Bentley, Jr.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.4</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Morton D. Paley</name>
+              <name>Margaret Storch</name>
+              <name>John Vice</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <body>
+      <div1 id="BQ-26-4-0008">
+        <pb id="p26-168" n="168"/>
+        <div2>
+          <head>
+            <title type="main" rend="main">Blake as Craftsman and Artist: Two Exhibitions in Tokyo</title>
+          </head>
+          <div3>
+            <head>
+              <title type="main"><hi rend="i">William Blake</hi> (Yanagi: Blake no deai): <hi rend="i">William Blake</hi>
+(Great Encounter: Yanagi and Blake) [To accompany an exhibition] September 1-October 28 [1990 at Mingeikan:]
+The Japan Folk Crafts Museum, Komaba, Tokyo, Japan. [Tr. Kenkichi Kamijima &amp; Teiko Utsumi.] (Tokyo: The
+Japan Folk Crafts Museum, 1990) 110 pp. 100 illus. 4to.<supplied type="spacer"> </supplied><ref target="n40"
+type="note">1</ref></title>
+              <title type="main"><hi rend="i">William Blake: William Blake</hi> [Catalogue of an exhibition] 25
+September-25 November 1990 [at] The National Museum of Western Art, Tokyo. [Tr. Koji Yukiyama, Chikashi
+Kitazaki &amp; Akiya Takahashi.] (Tokyo Nihon Keizai Shimbun: The National Museum of Western Art, 1990) xiv +
+314 pp. 441 plates; 4to . . . 2nd edition . . . (1990). xii + 314 pp. 441 plates; 4to. 
+<note id="n40"><hi rend="s">1</hi> In this review translations of Japanese words in brackets are supplied by GEB; those without
+brackets are given in the originals in English. The transliterations were supplied by my friend Keiko
+Aoyama.</note></title>
+            </head>
+            <byline>Reviewed by <docAuthor>G. E. <name>Bentley</name>, Jr.</docAuthor></byline>
+            <p>For 75 years William Blake has been the subject of great and growing excitement in Japan, until
+today there are more works on Blake published in Japanese than in all other non-English languages
+combined.<supplied type="spacer"> </supplied><ref target="n41" type="note">2</ref> The first great book on
+Blake in Japanese was <hi rend="i">William Blake</hi> by Soetsu (Muneyoshi) Yanagi<supplied type="spacer"> </supplied><ref target="n42" type="note">3</ref> in 1914, and the first exhibition on Blake in Japan was
+organized by Yanagi for The White Birch Society in 1919. There were subsequent Blake exhibitions in Tokyo in
+1927 (for the centenary of Blake’s death) and 1957 (for the bicentenary of his birth), but none of these
+exhibitions showed originals of Blake’s art or writings. <note id="n41"><hi rend="s">2</hi><hi rend="i">
+Blake Studies in Japan</hi>: A Bibliography of Works on William Blake Published in Japan 1911-1990 by G.E.
+Bentley, Jr. with the assistance of Keiko Aoyama, which will be published by the Japan Society of English
+Romanticism, summarizes the growth of Japanese Blake studies numerically as:
+<table rows="5" cols="4"><row>
+	<cell>1911-19:</cell>
+	<cell><hi rend="i">17</hi></cell>
+	<cell>1960-69:</cell>
+	<cell><hi rend="i">67</hi></cell>
+</row>
+<row>
+	<cell>1920-29:</cell>
+	<cell><hi rend="i">45</hi></cell>
+	<cell>1970-79:</cell>
+	<cell><hi rend="i">202</hi></cell>
+</row>
+<row>
+	<cell>1930-39:</cell>
+	<cell><hi rend="i">71</hi></cell>
+	<cell>1980-89:</cell>
+	<cell><hi rend="i">168</hi></cell>
+</row>
+<row>
+	<cell>1940-49:</cell>
+	<cell><hi rend="i">16</hi></cell>
+	<cell>1990:</cell>
+	<cell><hi rend="i">23</hi>[incomplete]</cell>
+</row>
+<row>
+	<cell>1950-59:</cell>
+	<cell><hi rend="i">74</hi></cell>
+	<cell><hi rend="b">Total</hi></cell>
+	<cell><hi rend="b"><hi rend="i">683</hi></hi></cell>
+</row></table></note>
+	<note id="n42"><hi rend="s">3</hi> Mr Yanagi’s given name is represented by a character which is pronounced
+“Muneyoshi” in Japanese but “Soetsu” in Chinese; in Japanese he was referred to as “Muneyoshi,”
+but when he wrote in English he identified himself as “Soetsu.”</note></p>
+            <p>The first exhibition of Blake’s art in Japan which dealt with original materials officially
+opened on 21 September 1990—and so did the second! The two exhibitions, and the volumes which accompany and
+commemorate them, are extraordinarily different; the first exhibition, at the Japan Folk Crafts Museum, is
+quiet, discrete, and very Japanese; the second, at the National Museum of Western Art, is grand, impressive,
+and thoroughly international, an admirable machine for pictureviewing. All Blake scholars will recognize the
+exhibition at the National Museum of Western Art as being of major importance, one of the really great Blake
+exhibitions, comparable to those in 1939 (Philadelphia), 1978 (London), and 1982-83 (New Haven &amp; Toronto),
+and the catalogue is in many ways, such as illustrations and scholarly essays, greatly superior to all other
+Blake exhibition catalogues. But William Blake would have been bewildered by the impersonality of the
+building, the high-tech lighting, the hype, the fashionable crowds, and the èclat of an International Event.
+At the elegant opening in the capacious, anonymous foyer, diplomats rubbed shoulders with royalty, security
+guards were discretely omnipresent, guests nibbled appetizers and chatted of London and fashion, and a few
+drifted through the corridors of glory of the dazzling exhibition itself.</p>
+            <p>The exhibition at the Japan Folk Crafts Museum was altogether more humane and individually
+memorable. On entering the traditional Japanese wooden building, guests removed their shoes and donned soft
+slippers so as not to profane the glowing wooden floors. Round the walls, in gentle, natural light, were
+anonymous works of everyday craftsmanship, water jugs and work clothes, knives and tables and cups, exhibiting
+a dignified simplicity and modest integrity which justified the hopes of the founder, Soetsu Yanagi, that they
+would convey to others an unpretentious, traditional, and medieval beauty. Neither craftsman nor creation
+called out for attention, and indeed the former were largely unknown and the latter had been largely
+unnoticed. Nothing was decorative, and all were beautiful.</p>
+            <p>Amongst these permanent exhibits were scattered pictures by Blake, almost all of them
+reproductions of reproductions, often multiplied in size, and of course all of them were both decorative (that
+is, having no practical, mundane function) and in kind unlike anything else in the museum. Their first
+justification was that such works had been the first love of the founder, Soetsu Yanagi. But the inspiration
+of Yanagi’s son, the present director, that Blake’s works would harmonize with such folk crafts was
+satisfactorily justified. Little attempt was made to link Blake’s pictures to a context in Blake’s work or
+in western civilization, and, indeed, it was not always clear from captions at the exhibition and in the
+accompanying volume which works were originals and which were reproductions. This was carried so far that the
+only original works in the exhibition of significant importance, the plates for Dante and posthumous pulls
+from <hi rend="i">Songs</hi> pl. 22, 28, 30, 39 (copy o), 40, 44-46, 48 (a and b), were not even mentioned in
+the volume. The exhibition at the Japan Folk Crafts Museum was valuable for the demonstration of harmony
+between Blake’s works and traditional Japanese ways of life.</p>
+            <p>Many of the myriads of Japanese Blake enthusiasts are persuaded that there are strong
+similarities between Blake’s ideas and those of traditional Japan, particularly Japanese Buddhism. The
+Mingeikan exhibition showed the immanence of a similar simple and divine harmony in Japanese folk crafts and
+the art of William Blake.</p>
+            <p>The exhibition at the Museum of Western Art might have been held in any sophisticated
+metropolis in the world, and it would have done any of 
+<pb id="p26-169" n="169"/>
+them proud. The Museum is set in the Ueno Park, a cultural haven with galleries, trees, a festival hall, a
+baseball-field—and pink folk in head-bands sitting on the ground offering handmade flutes and jewelry for
+sale to the gadget-happy Japanese. The Museum itself is modern, air-conditioned, and impressive, with dim
+rooms beautifully lit in the latest style. Panels protruding from the walls held individual plates of the 
+<hi rend="i">Songs</hi> for intimate viewing, and the great color-prints were shown in a spaciousness of setting
+which did them justice. One of the most exciting things about the exhibition was that it showed two versions
+of some prints, such as “Glad Day” from the British Museum (colored), and National Gallery, Washington
+(uncolored), or <hi rend="i">Europe</hi> from the British Library (uncolored) and Glasgow University
+(colored), so that it was possible to compare the originals as would never be possible in their home
+institutions. Eight of the great color prints were reproduced from seven collections in Altadena, Edinburgh,
+London, Malibu, New Haven, and New York. Even more exciting, a number of major works were shown which have
+never been exhibited before, such as the newly discovered Large Blake-Varley sketchbook, or have never been
+seen outside of their home institution, such as <hi rend="i">Songs of Innocence</hi> (Z). Works were borrowed
+from round the world, from institutions in Australia (1), Germany (1), Great Britain (12), Japan (3), and the
+United States (17), not counting anonymous lenders, and viewers could range over Blake’s art from his
+apprenticeship to his noblest maturity, from sketches to watercolors to colorprints, from single pictures to
+books in Illuminated Printing.</p>
+            <p>Some Blake-lovers hoped that the exhibition would include important originals which are known
+or suspected to have emigrated to Japan, but such hopes were disappointed. The only works from Japanese
+collections were Blair’s <hi rend="i">Grave</hi> (1808), Young’s <hi rend="i">Night Thoughts</hi> (1797), 
+<hi rend="i">Job</hi> (1826), and Dante (?1838), which are sufficiently
+<figure n="Tokyo.26.4.bqscan" rend="file" width="400" height="333">
+	<figTranscr>ウィリアム・ブレイク<lb/>
+	William Blake</figTranscr>
+	<head>The giant “William Blake” poster at the entrance to the exhibition in the National Gallery of
+Western Art (Tokyo), with Keiko Aoyama, Dr. and Mrs. Bentley, Professor and Mrs. James Hiao Kodama, and
+Professor Kodama’s class (<corr type="emend">September</corr> 1990).</head>
+</figure>
+common to be owned by mere mortals. The exhibition did not reveal any Blake collection in Japan comparable to
+the major Shakespeare collection in Tokyo, or even any very significant minor collections of original
+materials. But it is likely that the exhibition will foster the formation of such collections.</p>
+            <p>The exhibition was “commissioned” by Gert Schiff, who, alas, was too ill to see it and who
+died shortly after it closed. When Dr. Schiff’s illness prevented him from completing the catalogue, the
+work was taken up on very short notice by Martin Butlin, who is responsible for an unidentified third of the
+entries in the catalogue. The volume has important essays by Gert Schiff, Martin Butlin, Robert Essick, and
+David Bindman and tantalizingly brief contributions by others such as Detlef Dörrbecker and Joseph Viscomi.
+Those by Butlin and Essick are largely distillations of their scholarship elsewhere, but those by Schiff (in
+the 2nd edition), Bindman, Dörrbecker, and Viscomi are significant new contributions to Blake scholarship,
+especially the last two. The most original entry in the catalogue (No. 31) is for the design usually called
+“Hecate” but here called “The Night of Enitharmon’s Joy”:
+<q>
+The likeliest explanation of the print is . . . that it allegorizes Enitharmon’s scheme to enslave mankind
+by way of sexual repression.
+</q></p>
+            <p>Readers who do not read Japanese must hope that an edition will be published in English for
+access to the texts, but they do not have to wait to profit greatly from the catalogue, for the reproductions
+include virtually everything in the exhibition. Further, the color plates include reproductions (usually
+reduced in size and therefore not facsimiles) for the first time of <hi rend="i">America</hi> (A), 
+<hi rend="i">Europe</hi> (“A,” i.e., “a”), <hi rend="i">Song of Los</hi> (C), <hi rend="i">Songs of
+Experience</hi> (H), <hi rend="i">Songs of Innocence</hi>(Z), and Hayley’s “Little Tom the Sailor”
+(Schiller copy, the only known colored copy). The catalogue is therefore of considerable value for its unique
+reproduction of whole Illuminated books. But in the exhibition, there were few entries of
+<pb id="p26-170" n="170"/>
+books <hi rend="i">qua</hi> books. Most of the works in Illuminated Printing were shown broken up, as
+collections of pictures.</p>
+            <p>We are very fortunate to have the reproduction of <hi rend="i">Songs of Innocence</hi> (Z),
+which has not been seen outside the royal library in Munich since about 1840 and which was only recently
+identified as an original.</p>
+            <p>The Larger Blake-Varley sketchbook was not broken up, as the Smaller Blake-Varley sketchbook
+had been. Patient viewers had to come back every day to see a new page—but alas! we could see it only
+twice.</p>
+            <p>The two Blake exhibitions were extraordinarily interesting in their different ways. That at the
+National Museum of Western Art is a major contribution to Blake understanding, a fitting last accomplishment
+for Gert Schiff, and the catalogue is wonderfully valuable even for those who do not read Japanese. That at
+the Japan Crafts Museum is a far more idiosyncratic accomplishment—and perhaps more fitting for the
+idiosyncratic William Blake.</p>
+            <div4>
+              <head>
+                <title>
+                  <hi rend="b">Appendix</hi>
+                </title>
+              </head>
+              <p>The bilingual contents of the Japan Folk Crafts Museum volume consist chiefly of (1) Sori
+Yanagi [the son of the founder], “Goaisatsu: Foreword” (3); (2) messages from the Prime Ministers of
+Britain and Japan, the British Ambassador to Japan, and the Director of the British Council<supplied
+type="spacer"> </supplied><ref target="n43" type="note">4</ref> (4-7);(3) Bunsho Jugaku, “‘William Blake
+to Yanagi Muneyoshi tono oinaru deai’ ten wo yorokobu: A Delightful Exhibition on ‘A Great Encounter of
+William Blake and Soetsu Yanagi’” (9); (4) G. E. Bentley, Jr., “William Blake to sozoryoku no teikoku:
+William Blake and the Empire of the Imagination” (10-21); Kimiyoshi Yura, “Yanagi shiso no shihatsu eki:
+‘William Blake’: The Great Encounter: Soetsu Yanagi and William Blake” (22-31), adapted from 
+<hi rend="i">Yanagi Muneyoshi Zenshu</hi> [<hi rend="i">The Complete Works of Muneyoshi Yanagi</hi>], Vol. IV
+(1981); Anon., “Zuhan mokuroku: List of Plates” (98-102). <note id="n43"><hi rend="s">4</hi> Both
+exhibitions were part of what was called “UK90: A Celebration of British Arts.”</note></p>
+              <p><hi rend="i">N.B.</hi> There is no catalogue of the exhibition as such; some of the works
+exhibited, such as posthumous pulls for <hi rend="i">Songs of Innocence and of Experience</hi> and the Dante
+plates, are not mentioned in the book. The 100 plates, 25 large ones in handsome color, include 16 for 
+<hi rend="i">The Gates of Paradise.</hi></p>
+              <p>The contents of the National Museum of Western Art catalogue, in Japanese unless otherwise
+identified,<supplied type="spacer"> </supplied><ref target="n44" type="note">5</ref> are chiefly (1) The
+National Museum of Western Art: Nihon Keizai Shinbun Inc., “Foreword” in Japanese and English (vi-vii);
+(2) Gert Schiff, untitled introduction, in English (viii-ix); (3) Koji Yukiyama, untitled explanation of the
+catalogue (x-xi in the first edition; omitted in the 2nd edition); (4) Gert Schiff, “[Young Blake and his
+Moral Rebellion]” (5-14 in the 2nd edition; not present in the first edition); Martin Butlin, “William
+Blake (1757-1827),” tr. Hiroyuki Tanida (15-22); (5) Robert N. Essick, “Blake to shokugyo to shite no
+hanga seisaku [Blake and the Profession of Printmaking],” tr. Koji Yukiyama (23-32); (6) Martin Butlin,
+“William Blake no shikaku teki hyogen shudan no hatten [William Blake: The Evolution of his Visual Means of
+Expression],” tr. Chikashi Kitazaki (33-39); (7) David Bindman, “Wataxhi jishin no kokoro ga watashi no
+kyokai de aru, Blake to Paine to French kakumei [‘My own mind is my own church’: Blake, Paine and the
+French Revolution],” tr. Kozo Shioe (40-51); (8) Gert Schiff &amp; Martin Butlin, “Katarogu: Catalogue”
+and “Sakuhin kaisetsu [Works Commentary],” tr. Keiko Kokatsu, Akiko Shimohama, Naoko Seki, Kumiko Tanaka,
+<corr type="emend">Hideko Numata,</corr> Nobuko Hitomi, Noriko Mintao, &amp; Miyuki Yasumatsu (53-264), with an English summary and
+“Works Cited” (265-79); (9) Beth A. Mandelbaum, “Nenpu [Chronicle],” tr. Hoko Fukumitsu (281-306);
+(10) Martin Butlin, “Literature” (i.e., bibliography), in English (307-10); and (11) Martin Butlin, list
+of “Exhibitions,” in English (310-11). <note id="n44"><hi rend="s">5</hi> The translations of Japanese
+titles and summaries of contents derive from reproductions of the original typescripts generously sent me by
+the National Museum of Western Art and the contributors.</note></p>
+              <p>There are 104 entries in the catalogue, some of them (e.g., <hi rend="i">Innocence</hi>)
+representing many pages exhibited. The 441 plates include color reproductions (mostly reduced in size) of 
+<hi rend="i">America</hi> (A), <hi rend="i">Europe</hi> (a and B), <hi rend="i">Marriage</hi> (D), 
+<hi rend="i">Song of Los</hi> (C), <hi rend="i">Songs of Experience</hi> (H), <hi rend="i">Songs of Innocence</hi>
+(Z), and Hayley’s “Little Tom” (Schiller copy), plus black-and-white reproductions of copies of the
+Blake plates for Blair, Dante, <hi rend="i">Job</hi>, Virgil (17), and Young.</p>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

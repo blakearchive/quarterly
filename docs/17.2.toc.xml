@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.2.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.2</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Robin Tawney</name>
+              <name>Chapel Petty</name>
+              <name>Dennis Kane</name>
+              <name>Karen Sunde</name>
+              <name>Tom Elder</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>James Bogan</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Christopher Heppner</name>
+              <name>Thomas L. Minnick</name>
+              <name>Dennis M. Read</name>
+              <name>Jon Stallworthy</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <front>
+      <pb id="p17-41-42" n="41-42"/>
+      <div1 id="cover">
+        <figure n="cover.017.02.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            66<lb/>
+            VOLUME 17<lb/>
+            NUMBER 2<lb/>
+            FALL 1983<lb/>
+            <lb/>
+            DIE SONDER SONDE IS<lb/>
+			DIE<lb/>
+			<lb/>
+			BRVEGEL M D LXV<lb/>
+			<lb/>
+			P Perret sc 79<lb/>
+			<lb/>
+			Cum Privile[go]</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-17-2-0001">
+        <table id="contents" rows="7" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.2.heppner">The Woman Taken in Adultery: An Essay on Blake’s
+“Style of Designing”</ref> by Christopher Heppner</cell>
+            <cell>44</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.2.minnick">Blake and His Circle: A Checklist of Recent
+Publications</ref> by Thomas L. Minnick and Detlef W. Dörrbecker</cell>
+            <cell>62</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">POETRY</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.2.stallworthy">“In Memory of Geoffrey Keynes, Kt., late of
+Lammas House, 1887-1982”</ref> by Jon Stallworthy</cell>
+            <cell>61</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="17.2.bogan">“Outside the Toronto Art Gallery”</ref> by James
+Bogan</cell>
+            <cell>60</cell>
+          </row>
+          <row>
+            <cell>Newsletter</cell>
+            <cell>79</cell>
+          </row>
+          <row>
+			<cell>
+			  <supplied type="emend">
+			  <ref type="article" issue="17.2.office">Blake Office Holiday Hours</ref>, 
+			  <ref type="article" issue="17.2.dance">Dances of Albion</ref>
+			  </supplied>
+			</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-17-2-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">JAMES BOGAN</hi> (University of Missouri-Rolla) is currently editing a casebook on Les
+Blank’s film <hi rend="i">Burden of Dreams.</hi></p>
+        <p><hi rend="b">DETLEF W. DÖRRBECKER</hi> is a collector of books and an amateur bibliographer. He
+teaches art history at Trier University.</p>
+        <p><hi rend="b">CHRISTOPHER HEPPNER</hi> is at McGill University, and has published several essays on
+Blake’s graphics.</p>
+        <p><hi rend="b">THOMAS L. MINNICK</hi>, Bibliographer for <hi rend="i">Blake / An Illustrated
+Quarterly</hi>, is Assistant Dean and College Secretary of University College at Ohio State University.</p>
+        <p><hi rend="b">DENNIS M. READ</hi> teaches English at Denison University, Granville, Ohio. He is
+completing a book on Blake, Cromek, and the economics of art in early ninteenth-century England.</p>
+        <p><hi rend="b">JON STALLWORTHY</hi>, the Anderson Professor of English at Cornell, knew Geoffrey
+Keynes for more than thirty years. He has published five collections of poems, two studies of Yeat’s poetry,
+and a biography of Wilfred Owen that won the Duff Cooper Memorial Prize, the W.H. Smith Award, and the E.M.
+Forster Award of the American Academy of Arts and Letters. <note type="unreferenced" place="footer">© 1983 by
+Morris Eaves and Morton D. Paley</note></p>
+        <figure n="RembrandtWomanAdultery.detail.17.2.bqscan" rend="file" width="662" height="285"/>
+      </div1>
+      <pb id="p17-43" n="43"/>
+      <div1 id="BQ-17-2-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of Calif.,
+Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Thomas L. Minnick, Ohio State Univ.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor of Great Britain:</hi> Frances A. Carey, Assistant Curator,
+Department of Prints and Drawings, British Museum.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of New Mexico,
+Albuquerque NM 87131, <hi rend="b">Telephone</hi> 505 / 277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, OH 43210.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+Frances A. Carey, Department of Prints and Drawings British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="CranachChristAdultress.detail-left.17.2.bqscan" rend="file" width="307" height="386"/>
+      </div1>
+      <div1 id="BQ-17-2-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editorial Assistants in charge:</hi> Marcy Erickson, Susan Corban, Univ. of New
+Mexico. <hi rend="b">Editorial Assistants:</hi> Leslie Donovan, Robin Tawney, Chapel Petty, Dennis Kane, Karen
+Sunde, Tom Elder, Univ. of New Mexico.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of New Mexico.</p>
+        <p><hi rend="b">Subscriptions</hi> are $15.00 for 1 year, 1 volume (4 issues). Special rates for
+individuals, $12.00 for 1 year surface mail subscriptions. Air mail subscriptions are $10.00 more than surface
+mail subscriptions. U.S. currency or international money order if possible. Make checks payable to 
+<hi rend="i">Blake / An Illustrated Quarterly.</hi> Address all subscription orders and related communications to
+Marcy Erickson, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131,
+USA.</p>
+        <p>Some <hi rend="b">back issues</hi> are available. Address Marcy Erickson for a list of issues and
+prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English,
+Univ. of New Mexico, Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley,
+CA 94720.</p>
+        <p><hi rend="b">International Serial Number</hi> is 0006-453×. <hi rend="i">Blake / An Illustrated
+Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International Bibliography,
+the Modern Humanities Research Association’s Annual Bibliography of English Language and Literature, 
+<hi rend="i">English Language Notes’</hi> annual Romantic Bibliography, <hi rend="b">ART</hi>bibliographies 
+<hi rend="b">MODERN</hi>, American Humanities Index, and the Arts and Humanities Citation Index.</p>
+        <figure n="CranachChristAdultress.detail-right.17.2.bqscan" rend="file" width="308" height="203"/>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

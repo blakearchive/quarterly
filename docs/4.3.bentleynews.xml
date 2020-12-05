@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.bentleynews</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">More British Blake Notes</title>
+                <author n="Bentley">G. E. Bentley, Jr.</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-3-0003">
+					<pb id="p04-68" n="68"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">MORE BRITISH BLAKE NOTES</hi>
+                        </title>
+                    </head>
+                    <byline>From <docAuthor>G. E. <name>Bentley</name>, Jr.:</docAuthor>
+                    </byline>
+                    <p>Prophecy in England is not dead, according to the following notice seen recently in a
+London taxi:
+<q>
+CRIME AND BANDITRY, DISTRESS OF NATIONS, AND PERPLEXITY will continue to increase until the Bishops open
+Joanna Southcott’s Box of Sealed Writings.
+</q>
+The notice is sponsored by The Panacea Society (Bedford, England) which was founded (according to their
+brochures) about 1916 to broadcast the ideas of “Eight Modern Prophets,” the first two of whom are Richard
+Brothers and Joanna Southcott. (She is said to have died “of grief, because the Child disappeared at the
+birth,” because it was only “the birth of the Child’s etheric body.”) They are also fostering “The
+‘Whosoever’ Religion,” “The Last Religion for the Last Times,” based upon Joel 2.32: “Whosoever shall call
+on the name of the Lord shall be delivered.”</p>
+                    <p>Christie’s sold on 17 November 1970 a number of “Blake” works, including one (no.
+140) called “Portrait of a man, said to be William Blake,” by G. Harlow, which had previously been sold at
+Sotheby’s on 29 July 1925, lot 147 (see <hi rend="i">Blake Records</hi> [1969], p. 223), but I am told by
+those who have seen it that it had no evident connection with either Blake or Harlow. There was also in the
+sale a counterproof of the Visionary Head of Queen Eleanor (no. 30) and a Blake drawing of what may be Saul
+and David (no. 29).</p>
+                    <p>Sotheby’s sold on 17 December 1970 <hi rend="i">Urizen</hi> [pl. 3] (no. 14) about
+the genuineness of which there is some difference of opinion.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

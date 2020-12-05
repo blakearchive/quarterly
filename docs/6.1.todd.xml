@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.todd</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">A Recollection of George Richmond by His Grandson</title>
+                <author n="Todd">Ruthven Todd</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-1-0005">
+            	<pb id="p06-24" n="24"/>
+                <head>
+                    <title type="section">
+                        <hi rend="b">Minute Particulars.</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">A RECOLLECTION OF GEORGE RICHMOND BY HIS GRANDSON</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Ruthven <name>Todd</name>
+                        </docAuthor>
+                    <ref target="n64" type="note">*</ref></byline>
+                    <p>At Christmas 1971, David Bindman sent me the most generous gift of a page, c. 1850,
+from a sketchbook by George Richmond, of some semi-aquatic plants and a tiny woodland scene in the lower left
+corner. This sent me hunting through some unsorted papers in search of a note which I remembered making,
+although, as I had not then moved into the cottage which I now occupy, I feared that it might have been lost
+with so many other unfiled items. However, I was fortunate and it turned up. This reads:
+<q>
+Sir Arthur Richmond told me that he remembered his grandfather, George, very clearly and that, toward the end
+of his life, his memories of his early youth became particularly bright. It was a pity that Arthur was up here
+for such a short time as I wanted to know so much. He suggested that probably these recollections of extreme
+old age were more vivid than anything he had produced for Alexander Gilchrist in the 1850s. (I had introduced
+the name of Gilchrist.) One thing he told me was that, when Blake died, George closed his eyes: “to keep the
+vision in,” George explained. Galilea.
+</q>
+I had stupidly forgotten to date the note, but an application to John Yeoman, who with his wife had
+accompanied Sir Arthur and his wife Greta on this and previous visits to Galilea, has supplied the information
+that it was in June 1966. I met Sir Arthur again, for the last time, at lunch in the Chelsea Arts Club at the
+end of August in 1967. George Richmond was born in 1809 and lived until 1896. Sir Arthur was born in 1879 and
+died in November 1968, three months short of his 90th birthday. This was the only occasion of our meetings
+upon which I remember having managed to bring up the subject of Blake. I think that, in explanation of his
+saying that George’s memories of his youth were sharper as an old man than when trying to help Gilchrist,
+Sir Arthur made the point that, in the 1850s, George was extremely busy making a living and so had more things
+upon his mind. When Sir Arthur mentioned the detail of George Richmond’s having closed Blake’s eyes, I did
+not at once remember having seen it mentioned before, but then recollected that it was mentioned by H. H.
+Gilchrist, <hi rend="i">Anne Gilchrist: Her Life and Writings</hi>, 1887, pp. 258-59, and quoted by Mona
+Wilson in a note. The remark, “to keep the vision in,” however, has not been previously recorded. There is no
+reason to doubt that it is a genuine recollection by a very old man trying to recapture the feelings of the
+teen-ager who was present at the deathbed, and who wrote the heartfelt and agitated note to Samuel Palmer, for
+his own young grandson. As such I feel that it deserves this explanation of how I came to be the recipient of
+the added detail from the only person I have known, so far as I can recall, who was able to give me anything
+new which he had actually received from the person who was present. The stretch from August 1827 to August
+1967, 140 years, is long enough in all truth, but the fact that David Bindman’s present now hangs in a
+cottage in the same village where I heard the remark helps strengthen the cord which pulls me back to examine
+the nearly seventy years preceding the first of these dates. <note id="n64">
+                            <hi rend="i">Ruthven Todd’s most recent published work on Blake is</hi>
+William Blake, the Artist. <hi rend="i">He is an authority on Blake’s biography, among many other things. He
+lives on Mallorca.</hi>
+                        </note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

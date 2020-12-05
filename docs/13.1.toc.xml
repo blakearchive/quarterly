@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.1</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Cindy Lewiecki</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Susan Fox</name>
+              <name>Thomas R. Frosch</name>
+              <name>Robert F. Gleckner</name>
+              <name>Thomas V. Lange</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Morton D. Paley</name>
+              <name>Warren H. Stevenson</name>
+              <name>Robert H. Tener</name>
+              <name>Raymond E. Thompson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <front>
+      <pb id="p13-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.013.01.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Volume 13<lb/>
+            Number 1<lb/>
+            Summer 1979</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-13-1-0001">
+        <table id="contents" rows="17" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.welch">Blake’s Response to Wollstonecraft’s 
+<hi rend="i">Original Stories</hi></ref><lb/>
+                            by Dennis M. Welch</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.butlin">Thoughts on the 1978 Tate Gallery
+Exhibition</ref><lb/>
+                            by Martin Butlin</cell>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.malmqvist">Blake in China</ref><lb/>
+                            by N.G.D. Malmqvist</cell>
+            <cell>24</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.thompson">The “Double” of the Double Portrait of Blake: A
+Description of Tatham’s Replica Portrait</ref><lb/>
+                            by Raymond E. Thompson</cell>
+            <cell>29</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.tener">The Authorship of the Spectator Review of
+Gilchrist</ref><lb/>
+                            by Robert H. Tener</cell>
+            <cell>33</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">MINUTE PARTICULARS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="13.1.lange"><corr type="emend"
+rend="plain">An</corr> Engraving of Wollstonecraft After Opie</ref></corr><lb/>
+                            By Thomas V. Lange</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.gleckner">Priestley and the Chameleon Angel in 
+<hi rend="i">The Marriage of Heaven and Hell</hi></ref><lb/>
+                            by Robert F. Gleckner</cell>
+            <cell>37</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">POETRY</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.stevenson">Bifocal</ref><lb/>
+                            by Warren Stevenson</cell>
+            <cell>39</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.frosch">W.J.T. Mitchell’s <hi rend="i">Blake’s Composite
+Art: A Study of the Illuminated Poetry</hi></ref><lb/>
+                            reviewed by Thomas Frosch</cell>
+            <cell>40</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.wittreich">Kay Parkhurst Easson and Roger R. Easson’s 
+<hi rend="i">Milton: A Poem by William Blake</hi></ref><lb/>
+                            reviewed by Joseph Anthony Wittreich, Jr. with a note on the reproductions<lb/>
+                            by Morton D. Paley</cell>
+            <cell>49</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="13.1.fox">David E. James’ <hi rend="i">Written Within and
+Without: A Study of Blake’s Milton</hi></ref><lb/>
+                            reviewed by Susan Fox</cell>
+            <cell>52</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>56</cell>
+          </row>
+          <row>
+          	<cell>
+			  <supplied type="emend">
+			  <ref type="article" issue="13.1.alverthorpe">Alverthorpe Gallery</ref>, 
+			  <ref type="article" issue="13.1.rainbow">Mr. B’s Rainbow</ref>, 
+			  <ref type="article" issue="13.1.doonesbury">Doonesbury</ref>, 
+			  <ref type="article" issue="13.1.ohio">Golgonooza, Ohio</ref>, 
+			  <ref type="article" issue="13.1.ruthven">Ruthven Todd Memoir</ref>, 
+			  <ref type="article" issue="13.1.paley">Morton D. Paley</ref>, 
+			  <ref type="article" issue="13.1.mla">Midwest MLA Blake</ref>, 
+			  <ref type="article" issue="13.1.sale">Blake Sale</ref>, 
+			  <ref type="article" issue="13.1.winter">Winter Issue</ref>, 
+			  <ref type="article" issue="13.1.corban">Susan Corban</ref>
+			  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-13-1-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>MARTIN BUTLIN is Keeper of the British Collection of the Tate Gallery, London, author of numerous
+works on Blake and Turner, and frequent contributor to <hi rend="i">Blake.</hi></p>
+        <p>SUSAN FOX, Queens College, City University of New York, has published essays on Blake and Spenser
+and a book, <hi rend="i">Poetic Form in Blake’s Milton</hi> (Princeton, 1976). Her poetry has appeared in
+the <hi rend="i">Chicago Review, The Paris Review</hi>, and <hi rend="i">The New York Quarterly.</hi></p>
+        <p>THOMAS R. FROSCH is Associate Professor of English at Queens College. He has written 
+<hi rend="i">The Awakening of Albion</hi>, a study of Blake, as well as a forthcoming book of poetry, 
+<hi rend="i">Plum Gut</hi> (New Rivers Press).</p>
+        <p>ROBERT F. GLECKNER is Professor of English at Duke University. His most recent article is “From
+Selfish Spleen to Equanimity: Byron’s Satires,” in the summer 1979 issue of <hi rend="i">Studies in
+Romanticism.</hi></p>
+        <p>THOMAS V. LANGE, a specialist in illustrated books, is Assistant Curator of Printed Books and
+Bindings at the Pierpont Morgan Library, New York. He co-authored the article in the <hi rend="i">Times
+Literary Supplement</hi> (14 Jan., 1977) reporting the discovery of an unrecorded album of Blakeana, and is
+bibliographer of <hi rend="i">The Illustrator and the Book in England, 1790-1914.</hi> At present he is
+compiling a catalogue of the Blake collection at the Morgan Library, to appear in <hi rend="i">Blake.</hi></p>
+        <p>N. G. D. MALMQVIST, Stockholm, was in China during the Blake bicentennial year, 1957, and is
+returning to China this spring. His Swedish translation of <hi rend="i">An Island in the Moon</hi> was
+published in April and a selection of <hi rend="i">Songs of Innocence</hi> and <hi rend="i">Songs of
+Experience</hi> in Swedish translation will appear in <hi rend="i">Radix</hi> (Autumn, 1979).</p>
+        <p>MORTON D. PALEY is an NEH research fellow for 1979-1980. His most recent book is an introduction to
+Blake’s art: <hi rend="i">William Blake</hi> (Phaidon). He continues to work on his book-length study of 
+<hi rend="i">Jerusalem.</hi></p>
+        <p>WARREN H. STEVENSON, Professor of English at the University of British Columbia, is the author of a
+number of essays on Blake.</p>
+        <p>ROBERT H. TENER, Professor of English, University of Calgary, has published articles on Richard
+Holt Hutton and Walter Bagehot, and on the editorship of the <hi rend="i">Spectator, Economist</hi>, and the
+<hi rend="i">National Review.</hi></p>
+        <p>RAYMOND E. THOMPSON, Columbus, Ohio, a professional engineer, is a Blake enthusiast and collector.
+<note type="unreferenced" place="footer">© 1979 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+      <pb id="p13-3" n="3"/>
+      <div1 id="BQ-13-1-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator, Department of Prints and
+Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico, Albuquerque, NM
+87131, TELEPHONE 505/277-3103.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Thomas L. Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus, Ohio, 43210.<lb/>
+Frances A. Carey, Department of Prints and Drawings, British Museum, Great Russell Street, London WC1B 3DG,
+England.</p>
+        <figure n="EditorsTOC.13.1.bqscan" rend="file" width="500" height="644"/>
+        <p>DENNIS M. WELCH, Clarkson College, has published scholarly articles in <hi rend="i">Bucknell
+Review, Studies in Philology, Mosaic</hi>, and <hi rend="i">Forum.</hi></p>
+        <p>JOSEPH ANTHONY WITTREICH, JR., Professor of English, University of Maryland, is the author of 
+<hi rend="i">Angel of Apocalypse</hi> (1975) and <hi rend="i">Visionary Poetics</hi> (1979). He is currently at
+work on a book-length study, <hi rend="i">The Poetry of The Rainbow: Romantic Poetry as Prophecy.</hi></p>
+      </div1>
+      <div1 id="BQ-13-1-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="InformationTOC.13.1.bqscan" rend="file" width="400" height="389"/>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL ASSISTANTS: Peter
+Chase, Wendy Jones, Kris Lackey, Cindy Lewiecki, Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the Department of English,
+University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $12.00 for 1 year, 1 volume, 4 issues. Special rate for individuals, $10.00,
+surface mail. $15.00 for subscribers overseas who prefer air mail. U.S. currency or international money order
+if possible. Make checks payable to Blake/An Illustrated Quarterly. Address all subscription orders &amp;
+related communications to the Circulation Mgr., Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ.
+of New Mexico, Albuquerque NM 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd. ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque, NM 87131; Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/An Illustrated Quarterly, is INDEXED in the Modern
+Language Association’s International Bibliography, the Modern Humanities Research Association’s Annual
+Bibliography of English Language and Literature, <hi rend="i">English Language Notes’</hi> annual Romantic
+bibliography, ARTbibliographies MODERN, and the American Humanities Index (Whitston Pub.).</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p13-55" n="55"/>
+    	<figure n="BlakeQuarterlyCaricature.13.1.bqscan" rend="file" width="539" height="750">
+    		<figTranscr>Drawing by David Levine. Reprinted with permission 
+    		from The New York Review of Books. Copyright © 1970 New York Review, Inc.<lb/>
+    		<lb/>
+    		D. Levine 69<lb/>
+    		<lb/>
+    		Blake AN ILLUSTRATED QUARTERLY<lb/>
+    		ARTICLES, NOTES, REVIEWS, DISCUSSION, NEWS OF RECENT<lb/>
+    		PUBLICATIONS, EXHIBITIONS, AND SALES. AN ANNUAL CHECKLIST<lb/>
+    		OF BLAKE SCHOLARSHIP, SPECIAL BIBLIOGRAPHICAL<lb/>
+    		ISSUES, AND ILLUSTRATIONS OF HIGH QUALITY. SUBSCRIPTIONS:<lb/>
+    		$12 PER YR. SPECIAL RATE FOR INDIVIDUALS, $10.<lb/>
+    		OVERSEAS AIR MAIL, $17. WRITE: CIRCULATION MGR., BLAKE,<lb/>
+    		DEPT. OF ENGLISH, UNIV. OF NEW MEXICO, ALBUQUERQUE NM<lb/>
+    		87131. EDITORS MORRIS EAVES AND MORTON D. PALEY</figTranscr>
+    	</figure>
+    	<pb id="p13-60" n="60"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">LESSING J. ROSENWALD<lb/>
+    			1891-1979</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.1.conference</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Santa Barbara Conference</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.1</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Brad Hayden</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+              <resp>Design &amp; layout for this issue</resp>
+              <name>Brad Hayden</name>
+              <name>Virginia Masi</name>
+              <resp>Contributors</resp>
+              <name>James Bogan</name>
+              <name>Martin Butlin</name>
+              <name>David V. Erdman</name>
+              <name>Michael Ferber</name>
+              <name>Mary Lynn Johnson</name>
+              <name>Raymond Lister</name>
+              <name>J. Walter Nelson</name>
+              <name>Michael Tolley</name>
+              <resp>Photo credits</resp>
+              <name>Aethelred and Alexandra Eldridge</name>
+              <name>Leonard and Marjorie Gayton</name>
+              <name>Morris Eaves</name>
+              <name>Virginia Masi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <pb id="p10-4" n="4"/>
+      <div1 id="BQ-10-1-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWS</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Santa Barbara Conference</hi>
+            </title>
+          </head>
+          <p>The conference on Blake in the Art of His Time was held at the Miramar Hotel in Santa Barbara,
+California, 2-5 March 1976, led by Donald Pearce of the English Department of the University of California,
+Santa Barbara, and Corlette Walker of the Art Department. The conference was sponsored by the University.
+Abstracts of papers presented at the conference will be printed in the fall issue of the 
+<hi rend="i">Newsletter.</hi></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

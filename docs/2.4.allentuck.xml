@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.4.allentuck</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">Lady Cynthia Asquith at a Blake Sale</title>
+				<author n="Allentuck">Marcia Allentuck</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>April 1, 1969</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1969</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.4</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>David V. Erdman</name>
+                            <name>W.H. Stevenson</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1969"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <div1 id="BQ-02-4-0004">
+                <div2>
+                    <div3>
+						<pb id="p02-72" n="72"/>
+                        <p>Marcia <corr type="emend">Allentuck</corr> (CUNY) came across the following amusing passage in the diaries of
+Lady Cynthia Asquith, concerning the Blake sale at Christie’s in March 1918:</p>
+						<q>
+						<corr type="emend">“We</corr> went to Christie’s to see a wonderful collection of Blakes 
+						which are just coming up for sale. <corr type="emend">They</corr> were just lying about 
+						to be handled! It was very difficult to get at them and I found Lady Ottoline Morrell 
+						and her long-haired party very distracting—Blake draws a queer crowd. . . . I longed
+						to see the drawings in peace.” 
+						(<hi rend="i">Diaries, 1915-1918.</hi> London: Hutchingson, 1968, p. 422)
+						</q>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

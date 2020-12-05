@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>21.2.lincoln</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">Vala’s Garden</title>
+        <author n="Lincoln">Andrew Lincoln</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1987</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1987</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">21.2</biblScope>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Hazard Adams</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Catherine Haigney</name>
+              <name>Andrew Lincoln</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1987"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_21">
+    <body>
+      <div1 id="BQ-21-2-0007">
+      	<pb id="p21-77" n="77"/>
+        <head>
+          <title type="section">
+            <hi rend="b">
+              <hi rend="i">DISCUSSION</hi>
+            </hi>
+          </title>
+          <title type="section-subtitle">
+            <hi rend="b">
+              <hi rend="i">with intellectual spears &amp; long winged arrows of thought</hi>
+            </hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Vala’s Garden</title>
+          </head>
+          <byline>
+            <docAuthor>Andrew <name>Lincoln</name></docAuthor>
+          </byline>
+          <p>In her paper “Vala’s Garden in Night the Ninth: Paradise Regained or Woman Bound?” 
+(<hi rend="i">Blake</hi> 20 (1987): 116-24) Catherine Haigney cites a wide range of critics who have read the
+pastoral episode as a joyful celebration of innocence, and have thus tended to overlook “pitfalls” in the
+text, to “ameliorate the Tharmas / Enion seduction scene,” and to ignore the circularity of Blake’s
+myth. One might easily conclude from her paper that the “traditional view” of this episode has never
+before been challenged. For the record, at least one critic<supplied type="spacer"> </supplied><ref
+target="n3" type="note">1</ref> has already suggested that the serenity of this episode is deceptive, that the
+relationships between Luvah and Vala, and between Tharmas and Enion are not necessarily harmonious, and that
+there is an element of circularity in the myth here (because the passage can be read as the prelude to Man’s
+fall as well as to his resurrection). I feel I should point this out, if only because Catherine Haigney does
+not. <note id="n3"><hi rend="s">1</hi> Andrew Lincoln, “Blake’s Lower Paradise: The Pastoral Passage in
+<hi rend="i">The Four Zoas</hi>, Night the Ninth,” <hi rend="i">Bulletin of Research in the Humanities</hi>
+84 (1981): 470-79.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

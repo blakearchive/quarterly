@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.3.newyork</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake in New York</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1979-1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979-80</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.3</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Morris Eaves</name>
+              <name>E.B. Murray</name>
+              <name>David Simpson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979-1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-154" n="154"/>
+      <div1 id="BQ-13-3-0009">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE IN NEW YORK</hi>
+            </title>
+          </head>
+          <p>Skidmore and Union Colleges will co-host a conference, “With Corroding Fires: William Blake as
+Poet, Printmaker, and Painter,” to be held 9 and 10 May 1980. The conference will emphasize Blake’s great
+range of techniques, interests, and accomplishments as poet, printmaker, illustrator, book designer, and
+painter. The four major speakers will be Robert Gleckner, Jean Hagstrum, Karl Kroeber, and Robert Rosenblum.
+Their major talks will be followed by panel discussions conducted by students, faculty and visiting scholars.
+In addition there will be an ambitious slide presentation, a public program, “William Blake: Poet and Singer,”
+which will include dance, speaking voice, soloist and choral interpretations of selections from the
+illuminated books, a panel discussion on the problems of “Teaching Art and Poetry and Blake,” and a
+demonstration and workshops on printmaking given by Joseph Viscomi. An exhibition that will include a full
+representative selection of original prints, paintings and drawings will accompany the symposium.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

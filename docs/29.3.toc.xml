@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1995/96</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1995/96</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.3</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Max Browne</name>
+              <name>Martin Butlin</name>
+              <name>Stephen Cox</name>
+              <name>Keri Davies</name>
+              <name>Michael Ferber</name>
+              <name>William F. Halloran</name>
+              <name>Yoko Ima-Izumi</name>
+              <name>Andrew Lincoln</name>
+              <name>Harriet Kramer Linkin</name>
+              <name>Dennis M. Read</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1995/96"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <front>
+      <pb id="p29-73-74" n="73-74"/>
+      <div1 id="cover">
+        <figure n="cover.029.03.bqscan" rend="file" width="258" height="334">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 29<lb/>
+            NUMBER 3<lb/>
+            WINTER 1995/96</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-29-3-0001">
+        <table id="contents" rows="14" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.butlin">A Rare Group of Early Twentieth-Century Watercolors
+by a Follower of William Blake</ref><lb/>
+<hi rend="i">by Martin Butlin</hi></cell>
+            <cell>
+              <hi rend="i">76</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.browne">A Blake Source for von Holst</ref><lb/>
+<hi rend="i">by Max Browne</hi></cell>
+            <cell>
+              <hi rend="i">78</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.imaizumi">G. E. Bentley, Jr., <hi rend="i">Blake Studies in
+Japan: A Bibliography of Works on William Blake Published in Japan 1893-1993</hi></ref><lb/>
+<hi rend="i">Reviewed by Yoko Ima-Izumi</hi></cell>
+            <cell>
+              <hi rend="i">82</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.ferber">William Blake, <hi rend="i">The Early Illuminated
+Books</hi></ref><lb/>
+<hi rend="i">Reviewed by Michael Ferber</hi></cell>
+            <cell>
+              <hi rend="i">88</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.read">William Blake, <hi rend="i">Milton a Poem</hi> and the
+Final Illuminated Works: <hi rend="i">The Ghost of Abel</hi>[,] <hi rend="i">on Homer’s Poetry</hi> [and]
+<hi rend="i">On Virgil</hi>[,] <hi rend="i">Laocoön</hi></ref><lb/>
+<hi rend="i">Reviewed by Dennis M. Read</hi></cell>
+            <cell>
+              <hi rend="i">91</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.linkin">Molly Anne Rothenberg, <hi rend="i">Rethinking
+Blake’s Textuality</hi></ref><lb/>
+<hi rend="i">Reviewed by Harriet Linkin</hi></cell>
+            <cell>
+              <hi rend="i">92</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.lincoln">George Anthony Rosso, Jr., <hi rend="i">Blake’s
+Prophetic Workshop: A Study of</hi> The Four Zoas</ref><lb/>
+<hi rend="i">Reviewed by Andrew Lincoln</hi></cell>
+            <cell>
+              <hi rend="i">95</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.warner">Steven Vine, <hi rend="i">Blake’s Poetry: Spectral
+Visions</hi></ref><lb/>
+<hi rend="i"> Reviewed by Janet Warner</hi></cell>
+            <cell>
+              <hi rend="i">96</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="29.3.hayes">Elliott Hayes, <hi rend="i">Blake: Innocence and
+Experience</hi></ref></corr><lb/>
+<hi rend="i"> Reviewed by Andrew Lincoln</hi></cell>
+            <cell>
+              <hi rend="i">97</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.cox">Jeanne Moskal, <hi rend="i">Blake, Ethics, and
+Forgiveness</hi></ref><lb/>
+<hi rend="i"> Reviewed by Stephen Cox</hi></cell>
+            <cell>
+              <hi rend="i">97</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="29.3.davies">Exhibition: “The Genitals are Beauty”</ref><lb/>
+<hi rend="i">Reviewed by Keri Davies</hi></cell>
+            <cell>
+              <hi rend="i">102</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <pb id="p29-75" n="75"/>
+      <div1 id="BQ-29-3-0002">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Max Browne is a Fuseli, Blake and Holst enthusiast and collector. He recently organized the first
+exhibition devoted to Holst and wrote the catalogue <hi rend="i">The Romantic Art of Theodor Von Holst</hi>
+(Lund Humphries, 1994).</p>
+        <p>Martin Butlin was formerly Keeper of the Historic British Collection at the Tate Gallery, where he
+was in charge of the notable groups of works by Blake and Turner. He is now a consultant at Christie’s.</p>
+        <p>Stephen Cox, Professor of Literature at the University of California, San Diego, is the author of
+<hi rend="i">“The Stranger Within Thee”: Concepts of the Self in Late-Eighteenth-Century Literature</hi>,
+and of <hi rend="i">Love and Logic: The Evolution of Blake’s Thought.</hi></p>
+        <p>Keri Davies is Chair of the Blake Society at St James’s. He is currently researching Blake’s
+contemporary collectors.</p>
+        <p>Michael Ferber is Professor of English at the University of New Hampshire. His most recent books
+are the Blake and Shelley volumes of the Penguin Critical Studies series.</p>
+        <p>William F. Halloran, Professor of English, University of Wisconsin-Milwaukee, has returned full
+time to teaching and research on Blake, Yeats, William Sharp (“Fiona Macleod”) and others after an
+inordinate number of years as dean.</p>
+        <p>Yoko Ima-Izumi, Associate Professor of English at the University of Tsukuba in Japan, has published
+essays on Blake, romantic literature, and film. She is currently working on three books: 
+<hi rend="i">Blake’s Re-Vision of the Female</hi> (in Japanese), <hi rend="i">Romantic Poetry and Postmodern
+Film</hi> (in Japanese) and <hi rend="i">Women in Japanese Film</hi> (in English).</p>
+        <p>Andrew Lincoln teaches in the School of English and Drama at Queen Mary and Westfield College,
+University of London. His book, <hi rend="i">Spiritual History: A Reading of William Blake’s The Four
+Zoas</hi> was recently published by Oxford University Press.</p>
+        <p>Harriet Kramer Linkin teaches courses in Blake, romanticism, and gender at New Mexico State
+University. She is currently co-editing <hi rend="i">Approaches to Teaching British Women Poets of the
+Romantic Period</hi> for the MLA and writing a study on the poetry of Mary Tighe.</p>
+        <p>Dennis M. Read is an associate professor at Denison University, where he teaches courses in
+literature and writing.</p>
+        <p>Janet Warner is Professor Emerita of English, Glendon College, York University, Toronto. She is now
+living on five acres near Vancouver, British Columbia, and studying garden design.</p>
+      </div1>
+      <div1 id="BQ-29-3-0003">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Patricia Neill, Department of English, University of Rochester, Rochester, NY
+14627</p>
+        <p>MANAGING EDITOR: Patricia Neill<lb/>
+TELEPHONE 716/275-3820<lb/>
+FAX 716/442-5769<lb/>
+PRODUCTION OFFICE EMAIL: pnpj@db1.cc.rochester.edu</p>
+        <p><hi rend="b">Morris Eaves</hi>, Department of English, University of Rochester, Rochester NY
+14627<lb/>
+Email: meav@db1.cc.rochester.edu</p>
+        <p><hi rend="b">Morton D. Paley</hi>, Department of English, University of California, Berkeley CA
+94720<lb/>
+Email: P72735@garnet.berkeley.edu</p>
+        <p><hi rend="b">G. E. Bentley, Jr.</hi>, University College, University of Toronto, Toronto, Ontario
+M5S 1A1 Canada<lb/>
+Email: gbentley@epas.utoronto.ca</p>
+        <p><hi rend="b">Nelson Hilton</hi>, Department of English, University of Georgia, Athens, GA
+30602<lb/>
+Email: nhilton@uga.cc.uga.edu</p>
+        <p><hi rend="b">David Worrall</hi>, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham
+TW1 4SX England<lb/>
+Email: 101510.2141@compuserve.com</p>
+      </div1>
+      <div1 id="BQ-29-3-0004">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p>SUBSCRIPTIONS are $50 for institutions, $25 for individuals. All subscriptions are by the volume (1
+year, 4 issues) and begin with the summer issue. Subscription payments received after the summer issue will be
+applied to the 4 issues of the current volume. Foreign addresses (except Canada and Mexico) require an $8 per
+volume postal surcharge for surface, an $18 per volume surcharge for air mail delivery. U.S. currency or
+international money order necessary. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Patricia Neill, <hi rend="i">Blake</hi>,
+Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>BACK ISSUES are available at a reduced price. Address Patricia Neill for a list of issues and
+prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to forms suggested in 
+<hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of English, University of
+Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+94720.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, <hi rend="i">The Romantic Movement: A
+Selective and Critical Bibliography</hi> (ed. David V. Erdman et al.), American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover illustration: Henry John Stock (1853-1930), <hi rend="i">The Beast cast into the Lake of
+Fire.</hi>
+	<note type="unreferenced" place="footer">© 1995 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

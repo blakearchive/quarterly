@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>2.3.butlin</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">William Rossetti’s Annotations to Gilchrist’s Life of William
+Blake</title>
+				<author n="Butlin">Martin Butlin</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">02.3</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>Martin Butlin</name>
+                            <name>John Buck</name>
+                            <name>G.E. Bentley, Jr.</name>
+                            <name>Frederic Cummings</name>
+                            <name>David V. Erdman</name>
+                            <name>John E. Grant</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_02">
+        <body>
+            <pb id="p02-39" n="39"/>
+            <div1 id="BQ-02-3-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="i">
+                            <hi rend="u">NOTES</hi>
+                        </hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. William Rossetti’s Annotations to Gilchrist’s 
+<hi rend="i">Life of William Blake</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor>Martin <name>Butlin</name></docAuthor><lb/>
+                        Tate Gallery</byline>
+                    <p>Some Blake scholars may not know of the copy of the first, 1863 edition of
+Gilchrist’s <hi rend="i">Life of William Blake</hi> containing annotations by William Rossetti. This is now
+in the Houghton Library, Harvard University, where I examined it in the summer of 1966. It bears William
+Rossetti’s name on the short title-page and also the inscription “Handed over to Olive/W.M.R./Septr. 1908,”
+which presumably refers to his daughter Mrs. Olive Rossetti Agresti.</p>
+                    <p>Most of the annotations were made to William Rossetti’s own lists of Blake’s works
+in the second volume. There are some corrections, for instance regarding the duplication of certain works in
+the 1863 lists. References are inserted to pictures in the sale of George Blamire, deceased, at Christie’s
+on 7th and 9th November 1863 (which included “The Black Madonna” now in the collection of Mr. and Mrs. Paul
+Mellon), and to works in the Aspland and H.A. Bright collections which were unknown to Rossetti when he
+compiled his lists. Some changes of ownership and two cases of cracked surfaces being repaired are noted and a
+few dates changed or inserted. Most valuable of all are two references to “Mr. Chase” which, as my colleague
+Leslie Parris will show in a forthcoming note,<supplied type="spacer"> </supplied><ref target="n0"
+type="note">*</ref> help in establishing the identity of a patron who commissioned a number of works from
+Blake surpassed in importance only by those executed for Thomas Butts and John Linnell.</p>
+                    <p>Rossetti’s notes also identify the <hi rend="i">Tiriel</hi> drawings, listed as “of
+uncertain subject” in the 1863 edition, and there are one or two annotations to Gilchrist’s text in the
+first volume. It is difficult to date the notes precisely; indeed, they may have been done over a number of
+years, as is suggested by the references to both Chase and Aspland alongside the same items. One change of
+ownership, of List 1 no. 133 from “Mr. Strange” to “Mr. Scott,” gives a terminus ante quem for this annotation
+of 1876, when William Bell Scott lent the work concerned to the Burlington Fine Arts Club exhibition. The
+references to Mr. Chase were almost certainly done before 1872 when the watercolours were sold anonymously at
+Sotheby’s while those to Aspland must follow this date, when they apply to the works in that sale.</p>
+                    <p>The additional entries, corrections and dates, notes of condition and so on were
+incorporated in the revised lists included in the 1880 edition of Gilchrist’s <hi rend="i">Life.</hi> The
+fresh information about ownership, on the other hand, was not. In fact the revised lists are less informative
+in this respect than those of 1863, only the works from the collections of Butts and Linnell being so noted.
+Doubtless William Rossetti found the task of keeping up with the increasingly frequent changes of ownership
+difficult; the present writer can sympathize.</p>
+                    <p>May I take this opportunity of appealing for help over an untraced catalogue for a sale
+of works from the Butts collection? This included a number of illustrations to the Apocalypse which appear in
+Rossetti’s list with the note
+<pb id="p02-40" n="40"/>
+“Described in the Sale-catalogue as ‘very fine’,” “ . . . ‘very powerful and characteristic’,” “ . . .
+‘of grand conception and highly characteristic’,” and so on. Although I have traced sales from the Butts
+collection at Sotheby’s on the 26th March 1852, and at Foster’s on the 29th June 1853 and again on 8th
+March 1854 (omitting sales later than 1863) none of them includes these works or these descriptions. Nor are
+they to be found in the Joseph Hogarth sale at Southgate’s on 7th to 23rd June 1854 or the anonymous
+Frederick Tatham sale at Sotheby’s on 29th April 1862. Any help in tracing this catalogue will be greatly
+appreciated.</p>
+<pb id="p02-48" n="48" rend="hidden"/>
+<note id="n0">Note:<gap type="emend"/> “William Blake’s Mr. Thomas” by Leslie Parris has now been
+published in the <hi rend="i">Times Literary Supplement</hi> for 5 Dec. 1968, p. 1390.</note>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

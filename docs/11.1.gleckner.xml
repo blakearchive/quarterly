@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.gleckner</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">Blake’s Miltonizing of Chatterton</title>
+                <author n="Gleckner">Robert F. Gleckner</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <pb id="p11-27" n="27"/>
+            <div1 id="BQ-11-1-0007">
+                <head>
+                    <title type="main">
+                        <hi rend="b">Blake’s Miltonizing of <corr type="emend">Chatterton</corr></hi>
+                    </title>
+                </head>
+                <byline>
+                    <hi rend="b">by</hi>
+                    <docAuthor>
+                        <hi rend="b">Robert F.</hi>
+                        <name>
+                            <hi rend="b">Gleckner</hi>
+                        </name>
+                    </docAuthor>
+                </byline>
+                <p>While there is little doubt that Blake read, absorbed, and stole from Chatterton,
+                    especially early in his career, the standard assumption has been, stemming
+                    largely from Margaret Lowery’s <hi rend="i">Windows of the
+                        Morning</hi>, that Blake’s borrowings from his near contemporary
+                    merely signal his indebtedness to the eighteenth century, particularly to the
+                    minor poets of the latter half of that century.<supplied type="spacer"> </supplied><ref
+target="n48" type="note">1</ref> Trying to deal adequately and fairly with verbal echoes is, of
+                    course, extremely risky, as the recent counterpoint between Michael Tolley and
+                    Michael Ferber over Thel’s Motto newly demonstrates (<hi rend="i">Blake Newsletter</hi>,
+Summer 1976). So much of the verbal poetic tradition
+                    impinges upon a poet’s unconscious memory that it is more often than
+                    not impossible to assign a phrase’s ultimate origin.<supplied type="spacer"> </supplied><ref target="n49" type="note">2</ref> And, especially with a poet like Blake, such assignment
+                    is all the more difficult because of his habit of wrenching, upsetting, or even
+                    perverting the sense of the original to fit his own purposes—which
+                    include frequently a turning of the echo (or quotation or near-quotation)
+                    against itself. <note id="n48">
+                        <hi rend="s">1</hi> (New Haven: Yale Univ. Press,
+                        1940). See especially pp. 131-93, and also my note 9 below. Cf. T. S.
+                        Eliot’s similar position in <hi rend="i">The Sacred Wood</hi>
+                        (London: Methuen &amp; Co., 1920).</note>
+                    <note id="n49">
+                        <hi rend="s">2</hi> For some of these difficulties see such
+                        studies as R. D. Havens, <hi rend="i">The Influence of Milton on English
+                            Poetry</hi> (Cambridge, Mass.: Harvard Univ. Press, 1922); C. V. Deane,
+                            <hi rend="i">Aspects of Eighteenth-Century Nature Poetry</hi> (Oxford:
+                        Basil Blackwell, 1935); John Arthos, <hi rend="i">The Language of Natural
+                            Description in Eighteenth Century Poetry</hi> (Ann Arbor: Univ. of
+                        Michigan Press, 1949); Bernard Groom, <hi rend="i">The Diction of Poetry
+                            from Spenser to Bridges</hi> (Toronto: Univ. of Toronto Press, 1955);
+                        Geoffrey Tillotson, <hi rend="i">Augustan Poetic Diction</hi> (London: The
+                        Athlone Press, 1964); and most recently Arthur Sherbo, <hi rend="i">English
+                            Poetic Diction from Chaucer to Wordsworth</hi> (East Lansing: Michigan
+                        State Univ. Press, 1975).</note>
+                </p>
+                <p>One of the means Blake uses to accomplish such reversals or self-destructions is
+                    the introduction into the verbal context of a contrary (or at least
+                    superficially unrelated) allusion which, in its thematic import and usually
+                    clear Blakean affinities, dominates the total verbal and imagistic context to
+                    the point where assumptions about Blake’s indebtedness of the first
+                    “source” are affectively short-circuited by the second.</p>
+                <p>Let me take a simple and characteristic case in point. At the close of the
+                    Memorable Fancy preceding the Proverbs of Hell Blake’s Devil
+                    “folded in black clouds” writes “with corroding
+                    fires” the following: 
+					<q> How do you know but ev’ry Bird
+                        that cuts the airy way,<lb/>
+ Is an immense world of delight,
+                        clos’d by your senses five? </q>
+As has been pointed out by
+                        others,<supplied type="spacer"> </supplied><ref target="n50" type="note">3</ref> the
+immediate source of the
+                    first line, at least, seems to be Chatterton’s <hi rend="i">Bristowe
+                        Tragedie</hi>: 
+						<q> Howe dydd I knowe thatt ev’ry darte,<lb/>
+                        Thatt cutte the airie waie,<lb/>
+ Myghte nott fynde passage toe my
+                        harte,<lb/>
+ And close myne eyes for aie? (11. 133-36) </q>
+The speaker is
+                    “Syr Charles Bawdin,” who is about to be executed, the
+                    particular context his memory of escapes from death in battle and the consequent
+                    irony of his present predicament. The sharpness of the contrast with
+                    Blake’s context needs no comment. Indeed so obviously irrelevant to
+                    Blake’s purposes are both Chatterton’s context and the
+                    “darte,” even if somehow manipulated to
+                    “fit,” that one wonders whether there is any point to
+                    Blake’s making the allusion at all. It seems merely an unconsious (or
+                    perhaps even conscious) borrowing of a felicitious phrase. <note id="n50">
+                        <hi rend="s">3</hi> E.g. Harold Bloom, <hi rend="i">Blake’s
+                            Apocalypse</hi> (Garden City: Doubleday &amp; Co., 1963), p. 83,
+                        and most recently Geoffrey Keynes, ed., <hi rend="i">William Blake: The
+                            Marriage of Heaven and Hell</hi> (London and New York: Oxford Univ.
+                        Press, 1975), commentary on plates 6-7 (no page numbers
+                    supplied).</note>
+                </p>
+                <p>Even early, however, such borrowing of felicities is not Blake’s
+                    habit. And that is not the case here either. The trope of “cutting the
+                    air” (or the water) has a long history in literature, extending
+                    certainly as far back as Homer, Virgil, and Ovid<supplied type="spacer"> </supplied><ref
+target="n51" type="note">4</ref>—and appearing prominently at least twice in Spenser
+                    (whose influence on Blake’s <hi rend="i">Poetical Sketches</hi> is
+                    demonstrably substantial). For example, in <hi rend="i">The Faerie Queene</hi>
+                    the angel attending Guyon, who is “laid in swowne,” is
+                    described, in part, by Spenser thus: 
+					<q> two sharpe winged sheares [i.e.
+                        wings]<lb/>
+ Decked with diuerse plumes, like painted Iayes,<lb/>
+ Were fixed
+                        at his backe, to cut his ayerie wayes.<lb/>
+ (II, viii, 5) </q>
+Further,
+                    Canto VIII is introduced by an account of the “care” of
+                    “heavenly spirits” who 
+					<q> with golden pineons, cleave<lb/>
+                        The flitting skyes, like flying Pursuivant,<lb/>
+ Against foule feends to
+                        aide us millitant.<lb/>
+ (stanza 2) </q>
+And this is followed by a comparison
+                    of Guyon’s protector with 
+					<q> Cupido on Idaean hill,<lb/>
+ When having
+                        laid his cruell bow away,<lb/>
+ And mortall arrowes, wherewith he doth
+                        fill<lb/>
+ The world with murdrous spoiles and bloudie pray.<lb/>
+ (stanza 6) </q>
+                    <pb id="p11-28" n="28"/>
+Here, then, is the likely “source”
+                    for Chatterton’s passage, wherein he translates Spenser’s
+                    heavenly spirits into the warrior martyr who, though obviously no longer
+                    protected from harm, reasserts throughout the latter half of the poem the
+                    righteousness of his life and career, his readiness to die, and his faith in a
+                    future life in “the land of bliss” with “God in
+                    Heaven.” <note id="n51">
+                        <hi rend="s">4</hi> Sherbo, e.g., cites
+                        Dryden’s <hi rend="i">Aeneid</hi>, Pope’s <hi rend="i">Iliad</hi> and 
+<hi rend="i">Odyssey</hi> (in the former of which we
+                        find “airy way” as well), Sandys’ <hi rend="i">Ovid’s Metamorphoses</hi>,
+Godolphin’s <hi rend="i">The Passion of Dido for Aeneas</hi>, and Evelyn’s
+                            <hi rend="i">Lucretius</hi> among others (<hi rend="i">English Poetic
+                            Diction</hi>, pp. 62-65), while Arthos lists Virgil’s <hi rend="i">Aeneid</hi>
+and the <hi rend="i">Georgics</hi>, as well as Du
+                        Bartas, Sylvester, Chapman, Drayton, and Cowley (<hi rend="i">The Language
+                            of Natural Description</hi>, pp. 134-35).</note>
+                </p>
+                <p>That Blake knew these lines from Spenser is, of course, a matter of speculation;
+                    but in view of his apparently wide and careful early reading of Spenser it is
+                        likely.<supplied type="spacer"> </supplied><ref target="n52" type="note">5</ref>
+Further, in <hi rend="i">An
+                        Hymne of Heavenly Love</hi> the nine orders of angels are presented
+                    “with nimble wings to cut the skies, / When he [God] them on his
+                    messages doth send” (11. 66-67), a passage that may have suggested to
+                    Blake his characteristic perversion of angel-messengers into the Devil who
+                    conveys his wisdom to “the minds of men” by corrosive writing.
+                        <note id="n52">
+                        <hi rend="s">5</hi> We might also note, from <hi rend="i">Muiopotmos</hi>, the phrase
+“air-cutting wings” (1.
+                        154).</note>
+                </p>
+                <p>Be that as it may, the most important point about Blake’s context is
+                    that it is even more Miltonic than it may be Spenserian. In <hi rend="i">Paradise
+Regained</hi> “the Adversary” 
+<q> with envy
+                        fraught and rage<lb/>
+ Flies to his place, nor rests, but in mid air<lb/>
+ To
+                        Council summons all his mighty Peers,<lb/>
+ Within thick Clouds and dark
+                        tenfold involv’d.<lb/>
+ (I, 38-41) </q>
+Similarly,
+                    “folded in black clouds” Blake’s Devil hovers
+                    “on the sides of the rock” “on the abyss of the five
+                    senses, where a flat sided steep frowns over the present world.”
+                    Milton’s Satan must 
+					<q> tempt with wand’ring feet<lb/>
+ The
+                        dark unbottom’d infinite Abyss<lb/>
+ And through the palpable
+                        obscure find out<lb/>
+ His uncouth way. . . . (II, 404-07) </q>
+And: 
+	<q> Into
+                        this wild Abyss the wary friend<lb/>
+ Stood on the brink of Hell and
+                        look’d a while<lb/>
+ Pondering his Voyage. . . . (II, 917-19) </q>
+                    Blake thus draws directly on Milton’s abyss to help him define his
+                    own “abyss of the five senses” and “the present
+                    world.” At the same time Blake surely recalled that Satan faced another
+                    “steep” when he reached the borders of Eden, “a steep
+                    wilderness” which to him “Access deni’d”
+                    (IV, 132-37). If so, then his Devil represents both the imaginative man, the
+                    artist, whose perception will not be restrained by the senses, as well as the
+                    Miltonic Satan who longingly connives to enter the “delicious
+                    Paradise” where, through those very senses (among other things, of
+                    course), Eve is tempted. Perhaps this duality explains why the Devil is
+                    unimaginatively “folded in black clouds” while at the same
+                    time his corrosives can melt “apparent surfaces away, and [display] the
+                    infinite which was hid” (<hi rend="i">Marriage of Heaven and Hell</hi>,
+                    pl. 14).</p>
+                <p>Although by virtue of these allusions alone the apparent allusion to Chatterton
+                    is effectively swallowed up by the thoroughly Miltonic framework, Blake may have
+                    recalled as well Eve’s dream in Book V of <hi rend="i">Paradise
+                        Lost</hi>: 
+						<q> Forthwith up to the Clouds<lb/>
+ With him I flew, and
+                        underneath beheld<lb/>
+ The Earth outstretcht immense. . . . (V, 86-88) </q>
+                    Adam’s subsequent interpretation of the dream interestingly involves,
+                    in familiar faculty-psychology terms, the senses: 
+					<q> of all external
+                        things,<lb/>
+ Which the five watchful Senses represent,<lb/>
+ She forms
+                        Imaginations, Aery shapes,<lb/>
+ Which Reason joining or disjoining,
+                        frames<lb/>
+ All what we affirm or what deny, and call<lb/>
+ Our knowledge or
+                        opinion. . . . (V, 103-08) </q>
+Thus, if Blake indeed had this sequence in
+                    mind, he artfully transforms Eve’s tempting prospect of the earth
+                    (engineered by Satan) from far above into the speaker’s and the
+                    Devil’s perspective, also from high above the earth, hovering
+                    “over the present world.” But for them, of course, there is no
+                    temptation but rather the terror of the abyss of the five senses over which they
+                    may triumph not by resisting temptation but by imaginatively overleaping the
+                    constrictions of a sense-bound universe—by, in other words,
+                    perceiving (and hence creating) their own “immense world of
+                    delight” otherwise “clos’d by [their] senses
+                        five.”<supplied type="spacer"> </supplied><ref target="n53" type="note">6</ref>
+                    <note id="n53">
+                        <hi rend="s">6</hi> We should recall that part of
+                            Satan’s temptation (in the dream as well as later in reality)
+                            is the achieving of godhood: 
+<q> Forbidd’n here, it seems, as
+                                only fit<lb/>
+ For Gods, yet able to make Gods of Men. (V, 69-70)
+                            </q>
+The difference between Blake’s idea of
+                            “godhood” and Satan’s (as well as
+                            Milton’s) is a measure of both Blake’s distance
+                            from the seventeenth century and the care with which he adapts
+                            Milton’s Satan for his own prophetic purposes.
+                    </note>
+                </p>
+                <p>Finally, we should note that the word “delight” itself, a
+                    favorite of both Spenser and Milton, is steadily associated by the latter
+                    especially with Eden, with God, with man as God’s creation, with
+                    Adam’s relationship to Eve, and the like. While Blake was surely
+                    aware of these associations, transforming them into his own conception of
+                    imaginative bliss in a Blakean Eden, he may also have had in mind passages such
+                    as the following dealing with God’s creation of a sublunary world of
+                    delight: 
+					<q> Beneath him with new wonder now he views<lb/>
+ To all delight of
+                        human sense expos’d<lb/>
+ In narrow room Nature’s whole
+                        wealth, yea more,<lb/>
+ A Heaven on Earth. . . . (IV, 205-08) </q>
+                </p>
+                <p>In one sense, then, the entire Memorable Fancy is a dramatic enactment of or
+                    gloss on the first part of Plate 5 of <hi rend="i">The Marriage of Heaven and
+                        Hell.</hi> Adam’s interpretation of Eve’s dream
+                    includes a discussion of Reason as the restraint of desire: 
+					<q> . . . what in
+                        sleep thou didst abhor to dream,<lb/>
+ Waking thou never wilt consent to do.
+                        (V, 121-22) </q>
+Thus Eve’s temptations, in the dream and in
+                    actuality, are clearly the models for Thel’s failure in <hi rend="i">The Book of
+Thel</hi> and Oothoon’s ill-starred triumph in <hi rend="i">Visions of the Daughters of Albion.</hi> And the
+transformation of
+                    Milton’s Satan into the imaginative perceivercreator-artist, whose
+                    worlds of delight are neither of the senses nor of the Miltonic God’s
+                    Eden, is neatly prefigurative of Blake’s later efforts in <hi rend="i">Milton</hi> to
+release the seventeenth-century poet from his
+                    “fetters.”</p>
+                <p>We are obviously a long way from Chatterton, from the eighteenth century, and
+                    from the “influence” of both. The <hi rend="i">Bristowe
+                        Tragedie</hi> passage must be seen then as merely the vehicle for
+                    Blake’s manipulation 
+<pb id="p11-29" n="29"/>
+of Milton to his own,
+                    and ultimately to Milton’s, benefit. If Chatterton’s
+                    “darte” (a word which Blake uses only once in
+                    Chatterton’s sense—in <hi rend="i">King Edward the
+                        Third</hi>, III, 176<supplied type="spacer"> </supplied><ref target="n54"
+type="note">7</ref>) and its warlike
+                    associations remained in Blake’s mind at all, they too become
+                    transmogrified into “Arrows of desire,” “long winged
+                    arrows of thought,” “Arrows of Love,” and
+                    “Arrows of Intellect”—that is, the weapons of
+                    “Mental Fight” whereby even “Bacon &amp; Newton
+                    &amp; Locke” as well as “Milton &amp; Shakspear
+                    &amp; Chaucer” may “appear in Heaven.” And
+                    perhaps Chatterton as well.<supplied type="spacer"> </supplied><ref target="n85"
+type="note">8</ref><supplied type="spacer"> </supplied><ref target="n86" type="note">9</ref> 
+                    <note id="n54">
+                        <hi rend="s">7</hi> Both Spenser and
+                        Milton make heavy use of the word.</note>
+                    <note id="n85">
+                        <hi rend="s">8</hi>
+                        <hi rend="i">Milton</hi>, pl. 1; <hi rend="i">Jerusalem</hi>, pls. 33, 97,
+                        98.</note>
+                    <note id="n86">
+                        <hi rend="s">9</hi> Another similar
+                        reversal of Chatterton, but without the assistance of Spenser or Milton,
+                        represents a more rudimentary form of Blake’s absorption of his
+                        sources— and thus may suggest one way that we can conjecturally
+                        date individual poems in the <hi rend="i">Poetical Sketches</hi> (or at
+                        least determine whether they are early or late). In the second stanza of 
+<hi rend="i">Gwin, King of Norway</hi> Blake virtually takes over whole
+                        Chatterton’s stanza xli of the <hi rend="i">Bristowe
+                            Tragedie.</hi> But whereas Bawdin’s speech extols the virtue
+                        of his noble father who taught him “To feed the hungry poor/ Nor
+                        let my servants drive away/ The hungry from my door,”
+                        Blake’s tyrants are those very nobles who “did feed/
+                        Upon the hungry poor” and “drive/ The needy from my
+                        door.” A more elaborate transformation, though still without the
+                        conversion factors of a Milton or a Spenser, is Blake’s rewrite
+                        of Chatterton’s stanza lxii in “The Chimney
+                        Sweeper” of <hi rend="i">Songs of Innocence</hi>, where
+                        Chatterton’s ballad stanza is elongated into fourteeners and the
+                        “councilmen” escorting Bawdin to his beheading become the
+                        “Grey headed beadles” leading the children into St.
+                        Paul’s cathedral. Since Lowery concentrated on apparent
+                        similarities in wording, form, and tone, she ignores passages such as these
+                        which involve major transmutations by Blake.</note>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

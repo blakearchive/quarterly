@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.2.tayler</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="query">Blake’s illustrations to Thomas Gray</title>
+				<author n="Tayler">Irene Tayler</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>October 1, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.2</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1967"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-6" n="6"/>
+            <div1 id="BQ-01-2-0004">
+                <p>Mrs. Irene Tayler (Department of English, Columbia University) writes: “I have just
+completed a dissertation on Blake’s illustrations to Thomas Gray, but I am still expanding work on the
+project and would appreciate any information that readers might have to offer.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1992</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.4</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Peter Otto</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1992"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <front>
+      <pb id="p25-141-142" n="141-142"/>
+      <div1 id="cover">
+        <figure n="cover.025.04.bqscan" rend="file" width="258" height="330">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 25<lb/>
+            NUMBER 4<lb/>
+            SPRING 1992</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-25-4-0001">
+        <table id="contents" rows="8" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">Contents</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Article</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.4.essick">Blake in the Marketplace, 1991</ref><lb/>
+by Robert N. Essick</cell>
+            <cell>144</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Reviews</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.4.otto">Hazard Adams, <hi rend="i">Antithetical Essays in
+Literary Criticism and Liberal Education</hi></ref>, reviewed by Peter Otto</cell>
+            <cell>168</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="25.4.hilton">Margaret Storch, <hi rend="i">Sons and Adversaries:
+Women in William Blake and D. H. Lawrence</hi></ref>, reviewed by Nelson Hilton</cell>
+            <cell>171</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Newsletter</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="25.4.legacy"><hi rend="i">International Conference at Victoria
+University—The Legacy of Northrop Frye</hi></ref>, 
+              <ref type="article" issue="25.4.medal"><hi rend="i">The Northrop Frye Centre and the Frye
+Medal</hi></ref>, 
+              <ref type="article" issue="25.4.shelley"><hi rend="i">Shelley Bicentenary UNISA</hi></ref>, 
+              <ref type="article" issue="25.4.society"><hi rend="i">North American Society for the Study of
+Romanticism</hi></ref>, 
+              <ref type="article" issue="25.4.associated"><hi rend="i">Romanticism Associated</hi></ref>, 
+              <ref type="article" issue="25.4.romanticism"><hi rend="i">Romanticism &amp; Pop
+Culture</hi></ref>, 
+              <ref type="article" issue="25.4.carolina"><hi rend="i">Carolinas Symposium on British
+Studies</hi></ref>, 
+              <corr type="emend"><ref type="article" issue="25.4.tarot"><hi rend="i">William 
+<corr type="emend" rend="plain">Blake</corr> Tarot Triumphs</hi></ref></corr>
+            </cell>
+            <cell>174</cell>
+          </row>
+        </table>
+        <p>Cover photo: “The Chaining of Orc.” Relief etching, 11.1 × 8 cm., printed in black. Photo
+courtesy of Sotheby’s New York. <note type="unreferenced" place="footer">© 1992 Copyright Morris Eaves and
+Morton D. Paley</note></p>
+      </div1>
+      <pb id="p25-143" n="143"/>
+      <div1 id="BQ-25-4-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">ROBERT N. ESSICK</hi>, Professor of English at the University of California,
+Riverside, is now co-editing, with Morris Eaves and Joseph Viscomi, a volume in the new Blake Trust series of
+reproductions of Blake’s illuminated books.</p>
+        <p><hi rend="b">NELSON HILTON</hi> reports that Alice Suzanne Hilton (b. 10 June 1991) seems to have
+negotiated merrily the “paranoid-schizoid” and with delight entered the “depressive position”: 
+<hi rend="i">einschönes Kleines Kind.</hi></p>
+        <p><hi rend="b">PETER OTTO</hi> teaches English at the University of Melbourne. His recent
+publications include <hi rend="i">Constructive Vision and Visionary Deconstruction</hi> and (with Deirdre
+Coleman) <hi rend="i">Imagining Romanticism: Essays on English and Australian Romanticisms.</hi> He is
+currently completing a book on <hi rend="i">The Four Zoas.</hi></p>
+      </div1>
+      <div1 id="BQ-25-4-0003">
+        <head>
+          <title>
+            <hi rend="i">EDITORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627.</p>
+        <p><hi rend="b">Telephone:</hi> 716/275-3820.<lb/>
+<hi rend="b">Fax:</hi> 716/442-5769.</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.</p>
+        <p>Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX,
+England.</p>
+      </div1>
+      <div1 id="BQ-25-4-0004">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $40 for institutions, $20 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $6 per volume postal surcharge for surface mail, a $15 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Only one copy will be returned to authors.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0160-628x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">The Romantic Movement: A Selective and Critical Bibliography</hi> (ed. David V.
+Erdman et al.), American Humanities Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>41.1.whitehead</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">“Visions of Blake, the Artist”: An Early Reference to William Blake in the
+Times</title>
+        <author n="Whitehead">Angus Whitehead</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 2007</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">41.1</biblScope>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Alexander S. Gourlay</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Magnus Ankarsjö</name>
+              <name>Keri Davies</name>
+              <name>Angus Whitehead</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2007"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_41">
+    <body>
+	<pb id="p41-46" n="46"/>
+      <div1 id="BQ-41-1-0008">
+        <div2>
+          <head>
+            <title type="main">“Visions of Blake, the Artist”: An Early Reference to William Blake in the
+<hi rend="i">Times</hi></title>
+          </head>
+          <byline>By <docAuthor>Angus <name>Whitehead</name></docAuthor></byline>
+          <p>John Clark Strange, the nineteenth-century collector and prospective biographer of William Blake,
+recorded in his manuscript journal that on 6 April 1859, following a conversation with Samuel Palmer’s
+brother William at the British Museum, he “pursued inquiries abt Blake in various books in the Library and
+made extracts therefrom viz. Stothards Life—Songs of Innocence &amp; Experience by Blake—B’s
+illustrations to Dante—Hayleys Life—Times Newspaper.”<supplied type="spacer"> </supplied><ref
+target="n60" type="note">1</ref> In an annotation
+<pb id="p41-47" n="47"/>
+to this journal entry G. E. Bentley, Jr., observes that “no account of Blake in <hi rend="i">The Times</hi>
+is known before 1901.<supplied type="spacer"> </supplied><ref target="n61" type="note">2</ref> In fact an
+account of William Blake had appeared in this newspaper 70 years earlier. On Wednesday 27 January 1830 the 
+<hi rend="i">Times</hi> printed an extract from Allan Cunningham’s “Life of Blake,” recently published in
+the second volume of Cunningham’s <hi rend="i">Lives of the Most Eminent British Painters, Sculptors, and
+Architects</hi> (1830).<supplied type="spacer"> </supplied><ref target="n62" type="note">3</ref> In this
+extract, which the <hi rend="i">Times</hi> titled “Visions of Blake, the Artist,” Cunningham describes
+Blake’s drawing of the Visionary Heads of William Wallace and Edward I:
+<q>
+Visions of Blake, the Artist.—He was requested to draw the likeness of Sir William Wallace—the eye of
+Blake sparkled, for he admired heroes. “William Wallace!” he exclaimed, “I see him now—there, there,
+how noble he looks—reach me my things!” Having drawn for some time, with the same care of hand and
+steadiness of eye as if a living sitter had been before him, Blake stopped suddenly, and said, “I cannot
+finish him—Edward the First has stepped in between him and me.”<supplied type="spacer"> </supplied><ref
+target="n63" type="note">4</ref></q>
+The article ends: “<hi rend="i">Family Library: Lives of the Artists.</hi>” Perhaps the 
+<hi rend="i">Times</hi>’ excerpt from Cunningham’s biography was the account of William Blake that Strange
+encountered “and made extracts therefrom” at the British Museum in April 1859. <note id="n60">1. G. E.
+Bentley, Jr., <hi rend="i">Blake Records</hi>, 2nd ed. (New Haven: Yale University Press, 2004) [hereafter
+referred to as <hi rend="i">BR</hi>(2)] 717.</note>
+	<note id="n61">2. <hi rend="i">BR</hi>(2) 717fn.</note>
+	<note id="n62">3. <hi rend="i">Times</hi> Wednesday 27 January 1830, page 3, column E. This reference was
+discovered with the assistance of <hi rend="i">Palmer’s Full Text Online</hi>
+&lt;http://historyonline.chadwyck.co.uk/info/pfto.htm&gt;, which contains a reference to “‘Blake, the
+Artist, His Visionary Portraits’ 27? 1830 (page 3 col. e) [full date/reference not supplied].” The article
+was traced to the 27 January 1830 edition of the <hi rend="i">Times</hi> using a microfilm of the newspaper
+for that year. The passage is exactly the same as that printed in the first edition of Cunningham’s 
+<hi rend="i">The Lives of the Most Eminent British Painters, Sculptors, and Architects</hi>, 6 vols. (London: John
+Murray, 1829-33) 2: 140-79, except for three minor details: the <hi rend="i">Times</hi> prints “stopped”
+instead of Cunningham’s “stopt”, “stepped” instead of “stept”, and places a comma and dash after
+“The answer was” instead of a colon. Cunningham’s life of Blake (2nd ed.) is reprinted in 
+<hi rend="i">BR</hi>(2) 628-60.</note>
+	<note id="n63">
+                            4. The excerpt in the <hi rend="i">Times</hi> continues:
+                            <p>“That’s lucky,” said his friend, “for I want the portrait of Edward
+too.” Blake took another sheet of paper, and sketched the features of Plantagenet; upon which his majesty
+politely vanished, and the artist finished the head of Wallace. “And pray, Sir,” said a gentleman who
+heard Blake’s friend tell his story—“was Sir William Wallace an heroic-looking man? And what sort of
+personage was Edward?” The answer was,—“There they are, Sir, both framed and hanging on the wall behind
+you, judge for yourself.” “I looked (says my informant) and saw two warlike heads of the size of common
+life. That of Wallace was noble and heroic,—that of Edward stern and bloody. The first had the front of a
+god, the latter the aspect of a demon.”</p>
+	<p>Blake’s companion was almost certainly John Varley, for whom Blake drew numerous Visionary Heads (c.
+1819-25) (<hi rend="i">BR</hi>[2] 346-69 and pl. 54).</p></note></p>
+          <p>Bentley observes that Cunningham’s <hi rend="i">Lives</hi> “had an extraordinarily powerful
+effect in bringing the poet-artist’s name before the public”<supplied type="spacer"> </supplied><ref
+target="n64" type="note">5</ref> and “provoked a spate of comment upon Blake ....”<supplied type="spacer"> </supplied><ref target="n65" type="note">6</ref>
+          <hi rend="i">Blake Records</hi> cites six reviews published during February and early March 1830
+which featured discussion of Blake and excerpts from Cunningham’s life of Blake.<supplied type="spacer"> </supplied><ref target="n66" type="note">7</ref> The extract from Cunningham’s <hi rend="i">Lives</hi>
+published in the <hi rend="i">Times</hi> in January 1830, ten days before the <hi rend="i">Athenaeum</hi> and
+the <hi rend="i">London Literary Gazette</hi> reviews of the same work, must have introduced the name of
+“Blake, the artist” to an even wider audience. <note id="n64">5. <hi rend="i">BR</hi>(2) 504.</note>
+	<note id="n65">6. <hi rend="i">BR</hi>(2) 503.</note>
+	<note id="n66">7. <hi rend="i">BR</hi>(2) 503-10.</note></p>
+          <p>The article may also have assisted Blake’s widow, Catherine Blake. The first edition of
+Cunningham’s “Life of Blake” concludes:
+<q>
+The affection and fortitude of this woman [Catherine Blake] entitle her to much respect. She shared her
+husband’s lot without a murmur, set her heart solely upon his fame, and soothed him in those hours of
+misgiving and despondency which are not unknown to the strongest intellects. She still lives to lament the
+loss of Blake—and <hi rend="i">feel</hi> it.<supplied type="spacer"> </supplied><ref target="n67"
+type="note">8</ref>
+	<note id="n67">8. <hi rend="i">BR</hi>(2) 657.</note></q></p>
+          <p>By January 1830, Catherine lived independently in lodgings (according to George Cumberland, “at
+a Bakers”) at either 17 Upper Charlton Street, 17 Charlton Street, or 17 Upper Charlotte Street, Fitzroy
+Square.<supplied type="spacer"> </supplied><ref target="n68" type="note">9</ref> Catherine’s move from
+Frederick Tatham’s residence to this address approximately nine months earlier may have been facilitated by
+a small legacy from her brother-in-law and former landlord at 3 Fountain Court, Henry Banes.<supplied
+type="spacer"> </supplied><ref target="n69" type="note">10</ref> G. E. Bentley, Jr., suggests that Catherine
+Blake’s sale of Blake’s large watercolor drawing of “The Characters of Spenser’s <hi rend="i">Faerie
+Queene</hi>” to his former patron George O’Brien Wyndham, third Earl Egremont, in late July 1829 “is
+likely to have kept Catherine out of want for the rest of her life.”<supplied type="spacer"> </supplied><ref
+target="n70" type="note">11</ref> However, on 25 February 1830 the collector Haviland Burke showed John
+Linnell a letter from Rev. Dr. John Jebb, Bishop of Limerick “enquiring | how he c.<hi rend="s">d</hi> best
+serve M.<hi rend="s">rs</hi> Blake.” Linnell advised Burke “to recommend to the B—[ishop] | to purchase
+the works of M<hi rend="s">r</hi> B— | from M<hi rend="s">rs</hi> B.”<supplied type="spacer"> </supplied><ref target="n71" type="note">12</ref> Catherine’s sale of her stock of her late husband’s
+works therefore continued after July 1829, ensuring that she could continue to live independently. The 
+<hi rend="i">Times</hi>’ excerpt from Cunningham’s “Life of Blake” of January 1830 must have served to
+advertise extensively <hi rend="i">Lives of the Most Eminent British Painters, Sculptors, and Architects</hi>
+and make known to a wider audience the life and work of William Blake. It may also have been indirectly
+responsible for drawing wider attention to the plight of Blake’s widow and therefore for an increased number
+of inquiries from potential buyers regarding Catherine Blake’s remaining stock of her husband’s paintings,
+drawings and engravings. <note id="n68">9. See <hi rend="i">BR</hi>(2) 754, 498, 546, 495.</note>
+	<note id="n69">10. See Angus Whitehead, “‘I also beg Mr Blakes acceptance of my wearing apparel’: The
+Will of Henry Banes, Landlord of 3 Fountain Court, Strand, the Last Residence of William and Catherine
+Blake,” <hi rend="i">Blake</hi> 39.2 (fall 2005): 78-99.</note>
+	<note id="n70">11. <hi rend="i">BR</hi>(2) 499.</note>
+	<note id="n71">12. <hi rend="i">BR</hi>(2) 509. In a paper currently in preparation, I will explore Catherine
+Blake’s marketing (as well as finishing and reprinting) of her late husband’s works still in her
+possession, March 1829-October 1831.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

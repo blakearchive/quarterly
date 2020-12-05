@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <front>
+            <pb id="p11-1-2" n="1-2"/>
+            <div1 id="cover">
+                <figure n="cover.011.01.bqscan" rend="file" width="258" height="339">
+                    <figTranscr>Blake<lb/>
+                        AN ILLUSTRATED QUARTERLY 41<lb/>
+                        VOLUME ELEVEN<lb/>
+                        NUMBER ONE<lb/>
+                        SUMMER NINETEEN SEVENTY-SEVEN</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-11-1-0001">
+                <table id="contents" rows="24" cols="2">
+                	<row>
+                		<cell>
+                			<head>
+                    			<title>
+                        			<hi rend="b">CONTENTS</hi>
+                    			</title>
+                			</head>
+                		</cell>
+                	</row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Notes</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.deck">An American Original: Mrs. Colman’s
+Illustrated Printings
+                            of Blake’s Poems, 1843-44</ref><lb/>
+ by Raymond H. Deck, Jr.</cell>
+                        <cell>4</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.roti">The Last Stanza of Blake’s 
+<hi rend="i">London</hi></ref>
+                            <lb/>
+ by
+                            Grant C. Roti and Donald L. Kent</cell>
+                        <cell>19</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.erdman">Preface to the Revised Edition of
+Blake’s Notebook</ref> by David
+                            V. Erdman</cell>
+                        <cell>21</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.schroyer">The 1788 Publication Date of
+Lavater’s <hi rend="i">Aphorisms on Man</hi></ref> by Richard J. Schroyer</cell>
+                        <cell>23</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.gleckner">Blake’s Miltonizing of
+Chatterton</ref><lb/>
+ by Robert F.
+                            Gleckner</cell>
+                        <cell>27</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.todd">A Tentative Note on the Economics of 
+<hi rend="i">The Canterbury
+                                Pilgrims</hi></ref> by Ruthven Todd</cell>
+                        <cell>29</cell>
+                    </row>
+                    <row>
+                    	<cell>
+                    		Minute Particulars
+                    	</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.mercier">Blake Echoes in Victorian
+Dublin</ref><lb/>
+ by Vivian
+                            Mercier</cell>
+                        <cell>32</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.worrall">Blake’s Derbyshire: A Visionary
+Locale in <hi rend="i">Jerusalem</hi></ref> by David Worrall</cell>
+                        <cell>34</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.dilworth">Blake’s Babe in the Woods</ref><lb/>
+ by Thomas R. Dilworth</cell>
+                        <cell>35</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.dverdman">Errors in the Signet Edition of 
+<hi rend="i">The Selected Poetry of
+                                Blake</hi></ref> by David V. Erdman</cell>
+                        <cell>37</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.read">George Frederick Cooke: Another 
+<hi rend="i">Grave</hi> Subscriber
+                            Heard From</ref> by Dennis Read</cell>
+                        <cell>37</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.henning">Blake’s Baptismal Font</ref><lb/>
+ by C. M. Henning</cell>
+                        <cell>38</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.m">Holy Thursday</ref> by M.</cell>
+                        <cell>38</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Reviews</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.mulhallen">Robert Essick’s and Jenijoy La
+Belle’s <hi rend="i">Night Thoughts on the Complaint and Consolation</hi></ref>
+                            reviewed by Karen Mulhallen</cell>
+                        <cell>41</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.beer">Geoffrey Keynes’s facsimile of 
+<hi rend="i">The Marriage of
+                                Heaven and Hell</hi></ref> reviewed by John Beer</cell>
+                        <cell>42</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.dorrbecker">Blake Goes German: A Critical Review
+of Exhibitions in Hamburg and
+                            Frankfurt 1975</ref> by Detlef W. Dörrbecker</cell>
+                        <cell>44</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Checklists</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.bentley">Blake Among the Slavs: A
+Checklist</ref> by G. E. Bentley, Jr.</cell>
+                        <cell>50</cell>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="11.1.cmhenning">Dissertations on Blake:
+1963-1975</ref> by Rochelle C. Gross and C. M.
+                            Henning</cell>
+                        <cell>54</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="b">Newsletter</hi>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                        	<ref type="article" issue="11.1.quarterly">Blake An Illustrated Quarterly</ref>, 
+                        	<ref type="article" issue="11.1.paley">New Address for Morton Paley</ref>, 
+                            <ref type="article" issue="11.1.fragment">Fragments from Songs of Innocence</ref>,
+                            <ref type="article" issue="11.1.robertson">Graham Robertson Color Prints</ref>, 
+                            <ref type="article" issue="11.1.hamburg">Jerusalem in Hamburg</ref>, 
+                            <ref type="article" issue="11.1.communists">Blake and the Communists</ref>, 
+                            <ref type="article" issue="11.1.scsecs">Blake at SCSECS</ref>, 
+                            <ref type="article" issue="11.1.news">Blake in the News</ref>, 
+                            <ref type="article" issue="11.1.correction">Correction: Island Tape</ref>, 
+                            <ref type="article" issue="11.1.query">A Query</ref>, 
+                            <ref type="article" issue="11.1.catalogue">Two New Blake Catalogues</ref>, 
+                            <ref type="article" issue="11.1.studies">Blake Studies and American Blake
+Foundation</ref>, 
+                            <ref type="article" issue="11.1.adelphi">Adelphi Blake Festival (with
+T-Shirts)</ref>, 
+                            <ref type="article" issue="11.1.morgan">Morgan Library’s New Blakes</ref>, 
+                            <ref type="article" issue="11.1.mla">1978 MLA Blake Seminar</ref>, 
+                            <ref type="article" issue="11.1.eln">ELN’s Special Issue</ref>
+                        </cell>
+                        <cell>60</cell>
+                    </row>
+                </table>
+            </div1>
+            <div1 id="BQ-11-1-0002">
+                <head>
+                    <title>
+                        <hi rend="b">CONTRIBUTORS</hi>
+                    </title>
+                </head>
+                <p>John Beer, of Peterhouse, Cambridge University, is the author of <hi rend="i">Blake’s
+Humanism</hi> and <hi rend="i">Blake’s
+                        Visionary Universe.</hi>
+                </p>
+                <p>G. E. Bentley, Jr., University of Toronto, is an editor (1963 ff), bibliographer
+                    (1964), and biographer (1969) of Blake.</p>
+                <p>Raymond Deck has finished a dissertation, “Blake and
+                    Swedenborg,” at Brandeis University and will spend the 1977-78 academic
+                    year there making a book on the topic. His article, “New Light on C. A.
+                    Tulk, Blake’s Nineteenth-Century Patron,” appears in the
+                    current issue of <hi rend="i">Studies in Romanticism.</hi>
+                </p>
+                <p>Thomas Dilworth lectures in English literature at the University of Toronto. He
+                    has written an article on Conrad’s relationship to Rodin and is
+                    currently working on a book about the modern British painter-poet, David
+                    Jones.</p>
+                <p>Detlef W. Dörrbecker is an advanced graduate student in the
+                    departments of Art History and English Literature, Johann Wolfgang Goethe
+                    University, Frankfurt am Main. At present he is writing an article on the
+                    preliminary drawing for <hi rend="i">Jerusalem</hi> 51, a note on an early
+                    German Blake reference, and another review-essay for <hi rend="i">Blake</hi> on
+                    the state of Fuseli scholarship and its relevance to Blake studies.</p>
+                <p>David V. Erdman is Professor of English at the State University of New York at
+                    Stony Brook and Director of Publications at the New York Public Library.</p>
+                <p>Robert F. Gleckner is the author of <hi rend="i">The Piper and the Bard: A Study
+                        of William Blake, Byron and the Ruins of Paradise</hi>, and editor of 
+<hi rend="i">Romanticism: Points of View, Selected Writings of William
+                        Blake</hi>, and <hi rend="i">The Complete Poetry of Lord Byron.</hi> He is
+                    also a professor of English at the University of California, Riverside. 
+                </p>
+                <pb id="p11-3" n="3"/>
+                <p>Corinne M. Henning is a freelance writer living in England.</p>
+                <p>Donald L. Kent, M.D. with a specialty in ear, nose, and throat, formerly of Yale
+                    Medical School (as a graduate and resident), is now a major at West Point. He
+                    has published a number of articles in various medical journals.</p>
+                <p>Vivian Mercier is Professor of English at the University of California, Santa
+                    Barbara. The author of <hi rend="i">The Irish Comic Tradition</hi> (1962) and
+                        <hi rend="i">Beckett/Beckett</hi> (1977), he entered Trinity College,
+                    Dublin, with a Sizarship in Latin and Greek, but gave up Classics for English
+                    and French Literature.</p>
+                <p>Karen Mulhallen teaches English at Ryerson Polytechnical Institute and is working
+                    on a book on Blake’s <hi rend="i">Night Thoughts.</hi>
+                </p>
+                <p>Dennis Read teaches in the Department of English at the University of Wisconsin,
+                    Milwaukee.</p>
+                <p>Grant C. Roti is an Assistant Professor of English at Housatonic Community
+                    College, Bridgeport, Conn. He has previously published an article in 
+<hi rend="i">Explicator</hi> on <hi rend="i">King Lear</hi> and for his Ph.D.
+                    dissertation at S.U.N.Y. (Albany) is editing a ninth-century Latin commentary on
+                    Boethius.</p>
+                <p>Richard J. Schroyer studied at Yale (B.A.) and at Toronto (M.A., Ph.D.) under G.
+                    E. Bentley, Jr. and Northrop Frye. He now teaches at the University of Western
+                    Ontario, London, Canada, and is currently preparing editions of
+                    Lavater’s <hi rend="i">Aphorisms</hi> and Blake’s <hi rend="i">Island in the
+Moon.</hi>
+                </p>
+                <p>Ruthven Todd born 14 June 1914 and been ill many times since, physically and
+                    mentally. As a Gemini, he should not have been given a name pronounced
+                    “riven” as that merely helped tear him asunder.</p>
+                <p>David Worrall teaches at the Royal Grammar School, Newcastle-Upon-Tyne. An
+                    article on Blake and Erasmus Darwin appeared in <hi rend="i">BNYPL</hi> and
+                        “<hi rend="i">Jerusalem</hi> and the Visionary History of
+                    Britain” is forthcoming in <hi rend="i">Studies in
+                    Romanticism.</hi>
+                </p>
+                <p>Photographic credits: pp. 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, see 
+<hi rend="i">Additional notes on the illustrations</hi>, p. 18; pp. 24, 25,
+                    University of Western Ontario Library; p. 31, British Museum; p. 32, courtesy of
+                    the National Gallery of Ireland; p. 34, courtesy of the Newcastle Literary and
+                    Philosophical Society; p. 36, courtesy of the Osborne Collection of Early
+                    Children’s Books, Toronto Public Library; p. 38, St.
+                    James’s Church, Piccadilly; p. 61 (col. 1), Sotheby’s
+                    Belgravia, London. Cover and inside cover: The Devil’s Arse and
+                    detail, Newcastle Literary and Philosophical Society; back cover,
+                    Poole’s Hole, Newcastle Literary and Philosophical Society.</p>
+                <p>
+                    <hi rend="i">Blake</hi> An Illustrated Quarterly is published four times a year
+                    under the sponsorship of the Department of English of the University of New
+                    Mexico.</p>
+                <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, University
+                    of California, Berkeley.</p>
+                <p>Bibliographer: Thomas Minnick, Ohio State University.</p>
+                <p>Associate Editor for Great Britain: Frances A. Carey, Assistant Curator,
+                    Department of Prints &amp; Drawings, British Museum.</p>
+                <p>Editorial Assistant: Brad Hayden, University of New Mexico.</p>
+                <p>Design Consultant: Michael Hays, University of New Mexico</p>
+                <p>Circulation Manager: Jane Welford, University of New Mexico.</p>
+                <p>Manuscripts are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131;
+                    Morton D. Paley, Dept. of English, University of California, Berkeley, CA
+                    94720.</p>
+                <p>Subscriptions are $7 for one year, one volume, four issues. Special rate for
+                    individuals, $6 for one year, surface mail. For subscribers overseas who want to
+                    receive their issues by air mail, $10. U.S. currency or international money
+                    order if possible. Make checks payable to the Blake Quarterly. Address all
+                    subscription orders and related communications to Jane Welford, Blake Quarterly,
+                    Univ. of New Mexico, Albuquerque, NM 87131.</p>
+                <p>Some back issues are available. Address Jane Welford. Prices: whole numbers 1-8,
+                    bound together, whole numbers 9-13, bound together, $5 each (special rate for
+                    individuals, $4). Whole numbers 22, 23, 24, 25, 26, 27, 28, 29-30, 31, 32, 33,
+                    34, 36, 37, 38, 39, 40, $2 each. Whole number 35 (A Checklist of the Blake
+                    Material in the Lessing J. Rosenwald Collection, Alverthorpe Gallery, ed. Ruth
+                    Lehrer), $3 each. Whole numbers 14-21 are out of print.</p>
+                <p>The International Standard Serial Number of <hi rend="i">Blake</hi> An
+                    Illustrated Quarterly is 0006-453X. <hi rend="i">Blake</hi> is indexed in the
+                    Modern Language Association’s International Bibliography, the Modern
+                    Humanities Research Association’s Annual Bibliography of English
+                    Language and Literature, and <hi rend="i">English Language
+                    Notes</hi>’s annual Romantic Bibliography.</p>
+                <p>Design and layout for this issue: Brad Hayden and Marietta Barnes, University of
+                New Mexico.</p>
+                <note type="unreferenced" place="footer">Copyright © 1977 by Morris
+                    Eaves &amp; Morton D. Paley</note>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

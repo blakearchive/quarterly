@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>38.3.komisaruk</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Introducing The Blake Model</title>
+		<author n="Komisaruk">Adam Komisaruk</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2004/2005</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2004-05</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">38.3</biblScope>
+            <biblScope unit="volume">38</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Adam Komisaruk</name>
+              <name>Thomas Frosch</name>
+              <name>Joseph Wittreich</name>
+              <name>Yoko Ima-Izumi</name>
+              <name>Antoine Capet</name>
+              <name>David Shaddock</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2004/2005"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_38">
+    <body>
+    <pb id="p38-92" n="92"/>
+      <div1 id="BQ-38-3-0006">
+        <head>
+          <title type="section">ARTICLE</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Introducing The Blake Model</title>
+          </head>
+          <byline>By <docAuthor>Adam <name>Komisaruk</name></docAuthor></byline>
+          <p>The present project arises from my effort, over the years, to hone a concise explanation of
+Blake’s mythology to myself, my colleagues and my students.<supplied type="spacer"> </supplied><ref
+target="n29" type="note">*</ref> As a diagram junkie, I have several schemata at my disposal,<supplied
+type="spacer"> </supplied><ref target="n30" type="note">**</ref> including Alicia Ostriker’s chart of the
+zoas and their attributes from the Penguin <hi rend="i">Complete Poems</hi> (illus. 1); Northrop Frye’s
+earlier and more extensive version from <hi rend="i">Fearful Symmetry</hi> (illus. 2); S. Foster Damon’s map
+of Golgonooza, the city of art, from <hi rend="i">The Blake Dictionary</hi> (illus. 3); or my own family tree
+of Blake’s cast of characters (illus. 4).<supplied type="spacer"> </supplied><ref target="n1"
+type="note">1</ref> Where each of these schemata falls short, however, is in its inability to represent fully
+the spatial extent of Blake’s vision. Damon himself says in a footnote to his diagram, “Golgonooza, being
+four-dimensional, cannot be reduced to a chart of two dimensions. Each of the four gates not only opens into
+each of the other gates but does so ‘each within other toward the Four points’ 
+(<hi rend="i">J[erusalem</hi>] 12:48)” (163). Thus about four years ago the idea occurred to me of developing a
+physical model that could visualize Blake’s
+                        <figure n="ZoasChart.38.3.bqscan" rend="file" width="500" height="349">
+							<figTranscr>Name<lb/>
+							URIZEN<lb/>
+							LUVAH<lb/>
+							THARMAS<lb/>
+							URTHONA<lb/>
+							<lb/>
+							<lb/>
+							(Emanation)<lb/>
+							(AHANIA)<lb/>
+							(VALA)<lb/>
+							(ENION)<lb/>
+							(ENITHARMON)<lb/>
+							<lb/>
+							<lb/>
+							Title<lb/>
+							‘Prince of light’<lb/>
+							‘Prince of love’<lb/>
+							<lb/>
+							<lb/>
+							Faculty<lb/>
+							Reason<lb/>
+							Passion<lb/>
+							Sensation<lb/>
+							Instinct<lb/>
+							<lb/>
+							<lb/>
+							Eternal Role<lb/>
+							Ploughman<lb/>
+							Vintner<lb/>
+							Shepherd<lb/>
+							Blacksmith<lb/>
+							<lb/>
+							<lb/>
+							Eternal Virtue<lb/>
+							Faith, certainty<lb/>
+							Love<lb/>
+							Coherence, receptivity<lb/>
+							Creativity<lb/>
+							<lb/>
+							<lb/>
+							Fallen Form<lb/>
+							‘God, Priest, King’<lb/>
+							ORC (SHADOWY FEMALE) ‘Demon Red’<lb/>
+							‘Parent Power’<lb/>
+							LOS (ENITHARMON) ‘Eternal Prophet’<lb/>
+							<lb/>
+							<lb/>
+							Fallen Character<lb/>
+							Doubt, Tyranny<lb/>
+							Rebellion, Revolution<lb/>
+							Flood, Chaos<lb/>
+							Poetry, Prophecy<lb/>
+							<lb/>
+							<lb/>
+							Element<lb/>
+							Air (light)<lb/>
+							Fire (heat)<lb/>
+							Water<lb/>
+							Earth<lb/>
+							<lb/>
+							<lb/>
+							Region<lb/>
+							S. (zenith)<lb/>
+							E. (centre)<lb/>
+							W. (circumference)<lb/>
+							N. (nadir)<lb/>
+							<lb/>
+							<lb/>
+							Note: Los and Enitharmon are born from Tharmas and Enion and in turn become the parents of Orc and the
+Shadowy Female.</figTranscr>
+							<head>1. Chart of the zoas and their properties.</head>
+							<figDesc><hi rend="i">William Blake, The Complete Poems</hi>, ed. Alicia Ostriker (1977; New York:
+Penguin, 1988) 1048 (reprinted by permission of Penguin).</figDesc>
+						</figure>
+						<figure n="ZoasChart2.38.3.bqscan" rend="file" width="500" height="439">
+							<figTranscr>1. Eternal Name Luvah Urizen Tharmas Urthona<lb/>
+							2. Time Name Orc Satan C. Cherub Los<lb/>
+							3. Emanation Vala Ahania Enion (Enitharmon)<lb/>
+							4. Quality Love Wisdom Power Fancy<lb/>
+							5. Zoa (Bible) Bull Lion Eagle Man<lb/>
+							6. Sense Nose Eye Tongue Ear<lb/>
+							7. Body Part Loins Head Heart Legs<lb/>
+							8. Metal (Bible) Brass Gold Silver Iron<lb/>
+							9. Position Centre Zenith Circumference Nadir<lb/>
+							10. Nature (Sky) Stars Sun Moon Mountains<lb/>
+							11. Element Fire Air Water Earth<lb/>
+							12. E. Spirits Genii Fairies Nymphs Gnomes<lb/>
+							13. State “Generation” Eden Beulah “Ulro”<lb/>
+							14. Place Soil City Garden Underground<lb/>
+							15. Activity Weaver Plowman Shepherd Blacksmith<lb/>
+							16. Art Painting Architecture Poetry Music<lb/>
+							17. Planet Mars Mercury Venus Earth<lb/>
+							18. Point East South West North<lb/>
+							19. Season Spring Summer Autumn Winter<lb/>
+							20. Time of Day Morning Noon Evening Night<lb/>
+							21. Age Youth Maturity Age “Death” (sleep)<lb/>
+							22. Son of Los Palamabron Rintrah Theotormon Bromion<lb/>
+							23. Emanation Elynittria Ocalythron Oothoon (none)<lb/>
+							24. City London Verulam York Edinburgh<lb/>
+							25. Evangelist Luke Mark John Matthew<lb/>
+							26. Color (Fallen) Red White Green Blue<lb/>
+							27. Virtue Love Faith Hope Vision<lb/>
+							28. Vice Hatred Doubt Despair Dullness<lb/>
+							29. Eden River Pison Hiddekel Gihon Euphrates</figTranscr>
+							<head>2. Chart of the zoas and their properties.</head>
+							<figDesc>Northrop Frye, <hi rend="i">Fearful Symmetry: A Study of William Blake</hi> (1947; Princeton:
+Princeton UP, 1990) 277-78 (reprinted by permission of Princeton UP, ©1947, 1969 revised edition. 1975
+renewed).</figDesc>
+						</figure>
+						<figure n="GolgonoozaMap.38.3.bqscan" rend="file" width="500" height="560">
+							<figTranscr>GOLGONOOZA<lb/>
+							Jerusalem 12:45-13:29<lb/>
+							<lb/>
+							<lb/>
+							W<lb/>
+							Generation<lb/>
+							Four Bulls<lb/>
+							of<lb/>
+							Iron<lb/>
+							<lb/>
+							S<lb/>
+							Ulro<lb/>
+							Four Bulls<lb/>
+							of Enamel’d<lb/>
+							Clay<lb/>
+							<lb/>
+							E<lb/>
+							Beulah<lb/>
+							Four Bulls<lb/>
+							of the<lb/>
+							Four Metals<lb/>
+							<lb/>
+							N<lb/>
+							Eden<lb/>
+							Four Bulls<lb/>
+							of the<lb/>
+							Four Metals<lb/>
+							<lb/>
+							<lb/>
+							N<lb/>
+							Gnomes<lb/>
+							Nadir<lb/>
+							Eden<lb/>
+							Ear<lb/>
+							<lb/>
+							<lb/>
+							W<lb/>
+							A Cherub<lb/>
+							of<lb/>
+							Iron<lb/>
+							<lb/>
+							E<lb/>
+							A Cherub<lb/>
+							of<lb/>
+							Stone<lb/>
+							<lb/>
+							S<lb/>
+							A Cherub<lb/>
+							of<lb/>
+							Clay<lb/>
+							<lb/>
+							N<lb/>
+							A Cherub<lb/>
+							of<lb/>
+							Metals<lb/>
+							<lb/>
+							<lb/>
+							W<lb/>
+							Nymphs<lb/>
+							Circumference<lb/>
+							Generation<lb/>
+							Tongue<lb/>
+							<lb/>
+							<lb/>
+							MOAT OF FIRE<lb/>
+							CATHEDRON<lb/>
+							GATE OF LUBAN<lb/>
+							LOS’S FORGE<lb/>
+							LOS’S PALACE<lb/>
+							<lb/>
+							<lb/>
+							W<lb/>
+							Seven<lb/>
+							Generative<lb/>
+							Forms<lb/>
+							<lb/>
+							S<lb/>
+							Seven<lb/>
+							Forms<lb/>
+							of War<lb/>
+							<lb/>
+							E<lb/>
+							Stone<lb/>
+							Seven<lb/>
+							Diseases<lb/>
+							<lb/>
+							N<lb/>
+							Ice<lb/>
+							Sevenfold<lb/>
+							Forms<lb/>
+							of Death<lb/>
+							<lb/>
+							<lb/>
+							E<lb/>
+							Genii<lb/>
+							Center<lb/>
+							Beulah<lb/>
+							Nostrils<lb/>
+							<lb/>
+							<lb/>
+							Eyes<lb/>
+							Ulro<lb/>
+							Zenith<lb/>
+							Fairies<lb/>
+							S<lb/>
+							<lb/>
+							<lb/>
+							Four<lb/>
+							Living<lb/>
+							Lions<lb/>
+							E<lb/>
+							<lb/>
+							Four<lb/>
+							Iron<lb/>
+							Lions<lb/>
+							W<lb/>
+							<lb/>
+							Four<lb/>
+							Clay<lb/>
+							Lions<lb/>
+							S<lb/>
+							<lb/>
+							Four<lb/>
+							Lions of<lb/>
+							Four Metals<lb/>
+							N</figTranscr>
+							<head>3. Map of Golgonooza.</head>
+							<figDesc>S. Foster Damon, <hi rend="i">A Blake Dictionary: The Ideas and Symbols of William Blake</hi>,
+rev. ed. (Hanover and London: Brown UP/UP of New England, 1988) 163 (reprinted by permission of UP of New
+England).</figDesc>
+						</figure>
+						<note id="n29">For their feedback and assistance with this project I am indebted to Sandy Baldwin,
+Joshua David Gonsalves, Stephen Harris, Adam Horne, Jeremy Jarrell, Wayne Ripley, Frances Van Scoy and Susan
+Warshauer.</note>
+						<note id="n30">For further reflections on the project described herein, see Adam Komisaruk, Steve Guynup
+and Fred Yee, “Blake and Virtuality: An Exchange,” <hi rend="i">Digital Designs on Blake</hi>, ed. Ron
+Broglio, Romantic Circles Praxis Series, forthcoming &lt;http://www.rc.umd.edu/praxis/&gt;.</note>
+						<pb id="p38-93" n="93"/>
+						<figure n="AlbionsFamilyTree.38.3.bqscan" rend="file" width="550" height="403">
+							<figTranscr>Child<lb/>
+							Emanation of<lb/>
+							Aspect<lb/>
+							Fallen form of<lb/>
+							<lb/>
+							Albion<lb/>
+							Jerusalem<lb/>
+							Urizen Luvah Tharmas Urthona<lb/>
+							Ahania Vala Enion Enitharmon<lb/>
+							Los<lb/>
+							Enitharmon<lb/>
+							Satan Orc Rintrah Palamabron Theotormon Bromion Sotha<lb/>
+							Shadowy Female Ocalythron Elynittria Oothoon Leutha Thiralatha/Diralada<lb/>
+							Hand Hyle Bowen Gwantok Coban<lb/>
+							Cambel Gwendolen Conwenna Cordella Ignoge<lb/>
+							Rahab<lb/>
+							Scofield [Adam] Hutton Slade Kox [Noah] Kotope Peachey Brereton<lb/>
+							Gwiniverra Gwinefred Gonorill Estrild Sabrina Mehetabel Ragan<lb/>
+							Tirzah<lb/>
+							Adam Enoch Shem Han Japeth</figTranscr>
+							<head>4. Albion’s family tree.</head>
+							<figDesc>By the author.</figDesc>
+						</figure>
+mythology as he himself appears to have visualized it—a system of spatial relationships extending through
+three and, if we include its manipulations through time, four dimensions. My original intent was to create a
+sort of kinetic statue or mobile, showing the zoas suspended in space and capable of being rotated along any
+axis. It eventually became clear, however, that by using the virtual-reality technology now available, I could
+create an even more suitable model: an immersive digital environment through which users might navigate to
+encounter Blake’s characters, places and objects in the configuration his works describe. The Blake Model is
+a work-in-progress that I hope eventually to make available for researchers, teachers and students of Blake.
+This essay will serve as a prospectus to the project, an announcement of its status to date, an invitation for
+feedback and a discussion of some theoretical problems the project raises. <note id="n1">1. All my Blake
+quotations are from <hi rend="i">The Complete Poetry and Prose of William Blake</hi>, ed. David V. Erdman,
+newly revised ed. (New York: Anchor, 1988), hereafter “E.”</note></p>
+          <p>Supported by internal grants from West Virginia University, in collaboration with the Virtual
+Environments Laboratory there, and with an eye to future funding by the National Science Foundation’s
+Information Technology program, I am breaking the project into the following phases: (1) the creation of the
+overall landscape or Blakean universe; (2) the creation of a human figure corresponding to Blake’s Albion,
+who is the chief occupant of this landscape; (3) the decision as to what in the landscape goes where; (4) the
+animation of this environment to make it traversable by users and to show its transformations through time;
+(5) the creation of a user-friendly interface; (6) the preparation of textual annotations for the objects,
+locations and characters in the environment.</p>
+          <p>Blake’s landscape, at its most basic, consists of the four levels of existence with which
+readers are already familiar—Eden, the redeemed realm of pure spirit; Beulah, the sensual paradise;
+Generation, or vegetative life without consciousness; and Ulro, or dead matter. I will be representing these
+realms as four concentric spheres, since for Blake the Fall involves a contraction toward a center, not just a
+longitudinal descent. Between Ulro and Eden extends the “Mundane Shell,” a large egg-shaped object that
+encloses the material world. Ulro, the lowest or inner-most realm, is where the majority of human history
+transpires and is therefore wrought by Blake in the most detail. Using the digital modeling program Bryce 3D
+(Corel), I made a preliminary attempt (illus. 5) to represent the rocky expanse of Ulro, 
+<pb id="p38-94" n="94"/>
+including the forest of Entuthon-Benython and, within it, the lake of Udan-Adan and the great city of
+Golgonooza. Inside Golgonooza stands Bowlahoola, workshop of the artist-black-smith Los, and the hall of
+Cathedron. Bryce 3D is a relatively user-friendly but inflexible program; subsequent modeling will be done in
+industry-standard programs such as Maya (Alias) or 3D Studio Max (Discreet). I am fortunate to be assisted in
+the landscaping phase of the project by the talented New York artist Fred Yee, who has prepared a wonderful
+storyboard that he will soon be realizing digitally. Yee worked without the benefit of Blake’s images, only
+his texts, yet the two artists’ visions have some striking parallels. Take, for example, Blake’s sketch of
+Cathedron in the margin of the <hi rend="i">Four Zoas</hi> manuscript, Night the Third (illus. 6); the crown
+on her head and gothic altar for her genitalia suggest Blake’s association between female sexuality and the
+established church. Yee’s realization
+                        <figure n="LandscapeInUlro.38.3.bqscan" rend="file" width="500" height="377">
+	<head>5. Landscape in Ulro with Golgonooza.</head>
+	<figDesc>Created in Bryce 3D by the author.</figDesc>
+</figure>
+						<figure n="BB209.1.44.MS.detail" rend="file" width="269" height="1000">
+							<figTranscr>BRITISH<lb/>
+							M[USEU]M</figTranscr>
+							<head>6. Cathedron.</head>
+							<figDesc>William Blake, <hi rend="i">The Four Zoas</hi>, page 44, Night the Third. By permission of the
+British Library, ADD.39764 f44.</figDesc>
+						</figure>
+(illus. 7) places Cathedron in a yoga goddess pose, her head tipped back in a manner whose significance I will
+discuss later. A Mesopotamian ziggurat replaces the cathedral between her splayed legs, but the logic remains
+the same. Yee envisions some of the tortured inhabitants of Ulro (illus. 8) as a giant cupped hand that
+suggests “false shelter” [a]; a crouching figure bearing a boulder on his back [b]; and a “naked ashamed
+tree” [c] that suggests at once a classical discus-thrower, Ovid’s Daphne metamorphosed to escape
+Apollo’s clutches and Rodin’s Adam writhing in agony before the gates of Hell. This lattermost figure
+further calls to mind not only Blake’s foe outstretched beneath the poison tree, but his cave-dweller
+“struggl[ing] into life” from <hi rend="i">The Gates of Paradise</hi> (illus. 9). That Yee independently
+visualizes Blake’s symbols in a manner so resonant with Blake himself merely reaffirms a principle
+well-known to Blakeans: the continuity of mythic 
+                        <figure n="Cathedron.Yee.38.3.bqscan" rend="file" width="500" height="375">
+	<head>7. Cathedron.</head>
+	<figDesc>By Fred Yee.</figDesc>
+</figure>
+<pb id="p38-95" n="95"/>
+thinking even among cultures that could not possibly have had direct knowledge of one another. We only begin
+to understand Blake’s archetypal man of genius when we become convinced that Blake himself must have read
+Marx, Freud, Jung and Joseph Campbell.</p>
+          <p>I would like to step back from this level of detail, which resides rather far off in The Blake
+Model’s future, and return to the bigger picture. As I said, the first task is to create the four concentric
+spheres that represent Blake’s levels of existence, and the Mundane Egg that stretches between them.
+Primitive shapes of this kind may be digitally generated with relative efficiency. The second task is to
+create the principal character who will inhabit this environment—Albion, the eternal man whose body serves
+as the microcosmic map of Blake’s macrocosmic universe.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> Unlike the denizens of Ulro, Albion must be
+                        <figure n="InhabitantsOfUlro.38.3.bqscan" rend="file" width="500" height="350">
+							<figTranscr>a b c</figTranscr>
+							<head>8. Inhabitants of Ulro: (a) false shelter; (b) figure carrying a burden; (c) naked ashamed
+tree.</head>
+							<figDesc>By Fred Yee.</figDesc>
+						</figure>
+						<figure n="gates-sexes.d.p5" id="gates-sexes.d.illbk.05" work-copy="gates-sexes.d" rend="db" width="898" height="1000">
+							<figTranscr>3 Earth<lb/>
+							He struggles into Life<lb/>
+							Publishd by WBlake 17 May 1793</figTranscr>
+							<head>9. Earth: “He struggles into Life.”</head>
+							<figDesc>Blake, <hi rend="i">For The Sexes: The Gates of Paradise</hi>, copy D, plate 5. By permission
+of the Pierpont Morgan Library, New York, PML 63936 plate 5.</figDesc>
+						</figure>
+wrought with especial care, for he will function not as static scenery but as a mobile creature whom we will
+follow in his fall from Eden and resurrection back again. As my frame of reference for Blake’s “human form
+divine,” I have chosen the famous image from <hi rend="i">Milton</hi> of man in an idealized state (illus.
+10)—at once God, Christ, England and, with characteristic immodesty, Blake himself. The crucifixion posture
+suggests spiritual salvation, but the muscular, active body identifies this salvation with life rather than
+death. The head tipped heavenward is significant for an additional reason to which I will return later. In
+order to render Blake’s two-dimensional figure in three dimensions, I experimented with two techniques. My
+research assistant Allen Vandegrift approximated the <hi rend="i">Milton</hi> attitude using the software
+application Poser (Curious Labs), which supplies preprogrammed human figures that may be positioned rather
+like an artist’s manikin. Since the results seemed rather stiff, however, I resorted to a live model, Brian
+Corey of the WVU Theater and Dance Department, who imitated the pose in the Blake watercolor and was then
+scanned with a full-body optical scanner at the Morgantown NIOSH (National Institute for Occupational Safety
+and
+                        <figure n="milton.c.p31-29" id="milton.c.illbk.31" work-copy="milton.c" rend="db" width="718" height="1000">
+							<figTranscr>29<lb/>
+							WILLIAM</figTranscr>
+							<head>10. Self-portrait.</head>
+							<figDesc>Blake, <hi rend="i">Milton a Poem</hi>, copy C, plate 31. By permission of the Rare Books
+Division, New York Public Library, Astor, Lenox and Tilden Foundations.</figDesc>
+						</figure>
+						<figure n="3DBodyScan.Milton.38.3.bqscan" rend="file" width="400" height="348">
+	<head>11. Three-dimensional body scan recreating Blake’s <hi rend="i">Milton</hi>, plate 31</head>
+	<figDesc>Brian Corey, model.</figDesc>
+</figure>
+<pb id="p38-96" n="96"/>
+Health) campus (illus. 11). The file is saved as a list of three-dimensional coordinates which, using the
+program Geomagic (Raindrop Geomagic), may be interpreted as a point cloud, a wire mesh or a polygon assembly.
+Research assistants at the WV Virtual Environments Lab are in the process of cleaning up the noise and
+compressing the file into a manageable size. The final step will be for a graphic artist to texture-map the
+figure with a detailed “skin” so as to approximate Blake’s original. The program DeepPaint 3D (Right
+Hemisphere) is designed for “drawing” directly onto the surface of digital models such as this. 
+<note id="n2">2. Technically, Albion himself is both microcosm and macrocosm: the universe is mapped out on his
+body, but his body is also positioned within this universe, which in turn is mapped out on his body, etc. To
+create this <hi rend="i">mise-en-abyme</hi> effect, The Blake Model will be programmed with a simple loop, so
+that zooming in on Albion eventually returns the user to a bird’s-eye view of Albion. Stephen Guynup
+captures something of this idea in his virtual rendition of Blake’s “The Crystal Cabinet,” which
+envisions “Another England” within England; with Ron Broglio and Thomas Tulis, “William Blake’s
+‘Crystal Cabinet,’” January 2003 &lt;http://www.pd.org/~thatguy/crystal/index.html&gt;.</note></p>
+          <p>The third task, that which requires the most literary research, is to position this human figure
+within the landscape according to Blake’s complicated but precise spatial instructions. We recall that each
+of the four “compass points” is the seat of a different faculty: Urizen, reason, resides in the south;
+Luvah, love, in the east; Tharmas, sensation, in the west; and Urthona, instinct, in the north. At times
+Blake’s directionals are fairly straightforward, as in the famous diagram of the zoas from 
+<hi rend="i">Milton</hi> (illus. 12), or the following lines from <hi rend="i">Jerusalem</hi>: “And the Four
+Points are thus beheld in great Eternity / West, the Circumference: South, the Zenith: North, / The Nadir:
+East, the Center, unapproachable for ever. / These are the four Faces towards the Four Worlds of Humanity / In
+every Man. Ezekiel saw them by Chebar’s flood” (12:54-58; E 156). At other times, however, Blake is
+considerably less intuitive. It is especially difficult to work out how the four compass points of the
+universe correspond to the four compass points on the body of Albion, which is a microcosm of the universe,
+and in turn to the four compass points on the face of Albion, which is a microcosm of
+                        <figure n="milton.c.p34-32.detail" id="milton.c.illbk.34" work-copy="milton.c" rend="file" width="958" height="889">
+							<figTranscr>N<lb/>
+							Urthona<lb/>
+							Adam<lb/>
+							W Tharmas  Luvah E<lb/>
+							Satan<lb/>
+							Miltons Track<lb/>
+							Urizen</figTranscr>
+							<head>12. The four zoas in their spheres.</head>
+							<figDesc>Blake, <hi rend="i">Milton a Poem</hi>, copy C, plate 34 (detail). By permission of the Rare
+Books Division, New York Public Library, Astor, Lenox and Tilden Foundations.</figDesc>
+						</figure>
+the body. Blake goes on to say in <hi rend="i">Jerusalem</hi> that “the Eyes are the South, and the Nostrils
+are the East. / And the Tongue is the West, and the Ear is the North. / . . . And the North is Breadth, the
+South is Heighth &amp; Depth: / The East is Inwards: &amp; the West is Outwards every way” (12:59-60,
+14:29-30; E 156, 158). These directions clearly make no sense if we map them literally onto the face (illus.
+13); the south, for instance, falls in the middle of the north. I maintain that in order for them to make
+sense, we must return to Blake’s famous self-portrait from <hi rend="i">Milton</hi> as our frame of
+reference. We tip the head back and regard the four compass points not as points but as vectors. Thus vision
+reaches up and down; hearing reaches across; the nostrils draw breath in; the tongue issues speech outward.
+Then, viewed in profile like the <hi rend="i">Milton</hi> drawing, the vectors assume their proper right-angle
+configuration (illus. 14). This manipulation thus demonstrates the
+                        <figure n="Jerusalem.FaceMap.38.3.bqscan" rend="file" width="300" height="325">
+							<figTranscr>N S S N<lb/>
+							E E<lb/>
+							W</figTranscr>
+							<head>13. Literal, and incorrect, representation of Blake’s <hi rend="i">Jerusalem</hi> 12:54-60,
+14:29-30, associating points of the compass with points on the human face.</head>
+							<figDesc>Created in Bryce 3D by the author.</figDesc>
+						</figure>
+						<figure n="Jerusalem.FaceMap2.38.3.bqscan" rend="file" width="300" height="282">
+							<figTranscr>S<lb/>
+							E W<lb/>
+							N</figTranscr>
+							<head>14. Revised representation of Blake’s <hi rend="i">Jerusalem</hi> 12:54-60, 14:29-30,
+associating points of the compass with sensory trajectories.</head>
+							<figDesc>Created in Bryce 3D by the author.</figDesc>
+						</figure>
+						<pb id="p38-97" n="97"/>
+necessity of three-dimensional space to represent Blake’s system accurately. It also demonstrates that
+three-dimensionality itself is only a transitory mode through which we must pass to arrive at an authentic
+two-dimensionality. We extend the sensory vectors into virtual space only so that we may collapse the depth of
+field again and get the flat composition familiar to us from Blake and from our own cartographic sense. We
+recall that in “The Mental Traveller” and elsewhere, Blake uses a three-dimensional ball to represent
+contracted consciousness; his symbol for infinity is the two-dimensional plane.</p>
+          <p>The goal of phases four and five of the project is to create smooth-scrolling graphics responsive
+to user intervention. “First-person shooter” video games will provide the visual metaphor; indeed, The
+Blake Model will probably use one of the open-source animation engines written for those games, such as Unreal
+(Epic Games), Quake (Id Software) or VRML. I would also like to have preprogrammed animation sequences that
+will reenact major events in Blake’s mythology, such as the fall of Albion from Eden to Ulro, the 90-degree
+rotation of the zoas during the fall, and Milton’s track across the cosmos. The interface will include
+separate viewports for the landscape and for the object annotations, which I will discuss later, as well as
+navigational buttons to rotate, zoom and pan. I will probably accomplish these tasks with the cooperation of
+WVU’s Geographic Information Systems (GIS), using the program WorldToolKit (Sense8).</p>
+          <figure n="Storyboard.38.3.bqscan" rend="file" width="400" height="255">
+			<figTranscr>a b c<lb/>
+			d e f g<lb/>
+			h i j k</figTranscr>
+            <head>15. Storyboard for animated routine: Milton’s passage through the vortex.</head>
+            <figDesc>By the author and Fred Yee.</figDesc>
+          </figure>
+          <p>To illustrate how such an animated sequence might work, and help to gloss a particularly cryptic
+Blake passage, I refer to the “vortex” metaphor from <hi rend="i">Milton</hi>:
+<q>
+The nature of infinity is this: That every thing has its<lb/>
+Own Vortex; and when once a traveller thro Eternity.<lb/>
+Has passd that Vortex, he percieves it roll backward behind<lb/>
+His path, into a globe itself infolding; like a sun:<lb/>
+Or like a moon, or like a universe of starry majesty,<lb/>
+While he keeps onwards in his wondrous journey on the earth<lb/>
+Or like a human form, a friend with whom he livd benevolent.<lb/>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<lb/>
+First Milton saw Albion upon the Rock of Ages,<lb/>
+Deadly pale outstretchd and snowy cold, storm coverd;<lb/>
+A Giant form of perfect beauty outstretchd on the rock<lb/>
+In solemn death: the Sea of Time &amp; Space thunderd aloud<lb/>
+Against the rock, which was inwrapped with the weeds of death<lb/>
+Hovering over the cold bosom, in its vortex Milton bent down<lb/>
+To the bosom of death, what was underneath soon seemd above (15:21-27, 36-43; E 109-10)
+</q>
+In the “vortex” routine (illus. 15), the user begins with a Milton’s-eye view, hovering in Eden [a].
+Because Blake’s four realms of existence are represented as concentric spheres, the globe below describes
+the boundary between the purely spiritual Eden and the beginning of matter in Beulah. The outstretched hand, a
+familiar icon in first-person-shooter games,
+<pb id="p38-98" n="98"/>
+corresponds to Milton; it is transparent at this point because Milton’s spiritual body has not yet assumed
+its physical cloak. As Milton descends [b], Albion appears in a holographic projection of his eternal state.
+Being fallen, Albion is not actually present in Eden, as becomes apparent when Milton tries to move closer
+[c]; the landscape scrolls past and the ground approaches, but Albion remains a few steps beyond Milton’s
+reach. When Milton touches down in Beulah, another figure appears [d]—it is the bodily form of Milton, which
+Milton must assume (by passing through it) so that he may receive admittance to the lower realms. Milton’s
+incarnation is signified when the second figure disappears, leaving only the Albion-holograph; the transparent
+arm at bottom becomes opaque [e]. Milton continues his descent from Beulah to Generation, then Ulro, whose
+unregenerate nature is indicated by a rocky landscape. As he approaches this source of the holographic
+projection, Milton begins to see the fallen rather than the ideal state of Albion: Albion’s posture
+gradually changes from erect to supine, and his body acquires the same fleshed-out tones as Milton’s arm
+[f]. Before long, however, Milton must shed his physical cloak once more in preparation to greet Albion as a
+redeemer; the arm becomes transparent again and, off to one side, Milton’s body reappears [g]. By now,
+Milton can actually catch up with Albion, and so bends “down / To the bosom of death,” passing directly
+through the couchant Albion’s heart and out the other side [h]. Milton has now crossed Albion’s
+“vortex.” Continuing to move in the same direction while swiveling around to look behind, “what was
+underneath soon seemd above”; Milton sees the fetal-like Albion receding into the distance [i].</p>
+          <p>The user’s perspective now switches from Milton’s-eye view to an exterior view, where
+Albion’s existential range is represented as a gigantic cone [j]. The cone opens up toward Albion’s
+infinite state, to which he will eventually return; its tip corresponds to his present, most narrowly
+contracted state; the speck below the tip is Milton. The cone swings around so that it opens away from the
+viewer, who looks straight down the tip; the foreshortened cone appears as a globe [k]. The user thus, it is
+to be hoped, apprehends Blake’s image: every
+                        <figure n="Flowchart.Hypertext.38.3.bqscan" rend="file" width="400" height="271">
+							<figTranscr>Cathedron<lb/>
+							A great hall that stands of the island of Luban within the city of Golgonooza. The name is a synthesis
+of “cathedral” and Blake’s wife Catherine. It suggests the dual power of organized religion and feminine
+sexuality to entrap the enlightened man.<lb/>
+							William Blake, Jerusalem<lb/>
+							William Blake, The Four Zoas [image]<lb/>
+							Northrop Frye, Fearful Symmetry<lb/>
+							<lb/>
+							A wondrous golden Building immense with ornaments sublime<lb/>
+							Is bright Cathedrons golden Hall, its Courts Towers &amp; Pinnacles<lb/>
+							Jerusalem 59.25<lb/>
+							<lb/>
+							www.blakearchive.org</figTranscr>
+							<head>16. Sample flowchart for hypertextual annotation.</head>
+							<figDesc>By the author. Inset by permission of the British Library (see caption for illus.
+6).</figDesc>
+						</figure>
+determinate physical form is the tip of a proverbial iceberg (or cone), the tightest possible contraction of a
+spiritual immensity. One must not only become a “traveller thro Eternity” but also pass through the very
+nadir of reality in order to know this immensity. Redemption, moreover, must be an act of compassion: Milton
+recreates the path of Albion’s initial fall, passes through his heart, and must pass through his heart again
+in order to return to eternity, presumably taking Albion with him. At the end of the sequence, a “further
+reading” link appears to commentaries by Nelson Hilton or by Robert Essick and Joseph Viscomi, now
+visualized.<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref>
+	<note id="n3">3. See Nelson Hilton, <hi rend="i">Literal Imagination: Blake’s Vision of Words</hi>
+(Berkeley: U of California P, 1983) 205-30; William Blake, <hi rend="i">Milton a Poem and the Final
+Illuminated Works</hi>, ed. Robert N. Essick and Joseph Viscomi, vol. 5 of <hi rend="i">Blake’s Illuminated
+Books</hi>, ed. David Bindman (Princeton: Princeton UP, 1993) 142.</note></p>
+          <p>The sixth and final phase of the project is to annotate the model with embedded hyperlinks to
+selected Blake texts, images and critical glosses. For example, clicking on the Cathedron object in the
+landscape might spawn a pop-up window with a short definition and links to related terms (illus. 16). One may
+also read a relevant passage from <hi rend="i">Jerusalem</hi>, look at the original drawing from 
+<hi rend="i">The Four Zoas</hi> or sample classic commentary from Frye or others. I hope to link the poetry
+excerpts to existing internet resources such as the William Blake Archive at the University of Virginia, where
+users could avail themselves of additional tools such as search forms and a Blake concordance; or the Blake
+Digital Text Project at the University of Georgia, which, like the Archive, offers the entirety of David
+Erdman’s standard edition online.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref>
+	<note id="n4">4. Blake Digital Text Project, ed. Nelson Hilton
+&lt;http://www.english.uga.edu/wblake/home1.html&gt;; William Blake Archive, ed. Morris Eaves, Robert N.
+Essick and Joseph Viscomi &lt;http://www.blakearchive.org&gt;.</note></p>
+          <p>After The Blake Model is complete, it should fit onto a single CD-ROM and be viewable by anyone
+with a suitably appointed personal computer, with or without an optional immersion device such as the CAVE or
+ImmersaDesk. Once
+<pb id="p38-99" n="99"/>
+debugged and revised according to a detailed user questionnaire, it will be made available as an open-source
+download from the WVU English Department website. As for the future directions of the project, I foresee a
+series of Literary Models that extend the 3D-imaging concept to several other writers who think
+“spatially” or “geographically” and who, not coincidentally, stand in the chain of influence alongside
+Blake. A Dante Model would take the user on a visual tour of the circles of Hell, the mountain of Purgatory
+and the reaches of Paradise as described in the <hi rend="i">Divine Comedy.</hi> A <hi rend="i">Faerie
+Queene</hi> Model could help keep straight the complex narrative and immense cast of characters in Spenser’s
+romance. With a John Milton Model, the user would re-enact Satan’s travels in <hi rend="i">Paradise
+Lost</hi>, from his fall from Heaven to his entrance into the Garden of Eden. A James Joyce Model could
+present a “virtual Dublin” in which the user navigates through the locations and events described in 
+<hi rend="i">Ulysses.</hi></p>
+          <p>In the remainder of this essay I would like to address some of the conceptual problems that I see
+arising from The Blake Model, not so much the project’s technical challenges as its implications for the
+study of Blake. The first is the somewhat hoary question about the appropriateness of teaching with
+technology, especially given Blake’s own suspicion of alienated labor. My technophilic streak vies with my
+Luddite anxiety that I may be hastening my own obsolescence, propelling the dark Satanic mills of the wired
+classroom. Cyberspace is a real space, an advertising space that the private sector leases in a diabolical
+bargain with a cash-starved public education system; ironically it is here that The Blake Model makes a space
+for itself. Electronic transposition does not confer immortality on the text or insulate it from the elements
+of production, as Mary Lynn Johnson found in her short-lived Iowa Blake Videodisc Project: “we did not take
+an active enough hand in the care and feeding of our newly weaned prodigy.... even files in storage require
+eternal vigilance.”<supplied type="spacer"> </supplied><ref target="n5" type="note">5</ref> The status of
+technological labor in the academy also remains controversial, an issue addressed by the authors of the
+DVD-ROM project <hi rend="i">Red Planet: Scientific and Cultural Encounters with Mars.</hi><supplied
+type="spacer"> </supplied><ref target="n6" type="note">6</ref>
+	<note id="n5">5. Mary Lynn Johnson, “The Iowa Blake Videodisc Project: A Cautionary History,” 
+<hi rend="i">The Wordsworth Circle</hi> 30.3 (1999): 132-33.</note>
+	<note id="n6">6. Helen Burgess, Jeanne Hamming and Robert Markley, “The Dialogics of New Media: Video,
+Visualization, and Narrative in <hi rend="i">Red Planet: Scientific and Cultural Encounters with Mars,”
+Eloquent Images: Word and Image in the Age of New Media</hi>, ed. Mary E. Hocks and Michelle R. Kendrick
+(Cambridge, MA: MIT, 2003) 61-88.</note></p>
+          <p>While I cannot fully explore here the political ramifications of my medium, I would suggest that
+such questions were not unknown to Blake himself. The editors of the William Blake Archive, responding to
+allegations that the project imposes a Urizenic monologism on Blake’s texts, remind us of the assumption
+“that Blake somehow exempted himself from the unpleasant realities of labor and commerce. But in fact he
+sold his works for real cash money that he accepted.”<supplied type="spacer"> </supplied><ref target="n7"
+type="note">7</ref> Viscomi, in his study of Blake’s technique, argues that efforts to place Blake beyond
+the reach of finance are ahistorical, misinformed by a book-publishing rather than print-publishing paradigm:
+<q>
+Instead of perceiving illuminated printing as a <hi rend="i">reaction against</hi>—or an effort to 
+<hi rend="i">reject</hi>—“conventional taste” or the “commercial bourgeoisie,” we need to see in it
+Blake’s desire to tap into a market created by the status quo’s demand for drawings, a market actively
+supplied by commercial and original printmakers. . . . Like etchings and facsimiles of sketches, they
+[Blake’s illuminated prints] move toward the simple and spontaneous, toward drawing, and away from the
+overtly skillful performance characteristic of reproductive engraving. But this move away from the
+reproductive ideal does not make them “subversive,” except to purists . . .; to collectors of the day,
+illuminated prints may have represented Blake at his most fashionable.<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref>
+	<note id="n7">7. Morris Eaves, Robert N. Essick, Joseph Viscomi and Matthew Kirschenbaum, “Standards,
+Methods and Objectives in the William Blake Archive,” <hi rend="i">The Wordsworth Circle</hi> 30.3 (1999):
+142. The essay is a response to Andrew Cooper and Michael Simpson, “The High-Tech Luddite of Lambeth:
+Blake’s Eternal Hacking,” <hi rend="i">The Wordsworth Circle</hi> 30.3 (1999): 125-31. Cooper and Simpson
+respond to this response in “Looks Good in Practice, but Does It Work in Theory? Rebooting the Blake
+Archive,” <hi rend="i">The Wordsworth Circle</hi> 31.1 (2000): 63-68.</note>
+	<note id="n8">8. Joseph Viscomi, <hi rend="i">Blake and the Idea of the Book</hi> (Princeton: Princeton UP,
+1993) 172.</note></q>
+How many copies of his illuminated books Blake produced at any given session “appears to have been
+determined by such practical concerns as how much paper the Blakes could afford for each book, as well as by
+such material concerns as how many books could be produced per quire of paper” (156). Viscomi also disputes
+certain notions of Blake as a technical innovator who sidestepped the trap of alienated labor:
+<q>
+First, Blake’s control over production was not as complete as imagined, given Mrs. Blake’s assistance in
+printing and coloring impressions. Second, even if it were, it would not necessarily be politically
+significant or signify a desire to escape the division of labor characteristic of commercial graphics or
+letterpress printing. This is because an artist (as opposed to a writer) accustomed to controlling all stages
+of labor in the production of original prints . . . is not really varying his practice or controlling more of
+his labor by using a new technique or by producing prints with words. (173)
+</q>
+In short, Blake likely harbored few illusions about either the fallen status of commerce or the impossibility
+of escaping it. His focus may rather have been on working within this system to do some good. Accordingly, the
+limitations of a Blake-studies technology is not reason to dismiss out of hand its potential for widening and
+democratizing Blake’s audience. The editors of the William Blake Archive caution against the presumption
+“that purity of principle on intellectual grounds
+<pb id="p38-100" n="100"/>
+is preferable to accessibility for the general user” (Eaves et al. 141); Karl Kroeber celebrates the Archive
+for presenting Blake’s calligraphy in its “<hi rend="i">examinable</hi> detail” and for thereby
+facilitating an “intimate, even necessary, interconnection between intensely specialized research and
+socially useful teaching at elementary levels.”<supplied type="spacer"> </supplied><ref target="n9"
+type="note">9</ref> I would similarly point to ways in which my department has used technology to improve
+access education among underserved communities in rural West Virginia.<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref>
+	<note id="n9">9. Karl Kroeber, “The Blake Archive and the Future of Literary Studies,” <hi rend="i">The
+Wordsworth Circle</hi> 30.3 (1999): 123, 125.</note>
+	<note id="n10">10. See, for example, initiatives of the Center for Writing Excellence, such as the Scott’s
+Run Writing Heritage Project, 2002 &lt;http://www.as.wvu.edu/~srsh/&gt;; the Distance Learning Program, 2002
+&lt;http://www.as.wvu.edu/english/cwe/distance.html&gt;.</note></p>
+          <p>My second concern is the inevitable amount of guesswork involved in fleshing out The Blake
+Model’s features. It is one matter to implement Blake’s instructions for, say, the 64,000 each of fairies,
+gnomes, genii and nymphs guarding the gates of Golgonooza; the challenge here is one of scale and not
+interpretation. It is another thing entirely to extrapolate, say, the body language of Albion, on which the
+integrity of The Blake Model depends. I am mindful that my quest for authenticity, to present Blake as he
+“really” is, leads me into deeper and deeper layers of conjecture. This is the phenomenon that Jay David
+Bolter and Richard Grusin observe in many new media, which
+<q>
+[l]ike other media since the Renaissance .... oscillate between immediacy and hypermediacy, between
+transparency and opacity.... Although each medium promises to reform its predecessors by offering a more
+immediate or authentic experience, the promise of reform inevitably leads us to become aware of the new medium
+as a medium. Thus, immediacy leads to hypermediacy.<supplied type="spacer"> </supplied><ref target="n11"
+type="note">11</ref>
+	<note id="n11">11. Jay David Bolter and Richard Grusin, <hi rend="i">Remediation: Understanding New
+Media</hi> (Cambridge, MA: MIT, 2000) 19.</note></q>
+This paradox, say Bolter and Grusin, explains the lengths to which high-tech media go to simulate low-tech.
+Thus, the graphical user interface (GUI) “remediates” the office desktop; the web page, the tabloid
+newspaper; digital graphics, perspectival painting and photography; and virtual reality, film and television
+(23,69,115,161). Moreover, “just as there is nothing prior to the act of mediation, there is also a sense in
+which all mediation remediates the real” (59).</p>
+          <p>Blake himself was an adept remediator. Viscomi points out that Blake’s “facsimile is of the
+drawing <hi rend="i">process</hi> and not of an actual drawing or model” (26).<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref> Blake could further immerse himself in the factitiousness of
+his process, as when giving directions for executing a “woodcut-on-pewter” or a
+“woodcut-on-copper.”<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref> Morris
+Eaves suggests that such deferral of the “original” may be a therapeutic act:
+<q>
+blurring may be to sight what distance is to immediate impressions—a way of attaining, paradoxically,
+greater clarity and unity. As Gilpin indicated, reproductive engraving may be a beneficial extension of the
+process: an additional medium, like another language, affords a new opportunity to generalize and thus improve
+the original. An engraving may, as many spokespeople for the trade maintained, have its own special dignity
+not as a copy but as a translation.<supplied type="spacer"> </supplied><ref target="n14"
+type="note">14</ref></q>
+Yet bound up with this optimistic view is Eaves’ rather different assertion of Blake’s distrust of
+mediation: Blake’s technique, as against the English-school ideas of “Gradual, systemic improvement,” is
+“technologically so regressive . . . that it comes close to opposing tools and materials per se.... [it]
+seeks to lessen the distortions of time and space by finding the most immediate communication between artist
+and viewer and the shortest path between mind and matter” (184). If I may try to unite these two strands in
+Eaves, I would argue that while Blake knows something is always lost in the translation from the prototype
+that exists in only in his mind, he knows equally that the situation cannot be otherwise. <note id="n12">12.
+“By rejecting [Ruthven] Todd’s theory of transferred texts,” Viscomi himself recognizes that he is
+remediating “the nineteenth-century theory [of Blake’s technique], in which a ‘preliminary drawing’ of
+a plate, or ‘illustrated song,’ is reproduced in ‘facsimile’ by being redrawn directly on the plate
+with the same tools used to execute the originals” (26).</note>
+	<note id="n13">13. See Robert N. Essick,  <hi rend="i">William Blake: Printmaker</hi> (Princeton: Princeton
+UP, 1980) 160-61; also Viscomi 68-69.</note>
+	<note id="n14">14. Morris Eaves, <hi rend="i">The Counter Arts Conspiracy: Art and Industry in the Age of
+Blake</hi> (Ithaca: Cornell UP, 1992) 248.</note></p>
+          <p>Indeed, this sense of loss is integral to Blake’s art. Appropriately, his alter ego in the myth
+is Los (loss), whose oft-quoted dictum, “I must create a system or be enslav’d by another man’s,”
+savors of Urizenic drudgery. Los may not wish to give up his enormous labors, but neither can he transcend the
+futility of trafficking in fallen forms within the very bowels of the fiery furnace. He builds the golden city
+of art, Golgonooza, in the hope that it may reach back to the Eden from which he himself will be forever
+barred; his most redemptive act is a self-immolation in imitation of Christ that has nothing to do with his
+art. As if to remind us that visualization is always a concession, Blake frequently frustrates the eye. When
+we look to the margins of his page for illustrations of the text, we rarely find what we’re looking for, and
+usually we don’t know precisely what we’re looking at. Depictions of the major characters in the myth,
+especially in their eternal state, are strikingly difficult to come by. Blake will show us how the zoas
+manifest themselves in the fallen language of everyday life but not always show us the zoas themselves.
+Corrupted Urizen appears with regularity, redeemed Urizen less often; we see Urthona after he turns into Los,
+but seldom before; and does anyone know quite what Luvah or Tharmas looks like? My nagging suspicion that I am
+doing violence to Blake’s vision by attempting to represent the unrepresentable—do I lead my students to
+believe a lie when I see not through the eye, but too much with the fleshly eye, reducing what is clearly a
+symbolical
+<pb id="p38-101" n="101"/>
+language to Newtonian geometry? does my search for a comprehensive model smack of Sir Joshua Reynolds and his
+gang of cunning hired knaves?—this suspicion recapitulates a concern that pervades Blake’s works 
+<hi rend="i">qua</hi> works. I am not vain enough to compare myself to Blake or Los, nor an ambitious enough
+revisionist to experience an anxiety of influence under their wings. I would suggest, however, that the
+oxymoron of a “Blake model” may serve as a very Blakean reminder of the provisional, the transitional
+nature of all representation. Accordingly, The Blake Model will seek to remind its user of its difference from
+the “original” at every juncture: its visual idiom should evoke Blake’s watercolors wherever possible,
+but its overall effect should be schematic rather than Hollywood-verisimilar. The Blake Model is not to be
+Blake, any more than the high-resolution scans at the William Blake Archive are Blake, or any more than Fred
+Yee’s sketches are Blake as they quickly take on a life of their own, or any more than Blake is identical to
+himself, as his texts’ indeterminacy from copy to copy sedulously defies mass production.</p>
+          <p>The lattermost point is contested. Viscomi warns that Blakeans who fetishize difference may
+overinterpret the variations in the plates and, again, ignore the material realities of the print trade.
+<q>
+[W]hile designs as initially drawn on plates do differ from the designs as printed, and prints do differ one
+from the other, such variations do not signify a rejection of uniformity and all it supposedly represents, nor
+do they determine the print’s meaning. The first kind of difference was inherent to a mode of production in
+which finishing was conceived as part of the inventive process, and the second kind—for example, the varying
+width of a river in a particular image—requires comparisons that Blake could not have expected or intended
+his readers to make. (175)
+</q>
+—since Blake produced his illuminated books not one by one but in small editions or sessions sometimes years
+apart. One may still posit an “ideal copy,” if only within each edition or run of an illuminated book
+(179). Unfashionable as Viscomi’s unitary vision might appear at first, surely some faith in authorial
+intention underlies all Blakeans worth their salt—even so committed a postmodernist as Ron Broglio anchors
+his “digging” expeditions in the “minute particulars” of Blake’s imagery.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> Conversely, Viscomi reminds us, this intentionality, this
+theory of identity, requires an historical context and awareness of medium that admits of more difference than
+the apostles of difference often allow: variations in the plates, for instance, being “technically
+inevitable,” may be “thought of as deliberately allowed to occur,” but do not “signify 
+<hi rend="i">deliberate</hi> revision” (175). The historical-material page is a temporal one, subject to
+accident, decay, even deformation in spite of its creator’s best efforts. I would like The Blake Model—as
+a tool, a supplement rather than a supplantation—to convey some of this temporality not only by virtue of
+its inevitable not-being-Blake but by a design that I hope is reminiscent of Blake. To illustrate what I mean,
+I will close by showing how The Blake Model would treat one paradox-strewn detail of the myth: the birth of
+Los. <note id="n15">15. See Ron Broglio, “Becoming-zoa,” <hi rend="i">Visible Language</hi> 33.2 (1999):
+128-49; also, with Marcel O’Gorman and F. William Ruegg, “Digging Transformation in Blake: What the Mole
+Knows about the New Millennium,” <hi rend="i">The Wordsworth Circle</hi> 30.3 (1999): 144-54.</note></p>
+          <p>Blake gives several different accounts of this event. <hi rend="i">The Book of Urizen</hi>
+introduces Los <hi rend="i">ex nihilo</hi> as the binder of Urizen; in <hi rend="i">The Four Zoas</hi> he is
+the child of Tharmas and Enion; <hi rend="i">Jerusalem</hi> identifies him decisively as the fallen form of
+Urthona. Yet Tharmas and Urthona are fellow zoas: how can one being descend from another being with whom it is
+supposedly co-eternal?<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> The answer is
+that this relationship makes sense only in the context of just such a descent—the genealogy of the fallen
+zoas (which reproduce through, and into, time) and of the successive compositions in which Blake’s myth
+evolved (from the atemporal birth of Los in <hi rend="i">Urizen</hi> to the temporal in the mature
+prophecies). I feel it is necessary to convey some of this differential process by building temporality into
+the space of The Blake Model. It would be no great matter, for instance, to construct a sphere or object for
+each of the zoas/emanations; to program an animation sequence that shows Los/Enitharmon emerging from
+Tharmas/Enion, perhaps connected by umbilical cords to show parentage; and to give Los an aspect suggesting
+corrupted Urthona, perhaps even have an animation transforming Urthona into Los himself. Once this change is
+complete, however, it merely becomes another static tableau, which I feel is inappropriate until the
+resurrection of the zoas occurs and time is truly finished. <note id="n16">16. This paradox reappears in Orc,
+who is at once the child of Los and Enitharmon and the fallen form of Luvah.</note></p>
+          <p>I therefore propose to have Los “flicker” among his different modalities. The effect should
+be that of a faulty hotel sign, or of the “insert shots” of sinister images that lace such films as
+William Friedkin’s <hi rend="i">The Exorcist</hi> and Stanley Kubrick’s <hi rend="i">The Shining.</hi> As
+determined by a random-number generator, Los will sometimes appear tethered to Tharmas/Enion (corresponding to
+<hi rend="i">The Four Zoas</hi>) and sometimes not (corresponding to <hi rend="i">Urizen</hi>); sometimes with
+Urthona’s beatific visage and sometimes with his own more fearsome one. Three permutations are thus
+possible: Urthona as Los tethered to Tharmas/Enion, Urthona as Los untethered to Tharmas/Enion, and Urthona as
+himself untethered to Tharmas/Enion (Urthona does not appear as himself tethered to Tharmas/Enion because the
+relation between these two forms of the zoas is not genealogical). These “flickers” suggest a Los who
+stands both inside and outside the dull rounds of generation; who remains anchored in this world but whose
+intimations of the eternal never cease; who encapsulates whatever ways Blake may have changed his mind about
+how to structure his myth. By depicting these alternatives not simultaneously but sequentially, the
+“flicker”
+<pb id="p38-102" n="102"/>
+acknowledges the temporal interval across which all representations, whether they be Los’, Blake’s or
+mine, fall away from their inspiration, yet it also embraces the restorative possibilities that such an
+acknowledgment may open up.<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> Indeed,
+it is my hope that the temporal condition of The Blake Model may allow for its infinite correctibility within
+the community of Blakeans, into whose hands I commend it. <note id="n17">17. In this respect, the flicker may
+be thought of in terms of Martin Heidegger’s <hi rend="i">Augenblick</hi>, the twinkling of an eye, the
+“moment of vision” in which “nothing can occur; but . . . permits us <hi rend="i">to encounter for the
+first time</hi> what can be ‘in a time’ as ready-to-hand or present-at hand” (H338); <hi rend="i">Being
+and Time</hi>, trans. John Macquarrie and Edward Robinson (New York: Harper &amp; Row, 1962) 388.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

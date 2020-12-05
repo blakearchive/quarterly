@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.1.toomey</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="review">Roger R. Easson and Robert N. Essick, William Blake: Book Illustrator,
+Volume I</title>
+                <author n="Toomey">Deirdre Toomey</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.1</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants for Production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistant for Subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+            <div1 id="BQ-07-1-0003">
+                <pb id="p07-19" n="19"/>
+                <div2>
+                    <head>
+                        <title type="main">Roger R. Easson and Robert N. Essick. <hi rend="i">William Blake:
+Book Illustrator: A Bibliography and Catalogue of the Commercial Engravings.</hi> Normal, Illinois: The
+American Blake Foundation, 1972. Volume I: Plates Designed and Engraved by Blake. Pp. xvi + 58 + 82 pls.
+$8</title>
+                    </head>
+                    <byline>Reviewed by <docAuthor>Deirdre <name>Toomey</name>
+                        </docAuthor>
+                    <ref target="n7" type="note">*</ref></byline>
+                    <p>
+                        <hi rend="i">William Blake: Book Illustrator</hi>, Volume I, is the first in a series
+of three publications which will reproduce and catalogue all of Blake’s commercial engravings. The first
+volume deals with designs invented and engraved by Blake, the second will deal with designs invented but not
+engraved by Blake and the third with engravings by Blake after other artists. The editors, Roger R. Easson and
+Robert N. Essick, have been cautious in their acceptance of attributions: thus doubtful works such as the
+engravings in Bryant’s <hi rend="i">Mythology</hi>, Gough’s <hi rend="i">Sepulchral Monuments, Vetusta
+Monumenta</hi> and <hi rend="i">The Seaman’s Recorder</hi> have not been included in the first volume. They
+have also been cautious in their classifications: “Laocoon,” the Wedgewood engravings and the non-pastoral
+engravings in Thornton’s <hi rend="i">Virgil</hi> have all been excluded from the first volume on the
+grounds—perhaps debatable in the case of the “Laocoon”—that they are not “original,” being “essentially
+copies of another artist’s work.” These have been relegated to the third volume.</p>
+                    <p>Clearly <hi rend="i">William Blake: Book Illustrator</hi> in its final form will be a
+very useful work of reference for Blake scholars. The unusually large amount of bibliographical data is
+helpful and this blending of “The descriptive bibliography and the print catalogue” is quite successful,
+although the seven pages of bibliographical description which accompany the one plate of Herries’ 
+<hi rend="i">Bible</hi> are, at first sight, somewhat daunting. It is enlightening to see the commercial
+engravings, not just as isolated prints, but in the context of the books for which they were executed.</p>
+                    <p>The editors main purpose is, however, as they have said, “the complete reproduction of
+Blake’s commercial book illustrations” and their “prime concern is to assist the student of Blake’s art.”
+Sadly the reproductions themselves are, for the most part, of rather low quality, and this may tend to modify
+the usefulness of <hi rend="i">William Blake: Book Illustrator</hi> as a work of reference. Some of the
+reproductions are highly inaccurate: those of the <hi rend="i">Night Thoughts</hi> engravings are particularly
+bad. Here the values are distorted to such an extent that some pages, in particular 33, 35 and 72, look as if
+they have been re-engraved by John Jackson. The thick black shadows that appear everywhere in the 
+<hi rend="i">Night Thoughts</hi> reproductions are most unpleasing. This tendency towards excessive blackness is
+also apparent in Thornton’s <hi rend="i">Virgil</hi> and in the Cowper plate, in both cases obscuring areas
+of fine detail. The other reproductions are less positively bad, tending to omit detail rather than distort
+values. Thus in “The Hiding of Moses” whole areas of detail are missing from the left-hand side of the design.
+The same is true, to a lesser extent, of the fine detail in the Wollstonecraft illustrations. It is indeed
+most unfortunate that so useful a work should be marred by technical defects, and that such scrupulous and
+thorough editors as Roger Easson and Robert Essick should be so badly served by their reproductions. Yet, even
+with these defects <hi rend="i">William Blake: Book Illustrator</hi> remains a valuable work of reference and
+I look forward to seeing the next two volumes. <note id="n7">
+                            <hi rend="i">Deirdre Toomey is writing her doctoral thesis at the University of
+London. Her most recent contribution to the</hi> Newsletter <hi rend="i">was</hi> “<hi rend="i">The States of
+Plate 25 of</hi> Jerusalem” <hi rend="i">in #22.</hi>
+                        </note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.mellon</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">The Making of the Mellon Center at Yale</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-1-0002">
+            	<pb id="p06-4" n="4"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">THE MAKING OF THE MELLON CENTER AT YALE</hi>
+                        </title>
+                    </head>
+                    <p>In February 1972 Yale University unveiled the architect’s model and plans for
+construction of the new building for the Paul Mellon Center for British Art and British Studies, which will
+house the Mellon collections of British art and rare books that have been promised to the University.</p>
+                    <p>The first story of the four-story structure designed by Louis I. Kahn will be given
+over mostly to commercial use. The upper three stories will include extensive public exhibition space for
+paintings, watercolors, and drawings; a rare book library of about 30,000 volumes; a print room housing about
+20,000 drawings and prints; a research library of about 10,000 volumes with a reading room and a photographic
+archive; a lecture room seating 200 people; a conservation laboratory for paper; and various seminar rooms,
+offices, work areas, a lunchroom and a photographic studio. The Center will be located across the street from
+the Yale Art Gallery, also designed by Kahn and constructed twenty years ago.</p>
+                    <p>Professor Jules D. Prown, art historian on the Yale faculty, was appointed the
+Center’s director in 1968 and has been supervising the architectural designs and the plans for the
+educational and cultural programs. The academic program recommended for the Center by the committee that
+planned it seeks “to unify various disciplines now usually segmented into departments of study. . . . We would
+hope to bring together a group of scholars whose interest in British art, from various points of view, would
+lead to a cross-fertilization of minds. Such a program, for example, would have particular value for scholars
+trained in the fields of literature and history who wish to broaden their knowledge through a period of study
+in the field of British art.” Consequently, the committee has called for the establishment of a professorship
+in British art and a new undergraduate major in British Studies. Under study is a program of fellowships and
+grants-in-aid for visiting scholars, including funds for one or two distinguished scholars, several young
+scholars working on post-doctoral projects, and a number of grants-in-aid for short-term visitors. Henry Berg,
+Assistant Director of the Center, says that the future program is still under discussion, and that “the main
+thrust of the Center will be to combine the study and enjoyment of the works of art and rare books in Mr.
+Mellon’s collection with the pursuit of studies in related non-art-historical fields. We hope the Center
+will be an interdisciplinary one, weaving together literature, history, art and other fields of interest in a
+new way.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

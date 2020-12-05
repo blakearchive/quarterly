@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>37.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2003/2004</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2003-04</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">37.3</biblScope>
+            <biblScope unit="volume">37</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Rosamund A. Paice</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Oskar Wellens</name>
+              <name>Nelson Hilton</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2003/2004"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_37">
+    <front>
+      <pb id="p37-81-82" n="81-82"/>
+      <div1 id="cover">
+        <figure n="cover.037.03.bqscan" rend="file" width="258" height="333">
+          <figTranscr>BLAKE<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            Robert Essick and Rosamund Paice<lb/>
+            on Nine Newly Uncovered Blake Drawings<lb/>
+            VOLUME 37<lb/>
+            NUMBER 3<lb/>
+            WINTER 2003-04</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-37-3-0001">
+        <table id="contents" rows="10" cols="2">
+          <row>
+            <cell>
+				<head>
+				  <title>CONTENTS</title>
+				</head>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Article</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.3.essick">Newly Uncovered Blake Drawings in the British
+Museum</ref><lb/>
+<hi rend="i">By Robert N. Essick and Rosamund A. Paice</hi></cell>
+            <cell>
+              <hi rend="i">84</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Minute Particulars</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.3.gourlay">“Friendship,” Love, and Sympathy in Blake’s
+<hi rend="i">Grave</hi> Illustrations</ref><lb/>
+<hi rend="i">By Alexander S. Gourlay</hi></cell>
+            <cell>
+              <hi rend="i">100</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.3.wellens">A Dutch Bibliophile Edition of <hi rend="i">The
+Marriage of Heaven and Hell</hi> (1928)</ref><lb/>
+<hi rend="i">By Oskar Wellens</hi></cell>
+            <cell>
+              <hi rend="i">104</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Review</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.3.hilton">G. E. Bentley, Jr., <hi rend="i">The Stranger from
+Paradise: A Biography of William Blake</hi></ref><lb/>
+<hi rend="i">Reviewed by Nelson Hilton</hi></cell>
+            <cell>
+              <hi rend="i">107</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Newsletter</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="37.3.corrigenda">Corrigenda</ref>; 
+<ref type="article" issue="37.3.news">Color-Printing Debate</ref></cell>
+            <cell>
+              <hi rend="i">111</hi>
+            </cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-37-3-0002">
+        <head>
+          <title>ADVISORY BOARD</title>
+        </head>
+        <p>G. E. Bentley, Jr., University of Toronto, retired</p>
+        <p>Martin Butlin, London</p>
+        <p>Detlef W. Dörrbecker, University of Trier</p>
+        <p>Robert N. Essick, University of California, Riverside</p>
+        <p>Angela Esterhammer, University of Western Ontario</p>
+        <p>Nelson Hilton, University of Georgia</p>
+        <p>Anne K. Mellor, University of California, Los Angeles</p>
+        <p>Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+        <p>David Worrall, The Nottingham Trent University</p>
+      </div1>
+      <pb id="p37-83" n="83"/>
+      <div1 id="BQ-37-3-0003">
+        <head>
+          <title>CONTRIBUTORS</title>
+        </head>
+        <p>Robert N. Essick is a professor of English at the University of California, Riverside, and a
+frequent contributor to this journal.</p>
+        <p>Rosamund A. Paice lectures in English at the University of Lancaster, and is working towards being
+a frequent contributor to this journal.</p>
+        <p>Alexander S. Gourlay teaches at Rhode Island School of Design; he is working with John E. Grant and
+Michael J. Tolley on a comprehensive commentary on Blake’s 537 watercolor illustrations to Edward Young’s
+<hi rend="i">Night Thoughts.</hi></p>
+        <p>Oskar Wellens teaches English literature at the Free University of Brussels, Belgium. His main area
+of research interest is British romanticism, on which he has published numerous articles. He is currently
+working on the romantics’ response to the Continent.</p>
+        <p>Nelson Hilton has agreed to serve another term as head of the English Department, University of
+Georgia.</p>
+      </div1>
+      <div1 id="BQ-37-3-0004">
+        <head>
+          <title>EDITORS</title>
+        </head>
+        <p>EDITORS: Morris Eaves and Morton D. Paley</p>
+        <p>BIBLIOGRAPHER: G. E. Bentley, Jr.</p>
+        <p>REVIEW EDITOR: Nelson Hilton</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: David Worrall</p>
+        <p>PRODUCTION OFFICE: Department of English, Morey 410, University of Rochester, Rochester NY
+14627-0451</p>
+        <p>MANAGING EDITOR: Sarah Jones sjns@mail.rochester.edu<lb/>
+TELEPHONE: 585/275-3820 FAX: 585/442-5769</p>
+        <p>Morris Eaves, Department of English, University of Rochester, Rochester NY 14627-0451<lb/>
+Email: meav@mail.rochester.edu</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley CA 94720-1030<lb/>
+Email: mpaley@socrates.berkeley.edu</p>
+        <p>G. E. Bentley, Jr., 246 MacPherson Avenue, Toronto, Ontario M4V 1A2 Canada</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens GA 30602<lb/>
+Email: nhilton@english.uga.edu</p>
+        <p>David Worrall, Faculty of Humanities, The Nottingham Trent University, Clifton Lane, Nottingham
+NG11 8NS United Kingdom<lb/>
+Email: david.worrall@ntu.ac.uk</p>
+      </div1>
+      <div1 id="BQ-37-3-0005">
+        <head>
+          <title>INFORMATION</title>
+        </head>
+        <p><hi rend="i">BLAKE/AN ILLUSTRATED QUARTERLY</hi> is published under the sponsorship of the
+Department of English, University of Rochester. Subscriptions are $60 for institutions, $30 for individuals.
+All subscriptions are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments
+received after the summer issue will be applied to the 4 issues of the current volume. Addresses outside the
+U.S., Canada, and Mexico require a $15 per volume postal surcharge for surface delivery, and $20 for airmail.
+Credit card payment is available. Make checks payable to <hi rend="i">Blake/An Illustrated Quarterly.</hi>
+Address all subscription orders and related communications to Sarah Jones, <hi rend="i">Blake</hi>, Department
+of English, University of Rochester, Rochester NY 14627-0451. Back issues are available; address Sarah Jones
+for information on issues and prices, or consult the web site.</p>
+        <p>MANUSCRIPTS are welcome in either hard copy or electronic form. Send two copies, typed and
+documented according to forms suggested in the <hi rend="i">MLA Style Manual</hi>, and with pages numbered, to
+either of the editors: Morris Eaves, Dept. of English, University of Rochester, Rochester NY 14627-0451;
+Morton D. Paley, Dept. of English, University of California, Berkeley CA 94720-1030. No articles will be
+returned unless accompanied by a stamped self-addressed envelope. For electronic submissions, you may send a
+diskette, or send your article as an attachment to an email message; please number the pages of electronic
+submissions. The preferred file format is RTF; other formats are usually acceptable.</p>
+        <p>INTERNATIONAL STANDARD SERIAL NUMBER: 0160-628x. <hi rend="i">Blake/An Illustrated Quarterly</hi>
+is indexed in the Modern Language Association’s International Bibliography, the Modern Humanities Research
+Association’s Annual Bibliography of English Language and Literature, American Humanities Index, Arts and
+Humanities Citation Index, Current Contents and the <hi rend="i">Bibliography of the History of Art.</hi></p>
+        <p>Cover: Pencil sketch and finished watercolor for <hi rend="i">St. Peter, St. James, Dante and
+Beatrice with St. John Also.</hi> British Museum, Dept. of Prints and Drawings. See pages 96-97 for further
+details. <note type="unreferenced" place="footer">© 2004 Copyright Morris Eaves and Morton D.
+Paley</note></p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p37-112" n="112"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">William Richey<lb/>
+    			1956-2003</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

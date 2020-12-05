@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>29.1.deluca</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">First Annual Vincent A. De Luca Memorial Lecture</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1995</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1995</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">29.1</biblScope>
+            <biblScope unit="volume">29</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Stephen C. Behrendt</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Alexander Gourlay</name>
+              <name>Lauren G. Henry</name>
+              <name>J.E.M. Latham</name>
+              <name>David Punter</name>
+              <name>Warren Stevenson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1995"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_29">
+    <body>
+      <div1 id="BQ-29-1-0009">
+      	<pb id="p29-35" n="35"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">First Annual Vincent A. De Luca Memorial Lecture</hi>
+            </title>
+          </head>
+          <p>On Monday, 27 February 1995, Robert N. Essick delivered the first annual Vincent A. De Luca
+Memorial Lecture at the University of Toronto. The lecture was entitled “Representation, Anxiety, and the
+Bibliographic Sublime.”</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

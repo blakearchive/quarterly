@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.3.damoniana</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Damoniana: Honoring Professor S. Foster Damon</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.3</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>S. Foster Damon</name>
+                            <name>Alvin H. Rosenfeld</name>
+                            <name>Laurence Goldstein</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+    	<front>
+        <pb id="p01-1" n="1"/>
+        <div1 id="BQ-01-3-0001">
+            <head>
+                <title type="main">Damoniana</title>
+            </head>
+            <p>This issue of the BLAKE NEWSLETTER is dedicated to Professor S. Foster Damon, whom we delight
+to honor in anticipation of his seventy-fifth birthday.</p>
+            <p>A more substantial and permanent tribute to Professor Damon is being prepared by Professor
+Alvin Rosenfeld of Brown University. It is an anthology of original essays on Blake to be published as a 
+<hi rend="u">Festschrift</hi> entitled <hi rend="u">William Blake: Essays For S. Foster Damon.</hi> It will
+include some two dozen essays on Blake’s poetry and painting, written for the occasion by many of the
+world’s leading Blake scholars; an introductory essay on S. Foster Damon by Malcolm Cowley; and, as an
+appendix, a full bibliography of Professor Damon’s writings. It will also include numerous plates of
+Blake’s designs. A further announcement about the <hi rend="u">Festschrift</hi>, including details about its
+contents and date of publication, will appear in the next NEWSLETTER.</p>
+            <p>A celebration of Professor Damon’s birthday will take place at Brown on February 22-23. The
+festivities will include a reading of his poetry, a performance of scenes from his prize-winning play 
+<hi rend="u">Witch of Dogtown</hi>, and possibly a small concert of his music. An informal seminar will be
+conducted by Professors Harold Bloom and Geoffrey Hartman, and an exhibit of Blake items and Damoniana will be
+shown at Brown’s Rockefeller Library (Feb. 15 - March 15). All these programs have been arranged by Alvin
+Rosenfeld.</p>
+            <p>It’s difficult to find words adequate to someone who is at the same time a great pioneer and
+an energetic contemporary. May Foster Damon’s wisdom, enthusiasm, wit and versatility long continue to
+astonish us!</p>
+        </div1>
+        </front>
+    </text>
+</TEI.2>

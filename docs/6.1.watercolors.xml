@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.1.watercolors</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">3 Blake Watercolors Now in Public Collections</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter. An Illustrated Quarterly.</title>
+                        <biblScope unit="volIss">06.1</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Jo Ann Kottke</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <div1 id="BQ-06-1-0002">
+            	<pb id="p06-5" n="5"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">3 BLAKE WATERCOLORS NOW IN PUBLIC COLLECTIONS</hi>
+                        </title>
+                    </head>
+                    <p>According to Martin Butlin of the Tate Gallery, three Blake watercolors from the Esmond
+Morse collection have been given to British public collections by the Morse family. The Victoria and Albert
+Museum has received “The Angels hovering over the body of Jesus in the Sepulchre” and “The Angel rolling the
+stone from the Sepulchre,” two of the Biblical subjects painted for Thomas Butts circa 1800-1805. Butlin
+remarks that “These are two of the best and most moving examples [of the Biblical subjects painted by Blake
+for Butts], very sensitive in their quiet emotion and delicate symmetry, and seem to form a group within the
+main group together with ‘The Resurrection’ in the Fogg Museum, ‘The Magdelene at the sepulchre’
+belonging to the Mount Trust, and the two watercolors at the Tate Gallery, ‘The Crucifixion’ and ‘The
+Entombment.’ It is perhaps a pity that the new gifts cannot be seen together with the works at the Tate
+Gallery, but that is typical of the illogicalities of the London art scene!” The third gift, “And the Waters
+prevailed upon the Earth an hundred and fifty days,” has gone to the Abbot Hall Art Gallery at Kendal in
+Westmorland. On the back, according to Butlin, is “a drawing of a humanoid elephant dangling an infant on its
+foot which has sometimes been seen as a caricature of John Varley.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

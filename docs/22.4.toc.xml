@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>22.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">22.4</biblScope>
+            <biblScope unit="volume">22</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>Nelson Hilton</name>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>John A. Hodgson</name>
+              <name>Andrew Lincoln</name>
+              <name>David W. Lindsay</name>
+              <name>M. A. L. Locherbie-Cameron</name>
+              <name>Paul Mann</name>
+              <name>Peter Otto</name>
+              <name>Warren Stevenson</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1988"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_22">
+    <front>
+      <pb id="p22-113-114" n="113-114"/>
+      <div1 id="cover">
+        <figure n="cover.022.04.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 22<lb/>
+            NUMBER 4<lb/>
+            SPRING 1989<lb/>
+          ANDREW LINCOLN REVIEWS THE<lb/>
+          MAGNO/ERDMAN <hi rend="i">FOUR ZOAS</hi> FACSIMILE</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-22-4-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="22.4.lincoln">Cettina Tramontano Magno and
+David V. Erdman. <hi rend="i">The Four Zoas by William Blake: A Photographic Facsimile of the Manuscript with
+Commentary on the <corr type="emend" rend="plain">Illuminations</corr></hi></ref>,</corr> reviewed by Andrew
+Lincoln</cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.hilton">Tadeusz Sławek. <hi rend="i">The Outlined Shadow:
+Phenomenology, Grammatology, Blake</hi></ref>, reviewed by Nelson Hilton</cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.hodgson">Lucy Newlyn. <hi rend="i">Coleridge, Wordsworth,
+and the Language of Allusion</hi></ref>, reviewed by John Hodgson</cell>
+            <cell>122</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.grant">Morris Eaves and Michael Fischer, eds. 
+<hi rend="i">Romanticism and Contemporary Criticism</hi> and Arden Reed, ed. <hi rend="i">Romanticism and
+Language</hi></ref>, reviewed by John Grant</cell>
+            <cell>124</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.worrall">Francis Curtis and Richard Dean. 
+<hi rend="i">Blake: A Software Package</hi></ref>, reviewed by David Worrall</cell>
+            <cell>133</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">MINUTE PARTICULAR</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.lindsay">“Malden” in Blake’s 
+<hi rend="i">Jerusalem</hi></ref><lb/>
+David W. Lindsay and M. A. L. Locherbie-Cameron</cell>
+            <cell>136</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">DISCUSSIONS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.mann">Finishing Blake</ref><lb/>
+Paul Mann</cell>
+            <cell>139</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.otto">Is There a Poem in This Manuscript?</ref><lb/>
+Peter Otto</cell>
+            <cell>142</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">POETRY</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="22.4.stevenson">LOCK / LUCK</ref> by Warren Stevenson</cell>
+            <cell>145</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="22.4.australia"><hi rend="i">Romanticism and Imagination in
+Australia</hi></ref>, 
+              <ref type="article" issue="22.4.carolinas"><hi rend="i">Carolinas Symposium on British
+Studies</hi></ref>
+            </cell>
+            <cell>146</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-22-4-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">JOHN E. GRANT</hi>, Professor of English at the University of Iowa, is co-editor of
+the Norton Critical Edition of <hi rend="i">Blake’s Poetry and Designs.</hi></p>
+        <p><hi rend="b">NELSON HILTON</hi>, Review Editor of <hi rend="i">Blake</hi>, is still pleased to be
+in such company.</p>
+        <p><hi rend="b">JOHN A. HODGSON’S</hi><hi rend="i">Coleridge, Shelley, and Transcendental
+Inquiry</hi> (U Nebraska P) is forthcoming in early 1989.</p>
+        <p><hi rend="b">ANDREW LINCOLN</hi> teaches English at Westfield College, University of London. He is
+currently preparing a commentary on <hi rend="i">The Four Zoas.</hi><p>Cover photo is taken from the
+Magno/Erdman <hi rend="i">Four Zoas</hi> facsimile.</p>
+	<note type="unreferenced" place="footer">©1988 Morris Eaves and Morton D. Paley</note></p>
+        <pb id="p22-115" n="115"/>
+        <p><hi rend="b">DAVID W. LINDSAY</hi>, Senior Lecturer in English at the University College of North
+Wales, has published articles on <hi rend="i">An Island in the Moon, Europe, The Song of Los, The Book of
+Ahania, The Four Zoas</hi>, and Blake’s large color prints.</p>
+        <p><hi rend="b">M. A. L. LOCHERBIE-CAMBERON</hi> is a Lecturer in English at the University College of
+North Wales. Her principal interests are in Old English literature and Anglo-Saxon art. Her publications
+include articles on the historical background to <hi rend="i">The Battle of Maldon.</hi></p>
+        <p><hi rend="b">PAUL MANN</hi> teaches English at Pomona College in Claremont, California.</p>
+        <p><hi rend="b">PETER OTTO</hi> teaches English at the University of Melbourne. His book on 
+<hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi>, entitled <hi rend="i">Constructive Vision and Visionary
+Deconstruction</hi>, is forthcoming from Oxford University Press.</p>
+        <p><hi rend="b">WARREN STEVENSON</hi>, Associate Professor of English at the University of British
+Columbia, teaches and writes about Blake, Coleridge, and the other Romantics.</p>
+        <p><hi rend="b">DAVID WORRALL</hi> teaches at St. Mary’s College, Twickenham, England, and is
+currently writing about Blake and Anthony Blunt, the art historian and spy.</p>
+      </div1>
+      <div1 id="BQ-22-4-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627,<lb/>
+<hi rend="b">Telephone</hi> 716 / 275-3820.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX, England.</p>
+      </div1>
+      <div1 id="BQ-22-4-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $18 for institutions, $15 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current voluem. Foreign addresses (except Canada and
+Mexico) require a $3 per volume postal surcharge for surface mail, a $10 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627, USA.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of California,
+Berkeley, CA 94720.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake / An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, American Humanities
+Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+        <figure n="jester.22.4.bqscan" rend="file" width="250" height="187">
+	<figTranscr/></figure>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

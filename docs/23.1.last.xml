@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.1.last</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Last Chance</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.1</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert Essick</name>
+              <name>Michael Fischer</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>Marsha Keith Schuchard</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <body>
+      <div1 id="BQ-23-1-0008">
+		<pb id="p23-42" n="42"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">LAST CHANCE FOR BLAKES</hi>
+            </title>
+          </head>
+          <p>The summer of 1989 is almost certainly the last time it will be possible to see the Tate
+Gallery’s Blake collection in its specially designed gallery. A smaller display of works by Blake will still
+be on view, and all works on paper that are not on display should be available on demand in the Study Room in
+the adjacent Clore Gallery (12 pm-5 pm, Tuesday through Saturday). For further information, please call the
+Tate Gallery at 01-821-1313.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

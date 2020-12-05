@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.1.strickland</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">John Dennis and Blake’s Guinea Sun</title>
+        <author n="Strickland">Edward Strickland</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1980</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.1</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <name>Joe Zimmerman</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Thomas Dilworth</name>
+              <name>Judy Egerton</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas V. Lange</name>
+              <name>Edward Strickland</name>
+              <name>Ruthven Todd</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <div1 id="BQ-14-1-0007">
+        <pb id="p14-36" n="36"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">JOHN DENNIS AND BLAKE’S GUINEA SUN</hi>
+            </title>
+          </head>
+          <byline>
+            <hi rend="b">By</hi>
+            <docAuthor>
+              <hi rend="b">Edward</hi>
+              <name>
+                <hi rend="b">Strickland</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>In the long fourth chapter of his 1704 essay “The Grounds of Criticism,” John Dennis draws a
+distinction between “Vulgar Passion” and “Enthusiastick Passion, or Enthusiasm.” In delineating the latter he
+uses as an example our various perceptions of the sun: “ . . . [T]he Sun mention’d in ordinary Conversation,
+gives the Idea of a round flat shining Body, of about two foot diameter. But the Sun occurring to us in
+Meditation, gives the Idea of a vast and glorious Body, and the top of all the visible Creation, and the
+brightest material Image of the Divinity.”<supplied type="spacer"> </supplied><ref target="n4"
+type="note">1</ref> In his famous conclusion to “A Vision of The Last Judgment,” Blake echoes Dennis’
+exemplary contrast both in his imagery and diction. Blake, however, is contrasting the world of Imagination,
+rather than Enthusiasm, and Generation: “What it will be Questioned When the Sun rises do you not see a round
+Disk of fire somewhat like a Guinea O no no I see an Innumerable company of the Heavenly host crying Holy Holy
+Holy is the Lord God Almighty . . . .”<supplied type="spacer"> </supplied><ref target="n5" type="note">2</ref>
+In the original, ironically, Dennis, while acknowledging the aesthetic superiority of “Enthusiastick Passion,”
+proceeds in most un-Blakean fashion to recommend to poets the mastery of eliciting “Vulgar Passion,” since
+more readers are capable of experiencing it. <note id="n4"><hi rend="s">1</hi><hi rend="i"> The Critical Works
+of John Dennis</hi>, ed. Edward Niles Hooker (Baltimore: Johns Hopkins, 1939-43), I, 338-39.</note>
+	<note id="n5"><hi rend="s">2</hi><hi rend="i"> The Poetry and Prose of William Blake</hi>, ed. David V.
+Erdman (Garden City: Doubleday, 1965), p. 555.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

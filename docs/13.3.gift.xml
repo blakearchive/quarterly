@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.3.gift</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Gift to the Fitzwilliam</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1979-1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979-80</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.3</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Morris Eaves</name>
+              <name>E.B. Murray</name>
+              <name>David Simpson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979-1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <div1 id="BQ-13-3-0009">
+        <pb id="p13-155" n="155"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">GIFT TO THE FITZWILLIAM</hi>
+            </title>
+          </head>
+          <p>The Fitzwilliam Museum announces Sir Geoffrey Keynes’ generous gift of <hi rend="i">Ugolino and
+his sons in prison.</hi></p>
+          <figure n="BUT805.1.1.PT" rend="file" width="958" height="730">
+            <head>Blake’s <hi rend="i">Ugolino and his sons in prison.</hi></head>
+            <figDesc>Tempera. The Fitzwilliam Museum</figDesc>
+          </figure>
+          <figure n="GolgonoozaPress.13.3.bqscan" rend="file" width="250" height="72">
+          	<figTranscr>Golgonooza Press<lb/>
+          	3, Cambridge Drive<lb/>
+          	Ispwich, IP2 9EP</figTranscr>
+          </figure>
+          <p>Brian Keeble runs the Golgonooza Press, which publishes a list of several books and booklets of
+poetry and criticism including, for instance, Kathleen Raine’s Berkeley Lecture at Trinity College, Dublin,
+in 1975, “Berkeley, Blake, and the New Age.” The Press describes itself as follows:
+<q>
+Golgonooza Press was founded in 1972 with the objective of publishing works of poetry and prose which, by
+their spirit and understanding, foster a <hi rend="i">rapport</hi> between the spiritual criteria of the
+sacred traditions and the concerns of the practising, contemporary artist.<lb/>
+<lb/>
+The Press borrows its name from William Blake’s divine City of Arts and Crafts. Its distinctive lettering is
+adapted from Blake’s own style in the Prophetic Books. Its emblem is derived from a graphic representation
+of the City of Golgonooza and analogously points to the ancient traditions of the East, a coincidence that
+happily parallels the scope and policy of the Press.<lb/>
+<lb/>
+Each publication will be individually designed to a high standard and where appropriate a limited number of
+copies will be signed by the author concerned.<lb/>
+<lb/>
+“Travellers to Eternity pass inward to Golgonooza.” (MILTON 17:30)
+</q>
+A catalogue of publications is available upon request.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

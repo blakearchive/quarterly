@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.3.sotheby</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Sotheby’s: Copy C of The [First] Book of Urizen</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.3</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-3-0003">
+					<pb id="p04-69" n="69"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">SOTHEBY’S: COPY C OF <hi rend="u">THE [FIRST] BOOK OF URIZEN</hi>
+                            </hi>
+                        </title>
+                    </head>
+                    <p>From <hi rend="i">Sotheby’s Catalogue / of / Valuable Printed Books / and / a Few
+Manuscripts / from the renowned Library / Formerly at Britwell Court / Burnam, Bucks / The Property of the
+Trustees of the Late S. R. Christie-Miller, Esq.:</hi>
+                    </p>
+                    <table rows="1" cols="3">
+                        <row>
+                            <cell>First Day</cell>
+                            <cell>16</cell>
+                            <cell>Monday, 29th March, 1971</cell>
+                        </row>
+                    </table>
+                    <p>35 Blake (William) The First Book of Urizen, <hi rend="i">25 plates on 25
+unwatermarked</hi>
+                        <pb id="p04-70" n="70"/>
+                        <hi rend="i">leaves (of 28—without plates 7, 8 and 16), PRINTED IN BRILLIANT COLOURS
+with thick opaque pigments and finished in places with watercolour washes, the text printed in sepia (first 2
+plates) and green, brown morocco gilt, g.e., by Francis Bedford, the Gaisford copy (sale in our rooms 23 April
+1890, lot 191) 4to (303 mm by 240 mm) Lambeth, printed by Will. Blake, 1794</hi>
+                    </p>
+                    <p>
+                        *⁎*Copy C in Keynes &amp; Wolf’s census (<hi rend="i">William Blake’s
+Illuminated Books</hi>, New York, 1953), where seven copies (and two fragments) are recorded: of these only
+two are complete, this being the only other copy which contains plate 4 (“Muster around the bleak desarts 
+. . . ”).</p>
+                    <p>The word “First” appears in the title, Preludium, and in the colophon; the lines “The
+web is a female in embrio . . . ” (plate 25) and “All the seven deadly sins of the soul” (plate 4) are not
+erased.</p>
+                    <p>Bound in after the title-page is another impression of plate 2 (Preludium), with the
+words “Preludium to the first book of” painted out, and with a painted border surrounding the figures added by
+Blake, who has also delicately heightened the figures with pen and brush; this plate is on different paper and
+is inlaid to size.</p>
+                    <p>[<hi rend="i">See</hi> Colour Plate]</p>
+                    <p>The colour plate referred to is a handsome full-page reproduction of the picture of the
+crouching Urizen which is plate 4 in the Trianon Press facsimile (of the Rosenwald copy).</p>
+                    <p>Our thanks to Professor James Hart, Director of the Bancroft Library, for bringing this
+item to our attention.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

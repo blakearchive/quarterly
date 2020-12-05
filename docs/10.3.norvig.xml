@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.norvig</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Carolyn Keay, William Blake Selected Engravings</title>
+        <author n="Norvig">Gerda Norvig</author>
+        <author n="Schotz">Myra Glazer Schotz</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-3-0005">
+		<pb id="p10-90" n="90"/>
+        <div2>
+          <head>
+            <title type="main">Carolyn Keay. <hi rend="b">William Blake Selected Engravings.</hi> London:
+Academy Editions. New York: St. Martin’s Press, 1975. 84 pp., 4 colorplates. $16.95 hardbound, $9.95
+paper.</title>
+          </head>
+          <byline>Reviewed by <docAuthor>Gerda <name>Norvig</name></docAuthor> and <docAuthor>Myra Glazer
+<name>Schotz</name></docAuthor></byline>
+          <p>The blurb on the back cover of <hi rend="i">William Blake Selected Engravings</hi> suggests we
+are in for a treat. In addition to a sampling “from almost all the artist’s major projects”—from most of
+the poems and prophecies and from the illustrations for Stedman, Hayley, Blair, Thornton’s Virgil and the
+Book of Job—this volume, we are told, contains “a small number of engravings by contemporary craftsmen after
+original designs by Blake.”</p>
+          <p>What a letdown when you open the book! Practically every selection from the illuminated canon has
+been retouched, redrawn, or re-engraved in so crude and careless a manner one needn’t wonder at the
+anonymity of the “craftsmen.” Furthermore, the renderings, as it turns out, are contemporary neither to Blake
+nor to us, for the bulk of them to have been photographed from a stash of awkward, nineteenth-century
+facsimiles now in the Victoria and Albert Museum. Robert Essick, our informant on sources, claims the most
+shockingly altered designs are from an 1876 lithographic adaptation, the authorship of which has never been
+acknowledged or determined. Occasionally a composition from that collection is a successful cartoon in its own
+right, as is the case with some of the radical simplifications of plates from <hi rend="i">Urizen.</hi> But to
+omit proper identification of both the medium and the source, which is Keay’s wont, and to pass such work
+off as Blake’s, is at best a gross disservice to the newcomer seeking acquaintance with Blake’s authentic
+vision. Only Schiavonetti’s 1808 engravings for <hi rend="i">The Grave</hi> are duly captioned as “after
+original designs by Blake”—an admission which might well have the adverse effect of convincing a beginner
+everything else is unadulterated.</p>
+          <p>Unconscionable editorial flaws of this kind are matched by others of a technical and scholarly
+nature. An abridged group of the Job engravings, haphazardly arranged, appear in murky reproductions that
+convey little of the special characteristics of line for which they are justly famous. And why, in a book
+called “Selected Engravings,” do renditions of watercolor drawings so frequently show up? Blake’s Gray is
+here, along with a color illustration—not an engraving—for Young’s <hi rend="i">Night Thoughts.</hi>
+More puzzling still is the substitution of watercolor studies for three of Blake’s finest engravings in the
+closing section of the book where a run of Dante drawings is featured. This total neglect of Blake’s last
+and possibly greatest achievement in the very medium with which Keay is supposedly concerned, epitomizes the
+problems of the entire collection.</p>
+          <p>Even with four color plates, the book is outrageously priced at $16.95 in hardcover, $9.95
+paper.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

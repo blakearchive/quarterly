@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.3.raine</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">The Crested Cock</title>
+				<author n="Raine">Kathleen Raine</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>December 15, 1967</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1967</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.3</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>S. Foster Damon</name>
+                            <name>Alvin H. Rosenfeld</name>
+                            <name>Laurence Goldstein</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+        <body>
+            <pb id="p01-9" n="9"/>
+            <div1 id="BQ-01-3-0005">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NOTES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">1. The Crested Cock</title>
+                    </head>
+                    <byline>
+                        <docAuthor>Kathleen <name>Raine</name>
+                        </docAuthor> London</byline>
+                    <p>Blake’s obscurities are not to be resolved by guesses, however inspired; in almost
+every case there is a key that fits the lock, which opens easily to the right combination. One puzzle which
+no-one so far as I know has solved is “the crested Cock” who in <hi rend="u">Milton</hi> 28: 24 (K. 515)
+terrifies the Spectres into incarnation. The passage is:
+<q>
+They contend with the weak Spectres, they fabricate soothing forms.<lb/>
+The Spectre refuses, he seeks cruelty: they create the crested Cock.<lb/>
+Terrified the Spectre screams &amp; rushes in fear into their Net<lb/>
+Of kindness &amp; compassion, &amp; is born a weeping terror.<lb/>
+Or they create the Lion &amp; Tyger in compassionate thunderings:<lb/>
+Howling the Spectres flee: they take refuge in Human lineaments.
+</q>
+In my forthcoming book I wrote as follows:
+<q>
+It is hard to know what was in Blake’s mind in this image of the People of Dreams frightened into generation
+by the crowing of a cock, image of resurrection; perhaps the folk belief that the dead must return to their
+graves at cock-crow, whether Hamlet’s kingly ghost or the three sons of the Wife of Usher’s Well: ‘Then
+up and crew the red, red cock/ And up and crew the grey.’ Another, and perhaps more likely, source is the
+cock of Odin, described in a passage quoted by Macpherson in his <hi rend="u">Introduction to the History OF
+Great Britain and Ireland</hi>: ‘A cock, with a crest of gold, crows every morning in the presence of the
+Gods. He awakes the heroes to battle before Odin the father of armies. They rush, armed and clothed, to the
+field and slay one another with mutual wounds. These deaths, however, are only temporary. The power of Odin
+revives the slain.’ If this fine image lies behind Blake’s ‘crested cock’ the myth of the specters is
+again brought into the context of reincarnation.
+</q>
+                    </p>
+                    <p>Since writing this I have come upon another interesting passage relating to the cock,
+which Blake might have seen, for it occurs in the first volume of Thomas Taylor’s Plato (1804), p. 65. It is
+an extract from Proclus’ Dissertation on Magic, quoted by Taylor in his notes to the First Alcibiades:
+<q>
+. . . There are many solar animals, such as lions and cocks, which participate, according to their nature, of
+a certain solar divinity; whence it is wonderful how much inferiors yield to superiors in the same order,
+though they do not yield in magnitude and power. Hence, they report that a cock is very much feared, and as it
+were reverenced, by a lion; the reason of which we cannot assign from matter or sense, but from the
+contemplation alone of a supernal order: for thus we shall find that the presence
+<pb id="p01-10" n="10"/>
+of the solar virtue accords more with a cock than with a lion. This will be evident from considering that the
+cock, as it were, with certain hymns, applauds and calls to the rising sun, when he bends his course to us
+from the antipodes; and that solar angels sometimes appear in forms of this kind, who, though they are without
+shape, yet present themselves to us, who are connected with shape, in some sensible form. Sometimes too, there
+are daemons with a leonine front, who, when a cock is placed before them, unless they are of a solar order,
+suddenly disappear; and this, because those natures which have an inferior rank in the same order, always
+reverence their superiors.
+</q>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

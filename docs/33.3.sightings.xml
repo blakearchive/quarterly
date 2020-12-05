@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>33.3.sightings</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Sightings</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1999/2000</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1999/2000</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">33.3</biblScope>
+            <biblScope unit="volume">33</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>John E. Grant</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1999/2000"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_33">
+    <body>
+      <div1 id="BQ-33-3-0007">
+      	<pb id="p33-95" n="95"/>
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">Blake Sightings</hi>
+            </title>
+          </head>
+          <p>“On the other hand, capitalism is inherently Darwinian, and a just
+                        society must provide a safety net for the poor. While intrusion by
+                        government into the market should be as minimal as possible, it is ethically
+                        imperative to monitor working conditions, product safety and environmental
+                        integrity. My lifelong scriptural texts are William Blake’s radical
+                        poems “The Chimney Sweeper” and “London”
+                        (discussed in my first book), which heartbreakingly dramatize the disparity
+                        between the powerful and the powerless in newly industrialized, polluted
+                        England.” From Camille Paglia’s <hi rend="i">Salon</hi> column
+                        of 8 December 1999.</p>
+          <p>“William Blake was a painter, printmaker, and poet who was convinced
+                        his poetry far surpassed his art. In the 20th century, it’s the art
+                        that’s considered more important.” Thomas Hoving, former
+                        director of the Metropolitan Museum, in <hi rend="i">Art for Dummies</hi>
+                        (IDG Books, 1999): 141. Try the <hi rend="i">Idiot’s Guide</hi>?</p>
+          <p>“William Blake for goodness sake.” The Montana Logging and
+                        Ballet Company reviews the last one thousand years of human history. Weekend
+                        Edition—Sunday, National Public Radio, 2 January 2000.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

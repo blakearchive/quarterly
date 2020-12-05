@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.1</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Pam Blair</name>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Martin K. Nurmi</name>
+              <name>Judith Page</name>
+              <name>Morton D. Paley</name>
+              <name>Henry Summerfield</name>
+              <name>Joseph Wittreich</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <front>
+      <pb id="p15-1-2" n="1-2"/>
+        <div1 id="cover">
+            <figure n="cover.015.01.bqscan" rend="file" width="258" height="334">
+                <figTranscr>Blake<lb/>
+                    AN ILLUSTRATED QUARTERLY 57<lb/>
+                    Volume 15<lb/>
+                    Number 1<lb/>
+                    Summer 1981</figTranscr>
+            </figure>
+        </div1>
+      <div1 id="BQ-15-1-0001">
+        <table id="contents" rows="16" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.essick">New Information on Blake’s Illuminated
+Books</ref><lb/>
+ by Robert N. Essick</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.summerfield">Blake and the Names Divine</ref><lb/>
+ by H. Summerfield</cell>
+            <cell>14</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.paley">A Victorian Blake Facsimile</ref><lb/>
+ by Morton D. Paley</cell>
+            <cell>24</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Romantic Context: Poetry<lb/>
+ Garland Facsimiles Selected and Arranged by
+                            Donald H. Reiman</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.page">1 The Garland Facsimiles of the Poetry of James
+Montgomery</ref><lb/>
+ Reviewed by
+                            Judy Page</cell>
+            <cell>28</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.hilton">2 The Garland Facsimiles of the Poetry of Erasmus
+Darwin</ref><lb/>
+ Reviewed by
+                            Nelson Hilton</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.wittreich">3 The Garland Facsimiles of the Poetry of William
+Hayley</ref><lb/>
+ Reviewed by
+                            Joseph Wittreich</cell>
+            <cell>48</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.nurmi">Kathleen Raine, <hi rend="i">Blake and the New
+Age</hi></ref><lb/>
+ Reviewed by
+                            Martin K. Nurmi</cell>
+            <cell>51</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.doerrbecker">Fuseli, The Swiss, And The British: Some Recent
+Publications</ref><lb/>
+ Reviewed by
+                            Detlef W. <corr type="emend">Dörrbecker</corr></cell>
+            <cell>53</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.worrall">The Marlborough College Production of 
+<hi rend="i">The Ghost of
+                            Abel</hi></ref><lb/>
+ Reviewed by David Worrall</cell>
+            <cell>56</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">DISCUSSION</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="15.1.erdman">Let the Dead Ardours Live!</ref><lb/>
+ by David V. Erdman</cell>
+            <cell>58</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell>59</cell>
+          </row>
+          <row>
+          	<cell>
+          	  <supplied type="emend">
+          	  <ref type="article" issue="15.1.mla">Blake at MLA in 1981</ref>, 
+          	  <ref type="article" issue="15.1.query">Query</ref>, 
+          	  <ref type="article" issue="15.1.songs">Songs Copy h</ref>
+          	  </supplied>
+          	</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-15-1-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>DETLEF W. <corr type="emend">DÖRRBECKER</corr> is an Associate Lecturer in the history of art at
+Trier
+                    University. Currently he is trying hard to get together a study of
+                    Blake’s principles of color composition.</p>
+        <p>DAVID V. ERDMAN’S new edition of Blake’s poetry and prose
+                    is scheduled for publication in November. A facsimile of <hi rend="i">The Four
+                        Zoas</hi> (with commentary), co-edited with Cettina Magno, is in press.</p>
+        <p>ROBERT N. ESSICK is Professor of English at the University of California,
+                    Riverside. His catalogue of Blake’s separate plates is forthcoming
+                    from Princeton Univ. Press.</p>
+        <p>NELSON HILTON’S “Blake in the Chains of Being”
+                    should be appearing in the current issue of <hi rend="i">The Eighteenth Century:
+                        Theory and Interpretation.</hi></p>
+        <p>MARTIN K. NURMI teaches at Kent State University.</p>
+        <p>JUDITH PAGE is an Assistant Professor of English at Millsaps College.</p>
+        <p>MORTON D. PALEY is co-author, with Robert N. Essick, of <hi rend="i">Robert
+                        Blair’s</hi> The Grave <hi rend="i">with the Illustrations of
+                        William Blake: a Study with Facsimile</hi> (London: Scolar Press, 1981).</p>
+        <p>HENRY SUMMERFIELD teaches English at the University of Victoria, B. C., and is
+                    the author of <hi rend="i">That Myriad-minded Man: A Biography of George William
+                        Russell “A.E.”</hi> and <hi rend="i">An Introductory Guide
+                        to</hi> The Anathemata <hi rend="i">and the</hi> Sleeping Lord <hi rend="i">Sequence
+of David Jones.</hi></p>
+        <p>JOSEPH WITTREICH (Professor of English at the University of Maryland, College
+                    Park) is the author of <hi rend="i">Angel of Apocalypse</hi> and <hi rend="i">Visionary
+Poetics.</hi></p>
+        <p>DAVID WORRALL teaches in Newcastle Upon Tyne. His article on Blake’s
+                    imagery of the stars will be appearing in <hi rend="i">Bulletin of Research in
+                        the Humanities.</hi><p>Cover: <hi rend="i">Milton</hi>, pl.
+                        13. Separate impression, previously unrecorded. White-line etching, 15.9
+                        × 11.1 cm., second state, printed in three colors. Philadelphia
+                        Museum of Art.</p>
+	<note type="unreferenced" place="footer">© Copyright 1981 by Morris
+                        Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+      <pb id="p15-3" n="3"/>
+      <div1 id="BQ-15-1-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of
+                    California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas L. Minnick, Ohio State Univ.</p>
+        <p>REVIEW EDITOR: Nelson Hilton, Univ. of Georgia, Athens.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator,
+                    Department of Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+                    Albuquerque, NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department
+                    of English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L.
+                    Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus,
+                    Ohio 43210.<lb/>
+ Nelson Hilton, Department of English, University of Georgia,
+                    Athens, GA 30602.<lb/>
+ Frances A. Carey, Department of Prints and Drawings
+                    British Museum, Great Russell Street, London WC1B 3DG, England.</p>
+        <figure n="EconomyOfVegetation.15.1.bqscan" rend="file" width="400" height="514">
+          <figTranscr>CONTENTS<lb/>
+          OF<lb/>
+          THE NOTES.<lb/>
+          <lb/>
+          CANTO I.<lb/>
+          ROSICRUSIAN machinery.<lb/>
+          73<lb/>
+          All bodies are immersed in the matter of<lb/>
+          heat. Particles of bodies do not touch each<lb/>
+          other.<lb/>
+          97<lb/>
+          Gradual progress of the formation of the<lb/>
+          earth, and of plants and animals. Monstrous<lb/>
+          births<lb/>
+          101<lb/>
+          Fixed stars approach towards each other,<lb/>
+          they were projected from chaos by explosion,<lb/>
+          and the planets projected from them<lb/>
+          105<lb/>
+          An atmosphere of inflammable air above the<lb/>
+          common atmosphere principally about the poles<lb/>
+          113<lb/>
+          Twilight fifty miles high. Wants further<lb/>
+          observations<lb/>
+          126<lb/>
+          Immediate cause of volcanos from steam<lb/>
+          and other vapours. They prevent greater<lb/>
+          earthquakes<lb/>
+          152<lb/>
+          Conductors of heat. Cold on the tops of<lb/>
+          mountains<lb/>
+          174<lb/>
+          Phosphorescent light in the evening from<lb/>
+          all bodies<lb/>
+          177<lb/>
+          Phosphoric light from calcined shells. Bolognian<lb/>
+          stone. Experiments of Beccari and<lb/>
+          Wilson<lb/>
+          182<lb/>
+          Ignis fatuus doubtful<lb/>
+          189<lb/>
+          Electric Eel. Its electric organs. Compared<lb/>
+          to the electric Leyden phial<lb/>
+          202<lb/>
+          Discovery of fire. Tools of steel. Forests<lb/>
+          subdued. Quantity of food increased by<lb/>
+          cookery<lb/>
+          212<lb/>
+          Medusa originally an hieroglyphic of divine<lb/>
+          wisdom<lb/>
+          218<lb/>
+          Cause of explosions from combined heat.<lb/>
+          Heat given out from air in respiration. Oxygene<lb/>
+          looses less heat when converted into<lb/>
+          nitrous acid than in any other of its combinations<lb/>
+          226<lb/>
+          Sparks from the collision of flints are<lb/>
+          electric. From the collision of flint and steel<lb/>
+          are from the combustion of the steel<lb/>
+          229<lb/>
+          <lb/>
+          Gunpowder described by Bacon. Its<lb/>
+          power. Should be lighted in the centre. A<lb/>
+          new kind of it. Levels the weak and strong<lb/>
+          242<lb/>
+          Steam-engine invented by Savery. Improved<lb/>
+          by Newcomen. Perfected by Watt<lb/>
+          and Boulton<lb/>
+          254<lb/>
+          Divine benevolence. The parts of nature<lb/>
+          not of equal excellence<lb/>
+          278<lb/>
+          Mr. Boulton’s steam-engine for the purpose<lb/>
+          of coining would save many lives from<lb/>
+          the executioner<lb/>
+          281<lb/>
+          Labours of Hercules of great antiquity.<lb/>
+          Pillars of Hercules. Surface of the Mediteranean<lb/>
+          lower than the Atlantic. Abyla and <lb/>
+          Calpe. Flood of Deucalion<lb/>
+          297<lb/>
+          Accumulation of electricity not from friction<lb/>
+          335<lb/>
+          Mr. Bennet’s sensible electrometer<lb/>
+          345<lb/>
+          Halo of saints is pictorial language<lb/>
+          358<lb/>
+          We have a sense adapted to perceive heat<lb/>
+          but not electricity<lb/>
+          365<lb/>
+          Paralytic limbs move by electric influence<lb/>
+          367<lb/>
+          Death of Professor Richman by electricity<lb/>
+          373<lb/>
+          Lightning drawn from the clouds. How<lb/>
+          to be safe in thunder storms<lb/>
+          383<lb/>
+          Animal heat from air in respiration. Perpetual<lb/>
+          necessity of respiration. Spirit of animation<lb/>
+          perpetually renewed<lb/>
+          401<lb/>
+          Cupid rises from the egg of night. Mrs.<lb/>
+          Cosway’s painting of this subject<lb/>
+          413<lb/>
+          Western-winds. Their origin. Warmer<lb/>
+          than south-winds. Produce a thaw<lb/>
+          430<lb/>
+          Water expands in freezing. Destroys succulent<lb/>
+          plants, not resinous ones. Trees in<lb/>
+          valleys more liable to injury. Fig-trees bent<lb/>
+          to the ground in winter<lb/>
+          439<lb/>
+          Buds and bulbs are the winter cradle of<lb/>
+          the plant. Defended from frost and from<lb/>
+          insects. Tulip produces one flower-bulb and<lb/>
+          several leaf-bulbs, and perishes.<lb/>
+          460</figTranscr>
+          <head>Notes, <hi rend="i">The Economy of Vegetation.</hi></head>
+        </figure>
+      </div1>
+      <div1 id="BQ-15-1-0004">
+        <figure n="EconomyVegetationCanto.15.1.bqscan" rend="file" width="400" height="374">
+          <figTranscr>Argument of the First Canto.<lb/>
+          <lb/>
+          THE Genius of the place invites the Goddess of Botany. <lb/>
+          1. She descends, is received by Spring, and the Elements, 59.<lb/>
+          Addresses the Nymphs of Fire. Star-light Night seen in the Camera<lb/>
+          Obscura, 81. I. Love created the Universe. Chaos explodes. All<lb/>
+          the Stars revolve. God. 97. II. Shooting Stars. Lightning.<lb/>
+          Rainbow. Colours of the Morning and Evening Skies. Exterior<lb/>
+          Atmosphere of inflammable Air. Twilight. Fire-balls. Aurora<lb/>
+          Borealis. Planets. Comets. Fixed Stars. Sun’s Orb, 115.<lb/>
+          III. 1. Fires at the Earth’s Centre. Animal Incubation, 137. 2.<lb/>
+          Volcanic Mountains. Venus visits the Cyclops, 149. IV. Heat<lb/>
+          confined on the Earth by the Air. Phosphoric light in the Evening.<lb/>
+          Bolognian Stone. Calcined Shells. Memnon’s Harp, 173.<lb/>
+          Ignis fatuus. Luminous Flowers. Glow-worm. Fire-fly. Luminous<lb/>
+          Sea-insects. Electric Eel. Eagle armed with Lightning,<lb/>
+          189. V. 1. Discovery of Fire. Medusa, 209. 2. The chemical<lb/>
+          Properties of Fire. Phosphorus. Lady in Love, 223. 2. Gun-powder,<lb/>
+          237. VI. Steam-engine applied to Pumps, Bellows,<lb/>
+          Water-engines, Corn-mills, Coining, Barges, Waggons, Flying-chariots,<lb/>
+          253. Labours of Hercules. Abyla and Calpe, 297. VII.<lb/>
+          1. Electric Machine. Hesperian Dragon. Electric kiss. Halo<lb/>
+          round the heads of Saints. Electric Shock. Fairy-rings, 335.<lb/>
+          2. Death of Professor Richman, 371. 2. Franklin draws Lightning</figTranscr>
+          <head><hi rend="i">The Economy of Vegetation</hi>, Canto I.</head>
+        </figure>
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <p>EDITORIAL ASSISTANT IN CHARGE: Susan Corban, Univ. of New Mexico. EDITORIAL
+                    ASSISTANTS: Pam Blair, Wayne Erickson, Wendy Jones, Kris Lackey, James Warwick,
+                    Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the
+                    Department of English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $15.00 for 1 year, 1 volume, 4 issues. Special rates for
+                    individuals, $12.00, surface mail. Air mail subscriptions are $10.00 more than
+                    surface mail subscriptions. U.S. currency or international money order if
+                    possible. Make checks payable to Blake/An Illustrated Quarterly. Address all
+                    subscription orders &amp; related communications to the Circulation Mgr.,
+                    Susan Corban, <hi rend="i">Blake</hi>, Dept. of English, Univ. of New Mexico,
+                    Albuquerque New Mexico 87131 USA.</p>
+        <p>Some BACK ISSUES are available. Address Susan Corban for a list of issues and
+                    prices.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque N.M. 87131;
+                    Morton D. Paley, Dept. of English, Univ. of California Berkeley, California
+                    94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453x. Blake/An Illustrated Quarterly is
+                    INDEXED in the Modern Language Association’s International
+                    Bibliography, the Modern Humanities Research Association’s Annual
+                    Bibliography of English Language and Literature, <hi rend="i">English Language
+                        Notes</hi>’ annual Romantic bibliography, ARTbibliographies
+                    MODERN, American Humanities Index, (Whitson Pub.), and the Arts and Humanities
+                    Citation Index.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>32.3.update</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">William Blake Archive Update</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1998/99</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1998/99</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">32.3</biblScope>
+            <biblScope unit="volume">32</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Eugenie R. Freed</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>J.B. Mertz</name>
+              <name>Jennifer Davis Michael</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1998/9"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_32">
+    <body>
+      <pb id="p32-86" n="86"/>
+      <div1 id="BQ-32-3-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">William Blake Archive Update</hi>
+            </title>
+          </head>
+          <p>The editors of the William Blake Archive 
+                    &lt;http://www.iath.virginia.edu/blake/&gt; are pleased to announce the opening of a major
+new wing of the site, devoted to documentation and supplementary materials “About the Archive.” Available
+as the first entry on our main table of contents page from the URL above, the “About the Archive”
+materials consist of:</p>
+          <p>A brief overview of the Archive for first-time or hurried users, entitled The Archive at a
+Glance; a statement of Editorial Principles and Methodology; a technical summary of the Archive’s design and
+implementation; a Frequently Asked Questions list; a reference page listing articles by members of the project
+team, as well as reviews and notices of the Archive by others; an updated and expanded version of the
+article-length Plan of the Archive, providing additional detail about our intentions with regard to Blake’s
+non-illuminated works.</p>
+          <p>Also included are information about the editors, an account of the editors’ collaboration with
+the Institute for Advanced Technology in the Humanities, and a link to our extensive Help documentation. In
+addition, we will shortly be adding a Tour of the Archive to these materials (combining textual narration,
+graphical screenshots, and suggestions as to how to use the Archive). A complete update can be found at the
+Archive website. [Morris Eaves, Robert N. Essick, and Joseph Viscomi]</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

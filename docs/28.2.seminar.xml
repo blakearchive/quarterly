@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>28.2.seminar</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">NEH Summer Seminar for School Teachers</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1994</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1994</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">28.2</biblScope>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>John E. Grant</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>David Simpson</name>
+              <name>Joseph Viscomi</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1994"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_28">
+    <body>
+      <pb id="p28-79" n="79"/>
+      <div1 id="BQ-28-2-0008">
+        <head>
+          <title type="section">NEWSLETTER</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="i">NEH Summer Seminar For School Teachers</hi>
+            </title>
+          </head>
+          <p>The National Endowment for the Humanities announces a Summer Seminar for School Teachers: Lyric
+and Vision: The Poetry of William Blake. The seminar will be conducted by Nelson Hilton, and will run from 26
+June to 21 July 1995 at the University of Georgia, Athens. Participation is open to full-time or regular
+part-time teachers at public, private, or parochial schools, grades 7 through 12; other school personnel,
+K-12, are also eligible to apply. Those selected to attend will receive stipends of $2,450 to cover expenses.
+For further information or applications, write Nelson Hilton, NEH Seminar, Department of English, University
+of Georgia, Athens, GA 30602, or direct email to nhilton@uga.cc.uga.edu.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

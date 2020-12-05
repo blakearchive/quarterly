@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>11.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1977-1978</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977-1978</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">11.3</biblScope>
+            <biblScope unit="volume">11</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Michael Hays</name>
+              <name>Lynn Goldstein</name>
+              <name>Marietta Barnes</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>W. J. T. Mitchell</name>
+              <name>Edward J. Rose</name>
+              <name>Corlette Walker</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1978"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_11">
+    <front>
+      <pb id="p11-133-134" n="133-134"/>
+                  <div1 id="cover">
+                                <figure n="cover.011.03.bqscan" rend="file" width="258" height="325">
+                                              <figTranscr>Blake<lb/>
+                                                            AN ILLUSTRATED QUARTERLY 43<lb/>
+                                                            Volume Eleven<lb/>
+                                                            Number Three<lb/>
+                                                            Winter 1977-1978</figTranscr>
+                                </figure>
+                  </div1>
+      <div1 id="BQ-11-3-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.3.bentley">A Supplement to <hi rend="i">Blake
+Books</hi></ref><lb/>
+ by G. E. Bentley, Jr.</cell>
+            <cell>136</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">REVIEWS</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.3.essick">G. E. Bentley, Jr.’s <hi rend="i">Blake
+Books</hi></ref><lb/>
+ reviewed
+                            by Robert N. Essick</cell>
+            <cell>178</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="11.3.mitchell">Robert Rosenblum’s 
+<hi rend="i">Modern Painting and the Northern
+                            Tradition: <corr type="emend" rend="plain">Friedrich</corr> to
+Rothko</hi></ref></corr> reviewed by W. J. T. Mitchell</cell>
+            <cell>200</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.3.walker">Raymond Lister’s <hi rend="i">Infernal Methods: A
+Study of William
+                            Blake’s Art Technique</hi></ref> reviewed by Corlette Walker</cell>
+            <cell>203</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="11.3.rose">Victor N. Paananen’s <hi rend="i">William
+Blake</hi></ref><lb/>
+ reviewed
+                            by Edward J. Rose</cell>
+            <cell>205</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">NEWSLETTER</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+            	<ref type="article" issue="11.3.tate">Tate Blake Exhibition</ref>, 
+            	<ref type="article" issue="11.3.egad">Egad!</ref>, 
+            	<ref type="article" issue="11.3.wordsworth">Summer Wordsworth 1978</ref>, 
+            	<ref type="article" issue="11.3.mla">Blake at MLA Chicago</ref>, 
+            	<ref type="article" issue="11.3.wip">Work In Progress</ref>, 
+            	<ref type="article" issue="11.3.albion">Albion Awake!</ref>, 
+            	<ref type="article" issue="11.3.itv">ITV Glad Day</ref>
+            </cell>
+            <cell>207</cell>
+          </row>
+        </table>
+        <figure n="NewsletterTOC.11.3.bqscan" rend="file" width="500" height="369"/>
+      </div1>
+      <div1 id="BQ-11-3-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <figure n="ContributorsTOC.11.3.bqscan" rend="file" width="500" height="702"/>
+        <p>G. E. BENTLEY, JR., of the University of Toronto, is the author of numerous
+                    articles and books on Blake—most recently <hi rend="i">Blake
+                        Books</hi> (1977) and, scheduled for publication later this year, a
+                    two-volume text of Blake’s poetry and prose.</p>
+        <p>ROBERT N. ESSICK, of California State University, Northridge, recently co-edited
+                    with Donald Pearce a collection of essays from the conference on “Blake
+                    in the Art of His Time” held at the University of California, Santa
+                    Barbara, in 1976 (scheduled for publication by Indiana University Press,
+                    1978).</p>
+        <p>W. J. T. MITCHELL, Associate Professor of English at the University of Chicago,
+                    is the author of <hi rend="i">Blake’s Composite Art: A Study of the
+                        Illuminated Poetry</hi> (Princeton, 1978).</p>
+        <p>EDWARD J. ROSE, University of Alberta, is co-editing the Oxford volumes of
+                    reproductions of and commentaries on Blake’s illustrations for
+                    Young’s <hi rend="i">Night Thoughts.</hi></p>
+        <p>CORLETTE WALKER, of the Department of Art, University of California, Santa
+                    Barbara, edited the catalogue for the exhibition of Blake’s work held
+                    in conjunction with the conference on “Blake in the Art of His
+                    Time” at Santa Barbara in 1976. <note type="unreferenced" place="footer">Copyright © 1978
+by Morris Eaves &amp; Morton
+                        D. Paley</note></p>
+      </div1>
+      <pb id="p11-135" n="135"/>
+      <div1 id="BQ-11-3-0003">
+        <head>
+          <title>
+            <hi rend="b">EDITORS</hi>
+          </title>
+        </head>
+        <p>EDITORS: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of
+                    California, Berkeley.</p>
+        <p>BIBLIOGRAPHER: Thomas Minnick, Ohio State University.</p>
+        <p>ASSOCIATE EDITOR FOR GREAT BRITAIN: Frances A. Carey, Assistant Curator,
+                    Department of Prints and Drawings, British Museum.</p>
+        <p>PRODUCTION OFFICE: Morris Eaves, Department of English, University of New Mexico,
+                    Albuquerque, NM 87131, TELEPHONE 505/277-3103.<lb/>
+ Morton D. Paley, Department
+                    of English, University of California, Berkeley, CA 94720.<lb/>
+ Thomas L.
+                    Minnick, University College, Ohio State University, 1050 Carmack Road, Columbus,
+                    Ohio, 43210.<lb/>
+ Frances A. Carey, Department of Prints and Drawings, British
+                    Museum, Great Russell Street, London WC1B 3DG, England.</p>
+        <figure n="EditorsTOC.11.3.bqscan" rend="file" width="500" height="836"/>
+      </div1>
+      <div1 id="BQ-11-3-0004">
+        <head>
+          <title>
+            <hi rend="b">INFORMATION</hi>
+          </title>
+        </head>
+        <figure n="InformationTOC.11.3.bqscan" rend="file" width="500" height="412"/>
+        <p>EDITORIAL ASSISTANTS: Michael Hays, Lynn Goldstein &amp; Marietta Barnes,
+                    Univ. of New Mexico.</p>
+        <p>BLAKE/AN ILLUSTRATED QUARTERLY is published under the sponsorship of the
+                    Department of English, University of New Mexico.</p>
+        <p>SUBSCRIPTIONS are $7 for 1 year, 1 volume, 4 issues. Special rate for
+                    individuals, $6, surface mail. $10 for subscribers overseas who prefer air mail.
+                    U. S. currency or international money order if possible. Make checks payable to
+                    Blake/ An Illustrated Quarterly. Address all subscription orders &amp;
+                    related communications to the Circulation Mgr., Jane Welford, <hi rend="i">Blake</hi>,
+Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131
+                    USA.</p>
+        <p>Some BACK ISSUES are available. Address Jane Welford. Prices: whole numbers 1-8
+                    (bound together), #9-13 (bound together), $5 each (individuals, $4).
+                    #22-present, $2 each, except #35 (Checklist of Blake Material in Rosenwald
+                    Collection, ed. Ruth Fine Lehrer), $3. #14-21 are out of print.</p>
+        <p>MANUSCRIPTS are welcome. Send two copies, typed and documented according to the
+                    forms suggested in the MLA Style Sheet, 2nd ed., to either of the editors:
+                    Morris Eaves, Dept. of English, Univ. of New Mexico, Albuquerque, NM 87131;
+                    Morton D. Paley, Dept. of English, Univ. of California, Berkeley, CA 94720.</p>
+        <p>INTERNATIONAL SERIAL NUMBER is 0006-453X. Blake/ An Illustrated Quarterly, is
+                    INDEXED in the Modern Language Association’s International
+                    Bibliography, the Modern Humanities Research Association’s Annual
+                    Bibliography of English Language and Literature, <hi rend="i">English Language
+                        Notes</hi>’ annual Romantic bibliography, and ARTbibliographies
+                    MODERN.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

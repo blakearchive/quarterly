@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>23.1.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1989</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1989</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">23.1</biblScope>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>D.W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Robert Essick</name>
+              <name>Michael Fischer</name>
+              <name>Terence Allan Hoagwood</name>
+              <name>Marsha Keith Schuchard</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1989"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_23">
+    <front>
+      <pb id="p23-1-2" n="1-2"/>
+      <div1 id="cover">
+        <figure n="cover.023.01.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 23<lb/>
+            NUMBER 1<lb/>
+            SUMMER 1989</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-23-1-0001">
+        <table id="contents" rows="9" cols="2">
+          <row>
+            <cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">CONTENTS</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">ARTICLES</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="23.1.essick">Blake in the Marketplace, 1988</ref><lb/>
+by Robert N. Essick</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="23.1.schuchard">Blake’s Healing Trio: Magnetism, Medicine, and
+Mania</ref><lb/>
+by Marsha Keith Schuchard</cell>
+            <cell>20</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">REVIEWS</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="23.1.fischer">Jerome J. McGann. 
+<hi rend="i">Social Values and <corr type="emend" rend="plain">Poetic</corr> Acts</hi></ref>,</corr> reviewed by
+Michael Fischer</cell>
+            <cell>32</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="23.1.hoagwood">Rodney M. Baine, <hi rend="i">The Scattered
+Portions: William Blake’s Biological Symbolism</hi></ref>, reviewed by Terence Allan Hoagwood</cell>
+            <cell>39</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">NEWSLETTER</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+            	<ref type="article" issue="23.1.news"><hi rend="i">New Newsletter</hi></ref>, 
+            	<ref type="article" issue="23.1.last"><hi rend="i">Last Chance</hi></ref>, 
+            	<ref type="article" issue="23.1.costs"><hi rend="i">Blake Costs!</hi></ref>, 
+            	and <ref type="article" issue="23.1.worm"><hi rend="i">The Cut Worm Forgives the Plow</hi></ref>
+            </cell>
+            <cell>42</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-23-1-0002">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">CONTRIBUTORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">ROBERT ESSICK</hi>, Professor of English, University of California at Riverside, is
+the author of <hi rend="i">William Blake and the Language of Adam</hi> (Oxford, 1989) and <hi rend="i">William
+Blake’s Commercial Book Illustrations</hi> (forthcoming).</p>
+        <p><hi rend="b">MICHAEL FISCHER</hi>, Professor of English, University of New Mexico, is the author of
+<hi rend="i">Stanley Cavell and Literary Skepticism</hi> (U of Chicago P, 1989).</p>
+        <p><hi rend="b">TERENCE ALLAN HOAGWOOD</hi>, Associate Professor of English at Texas A &amp; M
+University, is currently a Fellow of the Interdisciplinary Group for Historical Literary Study. His latest
+book is <hi rend="i">Skepticism and Ideology: Shelley’s Political Prose and Its Philosophical Context from
+Bacon to Marx</hi> (1988).</p>
+        <p><hi rend="b">MARSHA KEITH SCHUCHARD</hi> draws on private archives and libraries in many countries
+to document multinational links of eighteenth-century Freemasonry and its influence on William Blake’s
+circle; she is completing her book <hi rend="i">The Men of Desire: Swedenborg, Blake, and Illuminist
+Freemasonry.</hi>
+	<note type="unreferenced" place="footer">© 1989 Morris Eaves and Morton D. Paley</note></p>
+        <figure n="DonkeyMan.23.1.bqscan" rend="file" width="250" height="332"></figure>
+      </div1>
+      <pb id="p23-3" n="3"/>
+      <div1 id="BQ-23-1-0003">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">EDITORS</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> Detlef W. Dörrbecker, Universität Trier, West Germany.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627, <hi rend="b">Telephone</hi> 716/275-3820.<lb/>
+Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.<lb/>
+Detlef W. Dörrbecker, Universität Trier, FB III Kunstgeschichte, Postfach 3825, 5500 Trier, West
+Germany.<lb/>
+Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.<lb/>
+David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX, England.</p>
+        <figure n="LyingDownDetail.23.1.bqscan" rend="file" width="250" height="329"></figure>
+      </div1>
+      <div1 id="BQ-23-1-0004">
+        <head>
+          <title>
+            <hi rend="b">
+              <hi rend="i">INFORMATION</hi>
+            </hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill.</p>
+        <p><hi rend="b">Blake / An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $30 for institutions, $20 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $6 per volume postal surcharge for surface mail, a $15 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake / An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Please send floppy disks if your manuscript was typed on a word processor, and
+note the name of the computer, the word processing system used, and the file name of your article.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0006-453x. <hi rend="i">Blake / An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">English Language Notes</hi>’ annual Romantic Bibliography, American Humanities
+Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+    <body>
+    	<pb id="p23-44" n="44"/>
+    	<div1>
+    		<div2>
+    			<div3 type="in-memoriam">Albert S. Roe<lb/>
+    			1914-1988</div3>
+    		</div2>
+    	</div1>
+    </body>
+  </text>
+</TEI.2>

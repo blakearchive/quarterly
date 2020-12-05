@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.1.mla</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">MLA Seminar</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>August 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.1</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editors</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Andrew Griffin</name>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Patricia Pelfrey</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+        <pb id="p04-2" n="2"/>
+            <div1 id="BQ-04-1-0004">
+                <head>
+                    <title type="section">
+                        <hi rend="u">NEWS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">MLA Seminar</title>
+                    </head>
+                    <p>There will again be a seminar on Blake at this year’s MLA meeting in New York. The
+subject will be “Some Problems in Interpreting Blake’s Designs for <hi rend="u">L’Allegro</hi> and 
+<hi rend="u">Il Penseroso</hi>.” John E. Grant will initiate the discussion; the chairman will be Morton Paley.
+Participants will find it convenient to bring with them a copy of <hi rend="u">Blake: The Mystic Genius</hi>
+by Adrian Van Sinderen (Syracuse, 1949), or John Milton, <hi rend="u">Poems in English</hi>, ed. Geoffrey
+Keynes (Bentley-Nurmi no. 314). The former has color reproductions of the pictures, the latter black-and-white
+ones. The pictures are also reproduced, much diminished, in E.J. Rose, “Blake’s Illustrations for 
+<hi rend="u">Paradise Lost</hi>, <hi rend="u">L’Allegro</hi>, and <hi rend="u">Il Penseroso</hi>: A Thematic
+Reading,” <hi rend="u">Hartford Studies in Literature</hi>, II, 1 (Spring 1970), 40-67.</p>
+                    <p>Some background reading which may also be of interest:</p>
+                    <p>Marcia M. Pointon, <hi rend="u">Milton and English Art</hi> (Manchester, 1970).</p>
+                    <p>John E. Grant, “The Haunted Stream at Sun-Set,” <hi rend="u">Blake’s Visionary Forms
+Dramatic</hi>, eds. Erdman and Grant (Princeton, 1970); also briefer remarks by E.J. Rose in the concluding
+article of the same volume [forthcoming in November].</p>
+                    <p>Geoffrey Keynes, ed., <hi rend="u">The Engravings of William Blake: The</hi> Separate
+Plates (Dublin, 1956), for the two engraved states of the first design for <hi rend="u">L’Allegro</hi>.</p>
+                    <p>The precise time and place of the seminar are not yet known; it will probably be held
+on the morning of December 28th or 29th. Those wishing to participate should write directly to Morton Paley,
+c/o the English Department at Berkeley, who will send out a notice giving the necessary information.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

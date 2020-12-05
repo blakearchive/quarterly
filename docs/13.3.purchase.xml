@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.3.purchase</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Blake Purchase</title>
+        <author n="Butlin">Martin Butlin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1979-1980</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979-80</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.3</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Morris Eaves</name>
+              <name>E.B. Murray</name>
+              <name>David Simpson</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979-1980"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-154" n="154"/>
+      <div1 id="BQ-13-3-0009">
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE PURCHASE</hi>
+            </title>
+          </head>
+          <p>The Tate Gallery has recently purchased Blake’s late tempera painting on a panel of “Winter.”
+This is one of the pair of pictures illustrating William Cowper’s poem <hi rend="i">The Task</hi> that were
+painted for Cowper’s cousin, the Rev. John Johnson, to be set each side of his fireplace. A third painting,
+a landscape of “Olney Bridge,” ran across the top, but has been destroyed. These pictures were almost
+certainly painted in the early 1820s, following the rebuilding of Johnson’s rectory at Yaxham, Norfolk, in
+1820-21, and remained in the possession of Johnson’s descendants until their recent sale, having been on
+loan to the Tate Gallery for the last few years. When sold at Sotheby’s on 18 July 1979, “Winter” fetched
+£30,000 while the companion “Evening” fetched £21,000. Both were bought by Thos. Agnew &amp; Sons, Ltd., the
+first for the Tate Gallery, the second for a private American collector.</p>
+          <byline><docAuthor>MARTIN <name>BUTLIN</name>,</docAuthor> KEEPER OF THE BRITISH COLLECTION, TATE
+GALLERY, LONDON.</byline>
+          <figure n="BUT808.1.1.PT" rend="file" width="327" height="1000">
+            <head><hi rend="i">Winter</hi>, c. 1820-25.</head>
+            <figDesc>Tempera on pine, 90.2 × 29.7 cm. The Tate Gallery.</figDesc>
+          </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

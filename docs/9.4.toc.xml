@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>9.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">09.4</biblScope>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistants</resp>
+              <name>Virginia Masi</name>
+              <name>Jean Stalker</name>
+              <resp>Circulation Manager</resp>
+              <name>Debra Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_09">
+    <front>
+      <pb id="p09-89-91" n="89-91"/>
+      <div1 id="cover">
+        <figure n="cover.009.04.bqscan" rend="file" width="258" height="335">
+          <figTranscr>Blake<lb/>
+            Newsletter 36<lb/>
+            John Wright on Blake’s Relief Etching</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-09-4-0001">
+        <table id="contents" rows="21" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>CONTENTS</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>NEWS</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="9.4.erratum">Erratum: Blake Slides</ref>, 
+              <corr type="emend"><ref type="article" issue="9.4.museum">British Museum Blake 
+<supplied type="emend" rend="plain">Slides,</supplied></ref></corr>
+              <ref type="article" issue="9.4.annual">New Annual</ref>, 
+              <ref type="article" issue="9.4.constable">Constable in Milwaukee</ref>, 
+              <ref type="article" issue="9.4.cards">Blake Cards</ref>, 
+              <ref type="article" issue="9.4.albion">Albion Awake</ref>, 
+              <ref type="article" issue="9.4.faerie">The Characters of Spenser’s <hi rend="i">Faerie
+Queene</hi></ref>, 
+              <ref type="article" issue="9.4.mla">1976 MLA Blake Seminar</ref>, 
+              <ref type="article" issue="9.4.exchange">Faculty Exchange Center</ref>, 
+              <ref type="article" issue="9.4.percival">Milton O. Percival 1883-1975</ref>, 
+              <ref type="article" issue="9.4.bulletin">The NYPL <hi rend="i">Bulletin</hi> Summer 1975</ref>, 
+              <ref type="article" issue="9.4.colby"><hi rend="i">Colby Library Quarterly</hi></ref>, 
+              <ref type="article" issue="9.4.wip">Work in Progress</ref>, 
+              <ref type="article" issue="9.4.bibliographer"><hi rend="i">Newsletter</hi> Bibliographer</ref>
+            </cell>
+            <cell>92</cell>
+          </row>
+          <row>
+            <cell>NOTES</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.wright">Blake’s Relief-Etching Method</ref> by John W.
+Wright</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.pignard">Blake in French: An Interview with Pierre
+Leyris</ref> Translated by Simone Pignard</cell>
+            <cell>115</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.baine">Blake’s Sketch for <hi rend="i">Hamlet</hi></ref> by
+Rodney M. and Mary R. Baine</cell>
+            <cell>117</cell>
+          </row>
+          <row>
+            <cell>QUERY</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.dorrbecker"><hi rend="i">Gates of Paradise</hi> and
+Quarles’ <hi rend="i">Emblems</hi></ref> by Detlef <corr type="emend">Dörrbecker</corr></cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell>DISCUSSION</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.murray">1974 Blake Seminar</ref> by E. B. Murray</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell>MINUTE PARTICULARS</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.adlard">“Fields from Islington to Marybone”</ref> by John
+Adlard</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.lister">Blake’s Appearance in a Textbook on Insanity</ref>
+by Raymond Lister</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.eaves">Postscript: Blake’s Abnormal Psychology</ref> by
+Morris Eaves</cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.warner">A Contemporary Reference to Blake</ref> by Janet
+Warner</cell>
+            <cell>122</cell>
+          </row>
+          <row>
+            <cell>REVIEWS</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.erdman">Two Reproductions of <hi rend="i">America</hi></ref>
+reviewed by David V. Erdman</cell>
+            <cell>123</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.tannenbaum">Mark Roberts’ <hi rend="i">Tradition of
+Romantic Morality</hi></ref> reviewed by Leslie Tannenbaum</cell>
+            <cell>126</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.parisi">The Oothoon Dance Theatre production of “The Mental
+Traveller”</ref> reviewed by Frank Parisi</cell>
+            <cell>128</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="9.4.gleckner">Josephine Miles’ <hi rend="i">Poetry and
+Change</hi></ref> reviewed by Robert Gleckner</cell>
+            <cell>133</cell>
+          </row>
+        </table>
+        <corr type="emend" rend="plain">
+        <p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published four times a year
+under the sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, Boston University.</p>
+        <p>Bibliographer: Thomas Minnick, Ohio State University.</p>
+        <p>Associate Editor for Great Britain: Frances A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Editorial Assistants: Virginia Masi and Jean Stalker, University of New Mexico.</p>
+        <p>Circulation Manager: Debra Sackett, University of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the <hi rend="i">MLA Style Sheet</hi>, 2nd ed., to either of the editors: Morris Eaves, Dept. of English,
+Univ. of New Mexico, Albuquerque NM 87131; Morton D. Paley, Dept. of English, Boston Univ., Boston Mass.
+02215.</p>
+        <p>Subscriptions are $5 for one year, one volume, four issues. Special rate for individuals, $4 for
+one year, surface mail. For subscribers overseas who want to receive their issues by air mail, $8. U.S.
+currency or international money order if possible. Make checks payable to the Blake Newsletter. Address all
+subscription orders and related communications to Debra Sackett, Blake Newsletter, Univ. of New Mexico,
+Albuquerque NM 87131.</p>
+        <p>Some back issues are available. Address Debra Sackett. Prices: whole numbers 1-8, bound together,
+whole numbers 9-13, bound together, $5 each (special rate for individuals, $4). Whole numbers 22, 23, 24, 25,
+26, 27, 28, 32, 33, 34, $2 each. Whole number 20 (A Handlist of Works by William Blake in the Department of
+Prints &amp; Drawings of the British Museum, edited by G. E. Bentley, Jr.), and whole number 35, $3. Whole
+numbers 14-19 are out of print.</p>
+        <p>The International Standard Serial Number of the <hi rend="i">Blake Newsletter</hi> is
+0006-453X.</p>
+        <p><corr type="emend">Design and layout for this issue: Virginia Masi and Jean Stalker, University of New Mexico.</corr></p>
+		</corr>
+        <p>Photographic credits: pp. 100, 101, 102, 103, 104, Syndics of the Fitzwilliam Museum; pp. 105, 109,
+National Gallery of Art, Rosenwald Collection; p. 111, Library of Congress, Rosenwald Collection; p. 112,
+National Gallery of Art, Rosenwald Collection; p. 118, Birmingham Museum and Art Gallery, by permission; p.
+119, Trustees of the British Museum. <note type="unreferenced" place="footer">Copyright © 1976 by Morris
+Eaves and Morton D. Paley</note></p>
+      </div1>
+    </front>
+	<body>
+		<pb id="p09-140" n="140"/>
+		<div1>
+			<div2>
+				<div3 type="in-memoriam">MILTON O. PERCIVAL,<lb/>
+				1883-1975</div3>
+			</div2>
+		</div1>
+	</body>
+  </text>
+</TEI.2>

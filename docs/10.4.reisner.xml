@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.4.reisner</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">Folcroft Facsimile of the Songs</title>
+        <author n="Reisner">Mary Ellen Reisner</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.4</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Brad Hayden</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Tom Dargan</name>
+              <name>Raymond H. Deck, Jr.</name>
+              <name>George Goyder</name>
+              <name>Mary Lynn Johnson-Grant</name>
+              <name>Christopher Heppner</name>
+              <name>Edward Terry Jones</name>
+              <name>Martin K. Nurmi</name>
+              <name>Mary Ellen Reisner</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Harry White</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <pb id="p10-130" n="130"/>
+      <div1 id="BQ-10-4-0006">
+        <head>
+          <title type="section">
+            <hi rend="b">DISCUSSION</hi>
+          </title>
+          <title type="section-subtitle">
+            <hi rend="b">WITH INTELLECTUAL SPEARS &amp; LONG WINGED ARROWS OF THOUGHT</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">FOLCROFT FACSIMILE OF THE <hi rend="i">Songs</hi></hi>
+            </title>
+          </head>
+          <byline>
+            <docAuthor>
+              <hi rend="b">MARY ELLEN</hi>
+              <name>
+                <hi rend="b">REISNER</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>Mary Lynn Johnson’s article “Choosing Textbooks for Blake Courses: A Survey &amp; Checklist,”
+in <hi rend="i">Blake Newsletter</hi> 37 will have been read with attention and her annotations to listed
+volumes, “negative entries as well as positive ones,” studied with interest. Such a survey supplies a clear
+need among teachers of Blake. One positive listing, however, should have contained a cautionary comment and
+should, I think, be put right. Under Section VI, “Facsimiles &amp; Reproductions Inexpensive Enough for
+Classroom Use,” Johnson lists the Folcroft facsimile of the <hi rend="i">Songs</hi> as “Well-printed from the
+uncolored posthumous copy (b) in the Houghton Library.” The facsimile is, in fact, anything but reliable, its
+worst error being the unwarranted alteration of Blake’s text of “The Blossom” so that the line “Near my
+Bosom” is made to read “Near thy Bosom.” On comparing the Folcroft page with its original in the Houghton
+Library I found that, although broken, the letter <hi rend="i">m</hi> was printed clearly and that the punch
+on the verso followed the contours of the upper edges of the <hi rend="i">m</hi>, precluding the existence of
+any uninked, unprinting portion above. Morton Paley kindly checked other posthumous copies in the British
+Library and in Sir Geoffrey Keynes’ collection; the reading “thy” was not supported. Thus the Folcroft
+facsimile must have been retouched to produce this unauthorized variant in Blake’s text. In her annotations
+Johnson comments on retouching, trueness of color, softening of lines and quality of background paper tone;
+thus the reader is all the more likely to have faith in a facsimile described as “well-printed.” This small
+correction to “A Survey &amp; Checklist” will, it is hoped, save anyone using the Folcroft facsimile,
+especially “The Blossom” page, a considerable amount of confusion.</p>
+        </div2>
+            <figure n="BlossomPosthumous.10.4.bqscan" rend="file" width="400" height="610">
+            <head>1 “The Blossom,” posthumous copy b.</head>
+            <figDesc>By permission of the Harvard College Library.</figDesc>
+          </figure>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

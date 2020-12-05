@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.3.toc</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="toc">Contents</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1973-1974</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter, An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.3</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1974"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <front>
+            <pb id="p07-49-51" n="49-51"/>
+            <div1 id="cover">
+                <figure n="cover.007.03.bqscan" rend="file" width="258" height="321">
+                    <figTranscr>Blake Newsletter 27<lb/>
+                    An Illustrated Quarterly</figTranscr>
+                </figure>
+            </div1>
+            <div1 id="BQ-07-3-0001">
+                <table id="contents" rows="10" cols="2">
+                <row>
+            			<cell colspan="3">
+                			<head>
+                    			<title>
+                        		<supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    			</title>
+               				</head>
+            			</cell>
+        			</row>
+                    <row>
+                        <cell>NOTES</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Robert N. Essick, <ref type="article" issue="7.3.essicknote">Blake in the
+Marketplace, 1972-73</ref></cell>
+                        <cell>52</cell>
+                    </row>
+                    <row>
+                        <cell>Andrew Wilton, <ref type="article" issue="7.3.wilton">A Fan Design by
+Blake</ref></cell>
+                        <cell>60</cell>
+                    </row>
+                    <row>
+                        <cell>DISCUSSION</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Geoffrey Keynes, <ref type="article" issue="7.3.keynes">The Blake Trust Gray
+Catalogue and the Blake Trust Facsimiles</ref></cell>
+                        <cell>64</cell>
+                    </row>
+                    <row>
+                        <cell>Robert N. Essick, 
+<ref type="article" issue="7.3.essick"><hi rend="i">Jerusalem</hi> 25: Some Thoughts on Technique</ref></cell>
+                        <cell>64</cell>
+                    </row>
+                    <row>
+                        <cell>Leonard Trawick, <ref type="article" issue="7.3.trawick">Nature and Art in 
+<hi rend="i">Milton</hi>: Afterthoughts on the 1973 MLA Seminar</ref></cell>
+                        <cell>67</cell>
+                    </row>
+                    <row>
+                        <cell>REVIEW</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><ref type="article" issue="7.3.adams">Curran and Wittreich’s 
+<hi rend="i">Blake’s Sublime Allegory: Essays on The Four Zoas, Milton, and Jerusalem</hi></ref>, reviewed by
+Hazard Adams</cell>
+                        <cell>69</cell>
+                    </row>
+                </table>
+                <note type="unreferenced" place="footer">Copyright ©1974 by Morris Eaves and Morton D.
+Paley</note>
+            </div1>
+        </front>
+                <p>
+                    <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, Whole Number 27, Volume 7,
+Number 3, Winter 1973-1974. The <hi rend="i">Blake Newsletter</hi> is published quarterly under the
+sponsorship of the Department of English of the University of New Mexico.</p>
+                <p>Editors: Morris Eaves (University of New Mexico) and Morton D. Paley (University of
+California, Berkeley). Editorial Assistants: for production, Judith Wallick Page; for subscriptions, Graham
+Conley (both University of New Mexico). Bibliographer: Foster Foreman (University of California,
+Berkeley).</p>
+                <p>Manuscripts are welcome. Send two copies to either of the editors: Morris Eaves, Dept. of
+English, Univ. of N. M., Albuquerque, N. M. 87131; Morton Paley, Dept. of English, Univ. of Ca., Berkeley, Ca.
+94720.</p>
+                <p>Subscriptions are $5 for one year, four issues; special rate for individuals, $4, surface
+mail; for those subscribers overseas who want to receive their issues by air mail, $8. U. S. currency or
+international money order if possible. Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address
+all subscription orders and related communications to Morris Eaves, Dept. of English, Univ. of N. M.,
+Albuquerque, N. M. 87131.</p>
+                <p>Some back issues are available. Address Morris Eaves. Prices: Whole numbers 14, 15, 21, 22,
+23, 24, 25, and 26, $2 each. Whole number 20, $3.</p>
+                <p>The ISSN (International Standard Serial Number) of the <hi rend="i">Blake Newsletter</hi>
+is 0006-453X.</p>
+    </text>
+</TEI.2>

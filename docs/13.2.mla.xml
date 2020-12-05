@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>13.2.mla</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">MLA on Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1979</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1979</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">13.2</biblScope>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>David Anderson</name>
+              <name>Peter Chase</name>
+              <name>Wendy Jones</name>
+              <name>Wayne Erickson</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Detlef W. Dörrbecker</name>
+              <name>F.R. Duplantier</name>
+              <name>David V. Erdman</name>
+              <name>James King</name>
+              <name>N.G.D. Malmqvist</name>
+              <name>Thomas L. Minnick</name>
+              <name>Morton D. Paley</name>
+              <name>R.J. Shroyer</name>
+              <name>Shawn Thompson</name>
+              <name>Kazumitsu Watarai</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1979"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_13">
+    <body>
+      <pb id="p13-110" n="110"/>
+      <div1 id="BQ-13-2-0010">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">MLA ON BLAKE</hi>
+            </title>
+          </head>
+          <p>For a 1980 MLA Special Session on Blake: Alicia Ostriker, English Dept., Rutgers University, New
+Brunswick, N.J., 08903, seeks articles or abstracts on <hi rend="i">Blake and Sexuality.</hi> Deadline: 1
+March, 1980.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

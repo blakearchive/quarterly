@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>35.2.stauffer</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s Poison Trees</title>
+        <author n="Stauffer">Andrew M. Stauffer</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 2001</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">35.2</biblScope>
+            <biblScope unit="volume">35</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Sarah Jones</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Donald Fitch</name>
+              <name>Andrew M. Stauffer</name>
+              <name>Mei-Ying Sung</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_35">
+    <body>
+      <pb id="p35-36" n="36"/>
+      <div1 id="BQ-35-2-0006">
+        <head>
+          <title type="section">ARTICLES</title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">Blake’s Poison Trees</title>
+          </head>
+          <byline>By <docAuthor>Andrew M. <name>Stauffer</name></docAuthor></byline>
+          <p>At least since Geoffrey Grigson in 1947, scholars have found that the various threatening
+arborescent growths in Blake’s work recall the legendary poisonous Upas tree of Java (<hi rend="i">antiaris
+toxicaria</hi>), popularized in England in the 1780s.<supplied type="spacer"> </supplied><ref target="n1"
+type="note">1</ref> Grigson sees allusions to the Upas in <hi rend="i">America</hi>, “A Poison Tree,” 
+<hi rend="i">The Book of Ahania, The Four Zoas</hi>, and <hi rend="i">Jerusalem</hi>, as the source of the
+recurring “Tree of Mystery” (59-60). Furthermore, Erdman shows Blake referring to the tree explicitly in a
+canceled line of “Fayette.”<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> More
+recently, Desmond King-Hele has followed Grigson in viewing it as the source of the “horrid plant” in 
+<hi rend="i">The Book of Ahania</hi>, as well as of the murderous growth in “A Poison Tree.”<supplied
+type="spacer"> </supplied><ref target="n3" type="note">3</ref> Clearly the Upas was known by Blake,
+particularly through Erasmus Darwin, and stands behind some of his arboreal imagery. However, in the case of
+“A Poison Tree,” another, more appropriate botanical source exists: the Manchineel tree of the tropical
+Americas.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> Also well-known in late
+18th-century England, the Manchineel offers closer parallels to Blake’s poem of hypocrisy and wrath. It
+seems, therefore, that Blake’s imagination of poisonous trees involves a conflation of several plants
+represented in the works of Darwin, Coleridge, and Stedman. <note id="n1"><hi rend="s">1</hi> “The Upas
+Tree,” <hi rend="i">The Harp of Aeolus, and other Essays on Art, Literature &amp; Nature</hi> (Routledge,
+1947) 56-65. My thanks to Robert Essick, Morton Paley, and Mary Kelly Persyn for their valuable
+suggestions.</note>
+	<note id="n2"><hi rend="s">2</hi> The line in question reads, “There is just such a tree at Java found”;
+see <hi rend="i">Blake: Prophet Against Empire</hi> (Princeton UP, 1954) 222-23. On “The Human Abstract,”
+see 272-73.</note>
+	<note id="n3"><hi rend="s">3</hi> <hi rend="i">Erasmus Darwin and the English Romantic Poets</hi> (Macmillan,
+1986) 47, 52-53.</note>
+	<note id="n4"><hi rend="s">4</hi> On the Manchineel, see <hi rend="i">The Poison Tree: Selected Writings of
+Rumphius on the Natural History of the Indies</hi>, trans. and ed. E.M. Beekman (U of Massachusetts P, 1981)
+49-50. Beekman discusses the Upas also, on 135-39.</note></p>
+          <p>To be sure, the Upas did enjoy a vogue in English literary circles following the publication of a
+sensationalized, romantic account of it in the <hi rend="i">London Magazine</hi> in 1783.<supplied
+type="spacer"> </supplied><ref target="n5" type="note">5</ref> Allegedly written by a Dutch surgeon named
+Foersch as an eye-witness report, this essay presents an immense, spreading tree so poisonous that nothing can
+live within miles of it:
+<q>
+The <hi rend="i">Bohon-Upas</hi> is situated in the island of <hi rend="i">Java.</hi> . . . It is surrounded
+on all sides by a circle of high mountains, and the country round it, to the distance of ten or twelve miles
+from the tree, is intirely barren. Not a tree, not a shrub, not even the least plant or grass is to be seen.
+(513)
+</q>
+Erasmus Darwin versified this description in <hi rend="i">The Loves of the Plants</hi> (1789; republished as
+Part II of <hi rend="i">The Botanic Garden</hi>, 1791), summarized it in his notes, and reprinted the entire
+Foersch article as an appendix to the poem. Through Darwin then, the Upas legend gained a wide currency in the
+Romantic era, alluded to by Blake, Coleridge, Southey, and Byron, and dramatized in plays by George Colman the
+Younger and Stephen Reynolds Clarke.<supplied type="spacer"> </supplied><ref target="n6" type="note">6</ref>
+Illustration 1 shows a slightly later image of the Upas tree, from Blume’s <hi rend="i">Rumphia</hi> (1836),
+presenting a more naturalistic version of the <hi rend="i">antiaris toxicaria</hi>, as a corrective reaction
+to the feverish mythologizing of the earlier decades. It was this Romantic-period publicity that allowed the
+Upas to enter the English language as a metaphor used, as Henry Yule puts it, “to indicate some institution
+that the speaker wishes to condemn in a compendious manner.”<supplied type="spacer"> </supplied><ref
+target="n7" type="note">7</ref> Blake knew Darwin’s work well, even contributing an engraving to 
+<hi rend="i">The Botanic Garden</hi> in 1791, and would have had the Upas tree at least vaguely in mind as he
+composed “A Poison Tree” within the next year or so.<supplied type="spacer"> </supplied><ref target="n8"
+type="note">8</ref>
+	<note id="n5"><hi rend="s">5</hi> N.P. [or J.N.] Foersch [pseud.?], “Description of the Poison-Tree, in the
+Island of Java, Translated from the original Dutch by Mr. Heydinger,” <hi rend="i">London Magazine</hi>
+(December 1783): 512-17. Grigson says that the article was a hoax perpetrated by George Steevens
+(56ff.)</note>
+	<note id="n6"><hi rend="s">6</hi> For a survey of Romantic-period usage, see Grigson 59-64. The theatrical
+renditions of the legend are <hi rend="i">Dramatic Romances, Containing “The Poison Tree” and “The
+Torrid Zones,”</hi> attr. Stephen Reynolds Clarke (London, 1809), and George Colman the Younger’s 
+<hi rend="i">The Law of Java, A Play</hi> (London, 1822).</note>
+	<note id="n7"><hi rend="s">7</hi> Col. Henry Yule and A.C. Burnell, <hi rend="i">Hobson-Jobson</hi>, new
+edition, ed. William Crooke (Routledge, 1985; orig. pub. 1886) 952-59. This remains the most informative
+introduction to the history of the Upas. For an earlier account, see Thomas Horsfield, “An Essay on the
+Oopas, or Poison Tree of Java,” <hi rend="i">Annals of Philosophy</hi> 9 (March-April 1817): 202-14,
+265-74.</note>
+	<note id="n8"><hi rend="s">8</hi> For summaries of Darwin’s influence on Blake, see David Worrall,
+“William Blake and Erasmus Darwin,” <hi rend="i">Bulletin of the New York Public Library</hi> 70 (1975):
+397-417; David Charles Leonard, “Erasmus Darwin and William Blake,” <hi rend="i">Eighteenth Century
+Life</hi> (1978): 179-81; Nelson Hilton, “The Spectre of Darwin,” <hi rend="i">Blake/An Illustrated
+Quarterly</hi> 15:1 (1981): 36-48; and King-Hele, esp. 35-59.</note></p>
+          <p>However, the Upas is not the only poisonous tree mentioned in Darwin’s <hi rend="i">Loves of
+the Plants.</hi> Earlier in Canto III, he writes,
+<q>
+If rests the traveller his weary head,<lb/>
+Grim MANCINELLA haunts the mossy bed,<lb/>
+Brews her black hebenon, and, stealing near,<lb/>
+Pours the curst venom in his tortured ear.—<supplied type="spacer"> </supplied><ref target="n9"
+type="note">9</ref>
+	<note id="n9"><hi rend="s">9</hi> <hi rend="i">The Botanic Garden, Part II: The Loves of the Plants. A Poem,
+with Philosophical Notes.</hi> 4th ed. (London, 1794) lines 187-90.</note></q>
+As a note to this passage, Darwin inserts the following:
+<q>
+With the milky juice of this tree the Indians poison their arrows; the dew-drops which fall from it are so
+caustic as to blister the skin, and produce dangerous
+<pb id="p35-37" n="37"/>
+<figure n="Blume.Upas.35.2.bqscan" rend="file" width="400" height="637">
+	<head>1. Botanical illustration of the Upas, from Karl Ludwig Blume’s <hi rend="i">Rumphia</hi> (Amsterdam,
+1836) vol.1, plate 22.</head>
+	<figDesc>Here the tree appears uncharacteristically harmless to man; the image was meant to correct the
+exaggerated legends made popular by Erasmus Darwin. Reproduced courtesy of the Smithsonian Institution
+Libraries, © 2001 Smithsonian Institution.</figDesc>
+</figure>
+ulcers; whence many have found their death by sleeping in its shade. (107)
+</q>
+The tree described here is more often called the Manchineel in English. Unlike the Upas, which blights all
+living things near it, looming “Fierce in dread silence on the blasted heath” (line 237), the Manchineel
+appears comfortably shady, safe, and inviting to the traveller, who is killed in his sleep by its secret
+poison.</p>
+          <p>The Manchineel also seems to have been quite popular as a metaphor during this period—too
+popular, according to Coleridge, who was nevertheless particularly attached to it. While the Upas was just
+emerging as part of the language in the 1780s, the Manchineel was already common stock. Recalling his
+schooldays at Christ’s Hospital, Coleridge remarks, “Nay, certain introductions, similes, and examples,
+were placed by name on a list of interdiction. Among the similes, there was, I remember, that of the
+Manchineel fruit, as suiting equally well with too many subjects.”<supplied type="spacer"> </supplied><ref
+target="n10" type="note">10</ref> Yet Thomas DeQuincey remembered that the young Coleridge tended to honor
+this list of interdictions in the breach:
+<q>
+    Coleridge, in his early days, used the image of a man’s “sleeping under a manchineel tree” as [a
+resource] for illustration which Providence had bountifully made inexhaustible in [its] applications. . . . So
+long as the manchineel continued to blister with poisonous dews those who confided in its shelter . . . so
+long was Samuel Taylor Coleridge fixed and obdurate in his determination that [this image] should come upon
+duty whenever, as a youthful rhetorician, he found himself on the brink of insolvency.<supplied type="spacer"> </supplied><ref target="n11" type="note">11</ref>
+	<note id="n10"><hi rend="s">10</hi> <hi rend="i">Biographia Literaria</hi>, ed. James Engell and W. Jackson
+Bate, 2 vols. (Princeton UP, 1969) 1:10.</note>
+	<note id="n11"><hi rend="s">11</hi> “John Keats,” <hi rend="i">Collected Writings of Thomas
+DeQuincey</hi>, ed. David Masson, 14 vols. (Edinburgh, 1889-90) 11:378.</note></q>
+In fact, Coleridge did use the Manchineel simile at least twice in his published work in the 1790s, once to
+characterize one of the infamous “Two Bills” of 1795, and once to describe false friends in the dedication
+to his <hi rend="i">Poems</hi> (1797).<supplied type="spacer"> </supplied><ref target="n12"
+type="note">12</ref> In that dedicatory poem, writing of “chance-started friendships,” Coleridge declares,
+<q>
+. . . and some most false,<lb/>
+False and fair-foliaged as the Manchineel,<lb/>
+Have tempted me to slumber in their shade<lb/>
+E’en mid the storm; then breathing subtlest damps,<lb/>
+Mix’d their own venom with the rain from Heaven,<lb/>
+That I awoke poison’d!<lb/>
+(lines 25-30)
+</q>
+	<note id="n12"><hi rend="s">12</hi> “The Plot Discovered,” <hi rend="i">Lectures 1795 on Politics and
+Religion</hi>, ed. Lewis Patton and Peter Mann (Princeton UP, 1969) 296; and “To the Reverend George
+Coleridge,” <hi rend="i">Complete Poetical Works</hi>, ed. E.H. Coleridge, 2 vols. (Clarendon, 1912) 1:174.
+Later, in 1815, Coleridge refers to the Manchineel obliquely in <hi rend="i">Biographia Literaria</hi>; of
+political and religious fanaticism, he writes, “The poison tree is not dead, though the sap for a season may
+have subsided to its roots. At least let us not be lulled into such a notion of our security”
+(1:197).</note></p>
+          <p>Thus within the same few years, both Coleridge and Blake used the image of a poison tree to
+represent false friendship. As Coleridge makes plain, the Manchineel is the more appropriate source, since it
+presents a fair and tempting exterior which prompts one to drop defenses; the Upas, on the other hand, is
+literally unapproachable. Blake’s “Poison Tree” grows with “smiles” and “soft deceitful wiles”
+until it produces that attractive “apple bright” that betrays the speaker’s “foe” to
+destruction.<supplied type="spacer"> </supplied><ref target="n13" type="note">13</ref> This tree grows in a
+“garden” (line
+<pb id="p35-38" n="38"/>
+13) rather than on a “blasted heath” like the Upas, and it operates by stealth and betrayal, like the
+Manchineel which positively welcomes passers-by to rest in its shade. “In the morning,” Blake’s speaker
+finds his foe “outstretchd beneath the tree” (lines 15-16), and lowering branches hang over the victim in
+the illustration, again evoking the Manchineel (illus. 2). No longer requiring its dissimulating exterior, the
+conquering tree is revealed by Blake’s drawing as an ugly predator. <note id="n13"><hi rend="s">13</hi> “A
+Poison Tree,” <hi rend="i">Songs of Innocence and of Experience</hi>, ed. Andrew Lincoln, volume 2 of 
+<hi rend="i">The Illuminated Works of William Blake</hi>, gen. ed. David Bindman (Blake Trust/Princeton UP, 1991)
+plate 49, lines 7, 8, 10, 3.</note></p>
+          <p>Another set of analogues that recall the Manchineel exists for Blake’s poison tree. Blake
+certainly knew John Stedman’s <hi rend="i">Narrative of a Five-Years Expedition against the Revolted Negroes
+of Surinam</hi> (London, 1796), for which he supplied a number of engravings, executed between 1791 and
+1794.<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref> Richard and Sally Price state
+that “Stedman’s manuscript and drawings, as well as his various meetings with Blake, seem to have exerted
+a significant influence on Blake’s own thought.”<supplied type="spacer"> </supplied><ref target="n15"
+type="note">15</ref> Stedman spends a good deal of time describing the “quadrupedes, birds, fishes,
+reptiles, trees, shrubs, fruits &amp; roots” of South America, as his extended title promises, and Blake
+himself engraved pictures of “The Mecoo &amp; Kishee Kishee Monkeys” and “Limes, Capsicums, Mammy Apple
+&amp;c.” (<hi rend="i">Blake Books</hi>, 623). While the Manchineel is not mentioned, Stedman does refer
+frequently to the Manicole, “of the Palm tree Species” (191). The Manicole is not poisonous—in fact, it
+bears “a delicious kind of white food” and its fronds are used frequently by the natives in constructing
+their huts (191ff.). However, Stedman tells of a night when he slept on a bed of Manicole greens, using terms
+that recall the legend of the Manchineel:
+<q>
+I lay quietly down . . . on my green Matras, where in a clear Moonshine night, And no rain, I fell a sleep as
+sound as a rock. But about two hours before Day break I awaked when the Moon was down, the fire was out and I
+almost dead by the Cold dew, and the dampness that exaled from the Earth, being so Stiff and So benumb’d
+that I had scarsely strength to crawl on hands and feet. . . . the Pain augmenting I soon was prevented from
+Breathing, without the greatest Difficulty and at last fell down behind the trunk of an old Cabbage-tree.
+(202)
+</q>
+Stedman recovered from the paralyzing dews, but Blake may have associated these two exotic trees in his mind.
+Finally, the <hi rend="i">Narrative</hi> does mention a number of poisonous plants,
+                        <figure n="songsie.n.p6-49" id="songsie.n.illbk.06" work-copy="songsie.n" rend="db" width="637" height="1000">
+	<figTranscr>35<lb/>
+	A POISON TREE.<lb/>
+	I was angry with my friend:<lb/>
+	I told my wrath, my wrath did end.<lb/>
+	I was angry with my foe:<lb/>
+	I told it not. my wrath did grow.<lb/>
+	And I waterd it in fears,<lb/>
+	Night &amp; morning with my tears:<lb/>
+	And I sunned it with smiles,<lb/>
+	And with soft deceitful wiles.<lb/>
+	And it grew both day and night,<lb/>
+	Till it bore an apple bright.<lb/>
+	And my foe beheld it shine,<lb/>
+	And he knew that it was mine.<lb/>
+	And into my garden stole,<lb/>
+	When the night had veild the pole;<lb/>
+	In the morning glad I see;<lb/>
+	My foe outstretchd beneath the tree.</figTranscr>
+	<head>2. “A Poison Tree,” by William Blake, from <hi rend="i">Songs of Innocence and of Experience</hi>,
+Copy N, plate 35.</head>
+	<figDesc>Reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+</figure>
+most notably the unidentified “Markoory,” which seems like the mythic Upas in Stedman’s description:
+<q>
+The Other Tree call’d the Markoory is as Equally Dreadful for its Poisones Qualities Which are of Such a
+Subtle Nature, that the Verry Smoak of this Wood When set on fire is Fatal to those Animals Who Receive it in
+their Lungs, And it is Always on that account seen to Grow by itself, Killing everything Around it, Nay even
+the Slaves Refuse to Cut it Down on the Plantations so much Afraid are they of Touching it With any Tools.
+(459-60)
+</q>
+This tree, which Stedman calls “Low and Ugly, being Uneven With a verry few Branches” (460), also recalls
+the image engraved by Blake for “A Poison Tree.” It seems, therefore, that Stedman’s Markoory and
+Manicole bear some relation to Blake’s imagination of dangerous trees, and probably would have recalled the
+Manchineel and the Upas to his mind. <note id="n14"><hi rend="s">14</hi> See G.E. Bentley, Jr., 
+<hi rend="i">Blake Books</hi> (Clarendon, 1977) 621-24. For details on the Blake-Stedman relationship, see
+Geoffrey Keynes, <hi rend="i">Blake Studies</hi>, 2nd ed. (Clarendon, 1971) 98-104.</note>
+	<note id="n15"><hi rend="s">15</hi> “Introduction,” <hi rend="i">Narrative of a Five Years Expedition
+against the Revolted Negroes of Surinam</hi>, ed. Richard and Sally Price (Baltimore: Johns Hopkins UP, 1992)
+xli-xlii. Quotations from Stedman’s work refer to this edition of the 1790 manuscript (rather than the 1796
+first edition), given that Blake probably read the manuscript before composing “A Poison Tree” in
+1793-94.</note></p>
+          <pb id="p35-39" n="39"/>
+          <figure n="Cruikshank.Upas.35.2.bqscan" rend="file" width="500" height="669">
+            <head>3. “The Upas Tree,” illustration by George Cruikshank, for <hi rend="i">The Blessings of
+Temperance</hi> (London, 1840) facing page 49.</head>
+            <figDesc>Reproduced by permission of the Huntington Library, San Marino, California.</figDesc>
+          </figure>
+          <p>What of the apple in Blake’s poem? After all, the Manchineel reputedly kills by means of
+dew-fall. However, we should recall the poem’s original title—“Christian Forbearance”—which gives no
+indication that the foe is laid low by poisonous fruit. Furthermore, in neither version are we actually told
+that the foe eats the apple; the exact means of his destruction are in any event obscure. All we know for
+certain is that he is tempted by the tree’s exterior appearance (particularly its bright fruit) and winds up
+“outstretchd beneath the tree” as a result of approaching it. On the other hand, the apple does seem
+central to the mechanics of the poem, albeit absent from Blake’s illustrations of the tree.<supplied
+type="spacer"> </supplied><ref target="n16" type="note">16</ref> Coleridge does mention the “Manchineel
+fruit” in the passage quoted above, so perhaps there existed variations on the metaphor. In addition, we
+have the name of the tree itself. According to the <hi rend="i">Oxford English Dictionary</hi>, the term comes
+from the Spanish <hi rend="i">manzanilla</hi> (and French <hi rend="i">mancenille</hi>), a diminutive of
+apple; and the tree bears an “acrid fruit somewhat resembling an apple.”<supplied type="spacer"> </supplied><ref target="n17" type="note">17</ref> Blake scholars have been quick to identify the “apple
+bright” of “A Poison Tree” as an analogue of the forbidden fruit of Genesis and <hi rend="i">Paradise
+Lost</hi>,<supplied type="spacer"> </supplied><ref target="n18" type="note">18</ref> but it seems also to owe
+something to the poisonous apple of the seductive Manchineel. <note id="n16"><hi rend="s">16</hi> Actually, in
+copy E of the <hi rend="i">Songs</hi>, held by the Huntington Library, a small, dark-reddish circle in the
+lower left corner of the “Poison Tree” plate may be a sole exception. The circle was added during the
+coloring process; it is not present in any of the other copies I have examined.</note>
+	<note id="n17"><hi rend="s">17</hi> “Manchineel,” <hi rend="i">Oxford English Dictionary</hi>, 2nd
+edition (Clarendon, 1991) 9:297.</note>
+	<note id="n18"><hi rend="s">18</hi> See, for example, Robert Gleckner, <hi rend="i">The Piper and the
+Bard</hi> (Wayne State UP, 1959) 255-58; and Phillip Gallagher, “The Word Made Flesh: Blake’s ‘A Poison
+Tree’ and the Book of Genesis,” <hi rend="i">Studies in Romanticism</hi> 16 (1977): 237-49.</note></p>
+          <p>One might note, in closing, that distinctions between the Upas and the Manchineel tended to
+become blurred over time so that, by the Victorian era, the Upas seems to have all but swallowed its poisonous
+rival as a metaphor. For example, in <hi rend="i">The Blessings of Temperance</hi> (1840), illustrated by
+George Cruikshank, author John O’Neill presents the “dread Upas of destruction” as a symbol for
+alcoholic indulgence.<supplied type="spacer"> </supplied><ref target="n19" type="note">19</ref> Yet as both
+poem and image make clear, this tree bears the attributes of the Manchineel: its venom comes as liquid dropped
+from its branches on the unsuspecting, who are attracted, not repelled, by the tree (illus. 3). O’Neill
+writes,
+<q>
+The fellest tree that ever yet took root,<lb/>
+Threw up its barrelled trunk, and from each shoot<lb/>
+Streamed down its poison, while the victims run,<lb/>
+In crazy haste—to taste and be undone!<lb/>
+Though want and crime and pestilence abound,<lb/>
+And death and destruction spread around,<lb/>
+And every evil passion is set loose,<lb/>
+They madly rush to catch the envenomed juice;<lb/>
+While, one by one, without the least control,<lb/>
+Subdued, falls every virtue of the soul.<lb/>
+Oh, shun this danger! fly this fair decoy,<lb/>
+Where ruin tempts you in the guise of joy—<lb/>
+(49-50)<lb/>
+</q>
+This tree, a “fair decoy / Where ruin tempts you in the guise of joy,” recalls the “apple bright” and
+the <hi rend="i">modus operandi</hi> of the Manchineel, but “Upas” seems to have become the all-purpose
+name for illustrative poison trees by this point.<supplied type="spacer"> </supplied><ref target="n20"
+type="note">20</ref> Such blurring of detail has perhaps led us to overlook the Manchineel as one particular
+forebear of Blake’s “A Poison Tree.” <note id="n19"><hi rend="s">19</hi> <hi rend="i">The Blessings of
+Temperance, Illustrated in the Life and Reformation of the Drunkard</hi>, 1840, 4th edition (London, 1851)
+49.</note>
+	<note id="n20"><hi rend="s">20</hi> Like Coleridge and the Manchineel, Grigson remembers the Upas being used
+as an example of “<hi rend="i">terminological inexactitude</hi>” when he was in school (56), revealing how
+it had taken the Manchineel’s rhetorical place by the end of the nineteenth century; see also
+64-65.</note></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

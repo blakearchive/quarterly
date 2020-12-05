@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>17.1.warner</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="review">Robert N. Essick and Jenijoy La Belle, eds., Flaxman’s Illustrations to Homer</title>
+        <author n="Warner">Janet Warner</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1983</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1983</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">17.1</biblScope>
+            <biblScope unit="volume">17</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Leslie Donovan</name>
+              <name>Peter Chase</name>
+              <name>Barbara Guth</name>
+              <name>Letty Rutledge</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Robert Alter</name>
+              <name>Shelley M. Bennett</name>
+              <name>Elizabeth B. Bentley</name>
+              <name>G.E. Bentley, Jr.</name>
+              <name>V.A. De Luca</name>
+              <name>David Erdman</name>
+              <name>Alexander S. Gourlay</name>
+              <name>Nelson Hilton</name>
+              <name>Theresa M. Kelley</name>
+              <name>Donald H. Reiman</name>
+              <name>Michael J. Tolley</name>
+              <name>Janet Warner</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1983"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_17">
+    <body>
+      <div1 id="BQ-17-1-0007">
+		<pb id="p17-24" n="24"/>
+        <div2>
+          <figure type="reviewed-cover">
+          	<figTranscr>FLAXMAN’S ILLUSTRATIONS<lb/>
+          	TO HOMER<lb/>
+          	Drawn by John Flaxman<lb/>
+          	Engraved by William Blake and Others</figTranscr>
+          </figure>
+          <head>
+            <title type="main">
+              Essick and La Belle, eds. <hi rend="i">Flaxman’s Illustrations to Homer.</hi> Dover, 1977.
+            </title>
+          </head>
+          <byline>
+            <hi rend="b">Reviewed by</hi>
+            <docAuthor>
+              <hi rend="b">Janet</hi>
+              <name>
+                <hi rend="b">Warner</hi>
+              </name>
+            </docAuthor>
+          </byline>
+          <p>This edition of Flaxman’s designs to Homer was published five years ago and has become a most
+useful reference book for anyone interested in sources of English neo-classical design. Robert Essick and
+Jenijoy LaBelle provide a scholarly and pertinent introduction, a useful annotated bibliography
+chronologically arranged, and just enough commentary on each design to identify it and suggest its relation to
+Blake’s and other artists’ treatments of similar subjects.</p>
+          <p>The reproductions of the outline designs are very clear, even perhaps a little more highly
+contrasted than the originals I have been able to compare them with. The editors note the favorable reception
+of the designs from their first appearance in 1793, and their undeniable influence on motif and style in
+nineteenth-century Europe. Irreverently, I was reminded of the twentieth-century comic strip (see Scylla, 
+<hi rend="i">Odyssey</hi>, plate 20): should we blame Flaxman for this? The flattened plane and economy of line of
+the illustrations appeal to the taste of the modern viewer more than does the classical subject
+<pb id="p17-25" n="25"/>
+matter. One can see the genesis of the relief decoration of so many 1930s buildings, and many of the lines of
+Art Deco furniture in these illustrations.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

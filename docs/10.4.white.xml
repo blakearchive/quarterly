@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.4.white</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="note">Blake and the Mills of Induction</title>
+        <author n="White">Harry White</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1977</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1977</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.4</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Brad Hayden</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>G. E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>Tom Dargan</name>
+              <name>Raymond H. Deck, Jr.</name>
+              <name>George Goyder</name>
+              <name>Mary Lynn Johnson-Grant</name>
+              <name>Christopher Heppner</name>
+              <name>Edward Terry Jones</name>
+              <name>Martin K. Nurmi</name>
+              <name>Mary Ellen Reisner</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Harry White</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1977"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-4-0003">
+        <pb id="p10-109" n="109"/>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">BLAKE AND THE MILLS OF INDUCTION</hi>
+            </title>
+          </head>
+          <byline><docAuthor>HARRY <name>WHITE</name></docAuthor></byline>
+          <p>It has been said that what characterized the eighteenth century as the “Age of Newton” was not so
+much “its physics or metaphysics, as . . . its conception of the aims and methods of science.”<supplied
+type="spacer"> </supplied><ref target="n0" type="note">*</ref>
+	<note id="n0">The preparation of this essay was aided by a grant from the Faculty of Graduate Studies and
+Research at McGill. Diane Maynor brought the <hi rend="i">Grandison</hi> edition to my attention.</note> It
+“was Newton’s inductivism and experimentalism . . . rather than his optics or his mechanics that motivated
+the leaders . . . of eighteenth-century English intellectual history.”<supplied type="spacer"> </supplied><ref
+target="n29" type="note">1</ref> When doubts arose during the century concerning the new science, they were
+certainly not about its results, nor necessarily about its metaphysical implications, the impact of which was
+not fully felt until the nineteenth century, but its methodology. The empirical philosophy which came to
+prominence with the successes of experimentalism had rejected traditional logic because its arguments were
+shown to be inevitably circular, but it soon appeared as if circular patterns of thought were also inherent in
+the scientific method. Blake’s case against experimentalism tends to deal more exhaustively with its
+metaphysical implications as his vision develops; but in his earliest writings he employs circular imagery to
+describe those logical difficulties confronting the method itself, the implications of which were farreaching
+for the Enlightenment’s hope for continued progress promoted by the advancement of science. Blake’s larger
+purpose in attacking the logic of experimentalism was therefore to re-affirm the idea of scientific progress
+in light of explanations which implied that science could succeed only within an essentially fixed and stable
+world order. <note id="n29"><hi rend="s">1</hi> L. L. Laudan, “Thomas Reid and the Newtonian Turn of British
+Methodological Thought,” <hi rend="i">The Methodological Heritage of Newton</hi>, eds. Butts &amp; Davis
+(University of Toronto Press, 1970), p. 104.</note></p>
+          <p>The works of Bacon, Newton, and Locke had demonstrated the need for a new logic to replace that
+of the schoolmen. Bacon may be considered for our purposes the first to significantly criticize Aristotelean
+logic and syllogistic deduction in particular, contending that these methods of reasoning were without
+“issue,” incapable of advancing scientific inquiry because they did nothing more than lead men through mazes
+of circular argumentation: “[A]ll hitherto done with regard to the <hi rend="i">Sciences</hi>,” he complained,
+“is vertiginous, or in the way of perpetual rotation.”<supplied type="spacer"> </supplied><ref target="n30"
+type="note">2</ref> Writers coming after Bacon would repeatedly use images of circles to expose the
+limitations of traditional logic. Of special interest is the image of the mill which, when serving as a
+negative emblem, is central to Blake’s depictions of rational processes. Locke himself used it to caution
+against circumscribing the quest for knowledge—typically comparing the new approach to learning with
+geographical exploration:
+<q>
+I do not say, to be a good geographer, that a man should visit every mountain, river, promontory, and creek
+upon the face of the earth . . . ; but yet everyone must allow that he shall know a country better that makes
+often sallies into it and traverses up and down, than he that like a mill-horse goes still round in the same
+track. . . .<supplied type="spacer"> </supplied><ref target="n31" type="note">3</ref></q>
+	<note id="n30"><hi rend="s">2</hi> “<hi rend="i">De Augmentis Scientiarum</hi>,” <hi rend="i">The
+Philosophical Works of Francis Bacon</hi>, trans. Peter Shaw, vol. I (London, 1733), p. 4.</note>
+	<note id="n31"><hi rend="s">3</hi> “Of the Conduct of the Understanding,” <hi rend="i">The Works of John
+Locke</hi>, vol. I (Freeport, N.Y., 1969), p. 33.</note></p>
+          <p>The mill image makes a similar appearance in a 1774 article by Thomas Reid entitled, “A Brief
+Account of Aristotle’s Logic.” By then this kind of accounting had become rather common. Reid points to the
+“slow progress of useful knowledge, during the many ages in which the syllogistic art was most highly
+cultivated as the only guide to science, and its quick progress since that art was disused. . . .” The
+ancients, he adds, seem to have had too high a notion of “the reasoning power in Man”:
+<q>
+Mere reasoning can carry us but a very little way in most subjects. By observation, and experiments properly
+conducted, the stock of human knowledge may be enlarged without end; but the power of reasoning alone, applied
+with vigor through a long life, would only carry a man round like a horse in a mill, who labours hard but
+makes no progress.<supplied type="spacer"> </supplied><ref target="n32" type="note">4</ref>
+	<note id="n32"><hi rend="s">4</hi><hi rend="i"> Thomas Reid: Philosophical Works</hi>, vol. II (Hildesheim,
+1967), p. 701.</note></q></p>
+          <p>Blake appears to have adopted the very concerns and some of the same metaphors of empirical
+philosophy in his criticism of it. Urizen, described as “Selfclosd,” “self-contemplating,” and “unprolific”
+(<hi rend="i">The Book of Urizen</hi>, E 69),<supplied type="spacer"> </supplied><ref target="n33"
+type="note">5</ref> calls to mind Bacon’s description of the sciences as rotating back upon themselves and
+without issue. Blake repeatedly portrays Urizen’s observations as “explorations”; and also warns, as do
+Locke, Reid, and others, that “none by travelling over known lands can find out the unknown” (“All Religions
+are One”). But most significantly, he employs images like the mill to indicate that the fruitless process of
+reason’s “dull round” may describe aspects of experimentalism (“There is No Natural Religion”) and to
+suggest furthermore the degenerative effects of all such mental drudgery, whether old or new. For at another
+point from a mill is brought forth “the skeleton of a body, which in the mill was Aristotles Analytics” 
+(<hi rend="i">The Marriage of Heaven and Bell</hi>, E 41). By encompassing the logic of experimentalism as well as
+that of Aristotle, the mill serves to deny the very distinctions it served to
+<pb id="p10-110" n="110"/>
+clarify in the new philosophy. For Blake’s strategy was to turn the charge of question begging, of circular
+reasoning, back upon the new logic itself in order to undercut its one real claim to distinction, which was
+that the experimental method of induction was truly capable of proceeding beyond its own premises. 
+<note id="n33"><hi rend="s">5</hi> All Blake quotations are taken from <hi rend="i">The Poetry and Prose of William
+Blake</hi>, ed. David V. Erdman (Garden City, 1970).</note></p>
+          <p>Since Bacon, philosophers had been building a case for the empirical method by showing how
+neither the syllogism nor the induction of Aristotle could, in Dugald Stewart’s words, “possibly advance a
+single step in the acquisition of new knowledge. How different from both is the induction of Bacon, which,
+instead of carrying the mind round in the same circle of words, leads it from the <hi rend="i">past</hi> to
+the <hi rend="i">future</hi>, from the <hi rend="i">known</hi> to the <hi rend="i">unknown</hi>?”<supplied
+type="spacer"> </supplied><ref target="n34" type="note">6</ref> Stewart distinguishes between what have come
+to be known as “summative” (sometimes and variously called “complete,” “explicative,” or “perfect”) and
+“ampliative” induction. The distinction was thought to be crucial. In summative induction conclusions are
+based upon an examination of each and every particular item within the category about which the general
+assertion is being made. Strictly speaking, this seems to be the only kind of induction Blake recognized. He
+defined it as “the ratio of all we have already known” (“All Religions”), indicating by the word “all” that
+the induction alluded to is complete. Thus in “an inference from induction, if the enumeration be complete,
+the evidence will be equal to that of a perfect syllogism. . . .”<supplied type="spacer"> </supplied><ref
+target="n35" type="note">7</ref> The problem, of course, is that since summative induction amounts to no more
+than an explication of all we have already known, it is therefore also like deductive logic in that it does
+not provide the means by which we may come to know more. It was believed, however, that Bacon had formulated
+and Newton employed a method for proceeding from known particulars to the generally unknown. Newton himself
+described it when he defined experimental philosophy as the method by which “particular propositions are
+inferred from the phaenomena, and afterwards rendered general by induction.”<supplied type="spacer"> </supplied><ref target="n36" type="note">8</ref> “To Generalize is to be an Idiot,” Blake said in
+characterizing a leading tendency of the age (Annotations to Reynolds, E 630), for it was specifically the
+type of ampliative induction Newton describes, which was thought to comprise the logical component of the
+experimental method, that Blake found unconvincing. And his statements regarding experimental science show he
+knew precisely the allegedly unique features of its inductive procedures: “In ignorance to view a small
+portion and think that All / And call it Demonstration blind to all the simple rules of life” 
+(<hi rend="i">Four Zoas</hi>, E 396). All explanations of scientific induction as proceeding from the known to the
+unknown Blake understood to be simply illogical: “As none by travelling over known lands can find out the
+unknown. So from already acquired knowledge Man could not acquire more” (“All Religions”). 
+<note id="n34"><hi rend="s">6</hi> “Elements of the Philosophy of the Human Mind,” <hi rend="i">The Collected Works of Dugald
+Stewart</hi>, ed. Sir William Hamilton, vol. III (Edinburgh, 1854), p. 258.</note>
+	<note id="n35"><hi rend="s">7</hi> John Wallis, <hi rend="i">Institutio Logica</hi> (1715) as quoted in 
+<hi rend="i">Collected Works</hi>, p. 257. Frye’s statement that “the ratio of all we have already known” refers
+to “deductive reasoning” (<hi rend="i">Fearful Symmetry</hi> [Princeton University Press, 1958], p. 22) is not
+quite precise enough to reveal the point Blake is making about the failure of the “method of knowledge [which]
+is experiment” (“All Religions”) to truly distinguish itself from syllogistic reasoning.</note>
+	<note id="n36"><hi rend="s">8</hi><hi rend="i"> Mathematical Principles of Natural Philosophy</hi>, trans.
+Andrew Motte, vol. II (London, 1729), p. 392.</note></p>
+          <p>Blake, however, was not alone in questioning the logic of the experimental method. Similar doubts
+had been expressed often enough in the latter part of the eighteenth century. To a great extent these doubts
+had been stirred up by critiques of the method which David Hume had put forth, and it is no coincidence that
+he based his argument on the same insight Blake arrived at: that the new logic, like the old, triumphed by
+means of circular reasoning:
+<q>
+We have said that all arguments concerning existence are founded on the relation of cause and effect; that our
+knowledge of that relation is derived entirely from experience; and that all our experimental conclusions
+proceed upon the supposition that the future will be conformable to the past. To endeavor, therefore, the
+proof of this last supposition by probable arguments, or arguments regarding existence, must be evidently
+going in a circle, and taking that for granted, which is the very point in question.<lb/>
+<lb/>
+To say it [an inference] is experimental, is begging the question. For all inferences from experience suppose,
+as their foundation, that the future will resemble the past. . . . If there be any suspicion that the course
+of nature may change . . . , all experience becomes useless, and can give rise to no inference or
+conclusion.<supplied type="spacer"> </supplied><ref target="n37" type="note">9</ref>
+	<note id="n37"><hi rend="s">9</hi> “An Enquiry Concerning Human Understanding,” <hi rend="i">The English
+Philosophers from Bacon to Mill</hi>, ed. Edwin A. Burtt (New York, 1939), pp. 605, 606.</note></q></p>
+          <p>Whether or not Blake actually read Hume,<supplied type="spacer"> </supplied><ref target="n38"
+type="note">10</ref> he came to similar conclusions regarding the experimental method and comprehended with a
+more wide-ranging imagination its social and political implications. The scientific revolution of the
+seventeenth century was largely responsible for defining the idea of progress which, throughout the eighteenth
+century and beyond, generally implied the successive triumphs of rationality based upon the discovery of
+empirically verifiable truths. But if certain essential features of the unknown future had to resemble the
+known past to guarantee the applicability of experimental inferences, then conservativism, and not progress,
+had to be the major premise upon which the conclusions of empirical science were founded. Thus Urizen must
+first as tyrant stabilize the process of history and the course of nature so as to give consistency to
+science: He forms instruments to “fix”
+<q>
+The whole into another world better suited to obey<lb/>
+His will where none should dare oppose his will himself being King<lb/>
+Of All &amp; All futurity be bound in his vast chain<lb/>
+And the sciences were fixed[.] (<hi rend="i">Four Zoas</hi>, E 343)
+</q>
+Urizen’s attempts to achieve demonstrative certainty also circumscribe the extent of his empirical
+observations. Forever confined to explorations of his own dens, the geography of which was designed and built
+to conform to his own laws, his research will necessarily confirm the validity of those laws. Travelling like
+a mill-horse, Urizen excludes from the field of study contrary <corr type="emend">occurrences</corr>, or else has them “bound” in service
+to the law. In other words, the presumed validity of scientific law tends to determine, <hi rend="i">a
+priori</hi>, the procedures of empirical observation itself. Urizen’s scientific explorations are not
+devised for the purpose of discovery, but confirmation; that is, they comprise a limited search for those
+“objects” that will conform to pre-conceptions as to what constitutes scientific “evidence” and “proof”: “I
+have sought for . . . a solid without fluctuation . . . ,” Urizen confesses (<hi rend="i">Book of Urizen</hi>,
+E. 70), revealing his predisposition to “discover” only measurable material objects. 
+<note id="n38"><hi rend="s">10</hi> Hume’s name appears in several of Blake’s writings, and Blake was apparently aware of
+Hume’s proposal that there was no rational basis for our belief that the sun will rise in the morning: “He
+[referring to Joshua Reynolds] may as well say that if man does not. lay down settled Principles. The Sun will
+not rise in a Morning” (“Annotations to Reynolds,” E 649).</note></p>
+          <p>If it were indeed true that science was based upon circular patterns of thought, then it could
+not possibly be a force for change, but just another means
+<pb id="p10-111" n="111"/>
+of rationalization. Yet, attempts to explain the scientific method did not seem concerned with emphasizing
+that, on the contrary, science demanded independence of thought capable, when necessary, of creatively
+challenging conventional reasoning. Instead, writers of the eighteenth century were suggesting that the new
+inductive procedures, no longer regarded as so radically new nor even entirely rational, were still viable
+because mankind, either for example as a result of “common sense” (Reid) or “custom and habit” (Hume), was
+disposed to comprehend experience as essentially stable and predictible: “All inferences from experience . . .
+,” Hume believed, “are the effects of custom. . . .”<supplied type="spacer"> </supplied><ref target="n39"
+type="note">11</ref> Blake probably had explanations such as these in mind when he wrote that what one had “to
+do to Prove that All Truth is Prejudice” was to conceive all knowledge in terms of “Demonstrative Science such
+as is Weighed or Measured” (Annotations to Reynolds, E 648). Somehow liberal and progressive ideas no longer
+seemed relevant to discussions of scientific methodology; and even liberals like Joseph Priestly were
+proposing that we have “always found it to be so [that the future will be like the past]; and, therefore, how
+can we suspect the contrary?”<supplied type="spacer"> </supplied><ref target="n40" type="note">12</ref> Yet,
+“Without Contraries is no progression” (<hi rend="i">Marriage of Heaven and Hell</hi>, E 34); and contrary to
+commonly held views, Blake was suggesting that science required a willingness to accept the possibility of a
+future radically different from the past. <note id="n39"><hi rend="s">11</hi> “Enquiry,” p. 610.</note>
+	<note id="n40"><hi rend="s">12</hi> “Remarks on Dr. Reid’s Inquiry,” <hi rend="i">The Theological and
+Miscellaneous Works of Joseph Priestly</hi>, vol. III (n.p., n.d.), p. 58.</note></p>
+          <p>Contrary progression was Blake’s solution to the problem of circularity and his answer to those
+“conservative” justifications of scientific methodology; but before turning to it, we should first note that
+if the key element in his conception of a progressive science was something other than reason, then those
+doubts as to the supposed rationality of experimentalism pointed the way to something like a poetic, rather
+than a logical genius initiating advances in science. Stephen Hales, for instance, found it reasonable, when
+travelling from “the utmost Boundaries of those Things which we clearly know” to “the adjoining Borders of 
+<hi rend="i">Terra incognita</hi>, . . . to indulge in Conjecture . . . ; otherwise we should make but very slow
+Advances in future Discoveries, either by Experiments or Reasoning. . . .”<supplied type="spacer"> </supplied><ref target="n41" type="note">13</ref> And having demonstrated that no form of logic, including
+scientific induction, could reasonably proceed beyond its own premises, Hume proposed that the laws of the
+empirical sciences were based instead upon imaginative associations. There was simply no other conclusion to
+draw from the realization that 1) even the supposedly new logical procedures could not reasonably advance
+beyond the known and that 2) nevertheless, great and startling new discoveries had in fact occurred in the
+sciences: “As none by travelling over known lands can find out the unknown. So from already acquired knowledge
+Man could not acquire more. therefore an universal Poetic Genius exists” (“All Religions”). Blake’s proof of
+the existence of a poetic genius is thus predicated upon his belief in the actual existence of a progressive
+science. For he did not doubt the capacity of modern science to advance human knowledge. He only argued that
+its progress could not be accounted for by resorting to notions like ampliative induction. Imaginative
+perception was the truly novel feature of the modern, empirical sciences which distinguished them from all
+that had been previously done in matters of science and philosophy. It was the element without which even
+modern science would go round in circles:
+<q>
+If it were not for the Poetic or Prophetic character the Philosophic &amp; Experimental would soon be at the
+ratio of all things, &amp; stand still unable to do other than repeat the same dull round over again[.]
+(“Natural Religion”)
+</q>
+	<note id="n41"><hi rend="s">13</hi><hi rend="i"> Statical Essays</hi>, vol. II (London, 1733), pp.
+xiii-xiv.</note></p>
+          <p>With such statements Blake points to an irreconcilability between the logical and empirical
+elements of modern science. The Urizenic solution to these differences was, as we have seen, to impose a
+logical order upon observable reality, and his efforts were reflected in the persistent attempts of empirical
+philosophers to locate an essential continuity and consistency within human experience by speaking of habitual
+inferences and resemblences between past and future. The advantage of so defining progress as linear was that
+movement would then proceed entirely within a stable framework of reasonable expectations—a kind of Burkean
+growth process quite different from the radical notion of contrary progression. For Blake realized that
+movement that fulfills expectations must be going in circles; and believing that contraries ought never to be
+reconciled since they make for progress, he regarded this irreconcilability within the method not as a problem
+requiring resolution, but as the very source of scientific progress. Progress depended neither upon the
+certainty nor the permanence of the demonstrations of experimentalism. For the essence of modern science lay,
+to the contrary, in its tendency to challenge continuously all rational demonstrations, while replacing them
+with “scientific truths” which were in themselves recognized to be “mutable . . . [,] true at one time and not
+at another. . . .”<supplied type="spacer"> </supplied><ref target="n42" type="note">14</ref> Thus while the
+scientific method arrived at some genuinely new discoveries, seen by Blake as shifts in imaginative perception
+of reality, such discoveries had to be viewed as part of a dialectical process in which discovery functioned
+at one and the same time as a means of refutation: “What is now proved was once, only imagin’d” 
+(<hi rend="i">Marriage</hi>, E 36); and for certain, what is now proved will inevitably be disproved: “Reason or A
+Ratio of All We have Known is not the Same as it shall be when we know More” (Annotations to Reynolds, E 649.
+Reynolds had just remarked that “reason is something invariable,” for Blake an ancient and medieval belief
+that was no longer tenable within a scientific and progressive civilization.) 
+<note id="n42"><hi rend="s">14</hi> Thomas Reid, “Essays on the Intellectual Powers of Man,” <hi rend="i">Thomas Reid</hi>, vol.
+I, p. 442.</note></p>
+          <p>Karl Popper has noted in our century that it “is through the falsification of our suppositions
+that we actually get in touch with ‘reality.’” Scientific “theories must be falsifiable: it is through
+their falsification that science progresses.”<supplied type="spacer"> </supplied><ref target="n43"
+type="note">15</ref> Similarly for Blake, the choice, upon which the ultimate regeneration of mankind
+depended, was between a science which afforded the security of certain knowledge, the “same dull round . . . ,
+a mill with complicated wheels” (“Natural Religion”), or that which provided progressive enlightenment:
+“Science cannot exist . . . in generalizing Demonstrations of the Rationalizing Power. . . . Establishment of
+Truth depends on the destruction of Falsehood continually” (<hi rend="i">Jerusalem</hi>, E 203). 
+<note id="n43"><hi rend="s">15</hi><hi rend="i"> Objective Knowledge</hi> (Oxford, 1972), pp. 360, 361.</note></p>
+        </div2>
+      </div1>
+	<pb id="p10-112" n="112" rend="hidden"/>
+    </body>
+  </text>
+</TEI.2>

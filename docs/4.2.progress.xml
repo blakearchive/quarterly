@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.progress</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Works in Progress</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <front>
+            <pb id="p04-36" n="36"/>
+            <div1 id="BQ-04-2-0003">
+                <head>
+                    <title type="main">
+                            <hi rend="i">WORKS IN PROGRESS</hi>
+                        </title>
+                    </head>
+                    <p>Erdman, David (Stony Brook): “A group effort to read the Illuminations of 
+<hi rend="i">The Marriage of Heaven and Hell</hi>, including all those minute hieroglyphics between the lines and
+in the margins, is well advanced. Marlene Van Meter is ‘Secretary’ of the group. We are aiming at
+publication in the spring.</p>
+                    <p>“Mrs. Van Meter is beginning a dissertation on the symbolism of the sun. Donald K.
+Moore is embarking on an edition of <hi rend="i">Europe</hi> for his dissertation. He has also been assisting
+me in work on the facsimile edition of Blake’s Notebook, now nearing completion and to be published by the
+Clarendon Press. I have finished a draft of an introductory study of the emblem drawings in the Notebook,
+which I’ve begun trying out on critical Blakists.”</p>
+                    <p>Easson, Kay Parkhurst: “William Blake in the Twentieth Century,” a book-length analysis
+of Blakean form and content in modern literature.</p>
+                    <p>Easson, Roger R. and Tarr, Rodger L.: “A Descriptive Bibliography of William Blake’s
+Works and Ana, 1920-1970; A Supplement and Addenda to Geoffrey Keynes’ <hi rend="i">Bibliography of William
+Blake.</hi>”</p>
+                    <p>Hagstrum, Jean: essays on the designs for <hi rend="i">The Four Zoas</hi> and for 
+<hi rend="i">Tiriel.</hi> A study of the psychology of Blake.</p>
+            </div1>
+        </front>
+    </text>
+</TEI.2>

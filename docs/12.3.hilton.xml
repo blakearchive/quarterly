@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>12.3.hilton</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="minute">A Note on Cowper and A Poison Tree</title>
+                <author n="Hilton">Nelson Hilton</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Winter 1978-79</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1978-79</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">12.3</biblScope>
+                        <biblScope unit="volume">12</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Production Office</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <name>Thomas L. Minnick</name>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant in Charge</resp>
+                            <name>Cynthia Lewiecki</name>
+                            <resp>Editorial Assistants</resp>
+                            <name>David Anderson</name>
+                            <name>Marietta Barnes</name>
+                            <name>Lynn Goldstein</name>
+                            <name>Kris Lackey</name>
+                            <resp>Contributors</resp>
+                            <name>E. B. Bentley</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>David Bindman</name>
+                            <name>Izak Bouwer</name>
+                            <name>Martin Butlin</name>
+                            <name>Arnold Cheskin</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>Martha Winburn England</name>
+                            <name>J. Karl Franson</name>
+                            <name>Christopher Heppner</name>
+                            <name>Nelson Hilton</name>
+                            <name>David Irwin</name>
+                            <name>Paul McNally</name>
+                            <name>Marta Slowikova</name>
+                            <name>Robert R. Wark</name>
+                            <name>Kazumitsu Watarai</name>
+                            <name>Dwight Weber</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1979"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_12">
+        <body>
+            <div1 id="BQ-12-3-0010">
+                <pb id="p12-203" n="203"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">A NOTE ON COWPER AND</hi> A POISON TREE</title>
+                    </head>
+                    <byline>
+                        <docAuthor>
+                            <hi rend="b">Nelson</hi>
+                            <name>
+                                <hi rend="b">Hilton</hi>
+                            </name>
+                        </docAuthor>
+                    </byline>
+                    <p>Cowper’s incidental poem, <hi rend="i">On the Death of Mrs.
+                            Throckmorton’s Bullfinch</hi> (1789, 1792) offers a likely
+                        source for a description in Blake’s <hi rend="i">A Poison
+                            Tree</hi>, in the <hi rend="i">Songs of Experience</hi> (dated 1794). In
+                        Blake’s poem the wrath of the speaker grows to bear “an
+                        apple bright”; this is beheld by the envious
+                        “foe” who—the last stanza relates—
+						<q> . . . into my garden stole,<lb/>
+ When the night had veild the
+                            pole;<lb/>
+ In the morning glad I see;<lb/>
+ My foe outstretched beneath
+                            the tree. </q>
+In Cowper’s poem, “Bully”
+                        leads a peaceful existence in his well-latticed cage, since his
+                        “Dire foe” the cat is not permitted to live in the house.
+                        Unfortunately, on one occasion his foe was a rat: 
+						<q> Night
+                            veil’d the pole—all seem’d
+                            secure—<lb/>
+ When led by instinct sharp and sure,<lb/>
+                            Subsistence to provide,<lb/>
+ A beast forth-sallied on the scout,<lb/>
+                            Long-back’d, long-tail’d, with
+                            whisker’d snout,<lb/>
+ And badger-colour’d
+                            hide.<lb/>
+                            <lb/>
+ (31-36) </q>
+“Poor Bully’s
+                        beak,” like Orpheus’ head, is all that
+                        “remain’d to tell / The cruel death he
+                        died.”</p>
+                    <p>Blake’s adaption or unconscious echoing of this material is hardly
+                        central to his poem, but it does offer further evidence of his early
+                        attention to Cowper. The poem could have been seen by Blake on its first
+                        appearance in the <hi rend="i">Gentleman’s Magazine</hi>,
+                        February 1789; again in the <hi rend="i">Speaker</hi>, 1792; or possibly in
+                        the offices of Joseph Johnson, who published it in the 1794-95 edition of
+                        Cowper’s <hi rend="i">Poems</hi> (see <hi rend="i">Cowper,
+                            Poetical Works</hi>, ed. H. S. Milford, 4th ed., corr., add. Norma
+                        Russell, Oxford Standard Authors [London: Oxford Univ. Press, 1967], p.
+                        383).</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

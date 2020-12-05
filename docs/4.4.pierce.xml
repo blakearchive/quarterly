@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.pierce</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">New Blake Music</title>
+                <author n="Pierce">Hazel Pierce</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+            <div1 id="BQ-04-4-0002">
+            	<pb id="p04-116" n="116"/>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">NEW BLAKE MUSIC</hi>
+                        </title>
+                    </head>
+                    <byline>From <docAuthor>Hazel <name>Pierce</name>,</docAuthor> Kearney [Nebraska] State
+College:</byline>
+                    <p>“Three Songs by Blake,” music by Richard Willis, formed part of a program of new works
+presented before the National Association of Teachers of Singing at their 26th annual convention in Dallas
+this past December. The work was one of several commissioned by the American Institute of Musical Studies for
+special presentation at this meeting. Mr. Willis chose “To Morning,” “The Blossom,” and “Mad Song” to set to
+music for soprano, clarinet, percussion, and piano. At the Dallas performance the performers included: Julia
+Lansford, soprano, Arkansas State College; Jerry Brumbaugh, clarinet, Dallas, Texas; Fred Raulston,
+percussion, Southern Methodist University; and Gary Hercher, piano, Arkansas State College.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

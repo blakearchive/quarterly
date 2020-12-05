@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>34.3.ferber</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">Blake’s “Jerusalem” as a Hymn</title>
+        <author n="Ferber">Michael Ferber</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 2000/01</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>2000/01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">34.3</biblScope>
+            <biblScope unit="volume">34</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editors</resp>
+              <name>Sarah Jones</name>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Advisory Board</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Martin Butlin</name>
+              <name>D.W. Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Angela Esterhammer</name>
+              <name>Nelson Hilton</name>
+              <name>Anne K. Mellor</name>
+              <name>Joseph Viscomi</name>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>Michael Ferber</name>
+              <name>Agnes Peter</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="2001"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_34">
+    <body>
+      <div1 id="BQ-34-3-0006">
+        <pb id="p34-82" n="82"/>
+        <div2>
+          <head>
+            <title type="main">Blake’s “Jerusalem” as a Hymn</title>
+          </head>
+          <byline>By <docAuthor>Michael <name>Ferber</name></docAuthor></byline>
+          <p>Blake’s poem “And did those feet,” given the title “Jerusalem” since its setting in
+1916 by Hubert Parry, is Blake’s best known work, except perhaps for “The Tyger.” The “second national
+anthem” of England and Wales, a staple of English hymnals and public schools, the last song of the Last
+Night of the Proms, it has been sung with equal fervor by suffragettes, Fabians, high-church Tories,
+Presbyterian missionaries, and American leftists. Having heard it and sung it many times myself and come to
+love it, I have grown interested in how it came to be written and what groups or causes adopted it—its
+“reception history”—as well as how it works as a song. The two standard biographies of Parry give the
+main facts about its inception and early performances, though there is more one would like to know.<supplied
+type="spacer"> </supplied><ref target="n1" type="note">1</ref>I have not found any extended discussion of it
+as a setting, and hence an interpretation, of Blake’s text.<supplied type="spacer"> </supplied><ref
+target="n2" type="note">2</ref> Nor have I found much concerning its later history in Britain or America. In
+this essay, then, I will present what is generally known about its origins and history and discuss it as a
+hymn. Some of what follows will be sketchy, but I hope it will at least provoke others, especially those with
+better access to British libraries, to fill in the gaps around this wonderful song. 
+<note id="n1"><hi rend="s">1</hi> Charles L. Graves, <hi rend="i">Hubert Parry: His Life and Works</hi>, 2 vols. (London:
+Macmillan, 1926); Jeremy Dibble, <hi rend="i">C. Hubert H. Parry: His Life and Music</hi> (Oxford: Clarendon,
+1992). I would like to thank Jeremy Brecher, Richard Flacks, David Fuller, Susan Reilly, Judith Sizer, and
+Phillip Zaeder for helpful tips.</note>
+	<note id="n2"><hi rend="s">2</hi> A recent article by Samuel J. Rogal, “Blake’s ‘And did those feet’
+as Congregational Hymn,” in <hi rend="i">The Hymn: A Journal of Congregational Song</hi> 44:3 (July 1993):
+22-25, is disappointing, indeed maddening. It confidently asserts that the “feet” of the first line belong
+to the Druids (per Stukeley), it thinks it important to track the chariot back to Gray and Milton, and is
+generally at a loss regarding the text. Worse is a peculiar suggestion that Parry’s “hymn tune known today
+as <hi rend="i">Jerusalem</hi>” existed independently of the text: “Blake’s ‘And did those feet in
+ancient time,’ set to the Parry tune <hi rend="i">Jerusalem</hi> . . .”; “Parry’s choral song,
+‘Jerusalem,’ accompanying Blake’s ‘And did those feet in ancient time’ . . .,” as if Parry had the
+tune lying around in his notebook and then found that it suited Blake’s verses. Rogal may have been misled
+by the existence of new lyrics to the Parry setting in certain unforgivable hymnals, such as <hi rend="i">A
+New Hymnal for Colleges and Schools</hi>, ed. <corr type="emend">Jeffery Rowthorn</corr> and Russell Schulz-Widmar (New Haven: Yale UP,
+1992), where the “music” to hymn 567 is “Jerusalem” by Parry but the words begin: “O day of peace
+that dimly shines / through all our hopes and prayers and dreams, / guide us to justice, truth, and love, /
+delivered from our selfish schemes.”</note></p>
+          <p>“Jerusalem,” of course, is not Blake’s name for it, nor is it part of 
+<hi rend="i">Jerusalem/The Emanation of The Giant Albion.</hi> The four-quatrain poem appears untitled at the end
+of the prose “Preface” to <hi rend="i">Milton</hi> (E 95-96).<supplied type="spacer"> </supplied><ref
+target="n3" type="note">3</ref> Taken out of that immediate context, the poem’s opening is a bit
+mysterious—“And did those feet in ancient time, / Walk upon Englands mountains green”—for we can only
+infer whose feet “those feet” are when we are given the next two lines—“And was the holy Lamb of God,
+/ On Englands pleasant pastures seen!”—and invoke the biblical stylistic principle of parallel members,
+whereby two or three successive verses are variants of the same general meaning. In the prose context there is
+a clear suggestion, though it is hardly obvious, that those are indeed Jesus’s feet, for the last words
+before the poem are “in Jesus our Lord,” while “Christ &amp; his Apostles” have been named a sentence
+earlier. <note id="n3"><hi rend="s">3</hi> The “Preface” (E pl. 1) is lacking in copies C and D, probably
+the last two of the four extant copies of <hi rend="i">Milton.</hi> Though <hi rend="i">Milton</hi> is dated
+“1804” on the title page, the paper of the two copies with the “Preface” (A and B) is watermarked
+1808. See Erdman’s note, E 806.</note></p>
+          <p>On hearing the song for the first time, I imagine, many people must have asked “Whose feet?”
+as well as “Why <hi rend="i">feet</hi>?” (I remember feeling similarly puzzled over the opening of the
+second stanza of “America the Beautiful”—“O beautiful for pilgrim feet”—and wondered “Why
+feet?”) Blake took from the Bible and John Bunyan an interest in feet and their symbolism, which has to do
+with our pilgrimage through this world, our “walk” or way of life, our stance before life’s dangers and
+temptations, and what Bunyan in <hi rend="i">Pilgrim’s Progress</hi> calls our “conversation” or
+conduct.<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref>A passage from Isaiah may well
+lie behind Blake’s lines (and perhaps Katharine Lee Bates’s line in “America the Beautiful”): “How
+beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace” (52.7);
+the great bringer of good tidings is of course Jesus.<supplied type="spacer"> </supplied><ref target="n5"
+type="note">5</ref> Feet, moreover, or at least one foot, and sandals, or at least one sandal, are central
+symbols at turning points of Blake’s <hi rend="i">Milton</hi>, if we may widen the context for a moment.
+“Then Los took off his left sandal placing it on his head, / Signal of solemn mourning” 
+<hi rend="i">M</hi> 8.11-12); Milton “on my left foot falling on the tarsus, enterd there; / But from my left
+foot a black cloud redounding spread over Europe” (15.49-50); “Milton labourd with his journey, &amp; his
+feet bled sore / Upon the clay now changed to marble” (19.3-4), but with red clay he builds Urizen,
+“Beginning at the feet” (19.12). <note id="n4"><hi rend="s">4</hi> When Apollyon wounds Christian in head,
+hand, and foot, Bunyan adds a note explaining that he means “understanding, faith, and
+conversation.”</note>
+	<note id="n5"><hi rend="s">5</hi> As noted in an article by the editors of <hi rend="i">The Explicator</hi> 1
+(March 1943): no. 38. See Nancy M. Goslee, “‘In Englands green &amp; pleasant Land’: The Building of
+Vision in Blake’s Stanzas from <hi rend="i">Milton</hi>,” <hi rend="i">SiR</hi> 13 (1974): 105-25 (108).
+The Isaiah passage is quoted by Paul in Romans 10.15.</note></p>
+          <p>In the “Preface” Blake argues that Greek and Roman literature was stolen and perverted from
+the Bible, and set up against the Bible, which is the “more ancient” and inspired work. He calls on the
+“Young Men of the New Age” to combat
+<pb id="p34-83" n="83"/>
+the “Hirelings in the Camp, the Court &amp; the University,” who have promoted these thefts and
+perversions, the worst of which is the reduction of “Mental” war to “Corporeal” war, brought about by
+“the silly Greek &amp; Latin slaves of the Sword”—not only Achilles and Aeneas, of course, but also
+their inventors Homer and Virgil, who were hirelings of kings and emperors. The young men are to fight back
+with their “foreheads,” not corporeal weapons.</p>
+          <p>The poem neatly echoes and amplifies these two points. In the first half the ancientness and
+priority of the Bible corresponds to the visit of Jesus to England and the building of Jerusalem there,
+presumably before the Roman conquest, while the theme of the second half is “Mental Fight,” where the list
+of spiritual weapons culminates in the sword of line 14, which replies to the corporeal Greek or Latin sword
+that concludes the first paragraph of the prose “Preface.”<supplied type="spacer"> </supplied><ref
+target="n6" type="note">6</ref> As Parry rightly shows in making his melody repeat only once, covering two
+stanzas each time, the poem divides satisfyingly into two equal parts. The first half is a series of four
+two-line questions each beginning with “And” while the second half is the resolute response. The latter
+falls into two parts as well, first a command (as if to a squire or valet) to bring the armor and then a vow
+to fight until Jerusalem is built, or rebuilt, in England. Each half concludes with the building of Jerusalem,
+while their two locales are set in contrast, the “Satanic Mills” of here and now as opposed to the
+“green &amp; pleasant Land” of the future. <note id="n6"><hi rend="s">6</hi> For a discussion of the
+importance of spiritual warfare throughout Blake’s work, see Michael Ferber, “Blake and the Two Swords,”
+in Steve Clark and David Worrall, ed., <hi rend="i">Blake in the Nineties</hi> (London: Macmillan and New
+York: St. Martin’s, 1999). Goslee connects the spiritual weapons to “the Petrarchan or Ovidian convention
+of love as warfare” (114), but this is to narrow the meaning of “desire” to the erotic. The primary
+source is Ephesians 6.11-17.</note></p>
+          <p>It is tempting to take the four questions of the first half as “rhetorical,” as Nancy Goslee
+does in the only substantial article on the poem.<supplied type="spacer"> </supplied><ref target="n7"
+type="note">7</ref> Blake certainly makes extensive use of such questions throughout his work. I think,
+however, that these are not rhetorical in the usual sense, as questions implying obvious answers, as here
+those answers would be in the negative, and so they would “begin to call into doubt the validity of that
+vision,” as Goslee argues, and generate bitter ironies that I believe are not in the poem. It is better to
+take them as genuine expressions of amazement at the good tidings—<corr type="emend">“Can</corr> it be
+true?” or “Was it really so?”—as exclamations as much as questions. They are what Mastronarde calls
+“apistetic” questions, questions expressing disbelief or shock.<supplied type="spacer"> </supplied><ref
+target="n8" type="note">8</ref> Though it is never safe to rely on Blake’s quirky punctuation, it is worth
+noting that Blake does not end the first two couplets with a question mark; the second ends in an exclamation
+point. These lines are the same exclamations of wonder, and over the same tidings, as those that begin the
+dedication to Chapter Two of <hi rend="i">Jerusalem</hi>: “Jerusalem the Emanation of the Giant Albion! Can
+it be? Is it a Truth that the Learned have explored? Was Britain the Primitive Seat of the Patriarchal
+Religion?” (E 171). <note id="n7"><hi rend="s">7</hi> Goslee 107, 111. She does not discuss the poem as a
+hymn.</note>
+	<note id="n8"><hi rend="s">8</hi> Donald J. Mastronarde, <hi rend="i">Contact and Discontinuity: Some
+Conventions of Speech and Action on the Greek Tragic Stage</hi> (Berkeley: U of California P, 1979) 12.
+Mastronarde distinguishes 10 sorts of “rhetorical questions,” of which “apistetic” is one.</note></p>
+          <p>From the first to the second stanza the description of England darkens from “mountains green”
+and “pleasant pastures” to “clouded hills” and “dark Satanic Mills.” On Goslee’s reading this
+shift deepens the doubts and ironies. But surely its function is to dramatize the amazement of the speaker.
+The locale shifts subtly from “Englands mountains green” and “Englands pleasant pastures” to “our
+clouded hills” and “here, / Among these dark Satanic Mills,” almost as if we are not now living in
+England and will not do so again until we have rebuilt Jerusalem “In Englands green &amp; pleasant Land.”
+The speaker seems to leave the England of ancient time and slide, by means of deictic terms (“our,”
+“here,” “these”) into the England of the present: How astonishing to think Jerusalem could be here,
+and now! At a stretch one could take the last question as strictly rhetorical, for a “No” would be a
+logically appropriate answer, there having been no Satanic Mills in that ancient time, yet as an expression of
+astonishment it still makes good dramatic and psychological sense. And to end on the Mills, however
+illogically, serves also to supply the motive for all the weaponry that follows, as opposed to the hammers and
+trowels that would be called for if the only mission were building, for surely the Mills must first be
+destroyed.<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref>
+	<note id="n9"><hi rend="s">9</hi> As Mary Lynn Johnson and John E. Grant point out in a note in their
+edition, Nehemiah 4 reports that during the rebuilding of Jerusalem half the people stood guard with weapons
+while the other half worked. In 4:17 we are told that each of the builders “with one of his hands wrought in
+the work, and with the other hand held a weapon.” <hi rend="i">Blake’s Poetry and Designs</hi> (New York:
+Norton, 1979) 238. In the end, for Blake, spiritual weapons are constructive tools.
+                            <p>As commonly sung today, even by trained choirs, “these dark Satanic Mills”
+is altered to “those dark Satanic Mills,” as if the shift to “these” is too visionary or threatening.
+It is “those” in the recordings by the Choir of Winchester Cathedral and the Choir of St. George’s
+Chapel, listed here at the end; it is “those” in <hi rend="i">Hymns for Church and School</hi>, which is
+the fourth edition of <hi rend="i">The Public School Hymn Book</hi> (Henley-on-Thames: Gresham Books, 1964),
+but “these” in the <hi rend="i">Church Hymnary</hi> (Church of Scotland and Presbyterian Churches, 1927
+and subsequent editions). Paul Robeson; Emerson, Lake &amp; Palmer; and Billy Bragg get it right on their
+recordings.</p></note></p>
+          <p>Parry’s manuscript and the first published version (by Curwen) indicate “solo” for the
+first half and “all available voices” for the second.<supplied type="spacer"> </supplied><ref target="n10"
+type="note">10</ref> I have never heard it sung that way, but it is not a bad idea. The series of astonished
+questions gains poignancy when voiced by one man,<supplied type="spacer"> </supplied><ref target="n11"
+type="note">11</ref> as if he is alone,
+<pb id="p34-84" n="84"/>
+cut off from the ancient spiritual community of England that he has just heard tell of. Indeed it is a basic
+Blakean tenet that it is the very illusion of being alone, no longer a member of Albion’s body, no longer a
+brother in loving contention with brother, that brings about the fall into this dark Satanic world, and that
+the first step toward restoring the original community is to act in concert with one’s fellows in waging
+spiritual war against all that divides them. With that realization, when the narrator calls for his weapons,
+all available voices (300 at the first performance) join in. It is true that they sing “Bring me” rather
+than “Bring us,” and one might momentarily note the absurdity of a host of knights all calling on their
+squires, but then the words become a vow, a collective vow like the oath on the Rütli (painted by Fuseli) but
+where each must swear in his own name and on his own sword. Then the pronoun shifts to “we” at the climax
+of the hymn, where Parry wrote “allargando” (slowing down and increasing volume), leading to the highest
+note of the hymn (high E) on “built,” over which Parry wrote “ff,” almost superfluously, one would
+think, for if the chorus or congregation are following the words as well as the melody they irresistibly sing
+these lines with full throat and heart. <note id="n10"><hi rend="s">10</hi> Dibble 484; first page of MS
+reproduced, 505.</note>
+	<note id="n11"><hi rend="s">11</hi> It does not have to be a man, of course, but given that it is the
+narrator and not a character speaking it, and that the narrator calls for sword, spear, and other normally
+male accoutrements, however spiritual or metaphorical, I will use masculine pronouns.<p>In <hi rend="i">Parry
+before</hi> Jerusalem (Aldershot: Ashgate, 1997), Bernard Benoliel says that “Parry intended the first
+stanza of <hi rend="i">Jerusalem</hi> to be sung by a solo female voice” (134), but the manuscript does not
+specify the sex. No doubt at some women’s rights rallies it was sung that way.</p></note></p>
+          <p>Building a city, after all, can only be a collective act. But these stanzas of demands and vows
+are also a kind of prophecy: Jerusalem <hi rend="i">will</hi> be built in England, again, as it once was.
+Blake, as we know, dismissed prophecy and prophets “in the modern sense of the word” in favor of what we
+might call a conditional sense: “Thus / If you go on so / the result is So” (anno. Watson, E 617). So here
+he may be saying, If we do not cease from mental fight (as I will not), the result is Jerusalem. It all
+depends on us, and I am ready. This prophetic edge to what is literally a demand and an oath is implicit in
+the poem alone, I think, but it is brought out by the quotation from Moses that Blake places immediately
+following it: “Would to God that all the Lords people were Prophets.”</p>
+          <p>The other phrase whose meaning is affected by the context of the poem is the famous “dark
+Satanic Mills,” but here the case may be the opposite of that with “those feet.” For almost everyone
+assumes it refers to the smoke-producing industrial mills that had begun to darken some of the northern cities
+by 1804 though not yet Blake’s London. In fact Blake was not referring to modern factories, at least not
+directly, but to (1) flour mills of the traditional sort, driven by water, wind, or animals, where they take
+their place beside plow and harrow in the threefold division of agricultural labor in 
+<hi rend="i">Milton</hi>, Satan being the “Miller of Eternity” (3.42); and to (2) “the Starry Mills of
+Satan” (4.2), the rotating nighttime heaven that stands for the tyranny of supposedly natural laws dreamed
+up by Newton and Locke and imposed on mortals to whom “thy Mills seem everything” (4.12). In the prose
+“Preface” we are warned about “the Camp, the Court &amp; the University” but not the factory. By
+implication, nonetheless, industrial factories, if not steam factories, can be included under “Satanic
+Mills” because they are complicated developments of the flour mills and they enslave workers the way Samson
+was bound to the mill in Gaza<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref> and
+because they are the outcome of the doctrines of Newton and Locke now inculcated in the minds of the youth:
+“I turn my eyes to the Schools &amp; Universities of Europe / And there behold the Loom of Locke whose Woof
+rages dire / Washd by the Water-wheels of Newton. black the cloth / In heavy wreathes folds over every
+Nation” (<hi rend="i">J</hi> 15.14-17). The common assumption about the “Satanic Mills,” then, is not so
+much mistaken as overly simple, but it gives a satisfying reading, and who is to say Blake would not have
+endorsed it in 1916? <note id="n12"><hi rend="s">12</hi> Northrop Frye, <hi rend="i">Fearful Symmetry</hi>
+(Princeton: Princeton UP, 1947) 290.</note></p>
+          <p>Sir Charles Hubert Hastings Parry (1848-1918) was a prolific and much admired composer, held in
+his day to rank with Purcell and Elgar. He was knighted in 1895 and appointed Professor of Music at Oxford in
+1900. He wrote an immense number of choral settings, hymns, part-songs, unison songs (of which “Jerusalem”
+is one), solo songs, canticles, and anthems, as well as five symphonies, a piano concerto, an opera, theatre
+music, chamber music, and piano and organ solos.<supplied type="spacer"> </supplied><ref target="n13"
+type="note">13</ref> He set texts from the whole history of English poetry from Skelton to Robert Bridges,
+including <hi rend="i">Scenes from Shelley’s “Prometheus Unbound”</hi> (1880) and his best-known piece
+(after “Jerusalem”), <hi rend="i">At a Solemn Music: Blest Pair of Sirens</hi> (1887), a choral setting of
+Milton’s poem. Among the romantic poets he set five poems by Shelley, one by Coleridge, four by Scott, two
+by Byron, and two by Keats, but nothing else by Blake. Blake must nonetheless have been a part of Parry’s
+literary culture, for one of his longtime friends was William Blake Richmond (1842-1921), an artist who was
+steeped in Blake; he was the son of George Richmond, who admired Blake in his later years and was present at
+his death.<supplied type="spacer"> </supplied><ref target="n14" type="note">14</ref>
+	<note id="n13"><hi rend="s">13</hi> I am using the categories in Dibble, Appendix 2.</note>
+	<note id="n14"><hi rend="s">14</hi> George Richmond (1809-96) made one of the “Ancients” with his friends
+Samuel Palmer, Edward Calvert, and Frederick Tatham; he married Tatham’s sister Julia; William was their
+second son.</note></p>
+          <p>The impulse to set Blake’s “And did those feet” came from Parry’s friend Robert Bridges,
+then the Poet Laureate, whom he had known since their days together at Eton and Oxford. They had collaborated
+on at least seven of Bridges’ own poems from 1895 to early 1916, and Parry set another later that year. For
+his part Bridges had a deep interest in music, and had worked with Edward Elgar, Gustav Holst, and Charles
+Villiers Stanford as well as with Parry. <hi rend="i">Eden</hi>, an oratorio 
+                        <pb id="p34-85" n="85"/>
+based on <hi rend="i">Paradise Lost</hi>, was set by Stanford and dedicated to Parry.<supplied type="spacer"> </supplied><ref target="n15" type="note">15</ref> He was particularly devoted to hymns: he was a precentor of
+a church choir for nine years, compiled a hymnal, and regularly spent Sunday evenings with his family singing
+hymns around the piano. <note id="n15"><hi rend="s">15</hi> I am drawing mainly on Catherine Phillips, 
+<hi rend="i">Robert Bridges: A Biography</hi> (Oxford: Oxford UP, 1992).</note></p>
+          <p>Bridges knew Blake’s poetry, and some tenuous influences might be detected beneath the much
+stronger impact of Milton, Shelley, Keats, and the classics. Albert Guerard plausibly suggests that his sonnet
+“Democritus” (1919) echoes Blake’s “Mock on Mock on Voltaire Rousseau.”<supplied type="spacer"> </supplied><ref target="n16" type="note">16</ref> One wonders about Bridges’s appreciation for Blake,
+however, when one considers his “translation” of Blake’s early sonnet “To the Evening Star” into
+four alcaic quatrains. Bridges had a lifelong interest in prosody, particularly classical prosody, and wrote
+several essays on it; this translation is one of his many experiments. To expand a sonnet into alcaics demands
+some padding, but there is something excessively bookish and fastidious in the circumlocutions that smother
+Blake’s simple diction. Blake’s two adjectives for “dew,” for example, are decorative enough
+(“silver” and “sacred”), but Bridges seems to regard “dew” itself as too vulgar for alcaics, so we
+get “Silently dost thou with delicate shimmer / O’erbloom the frowning front of awful / Night to a glance
+of unearthly silver,” whatever that means.<supplied type="spacer"> </supplied><ref target="n17"
+type="note">17</ref> It is hardly in Blake’s spirit. Still, we can pardon it for the brilliant idea to have
+Parry translate “And did those feet” into a unison song, into “suitable, simple music,” as Bridges put
+it, “that an audience could take up and join in.”<supplied type="spacer"> </supplied><ref target="n18"
+type="note">18</ref>
+	<note id="n16"><hi rend="s">16</hi> Albert Guerard, <hi rend="i">Robert Bridges: A Study of Traditionalism in
+Poetry</hi> (Cambridge, Mass.: Harvard UP, 1942) 288. “Mock on Mock on” might have made an interesting
+unison song had Bridges suggested it to Parry.</note>
+	<note id="n17"><hi rend="s">17</hi> Evening: From Wm. Blake,” <hi rend="i">Poetical Works of Robert
+Bridges</hi> (London: Oxford UP, 1936) 437. He has another alcaic translation of Blake (“To Morning”) in
+his <hi rend="i">Demeter: A Mask</hi> 656-63 (71).</note>
+	<note id="n18"><hi rend="s">18</hi> Letter from Bridges quoted in Graves, 2: 92; Dibble 483. Bridges had long
+disliked both the words and the tune of “God Save the King” and hoped Parry’s “Jerusalem” might
+replace it, as it very nearly has. In April 1918 Bridges was asked to write new words for the second and third
+stanzas of the national anthem; he did so, but they were rejected as “not simple enough” (Phillips
+264).</note></p>
+          <p>What cause at length moved Bridges to this unexampled deed? Alas, a campaign called “Fight for
+Right,” founded by General Sir Francis Younghusband to counteract German propaganda, which he apparently
+believed was a threat to the British war effort in 1916.<supplied type="spacer"> </supplied><ref target="n19"
+type="note">19</ref> He or his organizers enlisted Bridges, who had been Laureate since 1913, and several
+musicians, including Elgar and Parry’s former student Walford Davies, to help with a concert for a rally at
+Queen’s Hall on 28 March 1916.<supplied type="spacer"> </supplied><ref target="n20" type="note">20</ref>
+Parry, a man of liberal political views, was no jingoist, and had doubts about “Fight for Right.”<supplied
+type="spacer"> </supplied><ref target="n21" type="note">21</ref> Perhaps he was visited in his dreams by
+Blake, who reminded him that in nearly all his work, and in <hi rend="i">Milton</hi> in particular, he had set
+his forehead against corporeal war, that General Sir Francis was a hireling of the camp, that “Mental
+Fight” is the opposite of artillery barrages, barbed wire, machine guns, and gas. Perhaps Blake prophesied
+the Easter Rising in Erin’s green and pleasant land less than a month later, and warned against corporeal
+retribution. Nonetheless Parry gave the hymn to Davies the day after he wrote it and it was performed at
+Queen’s Hall under Davies’s direction with 300 voices from several London choirs. If Blake’s ghost
+stalked the Hall that day so did William Morris’s, for Elgar presented a setting of a part of 
+<hi rend="i">Sigurd the Volsung.</hi>
+	<note id="n19"><hi rend="s">19</hi> Francis Edward Younghusband (1863-1942) had a remarkable career as a
+soldier and explorer in India, the Himalayas, Manchuria, and the Gobi Desert before retiring to England 1910.
+He was also a devout Christian and a mystic who studied Hinduism and Buddhism. He wrote a dozen books of
+travel, mysticism, and memoirs. His biographer gives half a page out of nearly 400 to the “Fight for
+Right” society, and nowhere explains why Younghusband felt called upon to organize it. See George Seaver,
+<hi rend="i">Francis Younghusband: Explorer and Mystic</hi> (London: Murray, 1952) 292.</note>
+	<note id="n20"><hi rend="s">20</hi> Dibble 483. Sir Henry Walford Davies (1869-1941) studied composition with
+Parry. After a career as a church organist he became an organizer of concerts for the troops; in 1918 he was
+appointed musical director to the Royal Air Force. In 1934 he succeeded Elgar as Master of the King’s
+Music.</note>
+	<note id="n21"><hi rend="s">21</hi> See Dibble 470-71 for an account of Parry’s opinion of Germany: he held
+it to blame for the war, but confessed to have been a “pro-Teuton” for its music, philosophy, and
+literature. Schumann, Wagner, and Brahms were major influences on his work.</note></p>
+          <p>Parry’s “Jerusalem” was a rousing success, and Davies got it published right away. It
+quickly caught on. The original version was scored for organ or piano accompaniment, but Parry soon
+orchestrated it, and it was performed everywhere in Britain at concerts and rallies. (Elgar’s more elaborate
+orchestration, first performed at the Leeds Festival of 1922, has displaced Parry’s version in nearly all
+performances since then.) “Fight for Right” was happy with it, but Parry soon grew unhappy with “Fight
+for Right,” and in May 1917 he wrote to Younghusband withdrawing his support for it.<supplied type="spacer"> </supplied><ref target="n22" type="note">22</ref> He was delighted, however, that the women’s suffrage
+movement took it up, and on 17 March 1917 he himself conducted it for the Women’s Demonstration meeting. A
+year later it was sung at a Suffrage Demonstration concert, after which Millicent Garrett Fawcett, for many
+years the president of the National Union of Women’s Suffrage Societies and an old friend of Parry’s,
+wrote to thank him for it and propose that it become the Women Voters’ hymn.<supplied type="spacer"> </supplied><ref target="n23" type="note">23</ref> Parry 
+<pb id="p34-86" n="86"/>
+replied, “Thank you for what you say about the “Jerusalem” song. I wish indeed it might become the Women
+Voters’ hymn, as you suggest. People seem to enjoy singing it. And having the vote ought to diffuse a good
+deal of joy too. So they would combine happily.”<supplied type="spacer"> </supplied><ref target="n24"
+type="note">24</ref> It was soon adopted as the national hymn for the Women’s Institutes. 
+<note id="n22"><hi rend="s">22</hi> Dibble 485. Seaver, <hi rend="i">Younghusband</hi> 292, says Parry gave “Fight for Right”
+the copyright to “Jerusalem.”</note>
+	<note id="n23"><hi rend="s">23</hi> Millicent Garrett Fawcett (1847-1929) was a member of the first women’s
+suffrage committee in 1867 and helped found Newnham College, Cambridge. She became the first president of the
+National Union in 1897 and remained tirelessly active in that role until she resigned shortly after Parliament
+passed a limited women’s suffrage bill in early 1918.
+                            <p>Parry’s wife, the former Maude Herbert, was an active campaigner for
+women’s rights, and a friend not only of Fawcett but of the more militant Pankhursts. See Benoliel
+23.</p></note>
+	<note id="n24"><hi rend="s">24</hi> Graves 2: 93; Dibble 485.</note></p>
+          <p>It is hardly surprising that the women’s movement should want to make the song its own, as
+indeed nearly everyone seemed to enjoy singing it, and felt stirred by both its words and melody. The biblical
+imagery of spiritual warfare captures echoes of several intense eras and movements in British history from the
+seventeenth-century sects to nineteenth-century Anglican reform movements, the “Satanic Mills” and the
+building of Jerusalem make it attractive to laborers, and its wondrous claim that Jerusalem can be built or
+rebuilt here in England make it seem both patriotic and revolutionary, and even restorationist. In 1916,
+however, the imagery of spiritual weaponry culminating in the sword may have struck home, as it were,
+particularly in the women’s movement, for that movement, or some branches of it, had made great use of it. A
+poem printed in <hi rend="i">Votes for Women</hi> in March 1912, for instance, reads “Woman! Arise! And take
+thy fitting place, / Amid the armies of the human race. / Gird on thy sword of justice and of right, / Nor
+rest till victory crowns the valiant fight.” <hi rend="i">The Suffragette</hi> of June 1913 carried a
+cartoon of a woman walking out of Holloway Prison, still shackled, bearing a flame and a flaming sword labeled
+“Spirit.”<supplied type="spacer"> </supplied><ref target="n25" type="note">25</ref> For some factions of
+the women’s movement the sword was less a metaphor than an archaic synecdoche, for they were using literal
+weapons such as explosives in their campaigns. As Millicent Fawcett firmly disagreed with their tactics, her
+enthusiasm for Parry’s song may have been due to its subsuming of warrior imagery under strictly “mental
+fight.” <note id="n25"><hi rend="s">25</hi> Both examples from Cheryl R. Jorgensen-Earp, “<hi rend="i">The
+Transfiguring Sword”: The Just War of the Women’s Social and Political Union</hi> (Tuscaloosa: U of
+Alabama P, 1997) 91. This book deals mainly with British women who took up violence for the cause.</note></p>
+          <p>Parry died in October 1918, a month before the armistice that put an end to the war that he had
+watched with despair. A tablet to his memory is mounted in Gloucester Cathedral, with an inscription by
+Bridges. For his part, Bridges celebrated the Allied victory with a truly awful poem called “Britannia
+Victrix,” which belongs in a select anthology with Wordsworth’s “Thanksgiving Ode” of 1816.</p>
+          <p>Blake’s poem is a four-square structure: four quatrains of iambic tetrameter, with half a dozen
+trochaic inversions but consistently octosyllabic (except possibly line 7, if one gives “Jerusalem” four
+syllables). In an actual recital of the poem, of course, one will give some syllables interm ediate stresses:
+“those” will take more weight than “And” or “in,” for example, while “Shine” might take a
+stress almost equal to “forth.” To my ear the poem is metrically interesting throughout, for it escapes
+sing-song monotony through just enough inversions and semi-stresses. The final stanza, for instance, is
+perfectly regular except for the inversion in the third foot of line 14, putting the stressed “sleep” next
+to “sword,” a striking effect that brings out the suggestion that the sword is not only spiritual but
+conscious.</p>
+          <p>Once Parry decided to couple the stanzas and compose an eight-line melody, he was faced with
+certain difficulties, for neither as quatrains nor as octets are they metrically equivalent or “strophic.”
+The four “Bring me” lines match only the second line of stanza one. The phrase “pleasant pastures” is
+a more substantial phrase than the corresponding “chariot of,” though in metrical schema they are the
+same. Some inadequacies in the resulting setting seem to be due to the compromises required to fit the tune to
+two somewhat different metrical patterns; thus “chariot of” gets an almost absurd weight. I think too that
+Parry planned the melody of the sixth line to fit line 14 of the original, not line 6, for it is perfect for
+“Nor shall my sword sleep in my hand” (“sword” and “sleep” each receiving a full beat), but too
+portentous for “-on our.” But there are few of these awkward moments. The tune seems right for the text in
+so many ways that it is difficult to return to the text alone without hearing it in the mind, and I have had
+students who think Blake wrote the music himself.</p>
+          <p>Parry’s setting is in D major and three-four time. That it is in triple meter might be
+surprising when one thinks of the four beats and eight syllables of the poem, but musical rhythm, of course,
+is much less dependent on stress than on time or interval; it is quantitative rather than qualitative, to use
+the terms of classical metrics. The analysis will be a little easier if we think of the three quarter notes or
+crotchets as six eighth notes or quavers, whereby an eighth note gets one count or beat and there are six
+counts per measure. Since the quantitative equivalent of an iamb is three beats—one beat for the “short”
+and two for the “long”—it then should not be a surprise after all that Parry gives two measures (12
+beats) to each line. On the other hand he seldom distributes two beats to the originally stressed syllables
+and one to the unstressed; that would have been unbearable. Instead, after pondering what to do with feet and
+time, he gave “feet” three beats and “time” four, while to the other two stressed syllables, “did”
+and “an-,” he gave only one beat. The result sounds natural semantically, since “feet” and “time”
+are more significant than “did” and “an-” (the latter gaining semantic weight with its second
+syllable, to which Parry wrote two sixteenth notes). As he begins each line in mid-measure, “feet” and
+“time,” along with “Eng(land),” “green,” “ho(ly),” “God,” and so on, fall on the opening
+beat or downbeat of the measure.</p>
+          <p>As an experiment I have tried to convey to those who do not read music the rhythmical structure
+of the setting by writing numbers above the syllables. This is how one would 
+<pb id="p34-87" n="87"/>
+count it if each eighth note had one beat, with the symbol “&amp;” representing a half-beat (sixteenth
+note).<supplied type="spacer"> </supplied><ref target="n26" type="note">26</ref>
+	<note id="n26"><hi rend="s">26</hi> Text from <hi rend="i">The Church Hymnary</hi>, 3rd ed. (Oxford: Oxford
+UP, 1973) (1st ed. 1927).</note></p>
+          <figure n="JerusalemHymn.Meter.34.3.bqscan" rend="file" width="296" height="550">
+          	<figTranscr>(3 1/2 measures of accompaniment)<lb/>
+          	<lb/>
+          	 4   5   6        123  4   5  6         1234<lb/>
+          	And did those     feet in ancient       time<lb/>
+          	<lb/>
+          	5     6           1    2    3 4  5 6    1 2 3<lb/>
+          	Walk upon         England’s mountains   green?<lb/>
+          	<lb/>
+          	 4   5   6        123  4   5   6        123<lb/>
+          	And was the       ho - ly Lamb of       God<lb/>
+          	<lb/>
+          	 4  5   6          1   2   3 4 5 6       123<lb/>
+          	On England’s      pleasant pastures     seen?<lb/>
+          	<lb/>
+          	  4  5   6         123 4  5 6  &amp;     123<lb/>
+          	And did the       countenance di-       vine<lb/>
+          	<lb/>
+          	  4     5   6    123  4    5  6         1 2 3<lb/>
+          	Shine forth up-   on our clouded        hills?<lb/>
+          	<lb/>
+          	  4  5   6       12 &amp; 34  5 6 &amp;  123<lb/>
+          	And was Je-       ru-salem builded      here<lb/>
+          	<lb/>
+          	 4 5    6         1 2 &amp; 34  56       1234<lb/>
+          	Among these       dark satan - ic       mills?<lb/>
+          	<lb/>
+          	(2 2/3 measures of accompaniment)<lb/>
+          	<lb/>
+          	  34  5  6        123 4   5   6         1234<lb/>
+          	Bring me my       bow of burning        gold<lb/>
+          	<lb/>
+          	   5    6          1  2  34 56          123<lb/>
+          	Bring me my       arrows of de-         sire!<lb/>
+          	<lb/>
+          	   4  5  6         1 2   34   5   6      123<lb/>
+          	Bring me my       spear! O clouds un-   fold!<lb/>
+          	<lb/>
+          	   4  5  6       12 &amp; 34 56          123<lb/>
+          	Bring me my       chari- ot of          fire!<lb/>
+          	<lb/>
+          	4  5    6         1 2 3   4  5 6 &amp;   1 2 3<lb/>
+          	I will not        cease from mental     fight,<lb/>
+          	<lb/>
+          	 4    5   6        1 2   3 4  5  6      123<lb/>
+          	Nor shall my      sword sleep in my     hand,<lb/>
+          	<lb/>
+          	   4 5   6        1 2 3 4    56  &amp;  123<lb/>
+          	Till we have      built Je - ru - sa    lem<lb/>
+          	<lb/>
+          	 4  5   6           1    2   3 4 5 6    123456    12<lb/>
+          	In England’s      green and pleasant    la------ -nd.<lb/>
+          	<lb/>
+          	(1 2/3 measures of accompaniment)</figTranscr>
+          </figure>
+          <p>Though Bridges insisted that it be “suitable, simple music to Blake’s stanzas—music that an
+audience could take up and join in,” the setting is a good deal less simple than that of most congregational
+hymns. The organ or piano accompaniment is more elaborate than normal, with a three-and-a-half-measure
+prelude, a somewhat shorter interlude (or prelude to the second half), and a postlude of one and a half
+measures. There is enough going on in the harmony that even an experienced sight-reader of hymns will need to
+practice it carefully. In part to accommodate the different patterns of emphasis of the two halves, it is to
+some extent “through-composed” like a Lied or art-song, that is, it is not perfectly strophic like hymns
+in a hymnal, where each stanza has the identical music. Parry altered the “left-hand” accompaniment here
+and there, and the dynamic markings, but, more important, he varied the melody, or rather the rhythm of the
+melody, at three significant points.</p>
+          <p>Most of the lines begin, as the “counting” text shows, at the second half of the measure,
+that is, on the fourth beat (at six beats per measure); the exception in each half is the second line, which
+begins on the fifth beat (“Walk upon” and “Bring me my”), the words that end the preceding lines
+(“time” and “gold”) having each taken four beats. So far they are perfectly parallel
+strophically—even to the falling of the sixth beat on two syllables (“upon” and “me my”). But the
+opening word of the second half (“Bring”) begins one beat earlier in the first measure and lasts for two
+beats, the “O” of the third line does the same thing in the second measure, and the “sleep” following
+“sword” does the same thing in the second measure of the sixth. In all three cases Parry jumps the gun and
+slightly throws off the rhythm as established in the first half, but to good effect: the early arrival of the
+first “Bring” expresses its urgency (softened a little by its falling nearly at the bottom of the melodic
+range), as if the speaker cannot wait another beat to take up his bow, and so with the “O” on high D, an
+octave above the “Bring,” as if he can no longer contain himself. (All the more effective, I think, since
+the “O” is unstressed, or only lightly stressed, in the verse scansion.) As for “sleep,” also on high
+D, the melody seems made for it, as I suggested, and it gives proper weight to the metrical inversion of
+Blake’s original poem.</p>
+          <p>Walford Davies was the first to see the setting, the day after Parry wrote it, and they discussed
+it at length. A few years later Davies remembered:
+<q>
+One momentary act of his should perhaps be told here. He ceased to speak, and put his finger on the note D in
+the second stanza where the words “O clouds unfold” break his rhythm. I do not think any word passed about
+it, yet he made it perfectly clear that this was the one note and one moment of the song which he
+treasured.<supplied type="spacer"> </supplied><ref target="n27" type="note">27</ref>
+	<note id="n27"><hi rend="s">27</hi> Letter from Sir Walford Davies to <hi rend="i">The Times</hi>, 27 August
+1927, quoted in Dibble 484.</note></q></p>
+          <p>As it is often printed in hymnals, in strophic form, the two stanzas lineated one above the other
+between the bass and treble clefs, the moment Parry treasured is obliterated, along with the comparable
+“Bring” and “sleep.” The second stanza is assimilated to the rhythm of the first, so “Bring,”
+“O,” and “sleep” all begin on the fourth beat and last half as long. No doubt the hymn is easier to
+sing that way, and it certainly takes up less space in the hymnal, but the result is a diminished thing. Two
+recordings, by Emerson, Lake and 
+<pb id="p34-88" n="88"/>
+Palmer in 1973 and by Billy Bragg in 1990, though they are both effective and interesting renditions (the
+former adding many syncopations and fermatas to the rhythm), are weaker than they should be because they
+depended on a strophic text.</p>
+          <p>The first hymnal to include “Jerusalem” was <hi rend="i">A Students’ Hymnal</hi>, published
+by the Student Christian Movement in 1923 (illus. 1 and 2-6). Founded at Cambridge in 1892, the SCM encouraged
+students to practice the Christian life and recruited them as missionaries.<supplied type="spacer"> </supplied><ref target="n28" type="note">28</ref> Hence it was exactly the right hymn to conclude the movie
+<hi rend="i">Chariots of Fire</hi> (1981), which deals with a Scottish Christian athlete called to be a
+missionary after he competes in the 1924 Olympic games. Probably through SCM the <hi rend="i">American Student
+Hymnal</hi> carried it in 1928, while the <hi rend="i">Church Hymnary</hi> (Church of Scotland and
+Presbyterian Churches) included it in 1927. The Church of England followed suit with the text but not the
+music in the 1933 revision of <hi rend="i">The English Hymnal</hi> (orig. 1906). The hymn is now very common
+in English public schools and American private schools. <note id="n28"><hi rend="s">28</hi> Rogal
+23-24.</note></p>
+          <p>Since its first appearance in an American hymnal, unfortunately, it has often been Americanized.
+The version in the <hi rend="i">American Student Hymnal</hi>, edited by H. Augustine Smith, begins:
+<q>
+And did those feet in ancient time<lb/>
+Walk upon Zion’s mountains green?<lb/>
+And was the holy Lamb of God<lb/>
+In Zion’s pleasant pastures seen?
+</q></p>
+          <p>It would have been all right to substitute “America” for “England” if the meter had
+permitted, but to insert “Zion” is to destroy the point of the whole stanza and make the speaker into an
+idiot. Of course Jesus walked in Zion! So what?</p>
+          <p>There are several other tamperings that drain sense out of the text:
+<q>
+And could that countenance divine<lb/>
+Shine forth upon our clouded hills?<lb/>
+And could Jerusalem arise<lb/>
+Among these dark satanic mills?
+</q></p>
+          <p>What is the motive for denying that Jerusalem is built like any other city? The editor might have
+substituted “And could they build Jerusalem,” which would have paralleled line 15 and eliminated the weak
+“builded here”; instead he gives us the even weaker, almost unsingable, “arise,” with two beats on
+“a-.” Apparently he felt uneasy at the illogical slide from ancient time to the present and so substituted
+the conditional “could.” But it saps the dramatic tension, the sense of astonishment, while making it only
+a little more logical.</p>
+          <p>This version ends not with “Zion” again, which would be too absurd even for Mr. Smith, but
+with
+<figure n="hymnal.34.3.bqscan" rend="file" width="302" height="450">
+	<figTranscr>A<lb/>
+	STUDENTS’ HYMNAL<lb/>
+	FOR USE IN<lb/>
+	SCHOOLS &amp; COLLEGES<lb/>
+	INCLUDING<lb/>
+	200 ENGLISH HYMNS (‘HYMNS OF THE KINGDOM’)<lb/>
+	128 WELSH HYMNS<lb/>
+	AND A FEW<lb/>
+	PSALMS, ANTHEMS, AND CAROLS<lb/>
+	<lb/>
+	PRIFYSGOL CYMRU<lb/>
+	<lb/>
+	SCIENTIA INGENIUM ARTES<lb/>
+	<lb/>
+	EDITED BY SIR WALFORD DAVIES FOR THE NATIONAL<lb/>
+	COUNCIL OF MUSIC IN WALES AND THE WELSH<lb/>
+	COUNTY SCHOOLS ASSOCIATION<lb/>
+	<lb/>
+	BEXLEY HALL LIBRARY<lb/>
+	14637<lb/>
+	<lb/>
+	HARMONIZED EDITION<lb/>
+	<lb/>
+	HUMPHREY MILFORD<lb/>
+	<lb/>
+	OXFORD UNIVERSITY PRESS<lb/>
+	<lb/>
+	LONDON   EDINBURGH   GLASGOW   COPENHAGEN<lb/>
+	NEW YORK   TORONTO   MELBOURNE   CAPE TOWN<lb/>
+	BOMBAY   CALCUTTA   MADRAS   SHANGHAI<lb/>
+	<lb/>
+	1923</figTranscr>
+	<head>1 Cover of <hi rend="i">A Students’ Hymnal</hi> (1923), the first hymnal to include
+“Jerusalem.”</head>
+</figure>
+<q>
+Till we have built Jerusalem,<lb/>
+In every green and pleasant land.
+</q>
+We might have thought that the point was to build Jerusalem (or make it arise) here—in America. He might
+have written “In this our green and plesant land.”<supplied type="spacer"> </supplied><ref target="n29"
+type="note">29</ref> But as it stands it is certainly well adapted for recruiting overseas missionaries. 
+<note id="n29"><hi rend="s">29</hi> A Connecticut friend tells me he often substitutes “New England” for
+“England.” In Wales, apparently, “Jerusalem” is sung enthusiastically in Welsh, with “Cymru”
+replacing “England.” G. V. Barton, “Blake’s ‘Cymru,’” <hi rend="i">Independent</hi> [London], 23
+May 1996, 19.</note></p>
+          <p>One would think the labor movement would have adopted the song right away. Several historians of
+the period have told me they thought “Jerusalem” was sung by miners and other workers during the great
+General Strike of 1926, but I have been unable to confirm it. We do know that when the Strike came to an end
+on 12 May in a defeat for the miners, Prime Minister Baldwin made a radio broadcast to the nation, which was
+followed by a BBC “valedictory.” It concluded: “In going back to work to-morrow, or the next day, can we
+not all go as fellow-craftsmen, resolved in the determination to pick up the broken pieces, repair the gaps,
+and build the walls of a more enduring city—the city revealed to the mystical eyes of William Blake when he
+wrote:—” and then followed all four stanzas. This is powerful rhetoric, though how much it moved the
+workers, who won nothing from the largest strike in British history, is another matter. It is possible that
+the song had been widely sung by the workers, in which case the BBC tried to co-opt it, perhaps as 
+<pb id="p34-89" n="89"/>
+Lyndon Johnson announced “We shall overcome” in 1965, but since for 10 years the song had been circulating
+widely among many groups it does not seem likely that the labor movement had made it distinctively its
+own.<supplied type="spacer"> </supplied><ref target="n30" type="note">30</ref> It may have done so in 1945,
+however, for it was sung outside Transport House, the Labour Party head quarters, after the Labour electoral
+victory.<supplied type="spacer"> </supplied><ref target="n31" type="note">31</ref> In America labor unionists
+and leftists have often sung the song or had it performed at rallies. It was Walter Reuther’s favorite
+hymn.<supplied type="spacer"> </supplied><ref target="n32" type="note">32</ref> Paul Robeson sang it often and
+recorded it. Its manifest Englishness may have limited its appeal, but the American left has been strongly
+internationalist and has often sponsored concerts and published books with songs from around the world. At
+least the left has not, as far as I know, been guilty of rewriting it. <note id="n30"><hi rend="s">30</hi>
+Alfred Havighurst, <hi rend="i">Twentieth-Century Britain</hi>, 2nd ed. (New York: Harper, 1962) 198-99, seems
+to say that Baldwin himself quoted the poem. For the text of the BBC statement, see R. Page Arnot, ed., 
+<hi rend="i">The General Strike: May 1926; Its Origin and History</hi> (London: Labour Research Dept., 1926; rpt.
+New York: Augustus M. Kelley, 1967) 228-29.</note>
+	<note id="n31"><hi rend="s">31</hi> “Scholars will assert that the famous ‘Jerusalem’ hymn is
+crypto-Anglo-Israelitism or what not; but when it was sung in front of Transport House at the Labour victory
+of 1945 the singers showed that they understood it far better than such scholars did.” Northrop Frye,
+“Blake After Two Centuries,” <hi rend="i">University of Toronto Quarterly</hi> 27 (1957), rpt. in Frye,
+<hi rend="i">Fables of Identity</hi> (New York: Harcourt Brace, 1963) 140.</note>
+	<note id="n32"><hi rend="s">32</hi> I owe this fact to Frank Wallick, editor of the United Auto Workers
+newsletter, in a personal conversation, June 1981.</note></p>
+          <p>Two important motion pictures have drawn heavily on the hymn. It is the theme music to 
+<hi rend="i">The Loneliness of the Long-Distance Runner</hi> (1962), directed by Tony Richardson, and based on the
+novel by Alan Sillitoe. The film tells of a young man (played by Tom Courtenay) in a reform school whose
+talent for long-distance running is exploited by the headmaster (Michael Redgrave) for the glory of the
+school. We hear instrumental variations of the melody during the boy’s long runs, and in one painful scene
+the boys sing the hymn in assembly while a captured runaway is beaten with a strap in an office. The
+bitterness of the irony here relies on the hymn’s revolutionary or reformist provenance. The other, as we
+noted, is <hi rend="i">Chariots of Fire</hi> (1981), directed by Hugh Hudson. Though the title is drawn from
+the hymn, the hymn itself is not heard until the final scene in a church. Most viewers of the film remember
+the music of Vangelis Papathanassiou, but, unless I am imagining things, the evocative main theme of his music
+is reminiscent of Parry’s melody. Yet here the associations of the hymn seem the contrary of those in the
+earlier film: idealistic, no doubt, but more concerned with missionary work and personal moral courage—the
+earliest context for the imagery of spiritual warfare, after all (Ephesians 6.11-17)—than with social
+reconstruction.</p>
+          <p>It is not surprising, then, that the socialist singer Billy Bragg has run into opposition in his
+championing of the song. “My belief that ‘Jerusalem’ is a left-wing anthem has got me into arguments
+with public schoolboys at Eton and Trotskyist newspaper sellers in Trafalgar Square. I remain convinced that
+the song does not belong alongside ‘Rule Britannia’ and ‘Land of Hope and Glory’ at the last night of
+the Proms.”<supplied type="spacer"> </supplied><ref target="n33" type="note">33</ref> I agree with Bragg
+about “Jerusalem,” but I think we should encourage the patriotic bourgeoisie to come and sing it anyway.
+It will do them good. <note id="n33"><hi rend="s">33</hi> Liner notes to Bragg’s <hi rend="i">The
+Internationale.</hi></note></p>
+          <div3>
+            <head>
+              <title>
+                <hi rend="b">Discography</hi>
+              </title>
+            </head>
+            <p>The song has been recorded too many times to make a thorough list possible or necessary. Here
+are some examples on CD:</p>
+            <p><hi rend="i">Jerusalem</hi>, with the Choir of Winchester Cathedral, the Waynflete Singers, and
+the Bournemouth Symphony Orchestra (Argo D102372); orchestral version by Elgar. Includes “Blest pair of
+Sirens,” “I was glad,” and two more songs by Parry, as well as several by Stanford and Elgar, among
+others.</p>
+            <p><hi rend="i">I Was Glad: Cathedral Music by Parry</hi>, with the St. George’s Chapel Choir,
+Windsor (Hyperion CDA66273); organ accompaniment. Includes “I was glad,” “Evening Service in D,”
+“Songs of Farewell,” and “Hear my Words, Ye People.”</p>
+            <p><hi rend="i">Allegri: Miserere</hi>, with the Choir of Trinity College, Cambridge (BMG/Conifer
+16851). Includes Parry’s “I was glad” and a song by Walford Davies, as well as works by Allegri,
+Schubert, Barber, Bach, Mendelssohn, et al.</p>
+            <p><hi rend="i">The Last Night of the Proms</hi>, with the BBC Chorus, Choral Society, and
+Orchestra, recorded live at the Royal Albert Hall, directed by Sir Colin Davis (Philips 420-085-2); orchestral
+version by Elgar. Includes pieces by Elgar, Berlioz, Wagner, Mendelssohn, and Handel, and of course Arne’s
+“Rule Britannia.”</p>
+            <p>Paul Robeson, <hi rend="i">Ballad for Americans</hi> (Vanguard B000000ECS); and 
+<hi rend="i">The Odyssey of Paul Robeson</hi> (Vanguard Classics B00000239N).</p>
+            <p>Emerson, Lake and Palmer, <hi rend="i">Brain Salad Surgery</hi> (Rhino R2-72459). This is an
+acid-rock “trip-music” version with heavy synthesizer overlay and echoey voice. According to Greg Lake,
+however, “The lyrics are very bland except for one line, ‘Bring me my bow of burning gold / Bring me my
+arrows of desire.’ The rest of the song was all waffle. But when it came to that line, it was a moment that
+you had to sing the song for” (liner notes).</p>
+            <p>Billy Bragg, <hi rend="i">The Internationale</hi> (Utility/Wea/Elektra 60960-2); Bragg also has
+a CD called <hi rend="i">William Bloke</hi>, but there is nothing by Blake on it.</p>
+            <pb id="p34-90" n="90"/>
+            <figure n="feetpg1.34.3.bqscan" rend="file" width="305" height="450">
+              <figTranscr>11. And did those feet in ancient time<lb/>
+              (JERUSALEM. 8 8 8 8. 8 8 8 8)<lb/>
+              Doh = D.<lb/>
+              Slow, but with animation.<lb/>
+              <lb/>
+              3<lb/>
+              4<lb/>
+              <lb/>
+              {|   :   :   |   :   :   }<lb/>
+              <lb/>
+              3<lb/>
+              4<lb/>
+              <lb/>
+              f   mf cres.<lb/>
+              <lb/>
+              3<lb/>
+              4<lb/>
+              <lb/>
+              SOLO.<lb/>
+              mf<lb/>
+              <lb/>
+              {|   :   :   |   : .d :m .s | l   :- .d :l .s ,f }<lb/>
+              <lb/>
+              And did those feet in an - cient<lb/>
+              <lb/>
+              ff   mf<lb/>
+              <lb/>
+              Copyright, 1916, by Hubert H. Parry.<lb/>
+              24</figTranscr>
+              <head>“And did those feet in ancient time.” Page 1.</head>
+              <figDesc>Music score by Hubert Parry.</figDesc>
+            </figure>
+            <pb id="p34-91" n="91"/>
+            <figure n="feetpg2.34.3.bqscan" rend="file" width="312" height="450">
+              <figTranscr>p<lb/>
+              <lb/>
+              {| s   :-   :l .s ,f | s .m :r :d | l :- .d :m .s }<lb/>
+              <lb/>
+              time   Walk upon England’s moun-tains green? And was the<lb/>
+              <lb/>
+              p<lb/>
+              <lb/>
+              {| l   :- .d :t .l ,s | l   :- .l :t .m | s .fe :m   :r   }<lb/>
+              <lb/>
+              Ho - ly Lamb of God   On England’s plea-sant pas - tures<lb/>
+              <lb/>
+              mf   poco cres.<lb/>
+              <lb/>
+              {| s   :- .r :r .m | f   :- .l :s .,r | f :- .r :f .s }<lb/>
+              <lb/>
+              seen?   And did the Count - te-nance Di - vine   Shine forth up-<lb/>
+              <lb/>
+              mf   poco cres.<lb/>
+              <lb/>
+              25</figTranscr>
+              <head>“And did those feet in ancient time.” Page 2.</head>
+              <figDesc>Music score by Hubert Parry.</figDesc>
+            </figure>
+            <pb id="p34-92" n="92"/>
+            <figure n="feetpg3.34.3.bqscan" rend="file" width="307" height="450">
+              <figTranscr>f<lb/>
+              <lb/>
+              {| l   :- .d :ta .s | l   :- .f :l .d | r .,d :t :t .,l }<lb/>
+              <lb/>
+              - on   our cloud-ed hills?   And was Je - ru - sa - lem build - ed<lb/>
+              <lb/>
+              f<lb/>
+              <lb/>
+              poco rit.<lb/>
+              <lb/>
+              {| s   :- .s :d .l | s .,l :m :r   | d   :-   :   }<lb/>
+              <lb/>
+              here   A-mong those dark Sa - tan - ic   mills?<lb/>
+              <lb/>
+              poco rit.   f<lb/>
+              <lb/>
+              ALL AVAILABLE VOICES.   mf<lb/>
+              <lb/>
+              {|   :   :   |   :   :   |   :d :m .s }<lb/>
+              <lb/>
+              Bring me my<lb/>
+              <lb/>
+              ff   mf<lb/>
+              <lb/>
+              26   8</figTranscr>
+              <head>“And did those feet in ancient time.” Page 3.</head>
+              <figDesc>Music score by Hubert Parry.</figDesc>
+            </figure>
+            <pb id="p34-93" n="93"/>
+            <figure n="feetpg4.34.3.bqscan" rend="file" width="297" height="450">
+              <figTranscr>{| l   :- .d :l .s ,f | s   :-   :l .s ,f | s .m :r :d   }<lb/>
+              <lb/>
+              bow of burn-ing gold! Bring me my ar-rows of de - <lb/>
+              <lb/>
+              8<lb/>
+              <lb/>
+              {| l   :- .d :m .s | l   :d   :t  .l ,s | l   :- .l :t .m }<lb/>
+              <lb/>
+              - sire!   Bring me my spear! O clouds un - fold!   Bring me my<lb/>
+              <lb/>
+              p<lb/>
+              <lb/>
+              {| s .,fe :m :r   | s   :- .r :r .m | f   :- .l :s .,r }<lb/>
+              Cha - ri - ot of Fire!   I will not cease from men - tal<lb/>
+              <lb/>
+              p<lb/>
+              <lb/>
+              27</figTranscr>
+              <head>“And did those feet in ancient time.” Page 4.</head>
+              <figDesc>Music score by Hubert Parry.</figDesc>
+            </figure>
+            <pb id="p34-94" n="94"/>
+            <figure n="feetpg5.34.3.bqscan" rend="file" width="306" height="450">
+              <figTranscr>Allargando.<lb/>
+              <lb/>
+              {| f   :- .r :f .s | l :d :ta .s | l   :- .f :l .d }<lb/>
+              <lb/>
+              fight; Nor shall my sword sleep in my hand   Till we have<lb/>
+              <lb/>
+              ff   rit.<lb/>
+              <lb/>
+              {| r   :- .d :t .,l | s   :- .s :d .l | s .l :m :r   }<lb/>
+              <lb/>
+              built Je - ru - sa - lem   In England’s freen and plea - sant<lb/>
+              <lb/>
+              ff   rit.<lb/>
+              <lb/>
+              {| d   :-   :-   | -   :   :   |   :   :   ||<lb/>
+              <lb/>
+              land.   .   .   .<lb/>
+              <lb/>
+              ff<lb/>
+              <lb/>
+              8<lb/>
+              <lb/>
+              28</figTranscr>
+              <head>“And did those feet in ancient time.” Page 5.</head>
+              <figDesc>Music score by Hubert Parry.</figDesc>
+            </figure>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

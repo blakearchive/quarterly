@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>14.4.bindman</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="discussion">The Dead Ardours Revisited</title>
+        <author n="Bindman">David Bindman</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">14.4</biblScope>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Pam Blair</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Contributors</resp>
+              <name>Rodney M. Baine</name>
+              <name>David Bindman</name>
+              <name>Robert N. Essick</name>
+              <name>Michael Fischer</name>
+              <name>Thomas R. Frosch</name>
+              <name>Erik Frykman</name>
+              <name>Robert F. Gleckner</name>
+              <name>Nelson Hilton</name>
+              <name>Morton D. Paley</name>
+              <name>William Vaughan</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date value="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_14">
+    <body>
+      <pb id="p14-211" n="211"/>
+      <div1 id="BQ-14-4-0009">
+        <head>
+          <title type="section">
+            <hi rend="b">DISCUSSION</hi>
+          </title>
+          <title type="section-subtitle">
+            <hi rend="b">WITH INTELLECTUAL SPEARS &amp; LONG WINGED ARROWS OF THOUGHT</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">THE DEAD ARDOURS REVISITED</title>
+          </head>
+          <byline>
+            <docAuthor>David <name>Bindman</name></docAuthor>
+          </byline>
+          <p>Before “The Dead Ardours Perry” enters the canon of Blake’s
+                        writings [see David V. Erdman, “Leonora, Laodamia, and the Dead
+                        Ardours,” <hi rend="i">Blake</hi> 54, Fall 1980, pp. 96-98] and becomes
+                        part of the intellectual heritage of the English-speaking peoples it might
+                        be of interest for me to describe what I can make of the words on the
+                        drawing with it in front of me. To begin with, the letters ‘W
+                        B’ on the left are <hi rend="i">below</hi> the level of the disputed
+                        text, therefore David Erdman’s assumption that they belong with it is
+                        doubtful: more to the point, perhaps, is that the letters ‘W
+                        B’ do not look as if they are in Blake’s hand, and they are
+                        not in the same type of script as the other text. There can be no doubt
+                        about the initial words ‘The dead’ nor, I believe, that they
+                        are in Blake’s own formal script, but it is still not even clear how
+                        many words follow. I agree with Erdman that ‘bad-doers’ does
+                        not work but I would dispute it because there appear to be <hi rend="i">four</hi>
+letters where he reads the ‘ard’ of
+                        ‘ardours’; in fact I see a faint ‘b’ or another
+                        letter with a long vertical stroke before his conjected ‘ard’.
+                        That final ‘d’ is certain, the ‘ar’ at least
+                        possible, in which case we are left with ‘bard’, which makes
+                        sense but can only be regarded as a tentative suggestion. The four letters
+                        read by Erdman as ‘ours’ may complete the word as he suggests
+                        (in which case it would be unlikely to begin with ‘bard’);
+                        there could be a hyphen between them and the previous word (as in
+                        ‘bad-doers’), or they could form a separate word. What makes
+                        it especially difficult is that they seem to have been gone over and altered
+                        in pencil, most likely by Blake himself. As for the word read by Erdman as
+                        ‘Perry’ it looks very much to me and to others who have looked
+                        at it as if it begins with an elaborate ‘l’ and it could end
+                        with a ‘g’ and not a ‘y’. I can make nothing of
+                        the letters in between. I should also say that it seems very improbable that
+                        Blake would have brought in the name of such an obscure engraver in this
+                        way, in the same formal script as the title, even if there were other
+                        evidence to connect it with the <hi rend="i">Leonora</hi> engravings.</p>
+          <p>I am sorry to have thrown the question open again, but anyone who wants to
+                        have another try is always welcome to look at the drawing in London. 
+<hi rend="i">David V. Erdman’s response will appear in the summer
+                            1981 issue. Eds.</hi></p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

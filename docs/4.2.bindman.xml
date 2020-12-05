@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.2.bindman</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">An Unpublished Blake Pencil Drawing of the Lambeth Period</title>
+                <author n="Bindman">David Bindman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1970</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1970</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.2</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1970"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+        <pb id="p04-38" n="38"/>
+            <div1 id="BQ-04-2-0004">
+                <figure n="BUT232.1.1r.PD" rend="file" width="958" height="484">
+                    <figTranscr>W.B. The dead ardours</figTranscr>
+                    <head>1 Drawing known as “The Dead Bad-Doers,” recto.</head>
+                    <figDesc>In the collection of David Bindman.</figDesc>
+                </figure>
+                <figure n="BUT232.1.1v.PD" rend="file" width="958" height="470">
+                    <head>2 “The Dead Bad-Doers,” verso.</head>
+                </figure>
+                <pb id="p04-39" n="39"/>
+                <head>
+                    <title type="section">
+                        <hi rend="b">NOTES</hi>
+                    </title>
+                </head>
+                <div2>
+                    <byline>1. <docAuthor>
+                            <hi rend="i">DAVID</hi>
+                            <name>
+                                <hi rend="i">BINDMAN</hi>
+                            </name>:
+                        </docAuthor>
+                        <hi rend="i">WESTFIELD COLLEGE, LONDON</hi>
+                    </byline>
+                    <head>
+                        <title type="main">An Unpublished Blake Pencil Drawing of the Lambeth Period</title>
+                    </head>
+                    <p>A previously unpublished drawing by Blake appeared in a sale at Sotheby’s in London
+earlier this year and was bought by the present writer. The drawing was described as “The Dead Bad-Doers” and
+had been sold with the William Bell Scott collection under the same title in 1892.<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> It had more recently been in the collections of Lord Nathan,
+inserted in an extra-illustrated volume, and of Mr. F. L. Wilder. 
+                        <note id="n1">
+                            <hi rend="s">
+                                1
+                            </hi> W. B. Scott sale (14 July 1892), Sotheby’s, lot 135, bt. Ellis
+(£1.13.0).</note>
+                    </p>
+                    <p>The <hi rend="i">recto</hi> [1] shows a group of three figures floating on a cloud in
+various stages of wakefulness, and there is a rather faint inscription of probably four words in what is
+certainly Blake’s own formal script underneath the bearded figure. This was read by Bell Scott or the
+compiler of his sale catalogue as “The Dead Bad-Doers,” but in fact only the first two words “The Dead” can be
+read clearly, and the words following could not be “Bad-Doers.” They are now indecipherable despite prolonged
+attempts at reading them with ultra-violet light. A pencilled inscription “W. B.” to the left of the
+inscription does not seem to be in Blake’s hand. The <hi rend="i">verso</hi> [2] contains a faint sketch
+which Mr. Martin Butlin has identified as a study in reverse for the titlepage of <hi rend="i">The Song of
+Los</hi>, of Urizen reclining with his hand on a skull.</p>
+                    <p>The drawing on the <hi rend="i">recto</hi> does not correspond to any known composition
+by Blake, but it does have a general similarity in atmosphere and style to some of the plates in 
+<hi rend="i">The Book of Urizen</hi>, notably plate 17. The drawing is quite highly finished in parts, especially
+in the face of the Urizen-like bearded figure, which tends to suggest the first rather than the second half of
+the 1790’s. A date of about 1793-95 would seem to be about right on stylistic grounds. The inscription “The
+Dead” is an obvious clue to the subject, and the crouching position of the bearded figure as well as the
+struggles of the lower figure to disengage himself from a burial-shroud suggest that the drawing depicts the
+dead awakening from their slumber. In <hi rend="i">The Book of Urizen</hi>: “The dead heard the voice of the
+child / And began to awake from sleep / All things heard the voice of the child / And began to awake to
+life.”<supplied type="spacer"> </supplied><ref target="n2" type="note">2</ref> This passage occurs on plate
+20, which has an illustration of the child Orc, and I can only suggest tentatively that the present drawing
+may have been intended initially to illustrate the passage but was rejected in the final version. This can
+only be a speculation, but the drawing does seem to point towards <hi rend="i">The Book of Urizen</hi>, and
+certainly towards a Prophetic Book rather than an independent composition. 
+                        <note id="n2">
+                            <hi rend="s">
+                                2
+                            </hi>
+                            <hi rend="i"> The Complete Writings of William Blake</hi>, ed. Geoffrey Keynes
+(London, 1957), p. 233.</note>
+                    </p>
+                    <p>There is no record of where William Bell Scott acquired the drawing, and his collection
+seems to have been gathered from various sources.<supplied type="spacer"> </supplied><ref target="n3"
+type="note">3</ref> There is, however, some circumstantial evidence of its previous history. It would seem to
+correspond to drawing no. 116 in W. M. Rossetti’s list in the 1863 edition of Gilchrist’s 
+<hi rend="i">Life</hi>, which is described as “A Dying Man crouching, with floating figures.”<supplied
+type="spacer"> </supplied><ref target="n4" type="note">4</ref> It is mentioned as being in the possession of
+“Mr. Evans,” who is presumably the dealer to whom Tatham sold a number of Blake drawings,<supplied
+type="spacer"> </supplied><ref target="n5" type="note">5</ref> and who also sold some Blake items to the
+British Museum in the 1850’s. “Mr. Evans” also owned the next drawing in the list, no. 117, “An Angel taking
+a huge stride in the air,” which must be the drawing now in the Victoria and Albert Museum. Many of the
+uncoloured works that follow the above two drawings in the list are described as belonging to “Mr. Harvey,”
+i.e., the dealer Harvey of Cockspur Street. A number of these drawings as well as the “Angel taking a huge
+stride” are now in the Victoria and Albert Museum, which purchased them in a bundle of twelve miscellaneous
+drawings from the dealer Parsons in 1881.<supplied type="spacer"> </supplied><ref target="n6"
+type="note">6</ref> Most of the
+<pb id="p04-40" n="40"/>
+Victoria and Albert Museum drawings have, like the present example, a price scrawled on the 
+<hi rend="i">verso</hi>, and in some cases crossed out and reduced. The present drawing has the price of two
+guineas reduced to one, and furthermore the word “guinea” is incorrectly spelt “guinie” as on some of the
+Victoria and Albert drawings. It is probable then that the prices were put on by Harvey, who must have sold
+the residue of his Blake drawings to Parsons, and they seem to have been priced according to the degree of
+finish. In the meantime he had sold a number of them previously to collectors, including a pencil drawing of
+“A Squatted Devil” (Rossetti, no. 123) to Bell Scott.<supplied type="spacer"> </supplied><ref target="n7"
+type="note">7</ref> To sum up, the probable early provenance of the drawing is as follows: Mrs. Blake,
+Frederick Tatham, Evans by 1863, Harvey before 1880, William Bell Scott. Most of Blake’s miscellaneous
+drawings came through Tatham as Mrs. Blake’s executor so the provenance is hardly surprising, but if the
+scrawled prices on the back of many of Blake’s drawings can be established as that of the dealer Harvey then
+they could provide a link between existing drawings and the often cryptic descriptions in Rossetti’s list. 
+                        <note id="n3">
+                            <hi rend="s">
+                                3
+                            </hi> See W. B. Scott, <hi rend="i">William Blake: Etchings from his works</hi>
+(London, 1878).</note>
+                        <note id="n4">
+                            <hi rend="s">
+                                4
+                            </hi> Alexander Gilchrist, <hi rend="i">Life of William Blake, “Pictor
+Ignotus”</hi> (London and Cambridge, 1863), II, 250.</note>
+                        <note id="n5">
+                            <hi rend="s">
+                                5
+                            </hi> See Tatham’s letter to W. M. Rossetti of 6 November 1862 (W. M. Rossetti,
+<hi rend="i">Rossetti Papers</hi> [London, 1903], p. 16).</note>
+                        <note id="n6">
+                            <hi rend="s">
+                                6
+                            </hi> For example, Rossetti, nos. 121, 122, 143. The twelve drawings were bought
+from E. Parsons in 1881 for £7.14.0 (accession nos. 8761-65).</note>
+                        <note id="n7">
+                            <hi rend="s">
+                                7
+                            </hi> K. Preston, ed., <hi rend="i">The Blake Collection of W. Graham
+Robertson</hi> (London, 1952), p. 239, no. 126, lot 138 in the Bell Scott sale of 14 July 1892.</note>
+                	</p>
+                </div2>
+            </div1>  
+        </body>
+    </text>
+</TEI.2>

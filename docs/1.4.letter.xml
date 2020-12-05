@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.letter</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="discussion">On the Newly Rediscovered Blake Letter</title>
+				<author n="Erdman">David V. Erdman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <pb id="p01-12" n="12"/>
+                <div1 id="BQ-01-4-0005">
+                    <head>
+                        <title type="section"><hi rend="u">DISCUSSION</hi></title>
+                    </head>
+                    <head>
+                        <title type="section-subtitle">“With intellectual spears, &amp; long winged arrows of
+thought”</title>
+                    </head>
+                    <head>
+                        <title type="main">On the Newly Rediscovered Blake Letter</title>
+                    </head>
+                    <byline>
+                        <docAuthor>David V. <name>Erdman</name>
+                        </docAuthor> State University of New York Stony Brook</byline>
+                    <p>It is a piece of good fortune that the long missing letter of Blake to Hayley (16 July
+1804) which found its way into the hands of Goodspeed’s of Boston recently did then find its way into the
+generous hands of Frederick W. Hilles, who at once gave the full text to the world in the Autumn 1967 
+<hi rend="u">Yale Review</hi> (pages 85-89). To top that generosity, Professor Hilles sent, with offprint, a xerox
+copy of the letter.</p>
+                    <p>Collation turns up two flaws in the transcript. In the 13th line of the letter, as
+printed, “from” should read “fears”, thus: <corr type="emend">“Mr</corr> P was at Brighton with Mr Hoare -
+fears that so good” etc. In the 11th line from the end the ampersand (&amp;) should be an etcetera (&amp;c),
+thus: “I will again read Clarissa &amp;c [end of line] They must be admirable [space] I was too hasty in my
+perusal of them to percieve all their beauty.” Professor Hilles responds: “You are so right about 
+<hi rend="u">
+                            <hi rend="u">fears</hi>
+                        </hi> . . . . As to ‘Clarissa &amp;c’, you <hi rend="u">may</hi> be right . . .
+the curve above the line . . . doesn’t <hi rend="u">
+                            <hi rend="u">look</hi>
+                        </hi> like a <hi rend="u">c</hi> but . . . .” With either reading, Blake’s “they”
+could refer, as Hilles in the <hi rend="u">Yale Review</hi> suggests, to the letters in the Richardson 
+<hi rend="u">Correspondence</hi>—or to that book’s six volumes. But “Clarissa &amp;c” must mean: The novels
+must be better than I supposed.</p>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

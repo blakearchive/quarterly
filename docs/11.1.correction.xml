@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>11.1.correction</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="correction">Correction: Island Tape</title>
+                <author n="Frost">Everett Frost</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Summer 1977</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">11.1</biblScope>
+                        <biblScope unit="volume">11</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Bibliographer</resp>
+                            <name>Thomas Minnick</name>
+                            <resp>Associate Editor for Great Britain</resp>
+                            <name>Frances A. Carey</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Brad Hayden</name>
+                            <resp>Design Consultant</resp>
+                            <name>Michael Hays</name>
+                            <resp>Circulation Manager</resp>
+                            <name>Jane Welford</name>
+                            <resp>Contributors</resp>
+                            <name>John Beer</name>
+                            <name>G. E. Bentley, Jr.</name>
+                            <name>Raymond Deck</name>
+                            <name>Thomas Dilworth</name>
+                            <name>Detlef W. Dörrbecker</name>
+                            <name>David V. Erdman</name>
+                            <name>Robert F. Gleckner</name>
+                            <name>Corinne M. Henning</name>
+                            <name>Donald L. Kent</name>
+                            <name>Vivian Mercier</name>
+                            <name>Karen Mulhallen</name>
+                            <name>Dennis Read</name>
+                            <name>Grant C. Roti</name>
+                            <name>Richard J. Schroyer</name>
+                            <name>Ruthven Todd</name>
+                            <name>David Worrall</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1977"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_11">
+        <body>
+            <div1 id="BQ-11-1-0012">
+            	<pb id="p11-62" n="62"/>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="b">Correction: Island Tape</hi>
+                        </title>
+                    </head>
+                    <p>I am very grateful for Martin Nurmi’s appreciative remarks (<hi rend="i">Newsletter
+40</hi>) about our audio-tape production of
+                        Blake’s <hi rend="i">Island in the Moon.</hi> I’m
+                        sorry to have to inform readers, however, that the assertion in the review
+                        that the tape is now available for sale is incorrect (and I hasten to add
+                        that the responsibility for this misinformation may well not lie with the
+                        reviewer). Alas, as with many worthy things done with too little money, the
+                        tape is frozen into a complicated limbo of rights, residuals, union
+                        stipulations, and the like. Mr. Cansino and I labor towards that happy day
+                        when all can have an <hi rend="i">Island</hi> that everyone will joy to
+                        hear, but we cannot now foresee it.</p>
+                    <p>In the meantime the tape is authorized only for rental to noncommercial radio
+                        stations for broadcast purposes (the rates varying according to the size,
+                        character, and relationship to Pacifica of the local station). Readers with
+                        a cooperative college or community radio station at hand can have the
+                        station arrange a broadcast through Pacifica Program Services, 5316 Venice
+                        Boulevard, Los Angeles, California 90027.</p>
+                    <p>My personal copy of the tape can also be sometimes loaned to substantial
+                        Blake gatherings; but it is beyond both my capacity and my contractual
+                        restrictions to satisfy personal, scholarly, or classroom needs. Again,
+                        alas.</p>
+                    <p>Finally, it ought to be noted that we have come <hi rend="i">this</hi> far at
+                        least with partial financial assistance from the National Endowment for the
+                        Arts (on the genial principle that when empire puts money into art, such
+                        recognition encourages them to keep doing it).</p>
+					<byline><docAuthor>EVERETT <name>FROST</name></docAuthor>, CALIFORNIA
+                        STATE UNIVERSITY, FRESNO.</byline>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.1.paley</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="article">A Victorian Blake Facsimile</title>
+        <author n="Paley">Morton D. Paley</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Summer 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.1</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Susan Corban</name>
+              <resp>Editorial Assistants</resp>
+              <name>Pam Blair</name>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>Kris Lackey</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <name>David V. Erdman</name>
+              <name>Robert N. Essick</name>
+              <name>Nelson Hilton</name>
+              <name>Martin K. Nurmi</name>
+              <name>Judith Page</name>
+              <name>Morton D. Paley</name>
+              <name>Henry Summerfield</name>
+              <name>Joseph Wittreich</name>
+              <name>David Worrall</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <pb id="p15-24" n="24"/>
+      <div1 id="BQ-15-1-0007">
+        <head>
+          <title type="main">
+            <hi rend="b">A VICTORIAN BLAKE FACSIMILE</hi>
+          </title>
+        </head>
+        <byline>
+          <docAuthor>
+            <hi rend="b">MORTON D.</hi>
+            <name>
+              <hi rend="b">PALEY</hi>
+            </name>
+          </docAuthor>
+        </byline>
+        <p><hi rend="i">Works of William Blake</hi>, bearing no publisher’s
+                    imprint and dated 1876 on its title page, has posed a minor conundrum in Blake
+                    scholarship. The title page announces it as “Reproduced in Facsimile
+                    From the Original Editions. One hundred copies printed For private
+                    circulation.” It is a facsimile of very poor quality, yet it made
+                    available for the first time complete reproductions of <hi rend="i">Songs of
+                        Innocence and of Experience, The Book of Thel, Visions of the Daughters of
+                        Albion, America, Europe, The Book of Urizen</hi>, and <hi rend="i">The Song
+                        of Los.</hi> These were not to appear in facsimile again until William
+                    Muir’s considerably better productions of 1884-90.<supplied type="spacer"> </supplied><ref target="n73" type="note">1</ref> Thus <hi rend="i">Works</hi> has some historical
+                    importance as a pioneering albeit seriously flawed project, but the
+                    circumstances of its publication have never been made clear up to now. In the
+                    Keynes <hi rend="i">Bibliography</hi> it is assigned to the publisher F. S.
+                        Ellis,<supplied type="spacer"> </supplied><ref target="n74" type="note">2</ref> while
+the Bentley <hi rend="i">Blake Books</hi> gives no publisher for <hi rend="i">Works</hi> under the
+                    main entry and assigns the facsimiles to John Pearson in individual entries for
+                    each illuminated book.<supplied type="spacer"> </supplied><ref target="n75"
+type="note">3</ref> In “A
+                    Supplement to <hi rend="i">Blake Books</hi>” (<hi rend="i">Blake/An
+                        Illustrated Quarterly</hi>, 11 [1977-78], 148), Professor Bentley suggests
+                    that “The sponsor, who is not identified in the book, may be Andrew
+                    Chatto.” It now can be shown that the publisher was definitely Chatto
+                    and Windus, that the actual date of publication was 1878, and that <hi rend="i">Works</hi>
+was probably the abortive result of an ambitious plan for a
+                    complete Blake facsimile originally conceived by John Camden Hotten. 
+<note id="n73"><hi rend="s">1</hi><hi rend="i"> The Edition of the Works of William Blake</hi> (Edmonton: The
+                        Blake Press).</note>
+	<note id="n74"><hi rend="s">2</hi> Geoffrey Keynes, <hi rend="i">A Bibliography
+                            of William Blake</hi> (New York: Grolier Club, 1921), pp. 293-94.</note>
+	<note id="n75"><hi rend="s">3</hi> G. E. Bentley, Jr., <hi rend="i">Blake
+                            Books</hi> (Oxford: The Clarendon Press, 1977), pp. 501, 102, 159, 126,
+                        181, 426, 473. Professor Bentley now agrees that <hi rend="i">Works</hi>
+                        should be attributed to Chatto and Windus and the 1877 <hi rend="i">Jerusalem</hi> to
+John Pearson, and has kindly given me the benefit of
+                        his criticism in the preparation of this note. I am also indebted to
+                        Professor Robert N. Essick for invaluable information.</note></p>
+        <p>In 1868 John Camden Hotten published the first complete facsimile of one of
+                    Blake’s illuminated books, <hi rend="i">The Marriage of Heaven and
+                        Hell.</hi> As I have shown elsewhere, this was intended as the first volume
+                    in a series which Hotten announced as “facsimile copies (exact as to
+                    paper, printing—the water-colour drawings being filled in by an
+                    artist) of the ORIGINAL EDITIONS of the books written and illustrated by William
+                        Blake.”<supplied type="spacer"> </supplied><ref target="n76" type="note">4</ref>
+This plan was
+                    evidently set back by the sudden death in 1868 of Hotten’s artist,
+                    Henry John Bellars. It appears that Hotten had difficulty in finding another
+                    facsimilist of Bellars’ skill, for on 8 September 1870 Hotten wrote
+                    to the printers Banks &amp; Co.: “I may ask if you have an artist
+                    who can successfully reduce Cruikshank’s etchings &amp; draw on
+                    stone (or engrave), the printing to be done in colours like the plates to <hi rend="i">Tom
+and Jerry.</hi>”<supplied type="spacer"> </supplied><ref target="n77" type="note">5</ref>
+                    When Hotten died in 1873 at the age of forty, no further Blake facsimiles had
+                    been issued. <note id="n76"><hi rend="s">4</hi> See my article “John
+                        Camden Hotten, A. C. Swinburne, and the Blake Facsimiles of 1868,”
+                            <hi rend="i">Bulletin</hi> of the New York Public Library, 79 (1976),
+                        259-96. The quotation is from an excerpt from a sale catalogue in a copy of
+                        the Hotten <hi rend="i">Marriage</hi> facsimile in the collection of Robert
+                        N. Essick.</note>
+	<note id="n77"><hi rend="s">5</hi> Quotations from the letters of John Camden
+                        Hotten and of Andrew Chatto are from the copies in the Letter Books of
+                        Chatto and Windus, to whom I am grateful for permission to use
+                    them.</note></p>
+        <p>After Hotten’s death, a chestful of drawings after Blake, some of
+                    which may have been studies by Bellars for the projected facsimile, was found in
+                    Hotten’s cellar. These drawings were bought by the New York dealer J.
+                    W. Bouton and offered for sale as genuine Blakes, laying the ground for the
+                    story of the “John Camden Hotten forgeries.” Meanwhile
+                    Hotten’s business was acquired by his former publishing associate
+                    Andrew Chatto, who was joined in partnership by W. E. Windus. The plan for an
+                    extensive Blake facsimile was not abandoned, and in the following year
+                    considerable progress was made on it. On 17 September 1874 Chatto wrote to
+                    William Michael Rossetti, who had assisted Hotten with his Blake projects: 
+					<q>
+                        Dear Sir<lb/>
+<lb/>
+ I send herewith sample proofs of facsimiles of six more
+                        of W<hi rend="s">m</hi> Blake’s works. When carefully coloured by
+                        hand they will look wonderfully like the originals<lb/>
+<lb/>
+ Printed on
+                        paper the present size the whole of Blakes works might be contained in 2
+                        volumes, but I think it will be desirable to strike off a few copies to be
+                        sold separately on paper the approximate size of the originals.<lb/>
+ Yours
+                        very faithfully,<lb/>
+ Andrew Chatto </q>
+Chatto must have found, however,
+          that the time required was longer than had been anticipated, for 
+<pb id="p15-25" n="25"/>
+<figure n="America.p13.1876Works.15.1.bqscan" rend="file" width="704" height="1000">
+	<head>1 <hi rend="i">America</hi>, plate 13.</head>
+	<figDesc>From 1876 <hi rend="i">Works.</hi> By permission of The Huntington
+                            Library, San Marino, California.</figDesc>
+</figure> his ledger shows that on 17 November 1877, he ordered one hundred sets
+                    of “Blake reproductions” to be printed by Banks and that on 26
+                    January 1878, 103 printed sets were dispatched to the binder Sotheran.<supplied
+type="spacer"> </supplied><ref target="n78" type="note">6</ref> That this was a lithographic reproduction
+                    in indicated by the ledger notation “Illustrations: / Stone Bonds <hi rend="i">rubbed
+off.</hi>” (Possibly the lithographic stones had
+                    previously been used for printing bonds. The word could equally be
+                    “bands,” but this makes no sense). The costs were
+                    £100—a surprisingly large sum, especially in view of the poor
+                    quality of the work—paid to an unnamed artist, £37/10 for
+                    printing and £21 for binding. The disposition of stock is not indicated, an
+                    unusual feature in these meticulously kept ledger books. 
+<note id="n78"><hi rend="s">6</hi> Ledger 3, p. 185. The Huntington Library copy of <hi rend="i">Works</hi> bears the stamp of
+the binder Bone, who also worked
+                        extensively for Hotten and for Chatto. It may be that Sotheran farmed out
+                        some of the binding to Bone.</note></p>
+        <p>In their list for 1877, Chatto and Windus advertised the facsimile as follows: 
+		<q><hi
+rend="i">Blake’s Works</hi><lb/>
+<lb/>
+ A series of
+                        Reproductions in Facsimile of the Works of William Blake, including the
+                        “Songs of Innocence and Experience” [sic], “The
+                        Book of Thel,” “America,” “The Vision of
+                        the Daughters of Albion,” [sic] “The Marriage of Heaven
+                        and Hell,” “Europe, a Prophecy,”
+                        “Jerusalem,” “Milton,”
+                        “Urizen,” “the Song of Los,”
+                        &amp;c. [<hi rend="i">in preparation</hi>]<supplied type="spacer"> </supplied><ref
+target="n79" type="note">7</ref>
+	<note id="n79"><hi rend="s">7</hi> From an unpaginated list appended to <hi rend="i">Choice Humourous
+Works</hi> by Mark Twain (London: Chatto
+                            and Windus, 1877).</note></q>
+This is a considerably broader list of titles than
+was actually published:
+                    the inclusion of <hi rend="i">Milton</hi> and <hi rend="i">Jerusalem</hi> would
+                    have almost doubled the number of pages, necessitating the two volume
+                    publication that Chatto had envisaged in 1874. The actual contents are correctly
+                    indicated, though there are some mistakes as to titles and dates of publication,
+                    in J. W. Bouton’s catalogue no. 56 (undated, but probably published
+                    c. 1881): 
+					<q> Works of <hi rend="i">William Blake</hi><lb/>
+<lb/>
+ A reproduction
+                        of the Original issues of the works of this remarkable Artist, comprising
+                        “Songs of Innocence and Experience,” 55 leaves (1789);
+                        “Book of Thel,” 8 leaves, 1789; “America, a
+                        Prophecy,” 18 leaves, 1793; “The First Book of
+                        Urizen,” 26 leaves, 1794; “The Song of Los,” 8
+                        leaves (1794). Carefully printed on heavy plate paper in the original
+                        colors. 1 vol. folio, <hi rend="i">hf. roxb., morocco, gilt top, uncut.</hi>
+                        $22.50.<lb/>
+<lb/>
+*⁎*“One hundred copies printed for private
+                        circulation”<lb/>
+ Reprinted in facsimile from the excessively rare
+                        Original Editions. 1789-94. Printed on one side only.<supplied type="spacer"> </supplied><ref target="n80" type="note">8</ref>
+	<note id="n80"><hi rend="s">8</hi> The readings should of course be
+                            “Songs of Innocence and <hi rend="i">of</hi>
+                            Experience” and “Visions of the Daughters of
+                            Albion.” The latter was published in 1793, not 1789; <hi rend="i">The Book of
+Thel</hi> bears the publication date 1789 and
+                            not 1794; and <hi rend="i">The Song of Los</hi> was published in 1795
+                            not 1794. For some reason <hi rend="i">The Book of Los</hi>, the sole
+                            known copy of which had been sold to the British Museum in 1866, was not
+                            part of the plan. Neither was <hi rend="i">The Book of Ahania</hi>, the
+                            sole known copy of which was then in the collection of Lord Houghton.
+                            The first facsimiles of these two books were published by E. J. Ellis
+                            and W. B. Yeats in volume III of <hi rend="i">The Works of William
+                                Blake, Poetic, Symbolic and Critical</hi> (London: B. Quaritch,
+                            1893).</note></q>
+Apparently the advertisement was issued before Bouton had seen a
+copy of
+                        <hi rend="i">Works</hi>, since the facsimile is <hi rend="i">not</hi>
+                    “in the original colors,” though Chatto had intended that it
+                    be. When Bouton advertised <hi rend="i">Works of William Blake</hi> in his
+                    catalogue 63 (c. 1885), the wording was almost identical with that of catalogue
+                    56, but mention of color was omitted.</p>
+        <p>With this information in mind, we are in a position to reconstruct the
+                    circumstances leading to the publication of <hi rend="i">Works.</hi> The
+                    facsimile scheme was initiated by John Camden Hotten and taken over after
+                    Hotten’s death by his successor Andrew Chatto. Some proofs were ready
+                    in September 1874. Publication was anticipated for 1876, for a letterpress title
+                    page bearing that date was printed. (The absence of a publisher’s
+                    imprint is not inconsistent with the practice of the time: neither
+                    Hotten’s 1868 <hi rend="i">Marriage</hi> nor Pearson’s
+                    1877 <hi rend="i">Jerusalem</hi> bears one.) The plan was to issue a
+                    hand-colored facsimile, and some colored proofs may have been prepared, but
+                    possibly owing to the poor quality of the facsimile work, the book was issued
+                    uncolored and reduced in its scope. <hi rend="i">The Marriage of Heaven and
+                        Hell</hi>, still available in Hotten’s edition, was left out, and
+                    so were Blake’s two longest illuminated books, <hi rend="i">Milton</hi> and 
+<hi rend="i">Jerusalem.</hi> The collection was published
+                    in a single volume in 1878.</p>
+        <p><hi rend="i">Works by William Blake</hi> comprises facsimiles of six of
+                    Blake’s illuminated works, as follows:</p>
+        <p>1. <hi rend="i">Songs of Innocence and of Experience</hi>, 55 leaves 
+<pb id="p15-26" n="26"/>
+<figure n="FreehandDetail.p18.F.15.1.bqscan" rend="file" width="956" height="1000">
+	<head>3 Freehand drawing of an enlarged detail from plate 18, copy F.</head>
+	<figDesc>In the original the cloth is colored pink.</figDesc>
+</figure>
+<figure n="Europe.p17.1876Works.15.1.bqscan" rend="file" width="722" height="1000">
+	<head>2 <hi rend="i">Europe</hi>, plate 17.</head>
+	<figDesc>From 1876 <hi rend="i">Works</hi> (where it is numbered 15). By
+                            permission of the Huntington Library, San Marino, California.</figDesc>
+</figure> (including the rejected “A Divine Image”). The
+                    foliation corresponds to that of no known original copy: no <hi rend="i">Songs
+                        of Innocence</hi> ends in “Laughing Song,” and in <hi rend="i">Works</hi> the
+“Introduction” to <hi rend="i">Songs of Experience</hi> comes not at the beginning but after seventeen
+                    other poems! The inclusion of “A Divine Image,” makes it
+                    likely that the original used was, as Bentley (<hi rend="i">Blake Books</hi>, p.
+                    426) suggests, copy a, which had been sold to the British Museum by B. M.
+                    Pickering in 1864. “Laughing Song,” missing from copy a, could
+                    have been supplied from copy T, in the British Museum since 1856. However, Dr.
+                    David Bindman informs me that copy BB, recently sold in London, also contains
+                    “A Divine Image.” This copy must therefore be considered an
+                    alternative source. Its location was unknown from 1830 on.</p>
+        <p>2. <hi rend="i">The Book of Thel</hi>, 8 leaves. Copy D, in the British Museum
+                    Print Room since 1856, had already been used for the reproduction of the 
+<hi rend="i">Thel</hi> title page in A. C. Swinburne’s <hi rend="i">William Blake</hi>, published by Hotten in
+1868. Presumably copy D was also
+                    used for <hi rend="i">Works.</hi></p>
+        <p>3. <hi rend="i">Visions of the Daughters of Albion</hi>, 11 leaves. Two copies, A
+                    and B, were in the British Museum Print Room. Presumably one of these was used.
+                    According to Bentley (<hi rend="i">Blake Books</hi>, p. 473), it was B.</p>
+        <p>4. <hi rend="i">America</hi>, 18 leaves. The clue to identification here is the
+                    number of tails on the serpent in plate 13. In the various original copies, the
+                    serpent has either three tails or one. The serpent of <hi rend="i">Works</hi>
+                    has three, and so must derive from one of the following copies: E, F, G, I, K,
+                    or L. Bentley (<hi rend="i">Blake Books</hi>, p. 102) suggests that copy F,
+                    acquired by the British Museum in 1859, was the one used.</p>
+        <p>5. <hi rend="i">Europe</hi>, 17 leaves. In <hi rend="i">Works</hi> the
+                    “Ancient of Days” frontispiece is placed after the title page
+                    by mistake. Page 3, found only in copies H and K, is not present. A very likely
+                    source is copy D (as Bentley, <hi rend="i">Blake Books</hi>, p. 181, suggests);
+                    this had also been acquired by the British Museum in 1859. There is, however,
+                    one other possibility—copy F. In plate 18 (numbered 15 in <hi rend="i">Works</hi>) of
+the facsimile a garment obscures the penis of the
+                    male figure. This may well be a concession to Victorian prudery, but it may be
+                    significant that the penis is similarly obscured in copy F. (Owing to the
+                    fragility of the original, it has not been possible to obtain a 
+<pb id="p15-27" n="27"/>
+photograph, but I have made a freehand drawing of this detail.) In
+                    the other copies, the male figure is nude, though as Bentley (<hi rend="i">Blake
+                        Books</hi>, p. 156) notes, “In copy D there are lines on the
+                    man’s left hip as if to represent cloth, but the cloth is not
+                    colored.” Copy F was acquired in 1866 by B. M. Pickering. Pickering
+                    later sold it to an unknown collector whose monogram was D W J. It is now in the
+                    Berg Collection of the New York Public Library.</p>
+        <p>As we have seen, it is virtually certain that the records in the Chatto and
+                    Windus ledger entry headed “Blake reproductions” refer to the
+                    “1876” <hi rend="i">Works.</hi> One other hypothesis
+                    concerning these records should be mentioned here. <hi rend="i">Blake Books</hi>
+                    assigns the facsimile of <hi rend="i">Jerusalem</hi> hitherto attributed to John
+                    Pearson to Chatto and Windus on the basis of this same ledger entry.<supplied
+type="spacer"> </supplied><ref target="n81" type="note">9</ref> However, it seems incontrovertible that
+                    John Pearson did in fact produce the photolithographic black-and-white facsimile
+                    of copy D of <hi rend="i">Jerusalem</hi> in 1877. Two reliable sources indicate
+                    this. John Muir, in a prospectus included with his facsimile of <hi rend="i">The
+                        Song of Los</hi> (1890), asserts that he has not published a 
+<hi rend="i">Jerusalem</hi> because Pearson has already done so. As Pearson acted as the
+                    distributor of Muir’s first four Blake facsimiles in 1884,<supplied type="spacer"> </supplied><ref target="n82" type="note">10</ref> Muir was surely in a position to know who
+          had published <hi rend="i">Jerusalem</hi> in 1877. Furthermore, E. W. 
+<figure n="WilliamMuir.ad.15.1.bqscan" rend="file" width="694" height="1000">
+	<head>4 William Muir’s advertisement for <hi rend="i">The Edition
+                                of the Works of William Blake.</hi></head>
+	<figDesc>By permission of the Library of Congress.</figDesc>
+</figure> Hooper, who bought Pearson’s original copy (now in the
+                    Harvard University Library), wrote: “Blake’s
+                    ‘Jerusalem’ was reproduced by John Pearson, book-seller of
+                    London. A Copy of this reproduction is in the Boston Public Library. I have
+                    compared the reproduction carefully page by page with my original hand tinted
+                    copy (which I bought from John Pearson) &amp; find it was taken from my
+                        copy.”<supplied type="spacer"> </supplied><ref target="n83" type="note">11</ref>
+There was no reason
+                    for Pearson, a reputable dealer and collector with a special interest in
+                        Blake,<supplied type="spacer"> </supplied><ref target="n84" type="note">12</ref> to
+misrepresent the origin of
+                    the <hi rend="i">Jerusalem</hi> facsimile. It should therefore be restored to
+                    his credit as publisher, and the Chatto and Windus ledger entry must be taken to
+                    refer to the “1876” <hi rend="i">Works.</hi>
+	<note id="n81"><hi rend="s">9</hi><hi rend="i"> Blake Books</hi>, p. 264. Professor Bentley agrees that this
+                        hypothesis should now be withdrawn, and in “A Supplement to <hi rend="i">Blake
+Books</hi>,<supplied type="emend">”</supplied> p. 148, he identifies Pearson as the
+                        publisher.</note>
+	<note id="n82"><hi rend="s">10</hi> Pearson issued a prospectus in that year,
+                        but after Pearson’s retirement from business in 1885, Bernard
+                        Quaritch became Muir’s agent.</note>
+	<note id="n83"><hi rend="s">11</hi> From a note by Hooper on a card accompanying
+                        copy D of <hi rend="i">Jerusalem</hi> in the Harvard University
+                        Library.</note>
+	<note id="n84"><hi rend="s">12</hi> Pearson owned the former Flaxman copy of <hi rend="i">Songs of
+Innocence</hi>, copy D, from which Muir’s
+                        facsimile was produced in 1884. He also owned a copy of <hi rend="i">Poetical
+Sketches</hi> and a rather dubious-sounding water color showing
+                        “a number of Nude figures being led captive by a Devil, and others
+                        following; the great head of a marine monster, in the mouth of which are
+                        several figures, etc.”—<hi rend="i">Catalogue of the
+                            Valuable and Interesting Library formed during the past 40 years by Mr.
+                            John Pearson (Sold in consequence of declining health). The Third
+                            Portion. Sotheby, Wilkinson, and Hodge. Tues. 7 Nov. 1916 and following
+                            Day</hi> (nos. 40, 41, 42).</note></p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

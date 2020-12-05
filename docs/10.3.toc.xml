@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.3.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1976-77</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976-77</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">10.3</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Design Consultant</resp>
+              <name>Virginia Masi</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Irene Tayler</name>
+              <name>Elaine M. Kauver</name>
+              <name>Philip B. Grant</name>
+              <name>Purvis E. Boyette</name>
+              <name>Suzanne Hoover</name>
+              <name>Myra Glazer Schotz</name>
+              <name>Gerda Norvig</name>
+              <name>Stephen C. Behrendt</name>
+              <name>Michael Fischer</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <front>
+      <pb id="p10-65-66" n="65-66"/>
+      <div1 id="cover">
+        <figure n="cover.010.03.bqscan" rend="file" width="258" height="334">
+          <figTranscr>Blake<lb/>
+            NEWSLETTER 39<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            WINTER 1976-77, VOLUME 10, NUMBER 3</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-10-3-0001">
+        <table id="contents" rows="13" cols="2">
+          <row>
+          	<cell>
+        	  <head>
+          		<title>
+            	  <hi rend="b">CONTENTS</hi>
+          		</title>
+        	  </head>
+          	</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">News</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              <ref type="article" issue="10.3.news">Newsletter Publications</ref>, 
+              <ref type="article" issue="10.3.wanted">News Always Wanted</ref>, 
+              <ref type="article" issue="10.3.request">Our Bibliographer’s Request</ref>, 
+              <ref type="article" issue="10.3.seminar">Romantic &amp; Modern Literature: Seminar</ref>, 
+              <ref type="article" issue="10.3.moderns">Blake and the Moderns</ref>,<gap type="emend"
+rend="plain"/> 
+              <supplied type="emend"><ref type="article" issue="10.3.mla">MLA Seminar:
+Laocoön</ref>,</supplied> 
+              <ref type="article" issue="10.3.palmer">Samuel Palmer in the Market</ref>, 
+              <ref type="article" issue="10.3.forthcoming">Forthcoming Publications</ref>, 
+              <ref type="article" issue="10.3.correction">A Correction</ref>, 
+              <ref type="article" issue="10.3.art">Scripting a City of Art</ref>, 
+              <ref type="article" issue="10.3.announcement">An Announcement</ref>
+            </cell>
+            <cell>68</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Notes</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.tayler">Blake’s Laocoön</ref> by Irene Tayler</cell>
+            <cell>72</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.kauvar">Los’s Messenger to Eden: Blake’s Wild
+Thyme</ref><lb/>
+by Elaine Kauvar</cell>
+            <cell>82</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.grant">A Possible Source for a Blake Sketch and
+Drawing</ref> by Philip B. Grant</cell>
+            <cell>85</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">Reviews</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="10.3.boyette">Joseph Anthony Wittreich,
+Jr.’s ANGEL OF<gap type="emend" rend="plain"/> APOCALYPSE: BLAKE’S IDEA OF MILTON</ref></corr> reviewed by
+Purvis E. Boyette</cell>
+            <cell>88</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.hoover">G. E. Bentley, Jr.’s WILLIAM BLAKE: THE CRITICAL
+HERITAGE</ref> reviewed by Suzanne R. Hoover</cell>
+            <cell>89</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.norvig">Carolyn Keay’s WILLIAM BLAKE SELECTED
+ENGRAVINGS</ref> reviewed by Gerda Norvig and Myra Glazer Schotz</cell>
+            <cell>90</cell>
+          </row>
+          <row>
+            <cell><corr type="emend"><ref type="article" issue="10.3.behrendt"><corr type="emend"
+rend="plain">Eleanor</corr> Wilner’s GATHERING THE WINDS: VISIONARY IMAGINATION AND RADICAL TRANSFORMATION
+OF SELF AND SOCIETY</ref></corr> reviewed by Stephen C. Behrendt</cell>
+            <cell>91</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="10.3.fischer">Thomas Weiskel’s THE ROMANTIC SUBLIME: STUDIES IN
+THE STRUCTURE AND PSYCHOLOGY OF TRANSCENDENCE</ref> reviewed by Michael Fischer</cell>
+            <cell>93</cell>
+          </row>
+        </table>
+      </div1>
+      <div1 id="BQ-10-3-0002">
+        <head>
+          <title>
+            <hi rend="b">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p>Irene Tayler is an Associate Professor of Humanities at M.I.T. and author of a number of articles
+and BLAKE’S ILLUSTRATIONS TO THE POEMS OF GREY (Princeton, 1971).</p>
+        <p>Elaine M. Kauver teaches English at Baruch College of the City University of New York. Currently,
+she is working with Jean H. Hagstrum and Jeffry B. Spencer on a dictionary of Blake’s visual symbols.</p>
+        <p>Philip B. Grant is currently writing a dissertation, “William Blake’s THE EVERLASTING GOSPEL: An
+Edition and Study,” at the University of Pennsylvania.</p>
+        <p>Purvis E. Boyette is the Head of English in the College of Arts and Sciences at Tulane University.
+He is author of a monograph “Milton and the Sacred Fire: Sex Symbolism in PARADISE LOST” and is now coediting
+THE MILTON ENCYCLOPEDIA (forthcoming in eight volumes).</p>
+        <p>A frequent contributor to the NEWSLETTER, Suzanne Hoover has been unable to get a teaching job and
+is therefore about to embark on a wholly new career of self-enjoyment and self-employment.</p>
+        <p>Myra Glazer Schotz, Chairwoman of the English Department at Ben-Gurion University of the Negev,
+Israel, has written on the FOUR ZOAS and, with Gerda Norvig, on the SONGS. Her latest paper, a study of the
+figure of the hermaphrodite in Blake and Lawrence, was presented at the MLA seminar on Blake and the Moderns
+in December.</p>
+        <p>Gerda Norvig wrote her dissertation on Blake and Bunyan at Brandeis University. She is currently a
+visiting lecturer at Ben-Gurion University of the Negev where she is collaborating with Myra Schotz on a
+series of articles concerning variant colorings 
+                    <pb id="p10-67" n="67"/>
+of several copies of the SONGS. In addition, she and Professor Schotz are preparing a do-it-yourself Blake
+coloringbook, for children of all ages, to be published in the fall.</p>
+        <p>Stephen C. Behrendt is a visiting Assistant Professor of English at the University of Minnesota,
+and is the author of several articles on Blake’s illustrations.</p>
+        <p>Michael Fischer teaches courses at the University of New Mexico on literary theory and
+Romanticism.</p>
+        <p>Photographic credits: pg. 70, Aethelred and Alexandra Eldridge (Golgonooza); pp. 73,77,78, Sir
+Geoffrey Keynes collection; pp. 79,85, (col. 2), British Museum; pg. 85 (col. 1), Fogg Art Museum; pp. 86,87,
+Huntington Library. Cover and inside cover: Fertilization of Egypt and detail, Huntington Library.</p>
+        <p>The Blake Newsletter, An Illustrated Quarterly, is published four times a year under the
+sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, University of New Mexico, and Morton D. Paley, Boston University.</p>
+        <p>Bibliographer: Thomas Minnick, Ohio State University.</p>
+        <p>Associate Editor for Great Britain: Francis A. Carey, Assistant Curator, Department of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Editorial Assistant: Michael Hays, University of New Mexico.</p>
+        <p>Design Consultant: Virginia Masi Circulation Manager: Jane Welford, University of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the MLA Style Sheet, 2nd ed., to either of the editors: Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque NM 87131; Morton D. Paley, Dept. of English, Boston Univ., Boston Mass. 02215.</p>
+        <p>Subscriptions are $5 for one year, one volume, four issues. Special rate for individuals, $4 for
+one year, surface mail. For subscribers overseas who want to receive their issues by air mail, $8. U.S.
+currency or international money order if possible. Make checks payable to the Blake Newsletter. Address all
+subscription orders and related communications to Jane Welford, Blake Newsletter, Univ. of New Mexico,
+Albuquerque NM 87131.</p>
+        <p>Some back issues are available. Address Jane Welford. Prices: whole numbers 1-8, bound together,
+whole numbers 9-13, bound together, $5 each (special rate for individuals, $4). Whole numbers 22, 23, 24, 25,
+26, 27, 28, 32, 33, 34, 36, 37, 38, $2 each. Whole number 20 (A Handlist of Works by William Blake in the
+Department of Prints &amp; Drawings of the British Museum, ed. G. E. Bentley, Jr.) and whole number 35 (A
+Checklist of the Blake Material in the Lessing J. Rosenwald Collection, Alverthorpe Gallery, ed. Ruth Lehrer),
+$3 each. Whole numbers 14-19 are out of print. The International Standard Serial Number of the Blake
+Newsletter is 0006-453X.</p>
+        <p>Design and layout for this issue: Brad Hayden, University of New Mexico; for Irene Tayler’s essay
+on Laocoön, Corinne Henning, UCLA.
+	<note type="unreferenced" place="footer">Copyright © 1976 by Morris Eaves &amp; Morton D. Paley</note></p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

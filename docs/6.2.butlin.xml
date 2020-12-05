@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>6.2.butlin</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="note">A Minute Particular Particularized: Blake’s Second Set of Illustrations
+to Paradise Lost</title>
+                <author n="Butlin">Martin Butlin</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1972</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">06.2</biblScope>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistant</resp>
+                            <name>Marta Field</name>
+                            <resp>Bibliographer</resp>
+                            <name>Foster Foreman</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1972"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_06">
+        <body>
+            <pb id="p06-44" n="44"/>
+            <div1 id="BQ-06-2-0003">
+                <head>
+                    <title type="section">
+                        <hi rend="b">Notes</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">A “MINUTE PARTICULAR” PARTICULARIZED: BLAKE’S SECOND SET OF
+ILLUSTRATIONS TO <hi rend="i">PARADISE LOST</hi>
+                        </title>
+                    </head>
+                    <byline>
+                        <docAuthor>Martin <name>Butlin</name>
+                        </docAuthor>
+                    <ref target="n0" type="note">*</ref></byline>
+                    <p>In his otherwise admirable article on Blake’s illustrations to Milton, published in
+the collection of essays on <hi rend="i">Paradise Regained</hi> and <hi rend="i">Samson Agonistes</hi> in
+honor of John S. Diekhoff,<supplied type="spacer"> </supplied><ref target="n1" type="note">1</ref> Joseph
+Anthony Wittreich challenges my statement in an earlier issue of the <hi rend="i">Blake Newsletter</hi> that
+the second set of illustrations to <hi rend="i">Paradise Lost</hi>, painted for Thomas Butts in 1808,
+originally consisted of twelve watercolors, thus following the earlier, smaller series done in 1807 for the
+Rev. Joseph Thomas and now in the Huntington Library.<supplied type="spacer"> </supplied><ref target="n2"
+type="note">2</ref> Although he now accepts that “The Judgment of Adam and Eve” in the Houghton Library can be
+added to the nine designs in the Boston Museum, I should perhaps spell out the main arguments for also
+including “Satan arousing the Rebel Angels” in the Victoria and Albert Museum and the larger version of
+“Satan, Sin and Death” in the Huntington Library, though most of these arguments can in fact be deduced from
+the available printed sources. 
+                        <note id="n1"><hi rend="s">1</hi> Joseph Anthony Wittreich, Jr., “William Blake:
+Illustrator-Interpreter of <hi rend="i">Paradise Regained</hi>” in <hi rend="i">Calm of Mind: Tercentenary
+essays on</hi> Paradise Regained <hi rend="i">and</hi> Samson Agonistes <hi rend="i">in Honor of John S.
+Diekhoff</hi>, ed. Joseph Anthony Wittreich, Jr. (Cleveland and London: Press of Case Western Reserve Univ.,
+1971), pp. 93-132.</note>
+                        <note id="n2"><hi rend="s">2</hi><hi rend="i"> Blake Newsletter</hi>, 3 (1969), 57.
+For Thomas’ ownership of the 1807 series see Leslie Parris, “William Blake’s Mr. Thomas” in 
+<hi rend="i">The Times Literary Supplement</hi>, 5 December 1968, p. 1390.</note>
+                    </p>
+                    <p>Wittreich’s first objection is that the two last-named designs are larger than the
+Boston watercolors. I have examined and measured all the watercolors (that in the Houghton Library
+unfortunately only in its mount) and the dimensions are as follows (inches first, followed by centimeters in
+parentheses):
+<table rows="12" cols="2">
+                            <row>
+                                <cell>i</cell>
+                                <cell>“Satan arousing the Rebel Angels” 20 3/8 × 15 1/2 (51.8 × 39.3)</cell>
+                            </row>
+                            <row>
+                                <cell>ii</cell>
+                                <cell>“Satan, Sin and Death” 19 1/2 × 15 7/8 (49.5 × 40.3)</cell>
+                            </row>
+                            <row>
+                                <cell>iii</cell>
+                                <cell>“Christ offers to redeem Man” 19 1/2 × 15 1/2 (49.6 × 39.3)</cell>
+                            </row>
+                            <row>
+                                <cell>iv</cell>
+                                <cell>“Satan watching the Endearments of Adam and Eve” 20 × 15 1/16 (50.7 ×
+38.2)</cell>
+                            </row>
+                            <row>
+                                <cell>v</cell>
+                                <cell>“Adam and Eve asleep” 19 3/8 × 15 5/16 (49.2 × 38.8)</cell>
+                            </row>
+                            <row>
+                                <cell>vi</cell>
+                                <cell>“Raphael warns Adam and Eve” 19 9/16 × 15 5/8 (49.7 × 39.7)</cell>
+                            </row>
+                            <row>
+                                <cell>vii</cell>
+                                <cell>“The Rout of the Rebel Angels” 19 5/16 × 15 1/16 (49.1 × 38.2)</cell>
+                            </row>
+                            <row>
+                                <cell>viii</cell>
+                                <cell>“The Creation of Eve” 19 11/16 × 15 3/4 (49.9 × 40)</cell>
+                            </row>
+                            <row>
+                                <cell>ix</cell>
+                                <cell>“The Temptation and Fall of Eve” 19 5/8 × 15 1/4 (49.7 × 38.7)</cell>
+                            </row>
+                            <row>
+                                <cell>x</cell>
+                                <cell>“The Judgment of Adam and Eve” 19 9/16 × 15 3/8 (49.6 × 39) (sight
+measurements only; possibly larger)</cell>
+                            </row>
+                            <row>
+                                <cell>xi</cell>
+                                <cell>“Michael foretelling the Crucifixion” 19 3/4 × 15 (50.1 × 38.1)</cell>
+                            </row>
+                            <row>
+                                <cell>xii</cell>
+                                <cell>“The Expulsion of Adam and Eve” 19 11/16 × 15 1/4 (50 × 38.8)</cell>
+                            </row>
+                        </table>
+From this it will be seen that “Satan, Sin and Death” is in no way exceptional in size, while the extra height
+of “Satan arousing the Rebel Angels” represents no greater variation than that between other works in the
+series.</p>
+                    <p>Wittreich’s second argument is that the two designs excluded by him are conventional
+in subject matter. Both Blake and Thomas Butts might well have contradicted this expression of personal
+opinion. In fact the latter might well have been annoyed had Blake omitted two of the subjects that one might
+most reasonably expect to find included in a series of illustrations to <hi rend="i">Paradise Lost</hi> (he
+already had a color print of another famous scene from the poem, “The House of Death” now in the Tate
+Gallery). The long tradition of eighteenth-century representations of “Satan, Sin and Death,” to say nothing
+of Burke’s use of this subject as the ideal exemplar of the Sublime, is also an argument in favor of its
+inclusion in any series. Conventional though they may be, Blake did duplicate these subjects for some reason
+or other: the completion of Butts’ set seems the most obvious.</p>
+                    <p>Thirdly, Wittreich argues from the premise that “ ‘Satan calling [up] his Legions’
+was, in Blake’s words, ‘painted at intervals’ as an experiment Picture.’ ”<supplied type="spacer"> </supplied><ref target="n3" type="note">3</ref> This quotation from Blake’s <hi rend="i">Descriptive
+Catalogue</hi> refers however to the last of the tempera paintings included in his exhibition of 1809, not to
+one of the watercolors, each of which was qualified as “A Drawing.” The tempera, which belonged to Samuel
+Palmer, is now, like the watercolor, in the Victoria and Albert Museum, while the “more perfect Picture,
+afterward executed for a Lady of high rank,” who was in fact Lady Egremont, is still at Petworth. 
+                        <note id="n3"><hi rend="s">3</hi> Wittreich, p. 100. See Blake’s 
+<hi rend="i">Descriptive Catalogue</hi> 1809, p. 54 no. ix, reprinted in Keynes, <hi rend="i">Complete Writings of
+William Blake</hi>, 1957 and subsequent editions, p. 582.</note>
+                    </p>
+                    <p>All twelve of the larger watercolors came from the Butts collection, though the nine at
+Boston left that collection at a different time from the other three, being sold by Thomas Butts, Jr., at
+Foster’s on 29 June 1853, lot 139, when they were bought by J. C. Strange; like other works from Strange’s
+collection they were with Quaritch’s in the 1880’s, figuring in catalogues in 1883 and 1887, and they were
+sold by Quaritch’s to the Boston Museum in 1890. The other three watercolors were all included in List 3
+(“Works of Unascertained Method”) of the catalogue of Blake’s works by William Rossetti included in the
+second volume of the first, 1863 edition of Gilchrist’s <hi rend="i">Life of William Blake.</hi> All three
+were <note id="n0">
+                            <hi rend="i">Martin Butlin is Keeper of the British Collection at the Tate
+Gallery, London, and a specialist on the work of Blake and J. M. W. Turner. He is the author of</hi> William
+Blake: A Complete Catalogue of the Works in the Tate Gallery, <hi rend="i">and he is compiling a complete
+catalogue of Blake’s paintings, watercolors, and drawings.</hi>
+                        </note>
+                        <pb id="p06-45" n="45"/>
+starred as “more probably coloured” and described as being in the collection of “Mr. Fuller, from Mr.
+Butts.”<supplied type="spacer"> </supplied><ref target="n4" type="note">4</ref> A number of Apocalyptic
+subjects from the series of illustrations to the Bible painted in watercolor for Thomas Butts between 1800 and
+1805, similarly described as belonging to “Mr. Fuller, from Mr. Butts,” are listed by Rossetti<supplied
+type="spacer"> </supplied><ref target="n5" type="note">5</ref> with quotations from an unspecified
+“Sale-catalogue” which unfortunately cannot be traced, and all, together with the three <hi rend="i">Paradise
+Lost</hi> watercolors, passed to H. A. J. Munro and were sold from his collection at Christie’s on 24 April
+1868. The full details for the three <hi rend="i">Paradise Lost</hi> designs are as follows:
+<table rows="4" cols="2">
+                            <row>
+                                <cell>i</cell>
+                                <cell>“Satan arousing the Rebel Angels.” Listed by Rossetti, no. 17, as 
+“ ‘Awake, arise, or be for ever fallen.’ ” Munro sale 1868, lot 501, under the same title, bought by
+Colnaghi, sold 1869 to the Victoria and Albert Museum.</cell>
+                            </row>
+                            <row>
+                                <cell>ii</cell>
+                                <cell>“Satan, Sin and Death.” Listed by Rossetti, no. 18, as “ ‘O Father,
+what extends thy hand, she cried, Against thy only son?’ (Satan, Sin, and Death, from ‘Paradise
+Lost’).”</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>Munro sale 1868, lot 500, as “ ‘O Father! what intends thy hand,’ ”
+etc., bought by “Cuff”; lent to the Burlington Fine Arts Club Blake exhibition of 1876 by R. P. Cuffe; sold
+anonymously by “Chas. De C. Cuff” (see annotated catalogue at Christie’s) at Christie’s on 19 July 1907,
+lot 46, bought by F. T. Sabin; it was with Rosenbach’s by 1911, and was sold in 1916 to Henry E. Huntington.
+An inscription on the back confirms that this was “drawn for Mr. Butts from whom it passed to Mr.
+Fuller.”</cell>
+                            </row>
+                            <row>
+                                <cell>x</cell>
+                                <cell>“The Judgment of Adam and Eve.” Listed by Rossetti, no. 16, as “ ‘So
+judged He man.’ - (Paradise Lost).” Munro sale 1868, lot 502, as “ ‘So judged he man, both judge and
+Saviour sent,’ ” bought by Kibble; passed, with other Blakes from Kibble, to Marsden J. Perry; sold 1908 to
+Walter A. White; presented 1966 by John H. White and Harold T. White to the Houghton Library.</cell>
+                            </row>
+                        </table>
+                        <note id="n4"><hi rend="s">4</hi> Gilchrist (1863), II, 255, nos. 16, 17 and 18. In
+Rossetti’s own notes to his lists, now in the Houghton Library (see <hi rend="i">Blake Newsletter</hi> 2
+[1968], 39-40, and 3 [1969], 48-51), he mistakenly associates “The Judgment of Adam and Eve” with the earlier
+version of the subject in the 1807 set, then in the possession of Alfred Aspland, which he had not included in
+his 1863 lists. In the revised lists printed in the 1880 edition of Gilchrist’s <hi rend="i">Life</hi>,
+which included the Aspland set, Rossetti omitted all three <hi rend="i">Paradise Lost</hi> watercolors from
+his List 3, inserting “Satan at the Gate of Hell, guarded by Sin and Death” into his main List 1 (of “Works in
+Colour”) as no. 234 with the note: “May presumably have belonged at first to the set of Nine Designs from
+‘Paradise Lost’, No. 90 [the Butts-Boston set].” He also inserted as no. 233 a “Satan calling up his
+Legions.” This he described as a tempera, different in composition from his no. 51 (the Palmer-V. &amp; A.
+version), but as he also lists the Petworth tempera as no. 52, his no. 233 was in fact probably the V. &amp;
+A. watercolor; in many ways his 1880 lists, though fuller, are more confused than those of 1863.</note>
+                        <note id="n5"><hi rend="s">5</hi> Gilchrist (1863), II, 255, nos. 174-77.</note>
+                    </p>
+                    <p>While Butts’ other sets of illustrations to Milton have remained intact, it is not
+impossible that his son, in his dispersal of the collection, should have broken up the <hi rend="i">Paradise
+Lost</hi> illustrations into two groups, selling the majority in 1853 and the other three at the other,
+untraced sale at which they were bought by Fuller. The admittedly much larger group of illustrations to the
+Bible was sold off at a number of different times.</p>
+                    <p>A further, though contradictory, line of inquiry is provided by the form in which the
+watercolors are signed and dated. All of those at Boston with the exception of no. xi, “Michael fore-telling
+the Crucifixion,” which is unsigned, are inscribed “WBlake 1808.”<supplied type="spacer"> </supplied><ref
+target="n6" type="note">6</ref> Nos. i, “Satan arousing the Rebel Angels,” and x, “The Judgment of Adam and
+Eve,” are inscribed in precisely the same way. The exception is no. ii, “Satan, Sin and Death,” which bears
+Blake’s standard “WB inv” monogram and no date. It is tempting, but probably unreliable, to use the form of
+Blake’s signature as an argument for dating his works. For instance, one set of the large color prints of
+1795 was inscribed with the “WB inv” monogram, though perhaps not until they were sold to Butts in 1805. Those
+of the Biblical temperas and watercolors that were signed and dated between 1799 and 1805 were similarly
+inscribed, as was the first, Rev. Joseph Thomas’ set of illustrations to <hi rend="i">Comus</hi> of c. 1801,
+now in the Huntington Library. Four isolated Biblical watercolors of 1806 and 1809 are, on the other hand,
+signed more fully.<supplied type="spacer"> </supplied><ref target="n7" type="note">7</ref> The first set of
+<hi rend="i">Paradise Lost</hi> designs also represent a transition, some being signed “WB,” without “inv,”
+others “WBlake,” in either case with or without the date “1807.” Later works, such as the Rev. Joseph
+Thomas’ set of illustrations to Milton’s <hi rend="i">On the Morning of Christ’s Nativity</hi> of 1809
+(Whitworth Institute, Manchester), those to <hi rend="i">L’Allegro</hi> and <hi rend="i">Il Penseroso</hi>
+(Pierpont Morgan Library, New York) and <hi rend="i">Paradise Regained</hi> (Fitzwilliam Museum, Cambridge),
+both of which are watermarked “M &amp; J LAY 1816” (evidence for their date omitted by Wittreich in his
+essay<supplied type="spacer"> </supplied><ref target="n8" type="note">8</ref>), and the late temperas at the
+Tate Gallery of “The Ghost of a Flea,”
+<pb id="p06-46" n="46"/>
+<corr type="emend">c. 1819,</corr> and “The Body of Abel found by Adam and Eve” and “Satan
+smiting Job with Sore Boils” of c. 1826, are all signed “WBlake” in full. The Dante illustrations of 1824-27,
+when signed, bear a simple “WB” without “inv.” The great exception to this rule is the first, Butts set of
+illustrations to the <hi rend="i">Book of Job</hi> in the Morgan Library, three of which are signed “WB inv”
+in Blake’s standard monogram (but perhaps, as I suspect for stylistic reasons, these date from much earlier
+than is usually thought, though 1805-06 is even earlier than I would otherwise have placed them). 
+                        <note id="n6"><hi rend="s">6</hi> No. iv, “Satan watching the Endearments of Adam and
+Eve,” is in fact so inscribed twice in the lower right-hand corner; presumably Blake’s original mount
+obscured the lower inscription so he repeated it immediately above. The inscription can be clearly seen in the
+reproduction in Helen D. Willard, <hi rend="i">William Blake water-color drawings</hi> (Boston: Museum of Fine
+Arts, 1957), which includes plates of all nine Boston designs for <hi rend="i">Paradise Lost.</hi>
+                        </note>
+                        <note id="n7"><hi rend="s">7</hi> “The Assumption of the Virgin” in the Royal
+Collection, Windsor Castle, is inscribed “WB. inv. [<hi rend="i">not</hi> in monogram] 1806” (repr. Geoffrey
+Keynes, <hi rend="i">William Blake’s Illustrations to the Bible</hi>, 1957, p. 51, no. 174); “The Repose of
+the Holy Family in Egypt” in the Metropolitan Museum, New York, and “By the Waters of Babylon” in the Fogg Art
+Museum are inscribed “1806 WB inv,” again not in monogram (repr. Keynes, <hi rend="i">Illustrations</hi>, p.
+31, no. 96b); and “The Whore of Babylon” in the British Museum is inscribed “WBlake inv &amp; del 1809” (repr.
+Keynes, <hi rend="i">Illustrations</hi>, p. 51, no. 168).</note>
+                        <note id="n8"><hi rend="s">8</hi> Wittreich, pp. 96-97, 125 no. 15.</note>
+                    </p>
+                    <p>Absolute consistency cannot, however, always be hoped for and, even if only two of the
+three candidates match those at Boston in the form of their signatures, all three match them in style. As
+compared with the earlier series the figures in the Boston watercolors are marked by a much greater degree of
+finish and monumentality: their heads are larger in scale, their bodies less elongated and more firmly
+modeled. Exactly the same development is found between the three other large designs and their prototypes in
+the 1807 set. In particular, it is impossible, looking at the two watercolors of “Satan, Sin and Death” side
+by side in the Huntington Library,<supplied type="spacer"> </supplied><ref target="n9" type="note">9</ref> to
+imagine Blake painting the larger one before that from the 1807 set; in every way it is an improvement, in the
+opposition of the two main protagonists, in the weight of the figures, and in the compactness and power of the
+design as a whole. On the other hand it certainly cannot date from as late as the three illustrations to 
+<hi rend="i">Paradise Lost</hi> done in 1822 for John Linnell, perhaps as the beginning of a complete
+set.<supplied type="spacer"> </supplied><ref target="n10" type="note">10</ref> These are typical of Blake’s
+late style in their soft modeling and subtle, broken coloring, having a grace and sensuous quality completely
+different from Blake’s works in the first decade of the century, whereas “Satan, Sin and Death” is typical
+of the firm modeling, restricted coloring, and wirey outlines of the middle of that decade. 
+                        <note id="n9"><hi rend="s">9</hi> Or conveniently juxtaposed in C. H. Collins Baker
+and Robert R. Wark, <hi rend="i">Catalogue of William Blake’s Drawings and Paintings in the Huntington
+Library</hi> (1963), pls. 2 and 3; the rest of the 1807 set is repr. pls. 1 and 4-13.</note>
+                        <note id="n10"><hi rend="s">10</hi> “Satan watching the Endearments of Adam and Eve”
+and “The Creation of Eve” are in the National Gallery of Victoria, Melbourne; “Michael foretelling the
+Crucifixion” in the Fitzwilliam Museum, Cambridge. See David Bindman, <hi rend="i">William Blake, Catalogue of
+the Collection in the Fitzwilliam Museum, Cambridge</hi> (1970), pp. 44-45, the last-named repr. pl.
+36.</note>
+                    </p>
+                    <p>The common-sense solution, even in the case of Blake, is sometimes the best. In 1807
+Blake did twelve illustrations to <hi rend="i">Paradise Lost</hi> for the Rev. Joseph Thomas. The next year he
+repeated the set (with one change, replacing “Satan spying on Adam and Raphael’s Descent into Paradise” by
+“Adam and Eve Sleeping”) for his most important patron Thomas Butts, as he was also to do in the case of his
+illustrations to <hi rend="i">Comus</hi> and <hi rend="i">On the Morning of Christ’s Nativity.</hi>
+                        <ref target="n11" type="note">11</ref> Of twelve designs similar in style and
+dimensions, all but two dated 1808, and all traceable to the Butts collection, three have by chance become
+separated from the other nine, but to disprove the obvious it needs more than an <hi rend="i">a priori</hi>
+theory about Blake dropping his illustrations to the first two books of <hi rend="i">Paradise Lost</hi> in
+order to begin his series “with the Son’s offering of himself as Redeemer,” thus reflecting the way that he
+“casts off his early Satanism as he apprehends the Christocentric character of Milton’s diffuse
+epic.”<supplied type="spacer"> </supplied><ref target="n12" type="note">12</ref>
+                        <note id="n11"><hi rend="s">11</hi> See Parris, my n. 2 above.</note>
+                        <note id="n12"><hi rend="s">12</hi> Joseph Anthony Wittreich, Jr., “A Note on Blake
+and Fuseli” in <hi rend="i">Blake Newsletter</hi>, 2 (1969), 4, no. 2, and Wittreich in <hi rend="i">Calm of
+Mind</hi>, p. 101.</note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

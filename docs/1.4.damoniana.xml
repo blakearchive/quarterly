@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>1.4.damoniana</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Further Damoniana</title>
+				<author n="Rosenfeld">Alvin Rosenfeld</author>
+				<author n="Damon">S. Foster Damon</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>March 15, 1968</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">01.4</biblScope>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Contributors</resp>
+                            <name>W.H. Stevenson</name>
+                            <name>David V. Erdman</name>
+                            <name>Michael J. Tolley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of California</publisher>
+                        <pubPlace>Berkeley, CA, USA</pubPlace>
+                        <date when="1968"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_01">
+            <body>
+                <pb id="p01-2" n="2"/>
+                <div1 id="BQ-01-4-0002">
+                    <head>
+                        <title type="section">
+                            <hi rend="u">NEWS</hi>
+                        </title>
+                    </head>
+                    <div2>
+                        <head>
+                            <title type="main">Further Damoniana</title>
+                        </head>
+                        <p>ALVIN ROSENFELD kindly sends us the following report on the S. Foster Damon
+Festival, held at Brown University on February 22 and 23 in celebration of Professor Damon’s seventy-fifth
+birthday: The Festival opened on Thursday afternoon, February 22, with S. Foster Damon offering a reading from
+his own poetry; there followed a presentation of a scene from his prize-winning play, “Witch of Dogtown”; and
+a piano recital of some of S. Foster Damon’s musical compositions, including the song “The Garden of Love,”
+after Blake.</p>
+                        <p>On Friday, February 23, the festival continued with a Blake seminar and film. An
+audience of some 350 people gathered to hear Professors Damon, Harold Bloom, Geoffrey Hartman, and Robert
+Langbaum discuss “Blake in the Twentieth Century.” The discussion centered chiefly on the critical discovery
+of Blake in our time and emphasized Professor Damon’s pioneering work in the field. Professor Bloom pointed
+out the absence of any received tradition of commentary on Blake before Damon and paid tribute to the
+latter’s landmark study, William Blake, His Philosophy and Symbols (1924), a work that he called “almost
+outrageously magnificent.”</p>
+                        <p>Professor Damon spoke of how he came to discover Blake and related some of the
+problems he encountered in trying to read and understand Blake’s poetry before a proper text was established
+and without the benefit of reliable scholarship and criticism.</p>
+                        <p>Geoffrey Hartman and Robert Langbaum each spoke about contemporary problems in
+reading Blake, and both stressed the need for a critical approach that would emphasize the fundamentally human
+aspects of Blake’s poetry as they are relevant today.</p>
+                        <p>Following the seminar there was a showing of the B.B.C. television film on Blake,
+“Tyger, Tyger.” Most people who watched the film didn’t like it, and from the comments heard—“puerile,
+silly, long-winded, a bore”—it cannot be highly recommended. Most agreed that the earlier British film on
+Blake (1957) was far superior.</p>
+                        <p>The festival concluded with a large dinner on Friday evening, which included brief
+speeches by Virgil Thomson, the composer, and Willard Maas, the poet and film-maker, among others. “A Birthday
+Garland for S. Foster Damon,” a commemorative booklet of reminiscences and tributes collected for the
+occasion, was distributed to invited guests.</p>
+                        <p>An exhibit of Damoniana with special Blake items, currently featured at the
+Rockefeller Library at Brown University, provided a fitting backdrop to the S. Foster Damon Festival. Included
+in the exhibit and of particular interest to Blake scholars are the following: J.G. Stedman’s two-volume 
+<hi rend="u">Narrative of a Five Years’ Expedition</hi> (1796), including eight plates engraved by Blake (and
+possibly colored by Blake himself); the 1805 reissue of Hayley’s <hi rend="u">Ballads</hi>, with five plates
+re-engraved (the copy on exhibit, from
+						<pb id="p01-3" n="3"/>
+						Professor Damon’s personal library, is the only known copy of this book in which Blake colored his own
+plates); and The Trianon Press facsimile volumes of <hi rend="u">Visions of the Daughters of Albion</hi>
+(1959), <hi rend="u">Jerusalem</hi> (1963), <hi rend="u">America</hi> (1963), <hi rend="u">Songs of Innocence
+and Experience</hi> (1967), and <hi rend="u">Milton</hi> (1967).</p>
+                        <p>The “Birthday Garland,” edited by Mr. Rosenfeld and Barton Levi St. Armand, is a
+beautiful booklet of poems, prose, and illustrations. Among the contributors are Edwin Honig, Lincoln
+Kirstein, Marianne Moore, Winfield Townley Scott, Hyatt Howe Waggoner, and Colin Wilson.</p>
+                        <p>FOSTER DAMON himself writes to say that his <hi rend="u">Blake Dictionary</hi> has
+been re-issued in what is in effect a second edition, with a number of alterations and some new short
+articles.</p>
+                        <p>Malcolm Cowley’s article, “The Self-Obliterated Author: S. Foster Damon,” appears
+in the January ’68 <hi rend="u">Southern Review.</hi>
+                        </p>
+                    </div2>
+                </div1>
+            </body>
+    </text>
+</TEI.2>

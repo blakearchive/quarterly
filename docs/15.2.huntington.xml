@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>15.2.huntington</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Exhibitions: Huntington Library</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1981</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1981</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">15.2</biblScope>
+            <biblScope unit="volume">15</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas L. Minnick</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Production Office</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <name>Thomas L. Minnick</name>
+              <name>Nelson Hilton</name>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant in Charge</resp>
+              <name>Marcy Erickson</name>
+              <resp>Editorial Assistants</resp>
+              <name>Wayne Erickson</name>
+              <name>Wendy Jones</name>
+              <name>James Warwick</name>
+              <resp>Contributors</resp>
+              <name>Martin Butlin</name>
+              <name>Peter Davidson</name>
+              <name>Detlef Dörrbecker</name>
+              <name>Robert N. Essick</name>
+              <name>Anthony J. Harding</name>
+              <name>David Sten Herrstrom</name>
+              <name>Nelson Hilton</name>
+              <name>Jenijoy La Belle</name>
+              <name>Thomas L. Minnick</name>
+              <name>James A. Winn</name>
+              <name>Michael C. Young</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1981"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_15">
+    <body>
+      <pb id="p15-103" n="103"/>
+      <div1 id="BQ-15-2-0011">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWSLETTER</hi>
+          </title>
+        </head>
+        <div2>
+          <head>
+            <title type="main">
+              <hi rend="b">EXHIBITIONS : HUNTINGTON LIBRARY</hi>
+            </title>
+          </head>
+          <p>The <hi rend="i">Prints of the Blake Followers</hi> will be on exhibition at the Henry E.
+Huntington Art Gallery from 3 November 1981 to 27 February 1982. This group of artists, who included Edward
+Calvert, Samuel Palmer, George Richmond, Welby Sherman and John Linnell, were deeply influenced by Blake’s
+personality and art for a brief period, primarily in the late 1820s and early 1830s. The fifty prints by Blake
+and his followers in this exhibition are drawn from the Huntington collection and the Robert N. Essick
+collection. The show is accompanied by a catalogue. A scholarly symposium on the followers of Blake will be
+held in conjunction with the exhibition.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

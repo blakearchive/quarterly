@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.2.muggeridge</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">The Muggeridge Blake</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.2</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Mary Baine</name>
+              <name>Rodney Baine</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas Minnick</name>
+              <name>Judith Ott</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <pb id="p10-44" n="44"/>
+      <div1 id="BQ-10-2-0003">
+        <head>
+          <title type="section">
+            <hi rend="b">NEWS</hi>
+          </title>
+        </head>
+        <div2>
+          <figure n="ThirdTestament.10.2.bqscan" rend="file" width="300" height="269">
+          	<figTranscr>A<lb/>
+          	THIRD<lb/>
+          	TESTAMENT</figTranscr>
+          </figure>
+          <head>
+            <title type="main">
+              <hi rend="b">The Muggeridge Blake</hi>
+            </title>
+          </head>
+          <p>Public television in the U.S. recently offered a series of six hour-long programs based on the
+hypothesis that the ideas of St. Augustine, Pascal, Blake, Kierkegaard, Tolstoy, and Bonhoeffer add up to a
+kind of <hi rend="i">Third Testament</hi> (which is thus the title of the series). The host for the series was
+Malcolm Muggeridge, who devoted on hour of broadcast time to the ideas of each of the six men.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>7.2.golgonooza</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Golgonooza News</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Fall 1973</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter/An Illustrated Quarterly</title>
+                        <biblScope unit="volIss">07.2</biblScope>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <respStmt>
+                            <resp>Editors</resp>
+                            <name>Morris Eaves</name>
+                            <name>Morton D. Paley</name>
+                            <resp>Associate Editor</resp>
+                            <name>Michael Phillips</name>
+                            <resp>Editorial Assistants: for production</resp>
+                            <name>Michael Davies</name>
+                            <name>Judith Wallick Page</name>
+                            <resp>Editorial Assistants: for subscriptions</resp>
+                            <name>Graham Conley</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1973"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_07">
+        <body>
+	<pb id="p07-30" n="30"/>
+            <div1 id="BQ-07-2-0002">
+                    <head>
+                        <title type="main">
+                            <hi rend="b">GOLGONOOZA NEWS</hi>
+                        </title>
+                    </head>
+                    <p>For the past few months we have been on the mailing list of <hi rend="i">News from
+Golgonooza</hi>, published “semimonthly” by “the Church of the Blake Recital,” R.R. #1, Millfield, Ohio 45761
+(“Fourfold London in Ohio”). The author of the <hi rend="i">News</hi> is AEthelred Eldridge: “Meat hoodwinked
+or any relic thing resembling sick-bed prayer / Could begin again with
+<pb id="p07-31" n="31"/>
+final guilt but for the interference of / Tomorrow’s fresh-laid poultrice.” The price of a subscription is
+$5 per year, “for the English-wending Friends of Albion.”</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

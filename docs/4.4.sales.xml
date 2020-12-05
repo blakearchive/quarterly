@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+        <idno>4.4.sales</idno>
+        <fileDesc>
+            <titleStmt>
+                <title type="news">Recent Blake Sales</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Spring 1971</edition>
+            </editionStmt>
+            <publicationStmt>
+                <date>1971</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Blake Newsletter</title>
+                        <biblScope unit="volIss">04.4</biblScope>
+                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="issue">4</biblScope>
+                        <respStmt>
+                            <resp>Executive Editor</resp>
+                            <name>Morton D. Paley</name>
+                            <resp>Managing Editor</resp>
+                            <name>Morris Eaves</name>
+                            <resp>Associate Editor</resp>
+                            <name>Donald D. Ault</name>
+                            <name>Michael Phillips</name>
+                        </respStmt>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Department of English, University of New Mexico</publisher>
+                        <pubPlace>Albuquerque, NM, USA</pubPlace>
+                        <date when="1971"/>
+                        <authority>William Blake Archive</authority>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="eng">English</language>
+            </langUsage>
+            <textDesc n="Scholarly journal">
+                <constitution type="composite"/>
+                <domain type="education"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+    <text id="volume_04">
+        <body>
+        <pb id="p04-112" n="112"/>
+            <div1 id="BQ-04-4-0002">
+                <head>
+                    <title type="section">
+                        <hi rend="b">NEWS AND WORKS IN PROGRESS</hi>
+                    </title>
+                </head>
+                <div2>
+                    <head>
+                        <title type="main">
+                            <hi rend="i">RECENT BLAKE SALES</hi>
+                        </title>
+                    </head>
+                    <p>Warren Howell of John Howell-Books, San Francisco, writes that his firm recently
+secured copy P of the <hi rend="i">Songs</hi> for a private collector in the East. The Howell firm paid
+£12,000 for the copy.</p>
+                    <p>Mr. Howell also says that copy C of <hi rend="i">Urizen</hi> (see the last issue of the
+<hi rend="i">Newsletter</hi> [#15], pp. 69-70) was sold at Sotheby’s on 29 March 1971 for £24,000 (£27,000
+according to <hi rend="i">The Times</hi>: see “British Blake News” below). The Howell firm was the
+underbidder. <hi rend="i">Poetical Sketches</hi> sold for £3800 to John Fleming of New York on behalf of The
+Pierpont Morgan Library.</p>
+                    <p>On June 15 the Blake-Varley Sketchbook was broken and sold page by page at
+Christie’s, with “Ghost of a Flea” most likely to win high-price honors. The drawings seem to have sold at
+about the prices expected. Robert Essick bought the “Head of the Dying King Harold Pierced by an Arrow” for
+$4065.60. Zeitlin &amp; Ver Brugge bought the standing archer.</p>
+                    <p>On June 24 Sotheby’s sold the pencil, sepia, and watercolor preliminary drawing for
+“Joseph Ordering Simeon to Be Bound” (in the Fitzwilliam Museum). The drawing was formerly in the possession
+of Mrs. B. Clarke. It measures 13 1/4 × 19 inches and is reproduced in the sale catalogue. The sale price of
+the drawing was $6720, considerably below the estimates.</p>
+                    <p>Our thanks to Robert Essick for the last two items. 
+<note type="unreferenced" place="footer">
+                            <hi rend="i">For more on copy C of <hi rend="u">Urizen</hi> and on the breaking
+and selling of the Blake-Varley Sketchbook, see “British Blake News” just below. For more on the Britwell
+Court Library copy of <hi rend="u">Poetical Sketches</hi>, see “Blake’s Corrections in <hi rend="u">Poetical
+Sketches</hi>: A Supplement” by Michael Phillips, below in MINUTE PARTICULARS.</hi>
+                        </note>
+                    </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

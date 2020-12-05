@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>8.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1975</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1975</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">08.4</biblScope>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Bibliographer</resp>
+              <name>Ron Taylor</name>
+              <resp>Editorial Assistants</resp>
+              <name>Judith Wallick Page</name>
+              <name>Donna Rix</name>
+              <name>David Schnur</name>
+              <name>Sharon Stell</name>
+              <resp>Editorial assistant for subscriptions</resp>
+              <name>Deborah Sackett</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1975"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_08">
+    <front>
+      <pb id="p08-101-102" n="101-102"/>
+      <div1 id="cover">
+        <figure n="cover.008.04.bqscan" rend="file" width="258" height="333">
+          <figTranscr>Blake Newsletter 32</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-08-4-0001">
+        <table id="contents" rows="28" cols="2">
+         <row>
+            <cell colspan="3">
+                <head>
+                    <title>
+                        <supplied type="emend"><hi rend="b">Contents</hi></supplied>
+                    </title>
+               	</head>
+            </cell>
+        </row>
+          <row>
+            <cell>News</cell>
+            <cell>104</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="8.4.subscriptions">Newsletter Subscriptions</ref></cell>
+          </row>
+          <row>
+          	<cell><supplied type="emend"><ref type="article" issue="8.4.exhibition">An Exhibition, Golgonooza</ref></supplied></cell>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="8.4.reprints">Newsletter Reprints</ref></cell>
+          </row>
+          <row>
+          	<cell><supplied type="emend">Donald Ault,</supplied> <ref type="article" issue="8.4.ault">Blake at
+the 1974 MLA Seminar</ref></cell>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="8.4.poster">Blake Poster</ref></cell>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="8.4.seminar">MLA Blake Seminar 1975</ref></cell>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="8.4.conference">Blake Conference at Santa Barbara</ref></cell>
+          </row>
+          <row>
+          	<cell><ref type="article" issue="8.4.works">Works in Progress</ref></cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Reviews</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Thomas A. Vogler, on <ref type="article" issue="8.4.vogler"><hi rend="i">The Incarnate
+Word</hi> by Cary Nelson</ref></cell>
+            <cell>108</cell>
+          </row>
+          <row>
+            <cell>Irene Chayes, on <ref type="article" issue="8.4.chayes"><hi rend="i">The Awakening of
+Albion</hi> by Thomas Frosch</ref></cell>
+            <cell>114</cell>
+          </row>
+          <row>
+            <cell>Karl Kroeber, on <ref type="article" issue="8.4.kroeber"><hi rend="i">Blake’s Night</hi>
+by David Wagenknecht</ref></cell>
+            <cell>116</cell>
+          </row>
+          <row>
+            <cell>W. J. T. Mitchell, on <ref type="article" issue="8.4.mitchell"><hi rend="i">Blake’s Human
+Form Divine</hi> by Anne Kostelanetz Mellor</ref></cell>
+            <cell>117</cell>
+          </row>
+          <row>
+            <cell>Simone Pignard, on <ref type="article" issue="8.4.pignard"><hi rend="i">William Blake,
+émerveillement et profanation</hi> by Jacques Blondel</ref></cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell>Claude Jannoud, on <ref type="article" issue="8.4.jannoud">Pierre Leyris’ translation of
+Blake’s poetry into French [from <hi rend="i">Le Figaro</hi>, translated by Katharyn Gabriella]</ref></cell>
+            <cell>121</cell>
+          </row>
+          <row>
+            <cell>Paul Miner, on <ref type="article" issue="8.4.miner">the festschrift for Sir Geoffrey Keynes
+edited by Morton Paley and Michael Phillips, and the 2nd ed. of Keynes’ <hi rend="i">Blake
+Studies</hi></ref></cell>
+            <cell>122</cell>
+          </row>
+          <row>
+            <cell>G. E. Bentley, Jr., on <ref type="article" issue="8.4.bentley"><hi rend="i">William
+Blake’s Illustrations of the Book of Job</hi> by Bo Lindberg</ref></cell>
+            <cell>125</cell>
+          </row>
+          <row>
+            <cell>Florence Sandler, on <ref type="article" issue="8.4.sandler"><hi rend="i">Milton’s Poetry
+of Choice and Its Romantic Heirs</hi> by Leslie Brisman</ref></cell>
+            <cell>127</cell>
+          </row>
+          <row>
+            <cell>David V. Erdman, on <ref type="article" issue="8.4.erdman"><hi rend="i">Visionary
+Physics</hi> by Donald Ault</ref></cell>
+            <cell>128</cell>
+          </row>
+          <row>
+            <cell>Thomas L. Minnick, on <ref type="article" issue="8.4.minnick"><hi rend="i">The Visionary
+Hand: Essays for the Study of William Blake’s Art and Aesthetics</hi> edited by Robert N.
+Essick</ref></cell>
+            <cell>130</cell>
+          </row>
+          <row>
+            <cell>Robert N. Essick, on <ref type="article" issue="8.4.essick"><hi rend="i">The Notebook of
+William Blake</hi> edited by David Erdman with the assistance of Donald Moore</ref></cell>
+            <cell>132</cell>
+          </row>
+          <row>
+            <cell>Alicia Ostriker, on <ref type="article" issue="8.4.ostriker"><hi rend="i">William Blake</hi>
+by D. G. Gillham</ref></cell>
+            <cell>136</cell>
+          </row>
+          <row>
+            <cell>Michael J. Tolley, on <ref type="article" issue="8.4.tolley"><hi rend="i">The “Heaven” and
+“Hell” of William Blake</hi> by G. R. Sabri-Tabrizi</ref></cell>
+            <cell>138</cell>
+          </row>
+          <row>
+            <cell>Morris Eaves, on <ref type="article" issue="8.4.eaves"><hi rend="i">Adrian Mitchell on
+William Blake</hi> produced by London Weekend Television, and <hi rend="i">The Clouded Hills: Selections from
+William Blake</hi> edited by Catharine Hughes</ref></cell>
+            <cell>139</cell>
+          </row>
+          <row>
+            <cell>Joseph A. Wittreich, Jr., on <ref type="article" issue="8.4.wittreich"><hi rend="i">Fearful
+Joy: Papers from The Thomas Gray Bicentenary Conference at Carleton University</hi> edited by James Downey and
+Ben Jones</ref></cell>
+            <cell>141</cell>
+          </row>
+          <row>
+            <cell>Jean H. Hagstrum, on <ref type="article" issue="8.4.hagstrum"><hi rend="i">Blake and
+Visionary Art</hi> and <hi rend="i">The Romantic Rebellion</hi> by Kenneth Clark, and <hi rend="i">British
+Romantic Art</hi> by Raymond Lister</ref></cell>
+            <cell>143</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="8.4.taylor">A Checklist of Recent Blake Scholarship</ref>,
+compiled by Ron Taylor</cell>
+            <cell>146</cell>
+          </row>
+        </table>
+        <p>On the cover is a drawing by Bo Lindberg of the Blakes in Abo, Finland, in 1824. Lindberg had this
+to say about the drawing:
+<q>In 1974 the oldest surviving Finnish newspaper, <hi rend="i">Abo Underrättelser</hi> (published in
+Swedish, formerly the language of the Finnish intelligensia, and still spoken by many Finns), celebrated its
+150th anniversary. The editor asked me to make a drawing of Abo in 1824, showing people reading the first
+copies of the <hi rend="i">Abo Underrättelser</hi>, and, in the background, the Cathedral, the old town
+center, and the bridge across the River Aura with the small kiosk on it—from this kiosk the newspaper was
+sold. None of the buildings except the Gothic Cathedral survived the great fire of 1827.<lb/>
+The Abo of the early 19th century was “a most infamous pit, a pestified place, having a poisoned atmosphere,
+poor pavements and the worst ‘esprit public’ in the world,” wrote Gustaf Mauritz Armfelt about 1800. Since
+Blake was in the habit of visiting infamous places such as Babylon and Hell, he must have made a spiritual
+journey to Abo—and, since a spirit is not a cloudy vapour or a nothing, his spirit must have had a solid
+body, resembling his mortal body. Further, it is well known that Catherine partook in her husband’s visions.
+Therefore I put William Blake and his wife among the readers of the first issue of <hi rend="i">Abo
+Underrättelser.</hi> Their clothes are more or less right for 1824.
+</q></p>
+        <p>Lindberg had this to say about himself:
+<q>
+Name. Bo Lindberg, called Ossian. I’m an artist, ethnological draughtsman and art historian, born in Abo in
+1937, at present working at the University of Lund, Sweden. In 1973 my Ph.D. thesis, <hi rend="i">William
+Blake’s Illustrations to the Book of Job</hi>, was published in the <hi rend="i">Acta Academiae
+Aboensis.</hi> I’ve published a few papers about Blake, Bosch, the Cathedral of Abo, etc. I’ve translated
+part of Blake’s poetry into Swedish, but so far only <hi rend="i">The Mental Traveller</hi> has appeared in
+print.<lb/>
+I’ve modernised Satan’s Holy Trinity: Darwin, Marx and Einstein, and the prophet of the tripartite God is
+Freud. I believe that art and science are the foundation of empire. Hitler, Stalin, Roosevelt, etc., attend
+upon and follow scientists, writers and prophets like Darwin, Marx, Einstein, etc., which shows that Blake was
+right again.<lb/>
+I like Blake because his philosophy is too complicated and too truthful for political, economic and
+bureaucratic leaders to use it and misuse it. In this world it is a great merit merely to be harmless.
+</q></p>
+        <p>Most of the illustrations in this issue are from Blake’s contributions to the extra-illustrated
+Shakespeare folio complied by the Rev. Joseph Thomas. The volume was sold by his descendants to Alexander
+Macmillan in 1880, from whose family it was acquired by the British Museum in 1880. The pictures are
+reproduced here by permission of the Trustees of the British Museum.</p>
+        <p>Cover: Blakes in Abo, Finland, around 1824, a drawing by Bo Lindberg. See description elsewhere on
+these pages. Pp. 108-09: detail from p. 112, below. P. 112: Richard III and Ghosts (undated), 8″ × 5
+⅞.″ <hi rend="i">Richard III.</hi> P. 115: detail from p. 112, above. P. 116: Queen Katherine’s Dream
+(1809), 8 ¾″ × 6 ⅛.″ <hi rend="i">Henry VIII.</hi> P. 119: Allegorical subject (?) or, The Horse of
+Inspiration (1809), 9″ × 6 ¾.″ Pp. 120-21: detail from cover. P. 124: Caesar’s Ghost Appearing to
+Brutus (1806), 10″ × 6 ½.″ <hi rend="i">Julius Caesar.</hi> P. 126: from Blake’s <hi rend="i">Job</hi>
+illustrations. P. 128: detail from p. 112, above. P. 130: detail from p. 124, above. P. 131: detail from p.
+124, above. P. 133: see caption. P. 137: detail from p. 112, above. P. 138: detail from p. 119, above. P. 142:
+detail from p. 119, above. P. 144: detail from p. 116, above. P. 145: detail from p. 116, above. Pp. 146-47:
+detail from p. 116, above.</p>
+        <pb id="p08-103" n="103"/>
+        <p>The <hi rend="i">Blake Newsletter, An Illustrated Quarterly</hi>, is published four times a year
+under the sponsorship of the Department of English of the University of New Mexico.</p>
+        <p>Editors: Morris Eaves, Univ. of New Mexico, and Morton D. Paley, Univ. of California, Berkeley.</p>
+        <p>Associate Editor for Great Britain: Frances A. Carey, Asst. Curator, Dept. of Prints &amp;
+Drawings, British Museum.</p>
+        <p>Bibliographer: Ron Taylor, Univ. of California, Berkeley.</p>
+        <p>Editorial Assistants: Judith Wallick Page, Donna Rix, David Schnur, Sharon Stell, Univ. of New
+Mexico. Editorial assistant for subscriptions, Deborah Sackett, Univ. of New Mexico.</p>
+        <p>Manuscripts are welcome. Send two copies, typed and documented according to the forms suggested in
+the <hi rend="i">MLA Style Sheet</hi>, to either of the editors: Morris Eaves, Dept. of English, Univ. of
+N.M., Albuquerque, N.M. 87131; Morton Paley, Dept. of English, Univ. of Ca., Berkeley, Ca. 94720.</p>
+        <p>Subscriptions are $5 for 1 year, 4 issues. Special rate for individuals, $4 for 1 year, surface
+mail. For subscribers overseas who want to receive their issues by air mail, $8. U.S. currency or
+international money order if possible. Make checks payable to the <hi rend="i">Blake Newsletter.</hi> Address
+all subscription orders and related communications to Morris Eaves, Dept. of English, Univ. of New Mexico,
+Albuquerque 87131.</p>
+        <p>Some back issues are available. Address Morris Eaves. Prices: whole numbers 1-8, bound together, $5
+(special rate for individuals, $4). Whole numbers 9-13, bound together, $5 (special price for individuals,
+$4). Whole numbers 22, 23, 24, 25, 26, 27, 28, $2 each. Whole number 20 (<hi rend="i">A Handlist of Works by
+William Blake in the Department of Prints &amp; Drawings of the British Museum</hi>, ed. G. E. Bentley, Jr.),
+$3. Whole numbers 29-30, double issue on Blake among Victorians, $3. Whole number 31, with color reproduction
+of <hi rend="i">The Characters of Spenser’s Faerie Queene</hi>, $3. Whole numbers 14-19 are out of
+print.</p>
+        <p>The International Standard Serial Number of the <hi rend="i">Blake Newsletter</hi> is
+0006-453X.</p>
+        <p>Design and layout for this issue: David Schnur and Sharon Stell, University of New Mexico.</p>
+        <note type="unreferenced" place="footer">Copyright ©1975 by Morris Eaves and Morton D. Paley</note>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>10.2.golgonooza</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="news">Golgonooza</title>
+        <author n="Eldridge">Aethelred Eldridge</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Fall 1976</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1976</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake Newsletter</title>
+            <biblScope unit="volIss">10.2</biblScope>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Thomas Minnick</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>Frances A. Carey</name>
+              <resp>Editorial Assistant</resp>
+              <name>Michael Hays</name>
+              <resp>Circulation Manager</resp>
+              <name>Jane Welford</name>
+              <resp>Contributors</resp>
+              <name>Mary Baine</name>
+              <name>Rodney Baine</name>
+              <name>Robert N. Essick</name>
+              <name>Thomas Minnick</name>
+              <name>Judith Ott</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of New Mexico</publisher>
+            <pubPlace>Albuquerque, NM, USA</pubPlace>
+            <date when="1976"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textDesc n="Scholarly journal">
+        <constitution type="composite"/>
+        <domain type="education"/>
+      </textDesc>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_10">
+    <body>
+      <div1 id="BQ-10-2-0003">
+        <div2>
+				<pb id="p10-47" n="47"/>
+                <head>
+					<title type="main">Golgonooza</title>
+                </head>
+                <figure n="aethel-gram.10.2.bqscan" rend="file" width="469" height="1000">
+                	<figTranscr>AEthel-gram There is only one endangered species: Me!<lb/>
+					And I have sent Arrows persevering in attempt upon the<lb/>
+					Individual’s Life – which return, for the most part, bloodied.<lb/>
+					BLAKE published to the Angels – a mean telepath, He—<lb/>
+					They bereft of Messages selecting furtherance upon the<lb/>
+					Certain Songs of Steadfast Man. Hear the obvious: Jeru-<lb/>
+					Salem, yet awhile, lies in ruins. And Hear again what will<lb/>
+					Be seen: The Serpent Temple writhing in the Dusty<lb/>
+					Clouds of ALBION comes – though the invisible pricking-<lb/>
+					Up of Angelic ears must fail to catch the dronish<lb/>
+					Motor’s hum. Sleep yet, my darlings; ’til the awful Hand.<lb/>
+					<lb/>
+					What a Secret! Nothing is of Consequence! Health and<lb/>
+					Beauty aids, rainbows hard upon the Midnight meet—<lb/>
+					Go! And what is left? No one hears a Knock upon<lb/>
+					The Door without its apprehension. How many cells<lb/>
+					In your Body take stock, believing in their Flesh?<lb/>
+					ALBION is not a Corporate Entity. Awake! I am buried<lb/>
+					Literally in one Sportive Cell—that the children of<lb/>
+					Jerusalem may become the Children of Los.</figTranscr>
+                </figure>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

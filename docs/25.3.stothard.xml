@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>25.3.stothard</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="minute">Six Illustrations by Stothard</title>
+        <author n="Gourlay">Alexander S. Gourlay</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Winter 1991/1992</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1991/92</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">25.3</biblScope>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="issue">3</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Bibliographer</resp>
+              <name>Detlef W. Dörrbecker</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Contributors</resp>
+              <name>Robert N. Essick</name>
+              <name>Eugenie R. Freed</name>
+              <name>Alexander S. Gourlay</name>
+              <name>David Groves</name>
+              <name>Christopher Heppner</name>
+              <name>Jenijoy La Belle</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date when="1986"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_25">
+    <body>
+      <div1 id="BQ-25-3-0008">
+        <pb id="p25-135" n="135"/>
+        <div2>
+          <head>
+            <title type="main">Six Illustrations by Stothard</title>
+          </head>
+          <byline>
+            <docAuthor>Alexander S. <name>Gourlay</name></docAuthor>
+          </byline>
+          <p>In his thorough review of Shelley M. Bennett’s <hi rend="i">Thomas Stothard: The Mechanisms of
+Art Patronage in England circa 1800</hi> (<hi rend="i">Blake</hi> 23 [1989]: 205-09) G. E. Bentley, Jr.
+invited readers to send in any addenda to <hi rend="i">his</hi> addenda to Bennett’s list of Stothard
+illustrations. An edition of <hi rend="i">The Tatler: with Illustrations and Notes</hi> contains what are
+probably the six illustrations for an “unknown author and title . . . For Rivington” in Bennett’s list
+under the year 1785 (67). The six plates, one in each of six volumes, are inscribed “Publish’d Decr. 1st
+1785 by J Rivington &amp; Son’s St. Pauls Church Yard London. for the Proprietor’s,” and were engraved
+by Heath, Collyer, and Cook. The place of each in the text is marked at the top of the plate. The book itself
+was published in London in 1786 by a long list of parties, beginning with “C. Bathhurst” and including
+both Rivington and Joseph Johnson along with 23 others. Robert N. Essick notes in a private letter that the
+subjects of these plates are described in A. C. Coxhead’s <hi rend="i">Thomas Stothard, R. A.</hi> (London:
+A. H. Bullen, [1906] 172-73); he suggests that Coxhead was working from extracted plates in the Balmanno
+Collection, British Museum.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

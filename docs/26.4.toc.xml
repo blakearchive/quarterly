@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader type="BQ_Documents, vols. 1-43" status="new">
+    <idno>26.4.toc</idno>
+    <fileDesc>
+      <titleStmt>
+        <title type="toc">Contents</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Spring 1993</edition>
+      </editionStmt>
+      <publicationStmt>
+        <date>1993</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Blake/An Illustrated Quarterly</title>
+            <biblScope unit="volIss">26.4</biblScope>
+            <biblScope unit="volume">26</biblScope>
+            <biblScope unit="issue">4</biblScope>
+            <respStmt>
+              <resp>Editors</resp>
+              <name>Morris Eaves</name>
+              <name>Morton D. Paley</name>
+              <resp>Managing Editor</resp>
+              <name>Patricia Neill</name>
+              <resp>Bibliographer</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <resp>Review Editor</resp>
+              <name>Nelson Hilton</name>
+              <resp>Associate Editor for Great Britain</resp>
+              <name>David Worrall</name>
+              <resp>Contributors</resp>
+              <name>G.E. Bentley, Jr.</name>
+              <name>Robert N. Essick</name>
+              <name>Morton D. Paley</name>
+              <name>Margaret Storch</name>
+              <name>John Vice</name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of English, University of Rochester</publisher>
+            <pubPlace>Rochester, NY, USA</pubPlace>
+            <date value="1993"/>
+            <authority>William Blake Archive</authority>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text id="volume_26">
+    <front>
+      <pb id="p26-137-138" n="137-138"/>
+      <div1 id="cover">
+        <figure n="cover.026.04.bqscan" rend="file" width="258" height="336">
+          <figTranscr>Blake<lb/>
+            AN ILLUSTRATED QUARTERLY<lb/>
+            VOLUME 26<lb/>
+            NUMBER 4<lb/>
+            SPRING 1993</figTranscr>
+        </figure>
+      </div1>
+      <div1 id="BQ-26-4-0001">     
+        <table id="contents" rows="13" cols="2">
+          <row>
+            <cell>
+			  <head>
+          		<title>
+            	  <hi rend="b">
+              		<hi rend="i">Contents</hi>
+            	  </hi>
+          		</title>
+        	  </head>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Article</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.essick">Blake in the Marketplace, 1992</ref><lb/>
+by Robert N. Essick</cell>
+            <cell>140</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Minute Particulars</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.cromek">Cromek’s Lost Letter about Blake’s Grave
+Designs</ref><lb/>
+G. E. Bentley, Jr.</cell>
+            <cell>160</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Discussion</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.storch">Blake and Women: A Reply to Nelson Hilton</ref><lb/>
+Margaret Storch</cell>
+            <cell>161</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Reviews</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.vice">William Blake—A Man Without Marx</ref><lb/>
+Review Essay by John Vice</cell>
+            <cell>162</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.paley">David Bintley’s <hi rend="i">Job</hi> at the San
+Francisco Ballet, 17 March 1992</ref><lb/>
+Reviewed by Morton D. Paley</cell>
+            <cell>166</cell>
+          </row>
+          <row>
+            <cell><ref type="article" issue="26.4.bentley">Blake as Craftsman and Artist: Two Exhibitions in
+Japan</ref><lb/>
+Reviewed by G. E. Bentley, Jr.</cell>
+            <cell>168</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="b">
+                <hi rend="i">Newsletter</hi>
+              </hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+            	<ref type="article" issue="26.4.ephemera"><hi rend="i">Blake Ephemera</hi></ref>, 
+            	<ref type="article" issue="26.4.illuminated">The Illuminated Blake 
+<hi rend="i">Returns</hi></ref>, 
+            	<ref type="article" issue="26.4.lecture">Songs <hi rend="i">Lecture</hi></ref>, 
+            	<ref type="article" issue="26.4.seminar"><hi rend="i">NEH Summer Seminar</hi></ref>, 
+            	<ref type="article" issue="26.4.passion"><hi rend="i">Power and Passion in William
+Blake</hi></ref>, 
+            	<ref type="article" issue="26.4.news"><hi rend="i">Blake Society News</hi></ref>
+            </cell>
+            <cell>171</cell>
+          </row>
+        </table>
+        <p>Cover: <hi rend="i">William Blake and Other Portrait Studies</hi>, attributed to Thomas Phillips
+(1770-1845). For details, see page 148. Photo courtesy of Sotheby’s London. 
+<note type="unreferenced" place="footer">© 1993 Copyright Morris Eaves and Morton D. Paley</note></p>
+      </div1>
+      <pb id="p26-139" n="139"/>
+      <div1 id="BQ-26-4-0002">
+        <head>
+          <title>
+            <hi rend="i">CONTRIBUTORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">G. E. BENTLEY, JR.</hi>, of the University of Toronto, works with his wife, Dr. E.B.
+Bentley on Blake biography, <corr type="emend">bibliography,</corr> and editions and illustrated books of
+Blake’s time.</p>
+        <p><hi rend="b">ROBERT N. ESSICK</hi> is the co-editor of <hi rend="i">William Blake: The Early
+Illuminated Books</hi> (with Morris Eaves and Joseph Viscomi) and <hi rend="i">William Blake: Milton and the
+Final Illuminated Works</hi> (with Joseph Viscomi), vols. 3 and 5 in the new Blake Trust series (forthcoming
+late 1993).</p>
+        <p><hi rend="b">MORTON D. PALEY</hi> is co-editor of <hi rend="i">Blake.</hi> He recently edited 
+<hi rend="i">The Last Man</hi> by Mary Shelley for Oxford World’s Classics.</p>
+        <p><hi rend="b">MARGARET STORCH</hi> is the author of <hi rend="i">Sons and Adversaries: Women in
+William Blake and D. H. Lawrence</hi>, and is a member of the Commonwealth of Massachusetts Higher Education
+Coordinating Council. She is currently working on motifs in the visual art of Blake and of D. H. Lawrence.</p>
+        <p><hi rend="b">JOHN VICE</hi> works in the House of Commons for <hi rend="i">Hansard</hi>, the
+Official Report. He is currently writing a full-length biography of Jacob Bronowski.</p>
+      </div1>
+      <div1 id="BQ-26-4-0003">
+        <head>
+          <title>
+            <hi rend="i">EDITORS</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Editors:</hi> Morris Eaves, University of Rochester, and Morton D. Paley, University
+of California, Berkeley.</p>
+        <p><hi rend="b">Bibliographer:</hi> G. E. Bentley, Jr., Department of English, University College,
+University of Toronto, Toronto 5, Canada.</p>
+        <p><hi rend="b">Review Editor:</hi> Nelson Hilton, University of Georgia, Athens.</p>
+        <p><hi rend="b">Associate Editor for Great Britain:</hi> David Worrall, St. Mary’s College.</p>
+        <p><hi rend="b">Production Office:</hi> Morris Eaves, Department of English, University of Rochester,
+Rochester, NY 14627.</p>
+        <p><hi rend="b">Telephone:</hi> 716/275-3820.<lb/>
+<hi rend="b">Fax:</hi> 716/442-5769.<lb/>
+<hi rend="b">E-mail:</hi><lb/>
+Morris Eaves<lb/>
+MEAV@DB1.CC.ROCHESTER.EDU<lb/>
+Patricia Neill<lb/>
+PNPJ@DB1.CC.ROCHESTER.EDU</p>
+        <p>Morton D. Paley, Department of English, University of California, Berkeley, CA 94720.</p>
+        <p>G. E. Bentley, Jr., Department of English, University College, University of Toronto, Toronto 5,
+Canada.</p>
+        <p>Nelson Hilton, Department of English, University of Georgia, Athens, GA 30602.</p>
+        <p>David Worrall, St. Mary’s College, Strawberry Hill, Waldegrave Road, Twickenham TW1 4SX,
+England.</p>
+      </div1>
+      <div1 id="BQ-26-4-0004">
+        <head>
+          <title>
+            <hi rend="i">INFORMATION</hi>
+          </title>
+        </head>
+        <p><hi rend="b">Managing Editor:</hi> Patricia Neill</p>
+        <p><hi rend="b">Blake/An Illustrated Quarterly</hi> is published under the sponsorship of the
+Department of English, University of Rochester.</p>
+        <p><hi rend="b">Subscriptions</hi> are $50 for institutions, $25 for individuals. All subscriptions
+are by the volume (1 year, 4 issues) and begin with the summer issue. Subscription payments received after the
+summer issue will be applied to the 4 issues of the current volume. Foreign addresses (except Canada and
+Mexico) require a $8 per volume postal surcharge for surface mail, a $18 per volume surcharge for air mail
+delivery. U.S. currency or international money order necessary. Make checks payable to <hi rend="i">Blake/An
+Illustrated Quarterly.</hi> Address all subscription orders and related communications to Patricia Neill, 
+<hi rend="i">Blake</hi>, Department of English, University of Rochester, Rochester, NY 14627.</p>
+        <p>Many <hi rend="b">back issues</hi> are available at a reduced price. Address Patricia Neill for a
+list of issues and prices.</p>
+        <p><hi rend="b">Manuscripts</hi> are welcome. Send two copies, typed and documented according to the
+forms suggested in <hi rend="i">The MLA Style Manual</hi>, to either of the editors: Morris Eaves, Dept. of
+English, University of Rochester, Rochester, NY 14627; Morton D. Paley, Dept. of English, University of
+California, Berkeley, CA 94720. Only one copy will be returned to authors.</p>
+        <p><hi rend="b">International Standard Serial Number:</hi> 0160-628x. <hi rend="i">Blake/An
+Illustrated Quarterly</hi> is <hi rend="b">indexed</hi> in the Modern Language Association’s International
+Bibliography, the Modern Humanities Research Association’s Annual Bibliography of English Language and
+Literature, <hi rend="i">The Romantic Movement: A Selective and Critical Bibliography</hi> (ed. David V.
+Erdman et al.), American Humanities Index, the Arts and Humanities Citation Index, and Current Contents.</p>
+      </div1>
+    </front>
+  </text>
+</TEI.2>

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Illustrations Index</h2>
+    <p>Browse all illustrations</p>
+</div>
+
+<div class="articles-list">
+    {% for doc in documents %}
+    <div class="article-item">
+        <div class="article-meta">
+            {% if doc.vol_iss %}
+            <span class="vol-iss">Vol. {{ doc.vol_iss }}</span>
+            {% endif %}
+        </div>
+        <h3>
+            {% if doc.html_path %}
+            <a href="/hdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+            {% elif doc.xml_path %}
+            <a href="/xdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+            {% else %}
+            {{ doc.title or doc.idno }}
+            {% endif %}
+        </h3>
+        {% if doc.author %}
+        <p class="author">{{ doc.author }}</p>
+        {% endif %}
+        {% if doc.season_year %}
+        <p class="date">{{ doc.season_year }}</p>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+
+{% if not documents %}
+<p class="no-results">No illustrations found.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Issue Archive</h2>
+    <p>Browse all issues of Blake/An Illustrated Quarterly</p>
+</div>
+
+<div class="issues-container">
+    {% for decade in grouped_documents.keys() | sort(reverse=True) %}
+    <div class="decade-group">
+        <h3 class="decade-header">Volume {{ decade }}-{{ decade + 9 }}</h3>
+        <div class="issues-grid">
+            {% for doc in grouped_documents[decade] %}
+            <div class="issue-card">
+                <div class="issue-info">
+                    <h4>Volume {{ doc.volume }}, Issue {{ doc.issue }}</h4>
+                    {% if doc.season_year %}
+                    <p class="season">{{ doc.season_year }}</p>
+                    {% endif %}
+                </div>
+                <div class="issue-links">
+                    {% if doc.html_path %}
+                    <a href="/hdoc/{{ doc.idno }}" class="btn">HTML</a>
+                    {% endif %}
+                    {% if doc.xml_path %}
+                    <a href="/xdoc/{{ doc.idno }}" class="btn">XML</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

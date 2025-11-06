@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Articles Index</h2>
+    <p>Browse all articles, reviews, and other content</p>
+</div>
+
+<div class="sort-controls">
+    <label>Sort by:</label>
+    <a href="/articles?sort=author" class="{% if sort == 'author' %}active{% endif %}">Author</a>
+    <a href="/articles?sort=title" class="{% if sort == 'title' %}active{% endif %}">Title</a>
+    <a href="/articles?sort=date" class="{% if sort == 'date' %}active{% endif %}">Date</a>
+    <a href="/articles?sort=type" class="{% if sort == 'type' %}active{% endif %}">Type</a>
+</div>
+
+<div class="articles-list">
+    {% for doc in documents %}
+    <div class="article-item">
+        <div class="article-meta">
+            {% if doc.content_type %}
+            <span class="content-type">{{ doc.content_type }}</span>
+            {% endif %}
+            {% if doc.vol_iss %}
+            <span class="vol-iss">Vol. {{ doc.vol_iss }}</span>
+            {% endif %}
+        </div>
+        <h3>
+            {% if doc.html_path %}
+            <a href="/hdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+            {% elif doc.xml_path %}
+            <a href="/xdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+            {% else %}
+            {{ doc.title or doc.idno }}
+            {% endif %}
+        </h3>
+        {% if doc.author %}
+        <p class="author">By {{ doc.author }}</p>
+        {% endif %}
+        {% if doc.season_year %}
+        <p class="date">{{ doc.season_year }}</p>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+
+{% if not documents %}
+<p class="no-results">No articles found.</p>
+{% endif %}
+{% endblock %}

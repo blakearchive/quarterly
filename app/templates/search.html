@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Search</h2>
+</div>
+
+<div class="search-form">
+    <form method="get" action="/search">
+        <div class="form-group">
+            <input type="text" name="q" value="{{ query }}" placeholder="Enter search terms..." class="search-input">
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>Search in:</label>
+                <select name="field">
+                    <option value="fulltext" {% if field == 'fulltext' %}selected{% endif %}>Full Text</option>
+                    <option value="title" {% if field == 'title' %}selected{% endif %}>Title</option>
+                    <option value="author" {% if field == 'author' %}selected{% endif %}>Author</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Content Type:</label>
+                <select name="content_type">
+                    <option value="all" {% if content_type == 'all' %}selected{% endif %}>All Types</option>
+                    <option value="article" {% if content_type == 'article' %}selected{% endif %}>Articles</option>
+                    <option value="review" {% if content_type == 'review' %}selected{% endif %}>Reviews</option>
+                    <option value="poem" {% if content_type == 'poem' %}selected{% endif %}>Poems</option>
+                    <option value="news" {% if content_type == 'news' %}selected{% endif %}>News</option>
+                    <option value="correction" {% if content_type == 'correction' %}selected{% endif %}>Corrections</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Sort by:</label>
+                <select name="sort">
+                    <option value="relevance" {% if sort == 'relevance' %}selected{% endif %}>Relevance</option>
+                    <option value="date" {% if sort == 'date' %}selected{% endif %}>Date</option>
+                    <option value="author" {% if sort == 'author' %}selected{% endif %}>Author</option>
+                </select>
+            </div>
+        </div>
+
+        <button type="submit" class="btn-primary">Search</button>
+    </form>
+</div>
+
+{% if query %}
+<div class="search-results">
+    <p class="results-count">Found {{ total }} result{% if total != 1 %}s{% endif %} for "{{ query }}"</p>
+
+    {% if results %}
+    <div class="articles-list">
+        {% for doc in results %}
+        <div class="article-item search-result">
+            <div class="article-meta">
+                {% if doc.content_type %}
+                <span class="content-type">{{ doc.content_type }}</span>
+                {% endif %}
+                {% if doc.vol_iss %}
+                <span class="vol-iss">Vol. {{ doc.vol_iss }}</span>
+                {% endif %}
+            </div>
+            <h3>
+                {% if doc.html_path %}
+                <a href="/hdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+                {% elif doc.xml_path %}
+                <a href="/xdoc/{{ doc.idno }}">{{ doc.title or doc.idno }}</a>
+                {% else %}
+                {{ doc.title or doc.idno }}
+                {% endif %}
+            </h3>
+            {% if doc.author %}
+            <p class="author">By {{ doc.author }}</p>
+            {% endif %}
+            {% if doc.season_year %}
+            <p class="date">{{ doc.season_year }}</p>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if total_pages > 1 %}
+    <div class="pagination">
+        {% if page > 1 %}
+        <a href="/search?q={{ query }}&field={{ field }}&content_type={{ content_type }}&sort={{ sort }}&page={{ page - 1 }}" class="btn">Previous</a>
+        {% endif %}
+
+        <span class="page-info">Page {{ page }} of {{ total_pages }}</span>
+
+        {% if page < total_pages %}
+        <a href="/search?q={{ query }}&field={{ field }}&content_type={{ content_type }}&sort={{ sort }}&page={{ page + 1 }}" class="btn">Next</a>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% else %}
+    <p class="no-results">No results found for "{{ query }}".</p>
+    {% endif %}
+</div>
+{% endif %}
+{% endblock %}

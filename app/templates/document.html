@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="document-header">
+    {% if document.title %}
+    <h2>{{ document.title }}</h2>
+    {% endif %}
+
+    <div class="document-meta">
+        {% if document.author %}
+        <p class="author">By {{ document.author }}</p>
+        {% endif %}
+
+        {% if document.vol_iss %}
+        <p class="vol-iss">Volume {{ document.vol_iss }}</p>
+        {% endif %}
+
+        {% if document.season_year %}
+        <p class="date">{{ document.season_year }}</p>
+        {% endif %}
+
+        {% if document.content_type %}
+        <p class="content-type">Type: {{ document.content_type }}</p>
+        {% endif %}
+    </div>
+
+    <div class="document-links">
+        {% if document.html_path %}
+        <a href="/hdoc/{{ document.idno }}" class="btn">HTML Version</a>
+        {% endif %}
+        {% if document.xml_path %}
+        <a href="/xdoc/{{ document.idno }}" class="btn">XML Version</a>
+        {% endif %}
+    </div>
+</div>
+
+<div class="document-content">
+    {{ content | safe }}
+</div>
+
+<div class="document-footer">
+    <a href="javascript:history.back()" class="btn">Back</a>
+</div>
+{% endblock %}

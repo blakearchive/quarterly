@@ -145,6 +145,24 @@ Available settings:
 - **production:** Only shows published content within volume/issue range
 - **development/local:** Shows all content including unpublished
 
+## Adding New Documents
+
+See **[ADDING_DOCUMENTS.md](ADDING_DOCUMENTS.md)** for a complete guide on adding new articles and issues.
+
+**Quick method:**
+```bash
+# Add a single document
+python add_document.py docs/48.4.newArticle.xml
+
+# Add multiple documents
+python add_document.py docs/*.xml
+
+# Re-index all documents
+python add_document.py --reindex-all
+```
+
+Example template document is provided in `example_document.xml`.
+
 ## Features
 
 ### 1. Issue Archive (`/`)

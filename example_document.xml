@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Example Document for Blake Quarterly
+
+    This is a template for creating new articles.
+
+    Filename format: {volume}.{issue}.{slug}.xml
+    Example: 48.4.smith-blake.xml
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Your Article Title Here</title>
+                <author>Author Name</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Blake/An Illustrated Quarterly</publisher>
+                <date value="20240621">Summer 2024</date>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="article">
+                <!--
+                    Content types:
+                    article, review, news, poem, correction, minute,
+                    query, remembrance, discussion, illus, toc
+                -->
+
+                <head>Your Article Title Here</head>
+
+                <byline>by <docAuthor>Author Name</docAuthor></byline>
+
+                <p>This is the first paragraph of your article. You can include
+                standard TEI markup for formatting.</p>
+
+                <p>Additional paragraphs continue here. You can use common TEI
+                elements like:</p>
+
+                <list>
+                    <item><hi rend="italic">Emphasized text</hi> with &lt;hi rend="italic"&gt;</item>
+                    <item><hi rend="bold">Bold text</hi> with &lt;hi rend="bold"&gt;</item>
+                    <item><q>Quoted text</q> with &lt;q&gt;</item>
+                    <item><title>Titles</title> with &lt;title&gt;</item>
+                </list>
+
+                <div2>
+                    <head>Section Heading</head>
+                    <p>You can include subsections using div2 elements.</p>
+                </div2>
+
+                <div2>
+                    <head>Another Section</head>
+                    <p>Continue your content with proper structure.</p>
+
+                    <lg>
+                        <l>Poetry lines can be included</l>
+                        <l>Using the line group (lg) element</l>
+                        <l>With individual lines (l)</l>
+                    </lg>
+                </div2>
+
+                <div2>
+                    <head>Notes and References</head>
+                    <p>You can include footnotes and references as needed.</p>
+                </div2>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

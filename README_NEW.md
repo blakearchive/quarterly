@@ -147,6 +147,8 @@ Available settings:
 
 ## Adding New Documents
 
+### Individual Articles
+
 See **[ADDING_DOCUMENTS.md](ADDING_DOCUMENTS.md)** for a complete guide on adding new articles and issues.
 
 **Quick method:**
@@ -162,6 +164,29 @@ python add_document.py --reindex-all
 ```
 
 Example template document is provided in `example_document.xml`.
+
+### Splitting Full-Issue Files
+
+If you have a complete issue as **one PDF or HTML file**, you can automatically split it into individual articles.
+
+See **[SPLITTING_ISSUES.md](SPLITTING_ISSUES.md)** for complete guide.
+
+**Quick method:**
+```bash
+# 1. Create configuration file (see example_split_config.yaml)
+# 2. Run splitter
+python split_issue.py --config my_issue.yaml
+
+# This will:
+# - Split PDF/HTML into individual article files
+# - Generate XML metadata for each article
+# - Add all articles to database automatically
+```
+
+**Use cases:**
+- Processing scanned PDFs of complete issues
+- Converting single-file HTML exports to individual articles
+- Batch importing multiple articles at once
 
 ## Features
 

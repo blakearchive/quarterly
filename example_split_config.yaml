@@ -1,0 +1,85 @@
+# Example configuration for splitting a full-issue PDF or HTML file
+# into individual articles
+
+# Source file (PDF or HTML containing the entire issue)
+source_file: "issue_48_4_full.pdf"  # or "issue_48_4_full.html"
+source_type: "pdf"  # or "html"
+
+# Issue metadata
+volume: 48
+issue: 4
+date: "20240621"  # YYYYMMDD format
+date_text: "Summer 2024"
+
+# List of articles to extract
+articles:
+  # Table of Contents
+  - slug: "toc"
+    title: "Volume 48, Issue 4 - Table of Contents"
+    type: "toc"
+    pages: "1-2"  # For PDF: page range (1-indexed)
+    # For HTML, use one of these instead:
+    # selector: "div.toc"  # CSS selector
+    # id: "table-of-contents"  # Element ID
+    # start_marker: "<!-- TOC START -->"  # Text markers
+    # end_marker: "<!-- TOC END -->"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+  # Article 1
+  - slug: "smith-blake-influence"
+    title: "Blake's Influence on Modern Poetry"
+    author: "Sarah Smith"
+    type: "article"
+    pages: "3-15"  # PDF pages 3-15
+    # For HTML:
+    # selector: "article#blake-influence"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+  # Article 2
+  - slug: "jones-review-new-edition"
+    title: "Review: New Edition of Jerusalem"
+    author: "Michael Jones"
+    type: "review"
+    pages: "16-20"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+  # Article 3
+  - slug: "brown-illuminated-manuscripts"
+    title: "Blake's Illuminated Manuscripts: A Technical Analysis"
+    author: "Emily Brown"
+    type: "article"
+    pages: "21-35"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+  # Poem
+  - slug: "davis-homage-blake"
+    title: "Homage to Blake"
+    author: "Robert Davis"
+    type: "poem"
+    pages: "36-37"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+  # News section
+  - slug: "news"
+    title: "Blake Society News"
+    type: "news"
+    pages: "38-40"
+    volume: 48
+    issue: 4
+    date: "20240621"
+
+# Notes:
+# - For PDFs: Use 'pages' field with format "start-end" (e.g., "3-15")
+# - For HTML: Use 'selector', 'id', or 'start_marker'/'end_marker'
+# - Content types: article, review, news, poem, correction, minute, query,
+#                  remembrance, discussion, illus, toc

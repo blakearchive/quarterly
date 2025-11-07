@@ -255,42 +255,54 @@ pytest
 
 ## Deployment
 
-### Production Setup
+### Do You Need Infrastructure Changes?
 
-1. Update `.env` with production settings:
-   ```
-   ENVIRONMENT=production
-   DEBUG=False
-   DATABASE_URL=postgresql://user:pass@prod-host:5432/dbname
-   ```
+**Yes, but they're straightforward and result in a SIMPLER setup.**
 
-2. Use a production ASGI server:
+See detailed guides:
+- **[INFRASTRUCTURE_COMPARISON.md](INFRASTRUCTURE_COMPARISON.md)** - What changes, what stays the same
+- **[DEPLOYMENT.md](DEPLOYMENT.md)** - Complete step-by-step deployment guide
+
+### Quick Summary
+
+**Need to add:**
+- Python 3.9+ runtime
+- PostgreSQL database
+- Reverse proxy configuration
+
+**Can remove:**
+- PHP and PHP-FPM
+- Apache Solr (no longer needed!)
+
+**Result:** Simpler infrastructure with one less service to manage.
+
+### Quick Production Deployment
+
+1. **Install dependencies:**
    ```bash
-   pip install gunicorn
-   gunicorn app.main:app -w 4 -k uvicorn.workers.UvicornWorker
+   sudo apt install python3 python3-pip postgresql nginx
    ```
 
-3. Use a reverse proxy (Nginx/Apache) in front of the application.
+2. **Setup database:**
+   ```bash
+   sudo -u postgres createdb blake_quarterly
+   sudo -u postgres createuser blake -P
+   ```
 
-4. Set up SSL/TLS certificates.
+3. **Deploy application:**
+   ```bash
+   cd /var/www/quarterly
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt gunicorn
+   python -m app.indexer
+   ```
 
-### systemd Service Example
+4. **Create systemd service** (see DEPLOYMENT.md for complete config)
 
-```ini
-[Unit]
-Description=Blake Quarterly FastAPI Application
-After=network.target
+5. **Configure Nginx** to proxy to port 8000 (see DEPLOYMENT.md for complete config)
 
-[Service]
-User=www-data
-Group=www-data
-WorkingDirectory=/var/www/quarterly
-Environment="PATH=/var/www/quarterly/venv/bin"
-ExecStart=/var/www/quarterly/venv/bin/gunicorn app.main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
-
-[Install]
-WantedBy=multi-user.target
-```
+**Full instructions with all configuration files:** See [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ## Maintenance
 
